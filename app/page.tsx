@@ -5,6 +5,7 @@ import { ThemeToggle } from "@/components/theme-toggle";
 import { LanguageToggle } from "@/components/language-toggle";
 import { ChatWindow } from "@/components/chat-window";
 import { TechStack } from "@/components/tech-stack";
+import { AssetShowcase } from "@/components/asset-showcase";
 import { SocialChannels, AuthProviders } from "@/components/social-channels";
 import { Sparkles, MessageSquare, Zap, FileText, CreditCard } from "lucide-react";
 
@@ -88,6 +89,9 @@ export default function Home() {
           </div>
         </div>
       </main>
+
+      {/* Asset Portfolio */}
+      <AssetShowcase />
 
       {/* Footer - Unified Section */}
       <footer className="border-t border-white/10 bg-gradient-to-b from-transparent to-black/30">
