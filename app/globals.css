@@ -1,12 +1,37 @@
 @import "tailwindcss";
 
-:root {
+/* 深色模式（默認）*/
+:root,
+[data-theme="dark"] {
   --background: #0a0a0a;
   --foreground: #ededed;
   --card: #0f0f0f;
   --card-foreground: #ededed;
   --primary: #06b6d4;
   --primary-foreground: #0a0a0a;
+  --accent: #8b5cf6;
+}
+
+/* 暖色模式 */
+[data-theme="warm"] {
+  --background: #fef3c7;
+  --foreground: #78350f;
+  --card: #fef9e7;
+  --card-foreground: #78350f;
+  --primary: #f59e0b;
+  --primary-foreground: #ffffff;
+  --accent: #fb923c;
+}
+
+/* 冷色模式 */
+[data-theme="cool"] {
+  --background: #dbeafe;
+  --foreground: #1e3a8a;
+  --card: #eff6ff;
+  --card-foreground: #1e3a8a;
+  --primary: #3b82f6;
+  --primary-foreground: #ffffff;
+  --accent: #60a5fa;
 }
 
 @theme inline {
