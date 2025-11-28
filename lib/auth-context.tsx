@@ -51,14 +51,24 @@ export function AuthProvider({ children }: { children: React.ReactNode }) {
 
   // 監聽認證狀態
   useEffect(() => {
+    // 防禦性檢查：如果 Firebase 未初始化（Build Time），直接返回
+    if (!auth || !db) {
+      setLoading(false);
+      return;
+    }
+
     const unsubscribe = onAuthStateChanged(auth, async (user) => {
       setUser(user);
       
-      if (user) {
+      if (user && db) {
         // 獲取用戶數據
-        const userDoc = await getDoc(doc(db, "users", user.uid));
-        if (userDoc.exists()) {
-          setUserData(userDoc.data() as UserData);
+        try {
+          const userDoc = await getDoc(doc(db, "users", user.uid));
+          if (userDoc.exists()) {
+            setUserData(userDoc.data() as UserData);
+          }
+        } catch (error) {
+          console.warn('Failed to fetch user data:', error);
         }
       } else {
         setUserData(null);
@@ -72,6 +82,7 @@ export function AuthProvider({ children }: { children: React.ReactNode }) {
 
   // Email 登錄
   const signInWithEmail = async (email: string, password: string) => {
+    if (!auth) throw new Error('Firebase not initialized');
     try {
       await signInWithEmailAndPassword(auth, email, password);
     } catch (error: any) {
@@ -81,6 +92,8 @@ export function AuthProvider({ children }: { children: React.ReactNode }) {
 
   // Email 註冊
   const signUpWithEmail = async (email: string, password: string, inviteCode: string) => {
+    if (!auth || !db) throw new Error('Firebase not initialized');
+    
     // 驗證邀請碼
     if (!VALID_INVITE_CODES.includes(inviteCode)) {
       throw new Error('Invalid invite code');
