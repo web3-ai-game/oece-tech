@@ -40,17 +40,12 @@ const authProviders = [
 
 export function SocialChannels() {
   return (
-    <div className="py-8 border-t border-white/5">
-      <div className="max-w-6xl mx-auto px-4 text-center">
-        <span className="text-[10px] font-mono text-gray-600 uppercase">📢 Omni-Channel</span>
-        <div className="flex flex-wrap justify-center gap-4 mt-4">
-          {socialChannels.map((item) => (
-            <item.icon key={item.name} className="w-5 h-5 hover:scale-110 transition-transform cursor-pointer" style={{ color: item.color }} title={item.name} />
-          ))}
-        </div>
-        <div className="mt-3 text-[10px] text-gray-600">
-          🔥 <span className="text-blue-400">TG</span> · <span className="text-pink-400">IG</span> | 📹 YouTube · TikTok | 💼 Slack · Notion
-        </div>
+    <div className="py-6 text-center">
+      <span className="text-[10px] font-mono text-gray-500 uppercase">📢 Omni-Channel Marketing</span>
+      <div className="flex flex-wrap justify-center gap-5 mt-3">
+        {socialChannels.map((item) => (
+          <item.icon key={item.name} className="w-6 h-6 hover:scale-125 transition-transform cursor-pointer" style={{ color: item.color }} title={item.name} />
+        ))}
       </div>
     </div>
   );
@@ -58,19 +53,17 @@ export function SocialChannels() {
 
 export function AuthProviders() {
   return (
-    <div className="py-6 border-t border-white/5">
-      <div className="max-w-6xl mx-auto px-4 text-center">
-        <span className="text-[10px] font-mono text-orange-400 uppercase">🔥 Firebase Auth · 全棧登錄</span>
-        <div className="flex flex-wrap justify-center gap-4 mt-4">
-          {authProviders.map((item) => (
-            <item.icon key={item.name} className="w-4 h-4 hover:scale-110 transition-transform cursor-pointer" style={{ color: item.color }} title={item.name} />
-          ))}
-        </div>
-        <div className="flex justify-center gap-4 mt-3 text-[10px] text-gray-600">
-          <span><span className="inline-block w-1.5 h-1.5 rounded-full bg-green-500 mr-1" />Native</span>
-          <span><span className="inline-block w-1.5 h-1.5 rounded-full bg-blue-400 mr-1" />OAuth</span>
-          <span><span className="inline-block w-1.5 h-1.5 rounded-full bg-purple-400 mr-1" />SSO</span>
-        </div>
+    <div className="py-6 text-center">
+      <span className="text-[10px] font-mono text-orange-400 uppercase">🔐 全棧登錄支持</span>
+      <div className="flex flex-wrap justify-center gap-5 mt-3">
+        {authProviders.map((item) => (
+          <item.icon key={item.name} className="w-5 h-5 hover:scale-125 transition-transform cursor-pointer" style={{ color: item.color }} title={item.name} />
+        ))}
+      </div>
+      <div className="flex justify-center gap-4 mt-2 text-[9px] text-gray-600">
+        <span><span className="inline-block w-1.5 h-1.5 rounded-full bg-green-500 mr-1" />Native</span>
+        <span><span className="inline-block w-1.5 h-1.5 rounded-full bg-blue-400 mr-1" />OAuth</span>
+        <span><span className="inline-block w-1.5 h-1.5 rounded-full bg-purple-400 mr-1" />SSO</span>
       </div>
     </div>
   );
