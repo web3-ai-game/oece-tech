@@ -3,6 +3,7 @@
 import Link from "next/link";
 import { ThemeToggle } from "@/components/theme-toggle";
 import { LanguageToggle } from "@/components/language-toggle";
+import { TokenMeter } from "@/components/token-meter";
 import { ChatWindow } from "@/components/chat-window";
 import { TechStack } from "@/components/tech-stack";
 import { AssetShowcase } from "@/components/asset-showcase";
@@ -27,6 +28,7 @@ export default function Home() {
             <Link href="/pricing" className="px-3 py-1.5 text-sm hover:text-[var(--primary)] transition-colors">
               Pricing
             </Link>
+            <TokenMeter />
             <LanguageToggle />
             <ThemeToggle />
             <Link href="/login" className="px-3 py-1.5 text-sm hover:text-[var(--primary)] transition-colors">
