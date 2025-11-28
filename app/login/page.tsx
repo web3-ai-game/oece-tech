@@ -5,14 +5,57 @@ import Link from "next/link";
 import { Sparkles, Mail, Lock, Github, Chrome } from "lucide-react";
 import { SiGoogle, SiGithub, SiApple } from "react-icons/si";
 
+import { useAuth } from "@/lib/auth-context";
+import { useRouter } from "next/navigation";
+
 export default function LoginPage() {
   const [email, setEmail] = useState("");
   const [password, setPassword] = useState("");
+  const [error, setError] = useState("");
+  const [loading, setLoading] = useState(false);
+  
+  const { signInWithEmail, signInWithGoogle, signInWithGithub } = useAuth();
+  const router = useRouter();
 
-  const handleLogin = (e: React.FormEvent) => {
+  const handleLogin = async (e: React.FormEvent) => {
     e.preventDefault();
-    // TODO: Firebase Auth 登錄邏輯
-    console.log("Login:", { email, password });
+    setError("");
+    setLoading(true);
+    
+    try {
+      await signInWithEmail(email, password);
+      router.push("/profile");
+    } catch (err: any) {
+      setError(err.message);
+    } finally {
+      setLoading(false);
+    }
+  };
+  
+  const handleGoogleLogin = async () => {
+    setError("");
+    setLoading(true);
+    try {
+      await signInWithGoogle();
+      router.push("/profile");
+    } catch (err: any) {
+      setError(err.message);
+    } finally {
+      setLoading(false);
+    }
+  };
+  
+  const handleGithubLogin = async () => {
+    setError("");
+    setLoading(true);
+    try {
+      await signInWithGithub();
+      router.push("/profile");
+    } catch (err: any) {
+      setError(err.message);
+    } finally {
+      setLoading(false);
+    }
   };
 
   return (
@@ -34,19 +77,30 @@ export default function LoginPage() {
             Sign in to access your knowledge base
           </p>
 
+          {/* Error Message */}
+          {error && (
+            <div className="mb-4 p-3 bg-red-500/10 border border-red-500/30 rounded-lg text-sm text-red-400">
+              {error}
+            </div>
+          )}
+
           {/* OAuth Buttons */}
           <div className="space-y-3 mb-6">
-            <button className="w-full flex items-center justify-center gap-3 px-4 py-3 bg-white/5 hover:bg-white/10 border border-white/10 rounded-xl transition-colors">
+            <button 
+              onClick={handleGoogleLogin}
+              disabled={loading}
+              className="w-full flex items-center justify-center gap-3 px-4 py-3 bg-white/5 hover:bg-white/10 border border-white/10 rounded-xl transition-colors disabled:opacity-50"
+            >
               <SiGoogle className="h-5 w-5" />
               <span className="text-sm font-medium">Continue with Google</span>
             </button>
-            <button className="w-full flex items-center justify-center gap-3 px-4 py-3 bg-white/5 hover:bg-white/10 border border-white/10 rounded-xl transition-colors">
+            <button 
+              onClick={handleGithubLogin}
+              disabled={loading}
+              className="w-full flex items-center justify-center gap-3 px-4 py-3 bg-white/5 hover:bg-white/10 border border-white/10 rounded-xl transition-colors disabled:opacity-50"
+            >
               <SiGithub className="h-5 w-5" />
               <span className="text-sm font-medium">Continue with GitHub</span>
-            </button>
-            <button className="w-full flex items-center justify-center gap-3 px-4 py-3 bg-white/5 hover:bg-white/10 border border-white/10 rounded-xl transition-colors">
-              <SiApple className="h-5 w-5" />
-              <span className="text-sm font-medium">Continue with Apple</span>
             </button>
           </div>
 
@@ -104,9 +158,10 @@ export default function LoginPage() {
 
             <button
               type="submit"
-              className="w-full py-3 bg-[var(--primary)] text-white rounded-xl font-medium hover:opacity-90 transition-opacity"
+              disabled={loading}
+              className="w-full py-3 bg-[var(--primary)] text-white rounded-xl font-medium hover:opacity-90 transition-opacity disabled:opacity-50"
             >
-              Sign In
+              {loading ? "Signing in..." : "Sign In"}
             </button>
           </form>
 
