@@ -5,15 +5,58 @@ import Link from "next/link";
 import { Sparkles, Mail, Lock, User, Key } from "lucide-react";
 import { SiGoogle, SiGithub, SiApple } from "react-icons/si";
 
+import { useAuth } from "@/lib/auth-context";
+import { useRouter } from "next/navigation";
+
 export default function RegisterPage() {
   const [email, setEmail] = useState("");
   const [password, setPassword] = useState("");
   const [inviteCode, setInviteCode] = useState("");
+  const [error, setError] = useState("");
+  const [loading, setLoading] = useState(false);
+  
+  const { signUpWithEmail, signInWithGoogle, signInWithGithub } = useAuth();
+  const router = useRouter();
 
-  const handleRegister = (e: React.FormEvent) => {
+  const handleRegister = async (e: React.FormEvent) => {
     e.preventDefault();
-    // TODO: Firebase Auth 註冊邏輯 + 邀請碼驗證
-    console.log("Register:", { email, password, inviteCode });
+    setError("");
+    setLoading(true);
+    
+    try {
+      await signUpWithEmail(email, password, inviteCode);
+      router.push("/profile");
+    } catch (err: any) {
+      setError(err.message);
+    } finally {
+      setLoading(false);
+    }
+  };
+  
+  const handleGoogleSignup = async () => {
+    setError("");
+    setLoading(true);
+    try {
+      await signInWithGoogle();
+      router.push("/profile");
+    } catch (err: any) {
+      setError(err.message);
+    } finally {
+      setLoading(false);
+    }
+  };
+  
+  const handleGithubSignup = async () => {
+    setError("");
+    setLoading(true);
+    try {
+      await signInWithGithub();
+      router.push("/profile");
+    } catch (err: any) {
+      setError(err.message);
+    } finally {
+      setLoading(false);
+    }
   };
 
   return (
@@ -35,13 +78,28 @@ export default function RegisterPage() {
             Join the Beta - Invite code required
           </p>
 
+          {/* Error Message */}
+          {error && (
+            <div className="mb-4 p-3 bg-red-500/10 border border-red-500/30 rounded-lg text-sm text-red-400">
+              {error}
+            </div>
+          )}
+
           {/* OAuth Buttons */}
           <div className="space-y-3 mb-6">
-            <button className="w-full flex items-center justify-center gap-3 px-4 py-3 bg-white/5 hover:bg-white/10 border border-white/10 rounded-xl transition-colors">
+            <button 
+              onClick={handleGoogleSignup}
+              disabled={loading}
+              className="w-full flex items-center justify-center gap-3 px-4 py-3 bg-white/5 hover:bg-white/10 border border-white/10 rounded-xl transition-colors disabled:opacity-50"
+            >
               <SiGoogle className="h-5 w-5" />
               <span className="text-sm font-medium">Sign up with Google</span>
             </button>
-            <button className="w-full flex items-center justify-center gap-3 px-4 py-3 bg-white/5 hover:bg-white/10 border border-white/10 rounded-xl transition-colors">
+            <button 
+              onClick={handleGithubSignup}
+              disabled={loading}
+              className="w-full flex items-center justify-center gap-3 px-4 py-3 bg-white/5 hover:bg-white/10 border border-white/10 rounded-xl transition-colors disabled:opacity-50"
+            >
               <SiGithub className="h-5 w-5" />
               <span className="text-sm font-medium">Sign up with GitHub</span>
             </button>
@@ -109,9 +167,10 @@ export default function RegisterPage() {
 
             <button
               type="submit"
-              className="w-full py-3 bg-[var(--primary)] text-white rounded-xl font-medium hover:opacity-90 transition-opacity"
+              disabled={loading}
+              className="w-full py-3 bg-[var(--primary)] text-white rounded-xl font-medium hover:opacity-90 transition-opacity disabled:opacity-50"
             >
-              Create Account
+              {loading ? "Creating account..." : "Create Account"}
             </button>
           </form>
 

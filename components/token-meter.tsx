@@ -2,18 +2,23 @@
 
 import { useState, useEffect } from "react";
 import { Zap, TrendingUp, TrendingDown } from "lucide-react";
+import { useAuth } from "@/lib/auth-context";
 
 export function TokenMeter() {
-  const [stats, setStats] = useState({
-    tokensUsed: 12450,
-    tokensFree: 9999,
-    discount: 0.15, // 15% Pro 減免
-    baseCost: 2.49, // 基礎成本
-    finalCost: 2.12, // 減免後
-  });
+  const { userData } = useAuth();
+  
+  // 如果未登錄，使用默認值
+  const tokensUsed = userData ? (9999 - userData.tokens) : 0;
+  const tokensFree = 9999;
+  const discount = 0.15; // 15% Pro 減免
+  const baseCost = (tokensUsed / 1000) * 0.14; // ฿0.14/1K
+  const finalCost = baseCost * (1 - discount);
 
-  const tokensOverFree = Math.max(0, stats.tokensUsed - stats.tokensFree);
+  const tokensOverFree = Math.max(0, tokensUsed - tokensFree);
   const isOverLimit = tokensOverFree > 0;
+  
+  // 未登錄不顯示
+  if (!userData) return null;
 
   return (
     <div className="flex items-center gap-2 px-3 py-1.5 rounded-lg bg-white/5 border border-white/10 hover:bg-white/10 transition-all cursor-pointer group">
@@ -23,11 +28,11 @@ export function TokenMeter() {
       {/* Tokens */}
       <div className="flex items-center gap-1 text-xs">
         <span className="font-mono text-gray-300">
-          {stats.tokensUsed.toLocaleString()}
+          {tokensUsed.toLocaleString()}
         </span>
         <span className="text-gray-600">/</span>
         <span className="font-mono text-gray-500">
-          {stats.tokensFree.toLocaleString()}
+          {tokensFree.toLocaleString()}
         </span>
       </div>
 
@@ -36,16 +41,16 @@ export function TokenMeter() {
 
       {/* Cost Display */}
       <div className="flex items-center gap-1 text-xs">
-        {stats.discount > 0 && (
+        {discount > 0 && (
           <>
             <span className="font-mono text-gray-500 line-through">
-              ฿{stats.baseCost.toFixed(2)}
+              ฿{baseCost.toFixed(2)}
             </span>
             <TrendingDown className="h-3 w-3 text-green-400" />
           </>
         )}
         <span className="font-mono text-yellow-400 font-semibold">
-          ฿{stats.finalCost.toFixed(2)}
+          ฿{finalCost.toFixed(2)}
         </span>
       </div>
 
@@ -54,11 +59,15 @@ export function TokenMeter() {
         <div className="space-y-2 text-xs">
           <div className="flex justify-between">
             <span className="text-gray-400">Tokens Used</span>
-            <span className="font-mono text-white">{stats.tokensUsed.toLocaleString()}</span>
+            <span className="font-mono text-white">{tokensUsed.toLocaleString()}</span>
           </div>
           <div className="flex justify-between">
             <span className="text-gray-400">Free Quota</span>
-            <span className="font-mono text-green-400">{stats.tokensFree.toLocaleString()}</span>
+            <span className="font-mono text-green-400">{tokensFree.toLocaleString()}</span>
+          </div>
+          <div className="flex justify-between">
+            <span className="text-gray-400">Remaining</span>
+            <span className="font-mono text-blue-400">{userData.tokens.toLocaleString()}</span>
           </div>
           {isOverLimit && (
             <div className="flex justify-between text-yellow-400">
@@ -69,16 +78,16 @@ export function TokenMeter() {
           <div className="border-t border-white/10 my-2" />
           <div className="flex justify-between">
             <span className="text-gray-400">Base Cost</span>
-            <span className="font-mono text-gray-400">฿{stats.baseCost.toFixed(2)}</span>
+            <span className="font-mono text-gray-400">฿{baseCost.toFixed(2)}</span>
           </div>
           <div className="flex justify-between text-green-400">
-            <span>Pro Discount (-{(stats.discount * 100).toFixed(0)}%)</span>
-            <span className="font-mono">-฿{(stats.baseCost - stats.finalCost).toFixed(2)}</span>
+            <span>Pro Discount (-{(discount * 100).toFixed(0)}%)</span>
+            <span className="font-mono">-฿{(baseCost - finalCost).toFixed(2)}</span>
           </div>
           <div className="border-t border-white/10 my-2" />
           <div className="flex justify-between font-semibold">
             <span className="text-white">Final Cost</span>
-            <span className="font-mono text-yellow-400">฿{stats.finalCost.toFixed(2)}</span>
+            <span className="font-mono text-yellow-400">฿{finalCost.toFixed(2)}</span>
           </div>
         </div>
       </div>
