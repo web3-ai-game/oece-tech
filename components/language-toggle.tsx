@@ -1,11 +1,11 @@
 "use client";
 
-import { useState } from "react";
 import { Globe } from "lucide-react";
 import { cn } from "@/lib/utils";
+import { useLanguage } from "@/lib/language-provider";
 
 export function LanguageToggle() {
-  const [lang, setLang] = useState<"en" | "zh">("en");
+  const { lang, setLang } = useLanguage();
 
   const languages = [
     { code: "en", label: "EN" },
