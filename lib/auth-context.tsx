@@ -123,6 +123,7 @@ export function AuthProvider({ children }: { children: React.ReactNode }) {
 
   // Google 登錄
   const signInWithGoogle = async () => {
+    if (!auth || !db) throw new Error('Firebase not initialized');
     try {
       const provider = new GoogleAuthProvider();
       const userCredential = await signInWithPopup(auth, provider);
@@ -151,6 +152,7 @@ export function AuthProvider({ children }: { children: React.ReactNode }) {
 
   // GitHub 登錄
   const signInWithGithub = async () => {
+    if (!auth || !db) throw new Error('Firebase not initialized');
     try {
       const provider = new GithubAuthProvider();
       const userCredential = await signInWithPopup(auth, provider);
@@ -178,6 +180,7 @@ export function AuthProvider({ children }: { children: React.ReactNode }) {
 
   // 登出
   const signOut = async () => {
+    if (!auth) throw new Error('Firebase not initialized');
     try {
       await firebaseSignOut(auth);
       setUserData(null);
@@ -188,7 +191,7 @@ export function AuthProvider({ children }: { children: React.ReactNode }) {
 
   // 更新 Tokens
   const updateTokens = async (amount: number) => {
-    if (!user || !userData) return;
+    if (!user || !userData || !db) return;
 
     try {
       const newTokens = userData.tokens + amount;
