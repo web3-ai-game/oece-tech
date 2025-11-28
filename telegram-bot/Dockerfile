@@ -15,4 +15,4 @@ COPY . .
 EXPOSE 8080
 
 # 啟動 Bot
-CMD ["node", "bot.js"]
+CMD ["node", "bot-v2.js"]
