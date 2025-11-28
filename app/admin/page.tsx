@@ -180,8 +180,8 @@ export default function AdminPage() {
                           <button className="p-2 hover:bg-white/10 rounded-lg transition-colors">
                             <Eye className="h-4 w-4 text-gray-400" />
                           </button>
-                          <button className="p-2 hover:bg-red-500/20 rounded-lg transition-colors">
-                            <Ban className="h-4 w-4 text-red-400" title="封禁用戶" />
+                          <button className="p-2 hover:bg-red-500/20 rounded-lg transition-colors" title="封禁用戶">
+                            <Ban className="h-4 w-4 text-red-400" />
                           </button>
                         </div>
                       </td>
