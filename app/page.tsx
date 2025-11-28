@@ -80,19 +80,24 @@ export default function Home() {
         </div>
       </main>
 
-      {/* Tech Stack Badge Wall */}
-      <TechStack />
-
-      {/* Social Channels */}
-      <SocialChannels />
-
-      {/* Footer with Auth Providers */}
-      <footer className="bg-black/30">
+      {/* Footer Section - 從上到下邏輯排列 */}
+      <footer className="bg-black/30 border-t border-white/10">
+        {/* 1. 登錄支持 */}
         <AuthProviders />
         
-        <div className="border-t border-white/5 py-6">
+        {/* 2. 宣傳渠道 */}
+        <SocialChannels />
+        
+        {/* 3. 技術棧背書 */}
+        <TechStack />
+        
+        {/* 4. 聯繫方式 */}
+        <div className="py-8 border-t border-white/5">
           <div className="max-w-7xl mx-auto px-4 text-center">
-            <p className="text-xs text-gray-500 mb-2">
+            <p className="text-lg font-medium text-white mb-2">
+              📞 +66 88 88080888
+            </p>
+            <p className="text-xs text-gray-500 mb-4">
               © 2025 OECE Tech · Built with 🔥 Firebase · Powered by Gemini AI
             </p>
             <div className="flex justify-center gap-4 text-[10px] text-gray-600">
