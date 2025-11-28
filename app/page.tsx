@@ -1,5 +1,6 @@
 "use client";
 
+import Link from "next/link";
 import { ThemeToggle } from "@/components/theme-toggle";
 import { LanguageToggle } from "@/components/language-toggle";
 import { ChatWindow } from "@/components/chat-window";
@@ -19,14 +20,17 @@ export default function Home() {
           </div>
           
           <div className="flex items-center gap-3">
+            <Link href="/knowledge" className="px-3 py-1.5 text-sm hover:text-[var(--primary)] transition-colors">
+              Knowledge
+            </Link>
             <LanguageToggle />
             <ThemeToggle />
-            <button className="px-3 py-1.5 text-sm hover:text-[var(--primary)] transition-colors">
+            <Link href="/login" className="px-3 py-1.5 text-sm hover:text-[var(--primary)] transition-colors">
               Sign In
-            </button>
-            <button className="px-3 py-1.5 text-sm bg-[var(--primary)] text-white rounded-lg hover:opacity-90 transition-opacity">
+            </Link>
+            <Link href="/register" className="px-3 py-1.5 text-sm bg-[var(--primary)] text-white rounded-lg hover:opacity-90 transition-opacity">
               Get Started
-            </button>
+            </Link>
           </div>
         </div>
       </header>
