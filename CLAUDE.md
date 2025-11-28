@@ -129,7 +129,7 @@ inviteCodes = [
 ### 4. Telegram Bot 集成
 
 #### 4.1 Love Bot 功能
-- **Token**: `7602987646:AAF-bR1EQuHEi7lmXhWVYOVQurciTKnv15M`
+- **Token**: `process.env.TELEGRAM_BOT_TOKEN` (已存儲在 Doppler)
 - **功能**: 
   - 接收用戶消息
   - 調用 Gemini API
