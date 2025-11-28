@@ -2,32 +2,34 @@
 
 import { motion } from "framer-motion";
 import { 
-  Sparkles, Brain, Bot, Terminal, Code2, Eye, Cloud, Zap, Shield,
-  Database, Server, Search, GitBranch, Lock, MessageSquare, Rocket, Globe
-} from "lucide-react";
+  SiGooglegemini, SiAnthropic, SiOpenai, SiGooglecloud, SiFirebase, 
+  SiCloudflare, SiMongodb, SiSupabase, SiAlgolia, SiGithubactions,
+  SiSentry, SiTelegram, SiVercel, SiDocker
+} from "react-icons/si";
+import { VscTerminalBash, VscGithubInverted, VscLock, VscRocket, VscCode } from "react-icons/vsc";
 
 const techStack = [
   // Row 1 - AI
-  { name: "Gemini 2.5 Pro", desc: "Multi-modal AI Brain", icon: Sparkles, color: "#4285F4" },
-  { name: "Claude 4", desc: "Anthropic Intelligence", icon: Brain, color: "#FF6B35" },
-  { name: "GPT-4o", desc: "OpenAI Flagship", icon: Bot, color: "#10A37F" },
-  { name: "Windsurf IDE", desc: "AI-Native Flow State", icon: Terminal, color: "#06B6D4" },
-  { name: "GitHub Copilot", desc: "AI Pair Programmer", icon: Code2, color: "#A855F7" },
-  { name: "Cursor AI", desc: "Code Intelligence", icon: Eye, color: "#EC4899" },
+  { name: "Gemini 2.5 Pro", desc: "Multi-modal AI", icon: SiGooglegemini, color: "#4285F4" },
+  { name: "Claude 4", desc: "Anthropic", icon: SiAnthropic, color: "#D4A373" },
+  { name: "GPT-4o", desc: "OpenAI", icon: SiOpenai, color: "#10A37F" },
+  { name: "Windsurf", desc: "AI IDE", icon: VscTerminalBash, color: "#06B6D4" },
+  { name: "Copilot", desc: "AI Pair", icon: VscGithubInverted, color: "#A855F7" },
+  { name: "Cursor", desc: "AI Editor", icon: VscCode, color: "#EC4899" },
   // Row 2 - Cloud
-  { name: "Google Cloud", desc: "Enterprise Infrastructure", icon: Cloud, color: "#FACC15" },
-  { name: "Firebase Hosting", desc: "Global Edge CDN", icon: Zap, color: "#F97316" },
-  { name: "Cloudflare", desc: "DDoS Protection", icon: Shield, color: "#F97316" },
-  { name: "MongoDB Atlas", desc: "Vector Memory Store", icon: Database, color: "#22C55E" },
-  { name: "Supabase", desc: "PostgreSQL + Realtime", icon: Server, color: "#34D399" },
-  { name: "Algolia", desc: "Instant Search", icon: Search, color: "#3B82F6" },
+  { name: "Google Cloud", desc: "$300 Credits", icon: SiGooglecloud, color: "#4285F4" },
+  { name: "Firebase", desc: "Edge CDN", icon: SiFirebase, color: "#FFCA28" },
+  { name: "Cloudflare", desc: "Security", icon: SiCloudflare, color: "#F38020" },
+  { name: "MongoDB", desc: "Vector DB", icon: SiMongodb, color: "#47A248" },
+  { name: "Supabase", desc: "PostgreSQL", icon: SiSupabase, color: "#3FCF8E" },
+  { name: "Algolia", desc: "Search", icon: SiAlgolia, color: "#003DFF" },
   // Row 3 - DevOps
-  { name: "GitHub Actions", desc: "CI/CD Pipeline", icon: GitBranch, color: "#FFFFFF" },
-  { name: "Doppler", desc: "Secrets Management", icon: Lock, color: "#8B5CF6" },
-  { name: "Sentry", desc: "Error Tracking", icon: Eye, color: "#EF4444" },
-  { name: "Telegram Bot", desc: "Instant Messaging", icon: MessageSquare, color: "#0EA5E9" },
-  { name: "OpenRouter", desc: "$1111 API Credits", icon: Rocket, color: "#EC4899" },
-  { name: "Vercel", desc: "Edge Functions", icon: Globe, color: "#FFFFFF" },
+  { name: "Actions", desc: "CI/CD", icon: SiGithubactions, color: "#2088FF" },
+  { name: "Doppler", desc: "Secrets", icon: VscLock, color: "#8B5CF6" },
+  { name: "Sentry", desc: "Monitor", icon: SiSentry, color: "#362D59" },
+  { name: "Telegram", desc: "Bot", icon: SiTelegram, color: "#26A5E4" },
+  { name: "OpenRouter", desc: "$1111", icon: VscRocket, color: "#EC4899" },
+  { name: "Vercel", desc: "Edge", icon: SiVercel, color: "#FFFFFF" },
 ];
 
 export function TechStack() {
