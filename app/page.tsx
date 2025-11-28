@@ -1,6 +1,8 @@
 "use client";
 
 import { ThemeToggle } from "@/components/theme-toggle";
+import { LanguageToggle } from "@/components/language-toggle";
+import { ChatWindow } from "@/components/chat-window";
 import { Sparkles, MessageSquare, Zap } from "lucide-react";
 
 export default function Home() {
@@ -15,6 +17,7 @@ export default function Home() {
           </div>
           
           <div className="flex items-center gap-4">
+            <LanguageToggle />
             <ThemeToggle />
             <button className="px-4 py-2 text-sm font-medium hover:text-[var(--primary)] transition-colors">
               Sign In
@@ -39,14 +42,18 @@ export default function Home() {
             Chat with Gemini AI, explore knowledge base, and unlock the future of intelligent conversation.
           </p>
 
+          {/* Chat Window - Direct on Homepage */}
+          <div className="mb-20">
+            <ChatWindow />
+          </div>
+          
           {/* CTA Buttons */}
           <div className="flex flex-col sm:flex-row gap-4 justify-center mb-20">
-            <button className="px-8 py-4 bg-[var(--primary)] text-white rounded-xl font-medium hover:opacity-90 transition-opacity flex items-center justify-center gap-2">
-              <MessageSquare className="h-5 w-5" />
-              Start Chatting
-            </button>
             <button className="px-8 py-4 border border-[var(--foreground)]/20 rounded-xl font-medium hover:border-[var(--primary)] transition-colors">
               View Pricing
+            </button>
+            <button className="px-8 py-4 border border-[var(--foreground)]/20 rounded-xl font-medium hover:border-[var(--primary)] transition-colors">
+              Documentation
             </button>
           </div>
 
