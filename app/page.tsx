@@ -23,6 +23,9 @@ export default function Home() {
             <Link href="/knowledge" className="px-3 py-1.5 text-sm hover:text-[var(--primary)] transition-colors">
               Knowledge
             </Link>
+            <Link href="/pricing" className="px-3 py-1.5 text-sm hover:text-[var(--primary)] transition-colors">
+              Pricing
+            </Link>
             <LanguageToggle />
             <ThemeToggle />
             <Link href="/login" className="px-3 py-1.5 text-sm hover:text-[var(--primary)] transition-colors">
