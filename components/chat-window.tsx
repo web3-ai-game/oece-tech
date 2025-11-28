@@ -8,6 +8,7 @@ export function ChatWindow() {
   const [message, setMessage] = useState("");
   const [messages, setMessages] = useState<Array<{ role: "user" | "assistant"; content: string }>>([]);
   const [isLoading, setIsLoading] = useState(false);
+  const [isListening, setIsListening] = useState(false);
 
   const handleSend = async () => {
     if (!message.trim()) return;
@@ -31,6 +32,33 @@ export function ChatWindow() {
     } finally {
       setIsLoading(false);
     }
+  };
+
+  const startVoiceInput = () => {
+    if (!('webkitSpeechRecognition' in window)) {
+      alert('語音輸入不支持此瀏覽器');
+      return;
+    }
+
+    const recognition = new (window as any).webkitSpeechRecognition();
+    recognition.lang = 'zh-TW'; // 默認中文，可切換為 en-US
+    recognition.continuous = false;
+    recognition.interimResults = false;
+
+    recognition.onstart = () => setIsListening(true);
+    recognition.onend = () => setIsListening(false);
+    
+    recognition.onresult = (event: any) => {
+      const transcript = event.results[0][0].transcript;
+      setMessage(transcript);
+    };
+
+    recognition.onerror = (event: any) => {
+      console.error('語音輸入錯誤:', event.error);
+      setIsListening(false);
+    };
+
+    recognition.start();
   };
 
   return (
@@ -83,8 +111,15 @@ export function ChatWindow() {
             className="flex-1 bg-transparent outline-none text-sm placeholder:text-[var(--foreground)]/50"
           />
           
-          <button className="p-2 hover:bg-[var(--foreground)]/5 rounded-lg transition-colors">
-            <Mic className="h-5 w-5 text-[var(--foreground)]/50" />
+          <button 
+            onClick={startVoiceInput}
+            className={`p-2 rounded-lg transition-colors ${
+              isListening 
+                ? "bg-red-500/20 text-red-400 animate-pulse" 
+                : "hover:bg-[var(--foreground)]/5 text-[var(--foreground)]/50"
+            }`}
+          >
+            <Mic className="h-5 w-5" />
           </button>
           
           <button
