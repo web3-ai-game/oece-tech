@@ -1,0 +1,46 @@
+{
+  "nav": {
+    "home": "Home",
+    "knowledge": "Knowledge Base",
+    "signIn": "Sign In",
+    "getStarted": "Get Started"
+  },
+  "hero": {
+    "title": "AI-Powered",
+    "titleHighlight": "Knowledge Engine",
+    "subtitle": "Chat with Gemini AI, explore knowledge base, unlock the future."
+  },
+  "chat": {
+    "placeholder": "Ask me anything...",
+    "remaining": "requests remaining"
+  },
+  "cta": {
+    "pricing": "Pricing",
+    "docs": "Docs"
+  },
+  "features": {
+    "gemini": {
+      "title": "Gemini Pro",
+      "desc": "Unlimited Lite"
+    },
+    "chat": {
+      "title": "Smart Chat",
+      "desc": "Multi-modal"
+    },
+    "beta": {
+      "title": "Beta Free",
+      "desc": "All features"
+    }
+  },
+  "footer": {
+    "auth": "Full-Stack Login Support",
+    "social": "Omni-Channel Marketing",
+    "tech": "POWERED BY GIANTS",
+    "techSubtitle": "Built on World-Class Infrastructure",
+    "copyright": "© 2025 OECE Tech · Built with 🔥 Firebase · Powered by Gemini AI",
+    "privacy": "Privacy",
+    "terms": "Terms",
+    "contact": "Contact",
+    "status": "Status"
+  }
+}
