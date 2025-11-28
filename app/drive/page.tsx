@@ -5,7 +5,7 @@ import Link from "next/link";
 import { 
   Sparkles, Folder, FileText, Image, Video, Music, File, 
   Upload, Download, Trash2, Share2, MoreVertical, Grid3x3, List,
-  Search, Plus, Star, Clock, Zap
+  Search, Plus, Star, Clock, Zap, Database
 } from "lucide-react";
 
 const files = [
@@ -69,14 +69,13 @@ export default function DrivePage() {
   const [viewMode, setViewMode] = useState<"grid" | "list">("grid");
   const [searchQuery, setSearchQuery] = useState("");
 
-  const totalSize = files.reduce((sum, file) => {
-    const size = parseFloat(file.size);
-    return sum + size;
-  }, 0);
-
-  const storageLimit = 100; // MB
-  const storageUsed = totalSize;
-  const storagePercent = (storageUsed / storageLimit) * 100;
+  // 改為 Token 計費模式
+  const tokensUsed = 4567; // 已使用 tokens
+  const tokensFree = 9999; // 免費額度
+  const tokensPercent = (tokensUsed / tokensFree) * 100;
+  
+  // 計算成本
+  const vectorCost = tokensUsed * 0.10 / 1000; // ฿0.10/1K tokens
 
   return (
     <div className="min-h-screen bg-[var(--background)] text-[var(--foreground)]">
@@ -109,7 +108,7 @@ export default function DrivePage() {
                 My <span className="text-[var(--primary)]">Drive</span>
               </h1>
               <p className="text-sm text-gray-400">
-                100 MB free storage · AI-powered organization
+                9999 tokens 免費向量存储 · AI-powered organization
               </p>
             </div>
             
@@ -131,26 +130,32 @@ export default function DrivePage() {
           </div>
 
           {/* Storage Bar */}
-          <div className="mb-8 p-6 rounded-xl bg-white/5 border border-white/10">
+          <div className="mb-8 p-6 rounded-xl bg-gradient-to-br from-purple-900/20 to-pink-900/20 border border-purple-500/30">
             <div className="flex items-center justify-between mb-3">
-              <h3 className="text-sm font-semibold">Storage</h3>
+              <h3 className="text-sm font-semibold flex items-center gap-2">
+                <Database className="h-4 w-4 text-purple-400" />
+                Vector Storage
+              </h3>
               <span className="text-sm text-gray-400">
-                {storageUsed.toFixed(1)} MB / {storageLimit} MB
+                {tokensUsed.toLocaleString()} / {tokensFree.toLocaleString()} tokens
               </span>
             </div>
             <div className="w-full bg-white/10 rounded-full h-2">
               <div 
-                className={`h-2 rounded-full transition-all ${
-                  storagePercent > 90 ? "bg-red-500" :
-                  storagePercent > 70 ? "bg-yellow-500" :
-                  "bg-green-500"
-                }`}
-                style={{ width: `${storagePercent}%` }}
+                className="h-2 rounded-full bg-gradient-to-r from-purple-500 to-pink-500 transition-all"
+                style={{ width: `${tokensPercent}%` }}
               />
             </div>
-            <p className="mt-2 text-xs text-gray-500">
-              {(storageLimit - storageUsed).toFixed(1)} MB remaining · 
-              {storagePercent > 90 && " ⚠️ Storage almost full"}
+            <div className="mt-3 flex items-center justify-between text-xs">
+              <span className="text-gray-500">
+                {(tokensFree - tokensUsed).toLocaleString()} tokens 剩餘 · 免費額度
+              </span>
+              <span className="font-mono text-yellow-400">
+                成本: ฿{vectorCost.toFixed(2)}
+              </span>
+            </div>
+            <p className="mt-3 text-xs text-purple-400">
+              💡 每個 token = 向量關鍵詞存储 · 調用 = Key × 向量庫 token 詞長度 + Pro 減免
             </p>
           </div>
 
