@@ -1,0 +1,59 @@
+[debug] [2025-11-28T14:03:15.735Z] ----------------------------------------------------------------------
+[debug] [2025-11-28T14:03:15.737Z] Command:       /opt/homebrew/Cellar/node/24.10.0/bin/node /opt/homebrew/bin/firebase deploy --only hosting
+[debug] [2025-11-28T14:03:15.737Z] CLI Version:   14.20.0
+[debug] [2025-11-28T14:03:15.737Z] Platform:      darwin
+[debug] [2025-11-28T14:03:15.737Z] Node Version:  v24.10.0
+[debug] [2025-11-28T14:03:15.737Z] Time:          Fri Nov 28 2025 21:03:15 GMT+0700 (中南半岛时间)
+[debug] [2025-11-28T14:03:15.737Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2025-11-28T14:03:15.815Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2025-11-28T14:03:15.815Z] > authorizing via signed-in user (sms.pve@gmail.com)
+[debug] [2025-11-28T14:03:15.815Z] [iam] checking project oece-tech-9aa8d for permissions ["firebase.projects.get","firebasehosting.sites.update"]
+[debug] [2025-11-28T14:03:15.816Z] Checked if tokens are valid: true, expires at: 1764341860970
+[debug] [2025-11-28T14:03:15.816Z] Checked if tokens are valid: true, expires at: 1764341860970
+[debug] [2025-11-28T14:03:15.816Z] >>> [apiv2][query] POST https://cloudresourcemanager.googleapis.com/v1/projects/oece-tech-9aa8d:testIamPermissions [none]
+[debug] [2025-11-28T14:03:15.816Z] >>> [apiv2][(partial)header] POST https://cloudresourcemanager.googleapis.com/v1/projects/oece-tech-9aa8d:testIamPermissions x-goog-quota-user=projects/oece-tech-9aa8d
+[debug] [2025-11-28T14:03:15.816Z] >>> [apiv2][body] POST https://cloudresourcemanager.googleapis.com/v1/projects/oece-tech-9aa8d:testIamPermissions {"permissions":["firebase.projects.get","firebasehosting.sites.update"]}
+[debug] [2025-11-28T14:03:17.122Z] <<< [apiv2][status] POST https://cloudresourcemanager.googleapis.com/v1/projects/oece-tech-9aa8d:testIamPermissions 200
+[debug] [2025-11-28T14:03:17.122Z] <<< [apiv2][body] POST https://cloudresourcemanager.googleapis.com/v1/projects/oece-tech-9aa8d:testIamPermissions {"permissions":["firebase.projects.get","firebasehosting.sites.update"]}
+[debug] [2025-11-28T14:03:17.122Z] Checked if tokens are valid: true, expires at: 1764341860970
+[debug] [2025-11-28T14:03:17.123Z] Checked if tokens are valid: true, expires at: 1764341860970
+[debug] [2025-11-28T14:03:17.123Z] >>> [apiv2][query] GET https://firebase.googleapis.com/v1beta1/projects/oece-tech-9aa8d [none]
+[debug] [2025-11-28T14:03:17.739Z] <<< [apiv2][status] GET https://firebase.googleapis.com/v1beta1/projects/oece-tech-9aa8d 200
+[debug] [2025-11-28T14:03:17.740Z] <<< [apiv2][body] GET https://firebase.googleapis.com/v1beta1/projects/oece-tech-9aa8d {"projectId":"oece-tech-9aa8d","projectNumber":"501753160098","displayName":"oece-tech","name":"projects/oece-tech-9aa8d","resources":{"hostingSite":"oece-tech-9aa8d","realtimeDatabaseInstance":"oece-tech-9aa8d-default-rtdb"},"state":"ACTIVE","etag":"1_eaea077c-3da0-4817-aee0-f1c1f9ff43ed"}
+[debug] [2025-11-28T14:03:18.551Z] Checked if tokens are valid: true, expires at: 1764341860970
+[debug] [2025-11-28T14:03:18.551Z] Checked if tokens are valid: true, expires at: 1764341860970
+[debug] [2025-11-28T14:03:18.551Z] >>> [apiv2][query] GET https://firebasehosting.googleapis.com/v1beta1/projects/oece-tech-9aa8d/sites pageToken=&pageSize=10
+[debug] [2025-11-28T14:03:19.437Z] <<< [apiv2][status] GET https://firebasehosting.googleapis.com/v1beta1/projects/oece-tech-9aa8d/sites 200
+[debug] [2025-11-28T14:03:19.437Z] <<< [apiv2][body] GET https://firebasehosting.googleapis.com/v1beta1/projects/oece-tech-9aa8d/sites {"sites":[{"name":"projects/oece-tech-9aa8d/sites/oece-tech-9aa8d","defaultUrl":"https://oece-tech-9aa8d.web.app","type":"DEFAULT_SITE"}]}
+[debug] [2025-11-28T14:03:19.437Z] Checked if tokens are valid: true, expires at: 1764341860970
+[debug] [2025-11-28T14:03:19.437Z] Checked if tokens are valid: true, expires at: 1764341860970
+[debug] [2025-11-28T14:03:19.438Z] >>> [apiv2][query] GET https://firebasehosting.googleapis.com/v1beta1/projects/oece-tech-9aa8d/sites 
+[debug] [2025-11-28T14:03:19.933Z] <<< [apiv2][status] GET https://firebasehosting.googleapis.com/v1beta1/projects/oece-tech-9aa8d/sites 200
+[debug] [2025-11-28T14:03:19.933Z] <<< [apiv2][body] GET https://firebasehosting.googleapis.com/v1beta1/projects/oece-tech-9aa8d/sites {"sites":[{"name":"projects/oece-tech-9aa8d/sites/oece-tech-9aa8d","defaultUrl":"https://oece-tech-9aa8d.web.app","type":"DEFAULT_SITE"}]}
+[debug] [2025-11-28T14:03:19.933Z] Checked if tokens are valid: true, expires at: 1764341860970
+[debug] [2025-11-28T14:03:19.933Z] Checked if tokens are valid: true, expires at: 1764341860970
+[debug] [2025-11-28T14:03:19.934Z] >>> [apiv2][query] GET https://firebase.googleapis.com/v1beta1/projects/oece-tech-9aa8d/webApps/-/config [none]
+[debug] [2025-11-28T14:03:20.716Z] <<< [apiv2][status] GET https://firebase.googleapis.com/v1beta1/projects/oece-tech-9aa8d/webApps/-/config 200
+[debug] [2025-11-28T14:03:20.717Z] <<< [apiv2][body] GET https://firebase.googleapis.com/v1beta1/projects/oece-tech-9aa8d/webApps/-/config {"projectId":"oece-tech-9aa8d","appId":"1:501753160098:web:ae60f099b05b6bc8e812fb","databaseURL":"https://oece-tech-9aa8d-default-rtdb.asia-southeast1.firebasedatabase.app","storageBucket":"oece-tech-9aa8d.firebasestorage.app","apiKey":"AIzaSyAunoEypiqpe5iCgWgK4JBpgeXbb0eN7RA","authDomain":"oece-tech-9aa8d.firebaseapp.com","messagingSenderId":"501753160098","projectNumber":"501753160098","version":"2"}
+[info] 
+   Thank you for trying our early preview of Next.js support on Firebase Hosting.
+   During the preview, support is best-effort and breaking changes can be expected. Proceed with caution.
+   The integration is known to work with Next.js version 12 - 15.0. You may encounter errors.
+
+   Documentation: https://firebase.google.com/docs/hosting/frameworks/nextjs
+   File a bug: https://github.com/firebase/firebase-tools/issues/new?template=bug_report.md
+   Submit a feature request: https://github.com/firebase/firebase-tools/issues/new?template=feature_request.md
+
+   We'd love to learn from you. Express your interest in helping us shape the future of Firebase Hosting: https://goo.gle/41enW5X
+
+[debug] [2025-11-28T14:03:22.421Z] Checked if tokens are valid: true, expires at: 1764341860970
+[debug] [2025-11-28T14:03:22.421Z] Checked if tokens are valid: true, expires at: 1764341860970
+[debug] [2025-11-28T14:03:22.421Z] >>> [apiv2][query] GET https://firebasehosting.googleapis.com/v1beta1/projects/oece-tech-9aa8d/sites/oece-tech-9aa8d [none]
+[debug] [2025-11-28T14:03:22.889Z] <<< [apiv2][status] GET https://firebasehosting.googleapis.com/v1beta1/projects/oece-tech-9aa8d/sites/oece-tech-9aa8d 200
+[debug] [2025-11-28T14:03:22.889Z] <<< [apiv2][body] GET https://firebasehosting.googleapis.com/v1beta1/projects/oece-tech-9aa8d/sites/oece-tech-9aa8d {"name":"projects/oece-tech-9aa8d/sites/oece-tech-9aa8d","defaultUrl":"https://oece-tech-9aa8d.web.app","type":"DEFAULT_SITE"}
+[info] You are using Node.js 18.20.8. For Next.js, Node.js version ">=20.9.0" is required.
+
+[debug] [2025-11-28T14:03:23.164Z] Error: ENOENT: no such file or directory, open '/Users/deepweay/Documents/github/oece-tech/.next/server/middleware-manifest.json'
+[error] 
+[error] Error: An unexpected error has occurred.
