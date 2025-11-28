@@ -3,6 +3,7 @@
 import { ThemeToggle } from "@/components/theme-toggle";
 import { LanguageToggle } from "@/components/language-toggle";
 import { ChatWindow } from "@/components/chat-window";
+import { TechStack } from "@/components/tech-stack";
 import { Sparkles, MessageSquare, Zap } from "lucide-react";
 
 export default function Home() {
@@ -91,6 +92,9 @@ export default function Home() {
           </div>
         </div>
       </main>
+
+      {/* Tech Stack Badge Wall */}
+      <TechStack />
 
       {/* Footer */}
       <footer className="border-t border-[var(--foreground)]/10 py-8">
