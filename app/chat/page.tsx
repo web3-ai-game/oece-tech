@@ -5,10 +5,42 @@ import Link from "next/link";
 import { Sparkles, Send, Paperclip, Mic, User, Bot, Brain, Sparkle } from "lucide-react";
 
 const personas = [
-  { id: "gemini-pro", name: "Gemini Pro", icon: Sparkles, color: "#4285F4", desc: "Multi-modal AI" },
-  { id: "claude", name: "Claude 4", icon: Brain, color: "#D4A373", desc: "Deep reasoning" },
-  { id: "gpt4", name: "GPT-4o", icon: Sparkle, color: "#10A37F", desc: "Creative writing" },
-  { id: "cyber-sage", name: "賽博神佛", icon: Bot, color: "#8B5CF6", desc: "Mystical divination" },
+  { 
+    id: "gemini-pro", 
+    name: "Gemini 2.5 Pro", 
+    icon: Sparkles, 
+    color: "#4285F4", 
+    desc: "Multi-modal AI",
+    costPer1K: 0.14,
+    model: "gemini-2.5-flash"
+  },
+  { 
+    id: "claude", 
+    name: "Claude 4 Sonnet", 
+    icon: Brain, 
+    color: "#D4A373", 
+    desc: "Deep reasoning",
+    costPer1K: 1.12,
+    model: "claude-4-sonnet"
+  },
+  { 
+    id: "gpt4", 
+    name: "GPT-4o", 
+    icon: Sparkle, 
+    color: "#10A37F", 
+    desc: "Creative writing",
+    costPer1K: 2.80,
+    model: "gpt-4o"
+  },
+  { 
+    id: "cyber-sage", 
+    name: "賽博神佛", 
+    icon: Bot, 
+    color: "#8B5CF6", 
+    desc: "Mystical divination",
+    costPer1K: 7.00,
+    model: "gemini-2.5-pro"
+  },
 ];
 
 export default function ChatPage() {
@@ -169,8 +201,14 @@ export default function ChatPage() {
                 <Send className="h-5 w-5" />
               </button>
             </div>
-            <div className="mt-2 text-xs text-gray-500 text-center">
-              {selectedPersona.name} · Vector Memory Active · ฿0.14/1K tokens
+            <div className="mt-2 flex items-center justify-center gap-4 text-xs text-gray-500">
+              <span>{selectedPersona.name}</span>
+              <span>·</span>
+              <span className="text-green-400">Vector Memory Active</span>
+              <span>·</span>
+              <span className="font-mono text-yellow-400">฿{selectedPersona.costPer1K}/1K tokens</span>
+              <span>·</span>
+              <span className="text-blue-400">EN</span>
             </div>
           </div>
         </div>
