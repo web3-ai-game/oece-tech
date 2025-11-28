@@ -3,6 +3,7 @@
 import { Spotlight } from "@/components/ui/spotlight";
 import { BentoGrid, BentoGridItem } from "@/components/ui/bento-grid";
 import { GlowButton, GlassButton } from "@/components/ui/button";
+import { ThemeToggle } from "@/components/theme-toggle";
 import { Rocket, Database, Zap, Shield, Search, Bot, Code2, Sparkles } from "lucide-react";
 
 const projects = [
@@ -57,6 +58,11 @@ const techStack = [
 export default function Home() {
   return (
     <div className="min-h-screen w-full bg-black/[0.96] antialiased bg-grid-white/[0.02] relative overflow-hidden">
+      {/* Theme Toggle - Fixed Top Right */}
+      <div className="fixed top-4 right-4 z-50">
+        <ThemeToggle />
+      </div>
+      
       {/* Spotlight Effect */}
       <Spotlight className="-top-40 left-0 md:left-60 md:-top-20" fill="cyan" />
       
