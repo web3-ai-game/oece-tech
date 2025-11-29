@@ -1,0 +1,3 @@
+setup:
+  project: oece-tech-prod
+  config: dev
