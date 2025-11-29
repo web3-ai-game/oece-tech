@@ -21,6 +21,7 @@
     "algoliasearch": "^5.22.0",
     "clsx": "^2.1.1",
     "firebase": "^12.6.0",
+    "firebase-admin": "^13.0.1",
     "framer-motion": "^12.23.24",
     "lucide-react": "^0.555.0",
     "markdown-it": "14.1.0",

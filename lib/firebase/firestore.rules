@@ -1,0 +1,178 @@
+// 🔒 Firestore 安全规则（生产级）
+rules_version = '2';
+
+service cloud.firestore {
+  match /databases/{database}/documents {
+
+    // 辅助函数：检查用户是否已认证
+    function isAuthenticated() {
+      return request.auth != null;
+    }
+
+    // 辅助函数：检查是否为当前用户
+    function isCurrentUser(userId) {
+      return isAuthenticated() && request.auth.uid == userId;
+    }
+
+    // 辅助函数：检查是否为管理员
+    function isAdmin() {
+      return isAuthenticated() &&
+             get(/databases/$(database)/documents/users/$(request.auth.uid)).data.role in ['admin', 'superadmin'];
+    }
+
+    // 辅助函数：检查账号是否可用
+    function isActiveAccount(userId) {
+      let userData = get(/databases/$(database)/documents/users/$(userId)).data;
+      return userData.status == 'active';
+    }
+
+    // ============================================
+    // 用户数据
+    // ============================================
+    match /users/{userId} {
+      // 任何人可读（用于显示用户名/头像）
+      allow read: if true;
+
+      // 仅用户本人可创建（注册时）
+      allow create: if isCurrentUser(userId) &&
+                       request.resource.data.uid == userId &&
+                       request.resource.data.email == request.auth.token.email;
+
+      // 仅用户本人可更新（除了敏感字段）
+      allow update: if isCurrentUser(userId) &&
+                       !request.resource.data.diff(resource.data).affectedKeys()
+                         .hasAny(['role', 'tier', 'tokens', 'createdAt']);
+
+      // 仅管理员可删除
+      allow delete: if isAdmin();
+    }
+
+    // ============================================
+    // 对话历史
+    // ============================================
+    match /conversations/{conversationId} {
+      // 仅创建者可读
+      allow read: if isCurrentUser(resource.data.userId);
+
+      // 仅认证用户可创建
+      allow create: if isCurrentUser(request.resource.data.userId);
+
+      // 仅创建者可更新和删除
+      allow update, delete: if isCurrentUser(resource.data.userId);
+    }
+
+    // ============================================
+    // 用户活动日志
+    // ============================================
+    match /activities/{activityId} {
+      // 仅用户本人可读自己的日志
+      allow read: if isCurrentUser(resource.data.userId);
+
+      // 系统创建，禁止手动创建
+      allow create: if false;
+
+      // 禁止更新和删除
+      allow update, delete: if false;
+    }
+
+    // ============================================
+    // 论坛帖子
+    // ============================================
+    match /forum_posts/{postId} {
+      // 所有人可读
+      allow read: if true;
+
+      // 认证用户可创建
+      allow create: if isAuthenticated() &&
+                       isActiveAccount(request.auth.uid) &&
+                       request.resource.data.userId == request.auth.uid;
+
+      // 仅创建者可更新
+      allow update: if isCurrentUser(resource.data.userId) ||
+                       isAdmin();
+
+      // 仅创建者或管理员可删除
+      allow delete: if isCurrentUser(resource.data.userId) ||
+                       isAdmin();
+    }
+
+    // ============================================
+    // 论坛回复
+    // ============================================
+    match /forum_replies/{replyId} {
+      // 所有人可读
+      allow read: if true;
+
+      // 认证用户可创建
+      allow create: if isAuthenticated() &&
+                       isActiveAccount(request.auth.uid) &&
+                       request.resource.data.userId == request.auth.uid;
+
+      // 仅创建者可更新
+      allow update: if isCurrentUser(resource.data.userId);
+
+      // 仅创建者或管理员可删除
+      allow delete: if isCurrentUser(resource.data.userId) ||
+                       isAdmin();
+    }
+
+    // ============================================
+    // 论坛点赞
+    // ============================================
+    match /forum_likes/{likeId} {
+      // 所有人可读
+      allow read: if true;
+
+      // 认证用户可创建和删除自己的点赞
+      allow create, delete: if isAuthenticated() &&
+                               isCurrentUser(request.resource.data.userId);
+
+      // 禁止更新
+      allow update: if false;
+    }
+
+    // ============================================
+    // 邀请码
+    // ============================================
+    match /invites/{inviteCode} {
+      // 所有人可读（用于验证）
+      allow read: if true;
+
+      // 仅用户本人可创建自己的邀请码
+      allow create: if isCurrentUser(request.resource.data.ownerId);
+
+      // 系统标记为已使用
+      allow update: if request.resource.data.diff(resource.data).affectedKeys()
+                         .hasOnly(['used', 'usedBy', 'usedAt']);
+
+      // 禁止删除
+      allow delete: if false;
+    }
+
+    // ============================================
+    // API Keys
+    // ============================================
+    match /api_keys/{keyId} {
+      // 仅所有者可读
+      allow read: if isCurrentUser(resource.data.userId);
+
+      // 仅所有者可创建
+      allow create: if isCurrentUser(request.resource.data.userId);
+
+      // 仅所有者可更新（除了使用统计）
+      allow update: if isCurrentUser(resource.data.userId) ||
+                       (request.resource.data.diff(resource.data).affectedKeys()
+                         .hasOnly(['usageCount', 'lastUsedAt']));
+
+      // 仅所有者可删除
+      allow delete: if isCurrentUser(resource.data.userId);
+    }
+
+    // ============================================
+    // 默认规则：拒绝所有其他访问
+    // ============================================
+    match /{document=**} {
+      allow read, write: if false;
+    }
+  }
+}
