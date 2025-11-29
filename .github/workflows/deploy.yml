@@ -37,5 +37,4 @@ jobs:
           firebaseServiceAccount: ${{ secrets.FIREBASE_SERVICE_ACCOUNT_OECE_TECH_9AA8D }}
           channelId: live
           projectId: oece-tech-9aa8d
-        env:
-          FIREBASE_CLI_EXPERIMENTS: webframeworks
+          entryPoint: .
