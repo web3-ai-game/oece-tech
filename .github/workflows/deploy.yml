@@ -29,12 +29,12 @@ jobs:
       - name: Create .env file from Doppler
         env:
           DOPPLER_TOKEN: ${{ secrets.DOPPLER_TOKEN }}
-        run: doppler secrets download --project oece-tech-prod --config dev --no-file --format env > .env
+        run: doppler secrets download --project oece-tech --config dev --no-file --format env > .env
 
       - name: Build project
         env:
           DOPPLER_TOKEN: ${{ secrets.DOPPLER_TOKEN }}
-        run: doppler run --project oece-tech-prod --config dev -- npm run build
+        run: doppler run --project oece-tech --config dev -- npm run build
 
       - name: Deploy to Firebase Hosting
         uses: FirebaseExtended/action-hosting-deploy@v0
@@ -43,7 +43,6 @@ jobs:
           firebaseServiceAccount: ${{ secrets.FIREBASE_SERVICE_ACCOUNT_OECE_TECH_9AA8D }}
           channelId: live
           projectId: oece-tech-9aa8d
-          entryPoint: ./oece-tech
         env:
           FIREBASE_CLI_EXPERIMENTS: webframeworks
           DOPPLER_TOKEN: ${{ secrets.DOPPLER_TOKEN }}
