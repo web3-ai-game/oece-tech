@@ -23,18 +23,8 @@ jobs:
       - name: Install dependencies
         run: npm ci
 
-      - name: Install Doppler CLI
-        uses: dopplerhq/cli-action@v3
-
-      - name: Create .env file from Doppler
-        env:
-          DOPPLER_TOKEN: ${{ secrets.DOPPLER_TOKEN }}
-        run: doppler secrets download --project oece-tech --config dev --no-file --format env > .env
-
       - name: Build project
-        env:
-          DOPPLER_TOKEN: ${{ secrets.DOPPLER_TOKEN }}
-        run: doppler run --project oece-tech --config dev -- npm run build
+        run: npm run build
 
       - name: Deploy to Firebase Hosting
         uses: FirebaseExtended/action-hosting-deploy@v0
@@ -45,4 +35,3 @@ jobs:
           projectId: oece-tech-9aa8d
         env:
           FIREBASE_CLI_EXPERIMENTS: webframeworks
-          DOPPLER_TOKEN: ${{ secrets.DOPPLER_TOKEN }}
