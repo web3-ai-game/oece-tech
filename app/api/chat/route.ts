@@ -5,7 +5,17 @@ export async function POST(request: NextRequest) {
     const { message } = await request.json();
 
     // 使用 Gemini API
-    const apiKey = process.env.GEMINI_API_KEY_1 || "";
+    // 優先使用 GEMINI_API_KEY，如果沒有則嘗試使用備份 Key
+    const apiKey = process.env.GEMINI_API_KEY || process.env.GEMINI_PAID_KEY || "";
+    
+    if (!apiKey) {
+      console.error("Gemini API Key is missing");
+      return NextResponse.json(
+        { error: "Server configuration error: API Key missing" },
+        { status: 500 }
+      );
+    }
+
     const response = await fetch(
       `https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-lite:generateContent?key=${apiKey}`,
       {
