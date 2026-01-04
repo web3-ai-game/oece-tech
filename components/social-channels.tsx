@@ -1,13 +1,14 @@
 "use client";
 
-import { 
-  SiTelegram, SiInstagram, SiYoutube, SiTiktok, SiFacebook, 
+import {
+  SiTelegram, SiInstagram, SiYoutube, SiTiktok, SiFacebook,
   SiX, SiLinkedin, SiDiscord, SiSlack, SiNotion, SiWhatsapp, SiWechat,
   SiGoogle, SiApple, SiGithub
 } from "react-icons/si";
 import { BsMicrosoft } from "react-icons/bs";
 import { MdEmail, MdPhone, MdPersonOff } from "react-icons/md";
 import { VscKey } from "react-icons/vsc";
+import { useLanguage } from "@/lib/language-provider";
 
 const socialChannels = [
   { name: "Telegram", icon: SiTelegram, color: "#26A5E4" },
@@ -39,10 +40,13 @@ const authProviders = [
 ];
 
 export function SocialChannels() {
+  const { t } = useLanguage();
+
   return (
-    <div className="py-6 text-center">
-      <span className="text-[10px] font-mono text-gray-500 uppercase">📢 Omni-Channel Marketing</span>
-      <div className="flex flex-wrap justify-center gap-5 mt-3">
+    <div className="py-8 text-center border-t border-white/5">
+      <h3 className="text-sm font-semibold text-white mb-1">{t("footer.social")}</h3>
+      <p className="text-[10px] text-gray-500 mb-4">OMNI-CHANNEL · MARKETING</p>
+      <div className="flex flex-wrap justify-center gap-5">
         {socialChannels.map((item) => (
           <item.icon key={item.name} className="w-6 h-6 hover:scale-125 transition-transform cursor-pointer" style={{ color: item.color }} title={item.name} />
         ))}
@@ -52,15 +56,18 @@ export function SocialChannels() {
 }
 
 export function AuthProviders() {
+  const { t } = useLanguage();
+
   return (
-    <div className="py-6 text-center">
-      <span className="text-[10px] font-mono text-orange-400 uppercase">🔐 全棧登錄支持</span>
-      <div className="flex flex-wrap justify-center gap-5 mt-3">
+    <div className="py-8 text-center border-t border-white/5">
+      <h3 className="text-sm font-semibold text-orange-400 mb-1">{t("footer.auth")}</h3>
+      <p className="text-[10px] text-gray-500 mb-4">FULL-STACK · LOGIN SUPPORT</p>
+      <div className="flex flex-wrap justify-center gap-5">
         {authProviders.map((item) => (
           <item.icon key={item.name} className="w-5 h-5 hover:scale-125 transition-transform cursor-pointer" style={{ color: item.color }} title={item.name} />
         ))}
       </div>
-      <div className="flex justify-center gap-4 mt-2 text-[9px] text-gray-600">
+      <div className="flex justify-center gap-4 mt-3 text-[9px] text-gray-600">
         <span><span className="inline-block w-1.5 h-1.5 rounded-full bg-green-500 mr-1" />Native</span>
         <span><span className="inline-block w-1.5 h-1.5 rounded-full bg-blue-400 mr-1" />OAuth</span>
         <span><span className="inline-block w-1.5 h-1.5 rounded-full bg-purple-400 mr-1" />SSO</span>

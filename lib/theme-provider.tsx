@@ -2,7 +2,7 @@
 
 import React, { createContext, useContext, useEffect, useState } from "react";
 
-type Theme = "warm" | "cool" | "dark";
+type Theme = "warm" | "dark";
 
 type ThemeContextType = {
   theme: Theme;
@@ -16,7 +16,7 @@ export function ThemeProvider({ children }: { children: React.ReactNode }) {
 
   useEffect(() => {
     const savedTheme = localStorage.getItem("theme") as Theme;
-    if (savedTheme) {
+    if (savedTheme && (savedTheme === "warm" || savedTheme === "dark")) {
       setTheme(savedTheme);
     }
   }, []);
