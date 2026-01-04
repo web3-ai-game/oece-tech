@@ -9,8 +9,11 @@ import { TechStack } from "@/components/tech-stack";
 import { AssetShowcase } from "@/components/asset-showcase";
 import { SocialChannels, AuthProviders } from "@/components/social-channels";
 import { Sparkles, MessageSquare, Zap, FileText, CreditCard } from "lucide-react";
+import { useLanguage } from "@/lib/language-provider";
 
 export default function Home() {
+  const { t } = useLanguage();
+
   return (
     <div className="min-h-screen w-full bg-[var(--background)] text-[var(--foreground)] transition-colors duration-300">
       {/* Header */}
@@ -20,22 +23,22 @@ export default function Home() {
             <Sparkles className="h-5 w-5 text-[var(--primary)]" />
             <span className="text-lg font-semibold">OECE.tech</span>
           </div>
-          
+
           <div className="flex items-center gap-3">
             <Link href="/knowledge" className="px-3 py-1.5 text-sm hover:text-[var(--primary)] transition-colors">
-              Knowledge
+              {t("nav.knowledge")}
             </Link>
             <Link href="/pricing" className="px-3 py-1.5 text-sm hover:text-[var(--primary)] transition-colors">
-              Pricing
+              {t("nav.pricing")}
             </Link>
             <TokenMeter />
             <LanguageToggle />
             <ThemeToggle />
             <Link href="/login" className="px-3 py-1.5 text-sm hover:text-[var(--primary)] transition-colors">
-              Sign In
+              {t("nav.signIn")}
             </Link>
             <Link href="/register" className="px-3 py-1.5 text-sm bg-[var(--primary)] text-white rounded-lg hover:opacity-90 transition-opacity">
-              Get Started
+              {t("nav.getStarted")}
             </Link>
           </div>
         </div>
@@ -47,10 +50,10 @@ export default function Home() {
           {/* Hero */}
           <div className="text-center mb-8">
             <h1 className="text-4xl md:text-5xl font-bold mb-3 leading-tight">
-              AI-Powered <span className="text-[var(--primary)]">Knowledge Engine</span>
+              {t("hero.title")} <span className="text-[var(--primary)]">{t("hero.highlight")}</span>
             </h1>
             <p className="text-sm text-[var(--foreground)]/60 max-w-xl mx-auto">
-              Chat with Gemini AI, explore knowledge base, unlock the future.
+              {t("hero.subtitle")}
             </p>
           </div>
 
@@ -58,35 +61,35 @@ export default function Home() {
           <div className="mb-6">
             <ChatWindow />
           </div>
-          
+
           {/* Quick Actions */}
           <div className="flex justify-center gap-3 mb-8">
-            <button className="flex items-center gap-2 px-4 py-2 border border-[var(--foreground)]/20 rounded-lg text-xs hover:border-[var(--primary)] transition-colors">
+            <Link href="/pricing" className="flex items-center gap-2 px-4 py-2 border border-[var(--foreground)]/20 rounded-lg text-xs hover:border-[var(--primary)] transition-colors">
               <CreditCard className="h-3.5 w-3.5" />
-              Pricing
-            </button>
-            <button className="flex items-center gap-2 px-4 py-2 border border-[var(--foreground)]/20 rounded-lg text-xs hover:border-[var(--primary)] transition-colors">
+              {t("cta.pricing")}
+            </Link>
+            <Link href="/knowledge" className="flex items-center gap-2 px-4 py-2 border border-[var(--foreground)]/20 rounded-lg text-xs hover:border-[var(--primary)] transition-colors">
               <FileText className="h-3.5 w-3.5" />
-              Docs
-            </button>
+              {t("cta.docs")}
+            </Link>
           </div>
 
           {/* Features - Inline */}
           <div className="grid grid-cols-3 gap-3 max-w-2xl mx-auto mb-12">
             <div className="p-3 rounded-lg bg-[var(--foreground)]/5 hover:bg-[var(--foreground)]/10 transition-colors text-center">
               <Sparkles className="h-4 w-4 text-[var(--primary)] mx-auto mb-1" />
-              <h3 className="text-xs font-semibold mb-0.5">Gemini Pro</h3>
-              <p className="text-[10px] text-[var(--foreground)]/50">Unlimited Lite</p>
+              <h3 className="text-xs font-semibold mb-0.5">{t("features.gemini.title")}</h3>
+              <p className="text-[10px] text-[var(--foreground)]/50">{t("features.gemini.desc")}</p>
             </div>
             <div className="p-3 rounded-lg bg-[var(--foreground)]/5 hover:bg-[var(--foreground)]/10 transition-colors text-center">
               <MessageSquare className="h-4 w-4 text-[var(--primary)] mx-auto mb-1" />
-              <h3 className="text-xs font-semibold mb-0.5">Smart Chat</h3>
-              <p className="text-[10px] text-[var(--foreground)]/50">Multi-modal</p>
+              <h3 className="text-xs font-semibold mb-0.5">{t("features.chat.title")}</h3>
+              <p className="text-[10px] text-[var(--foreground)]/50">{t("features.chat.desc")}</p>
             </div>
             <div className="p-3 rounded-lg bg-[var(--foreground)]/5 hover:bg-[var(--foreground)]/10 transition-colors text-center">
               <Zap className="h-4 w-4 text-[var(--primary)] mx-auto mb-1" />
-              <h3 className="text-xs font-semibold mb-0.5">Beta Free</h3>
-              <p className="text-[10px] text-[var(--foreground)]/50">All features</p>
+              <h3 className="text-xs font-semibold mb-0.5">{t("features.beta.title")}</h3>
+              <p className="text-[10px] text-[var(--foreground)]/50">{t("features.beta.desc")}</p>
             </div>
           </div>
         </div>

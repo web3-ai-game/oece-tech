@@ -48,11 +48,11 @@ export function AssetShowcase() {
             <div className="space-y-2 text-sm">
               <div className="flex justify-between">
                 <span className="text-gray-400">GCP Credits</span>
-                <span className="font-mono text-green-400">$300 (฿10,500)</span>
+                <span className="font-mono text-green-400">$300</span>
               </div>
               <div className="flex justify-between">
                 <span className="text-gray-400">Gemini API Credits</span>
-                <span className="font-mono text-green-400">$1,000 (฿35,000)</span>
+                <span className="font-mono text-green-400">$1,000</span>
               </div>
               <div className="flex justify-between">
                 <span className="text-gray-400">Workspace Education</span>
@@ -111,19 +111,19 @@ export function AssetShowcase() {
             <Zap className="h-6 w-6 text-yellow-400 mx-auto mb-2" />
             <div className="text-xl font-bold text-white mb-1">28+1</div>
             <div className="text-xs text-gray-400">Gemini API Keys</div>
-            <div className="text-xs font-mono text-green-400 mt-1">฿101,500</div>
+            <div className="text-xs font-mono text-green-400 mt-1">$2,900</div>
           </div>
           <div className="p-4 rounded-xl bg-white/5 border border-white/10 text-center">
             <Database className="h-6 w-6 text-blue-400 mx-auto mb-2" />
             <div className="text-xl font-bold text-white mb-1">$1,111</div>
             <div className="text-xs text-gray-400">OpenRouter Balance</div>
-            <div className="text-xs font-mono text-green-400 mt-1">฿38,885</div>
+            <div className="text-xs font-mono text-green-400 mt-1">$1,111</div>
           </div>
           <div className="p-4 rounded-xl bg-white/5 border border-white/10 text-center">
             <Shield className="h-6 w-6 text-purple-400 mx-auto mb-2" />
             <div className="text-xl font-bold text-white mb-1">$100</div>
             <div className="text-xs text-gray-400">Claude Kilo (至 2030)</div>
-            <div className="text-xs font-mono text-green-400 mt-1">฿3,500</div>
+            <div className="text-xs font-mono text-green-400 mt-1">$100</div>
           </div>
         </motion.div>
 
@@ -139,17 +139,17 @@ export function AssetShowcase() {
             <h3 className="text-lg font-bold">Total Digital Assets</h3>
           </div>
           <div className="text-4xl font-bold text-yellow-400 mb-1">
-            ฿7,185,885
+            $205,311
           </div>
           <div className="text-sm text-gray-400">
-            $205,311 USD · 資本重組 · 算力池根本
+            USD · Capital Restructuring · Compute Power Foundation
           </div>
           <div className="mt-4 flex justify-center gap-6 text-xs text-gray-500">
-            <span>💰 Liquid: ฿185,885</span>
+            <span>💰 Liquid: $5,311</span>
             <span>•</span>
-            <span>📦 Subscriptions: ฿7M</span>
+            <span>📦 Subscriptions: $200K</span>
             <span>•</span>
-            <span>📊 Monthly Cost: ฿1,547</span>
+            <span>📊 Monthly Cost: $44</span>
           </div>
         </motion.div>
       </div>

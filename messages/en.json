@@ -1,13 +1,14 @@
 {
   "nav": {
     "home": "Home",
-    "knowledge": "Knowledge Base",
+    "knowledge": "Knowledge",
+    "pricing": "Pricing",
     "signIn": "Sign In",
     "getStarted": "Get Started"
   },
   "hero": {
     "title": "AI-Powered",
-    "titleHighlight": "Knowledge Engine",
+    "highlight": "Knowledge Engine",
     "subtitle": "Chat with Gemini AI, explore knowledge base, unlock the future."
   },
   "chat": {

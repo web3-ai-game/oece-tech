@@ -1,6 +1,6 @@
 "use client";
 
-import { Sun, Snowflake, Moon } from "lucide-react";
+import { Sun, Moon } from "lucide-react";
 import { useTheme } from "@/lib/theme-provider";
 import { cn } from "@/lib/utils";
 
@@ -9,7 +9,6 @@ export function ThemeToggle() {
 
   const themes = [
     { name: "warm", icon: Sun, label: "Warm" },
-    { name: "cool", icon: Snowflake, label: "Cool" },
     { name: "dark", icon: Moon, label: "Dark" },
   ] as const;
 

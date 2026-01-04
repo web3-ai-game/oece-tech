@@ -2,12 +2,13 @@
   "nav": {
     "home": "首頁",
     "knowledge": "知識庫",
+    "pricing": "價格",
     "signIn": "登錄",
     "getStarted": "開始使用"
   },
   "hero": {
     "title": "AI 驅動",
-    "titleHighlight": "知識引擎",
+    "highlight": "知識引擎",
     "subtitle": "與 Gemini AI 對話，探索知識庫，解鎖未來。"
   },
   "chat": {
