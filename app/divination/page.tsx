@@ -2,7 +2,7 @@
 
 import { useState } from "react";
 import Link from "next/link";
-import { Sparkles, Moon, Star, Zap, Eye, Heart } from "lucide-react";
+import { Sparkles, Moon, Star, Zap, Eye, Heart, Loader2 } from "lucide-react";
 
 const divinationTypes = [
   {
@@ -59,6 +59,41 @@ const divinationTypes = [
 
 export default function DivinationPage() {
   const [selectedType, setSelectedType] = useState(divinationTypes[0]);
+  const [question, setQuestion] = useState("");
+  const [response, setResponse] = useState("");
+  const [isLoading, setIsLoading] = useState(false);
+  const [error, setError] = useState("");
+
+  const handleDivination = async () => {
+    if (!question.trim()) {
+      setError("請輸入你的問題");
+      return;
+    }
+
+    setIsLoading(true);
+    setError("");
+    setResponse("");
+
+    try {
+      const res = await fetch(`/api/divination/${selectedType.id}`, {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({ question }),
+      });
+
+      const data = await res.json();
+
+      if (!res.ok) {
+        throw new Error(data.error || "占卜失敗");
+      }
+
+      setResponse(data.response);
+    } catch (err: any) {
+      setError(err.message || "占卜服務暫時不可用");
+    } finally {
+      setIsLoading(false);
+    }
+  };
 
   return (
     <div className="min-h-screen bg-[var(--background)] text-[var(--foreground)]">
@@ -134,16 +169,52 @@ export default function DivinationPage() {
             <div className="mb-6">
               <label className="block text-sm font-medium mb-2">你的問題 / Your Question</label>
               <textarea
+                value={question}
+                onChange={(e) => setQuestion(e.target.value)}
                 placeholder="請輸入你想要占卜的問題... (例如：我的事業發展如何？)"
                 className="w-full h-32 p-4 bg-white/5 border border-white/10 rounded-xl focus:border-purple-500 outline-none resize-none"
+                disabled={isLoading}
               />
             </div>
 
+            {/* Error Message */}
+            {error && (
+              <div className="mb-4 p-3 bg-red-500/20 border border-red-500/50 rounded-lg text-red-400 text-sm">
+                {error}
+              </div>
+            )}
+
             {/* Action Button */}
-            <button className="w-full py-4 bg-gradient-to-r from-purple-500 to-pink-500 text-white rounded-xl font-medium hover:opacity-90 transition-opacity flex items-center justify-center gap-2">
-              <selectedType.icon className="h-5 w-5" />
-              開始 {selectedType.name} - {selectedType.cost}
+            <button 
+              onClick={handleDivination}
+              disabled={isLoading || !question.trim()}
+              className="w-full py-4 bg-gradient-to-r from-purple-500 to-pink-500 text-white rounded-xl font-medium hover:opacity-90 transition-opacity flex items-center justify-center gap-2 disabled:opacity-50 disabled:cursor-not-allowed"
+            >
+              {isLoading ? (
+                <>
+                  <Loader2 className="h-5 w-5 animate-spin" />
+                  占卜中...
+                </>
+              ) : (
+                <>
+                  <selectedType.icon className="h-5 w-5" />
+                  開始 {selectedType.name} - {selectedType.cost}
+                </>
+              )}
             </button>
+
+            {/* Response */}
+            {response && (
+              <div className="mt-6 p-6 bg-gradient-to-br from-purple-500/10 to-pink-500/10 border border-purple-500/30 rounded-xl">
+                <h3 className="text-lg font-bold mb-3 flex items-center gap-2">
+                  <selectedType.icon className="h-5 w-5" style={{ color: selectedType.color }} />
+                  {selectedType.name}結果
+                </h3>
+                <div className="text-sm text-gray-300 whitespace-pre-wrap leading-relaxed">
+                  {response}
+                </div>
+              </div>
+            )}
 
             {/* Disclaimer */}
             <p className="mt-4 text-xs text-center text-gray-600">
