@@ -1,13 +1,16 @@
 // ❤️ 论坛点赞 API
 
 import { NextRequest, NextResponse } from 'next/server';
-import { supabase, TABLES } from '@/lib/supabase/client';
+import { getSupabase, TABLES } from '@/lib/supabase/client';
 
 /**
  * POST - 点赞/取消点赞
  */
 export async function POST(request: NextRequest) {
   try {
+    // 獲取 supabase client
+    const supabase = getSupabase();
+
     const body = await request.json();
     const { userId, targetType, targetId } = body;
 

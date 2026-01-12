@@ -1,7 +1,7 @@
 // 📝 单个帖子 API
 
 import { NextRequest, NextResponse } from 'next/server';
-import { supabase, TABLES } from '@/lib/supabase/client';
+import { getSupabase, TABLES } from '@/lib/supabase/client';
 
 /**
  * GET - 获取单个帖子
@@ -11,6 +11,9 @@ export async function GET(
   { params }: { params: Promise<{ id: string }> }
 ) {
   try {
+    // 獲取 supabase client
+    const supabase = getSupabase();
+
     const { id } = await params;
 
     // 获取帖子
@@ -49,6 +52,9 @@ export async function DELETE(
   { params }: { params: Promise<{ id: string }> }
 ) {
   try {
+    // 獲取 supabase client
+    const supabase = getSupabase();
+
     const { id } = await params;
     const body = await request.json();
     const { userId } = body;

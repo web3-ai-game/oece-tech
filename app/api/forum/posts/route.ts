@@ -1,13 +1,16 @@
 // 📝 论坛帖子 API
 
 import { NextRequest, NextResponse } from 'next/server';
-import { supabase, TABLES } from '@/lib/supabase/client';
+import { getSupabase, TABLES } from '@/lib/supabase/client';
 
 /**
  * GET - 获取帖子列表
  */
 export async function GET(request: NextRequest) {
   try {
+    // 獲取 supabase client
+    const supabase = getSupabase();
+
     const { searchParams } = new URL(request.url);
     const category = searchParams.get('category');
     const page = parseInt(searchParams.get('page') || '1');
@@ -56,6 +59,9 @@ export async function GET(request: NextRequest) {
  */
 export async function POST(request: NextRequest) {
   try {
+    // 獲取 supabase client
+    const supabase = getSupabase();
+
     const body = await request.json();
     const { userId, userName, title, content, category, tags } = body;
 
