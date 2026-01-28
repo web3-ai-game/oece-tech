@@ -1,0 +1,121 @@
+{
+  "propositions": [
+    {
+      "id": "1",
+      "text": "Mirror of Love: A story of emotional entanglement between one girl and two boys",
+      "level": 1
+    },
+    {
+      "id": "1.1",
+      "text": "Initial encounter marks the beginning of a complex relationship",
+      "level": 2
+    },
+    {
+      "id": "1.2",
+      "text": "Campus life introduces the protagonist to contrasting personalities of twin brothers",
+      "level": 2
+    },
+    {
+      "id": "1.3",
+      "text": "Emotional conflicts arise from differing interactions with Gu Han and Gu Ye",
+      "level": 2
+    },
+    {
+      "id": "1.4",
+      "text": "Deepening emotional bonds lead to confusion and struggle over feelings",
+      "level": 2
+    },
+    {
+      "id": "1.5",
+      "text": "Revelation of hidden truths about family connections complicates relationships",
+      "level": 2
+    },
+    {
+      "id": "1.6",
+      "text": "Final decision to leave reflects on the nature of love and personal growth",
+      "level": 2
+    },
+    {
+      "id": "2",
+      "text": "Themes of love, choice, and identity are central to the narrative",
+      "level": 1
+    },
+    {
+      "id": "2.1",
+      "text": "Love as a mirror reflecting personal desires and insecurities",
+      "level": 2
+    },
+    {
+      "id": "2.2",
+      "text": "Choice as a dilemma between warmth and mystery",
+      "level": 2
+    },
+    {
+      "id": "2.3",
+      "text": "Identity tied to past connections and self-discovery",
+      "level": 2
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Love",
+      "frequency": 10,
+      "context": "Central theme involving emotional entanglement and romantic tension"
+    },
+    {
+      "name": "Choice",
+      "frequency": 8,
+      "context": "Protagonist's struggle to choose between two contrasting personalities"
+    },
+    {
+      "name": "Identity",
+      "frequency": 6,
+      "context": "Revelation of hidden family ties and personal background"
+    },
+    {
+      "name": "Contrast",
+      "frequency": 5,
+      "context": "Personality differences between Gu Han (warmth) and Gu Ye (coldness)"
+    },
+    {
+      "name": "Separation",
+      "frequency": 4,
+      "context": "Final decision to leave and start anew"
+    }
+  ],
+  "relations": [
+    {
+      "source": "Love",
+      "target": "Choice",
+      "type": "implies"
+    },
+    {
+      "source": "Love",
+      "target": "Contrast",
+      "type": "part_of"
+    },
+    {
+      "source": "Choice",
+      "target": "Identity",
+      "type": "influences"
+    },
+    {
+      "source": "Identity",
+      "target": "Separation",
+      "type": "leads_to"
+    },
+    {
+      "source": "Contrast",
+      "target": "Choice",
+      "type": "complicates"
+    }
+  ],
+  "hierarchy": {
+    "main_topics": [
+      "Emotional Entanglement",
+      "Personal Growth and Identity",
+      "Choices and Consequences"
+    ],
+    "structure": "The document follows a linear narrative structure with six chapters and an epilogue, detailing the protagonist's journey from encounter to separation, focusing on emotional and relational development."
+  }
+}

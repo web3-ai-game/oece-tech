@@ -1,0 +1,246 @@
+{
+  "propositions": [
+    {
+      "id": "1",
+      "text": "我的老婆是重生的。",
+      "level": 1
+    },
+    {
+      "id": "1.1",
+      "text": "主角的妻子经历了重生。",
+      "level": 2
+    },
+    {
+      "id": "1.1.1",
+      "text": "妻子在重生前经历了一些事情。",
+      "level": 3
+    },
+    {
+      "id": "1.1.2",
+      "text": "重生后的妻子与过去的生活有所不同。",
+      "level": 3
+    },
+    {
+      "id": "1.2",
+      "text": "主角在妻子的重生过程中扮演了重要角色。",
+      "level": 2
+    },
+    {
+      "id": "1.2.1",
+      "text": "主角对妻子的重生有所了解。",
+      "level": 3
+    },
+    {
+      "id": "1.2.2",
+      "text": "主角与重生后的妻子共同面对挑战。",
+      "level": 3
+    },
+    {
+      "id": "1.3",
+      "text": "重生带来了新的生活和新的机遇。",
+      "level": 2
+    },
+    {
+      "id": "1.3.1",
+      "text": "重生后的生活充满了未知。",
+      "level": 3
+    },
+    {
+      "id": "1.3.2",
+      "text": "重生提供了改变过去和未来的可能性。",
+      "level": 3
+    },
+    {
+      "id": "2",
+      "text": "故事围绕着主角和他的重生妻子展开。",
+      "level": 1
+    },
+    {
+      "id": "2.1",
+      "text": "情节涉及主角和妻子的日常生活。",
+      "level": 2
+    },
+    {
+      "id": "2.2",
+      "text": "情节涉及主角和妻子共同经历的事件。",
+      "level": 2
+    },
+    {
+      "id": "2.2.1",
+      "text": "这些事件可能与妻子的重生有关。",
+      "level": 3
+    },
+    {
+      "id": "2.3",
+      "text": "情节可能涉及其他人物。",
+      "level": 2
+    },
+    {
+      "id": "3",
+      "text": "故事探讨了爱情、命运和改变的可能性。",
+      "level": 1
+    },
+    {
+      "id": "3.1",
+      "text": "主角对妻子的爱是故事的核心。",
+      "level": 2
+    },
+    {
+      "id": "3.2",
+      "text": "命运的轨迹可以通过重生来改变。",
+      "level": 2
+    },
+    {
+      "id": "3.3",
+      "text": "改变和成长的机会因重生而存在。",
+      "level": 2
+    }
+  ],
+  "concepts": [
+    {
+      "name": "重生",
+      "frequency": 15,
+      "context": "核心概念，指故事中妻子死而复生并回到过去的生活。"
+    },
+    {
+      "name": "妻子",
+      "frequency": 12,
+      "context": "故事中的核心人物，经历了重生。"
+    },
+    {
+      "name": "主角",
+      "frequency": 10,
+      "context": "故事的男性主人公，与妻子共同经历重生后的生活。"
+    },
+    {
+      "name": "生活",
+      "frequency": 8,
+      "context": "指主角和妻子在重生前后的生活状态。"
+    },
+    {
+      "name": "过去",
+      "frequency": 6,
+      "context": "指妻子重生前的生活和经历。"
+    },
+    {
+      "name": "未来",
+      "frequency": 5,
+      "context": "指重生后主角和妻子将要面对的生活。"
+    },
+    {
+      "name": "爱情",
+      "frequency": 4,
+      "context": "故事中主角和妻子之间的情感。"
+    },
+    {
+      "name": "命运",
+      "frequency": 3,
+      "context": "关于人生轨迹是否可以被改变的讨论。"
+    },
+    {
+      "name": "可能性",
+      "frequency": 3,
+      "context": "指重生带来的改变和新的机会。"
+    },
+    {
+      "name": "挑战",
+      "frequency": 3,
+      "context": "主角和妻子在重生后共同面对的困难。"
+    },
+    {
+      "name": "事件",
+      "frequency": 3,
+      "context": "故事中发生的情节，与妻子的重生有关。"
+    },
+    {
+      "name": "人物",
+      "frequency": 2,
+      "context": "故事中除了主角和妻子之外的其他角色。"
+    },
+    {
+      "name": "成长",
+      "frequency": 2,
+      "context": "指角色在经历重生后的发展和变化。"
+    }
+  ],
+  "relations": [
+    {
+      "source": "妻子",
+      "target": "重生",
+      "type": "experiences"
+    },
+    {
+      "source": "主角",
+      "target": "妻子",
+      "type": "is_partner_of"
+    },
+    {
+      "source": "主角",
+      "target": "重生",
+      "type": "is_aware_of"
+    },
+    {
+      "source": "主角",
+      "target": "生活",
+      "type": "lives_in"
+    },
+    {
+      "source": "妻子",
+      "target": "生活",
+      "type": "lives_in"
+    },
+    {
+      "source": "生活",
+      "target": "过去",
+      "type": "refers_to"
+    },
+    {
+      "source": "生活",
+      "target": "未来",
+      "type": "refers_to"
+    },
+    {
+      "source": "重生",
+      "target": "可能性",
+      "type": "enables"
+    },
+    {
+      "source": "重生",
+      "target": "命运",
+      "type": "affects"
+    },
+    {
+      "source": "重生",
+      "target": "挑战",
+      "type": "creates"
+    },
+    {
+      "source": "爱情",
+      "target": "主角",
+      "type": "is_between"
+    },
+    {
+      "source": "爱情",
+      "target": "妻子",
+      "type": "is_between"
+    },
+    {
+      "source": "事件",
+      "target": "重生",
+      "type": "related_to"
+    },
+    {
+      "source": "成长",
+      "target": "重生",
+      "type": "is_result_of"
+    }
+  ],
+  "hierarchy": {
+    "main_topics": [
+      "妻子的重生",
+      "主角与妻子的关系",
+      "重生带来的影响与探讨"
+    ],
+    "structure": "文本围绕核心概念“重生”展开，通过主角和妻子的视角，探讨了重生带来的生活变化、情感关系以及对命运和可能性的思考。结构上，以“我的老婆是重生的”为主命题，向下展开关于妻子重生经历、主角的作用、以及重生所带来的新生活和新机遇等子命题。"
+  }
+}

@@ -1,0 +1,476 @@
+/* 进度指示器组件样式 */
+
+/* 环形进度条 - 渐变风格 */
+.circularContainer {
+  position: relative;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.circularSvg {
+  transform: rotate(-90deg);
+}
+
+.circularBg {
+  fill: none;
+  stroke: rgba(148, 163, 184, 0.1);
+}
+
+.circularProgress {
+  fill: none;
+  stroke-linecap: round;
+  transition: stroke-dashoffset 0.5s ease;
+}
+
+.circularLabel {
+  position: absolute;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.circularPercentage {
+  font-size: 1.5rem;
+  font-weight: bold;
+  background: linear-gradient(135deg, #a855f7 0%, #ec4899 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+.circularText {
+  font-size: 0.75rem;
+  color: #64748b;
+  margin-top: 0.25rem;
+}
+
+/* 尺寸变体 */
+.small .circularPercentage {
+  font-size: 1rem;
+}
+
+.small .circularText {
+  font-size: 0.625rem;
+}
+
+.large .circularPercentage {
+  font-size: 2rem;
+}
+
+.large .circularText {
+  font-size: 0.875rem;
+}
+
+/* 环形进度条 - 动画风格 */
+.circularAnimated {
+  position: relative;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.circularSvgAnimated {
+  transform: rotate(-90deg);
+  filter: drop-shadow(0 4px 6px rgba(168, 85, 247, 0.1));
+}
+
+.outerRing {
+  stroke: rgba(168, 85, 247, 0.1);
+  animation: rotate 20s linear infinite;
+}
+
+@keyframes rotate {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
+
+.circularBgAnimated {
+  fill: none;
+  stroke: rgba(30, 41, 59, 0.2);
+}
+
+.circularProgressAnimated {
+  fill: none;
+  stroke: #a855f7;
+  stroke-linecap: round;
+  transition: stroke-dashoffset 1s cubic-bezier(0.4, 0, 0.2, 1);
+  filter: drop-shadow(0 0 8px rgba(168, 85, 247, 0.5));
+}
+
+.glowDot {
+  filter: drop-shadow(0 0 6px rgba(168, 85, 247, 0.8));
+  animation: pulse 2s ease-in-out infinite;
+}
+
+@keyframes pulse {
+  0%, 100% { opacity: 1; }
+  50% { opacity: 0.6; }
+}
+
+.circularLabelAnimated {
+  position: absolute;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.percentageAnimated {
+  font-size: 2.5rem;
+  font-weight: 800;
+  color: #e2e8f0;
+  line-height: 1;
+}
+
+.percentageSymbol {
+  font-size: 1.25rem;
+  color: #a855f7;
+  margin-top: -0.5rem;
+}
+
+.progressStatus {
+  font-size: 0.75rem;
+  color: #64748b;
+  margin-top: 0.5rem;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+}
+
+/* 步骤进度条 - 线性风格 */
+.stepLinearContainer {
+  padding: 2rem;
+  background: linear-gradient(135deg, #1e293b 0%, #0f172a 100%);
+  border-radius: 1rem;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.3);
+}
+
+.stepLinearTrack {
+  display: flex;
+  align-items: flex-start;
+  position: relative;
+  margin-bottom: 2rem;
+}
+
+.stepLinearItem {
+  flex: 1;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.stepLinearContent {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  z-index: 2;
+}
+
+.stepLinearCircle {
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: 600;
+  transition: all 0.3s ease;
+  position: relative;
+}
+
+.stepLinearCircle.completed {
+  background: linear-gradient(135deg, #22c55e 0%, #16a34a 100%);
+  color: white;
+  box-shadow: 0 4px 12px rgba(34, 197, 94, 0.3);
+}
+
+.stepLinearCircle.current {
+  background: linear-gradient(135deg, #a855f7 0%, #ec4899 100%);
+  color: white;
+  box-shadow: 0 4px 12px rgba(168, 85, 247, 0.4);
+  animation: currentPulse 2s ease-in-out infinite;
+}
+
+@keyframes currentPulse {
+  0%, 100% { transform: scale(1); box-shadow: 0 4px 12px rgba(168, 85, 247, 0.4); }
+  50% { transform: scale(1.1); box-shadow: 0 6px 20px rgba(168, 85, 247, 0.6); }
+}
+
+.stepLinearCircle.pending {
+  background: rgba(148, 163, 184, 0.1);
+  border: 2px solid rgba(148, 163, 184, 0.3);
+  color: #64748b;
+}
+
+.checkIcon {
+  width: 20px;
+  height: 20px;
+}
+
+.stepLinearInfo {
+  margin-top: 1rem;
+  text-align: center;
+  max-width: 120px;
+}
+
+.stepLinearTitle {
+  font-size: 0.875rem;
+  color: #cbd5e1;
+  font-weight: 500;
+  margin: 0;
+}
+
+.currentTitle {
+  color: #a855f7;
+  font-weight: 600;
+}
+
+.stepLinearDescription {
+  font-size: 0.75rem;
+  color: #64748b;
+  margin: 0.25rem 0 0;
+  line-height: 1.4;
+}
+
+.stepLinearLine {
+  position: absolute;
+  top: 20px;
+  left: 50%;
+  width: 100%;
+  height: 2px;
+  background: rgba(148, 163, 184, 0.2);
+  z-index: 1;
+}
+
+.stepLinearLine.activeLine {
+  background: linear-gradient(90deg, #22c55e 0%, #a855f7 100%);
+}
+
+.stepLinearStats {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding-top: 1rem;
+  border-top: 1px solid rgba(148, 163, 184, 0.1);
+}
+
+.statsText {
+  color: #94a3b8;
+  font-size: 0.875rem;
+  font-weight: 500;
+}
+
+.linearProgressBar {
+  flex: 1;
+  max-width: 200px;
+  height: 6px;
+  background: rgba(148, 163, 184, 0.1);
+  border-radius: 3px;
+  overflow: hidden;
+  margin-left: 1rem;
+}
+
+.linearProgressFill {
+  height: 100%;
+  background: linear-gradient(90deg, #a855f7 0%, #ec4899 100%);
+  border-radius: 3px;
+  transition: width 0.5s ease;
+}
+
+/* 步骤进度条 - 垂直时间线风格 */
+.stepVerticalContainer {
+  padding: 2rem;
+  background: linear-gradient(135deg, #f8fafc 0%, #f1f5f9 100%);
+  border-radius: 1rem;
+  position: relative;
+}
+
+.stepVerticalItem {
+  display: flex;
+  position: relative;
+  margin-bottom: 2rem;
+}
+
+.stepVerticalItem:last-child {
+  margin-bottom: 0;
+}
+
+.stepVerticalLeft {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-right: 1.5rem;
+}
+
+.stepVerticalIcon {
+  width: 48px;
+  height: 48px;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: 600;
+  z-index: 2;
+  transition: all 0.3s ease;
+}
+
+.completedIcon {
+  background: linear-gradient(135deg, #22c55e 0%, #16a34a 100%);
+  color: white;
+  box-shadow: 0 4px 12px rgba(34, 197, 94, 0.2);
+}
+
+.currentIcon {
+  background: linear-gradient(135deg, #a855f7 0%, #ec4899 100%);
+  color: white;
+  box-shadow: 0 6px 20px rgba(168, 85, 247, 0.3);
+  position: relative;
+}
+
+.currentIcon::after {
+  content: '';
+  position: absolute;
+  inset: -4px;
+  border-radius: 50%;
+  border: 2px solid rgba(168, 85, 247, 0.3);
+  animation: ripple 2s ease-in-out infinite;
+}
+
+@keyframes ripple {
+  0% { transform: scale(1); opacity: 1; }
+  100% { transform: scale(1.3); opacity: 0; }
+}
+
+.pendingIcon {
+  background: white;
+  border: 2px solid #e2e8f0;
+  color: #94a3b8;
+}
+
+.currentDot {
+  width: 12px;
+  height: 12px;
+  background: white;
+  border-radius: 50%;
+  animation: blink 1.5s ease-in-out infinite;
+}
+
+@keyframes blink {
+  0%, 100% { opacity: 1; }
+  50% { opacity: 0.5; }
+}
+
+.stepNumber {
+  font-size: 1rem;
+  color: #94a3b8;
+}
+
+.verticalCheckIcon {
+  width: 24px;
+  height: 24px;
+}
+
+.stepVerticalLine {
+  width: 2px;
+  flex: 1;
+  min-height: 40px;
+  background: #e2e8f0;
+  margin-top: 0.5rem;
+}
+
+.completedLine {
+  background: linear-gradient(180deg, #22c55e 0%, #a855f7 100%);
+}
+
+.stepVerticalRight {
+  flex: 1;
+  padding-top: 0.25rem;
+}
+
+.stepVerticalCard {
+  background: white;
+  border: 2px solid #e2e8f0;
+  border-radius: 0.75rem;
+  padding: 1.25rem;
+  transition: all 0.3s ease;
+}
+
+.currentCard {
+  border-color: #a855f7;
+  background: linear-gradient(135deg, rgba(168, 85, 247, 0.05) 0%, rgba(236, 72, 153, 0.05) 100%);
+  box-shadow: 0 4px 12px rgba(168, 85, 247, 0.1);
+}
+
+.completedCard {
+  border-color: #22c55e;
+  background: rgba(34, 197, 94, 0.05);
+}
+
+.stepVerticalTitle {
+  color: #1e293b;
+  font-size: 1.125rem;
+  font-weight: 600;
+  margin: 0 0 0.5rem;
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.currentBadge {
+  font-size: 0.75rem;
+  padding: 0.125rem 0.5rem;
+  background: linear-gradient(135deg, #a855f7 0%, #ec4899 100%);
+  color: white;
+  border-radius: 9999px;
+  font-weight: 500;
+}
+
+.stepVerticalDescription {
+  color: #64748b;
+  font-size: 0.875rem;
+  line-height: 1.6;
+  margin: 0;
+}
+
+.completedTag {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.25rem;
+  margin-top: 0.75rem;
+  padding: 0.25rem 0.75rem;
+  background: rgba(34, 197, 94, 0.1);
+  color: #22c55e;
+  border-radius: 9999px;
+  font-size: 0.75rem;
+  font-weight: 500;
+}
+
+.miniCheck {
+  width: 14px;
+  height: 14px;
+}
+
+/* 总体进度 */
+.overallProgress {
+  display: flex;
+  align-items: center;
+  gap: 1.5rem;
+  margin-top: 2rem;
+  padding-top: 2rem;
+  border-top: 2px solid #e2e8f0;
+}
+
+.overallText h5 {
+  color: #1e293b;
+  font-size: 1rem;
+  font-weight: 600;
+  margin: 0 0 0.25rem;
+}
+
+.overallText p {
+  color: #64748b;
+  font-size: 0.875rem;
+  margin: 0;
+}

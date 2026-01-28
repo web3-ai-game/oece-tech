@@ -1,0 +1,403 @@
+{
+  "propositions": [
+    {
+      "id": "1",
+      "text": "主人公在火车上遇到一位年轻且言语大胆的姑娘。",
+      "level": 1
+    },
+    {
+      "id": "1.1",
+      "text": "主人公对这位姑娘的言行举止感到不适，但姑娘的活力吸引了他。",
+      "level": 2
+    },
+    {
+      "id": "1.1.1",
+      "text": "姑娘声称自己唯一的妹妹不见了，并表达了对生活的不满。",
+      "level": 3
+    },
+    {
+      "id": "1.2",
+      "text": "姑娘自我介绍是一名在美国出生、在英国度过大部分时间的演员，与妹妹一起演出。",
+      "level": 2
+    },
+    {
+      "id": "1.3",
+      "text": "火车经过亚眠，勾起了主人公对战争的回忆。",
+      "level": 2
+    },
+    {
+      "id": "1.4",
+      "text": "主人公向姑娘讲述了自己参军受伤退役，目前担任议员私人秘书的工作。",
+      "level": 2
+    },
+    {
+      "id": "1.5",
+      "text": "主人公提到了自己与比利时侦探赫尔克里·波洛合住，并称赞波洛的能力。",
+      "level": 2
+    },
+    {
+      "id": "1.6",
+      "text": "姑娘表示对犯罪故事感兴趣，并提到了斯泰尔斯案件。",
+      "level": 2
+    },
+    {
+      "id": "1.7",
+      "text": "主人公向姑娘详细讲述了斯泰尔斯案件，姑娘听得入迷。",
+      "level": 2
+    },
+    {
+      "id": "1.8",
+      "text": "火车到达加来，姑娘在离开前留下“灰姑娘”的化名。",
+      "level": 2
+    },
+    {
+      "id": "2",
+      "text": "主人公第二天早上回到与波洛合住的公寓，波洛像往常一样注重整洁。",
+      "level": 1
+    },
+    {
+      "id": "2.1",
+      "text": "波洛收到一封来自法国的求援信，信中提到生命处于危险之中，请求波洛前往。",
+      "level": 2
+    },
+    {
+      "id": "2.1.1",
+      "text": "信件署名P.T.雷诺，提到在圣地亚哥居住过，并附有“看在上帝分上，速来!”的字样。",
+      "level": 3
+    },
+    {
+      "id": "2.2",
+      "text": "波洛和主人公决定立即启程前往法国，并乘特快列车前往维多利亚车站。",
+      "level": 2
+    },
+    {
+      "id": "2.3",
+      "text": "波洛在船上对即将发生的事情感到一种“aje ne sais quoi”的预感，认为将是一起棘手的案件。",
+      "level": 2
+    },
+    {
+      "id": "2.4",
+      "text": "两人到达梅兰维，未能见到前来迎接的汽车，感到失望。",
+      "level": 2
+    },
+    {
+      "id": "2.5",
+      "text": "在前往热内维芙别墅的路上，主人公被一位美丽的女子吸引，但波洛只看到了一个带着焦急眼光的女子。",
+      "level": 2
+    },
+    {
+      "id": "2.6",
+      "text": "到达热内维芙别墅时，门口的警官告知雷诺先生已于当天早晨被谋杀。",
+      "level": 2
+    },
+    {
+      "id": "3",
+      "text": "波洛与法国警官局长贝克斯会面，贝克斯已开始调查。",
+      "level": 1
+    },
+    {
+      "id": "3.1",
+      "text": "贝克斯先生提到雷诺先生的邀请信暗示他预料到危险，推翻了之前的理论。",
+      "level": 2
+    },
+    {
+      "id": "3.2",
+      "text": "检察官阿于特先生也加入了调查，并阅读了雷诺的求援信。",
+      "level": 2
+    },
+    {
+      "id": "3.3",
+      "text": "贝克斯先生讲述了案发现场情况：女仆弗朗索瓦发现前门半开，雷诺夫人被绑，雷诺先生尸体在别墅外的墓穴中被发现。",
+      "level": 2
+    },
+    {
+      "id": "3.4",
+      "text": "杜兰德医生估计雷诺先生死亡时间在凌晨二点到三点之间，死因是背后被刺一刀，并非自杀。",
+      "level": 2
+    },
+    {
+      "id": "3.5",
+      "text": "女仆弗朗索瓦的证词：昨晚十点半锁门，家中除雷诺先生外其他人都已上床。她提到雷诺先生昨晚接待了一位“多布勒尔夫人”。",
+      "level": 2
+    },
+    {
+      "id": "3.5.1",
+      "text": "弗朗索瓦认为多布勒尔夫人不是好人，且最近花费增多。",
+      "level": 3
+    },
+    {
+      "id": "3.6",
+      "text": "另一位女仆丹尼斯·乌拉尔的证词：昨晚来看雷诺先生的是一位小姐，而非多布勒尔夫人。她认为此小姐是英国人，并听到他们用英语交谈。",
+      "level": 2
+    },
+    {
+      "id": "3.6.1",
+      "text": "丹尼斯转述了雷诺先生对那位小姐说的最后一句话：“好啦……好啦……可是看在上帝分上，现在走吧!”",
+      "level": 3
+    },
+    {
+      "id": "3.7",
+      "text": "检察官对弗朗索瓦和丹尼斯证词的矛盾感到困惑，并询问了汽车情况，得知司机被临时打发走。",
+      "level": 2
+    },
+    {
+      "id": "4",
+      "text": "贝克斯先生认为丹尼斯的证词更可信，并出示了从雷诺先生口袋中发现的一封名叫“贝拉”的英国女人的威胁信。",
+      "level": 1
+    },
+    {
+      "id": "4.1",
+      "text": "波洛认为背面被刺一刀是女人的手法，但掘墓穴却是男人的工作，案件比看起来复杂。",
+      "level": 2
+    },
+    {
+      "id": "4.2",
+      "text": "波洛不认为雷诺先生的求援信是针对“贝拉”的，而是在圣地亚哥可能有更深的缘由。",
+      "level": 2
+    },
+    {
+      "id": "4.3",
+      "text": "在雷诺先生的遗物中，还发现了一份遗嘱，将大部分财产留给妻子埃洛伊丝，一千镑给秘书斯托纳，儿子杰克·雷诺则完全依赖母亲。",
+      "level": 2
+    },
+    {
+      "id": "4.4",
+      "text": "波洛和主人公参观了雷诺先生的书房。",
+      "level": 2
+    }
+  ],
+  "concepts": [
+    {
+      "name": "赫尔克里·波洛",
+      "frequency": 25,
+      "context": "主人公的老朋友，前比利时侦探，善于观察细微之处，推理能力超群。"
+    },
+    {
+      "name": "主人公 (叙述者/黑斯廷斯)",
+      "frequency": 18,
+      "context": "故事的叙述者，曾是一名军人，后成为议员的私人秘书，对波洛的案件感兴趣。"
+    },
+    {
+      "name": "雷诺先生",
+      "frequency": 14,
+      "context": "热内维芙别墅的主人，被谋杀的受害者，与多位女性有牵连，似乎卷入了复杂的事件。"
+    },
+    {
+      "name": "年轻女子 (“灰姑娘”)",
+      "frequency": 5,
+      "context": "主人公在火车上遇到的古灵精怪的年轻女子，是演员，可能与案件有某种关联。"
+    },
+    {
+      "name": "贝克斯先生",
+      "frequency": 6,
+      "context": "法国警官局长，与波洛认识，邀请波洛协助调查雷诺谋杀案。"
+    },
+    {
+      "name": "阿于特先生",
+      "frequency": 7,
+      "context": "法国检察官，负责雷诺谋杀案的调查，听取证人证词并与波洛讨论案情。"
+    },
+    {
+      "name": "弗朗索瓦",
+      "frequency": 7,
+      "context": "热内维芙别墅的老女仆，对多布勒尔夫人持负面看法，并提供了一些关于案发当晚情况的信息。"
+    },
+    {
+      "name": "丹尼斯·乌拉尔",
+      "frequency": 4,
+      "context": "热内维芙别墅的女仆，其证词与弗朗索瓦矛盾，认为当晚来访的是一位英国小姐而非多布勒尔夫人。"
+    },
+    {
+      "name": "多布勒尔夫人",
+      "frequency": 6,
+      "context": "一位被弗朗索瓦提及的女性，曾与雷诺先生有来往，其身份和角色存在疑点。"
+    },
+    {
+      "name": "雷诺夫人 (埃洛伊丝)",
+      "frequency": 4,
+      "context": "雷诺先生的妻子，在案发时被绑架，遗嘱显示雷诺先生对她有深厚的感情。"
+    },
+    {
+      "name": "贝拉",
+      "frequency": 3,
+      "context": "一位写威胁信给雷诺先生的英国女性，可能与雷诺先生有过一段感情纠葛。"
+    },
+    {
+      "name": "斯泰尔斯案件",
+      "frequency": 3,
+      "context": "波洛早期侦破的著名案件，在主人公与“灰姑娘”的对话中被提及，是主人公了解波洛能力的一个例子。"
+    },
+    {
+      "name": "谋杀案",
+      "frequency": 7,
+      "context": "故事的核心事件，雷诺先生的死亡，引发了波洛的调查。"
+    },
+    {
+      "name": "求援信",
+      "frequency": 3,
+      "context": "雷诺先生写给波洛的信，请求其帮助，是波洛介入案件的导火索。"
+    },
+    {
+      "name": "热内维芙别墅",
+      "frequency": 8,
+      "context": "雷诺先生的住所，也是案发地点，充斥着疑点和矛盾。"
+    },
+    {
+      "name": "巴黎",
+      "frequency": 1,
+      "context": "主人公结束事务后返回伦敦的出发地。"
+    },
+    {
+      "name": "伦敦",
+      "frequency": 2,
+      "context": "波洛定居的城市，也是主人公合住的公寓所在。"
+    },
+    {
+      "name": "加来",
+      "frequency": 4,
+      "context": "法国港口城市，主人公和波洛搭乘火车前往的目的地，也是波洛抵达法国的第一个地点。"
+    },
+    {
+      "name": "圣地亚哥",
+      "frequency": 3,
+      "context": "雷诺先生曾居住过的地方，可能与案件的根源有关。"
+    },
+    {
+      "name": "证词",
+      "frequency": 6,
+      "context": "案件调查中，各相关人员提供的关于案发情况的信息，存在矛盾之处。"
+    },
+    {
+      "name": "遗嘱",
+      "frequency": 2,
+      "context": "雷诺先生留下的文件，透露了他对家庭和财产的安排，以及对妻子的情感。"
+    }
+  ],
+  "relations": [
+    {
+      "source": "赫尔克里·波洛",
+      "target": "主人公 (叙述者/黑斯廷斯)",
+      "type": "friend_of"
+    },
+    {
+      "source": "雷诺先生",
+      "target": "谋杀案",
+      "type": "victim_of"
+    },
+    {
+      "source": "赫尔克里·波洛",
+      "target": "谋杀案",
+      "type": "investigator_of"
+    },
+    {
+      "source": "主人公 (叙述者/黑斯廷斯)",
+      "target": "赫尔克里·波洛",
+      "type": "companion_of"
+    },
+    {
+      "source": "求援信",
+      "target": "赫尔克里·波洛",
+      "type": "addressed_to"
+    },
+    {
+      "source": "雷诺先生",
+      "target": "求援信",
+      "type": "author_of"
+    },
+    {
+      "source": "雷诺先生",
+      "target": "热内维芙别墅",
+      "type": "owner_of"
+    },
+    {
+      "source": "热内维芙别墅",
+      "target": "谋杀案",
+      "type": "scene_of"
+    },
+    {
+      "source": "弗朗索瓦",
+      "target": "雷诺先生",
+      "type": "employee_of"
+    },
+    {
+      "source": "丹尼斯·乌拉尔",
+      "target": "雷诺先生",
+      "type": "employee_of"
+    },
+    {
+      "source": "雷诺夫人 (埃洛伊丝)",
+      "target": "雷诺先生",
+      "type": "spouse_of"
+    },
+    {
+      "source": "贝克斯先生",
+      "target": "赫尔克里·波洛",
+      "type": "acquaintance_of"
+    },
+    {
+      "source": "阿于特先生",
+      "target": "赫尔克里·波洛",
+      "type": "collaborator_of"
+    },
+    {
+      "source": "多布勒尔夫人",
+      "target": "雷诺先生",
+      "type": "associate_of"
+    },
+    {
+      "source": "贝拉",
+      "target": "雷诺先生",
+      "type": "associate_of"
+    },
+    {
+      "source": "雷诺先生",
+      "target": "斯泰尔斯案件",
+      "type": "interest_in"
+    },
+    {
+      "source": "年轻女子 (“灰姑娘”)",
+      "target": "主人公 (叙述者/黑斯廷斯)",
+      "type": "acquaintance_of"
+    },
+    {
+      "source": "主人公 (叙述者/黑斯廷斯)",
+      "target": "斯泰尔斯案件",
+      "type": "narrator_of"
+    },
+    {
+      "source": "圣地亚哥",
+      "target": "雷诺先生",
+      "type": "past_residence_of"
+    },
+    {
+      "source": "遗嘱",
+      "target": "雷诺先生",
+      "type": "created_by"
+    },
+    {
+      "source": "遗嘱",
+      "target": "雷诺夫人 (埃洛伊丝)",
+      "type": "beneficiary_of"
+    },
+    {
+      "source": "遗嘱",
+      "target": "斯托纳",
+      "type": "beneficiary_of"
+    },
+    {
+      "source": "遗嘱",
+      "target": "杰克·雷诺",
+      "type": "indirect_beneficiary_of"
+    }
+  ],
+  "hierarchy": {
+    "main_topics": [
+      "Introduction of Characters and Setting",
+      "The Mysterious Letter and Decision to Travel",
+      "Arrival at the Crime Scene and Initial Investigation",
+      "Conflicting Testimonies and Clues",
+      "Analysis of Evidence and Suspects"
+    ],
+    "structure": "The document is structured chronologically, moving from the narrator's initial encounter on the train, to the receipt of a plea for help, the arrival at the crime scene, and the subsequent investigation involving various witnesses and evidence. Each chapter introduces new characters and progresses the mystery."
+  }
+}

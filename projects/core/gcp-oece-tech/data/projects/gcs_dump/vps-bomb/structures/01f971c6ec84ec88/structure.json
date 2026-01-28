@@ -1,0 +1,106 @@
+{
+  "propositions": [
+    {
+      "id": "1",
+      "text": "凤舞苍穹 as the central narrative",
+      "level": 1
+    },
+    {
+      "id": "1.1",
+      "text": "序曲：苍穹之上 as the introduction",
+      "level": 2
+    },
+    {
+      "id": "1.2",
+      "text": "Chapters 1-6 as the main storyline progression",
+      "level": 2
+    },
+    {
+      "id": "1.3",
+      "text": "尾声：永恒的传说 as the conclusion",
+      "level": 2
+    },
+    {
+      "id": "2",
+      "text": "赠予：女神的目光 as a thematic motif",
+      "level": 1
+    },
+    {
+      "id": "2.1",
+      "text": "Sub-themes like 魅影, 幻影, 惊鸿 as symbolic elements",
+      "level": 2
+    },
+    {
+      "id": "2.2",
+      "text": "Concepts of eternity, rebirth, and destiny in narrative",
+      "level": 2
+    },
+    {
+      "id": "3",
+      "text": "结语：不朽的传奇 as gratitude and closure",
+      "level": 1
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Phoenix",
+      "frequency": 10,
+      "context": "Symbol of rebirth and transformation"
+    },
+    {
+      "name": "Cangqiong (Sky)",
+      "frequency": 15,
+      "context": "Represents ultimate power and domain"
+    },
+    {
+      "name": "Destiny",
+      "frequency": 8,
+      "context": "Central theme of fate and inevitability"
+    },
+    {
+      "name": "Eternity",
+      "frequency": 7,
+      "context": "Theme of timelessness and soul connection"
+    },
+    {
+      "name": "Love",
+      "frequency": 6,
+      "context": "Emotional core of the narrative"
+    }
+  ],
+  "relations": [
+    {
+      "source": "Phoenix",
+      "target": "Cangqiong",
+      "type": "rules_over"
+    },
+    {
+      "source": "Phoenix",
+      "target": "Destiny",
+      "type": "embodies"
+    },
+    {
+      "source": "Love",
+      "target": "Eternity",
+      "type": "implies"
+    },
+    {
+      "source": "Destiny",
+      "target": "Love",
+      "type": "shapes"
+    },
+    {
+      "source": "Phoenix",
+      "target": "Eternity",
+      "type": "achieves"
+    }
+  ],
+  "hierarchy": {
+    "main_topics": [
+      "凤舞苍穹 Narrative",
+      "Thematic Motifs",
+      "Symbolic Elements"
+    ],
+    "structure": "The document is structured as a novel with an introduction, progressive chapters, thematic interludes, and a conclusion, repeated multiple times with minor variations."
+  }
+}

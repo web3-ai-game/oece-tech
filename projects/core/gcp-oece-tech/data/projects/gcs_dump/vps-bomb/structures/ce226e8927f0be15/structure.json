@@ -1,0 +1,617 @@
+{
+  "propositions": [
+    {
+      "id": "1",
+      "text": "1949年后，周恩来总理的指示，为牡丹画下了新的生命。",
+      "level": 1
+    },
+    {
+      "id": "1.1",
+      "text": "牡丹，一种在中国文化中象征富贵、祥和的植物，在中国现代艺术史上也留下了浓墨重彩的一笔。",
+      "level": 2
+    },
+    {
+      "id": "1.2",
+      "text": "在中国，牡丹的象征意义根深蒂固，与皇室、财富和繁荣紧密相连。",
+      "level": 2
+    },
+    {
+      "id": "1.3",
+      "text": "从古代的宫廷绘画到现代的国画创作，牡丹的形象无处不在。",
+      "level": 2
+    },
+    {
+      "id": "2",
+      "text": "牡丹，花之富贵者也。",
+      "level": 1
+    },
+    {
+      "id": "2.1",
+      "text": "这句出自唐代诗人刘禹锡的诗句，生动地描绘了牡丹雍容华贵的气质。",
+      "level": 2
+    },
+    {
+      "id": "3",
+      "text": "在现代中国画中，画家们通过细腻的笔触和鲜明的色彩，赋予了牡丹新的生命力。",
+      "level": 1
+    },
+    {
+      "id": "3.1",
+      "text": "他们不仅描绘了牡丹怒放时的绚烂，也捕捉了其在不同季节、不同状态下的独特韵味。",
+      "level": 2
+    },
+    {
+      "id": "4",
+      "text": "新时期的牡丹精神",
+      "level": 1
+    },
+    {
+      "id": "4.1",
+      "text": "新中国成立后，周恩来总理对艺术创作提出了“为人民服务，为社会主义服务”的指导方针。",
+      "level": 2
+    },
+    {
+      "id": "4.2",
+      "text": "这一方针对包括牡丹在内的中国传统题材的艺术创作产生了深远影响。",
+      "level": 2
+    },
+    {
+      "id": "4.3",
+      "text": "画家们在继承传统技法的基础上，融入了新的时代精神，创作出了一批既有传统韵味，又充满时代气息的牡丹作品。",
+      "level": 2
+    },
+    {
+      "id": "4.4",
+      "text": "这些作品不仅展现了牡丹的美丽，更传递了积极向上、蓬勃发展的时代气息。",
+      "level": 2
+    },
+    {
+      "id": "4.5",
+      "text": "它们出现在国家庆典、重要会议和公共场所，成为展现中国艺术风貌和民族精神的重要载体。",
+      "level": 2
+    },
+    {
+      "id": "5",
+      "text": "牡丹的艺术传承与创新",
+      "level": 1
+    },
+    {
+      "id": "5.1",
+      "text": "中国画坛在牡丹题材的创作上，始终保持着创新与传承的活力。",
+      "level": 2
+    },
+    {
+      "id": "5.1.1",
+      "text": "传统技法的精进",
+      "level": 3
+    },
+    {
+      "id": "5.1.1.1",
+      "text": "历代画家在描绘牡丹时，都积累了丰富的经验。",
+      "level": 4
+    },
+    {
+      "id": "5.1.1.2",
+      "text": "现代画家们继承并发展了这些传统技法，如“没骨法”、“勾勒法”等，并通过对牡丹形态、色彩和神韵的深入研究，赋予了作品更强的表现力。",
+      "level": 4
+    },
+    {
+      "id": "5.1.2",
+      "text": "题材的拓展与深化",
+      "level": 3
+    },
+    {
+      "id": "5.1.2.1",
+      "text": "除了传统的“国色天香”式描绘，现代画家们还尝试将牡丹与其他题材相结合，例如将牡丹与中国古典诗词、神话传说相结合，或是将其置于现代生活中，展现牡丹的多样化魅力。",
+      "level": 4
+    },
+    {
+      "id": "5.1.3",
+      "text": "个人风格的形成",
+      "level": 3
+    },
+    {
+      "id": "5.1.3.1",
+      "text": "在艺术创作的自由度不断提高的背景下，许多画家在继承传统的同时，也形成了自己独特的艺术风格。",
+      "level": 4
+    },
+    {
+      "id": "5.1.3.2",
+      "text": "他们通过对笔墨、色彩和构图的个性化运用，使得笔下的牡丹各具神韵，展现出不同的生命力和情感表达。",
+      "level": 4
+    },
+    {
+      "id": "6",
+      "text": "牡丹在当代中国画中的地位",
+      "level": 1
+    },
+    {
+      "id": "6.1",
+      "text": "牡丹作为中国画的经典题材，在当代中国画坛依然占据着重要地位。",
+      "level": 2
+    },
+    {
+      "id": "6.1.1",
+      "text": "象征意义的延续",
+      "level": 3
+    },
+    {
+      "id": "6.1.1.1",
+      "text": "牡丹所代表的富贵、吉祥、繁荣等美好寓意，依然受到人们的喜爱。",
+      "level": 4
+    },
+    {
+      "id": "6.1.1.2",
+      "text": "在当代社会，牡丹作品常被用于装饰、礼赠，寄托着人们对美好生活的向往。",
+      "level": 4
+    },
+    {
+      "id": "6.1.2",
+      "text": "文化交流的载体",
+      "level": 3
+    },
+    {
+      "id": "6.1.2.1",
+      "text": "牡丹作为中国文化的重要符号，也成为中国与世界交流的文化使者。",
+      "level": 4
+    },
+    {
+      "id": "6.1.2.2",
+      "text": "许多中国画家创作的牡丹作品，通过国际展览和交流活动，向世界展示了中国艺术的独特魅力。",
+      "level": 4
+    },
+    {
+      "id": "6.1.3",
+      "text": "艺术市场的宠儿",
+      "level": 3
+    },
+    {
+      "id": "6.1.3.1",
+      "text": "精美的牡丹画作，因其传统寓意和艺术价值，在艺术市场上也备受青睐，成为许多收藏家追逐的对象。",
+      "level": 4
+    }
+  ],
+  "concepts": [
+    {
+      "name": "牡丹",
+      "frequency": 13,
+      "context": "Primarily discussed as a subject in Chinese art, its symbolism, and its representation in different artistic periods and styles."
+    },
+    {
+      "name": "周恩来总理",
+      "frequency": 3,
+      "context": "Mentioned for his directive in post-1949 art creation that influenced peony painting."
+    },
+    {
+      "name": "中国文化",
+      "frequency": 3,
+      "context": "The cultural significance of peony as a symbol of wealth and auspiciousness."
+    },
+    {
+      "name": "中国现代艺术史",
+      "frequency": 1,
+      "context": "Peony's significant presence within this historical context."
+    },
+    {
+      "name": "富贵",
+      "frequency": 3,
+      "context": "A primary symbolic meaning associated with peony in Chinese culture."
+    },
+    {
+      "name": "祥和",
+      "frequency": 1,
+      "context": "Another symbolic meaning of peony in Chinese culture."
+    },
+    {
+      "name": "皇室",
+      "frequency": 1,
+      "context": "Associated with the deep-rooted symbolism of peony."
+    },
+    {
+      "name": "财富",
+      "frequency": 1,
+      "context": "Associated with the deep-rooted symbolism of peony."
+    },
+    {
+      "name": "繁荣",
+      "frequency": 2,
+      "context": "Associated with the deep-rooted symbolism of peony and a contemporary aspiration."
+    },
+    {
+      "name": "宫廷绘画",
+      "frequency": 1,
+      "context": "An ancient context where peony imagery was prevalent."
+    },
+    {
+      "name": "国画",
+      "frequency": 3,
+      "context": "Modern art form where peony is a recurring subject."
+    },
+    {
+      "name": "刘禹锡",
+      "frequency": 1,
+      "context": "Tang Dynasty poet who wrote about peony."
+    },
+    {
+      "name": "唐代",
+      "frequency": 2,
+      "context": "Historical period associated with poetry about peony and ancient art."
+    },
+    {
+      "name": "画家",
+      "frequency": 7,
+      "context": "The creators of peony art, their techniques, styles, and influences."
+    },
+    {
+      "name": "笔触",
+      "frequency": 2,
+      "context": "Describing the technique used by artists to depict peony."
+    },
+    {
+      "name": "色彩",
+      "frequency": 2,
+      "context": "Describing the artistic elements used in peony paintings."
+    },
+    {
+      "name": "新中国",
+      "frequency": 1,
+      "context": "The period following its establishment, marked by new artistic directives."
+    },
+    {
+      "name": "艺术创作",
+      "frequency": 4,
+      "context": "The process and direction of creating art, particularly peony art."
+    },
+    {
+      "name": "为人民服务",
+      "frequency": 1,
+      "context": "A guiding principle for art creation introduced by Premier Zhou Enlai."
+    },
+    {
+      "name": "为社会主义服务",
+      "frequency": 1,
+      "context": "A guiding principle for art creation introduced by Premier Zhou Enlai."
+    },
+    {
+      "name": "时代精神",
+      "frequency": 2,
+      "context": "The infusion of contemporary spirit into traditional art themes like peony."
+    },
+    {
+      "name": "传统技法",
+      "frequency": 3,
+      "context": "The inherited methods and skills in painting peony."
+    },
+    {
+      "name": "没骨法",
+      "frequency": 1,
+      "context": "A specific traditional technique in Chinese painting mentioned in relation to peony."
+    },
+    {
+      "name": "勾勒法",
+      "frequency": 1,
+      "context": "A specific traditional technique in Chinese painting mentioned in relation to peony."
+    },
+    {
+      "name": "形态",
+      "frequency": 1,
+      "context": "The physical form of peony as studied by artists."
+    },
+    {
+      "name": "神韵",
+      "frequency": 2,
+      "context": "The artistic spirit or essence of the peony depicted."
+    },
+    {
+      "name": "题材",
+      "frequency": 2,
+      "context": "The subjects or themes in art, including peony and its combinations."
+    },
+    {
+      "name": "国色天香",
+      "frequency": 1,
+      "context": "A traditional depiction of peony, contrasted with modern approaches."
+    },
+    {
+      "name": "中国古典诗词",
+      "frequency": 1,
+      "context": "A subject combined with peony in modern art."
+    },
+    {
+      "name": "神话传说",
+      "frequency": 1,
+      "context": "A subject combined with peony in modern art."
+    },
+    {
+      "name": "现代生活",
+      "frequency": 1,
+      "context": "The setting where peony is depicted in contemporary art."
+    },
+    {
+      "name": "个人风格",
+      "frequency": 2,
+      "context": "The unique artistic expression of individual painters."
+    },
+    {
+      "name": "艺术自由度",
+      "frequency": 1,
+      "context": "The increasing freedom artists have in their creative process."
+    },
+    {
+      "name": "笔墨",
+      "frequency": 1,
+      "context": "Artistic elements (brush and ink) used in personalized application."
+    },
+    {
+      "name": "构图",
+      "frequency": 1,
+      "context": "Artistic elements (composition) used in personalized application."
+    },
+    {
+      "name": "情感表达",
+      "frequency": 1,
+      "context": "The emotional content conveyed through peony art."
+    },
+    {
+      "name": "当代中国画",
+      "frequency": 1,
+      "context": "The current landscape of Chinese painting where peony holds importance."
+    },
+    {
+      "name": "吉祥",
+      "frequency": 1,
+      "context": "A symbolic meaning of peony, similar to auspiciousness."
+    },
+    {
+      "name": "美好生活",
+      "frequency": 1,
+      "context": "The aspiration conveyed through peony art in contemporary society."
+    },
+    {
+      "name": "文化交流",
+      "frequency": 2,
+      "context": "Peony's role in connecting Chinese culture with the world."
+    },
+    {
+      "name": "文化使者",
+      "frequency": 1,
+      "context": "Peony's function as a symbol in international cultural exchange."
+    },
+    {
+      "name": "国际展览",
+      "frequency": 1,
+      "context": "Events where Chinese peony art is showcased globally."
+    },
+    {
+      "name": "艺术市场",
+      "frequency": 1,
+      "context": "The commercial aspect and popularity of peony paintings."
+    },
+    {
+      "name": "艺术价值",
+      "frequency": 1,
+      "context": "The merit and worth of peony art in the market."
+    },
+    {
+      "name": "收藏家",
+      "frequency": 1,
+      "context": "Individuals who acquire and appreciate peony artworks."
+    },
+    {
+      "name": "附注",
+      "frequency": 1,
+      "context": "Note referencing the source of a quote."
+    },
+    {
+      "name": "参考文献",
+      "frequency": 1,
+      "context": "List of cited works related to peony painting."
+    },
+    {
+      "name": "张大千",
+      "frequency": 1,
+      "context": "Artist mentioned in the references for their work on peony painting."
+    },
+    {
+      "name": "齐白石",
+      "frequency": 1,
+      "context": "Artist mentioned in the references for their work on peony painting."
+    },
+    {
+      "name": "中国美术家协会",
+      "frequency": 1,
+      "context": "An organization associated with a reference work on contemporary Chinese art."
+    }
+  ],
+  "relations": [
+    {
+      "source": "牡丹",
+      "target": "富贵",
+      "type": "symbolizes"
+    },
+    {
+      "source": "牡丹",
+      "target": "祥和",
+      "type": "symbolizes"
+    },
+    {
+      "source": "牡丹",
+      "target": "皇室",
+      "type": "associated_with"
+    },
+    {
+      "source": "牡丹",
+      "target": "财富",
+      "type": "associated_with"
+    },
+    {
+      "source": "牡丹",
+      "target": "繁荣",
+      "type": "associated_with"
+    },
+    {
+      "source": "牡丹",
+      "target": "宫廷绘画",
+      "type": "featured_in"
+    },
+    {
+      "source": "牡丹",
+      "target": "国画",
+      "type": "featured_in"
+    },
+    {
+      "source": "刘禹锡",
+      "target": "牡丹",
+      "type": "wrote_about"
+    },
+    {
+      "source": "刘禹锡",
+      "target": "唐代",
+      "type": "from_period"
+    },
+    {
+      "source": "周恩来总理",
+      "target": "艺术创作",
+      "type": "issued_guidelines_for"
+    },
+    {
+      "source": "为人民服务",
+      "target": "艺术创作",
+      "type": "is_a_principle_of"
+    },
+    {
+      "source": "为社会主义服务",
+      "target": "艺术创作",
+      "type": "is_a_principle_of"
+    },
+    {
+      "source": "画家",
+      "target": "牡丹",
+      "type": "depicts"
+    },
+    {
+      "source": "画家",
+      "target": "笔触",
+      "type": "uses"
+    },
+    {
+      "source": "画家",
+      "target": "色彩",
+      "type": "uses"
+    },
+    {
+      "source": "画家",
+      "target": "传统技法",
+      "type": "inherits_and_develops"
+    },
+    {
+      "source": "画家",
+      "target": "个人风格",
+      "type": "develops"
+    },
+    {
+      "source": "传统技法",
+      "target": "没骨法",
+      "type": "includes"
+    },
+    {
+      "source": "传统技法",
+      "target": "勾勒法",
+      "type": "includes"
+    },
+    {
+      "source": "题材",
+      "target": "牡丹",
+      "type": "includes"
+    },
+    {
+      "source": "题材",
+      "target": "中国古典诗词",
+      "type": "can_be_combined_with"
+    },
+    {
+      "source": "题材",
+      "target": "神话传说",
+      "type": "can_be_combined_with"
+    },
+    {
+      "source": "题材",
+      "target": "现代生活",
+      "type": "can_be_placed_in"
+    },
+    {
+      "source": "牡丹",
+      "target": "象征意义",
+      "type": "has"
+    },
+    {
+      "source": "象征意义",
+      "target": "富贵",
+      "type": "includes"
+    },
+    {
+      "source": "象征意义",
+      "target": "吉祥",
+      "type": "includes"
+    },
+    {
+      "source": "象征意义",
+      "target": "繁荣",
+      "type": "includes"
+    },
+    {
+      "source": "牡丹",
+      "target": "美好生活",
+      "type": "represents_aspirations_for"
+    },
+    {
+      "source": "牡丹",
+      "target": "文化交流",
+      "type": "serves_as_a_carrier_for"
+    },
+    {
+      "source": "牡丹",
+      "target": "文化使者",
+      "type": "acts_as_a"
+    },
+    {
+      "source": "牡丹",
+      "target": "艺术市场",
+      "type": "is_favored_in"
+    },
+    {
+      "source": "牡丹画作",
+      "target": "艺术价值",
+      "type": "possesses"
+    },
+    {
+      "source": "牡丹画作",
+      "target": "收藏家",
+      "type": "is_pursued_by"
+    },
+    {
+      "source": "张大千",
+      "target": "牡丹画法",
+      "type": "wrote_about"
+    },
+    {
+      "source": "齐白石",
+      "target": "白石老人画牡丹",
+      "type": "wrote_about"
+    },
+    {
+      "source": "中国美术家协会",
+      "target": "中国当代美术全集·国画卷",
+      "type": "published"
+    }
+  ],
+  "hierarchy": {
+    "main_topics": [
+      "Introduction to Peony in Art",
+      "The Spirit of Peony in the New Era",
+      "Artistic Inheritance and Innovation of Peony",
+      "The Status of Peony in Contemporary Chinese Painting"
+    ],
+    "structure": "The document is structured with a main title, an introductory section discussing the historical and cultural significance of peony, followed by thematic sections exploring its modern interpretation under Premier Zhou Enlai's directives, artistic evolution through tradition and innovation, and its enduring importance in contemporary Chinese art. It includes a quote, a historical reference, and a bibliography."
+  }
+}

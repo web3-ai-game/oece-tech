@@ -1,0 +1,18 @@
+{
+  "strategy": "conservative",
+  "active_keys": 10,
+  "reserve_keys": 15,
+  "safety_rules": {
+    "max_rpm_per_key": 10,
+    "daily_usage_percent": 30,
+    "key_cooldown": 10,
+    "random_selection": true,
+    "weighted_groups": true
+  },
+  "estimated_capacity": {
+    "safe_rpm": 100,
+    "safe_daily": 600,
+    "max_rpm": 250,
+    "max_daily": 2000
+  }
+}

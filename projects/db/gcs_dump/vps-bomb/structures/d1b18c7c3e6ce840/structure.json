@@ -1,0 +1,322 @@
+{
+  "propositions": [
+    {
+      "id": "1",
+      "text": "她和朋友打了一个电话，告诉朋友她要去外地，说好了等她回来。",
+      "level": 1
+    },
+    {
+      "id": "1.1",
+      "text": "朋友有些担心，让她一个人在外不安全，但她还是坚持要去，说这次的旅行很重要，回来后会给朋友带礼物。",
+      "level": 2
+    },
+    {
+      "id": "2",
+      "text": "她坐上了火车，看着窗外的风景。",
+      "level": 1
+    },
+    {
+      "id": "2.1",
+      "text": "朋友在电话里听着火车的鸣笛声，知道她已经上路了。",
+      "level": 2
+    },
+    {
+      "id": "3",
+      "text": "她到了一个陌生的城市，下了火车。",
+      "level": 1
+    },
+    {
+      "id": "3.1",
+      "text": "她看着来来往往的人群，不知道要去哪里。",
+      "level": 2
+    },
+    {
+      "id": "3.2",
+      "text": "她拿出手机，给朋友发了一条短信，告诉朋友她已经到了。",
+      "level": 2
+    },
+    {
+      "id": "4",
+      "text": "她一个人走在街上，看着周围陌生的建筑，心里有些害怕。",
+      "level": 1
+    },
+    {
+      "id": "4.1",
+      "text": "她找了一家旅馆，住下后，给朋友打了个电话。",
+      "level": 2
+    },
+    {
+      "id": "5",
+      "text": "她一个人坐在旅馆的房间里，看着窗外的夜景。",
+      "level": 1
+    },
+    {
+      "id": "5.1",
+      "text": "她想起了朋友的话，心里有些担心。",
+      "level": 2
+    },
+    {
+      "id": "5.2",
+      "text": "她打开电脑，给朋友发了一封邮件，告诉朋友她已经到了。",
+      "level": 2
+    },
+    {
+      "id": "6",
+      "text": "她看着电脑屏幕，心里有些害怕。",
+      "level": 1
+    },
+    {
+      "id": "6.1",
+      "text": "她想起了朋友的话，心里有些担心。",
+      "level": 2
+    }
+  ],
+  "concepts": [
+    {
+      "name": "她",
+      "frequency": 71,
+      "context": "The main subject performing actions in the narrative."
+    },
+    {
+      "name": "朋友",
+      "frequency": 71,
+      "context": "The person she contacts and communicates with."
+    },
+    {
+      "name": "电话",
+      "frequency": 4,
+      "context": "Used for communication between 'she' and 'friend'."
+    },
+    {
+      "name": "外地",
+      "frequency": 1,
+      "context": "Destination of her travel."
+    },
+    {
+      "name": "旅行",
+      "frequency": 1,
+      "context": "The purpose of her going out of town."
+    },
+    {
+      "name": "礼物",
+      "frequency": 1,
+      "context": "What she promises to bring back."
+    },
+    {
+      "name": "火车",
+      "frequency": 2,
+      "context": "Mode of transportation."
+    },
+    {
+      "name": "风景",
+      "frequency": 1,
+      "context": "What she observes from the train."
+    },
+    {
+      "name": "鸣笛声",
+      "frequency": 1,
+      "context": "Sound heard by the friend."
+    },
+    {
+      "name": "城市",
+      "frequency": 1,
+      "context": "The destination city."
+    },
+    {
+      "name": "人群",
+      "frequency": 1,
+      "context": "Observed in the new city."
+    },
+    {
+      "name": "手机",
+      "frequency": 1,
+      "context": "Used for communication."
+    },
+    {
+      "name": "短信",
+      "frequency": 1,
+      "context": "A form of communication."
+    },
+    {
+      "name": "街上",
+      "frequency": 1,
+      "context": "Where she walks in the city."
+    },
+    {
+      "name": "建筑",
+      "frequency": 1,
+      "context": "Observed on the street."
+    },
+    {
+      "name": "旅馆",
+      "frequency": 2,
+      "context": "Where she stays."
+    },
+    {
+      "name": "房间",
+      "frequency": 1,
+      "context": "Where she is in the hotel."
+    },
+    {
+      "name": "夜景",
+      "frequency": 1,
+      "context": "What she observes from the room."
+    },
+    {
+      "name": "电脑",
+      "frequency": 4,
+      "context": "Used for communication."
+    },
+    {
+      "name": "邮件",
+      "frequency": 1,
+      "context": "A form of communication."
+    },
+    {
+      "name": "屏幕",
+      "frequency": 7,
+      "context": "What she looks at on the computer."
+    },
+    {
+      "name": "害怕",
+      "frequency": 70,
+      "context": "Her emotional state."
+    },
+    {
+      "name": "担心",
+      "frequency": 70,
+      "context": "Her emotional state and a recurring theme."
+    },
+    {
+      "name": "日期",
+      "frequency": 62,
+      "context": "Timestamps associated with narrative events."
+    },
+    {
+      "name": "时间",
+      "frequency": 62,
+      "context": "Timestamps associated with narrative events."
+    }
+  ],
+  "relations": [
+    {
+      "source": "她",
+      "target": "朋友",
+      "type": "communicates_with"
+    },
+    {
+      "source": "她",
+      "target": "外地",
+      "type": "travels_to"
+    },
+    {
+      "source": "她",
+      "target": "礼物",
+      "type": "promises_to_bring"
+    },
+    {
+      "source": "她",
+      "target": "火车",
+      "type": "uses"
+    },
+    {
+      "source": "火车",
+      "target": "风景",
+      "type": "displays"
+    },
+    {
+      "source": "朋友",
+      "target": "火车",
+      "type": "hears"
+    },
+    {
+      "source": "她",
+      "target": "城市",
+      "type": "arrives_in"
+    },
+    {
+      "source": "她",
+      "target": "人群",
+      "type": "observes"
+    },
+    {
+      "source": "她",
+      "target": "手机",
+      "type": "uses"
+    },
+    {
+      "source": "手机",
+      "target": "短信",
+      "type": "sends"
+    },
+    {
+      "source": "她",
+      "target": "街上",
+      "type": "walks_on"
+    },
+    {
+      "source": "她",
+      "target": "建筑",
+      "type": "observes"
+    },
+    {
+      "source": "她",
+      "target": "旅馆",
+      "type": "stays_in"
+    },
+    {
+      "source": "旅馆",
+      "target": "房间",
+      "type": "contains"
+    },
+    {
+      "source": "她",
+      "target": "夜景",
+      "type": "observes"
+    },
+    {
+      "source": "她",
+      "target": "电脑",
+      "type": "uses"
+    },
+    {
+      "source": "电脑",
+      "target": "屏幕",
+      "type": "displays"
+    },
+    {
+      "source": "她",
+      "target": "害怕",
+      "type": "feels"
+    },
+    {
+      "source": "她",
+      "target": "担心",
+      "type": "feels"
+    },
+    {
+      "source": "朋友",
+      "target": "担心",
+      "type": "expresses"
+    },
+    {
+      "source": "日期",
+      "target": "事件",
+      "type": "describes"
+    },
+    {
+      "source": "时间",
+      "target": "事件",
+      "type": "describes"
+    }
+  ],
+  "hierarchy": {
+    "main_topics": [
+      "Narrative Events",
+      "Emotional States",
+      "Communication Methods",
+      "Temporal Markers"
+    ],
+    "structure": "The document is structured as a series of dated entries. Each entry describes a sequence of actions or observations by a central character ('she'), often interspersed with her emotional states and communications with a 'friend'. The primary narrative thread involves her travel and subsequent experiences. The latter part of the document exhibits a highly repetitive pattern of actions and emotions across numerous dated entries."
+  }
+}

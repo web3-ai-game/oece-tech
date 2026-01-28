@@ -1,0 +1,421 @@
+{
+  "propositions": [
+    {
+      "id": "1",
+      "text": "沙都子与加贺分手。",
+      "level": 1
+    },
+    {
+      "id": "1.1",
+      "text": "加贺向沙都子表明心意，表示将在毕业前告知。",
+      "level": 2
+    },
+    {
+      "id": "1.2",
+      "text": "沙都子认为加贺心中只有剑道。",
+      "level": 2
+    },
+    {
+      "id": "2",
+      "text": "沙都子前往常去的咖啡厅“摇头小丑”。",
+      "level": 1
+    },
+    {
+      "id": "2.1",
+      "text": "在咖啡厅遇到好友金井波香和藤堂正彦。",
+      "level": 2
+    },
+    {
+      "id": "2.2",
+      "text": "得知藤堂的女朋友牧村祥子身体不适回家。",
+      "level": 2
+    },
+    {
+      "id": "3",
+      "text": "沙都子和波香前往酒吧“波旁”喝酒。",
+      "level": 1
+    },
+    {
+      "id": "3.1",
+      "text": "波香表达了想要去远方的愿望。",
+      "level": 2
+    },
+    {
+      "id": "3.2",
+      "text": "波香表示将放弃剑道。",
+      "level": 2
+    },
+    {
+      "id": "4",
+      "text": "沙都子回忆起一个月前的剑道比赛。",
+      "level": 1
+    },
+    {
+      "id": "4.1",
+      "text": "金井波香在女子组决赛中对阵三岛亮子。",
+      "level": 2
+    },
+    {
+      "id": "4.2",
+      "text": "加贺为波香提供了比赛策略。",
+      "level": 2
+    },
+    {
+      "id": "4.3",
+      "text": "波香在比赛中落败。",
+      "level": 2
+    },
+    {
+      "id": "4.4",
+      "text": "加贺恭一郎在前一天的男子组决赛中获胜。",
+      "level": 2
+    },
+    {
+      "id": "5",
+      "text": "沙都子回家，与继母佳江和弟弟达也互动。",
+      "level": 1
+    },
+    {
+      "id": "5.1",
+      "text": "沙都子与父亲因其毕业后的工作地点产生分歧。",
+      "level": 2
+    },
+    {
+      "id": "6",
+      "text": "沙都子前往牧村祥子的宿舍“白鹭庄”。",
+      "level": 1
+    },
+    {
+      "id": "6.1",
+      "text": "祥子和波香住在“白鹭庄”。",
+      "level": 2
+    },
+    {
+      "id": "6.2",
+      "text": "沙都子发现祥子房间的门锁着，并开着灯。",
+      "level": 2
+    },
+    {
+      "id": "6.3",
+      "text": "沙都子在管理员的帮助下进入祥子的房间，发现祥子死亡。",
+      "level": 2
+    },
+    {
+      "id": "7",
+      "text": "两名刑警对沙都子和波香进行侦讯。",
+      "level": 1
+    },
+    {
+      "id": "7.1",
+      "text": "波香表示刑警询问了祥子房间上锁的时间以及自杀原因。",
+      "level": 2
+    },
+    {
+      "id": "8",
+      "text": "县警局的佐山刑警前来询问。",
+      "level": 1
+    },
+    {
+      "id": "8.1",
+      "text": "佐山询问祥子之死的线索，暗示可能报导为自杀。",
+      "level": 2
+    },
+    {
+      "id": "8.2",
+      "text": "佐山询问祥子最近是否健康不佳或有奇怪之处，波香提到祥子昨天身体不适。",
+      "level": 2
+    },
+    {
+      "id": "8.3",
+      "text": "佐山询问祥子的人际关系，提到了藤堂。",
+      "level": 2
+    },
+    {
+      "id": "8.4",
+      "text": "佐山提及祥子死亡四天前停止写日记，推测原因可能发生在四天前。",
+      "level": 2
+    },
+    {
+      "id": "9",
+      "text": "沙都子与波香、华江、若生勇、加贺恭一郎在咖啡厅“摇头小丑”会合。",
+      "level": 1
+    },
+    {
+      "id": "9.1",
+      "text": "众人讨论祥子的死，加贺对“自杀”表示质疑。",
+      "level": 2
+    },
+    {
+      "id": "9.2",
+      "text": "波香表示要去拜访南泽老师。",
+      "level": 2
+    },
+    {
+      "id": "9.3",
+      "text": "沙都子与加贺讨论祥子是否有不为人知的烦恼。",
+      "level": 2
+    },
+    {
+      "id": "10",
+      "text": "沙都子再次前往祥子的公寓“白鹭庄”。",
+      "level": 1
+    },
+    {
+      "id": "10.1",
+      "text": "沙都子在祥子房间发现佐山刑警。",
+      "level": 2
+    },
+    {
+      "id": "10.2",
+      "text": "佐山表示调查报告将写为一时冲动自杀，并提及祥子日记的发现。",
+      "level": 2
+    },
+    {
+      "id": "11",
+      "text": "沙都子与波香拜访南泽老师。",
+      "level": 1
+    },
+    {
+      "id": "11.1",
+      "text": "南泽老师讲述了祥子在暑假讲座旅行中与一名男子发生关系。",
+      "level": 2
+    },
+    {
+      "id": "11.2",
+      "text": "南泽老师劝祥子不要告诉藤堂。",
+      "level": 2
+    },
+    {
+      "id": "12",
+      "text": "牧村家举行祥子的丧礼。",
+      "level": 1
+    },
+    {
+      "id": "12.1",
+      "text": "加贺将祥子的日记交给沙都子。",
+      "level": 2
+    },
+    {
+      "id": "12.2",
+      "text": "报纸报导祥子可能因就业之事无法如意而自杀。",
+      "level": 2
+    },
+    {
+      "id": "12.3",
+      "text": "藤堂在丧礼上显得消瘦沉默。",
+      "level": 2
+    },
+    {
+      "id": "13",
+      "text": "沙都子和波香再度查看祥子的日记。",
+      "level": 1
+    },
+    {
+      "id": "13.1",
+      "text": "日记中记录了祥子与南泽老师谈话，提及暑假讲座旅行。",
+      "level": 2
+    },
+    {
+      "id": "14",
+      "text": "沙都子和波香再次拜访南泽老师。",
+      "level": 1
+    },
+    {
+      "id": "14.1",
+      "text": "南泽老师确认祥子与其发生了关系，并为此事感到懊悔。",
+      "level": 2
+    },
+    {
+      "id": "14.2",
+      "text": "南泽老师认为祥子之死与此事无直接关联。",
+      "level": 2
+    },
+    {
+      "id": "15",
+      "text": "波香提到管理员说有人曾打电话给祥子。",
+      "level": 1
+    },
+    {
+      "id": "15.1",
+      "text": "管理员表示打电话来的是常客男子，祥子当时找不到。",
+      "level": 2
+    },
+    {
+      "id": "15.2",
+      "text": "沙都子推测祥子当时可能已经死亡。",
+      "level": 2
+    }
+  ],
+  "concepts": [
+    {
+      "name": "沙都子",
+      "frequency": 26,
+      "context": "主人公，与加贺、波香、祥子、藤堂等是好友。"
+    },
+    {
+      "name": "加贺",
+      "frequency": 12,
+      "context": "沙都子的暗恋对象，剑道高手，获得过剑道冠军。"
+    },
+    {
+      "name": "波香",
+      "frequency": 21,
+      "context": "沙都子的好友，擅长剑道，性格直爽。"
+    },
+    {
+      "name": "祥子",
+      "frequency": 29,
+      "context": "沙都子和波香的好友，在故事初期被发现死亡。"
+    },
+    {
+      "name": "藤堂",
+      "frequency": 11,
+      "context": "祥子的男友，也是沙都子和波香的朋友。"
+    },
+    {
+      "name": "剑道",
+      "frequency": 8,
+      "context": "书中重要的运动项目，加贺和波香擅长。"
+    },
+    {
+      "name": "咖啡厅",
+      "frequency": 4,
+      "context": "名为“摇头小丑”，是沙都子常去的地方。"
+    },
+    {
+      "name": "酒吧",
+      "frequency": 2,
+      "context": "名为“波旁”，是沙都子和波香常去的地方。"
+    },
+    {
+      "name": "宿舍",
+      "frequency": 5,
+      "context": "名为“白鹭庄”，祥子和波香居住的地方。"
+    },
+    {
+      "name": "刑警",
+      "frequency": 5,
+      "context": "调查祥子死亡事件的警官。"
+    },
+    {
+      "name": "日记",
+      "frequency": 7,
+      "context": "祥子的日记，成为寻找死亡线索的重要物品。"
+    },
+    {
+      "name": "南泽老师",
+      "frequency": 5,
+      "context": "沙都子、波香、祥子等人的高中老师，茶道社顾问。"
+    },
+    {
+      "name": "自杀",
+      "frequency": 8,
+      "context": "祥子死亡的初步判断，但其原因存疑。"
+    },
+    {
+      "name": "暑假讲座旅行",
+      "frequency": 3,
+      "context": "祥子在暑假期间的经历，可能与死亡有关。"
+    }
+  ],
+  "relations": [
+    {
+      "source": "沙都子",
+      "target": "加贺",
+      "type": "friendship/romantic interest"
+    },
+    {
+      "source": "沙都子",
+      "target": "波香",
+      "type": "friendship"
+    },
+    {
+      "source": "沙都子",
+      "target": "祥子",
+      "type": "friendship"
+    },
+    {
+      "source": "波香",
+      "target": "祥子",
+      "type": "friendship"
+    },
+    {
+      "source": "藤堂",
+      "target": "祥子",
+      "type": "romantic relationship"
+    },
+    {
+      "source": "加贺",
+      "target": "剑道",
+      "type": "practitioner_of"
+    },
+    {
+      "source": "波香",
+      "target": "剑道",
+      "type": "practitioner_of"
+    },
+    {
+      "source": "祥子",
+      "target": "自杀",
+      "type": "victim_of"
+    },
+    {
+      "source": "刑警",
+      "target": "祥子",
+      "type": "investigating"
+    },
+    {
+      "source": "沙都子",
+      "target": "日记",
+      "type": "investigates"
+    },
+    {
+      "source": "波香",
+      "target": "日记",
+      "type": "investigates"
+    },
+    {
+      "source": "南泽老师",
+      "target": "暑假讲座旅行",
+      "type": "informed_about"
+    },
+    {
+      "source": "沙都子",
+      "target": "暑假讲座旅行",
+      "type": "investigates"
+    },
+    {
+      "source": "波香",
+      "target": "暑假讲座旅行",
+      "type": "investigates"
+    },
+    {
+      "source": "藤堂",
+      "target": "祥子",
+      "type": "relationship_impacted_by_death"
+    },
+    {
+      "source": "沙都子",
+      "target": "家",
+      "type": "resides_in"
+    },
+    {
+      "source": "波香",
+      "target": "宿舍",
+      "type": "resides_in"
+    },
+    {
+      "source": "祥子",
+      "target": "宿舍",
+      "type": "resides_in"
+    }
+  ],
+  "hierarchy": {
+    "main_topics": [
+      "Character Interactions",
+      "The Mystery of Xiangzi's Death",
+      "Past Events and Their Impact"
+    ],
+    "structure": "The document follows a chronological narrative interwoven with flashbacks. It begins with personal interactions, then introduces the central mystery of a character's death, and explores the investigation and its background through flashbacks and character revelations. The structure moves from present events to past events that shed light on the present."
+  }
+}

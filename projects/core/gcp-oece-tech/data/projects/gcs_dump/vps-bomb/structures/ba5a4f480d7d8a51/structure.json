@@ -1,0 +1,488 @@
+{
+  "propositions": [
+    {
+      "id": "1",
+      "text": "作者（叙述者）自述其作为侦探小说配角的职责和困境。",
+      "level": 1
+    },
+    {
+      "id": "1.1",
+      "text": "配角警官的职责是反覆进行错误推理，制造笑料，衬托名侦探。",
+      "level": 2
+    },
+    {
+      "id": "1.2",
+      "text": "配角警官的困境在于不能亲手找出真凶，也不能忽略解决事情的关键，且不能太早走近真相。",
+      "level": 2
+    },
+    {
+      "id": "2",
+      "text": "引出名侦探天下一大五郎及其标志性特征。",
+      "level": 1
+    },
+    {
+      "id": "3",
+      "text": "分析名侦探系列中警官与侦探的配搭模式。",
+      "level": 1
+    },
+    {
+      "id": "3.1",
+      "text": "警官的重要性在于背景资料搜集和科学鉴证。",
+      "level": 2
+    },
+    {
+      "id": "3.2",
+      "text": "历来推理小说中警官的官阶高低不同，但常为侦探提供便利。",
+      "level": 2
+    },
+    {
+      "id": "3.3",
+      "text": "部分名侦探不依靠警方力量破案。",
+      "level": 2
+    },
+    {
+      "id": "3.4",
+      "text": "部分警官扮演搞笑角色，但绝无仅有胡乱逮捕和猜测凶手者（除柯南毛利小五郎）。",
+      "level": 2
+    },
+    {
+      "id": "3.5",
+      "text": "存在警官与侦探、阴阳师等不同角色组合的侦探小说。",
+      "level": 2
+    },
+    {
+      "id": "3.6",
+      "text": "多数侦探只被警方默许介入，官方正式许可的侦探组织（如jdc, dds）较少。",
+      "level": 2
+    },
+    {
+      "id": "4",
+      "text": "第一篇《密室宣言：诡计的王道》的情节概述。",
+      "level": 1
+    },
+    {
+      "id": "4.1",
+      "text": "叙述者（大河原警部）接到奈落村杀人事件报案。",
+      "level": 2
+    },
+    {
+      "id": "4.2",
+      "text": "现场情况：雪地足印，两所平房，死者作藏。",
+      "level": 2
+    },
+    {
+      "id": "4.3",
+      "text": "天下一大五郎出现，并与大河原警部进行惯例对话。",
+      "level": 2
+    },
+    {
+      "id": "4.4",
+      "text": "密室的出现：作藏屋门从内部锁上，无其他出入口。",
+      "level": 2
+    },
+    {
+      "id": "4.5",
+      "text": "村民关于壁神作祟的迷信传说。",
+      "level": 2
+    },
+    {
+      "id": "4.6",
+      "text": "大河原警部逮捕铁吉，天下一辩护。",
+      "level": 2
+    },
+    {
+      "id": "4.7",
+      "text": "关于密室诡计的讨论和叹息。",
+      "level": 2
+    },
+    {
+      "id": "4.8",
+      "text": "村中出现第四名受害者。",
+      "level": 2
+    },
+    {
+      "id": "4.9",
+      "text": "天下一的推理：作藏的秘密（曾接待客人），壁神作祟名义杀人。",
+      "level": 2
+    },
+    {
+      "id": "4.10",
+      "text": "未亡人小枝子（凶手）自杀。",
+      "level": 2
+    },
+    {
+      "id": "4.11",
+      "text": "密室真相的揭示：雪的重量导致房屋倾斜，门无法开启，凶手利用门闩假装上锁。",
+      "level": 2
+    },
+    {
+      "id": "5",
+      "text": "杂谈感想：对密室杀人现象的“5w1h”分析。",
+      "level": 1
+    },
+    {
+      "id": "5.1",
+      "text": "What：密室杀人的定义及广义拓展。",
+      "level": 2
+    },
+    {
+      "id": "5.2",
+      "text": "Who：密室杀人故事的开创者（爱伦坡）及重要作家（卡尔、横沟正史等）。",
+      "level": 2
+    },
+    {
+      "id": "5.3",
+      "text": "When：密室杀人小说的历史跨度，从1841年至今。",
+      "level": 2
+    },
+    {
+      "id": "5.4",
+      "text": "Where：密室杀人作品的地域、风格及媒体分布。",
+      "level": 2
+    },
+    {
+      "id": "5.5",
+      "text": "Why：密室杀人主题常被选择的原因（吸引力、刺激感）。",
+      "level": 2
+    },
+    {
+      "id": "5.6",
+      "text": "How：作家创作密室诡计的灵感来源（前辈分析、参考书）。",
+      "level": 2
+    },
+    {
+      "id": "6",
+      "text": "第二篇《意外的凶手——Whodunit》的情节概述。",
+      "level": 1
+    },
+    {
+      "id": "6.1",
+      "text": "牛神庄发生油画大师牛神贞治的杀人事件。",
+      "level": 2
+    },
+    {
+      "id": "6.2",
+      "text": "现场情况：客厅集结的五人（佣人、亲戚、弟子），画室损毁严重。",
+      "level": 2
+    },
+    {
+      "id": "6.3",
+      "text": "天下一大五郎出现，受害者生前曾委托其调查。",
+      "level": 2
+    },
+    {
+      "id": "6.4",
+      "text": "牛神贞治的遇袭经历：午睡被勒，咖啡下毒。",
+      "level": 2
+    },
+    {
+      "id": "6.5",
+      "text": "尸检发现：胸前插刀，座台时钟停在6时35分。",
+      "level": 2
+    },
+    {
+      "id": "6.6",
+      "text": "发现尸体者：佣人良子，但屋内所有人皆可视为发现者。",
+      "level": 2
+    },
+    {
+      "id": "6.7",
+      "text": "惨叫声和玻璃碎裂声指向事件发生时间。",
+      "level": 2
+    },
+    {
+      "id": "6.8",
+      "text": "大河原警部与天下一关于外部犯人、自杀的讨论。",
+      "level": 2
+    },
+    {
+      "id": "6.9",
+      "text": "对嫌疑人马本正哉（被害人堂弟）的问话。",
+      "level": 2
+    },
+    {
+      "id": "6.10",
+      "text": "列出主要登场人物。",
+      "level": 2
+    }
+  ],
+  "concepts": [
+    {
+      "name": "大河原番三",
+      "frequency": 17,
+      "context": "叙述者，县警本部搜查一课警部，天下一侦探系列的配角。"
+    },
+    {
+      "name": "天下一大五郎",
+      "frequency": 23,
+      "context": "著名的名侦探，天下一侦探系列的主人公，特征是皱巴巴的衬衣、乱蓬蓬的头、古旧的手杖。"
+    },
+    {
+      "name": "名侦探",
+      "frequency": 15,
+      "context": "推理小说中的核心角色，负责解开案件的谜团。"
+    },
+    {
+      "name": "配角",
+      "frequency": 11,
+      "context": "在叙述者视角下，特指警官的角色，其职责是衬托名侦探。"
+    },
+    {
+      "name": "密室",
+      "frequency": 27,
+      "context": "推理小说中常见的诡计，指凶手在封闭空间内作案后消失。"
+    },
+    {
+      "name": "诡计",
+      "frequency": 7,
+      "context": "推理小说中用于制造悬念和解谜的关键手法。"
+    },
+    {
+      "name": "推理小说",
+      "frequency": 11,
+      "context": "以案件侦破为主要内容的文学体裁。"
+    },
+    {
+      "name": "搜查",
+      "frequency": 8,
+      "context": "警方进行的案件调查活动。"
+    },
+    {
+      "name": "凶手",
+      "frequency": 10,
+      "context": "实施犯罪行为的犯罪者。"
+    },
+    {
+      "name": "事件",
+      "frequency": 14,
+      "context": "泛指小说中发生的案件或情况。"
+    },
+    {
+      "name": "读者",
+      "frequency": 16,
+      "context": "阅读小说的受众，作者在叙述中经常提及。"
+    },
+    {
+      "name": "真相",
+      "frequency": 7,
+      "context": "案件的真实情况，侦探的目标。"
+    },
+    {
+      "name": "雪",
+      "frequency": 6,
+      "context": "《密室宣言》中的重要环境元素，与密室的形成有关。"
+    },
+    {
+      "name": "足印",
+      "frequency": 5,
+      "context": "在雪地等场景中，用于追踪和判断线索的痕迹。"
+    },
+    {
+      "name": "报警",
+      "frequency": 4,
+      "context": "通知警方进行调查的行动。"
+    },
+    {
+      "name": "村子",
+      "frequency": 6,
+      "context": "《密室宣言》故事发生的地点，奈落村。"
+    },
+    {
+      "name": "警员",
+      "frequency": 7,
+      "context": "负责案件侦查的警察。"
+    },
+    {
+      "name": "壁神",
+      "frequency": 3,
+      "context": "《密室宣言》中涉及的迷信传说，与作祟有关。"
+    },
+    {
+      "name": "作藏",
+      "frequency": 4,
+      "context": "《密室宣言》中的第一位死者。"
+    },
+    {
+      "name": "铁吉",
+      "frequency": 4,
+      "context": "《密室宣言》中的嫌疑人，最终被证明无罪。"
+    },
+    {
+      "name": "天下一系列",
+      "frequency": 9,
+      "context": "作者创作的以天下一大五郎为主角的侦探小说系列。"
+    },
+    {
+      "name": "新本格",
+      "frequency": 2,
+      "context": "推理小说的一种流派，强调解谜和诡计。"
+    },
+    {
+      "name": "杂谈感想",
+      "frequency": 3,
+      "context": "文章中穿插的对推理小说相关话题的讨论。"
+    },
+    {
+      "name": "牛神庄",
+      "frequency": 3,
+      "context": "《意外的凶手》故事发生的地点，一座大宅院。"
+    },
+    {
+      "name": "牛神贞治",
+      "frequency": 3,
+      "context": "《意外的凶手》中的死者，油画大师。"
+    },
+    {
+      "name": "画室",
+      "frequency": 3,
+      "context": "《意外的凶手》中发现尸体和进行破坏的场所。"
+    },
+    {
+      "name": "委托",
+      "frequency": 2,
+      "context": "受害者生前委托侦探进行调查。"
+    },
+    {
+      "name": "毒药",
+      "frequency": 1,
+      "context": "《意外的凶手》中使用的作案工具。"
+    },
+    {
+      "name": "时钟",
+      "frequency": 1,
+      "context": "《意外的凶手》中作为伪证的证物。"
+    },
+    {
+      "name": "马本正哉",
+      "frequency": 1,
+      "context": "《意外的凶手》中的嫌疑人，被害人的堂弟。"
+    }
+  ],
+  "relations": [
+    {
+      "source": "大河原番三",
+      "target": "名侦探",
+      "type": "is_a_complement_to"
+    },
+    {
+      "source": "天下一大五郎",
+      "target": "名侦探",
+      "type": "is_a"
+    },
+    {
+      "source": "大河原番三",
+      "target": "配角",
+      "type": "is_a"
+    },
+    {
+      "source": "密室",
+      "target": "诡计",
+      "type": "is_a"
+    },
+    {
+      "source": "推理小说",
+      "target": "名侦探",
+      "type": "features"
+    },
+    {
+      "source": "搜查",
+      "target": "事件",
+      "type": "applies_to"
+    },
+    {
+      "source": "凶手",
+      "target": "真相",
+      "type": "hides"
+    },
+    {
+      "source": "读者",
+      "target": "推理小说",
+      "type": "consumes"
+    },
+    {
+      "source": "雪",
+      "target": "密室",
+      "type": "contributes_to_formation_of"
+    },
+    {
+      "source": "足印",
+      "target": "搜查",
+      "type": "is_clue_for"
+    },
+    {
+      "source": "警员",
+      "target": "搜查",
+      "type": "performs"
+    },
+    {
+      "source": "壁神",
+      "target": "村子",
+      "type": "is_part_of_legend_in"
+    },
+    {
+      "source": "作藏",
+      "target": "事件",
+      "type": "is_victim_of"
+    },
+    {
+      "source": "铁吉",
+      "target": "作藏",
+      "type": "is_suspect_in_case_of"
+    },
+    {
+      "source": "天下一系列",
+      "target": "名侦探",
+      "type": "features"
+    },
+    {
+      "source": "杂谈感想",
+      "target": "推理小说",
+      "type": "analyzes_aspects_of"
+    },
+    {
+      "source": "牛神庄",
+      "target": "事件",
+      "type": "is_location_of"
+    },
+    {
+      "source": "牛神贞治",
+      "target": "事件",
+      "type": "is_victim_of"
+    },
+    {
+      "source": "画室",
+      "target": "牛神庄",
+      "type": "is_part_of"
+    },
+    {
+      "source": "委托",
+      "target": "天下一大五郎",
+      "type": "is_given_to"
+    },
+    {
+      "source": "毒药",
+      "target": "凶手",
+      "type": "is_used_by"
+    },
+    {
+      "source": "时钟",
+      "target": "凶手",
+      "type": "is_used_by_as_pretence"
+    },
+    {
+      "source": "马本正哉",
+      "target": "牛神贞治",
+      "type": "is_relative_of"
+    }
+  ],
+  "hierarchy": {
+    "main_topics": [
+      "名侦探的规条",
+      "序言",
+      "杂谈感想",
+      "第一篇 密室宣言：诡计的王道",
+      "第二篇 意外的凶手——Whodunit （谁做的）"
+    ],
+    "structure": "The document begins with an introduction by the narrator (a supporting detective) detailing his role and frustrations. This is followed by general commentary on detective fiction, particularly focusing on the archetype of the detective and their supporting cast, and the prevalence of the 'locked room mystery'. The core of the document consists of two distinct story chapters from the 'Tenkaichi Daigoro' series, each presenting a self-contained mystery. The first chapter, 'The Locked Room Declaration: The King of Tricks', deals with a murder and the subsequent unraveling of a locked-room scenario. The second chapter, 'The Unexpected Killer - Whodunit', presents another murder investigation with a different set of clues and suspects. The document concludes with another section of '杂谈感想' (Random Thoughts/Impressions) that specifically analyzes the 'locked room mystery' trope in detail using the 5W1H framework."
+  }
+}

@@ -1,0 +1,192 @@
+{
+  "propositions": [
+    {
+      "id": "1",
+      "text": "Historical novel \"Jin Ou Que\" by Xu Xingye depicts Song, Liao, and Jin wars.",
+      "level": 1
+    },
+    {
+      "id": "2",
+      "text": "The novel covers the early to mid-12th century.",
+      "level": 1
+    },
+    {
+      "id": "3",
+      "text": "It details the Song Dynasty's conflict with the rising Jin and the declining Liao.",
+      "level": 1
+    },
+    {
+      "id": "4",
+      "text": "The 'Alliance of the Sea' was formed between Song and Jin against Liao.",
+      "level": 1
+    },
+    {
+      "id": "5",
+      "text": "Song's attempts to recapture lost territories failed due to internal strife and poor leadership.",
+      "level": 1
+    },
+    {
+      "id": "6",
+      "text": "The Jin Dynasty eventually conquered the Liao and then threatened the Song.",
+      "level": 1
+    },
+    {
+      "id": "7",
+      "text": "The novel culminates in the fall of Tokyo (Kaifeng) and the 'Jingkang Shame'.",
+      "level": 1
+    },
+    {
+      "id": "8",
+      "text": "It describes the Southern Song's subsequent precarious existence and internal conflicts.",
+      "level": 1
+    },
+    {
+      "id": "9",
+      "text": "The author, Xu Xingye, faced persecution during the Cultural Revolution.",
+      "level": 1
+    },
+    {
+      "id": "10",
+      "text": "The novel is praised for its historical accuracy, vivid storytelling, and emotional depth.",
+      "level": 1
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Song Dynasty",
+      "frequency": 15,
+      "context": "Central kingdom in the conflict"
+    },
+    {
+      "name": "Jin Dynasty",
+      "frequency": 12,
+      "context": "Rising power, aggressor"
+    },
+    {
+      "name": "Liao Dynasty",
+      "frequency": 8,
+      "context": "Declining northern empire"
+    },
+    {
+      "name": "Warfare",
+      "frequency": 10,
+      "context": "Primary theme of the novel"
+    },
+    {
+      "name": "Political intrigue",
+      "frequency": 7,
+      "context": "Internal Song conflicts"
+    },
+    {
+      "name": "Military strategy",
+      "frequency": 5,
+      "context": "Campaigns and battles"
+    },
+    {
+      "name": "Historical fiction",
+      "frequency": 6,
+      "context": "Genre of the work"
+    },
+    {
+      "name": "Nationalism",
+      "frequency": 4,
+      "context": "Underlying theme"
+    },
+    {
+      "name": "Leadership",
+      "frequency": 5,
+      "context": "Competent vs. incompetent rulers"
+    },
+    {
+      "name": "Betrayal",
+      "frequency": 3,
+      "context": "Qin Hui's actions"
+    },
+    {
+      "name": "Persecution",
+      "frequency": 2,
+      "context": "Author's experience"
+    },
+    {
+      "name": "Alliance",
+      "frequency": 2,
+      "context": "Song and Jin against Liao"
+    },
+    {
+      "name": "Fall of Kaifeng",
+      "frequency": 3,
+      "context": "Jingkang Shame"
+    },
+    {
+      "name": "Southern Song",
+      "frequency": 4,
+      "context": "Later period covered"
+    },
+    {
+      "name": "Heroism",
+      "frequency": 2,
+      "context": "Yelü Dashi, Li Gang, Yue Fei"
+    }
+  ],
+  "relations": [
+    {
+      "source": "Song Dynasty",
+      "target": "Jin Dynasty",
+      "type": "conflict with"
+    },
+    {
+      "source": "Song Dynasty",
+      "target": "Liao Dynasty",
+      "type": "conflict with"
+    },
+    {
+      "source": "Jin Dynasty",
+      "target": "Liao Dynasty",
+      "type": "conquered"
+    },
+    {
+      "source": "Song Dynasty",
+      "target": "Alliance of the Sea",
+      "type": "formed"
+    },
+    {
+      "source": "Jin Dynasty",
+      "target": "Alliance of the Sea",
+      "type": "formed"
+    },
+    {
+      "source": "Xu Xingye",
+      "target": "Jin Ou Que",
+      "type": "authored"
+    },
+    {
+      "source": "Jin Ou Que",
+      "target": "Warfare",
+      "type": "depicts"
+    },
+    {
+      "source": "Jin Ou Que",
+      "target": "Political intrigue",
+      "type": "depicts"
+    },
+    {
+      "source": "Song Dynasty",
+      "target": "Leadership",
+      "type": "affected by"
+    },
+    {
+      "source": "Xu Xingye",
+      "target": "Persecution",
+      "type": "experienced"
+    }
+  ],
+  "hierarchy": {
+    "main_topics": [
+      "Historical Context (Song, Liao, Jin Wars)",
+      "Plot Summary",
+      "Author and His Work",
+      "Literary Analysis"
+    ],
+    "structure": "The document outlines the historical setting and key events of the Song, Liao, and Jin conflict, followed by a summary of the novel's plot, biographical details of the author and his struggles, and an appreciation of the novel's literary merits, including a narrative excerpt. It moves from broad historical scope to specific narrative and authorial details."
+  }
+}

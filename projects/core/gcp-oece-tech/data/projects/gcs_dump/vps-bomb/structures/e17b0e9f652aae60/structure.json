@@ -1,0 +1,187 @@
+{
+  "propositions": [
+    {
+      "id": "1",
+      "text": "This is a story full of fantasy.",
+      "level": 1
+    },
+    {
+      "id": "1.1",
+      "text": "This is a world of female supremacy and male subordination, where women are the social dominant and men are in a subordinate position.",
+      "level": 2
+    },
+    {
+      "id": "1.1.1",
+      "text": "In this world, women hold power, and men are responsible for procreation and housework.",
+      "level": 3
+    },
+    {
+      "id": "1.1.1.1",
+      "text": "The high social status of women allows them to freely pursue their careers and ideals.",
+      "level": 4
+    },
+    {
+      "id": "1.1.1.1.1",
+      "text": "Men are expected to be gentle, obedient, and provide emotional support for women.",
+      "level": 5
+    }
+  ],
+  "concepts": [
+    {
+      "name": "female supremacy",
+      "frequency": 3,
+      "context": "female supremacy and male subordination, female supremacy and male subordination, female supremacy and male subordination"
+    },
+    {
+      "name": "male subordination",
+      "frequency": 3,
+      "context": "female supremacy and male subordination, female supremacy and male subordination, female supremacy and male subordination"
+    },
+    {
+      "name": "women",
+      "frequency": 4,
+      "context": "women are the social dominant, women hold power, high social status of women, women to freely pursue their careers, provide emotional support for women"
+    },
+    {
+      "name": "men",
+      "frequency": 3,
+      "context": "men are in a subordinate position, men are responsible for procreation and housework, Men are expected to be gentle, obedient"
+    },
+    {
+      "name": "social dominant",
+      "frequency": 1,
+      "context": "women are the social dominant"
+    },
+    {
+      "name": "subordinate position",
+      "frequency": 1,
+      "context": "men are in a subordinate position"
+    },
+    {
+      "name": "power",
+      "frequency": 1,
+      "context": "women hold power"
+    },
+    {
+      "name": "procreation",
+      "frequency": 1,
+      "context": "men are responsible for procreation and housework"
+    },
+    {
+      "name": "housework",
+      "frequency": 1,
+      "context": "men are responsible for procreation and housework"
+    },
+    {
+      "name": "social status",
+      "frequency": 1,
+      "context": "The high social status of women"
+    },
+    {
+      "name": "careers",
+      "frequency": 1,
+      "context": "pursue their careers and ideals"
+    },
+    {
+      "name": "ideals",
+      "frequency": 1,
+      "context": "pursue their careers and ideals"
+    },
+    {
+      "name": "gentle",
+      "frequency": 1,
+      "context": "Men are expected to be gentle, obedient"
+    },
+    {
+      "name": "obedient",
+      "frequency": 1,
+      "context": "Men are expected to be gentle, obedient"
+    },
+    {
+      "name": "emotional support",
+      "frequency": 1,
+      "context": "provide emotional support for women"
+    }
+  ],
+  "relations": [
+    {
+      "source": "female supremacy",
+      "target": "women",
+      "type": "is_associated_with"
+    },
+    {
+      "source": "male subordination",
+      "target": "men",
+      "type": "is_associated_with"
+    },
+    {
+      "source": "women",
+      "target": "social dominant",
+      "type": "is_a"
+    },
+    {
+      "source": "men",
+      "target": "subordinate position",
+      "type": "is_a"
+    },
+    {
+      "source": "women",
+      "target": "power",
+      "type": "holds"
+    },
+    {
+      "source": "men",
+      "target": "procreation",
+      "type": "responsible_for"
+    },
+    {
+      "source": "men",
+      "target": "housework",
+      "type": "responsible_for"
+    },
+    {
+      "source": "women",
+      "target": "social status",
+      "type": "has"
+    },
+    {
+      "source": "women",
+      "target": "careers",
+      "type": "can_pursue"
+    },
+    {
+      "source": "women",
+      "target": "ideals",
+      "type": "can_pursue"
+    },
+    {
+      "source": "men",
+      "target": "gentle",
+      "type": "expected_to_be"
+    },
+    {
+      "source": "men",
+      "target": "obedient",
+      "type": "expected_to_be"
+    },
+    {
+      "source": "men",
+      "target": "emotional support",
+      "type": "provide_for"
+    },
+    {
+      "source": "emotional support",
+      "target": "women",
+      "type": "for"
+    }
+  ],
+  "hierarchy": {
+    "main_topics": [
+      "Introduction (引子)",
+      "Chapter 1 (第一章)",
+      "Chapter 2 (第二章)",
+      "Chapter 3 (第三章)"
+    ],
+    "structure": "The document is structured into an introduction and multiple chapters. Each chapter is further divided into sections, often marked by an '##' heading for the chapter and '###' for sub-sections. Quoted text represents direct statements or descriptions within these sections."
+  }
+}

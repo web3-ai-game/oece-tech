@@ -1,0 +1,9 @@
+node_modules
+.next
+out
+public
+*.config.js
+*.config.ts
+scripts/*.js
+scripts/*.sh
+digital-nomad-hub/

@@ -1,0 +1,323 @@
+{
+  "propositions": [
+    {
+      "id": "1",
+      "text": "There is a mystery surrounding a dead woman in the library.",
+      "level": 1
+    },
+    {
+      "id": "1.1",
+      "text": "The dead woman was found in the library of the Bantry residence.",
+      "level": 2
+    },
+    {
+      "id": "1.2",
+      "text": "The woman is a young, blonde, and attractive individual dressed in a white satin evening gown.",
+      "level": 2
+    },
+    {
+      "id": "1.3",
+      "text": "The police are investigating the death as a murder, likely by strangulation.",
+      "level": 2
+    },
+    {
+      "id": "1.4",
+      "text": "The identity of the woman is initially unknown, but she is later identified as Ruby Keene, a dancer from the Majestic Hotel in Danemouth.",
+      "level": 2
+    },
+    {
+      "id": "2",
+      "text": "Miss Marple is invited to the Bantry residence to assist with the investigation.",
+      "level": 1
+    },
+    {
+      "id": "2.1",
+      "text": "Mrs. Bantry calls Miss Marple after the discovery of the body.",
+      "level": 2
+    },
+    {
+      "id": "2.2",
+      "text": "Miss Marple is known for her deductive skills and ability to connect seemingly small country matters to larger issues.",
+      "level": 2
+    },
+    {
+      "id": "3",
+      "text": "The investigation involves police officials and the residents of the Bantry house.",
+      "level": 1
+    },
+    {
+      "id": "3.1",
+      "text": "Inspector Slack and Chief Constable Melchett are leading the investigation.",
+      "level": 2
+    },
+    {
+      "id": "3.2",
+      "text": "Colonel Bantry and Mrs. Bantry are questioned about the events and their knowledge of the deceased.",
+      "level": 2
+    },
+    {
+      "id": "3.3",
+      "text": "The possibility of a break-in is considered due to a pried-open window.",
+      "level": 2
+    },
+    {
+      "id": "4",
+      "text": "The narrative explores various potential suspects and motives.",
+      "level": 1
+    },
+    {
+      "id": "4.1",
+      "text": "Basil Blake, a young man known for hosting parties and bringing guests, is considered a suspect.",
+      "level": 2
+    },
+    {
+      "id": "4.2",
+      "text": "The deceased, Ruby Keene, was a dancer at the Majestic Hotel and had a professional name, Josie, which was adopted by her cousin, Josephine Turner.",
+      "level": 2
+    },
+    {
+      "id": "4.3",
+      "text": "Josephine Turner, Ruby's cousin and colleague, provides information about Ruby's life and associations.",
+      "level": 2
+    },
+    {
+      "id": "4.4",
+      "text": "The time of death is estimated to be between 10 PM and midnight.",
+      "level": 2
+    },
+    {
+      "id": "5",
+      "text": "Miss Marple begins to unravel the mystery by making connections and observations.",
+      "level": 1
+    },
+    {
+      "id": "5.1",
+      "text": "Miss Marple initially connects the deceased's appearance to a child named Effie Chetti who bites her nails.",
+      "level": 2
+    },
+    {
+      "id": "5.2",
+      "text": "The deceased's attire and appearance are described as cheap and gaudy, contrasting with the Bantry residence.",
+      "level": 2
+    },
+    {
+      "id": "5.3",
+      "text": "The possibility of a connection to Basil Blake's parties is explored, as he often brought young women to his gatherings.",
+      "level": 2
+    },
+    {
+      "id": "5.4",
+      "text": "Miss Marple suspects the deceased might be connected to a young woman who recently stayed with Basil Blake.",
+      "level": 2
+    },
+    {
+      "id": "6",
+      "text": "The investigation progresses with the identification of the victim and further questioning of individuals.",
+      "level": 1
+    },
+    {
+      "id": "6.1",
+      "text": "The police receive a report about a missing dancer, Ruby Keene, from the Majestic Hotel in Danemouth.",
+      "level": 2
+    },
+    {
+      "id": "6.2",
+      "text": "Josephine Turner confirms the identity of the deceased as Ruby Keene.",
+      "level": 2
+    },
+    {
+      "id": "6.3",
+      "text": "Josephine Turner provides details about Ruby's life, relationships, and her cousin's true name, Rosie Legg.",
+      "level": 2
+    },
+    {
+      "id": "6.4",
+      "text": "The motive for the murder remains unclear, but foul play involving a man is suspected by Josephine.",
+      "level": 2
+    }
+  ],
+  "concepts": [
+    {
+      "name": "藏书室女尸之谜",
+      "frequency": 1,
+      "context": "Title of the document, referring to the central mystery of the novel."
+    },
+    {
+      "name": "侦探故事",
+      "frequency": 2,
+      "context": "Mentioned by Agatha Christie as a genre with common tropes."
+    },
+    {
+      "name": "尸体",
+      "frequency": 8,
+      "context": "The central element of the mystery, found in the library."
+    },
+    {
+      "name": "藏书室",
+      "frequency": 10,
+      "context": "The location where the body is discovered, a traditional and important room in a large house."
+    },
+    {
+      "name": "班特里太太",
+      "frequency": 10,
+      "context": "The owner of the residence where the body is found, who calls for assistance."
+    },
+    {
+      "name": "班特里上校",
+      "frequency": 10,
+      "context": "Husband of Mrs. Bantry, initially disbelieving the presence of a body."
+    },
+    {
+      "name": "马普尔小姐",
+      "frequency": 13,
+      "context": "The amateur detective who is invited to solve the mystery."
+    },
+    {
+      "name": "玛丽",
+      "frequency": 3,
+      "context": "The maid who discovers the body and reports it."
+    },
+    {
+      "name": "帕尔克警士",
+      "frequency": 5,
+      "context": "A police officer at the scene who is familiar with Miss Marple."
+    },
+    {
+      "name": "斯莱克警督",
+      "frequency": 7,
+      "context": "A police detective actively involved in the investigation."
+    },
+    {
+      "name": "梅尔切特上校",
+      "frequency": 9,
+      "context": "The Chief Constable, leading the official police investigation."
+    },
+    {
+      "name": "海多克警医",
+      "frequency": 3,
+      "context": "The police surgeon who examines the body."
+    },
+    {
+      "name": "巴兹尔·布莱克",
+      "frequency": 7,
+      "context": "A young man from the film industry known for his parties and lifestyle, a potential suspect."
+    },
+    {
+      "name": "鲁比·基恩",
+      "frequency": 7,
+      "context": "The victim, a young dancer."
+    },
+    {
+      "name": "乔西·特纳",
+      "frequency": 7,
+      "context": "Ruby Keene's cousin and colleague, who helps identify the victim and provide background."
+    },
+    {
+      "name": "舞女",
+      "frequency": 4,
+      "context": "Ruby Keene's profession."
+    },
+    {
+      "name": "金发女子",
+      "frequency": 5,
+      "context": "Description of the deceased woman."
+    },
+    {
+      "name": "谋杀",
+      "frequency": 4,
+      "context": "The nature of the crime being investigated."
+    },
+    {
+      "name": "勒死",
+      "frequency": 2,
+      "context": "The method of murder."
+    },
+    {
+      "name": "聚会",
+      "frequency": 4,
+      "context": "Events hosted by Basil Blake, relevant to the victim's associations."
+    }
+  ],
+  "relations": [
+    {
+      "source": "尸体",
+      "target": "藏书室",
+      "type": "found_in"
+    },
+    {
+      "source": "班特里太太",
+      "target": "马普尔小姐",
+      "type": "invites"
+    },
+    {
+      "source": "马普尔小姐",
+      "target": "侦探故事",
+      "type": "analyzes"
+    },
+    {
+      "source": "梅尔切特上校",
+      "target": "斯莱克警督",
+      "type": "collaborates_with"
+    },
+    {
+      "source": "班特里太太",
+      "target": "玛丽",
+      "type": "informed_by"
+    },
+    {
+      "source": "帕尔克警士",
+      "target": "马普尔小姐",
+      "type": "knows"
+    },
+    {
+      "source": "鲁比·基恩",
+      "target": "舞女",
+      "type": "is_a"
+    },
+    {
+      "source": "鲁比·基恩",
+      "target": "金发女子",
+      "type": "is_described_as"
+    },
+    {
+      "source": "乔西·特纳",
+      "target": "鲁比·基恩",
+      "type": "is_cousin_of"
+    },
+    {
+      "source": "乔西·特纳",
+      "target": "鲁比·基恩",
+      "type": "identifies"
+    },
+    {
+      "source": "巴兹尔·布莱克",
+      "target": "聚会",
+      "type": "hosts"
+    },
+    {
+      "source": "梅尔切特上校",
+      "target": "班特里上校",
+      "type": "questions"
+    },
+    {
+      "source": "海多克警医",
+      "target": "尸体",
+      "type": "examines"
+    },
+    {
+      "source": "谋杀",
+      "target": "勒死",
+      "type": "method_is"
+    }
+  ],
+  "hierarchy": {
+    "main_topics": [
+      "The Mystery of the Body in the Library",
+      "Miss Marple's Investigation",
+      "Police Involvement",
+      "Suspects and Motives",
+      "The Victim's Identity and Background"
+    ],
+    "structure": "The document follows a chronological narrative of the discovery of the body, the initial police response, the involvement of Miss Marple, the identification of the victim, and the exploration of suspects and motives, structured into chapters and sections."
+  }
+}

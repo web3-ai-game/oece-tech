@@ -1,0 +1,291 @@
+{
+  "propositions": [
+    {
+      "id": "1",
+      "text": "这是一个充满激情与热血的故事，讲述了一位绝世神医在都市中掀起惊涛骇浪，一路嚣张，一路逆袭，踏上人生巅峰的传奇经历！",
+      "level": 1
+    },
+    {
+      "id": "1.1",
+      "text": "龙行天下，傲视群雄！",
+      "level": 2
+    },
+    {
+      "id": "2",
+      "text": "他医术绝顶，妙手回春；他武道通神，惩恶扬卮；他玩转都市，风流倜傥！",
+      "level": 1
+    },
+    {
+      "id": "2.1",
+      "text": "且看龙神医如何玩转都市，成就一番传奇伟业！",
+      "level": 2
+    },
+    {
+      "id": "3",
+      "text": "“这是我的地盘，你想怎么做就怎么做！”",
+      "level": 2
+    },
+    {
+      "id": "4",
+      "text": "“谁敢动我一下，我就让他付出十倍的代价！”",
+      "level": 2
+    },
+    {
+      "id": "5",
+      "text": "“我，龙神医，就是规则！”",
+      "level": 2
+    },
+    {
+      "id": "6",
+      "text": "“我龙神医，天下无敌！”",
+      "level": 2
+    },
+    {
+      "id": "7",
+      "text": "“神医的名号，不是白叫的！”",
+      "level": 2
+    },
+    {
+      "id": "8",
+      "text": "“想活命？就听我的！”",
+      "level": 2
+    },
+    {
+      "id": "9",
+      "text": "“这颗药丸，能让你起死回生！”",
+      "level": 2
+    },
+    {
+      "id": "10",
+      "text": "“我的医术，治愈一切疑难杂症！”",
+      "level": 2
+    },
+    {
+      "id": "11",
+      "text": "“病人在我这里，绝不会有生命危险！”",
+      "level": 2
+    },
+    {
+      "id": "12",
+      "text": "“一拳，足以让你跪地求饶！”",
+      "level": 2
+    },
+    {
+      "id": "13",
+      "text": "“我的武力，能让你臣服！”",
+      "level": 2
+    },
+    {
+      "id": "14",
+      "text": "“敢惹我？让你死无葬身之地！”",
+      "level": 2
+    },
+    {
+      "id": "15",
+      "text": "“都市生活，我为所欲为！”",
+      "level": 2
+    },
+    {
+      "id": "16",
+      "text": "“美女，金钱，地位，我全部拥有！”",
+      "level": 2
+    },
+    {
+      "id": "17",
+      "text": "“谁敢挡我的路，谁就得死！”",
+      "level": 2
+    },
+    {
+      "id": "18",
+      "text": "“我，龙神医，注定要成为传奇！”",
+      "level": 2
+    },
+    {
+      "id": "19",
+      "text": "“我的名字，将响彻整个世界！”",
+      "level": 2
+    },
+    {
+      "id": "20",
+      "text": "“看我如何成就一番惊天伟业！”",
+      "level": 2
+    },
+    {
+      "id": "21",
+      "text": "“在我龙神医的眼中，没有征服不了的美女！”",
+      "level": 2
+    },
+    {
+      "id": "22",
+      "text": "“女人，只是我人生中的调味品！”",
+      "level": 2
+    },
+    {
+      "id": "23",
+      "text": "“我要让所有女人都为我疯狂！”",
+      "level": 2
+    }
+  ],
+  "concepts": [
+    {
+      "name": "龙神医",
+      "frequency": 9,
+      "context": "The central protagonist of the story, described as a peerless divine doctor."
+    },
+    {
+      "name": "神医",
+      "frequency": 6,
+      "context": "Refers to the protagonist's extraordinary medical skills and title."
+    },
+    {
+      "name": "绝世",
+      "frequency": 2,
+      "context": "Implies unparalleled or unmatched, used to describe the divine doctor."
+    },
+    {
+      "name": "都市",
+      "frequency": 3,
+      "context": "The setting for the story, indicating an urban environment."
+    },
+    {
+      "name": "传奇",
+      "frequency": 3,
+      "context": "Describes the protagonist's extraordinary life and achievements."
+    },
+    {
+      "name": "医术",
+      "frequency": 2,
+      "context": "Refers to the protagonist's medical skills."
+    },
+    {
+      "name": "武道",
+      "frequency": 1,
+      "context": "Refers to the protagonist's martial arts prowess."
+    },
+    {
+      "name": "嚣张",
+      "frequency": 2,
+      "context": "Describes the protagonist's arrogant and confident demeanor."
+    },
+    {
+      "name": "逆袭",
+      "frequency": 1,
+      "context": "Indicates a comeback or reversal of fortune for the protagonist."
+    },
+    {
+      "name": "巅峰",
+      "frequency": 1,
+      "context": "Refers to the highest point of achievement or success."
+    },
+    {
+      "name": "天下",
+      "frequency": 3,
+      "context": "Indicates a global or widespread influence."
+    },
+    {
+      "name": "无敌",
+      "frequency": 2,
+      "context": "Implies invincibility or absolute dominance."
+    },
+    {
+      "name": "美女",
+      "frequency": 2,
+      "context": "Refers to attractive women, a theme in the story."
+    },
+    {
+      "name": "金钱",
+      "frequency": 1,
+      "context": "A symbol of power and status in the story."
+    },
+    {
+      "name": "地位",
+      "frequency": 1,
+      "context": "A symbol of power and status in the story."
+    }
+  ],
+  "relations": [
+    {
+      "source": "龙神医",
+      "target": "神医",
+      "type": "is_a"
+    },
+    {
+      "source": "龙神医",
+      "target": "绝世",
+      "type": "has_quality"
+    },
+    {
+      "source": "龙神医",
+      "target": "都市",
+      "type": "operates_in"
+    },
+    {
+      "source": "龙神医",
+      "target": "传奇",
+      "type": "becomes"
+    },
+    {
+      "source": "龙神医",
+      "target": "医术",
+      "type": "possesses"
+    },
+    {
+      "source": "龙神医",
+      "target": "武道",
+      "type": "possesses"
+    },
+    {
+      "source": "龙神医",
+      "target": "嚣张",
+      "type": "demonstrates"
+    },
+    {
+      "source": "龙神医",
+      "target": "逆袭",
+      "type": "performs"
+    },
+    {
+      "source": "龙神医",
+      "target": "巅峰",
+      "type": "reaches"
+    },
+    {
+      "source": "龙神医",
+      "target": "天下",
+      "type": "influences"
+    },
+    {
+      "source": "龙神医",
+      "target": "无敌",
+      "type": "is"
+    },
+    {
+      "source": "龙神医",
+      "target": "美女",
+      "type": "interacts_with"
+    },
+    {
+      "source": "神医",
+      "target": "医术",
+      "type": "implies"
+    },
+    {
+      "source": "传奇",
+      "target": "都市",
+      "type": "occurs_in"
+    },
+    {
+      "source": "无敌",
+      "target": "天下",
+      "type": "applies_to"
+    }
+  ],
+  "hierarchy": {
+    "main_topics": [
+      "The Protagonist (Long Shenyi)",
+      "Themes (Medicine, Martial Arts, Power, Status, Romance)",
+      "Narrative Arc (Rise to Power, Legendary Status)"
+    ],
+    "structure": "The document is structured into chapters, with the first chapter setting the overarching premise and subsequent chapters (or sections within chapters) detailing specific aspects of the protagonist's character and abilities. The content is presented as descriptive passages and direct quotes attributed to the protagonist."
+  }
+}

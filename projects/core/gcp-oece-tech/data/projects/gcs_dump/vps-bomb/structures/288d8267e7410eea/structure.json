@@ -1,0 +1,574 @@
+{
+  "propositions": [
+    {
+      "id": "1",
+      "text": "Sookie watches a reality show about vampires and prepares for her shift at the bar.",
+      "level": 1
+    },
+    {
+      "id": "1.1",
+      "text": "She wears a red coat given to her by Eric.",
+      "level": 2
+    },
+    {
+      "id": "1.2",
+      "text": "Eric is busy navigating the new regime and settling vampire kingdom property.",
+      "level": 2
+    },
+    {
+      "id": "1.3",
+      "text": "Eric remembers his past romantic encounters with Sookie from book 8.",
+      "level": 2
+    },
+    {
+      "id": "1.4",
+      "text": "Amelia has a date with Tray at the bar.",
+      "level": 2
+    },
+    {
+      "id": "1.5",
+      "text": "Sookie asks Amelia about her relationship with Pam.",
+      "level": 3
+    },
+    {
+      "id": "1.6",
+      "text": "Amelia considers Pam a brief fling and is genuinely interested in Tray.",
+      "level": 3
+    },
+    {
+      "id": "2",
+      "text": "Sookie goes to work at the bar.",
+      "level": 1
+    },
+    {
+      "id": "2.1",
+      "text": "Tonight is the night shifters decide to reveal themselves publicly.",
+      "level": 2
+    },
+    {
+      "id": "2.2",
+      "text": "Sam is nervous about the public reveal.",
+      "level": 2
+    },
+    {
+      "id": "2.3",
+      "text": "Jason and Mel are present.",
+      "level": 2
+    },
+    {
+      "id": "2.4",
+      "text": "Jason is not yet divorced from Crystal, who has moved back with her relatives.",
+      "level": 3
+    },
+    {
+      "id": "2.5",
+      "text": "Sam has invited Bill and Clancy for safety.",
+      "level": 2
+    },
+    {
+      "id": "2.6",
+      "text": "Sookie nervously serves Bill.",
+      "level": 2
+    },
+    {
+      "id": "3",
+      "text": "A broadcast announces the shifters' public reveal.",
+      "level": 1
+    },
+    {
+      "id": "3.1",
+      "text": "The broadcast features host Matthew and shifter representative Patricia.",
+      "level": 2
+    },
+    {
+      "id": "3.2",
+      "text": "Patricia explains that shifters have lived among humans for years and now wish to integrate.",
+      "level": 3
+    },
+    {
+      "id": "3.3",
+      "text": "She contrasts shifters with vampires, stating shifters are normal humans with minor differences.",
+      "level": 3
+    },
+    {
+      "id": "3.4",
+      "text": "Patricia reveals herself as a werewolf.",
+      "level": 2
+    },
+    {
+      "id": "3.5",
+      "text": "She demonstrates her ability to transform at any time, not just during a full moon.",
+      "level": 3
+    },
+    {
+      "id": "3.6",
+      "text": "Sam and Tray transform into animals.",
+      "level": 2
+    },
+    {
+      "id": "3.7",
+      "text": "Sam transforms into a dog named Dean.",
+      "level": 3
+    },
+    {
+      "id": "3.8",
+      "text": "Tray transforms into a wolf.",
+      "level": 3
+    },
+    {
+      "id": "4",
+      "text": "The public's reaction to the shifters' reveal is largely accepting.",
+      "level": 1
+    },
+    {
+      "id": "4.1",
+      "text": "Most patrons are relaxed, unlike the public reaction to vampires.",
+      "level": 2
+    },
+    {
+      "id": "4.2",
+      "text": "Arlene expresses extreme disapproval, calling the shifters unnatural.",
+      "level": 2
+    },
+    {
+      "id": "4.3",
+      "text": "Holly defends the shifters, stating they have always lived among humans.",
+      "level": 3
+    },
+    {
+      "id": "4.4",
+      "text": "Sookie confronts Arlene about her reaction.",
+      "level": 3
+    },
+    {
+      "id": "4.5",
+      "text": "Arlene leaves in a huff.",
+      "level": 2
+    },
+    {
+      "id": "5",
+      "text": "Sam's mother is shot by his stepfather, Don, after the public reveal.",
+      "level": 1
+    },
+    {
+      "id": "5.1",
+      "text": "Sam leaves to be with his mother, asking Sookie to watch the bar.",
+      "level": 2
+    },
+    {
+      "id": "6",
+      "text": "Sookie reflects on her complicated heritage and supernatural connections.",
+      "level": 1
+    },
+    {
+      "id": "6.1",
+      "text": "She considers her fairy blood and its attraction to non-humans.",
+      "level": 2
+    },
+    {
+      "id": "6.2",
+      "text": "She ponders the relationship between her powers and her fairy blood.",
+      "level": 2
+    },
+    {
+      "id": "7",
+      "text": "Sookie covers for Arlene at Merlotte's, hiring Tanya temporarily.",
+      "level": 1
+    },
+    {
+      "id": "7.1",
+      "text": "Sam calls to say his mother is recovering and Don has been arrested.",
+      "level": 2
+    },
+    {
+      "id": "7.2",
+      "text": "Sam expresses a desire for Sookie to be by his side.",
+      "level": 2
+    },
+    {
+      "id": "8",
+      "text": "Eric summons Sookie to Fangtasia to meet the new King.",
+      "level": 1
+    },
+    {
+      "id": "8.1",
+      "text": "Eric's assistant, Bobby, delivers the message and a mysterious gift box.",
+      "level": 2
+    },
+    {
+      "id": "8.2",
+      "text": "Bobby is reluctant and dislikes Sookie.",
+      "level": 3
+    },
+    {
+      "id": "8.3",
+      "text": "Sookie is concerned about Eric's intentions and the gift box.",
+      "level": 2
+    },
+    {
+      "id": "9",
+      "text": "Sookie arrives at Fangtasia and meets with Eric and Victor.",
+      "level": 1
+    },
+    {
+      "id": "9.1",
+      "text": "Eric presents Sookie with a rare ceremonial knife.",
+      "level": 2
+    },
+    {
+      "id": "9.2",
+      "text": "Victor reveals that giving the knife to Eric signifies a mutual vow between them.",
+      "level": 3
+    },
+    {
+      "id": "9.3",
+      "text": "This vow prevents Quinn from entering Louisiana without Eric's permission.",
+      "level": 3
+    },
+    {
+      "id": "9.4",
+      "text": "Sookie is angry and feels manipulated by Eric's actions.",
+      "level": 2
+    },
+    {
+      "id": "9.5",
+      "text": "Eric claims it was to protect her.",
+      "level": 3
+    },
+    {
+      "id": "10",
+      "text": "Sookie reflects on her complicated romantic entanglements with Eric, Bill, and Quinn.",
+      "level": 1
+    },
+    {
+      "id": "11",
+      "text": "FBI agents Sara and Tom visit Sookie at Merlotte's.",
+      "level": 1
+    },
+    {
+      "id": "11.1",
+      "text": "They question her about her involvement in the explosion in Rhodes and her connection to Sophie-Anne LeClerc.",
+      "level": 2
+    },
+    {
+      "id": "11.2",
+      "text": "They are suspicious of her and Barry's actions during the rescue.",
+      "level": 3
+    },
+    {
+      "id": "12",
+      "text": "A dead body is discovered behind Merlotte's.",
+      "level": 1
+    },
+    {
+      "id": "12.1",
+      "text": "The victim is Crystal, impaled on a wooden cross.",
+      "level": 2
+    },
+    {
+      "id": "12.2",
+      "text": "Sookie is horrified to discover Crystal was pregnant.",
+      "level": 3
+    },
+    {
+      "id": "13",
+      "text": "Jason is devastated by Crystal's death.",
+      "level": 1
+    },
+    {
+      "id": "13.1",
+      "text": "Jason has an alibi and expresses complex emotions about Crystal.",
+      "level": 2
+    },
+    {
+      "id": "14",
+      "text": "Calvin, Crystal's brother, arrives and insists on investigating the scent of the killer.",
+      "level": 1
+    },
+    {
+      "id": "14.1",
+      "text": "He believes Jason is innocent.",
+      "level": 2
+    },
+    {
+      "id": "15",
+      "text": "Sookie visits Eric at Fangtasia.",
+      "level": 1
+    },
+    {
+      "id": "15.1",
+      "text": "She recounts the day's events, including Crystal's murder.",
+      "level": 2
+    },
+    {
+      "id": "15.2",
+      "text": "Eric reveals his human past, including his marriage and children, and how he became a vampire.",
+      "level": 3
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Sookie",
+      "frequency": 30,
+      "context": "The main protagonist, a telepathic waitress with fairy blood."
+    },
+    {
+      "name": "Eric",
+      "frequency": 25,
+      "context": "A powerful vampire, Sookie's love interest and protector."
+    },
+    {
+      "name": "Crystal",
+      "frequency": 15,
+      "context": "Jason's estranged wife, a werepanther, who is murdered."
+    },
+    {
+      "name": "Jason",
+      "frequency": 12,
+      "context": "Sookie's brother, a werepanther, devastated by Crystal's death."
+    },
+    {
+      "name": "Sam",
+      "frequency": 10,
+      "context": "Owner of Merlotte's, a shifter, who reveals himself publicly."
+    },
+    {
+      "name": "Shifter",
+      "frequency": 8,
+      "context": "Creatures who can transform into animals, revealing themselves to the public."
+    },
+    {
+      "name": "Vampire",
+      "frequency": 10,
+      "context": "Supernatural beings who have integrated into society."
+    },
+    {
+      "name": "Werepanther",
+      "frequency": 4,
+      "context": "Humans who transform into panthers, including Jason and Crystal."
+    },
+    {
+      "name": "Bill",
+      "frequency": 4,
+      "context": "A vampire, Sookie's former lover."
+    },
+    {
+      "name": "Tray",
+      "frequency": 3,
+      "context": "A shifter, Amelia's date."
+    },
+    {
+      "name": "Amelia",
+      "frequency": 4,
+      "context": "Sookie's friend."
+    },
+    {
+      "name": "Arlene",
+      "frequency": 3,
+      "context": "A waitress at Merlotte's who reacts negatively to shifters."
+    },
+    {
+      "name": "FBI",
+      "frequency": 5,
+      "context": "Investigating Sookie and the events in Rhodes."
+    },
+    {
+      "name": "Fangtasia",
+      "frequency": 4,
+      "context": "A vampire bar where Eric resides and holds power."
+    },
+    {
+      "name": "Merlotte's",
+      "frequency": 8,
+      "context": "Sookie's workplace and the bar owned by Sam."
+    },
+    {
+      "name": "Don",
+      "frequency": 2,
+      "context": "Sam's stepfather who shoots Sam's mother."
+    },
+    {
+      "name": "Patricia",
+      "frequency": 2,
+      "context": "A shifter representative who reveals herself as a werewolf."
+    },
+    {
+      "name": "Matthew",
+      "frequency": 2,
+      "context": "Host of the broadcast about shifters."
+    },
+    {
+      "name": "Victor",
+      "frequency": 3,
+      "context": "A vampire who negotiates with Eric."
+    },
+    {
+      "name": "Calvin",
+      "frequency": 3,
+      "context": "Crystal's brother, who insists on finding her killer."
+    },
+    {
+      "name": "Tanya",
+      "frequency": 3,
+      "context": "Hired to help at Merlotte's, provides information about Calvin."
+    },
+    {
+      "name": "Fairyblood",
+      "frequency": 1,
+      "context": "Sookie's heritage, which attracts non-humans."
+    },
+    {
+      "name": "Mind-reader",
+      "frequency": 1,
+      "context": "Sookie's telepathic ability."
+    },
+    {
+      "name": "Knife",
+      "frequency": 3,
+      "context": "A ceremonial knife that signifies a vow between Sookie and Eric."
+    }
+  ],
+  "relations": [
+    {
+      "source": "Sookie",
+      "target": "Eric",
+      "type": "romantic interest"
+    },
+    {
+      "source": "Eric",
+      "target": "Sookie",
+      "type": "romantic interest"
+    },
+    {
+      "source": "Sookie",
+      "target": "Jason",
+      "type": "sibling"
+    },
+    {
+      "source": "Jason",
+      "target": "Crystal",
+      "type": "estranged spouse"
+    },
+    {
+      "source": "Crystal",
+      "target": "Jason",
+      "type": "estranged spouse"
+    },
+    {
+      "source": "Crystal",
+      "target": "werepanther",
+      "type": "is_a"
+    },
+    {
+      "source": "Jason",
+      "target": "werepanther",
+      "type": "is_a"
+    },
+    {
+      "source": "Sam",
+      "target": "shifter",
+      "type": "is_a"
+    },
+    {
+      "source": "Patricia",
+      "target": "werewolf",
+      "type": "is_a"
+    },
+    {
+      "source": "Tray",
+      "target": "shifter",
+      "type": "is_a"
+    },
+    {
+      "source": "Sookie",
+      "target": "fairy blood",
+      "type": "has_attribute"
+    },
+    {
+      "source": "Sookie",
+      "target": "mind-reader",
+      "type": "has_ability"
+    },
+    {
+      "source": "Eric",
+      "target": "vampire",
+      "type": "is_a"
+    },
+    {
+      "source": "Bill",
+      "target": "vampire",
+      "type": "is_a"
+    },
+    {
+      "source": "FBI",
+      "target": "investigating",
+      "type": "action"
+    },
+    {
+      "source": "Crystal",
+      "target": "murdered",
+      "type": "event"
+    },
+    {
+      "source": "Eric",
+      "target": "Fangtasia",
+      "type": "resides_in"
+    },
+    {
+      "source": "Sookie",
+      "target": "Merlotte's",
+      "type": "works_at"
+    },
+    {
+      "source": "Sam",
+      "target": "Merlotte's",
+      "type": "owns"
+    },
+    {
+      "source": "Knife",
+      "target": "vow",
+      "type": "symbolizes"
+    },
+    {
+      "source": "Sookie",
+      "target": "vow",
+      "type": "involved_in"
+    },
+    {
+      "source": "Eric",
+      "target": "vow",
+      "type": "involved_in"
+    },
+    {
+      "source": "Quinn",
+      "target": "Louisiana",
+      "type": "restricted_entry_to"
+    },
+    {
+      "source": "Eric",
+      "target": "Quinn",
+      "type": "restricts_entry_of"
+    },
+    {
+      "source": "Calvin",
+      "target": "Crystal",
+      "type": "sibling"
+    },
+    {
+      "source": "Crystal",
+      "target": "pregnant",
+      "type": "state"
+    }
+  ],
+  "hierarchy": {
+    "main_topics": [
+      "Chapter 1: Shifters Reveal",
+      "Chapter 2: Eric's Summons",
+      "Chapter 3: The Vow",
+      "Chapter 4: FBI Investigation and Murder",
+      "Chapter 5: Crystal's Murder Investigation",
+      "Chapter 6: Sookie's Reflections and Eric's Past"
+    ],
+    "structure": "The document follows a chronological narrative chapter by chapter, detailing Sookie's personal life, supernatural conflicts, and romantic entanglements. Each chapter introduces new plot points and character developments within the established world of the Southern Vampire series."
+  }
+}

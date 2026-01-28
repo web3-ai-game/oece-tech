@@ -1,0 +1,70 @@
+{
+  "propositions": [
+    {
+      "id": "1",
+      "text": "The document is titled '傲风'.",
+      "level": 1
+    },
+    {
+      "id": "1.1",
+      "text": "The document contains repeated sections titled '1-9'.",
+      "level": 1
+    },
+    {
+      "id": "1.1.1",
+      "text": "Each '1-9' section lists the word '傲风' multiple times.",
+      "level": 2
+    }
+  ],
+  "concepts": [
+    {
+      "name": "傲风",
+      "frequency": 513,
+      "context": "The primary textual element, repeated extensively throughout the document."
+    },
+    {
+      "name": "Title",
+      "frequency": 1,
+      "context": "The main heading of the document."
+    },
+    {
+      "name": "Section",
+      "frequency": 18,
+      "context": "The numbered subheadings organizing the content."
+    }
+  ],
+  "relations": [
+    {
+      "source": "Title",
+      "target": "傲风",
+      "type": "is_named"
+    },
+    {
+      "source": "Section",
+      "target": "1-9",
+      "type": "has_heading"
+    },
+    {
+      "source": "Section",
+      "target": "傲风",
+      "type": "contains"
+    },
+    {
+      "source": "Document",
+      "target": "Title",
+      "type": "has_title"
+    },
+    {
+      "source": "Document",
+      "target": "Section",
+      "type": "is_composed_of"
+    }
+  ],
+  "hierarchy": {
+    "main_topics": [
+      "Title",
+      "Content Sections"
+    ],
+    "structure": "The document has a single main title, followed by numerous identical sections, each containing a repeated word."
+  }
+}

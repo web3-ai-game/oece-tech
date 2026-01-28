@@ -1,0 +1,211 @@
+{
+  "propositions": [
+    {
+      "id": "1",
+      "text": "The document is a novel titled \"这边风景（上下）\" by Wang Meng.",
+      "level": 1
+    },
+    {
+      "id": "2",
+      "text": "The novel is divided into a preface, an upper volume, and a lower volume.",
+      "level": 2
+    },
+    {
+      "id": "3",
+      "text": "The preface reflects on past years, the author's rural life, and friendships.",
+      "level": 2
+    },
+    {
+      "id": "4",
+      "text": "The upper volume begins with an account of a journey to Yili.",
+      "level": 2
+    },
+    {
+      "id": "5",
+      "text": "The journey to Yili highlights the beauty and abundance of the region.",
+      "level": 3
+    },
+    {
+      "id": "6",
+      "text": "A significant event in the upper volume is a woman's distraught cry at the bus station.",
+      "level": 3
+    },
+    {
+      "id": "7",
+      "text": "The woman's distress is linked to the loss of her son, attributed to broader political and social unrest.",
+      "level": 4
+    },
+    {
+      "id": "8",
+      "text": "The novel touches upon the political tensions between China and the Soviet Union.",
+      "level": 3
+    },
+    {
+      "id": "9",
+      "text": "The narrative contrasts the idyllic perception of Yili with unfolding political realities.",
+      "level": 3
+    },
+    {
+      "id": "10",
+      "text": "The author reflects on the meaning of \"truth,\" \"life,\" and \"love\" in his writing.",
+      "level": 2
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Yili",
+      "frequency": 25,
+      "context": "A beautiful and abundant region in Xinjiang."
+    },
+    {
+      "name": "Wang Meng",
+      "frequency": 5,
+      "context": "The author of the novel."
+    },
+    {
+      "name": "Journey",
+      "frequency": 10,
+      "context": "A central element in the early part of the novel."
+    },
+    {
+      "name": "Nature",
+      "frequency": 15,
+      "context": "Description of Yili's landscape and flora."
+    },
+    {
+      "name": "Politics",
+      "frequency": 10,
+      "context": "Underlying tensions and events influencing characters."
+    },
+    {
+      "name": "Loss",
+      "frequency": 5,
+      "context": "A significant theme, exemplified by a mother's grief."
+    },
+    {
+      "name": "Memory",
+      "frequency": 5,
+      "context": "Characters recalling past experiences and homeland."
+    },
+    {
+      "name": "Characters",
+      "frequency": 20,
+      "context": "Individuals encountered on the journey and in Yili."
+    },
+    {
+      "name": "Dialogue",
+      "frequency": 15,
+      "context": "Conversations revealing character perspectives and plot points."
+    },
+    {
+      "name": "Preface",
+      "frequency": 2,
+      "context": "Author's introductory reflections."
+    },
+    {
+      "name": "Volumes",
+      "frequency": 2,
+      "context": "Structural division of the novel (Upper and Lower)."
+    },
+    {
+      "name": "Truth",
+      "frequency": 2,
+      "context": "A concept explored in the preface."
+    },
+    {
+      "name": "Life",
+      "frequency": 2,
+      "context": "A concept explored in the preface."
+    },
+    {
+      "name": "Love",
+      "frequency": 2,
+      "context": "A concept explored in the preface."
+    },
+    {
+      "name": "Soviet Union",
+      "frequency": 3,
+      "context": "Mentioned in relation to political tensions."
+    }
+  ],
+  "relations": [
+    {
+      "source": "The document",
+      "target": "Wang Meng",
+      "type": "authored_by"
+    },
+    {
+      "source": "The document",
+      "target": "Preface",
+      "type": "contains"
+    },
+    {
+      "source": "The document",
+      "target": "Upper volume",
+      "type": "contains"
+    },
+    {
+      "source": "The document",
+      "target": "Lower volume",
+      "type": "contains"
+    },
+    {
+      "source": "Upper volume",
+      "target": "Journey to Yili",
+      "type": "describes"
+    },
+    {
+      "source": "Journey to Yili",
+      "target": "Yili",
+      "type": "destination"
+    },
+    {
+      "source": "Woman's distress",
+      "target": "Loss of son",
+      "type": "caused_by"
+    },
+    {
+      "source": "Loss of son",
+      "target": "Political unrest",
+      "type": "influenced_by"
+    },
+    {
+      "source": "Yili",
+      "target": "Nature",
+      "type": "characterized_by"
+    },
+    {
+      "source": "Preface",
+      "target": "Memory",
+      "type": "reflects_on"
+    },
+    {
+      "source": "Preface",
+      "target": "Truth",
+      "type": "explores"
+    },
+    {
+      "source": "Preface",
+      "target": "Life",
+      "type": "explores"
+    },
+    {
+      "source": "Preface",
+      "target": "Love",
+      "type": "explores"
+    },
+    {
+      "source": "Political tensions",
+      "target": "Soviet Union",
+      "type": "involves"
+    }
+  ],
+  "hierarchy": {
+    "main_topics": [
+      "Novel Structure",
+      "Setting: Yili",
+      "Themes: Memory, Politics, Loss"
+    ],
+    "structure": "The document is structured into a Preface, an Upper Volume, and a Lower Volume. The Upper Volume opens with a detailed depiction of a journey to the region of Yili, exploring its natural beauty and the social/political context through character interactions and observations, culminating in a dramatic scene of distress at a bus station."
+  }
+}

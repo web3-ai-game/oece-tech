@@ -1,0 +1,73 @@
+{
+  "routing_strategy": {
+    "method": "random_weighted",
+    "key_groups": [
+      {
+        "name": "primary",
+        "keys": [
+          "AIzaSyA5PgAqHpLt8yHCcxdTyBTHt_YP9VmOwjA",
+          "AIzaSyDNpOIB0nn4YcVTG9x559O3Ht-AdnHUiLA",
+          "AIzaSyCPxNPKzWp29Bfn41KhfGzor8Nw98UBUlU",
+          "AIzaSyCl9-5P5EomTcv5G82___nTB1y29-FpBW4",
+          "AIzaSyAWpD1-bJIE6lXv3lwT-yePeb2faEpYXd8"
+        ],
+        "weight": 0.6,
+        "max_rpm": 20
+      },
+      {
+        "name": "secondary",
+        "keys": [
+          "AIzaSyBKOla-lFvzYBnMozGcqJvGMWD_A3BkpMs",
+          "AIzaSyCVRIQzW07PYeo9YJJnOqS4f15yLe6WRsg",
+          "AIzaSyCm7hYdz36B75sGtDhtnGrWW75WNTrQ-pU",
+          "AIzaSyAGWdNp7CzAqaCGkan75OW1AwEyL53ljT0",
+          "AIzaSyDoQMM0PQmdNabF9CKTC4lzavLsZnR6zQU"
+        ],
+        "weight": 0.3,
+        "max_rpm": 15
+      },
+      {
+        "name": "backup",
+        "keys": [
+          "AIzaSyA9-h77IHDo_LXwYQqO4ZLeIbb49HYaU4A",
+          "AIzaSyAjo1tVdfrDyCzIjQtaTtN6Zt2s4X3bijc",
+          "AIzaSyBOzbxdFcRN_1b007QhuSi-f4FbZXKc5Lw",
+          "AIzaSyD1qjHKnBuGH5ukDCn3CN7dN_OqA5o6Qps",
+          "AIzaSyB7Wx2a_j2YU3Dcklq4Li3p_1Hxxl5abtU"
+        ],
+        "weight": 0.1,
+        "max_rpm": 10
+      },
+      {
+        "name": "reserve",
+        "keys": [
+          "AIzaSyA8u-ZYsrUU0rDSFPGARGNFHRlpAlXgaS0",
+          "AIzaSyB7xWKLkqOOWJbIcvA3sk4O0dFGbRKhNR4",
+          "AIzaSyATC0o1O_4Ai3oEw_4KfnukCikwKYnXzp4",
+          "AIzaSyDE8txzP-pHA_xO5iXP3VTJExGPgDyw3TE",
+          "AIzaSyDyh8M0djG2E7pbCvNm3d2ecotv2ot8Zkk",
+          "AIzaSyB_PhtmKUEE6d2CtAGiqZMk67R4qrgsXyg",
+          "AIzaSyBRm9efJEnuaeLXkPGuXWDwIWVGBrJVhgA",
+          "AIzaSyArIZw_CufZHxeUkrTmma3oUIJi2bXn4lI",
+          "AIzaSyC1_xh4ylFxwlsT7RnECrGbcsfHp4wLftM",
+          "AIzaSyAlsZ3fLPsB3udtH6hBLOJsSEyijVFXTmI"
+        ],
+        "weight": 0,
+        "max_rpm": 5
+      }
+    ]
+  },
+  "safety_rules": {
+    "max_concurrent_keys": 5,
+    "key_cooldown_seconds": 10,
+    "max_errors_before_blacklist": 3,
+    "blacklist_duration_minutes": 60,
+    "daily_usage_limit_percent": 30
+  },
+  "monitoring": {
+    "track_429_errors": true,
+    "track_response_time": true,
+    "alert_on_high_error_rate": 0.1,
+    "log_all_requests": false
+  }
+}

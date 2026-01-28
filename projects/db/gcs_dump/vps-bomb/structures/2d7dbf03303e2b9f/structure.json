@@ -1,0 +1,237 @@
+{
+  "propositions": [
+    {
+      "id": "1",
+      "text": "《英雄时代》是柳建伟创作的一部力作，标志着“时代三步曲”的完成。",
+      "level": 1
+    },
+    {
+      "id": "2",
+      "text": "小说以西南省会城市西平为中心，描写了史天雄和陆承伟的人生道路。",
+      "level": 1
+    },
+    {
+      "id": "3",
+      "text": "陆承伟计划为父亲陆震天购买昂贵别墅作为八十五岁生日礼物。",
+      "level": 2
+    },
+    {
+      "id": "4",
+      "text": "陆震天考虑是否高调庆祝八十五岁生日，面临家庭成员的不同意见。",
+      "level": 2
+    },
+    {
+      "id": "5",
+      "text": "史天雄对陆震天高调过寿表示担忧，认为不符合当前形势。",
+      "level": 3
+    },
+    {
+      "id": "6",
+      "text": "陆震天接受史天雄的建议，决定低调在家过生日。",
+      "level": 3
+    },
+    {
+      "id": "7",
+      "text": "陆震天对陆承伟“八旗子弟”式的行为表示不满，要求史天雄和陆小艺监督。",
+      "level": 3
+    },
+    {
+      "id": "8",
+      "text": "陆承伟与乔妮的关系引起苏园和陆震天的关注和担忧。",
+      "level": 3
+    },
+    {
+      "id": "9",
+      "text": "史天雄对自己的职业前途感到迷茫和焦虑。",
+      "level": 3
+    },
+    {
+      "id": "10",
+      "text": "陆小艺和史天雄在性生活上存在沟通障碍，可能与史天雄的危机感有关。",
+      "level": 3
+    }
+  ],
+  "concepts": [
+    {
+      "name": "英雄时代",
+      "frequency": 3,
+      "context": "小说名称"
+    },
+    {
+      "name": "柳建伟",
+      "frequency": 2,
+      "context": "作者"
+    },
+    {
+      "name": "时代三步曲",
+      "frequency": 2,
+      "context": "系列作品"
+    },
+    {
+      "name": "陆承伟",
+      "frequency": 13,
+      "context": "核心人物, 商界人士"
+    },
+    {
+      "name": "史天雄",
+      "frequency": 13,
+      "context": "核心人物, 陆家成员"
+    },
+    {
+      "name": "陆震天",
+      "frequency": 13,
+      "context": "陆家大家长, 革命家"
+    },
+    {
+      "name": "生日",
+      "frequency": 7,
+      "context": "故事关键节点"
+    },
+    {
+      "name": "家庭会",
+      "frequency": 4,
+      "context": "重要情节装置"
+    },
+    {
+      "name": "改革开放",
+      "frequency": 4,
+      "context": "时代背景"
+    },
+    {
+      "name": "私营经济",
+      "frequency": 3,
+      "context": "经济背景"
+    },
+    {
+      "name": "乔妮",
+      "frequency": 4,
+      "context": "陆承伟的恋人"
+    },
+    {
+      "name": "职业前途",
+      "frequency": 3,
+      "context": "史天雄的困扰"
+    },
+    {
+      "name": "性生活",
+      "frequency": 3,
+      "context": "夫妻关系问题"
+    },
+    {
+      "name": "豪宅",
+      "frequency": 3,
+      "context": "陆承伟的礼物"
+    },
+    {
+      "name": "文革",
+      "frequency": 3,
+      "context": "历史背景"
+    }
+  ],
+  "relations": [
+    {
+      "source": "1",
+      "target": "2",
+      "type": "part_of"
+    },
+    {
+      "source": "2",
+      "target": "3",
+      "type": "includes"
+    },
+    {
+      "source": "2",
+      "target": "4",
+      "type": "includes"
+    },
+    {
+      "source": "3",
+      "target": "4",
+      "type": "leads_to"
+    },
+    {
+      "source": "4",
+      "target": "5",
+      "type": "involves"
+    },
+    {
+      "source": "4",
+      "target": "6",
+      "type": "resolves_to"
+    },
+    {
+      "source": "6",
+      "target": "7",
+      "type": "leads_to"
+    },
+    {
+      "source": "6",
+      "target": "8",
+      "type": "impacts"
+    },
+    {
+      "source": "9",
+      "target": "10",
+      "type": "potential_cause_of"
+    },
+    {
+      "source": "3",
+      "target": "豪宅",
+      "type": "object_of"
+    },
+    {
+      "source": "7",
+      "target": "陆承伟",
+      "type": "subject_of_supervision"
+    },
+    {
+      "source": "8",
+      "target": "乔妮",
+      "type": "related_to"
+    },
+    {
+      "source": "4",
+      "target": "陆震天",
+      "type": "focus_of"
+    },
+    {
+      "source": "5",
+      "target": "史天雄",
+      "type": "opinion_holder"
+    },
+    {
+      "source": "9",
+      "target": "史天雄",
+      "type": "experiencer"
+    },
+    {
+      "source": "10",
+      "target": "陆小艺",
+      "type": "experiencer"
+    },
+    {
+      "source": "2",
+      "target": "史天雄",
+      "type": "character_in"
+    },
+    {
+      "source": "2",
+      "target": "陆承伟",
+      "type": "character_in"
+    },
+    {
+      "source": "1",
+      "target": "柳建伟",
+      "type": "author_of"
+    }
+  ],
+  "hierarchy": {
+    "main_topics": [
+      "小说《英雄时代》",
+      "陆震天寿辰",
+      "陆家家庭关系",
+      "史天雄的困境"
+    ],
+    "structure": "小说围绕陆震天的八十五岁寿辰展开，通过家庭会议讨论如何庆祝，并以此引出陆家成员之间的复杂关系、个人困境和时代背景。"
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "propositions": [
+    {
+      "id": "1",
+      "text": "Main narrative revolves around personal relationships and societal roles in a female-dominated world",
+      "level": 1
+    },
+    {
+      "id": "1.1",
+      "text": "Characters navigate complex emotional bonds and societal expectations",
+      "level": 2
+    },
+    {
+      "id": "1.2",
+      "text": "Themes of love, duty, and personal sacrifice are central to character development",
+      "level": 2
+    },
+    {
+      "id": "2",
+      "text": "Cultural and hierarchical structures influence individual choices",
+      "level": 1
+    },
+    {
+      "id": "2.1",
+      "text": "Female dominance shapes marriage and power dynamics",
+      "level": 2
+    },
+    {
+      "id": "2.2",
+      "text": "Traditional roles and expectations create conflict and tension",
+      "level": 2
+    },
+    {
+      "id": "3",
+      "text": "Personal struggles and aspirations drive the plot",
+      "level": 1
+    },
+    {
+      "id": "3.1",
+      "text": "Characters seek autonomy and self-expression within restrictive norms",
+      "level": 2
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Female Dominance",
+      "frequency": 20,
+      "context": "Central societal structure where women hold primary power"
+    },
+    {
+      "name": "Love and Sacrifice",
+      "frequency": 15,
+      "context": "Emotional core of character motivations and conflicts"
+    },
+    {
+      "name": "Duty and Honor",
+      "frequency": 10,
+      "context": "Driving force behind societal roles and personal decisions"
+    },
+    {
+      "name": "Marriage Dynamics",
+      "frequency": 12,
+      "context": "Key aspect of social interaction and power negotiation"
+    },
+    {
+      "name": "Personal Autonomy",
+      "frequency": 8,
+      "context": "Struggle for individual freedom within societal constraints"
+    }
+  ],
+  "relations": [
+    {
+      "source": "Female Dominance",
+      "target": "Marriage Dynamics",
+      "type": "influences"
+    },
+    {
+      "source": "Love and Sacrifice",
+      "target": "Personal Autonomy",
+      "type": "conflicts_with"
+    },
+    {
+      "source": "Duty and Honor",
+      "target": "Personal Autonomy",
+      "type": "restricts"
+    },
+    {
+      "source": "Female Dominance",
+      "target": "Duty and Honor",
+      "type": "reinforces"
+    },
+    {
+      "source": "Love and Sacrifice",
+      "target": "Marriage Dynamics",
+      "type": "complicates"
+    }
+  ],
+  "hierarchy": {
+    "main_topics": [
+      "Female-Dominated Society",
+      "Emotional and Relational Conflicts",
+      "Individual vs. Societal Expectations"
+    ],
+    "structure": "The document follows a narrative structure with interwoven personal stories and societal commentary, focusing on character-driven emotional arcs within a hierarchical, female-led world."
+  }
+}

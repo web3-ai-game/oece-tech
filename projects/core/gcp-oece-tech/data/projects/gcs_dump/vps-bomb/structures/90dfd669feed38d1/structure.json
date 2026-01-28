@@ -1,0 +1,422 @@
+{
+  "propositions": [
+    {
+      "id": "1",
+      "text": "The document is titled '重生之米虫人生'.",
+      "level": 1
+    },
+    {
+      "id": "1.1",
+      "text": "It contains an '序章' (Prologue).",
+      "level": 2
+    },
+    {
+      "id": "1.1.1",
+      "text": "The prologue includes a '序' (Preface).",
+      "level": 3
+    },
+    {
+      "id": "1.2",
+      "text": "It contains a '正文' (Main Body).",
+      "level": 2
+    },
+    {
+      "id": "1.2.1",
+      "text": "The main body is structured into 20 chapters.",
+      "level": 3
+    },
+    {
+      "id": "1.2.1.1",
+      "text": "Chapter 1 is '重新开始' (Starting Anew).",
+      "level": 4
+    },
+    {
+      "id": "1.2.1.2",
+      "text": "Chapter 2 is '校园生活' (Campus Life).",
+      "level": 4
+    },
+    {
+      "id": "1.2.1.3",
+      "text": "Chapter 3 is '意外的相遇' (Unexpected Encounter).",
+      "level": 4
+    },
+    {
+      "id": "1.2.1.4",
+      "text": "Chapter 4 is '改变的轨迹' (Changed Trajectory).",
+      "level": 4
+    },
+    {
+      "id": "1.2.1.5",
+      "text": "Chapter 5 is '青春的萌动' (Budding Youth).",
+      "level": 4
+    },
+    {
+      "id": "1.2.1.6",
+      "text": "Chapter 6 is '挑战与成长' (Challenges and Growth).",
+      "level": 4
+    },
+    {
+      "id": "1.2.1.7",
+      "text": "Chapter 7 is '梦想的启航' (Setting Sail for Dreams).",
+      "level": 4
+    },
+    {
+      "id": "1.2.1.8",
+      "text": "Chapter 8 is '崭新的篇章' (A New Chapter).",
+      "level": 4
+    },
+    {
+      "id": "1.2.1.9",
+      "text": "Chapter 9 is '走向未来' (Moving Towards the Future).",
+      "level": 4
+    },
+    {
+      "id": "1.2.1.10",
+      "text": "Chapter 10 is '幸福的约定' (Happy Promise).",
+      "level": 4
+    },
+    {
+      "id": "1.2.1.11",
+      "text": "Chapter 11 is '情感的升华' (Sublimation of Emotions).",
+      "level": 4
+    },
+    {
+      "id": "1.2.1.12",
+      "text": "Chapter 12 is '事业的开端' (Beginning of a Career).",
+      "level": 4
+    },
+    {
+      "id": "1.2.1.13",
+      "text": "Chapter 13 is '甜蜜的日常' (Sweet Daily Life).",
+      "level": 4
+    },
+    {
+      "id": "1.2.1.14",
+      "text": "Chapter 14 is '责任与担当' (Responsibility and Commitment).",
+      "level": 4
+    },
+    {
+      "id": "1.2.1.15",
+      "text": "Chapter 15 is '温暖的守护' (Warm Protection).",
+      "level": 4
+    },
+    {
+      "id": "1.2.1.16",
+      "text": "Chapter 16 is '爱的延续' (Continuation of Love).",
+      "level": 4
+    },
+    {
+      "id": "1.2.1.17",
+      "text": "Chapter 17 is '岁月的沉淀' (Precipitation of Years).",
+      "level": 4
+    },
+    {
+      "id": "1.2.1.18",
+      "text": "Chapter 18 is '终点的开始' (The Beginning of the End).",
+      "level": 4
+    },
+    {
+      "id": "1.2.1.19",
+      "text": "Chapter 19 is '爱的归宿' (The Destination of Love).",
+      "level": 4
+    },
+    {
+      "id": "1.2.1.20",
+      "text": "Chapter 20 is '幸福的未来' (Happy Future).",
+      "level": 4
+    },
+    {
+      "id": "1.3",
+      "text": "It concludes with a '尾声' (Epilogue).",
+      "level": 2
+    }
+  ],
+  "concepts": [
+    {
+      "name": "重生",
+      "frequency": 1,
+      "context": "Title of the document, implying a theme of rebirth or reincarnation."
+    },
+    {
+      "name": "米虫",
+      "frequency": 1,
+      "context": "Part of the title, often implying a simple, perhaps unmotivated or insignificant life, which may be contrasted with the protagonist's journey."
+    },
+    {
+      "name": "人生",
+      "frequency": 1,
+      "context": "Part of the title, meaning 'life'."
+    },
+    {
+      "name": "序章",
+      "frequency": 1,
+      "context": "Structural element, meaning 'Prologue'."
+    },
+    {
+      "name": "序",
+      "frequency": 1,
+      "context": "Sub-section within the prologue, meaning 'Preface'."
+    },
+    {
+      "name": "正文",
+      "frequency": 1,
+      "context": "Structural element, meaning 'Main Body'."
+    },
+    {
+      "name": "章节",
+      "frequency": 20,
+      "context": "The main divisions of the '正文', each with a specific thematic title."
+    },
+    {
+      "name": "开始",
+      "frequency": 3,
+      "context": "Appears in chapter titles, indicating new beginnings or transitions."
+    },
+    {
+      "name": "生活",
+      "frequency": 1,
+      "context": "Appears in chapter titles, referring to 'Campus Life'."
+    },
+    {
+      "name": "相遇",
+      "frequency": 1,
+      "context": "Appears in a chapter title, 'Unexpected Encounter'."
+    },
+    {
+      "name": "改变",
+      "frequency": 1,
+      "context": "Appears in a chapter title, 'Changed Trajectory'."
+    },
+    {
+      "name": "青春",
+      "frequency": 1,
+      "context": "Appears in a chapter title, 'Budding Youth'."
+    },
+    {
+      "name": "成长",
+      "frequency": 1,
+      "context": "Appears in a chapter title, 'Challenges and Growth'."
+    },
+    {
+      "name": "梦想",
+      "frequency": 1,
+      "context": "Appears in a chapter title, 'Setting Sail for Dreams'."
+    },
+    {
+      "name": "未来",
+      "frequency": 2,
+      "context": "Appears in chapter titles, indicating forward progression."
+    },
+    {
+      "name": "约定",
+      "frequency": 1,
+      "context": "Appears in a chapter title, 'Happy Promise'."
+    },
+    {
+      "name": "情感",
+      "frequency": 1,
+      "context": "Appears in a chapter title, 'Sublimation of Emotions'."
+    },
+    {
+      "name": "事业",
+      "frequency": 1,
+      "context": "Appears in a chapter title, 'Beginning of a Career'."
+    },
+    {
+      "name": "日常",
+      "frequency": 1,
+      "context": "Appears in a chapter title, 'Sweet Daily Life'."
+    },
+    {
+      "name": "责任",
+      "frequency": 1,
+      "context": "Appears in a chapter title, 'Responsibility and Commitment'."
+    },
+    {
+      "name": "守护",
+      "frequency": 1,
+      "context": "Appears in a chapter title, 'Warm Protection'."
+    },
+    {
+      "name": "爱",
+      "frequency": 3,
+      "context": "Appears in chapter titles, suggesting a significant theme of love."
+    },
+    {
+      "name": "岁月",
+      "frequency": 1,
+      "context": "Appears in a chapter title, 'Precipitation of Years'."
+    },
+    {
+      "name": "终点",
+      "frequency": 1,
+      "context": "Appears in a chapter title, 'The Beginning of the End'."
+    },
+    {
+      "name": "归宿",
+      "frequency": 1,
+      "context": "Appears in a chapter title, 'The Destination of Love'."
+    },
+    {
+      "name": "幸福",
+      "frequency": 2,
+      "context": "Appears in chapter titles, indicating a desired state."
+    },
+    {
+      "name": "尾声",
+      "frequency": 1,
+      "context": "Structural element, meaning 'Epilogue'."
+    }
+  ],
+  "relations": [
+    {
+      "source": "序章",
+      "target": "序",
+      "type": "part_of"
+    },
+    {
+      "source": "正文",
+      "target": "章节",
+      "type": "consists_of"
+    },
+    {
+      "source": "序章",
+      "target": "正文",
+      "type": "precedes"
+    },
+    {
+      "source": "正文",
+      "target": "尾声",
+      "type": "precedes"
+    },
+    {
+      "source": "重生之米虫人生",
+      "target": "序章",
+      "type": "has_section"
+    },
+    {
+      "source": "重生之米虫人生",
+      "target": "正文",
+      "type": "has_section"
+    },
+    {
+      "source": "重生之米虫人生",
+      "target": "尾声",
+      "type": "has_section"
+    },
+    {
+      "source": "章节",
+      "target": "开始",
+      "type": "theme_related_to"
+    },
+    {
+      "source": "章节",
+      "target": "生活",
+      "type": "theme_related_to"
+    },
+    {
+      "source": "章节",
+      "target": "相遇",
+      "type": "theme_related_to"
+    },
+    {
+      "source": "章节",
+      "target": "改变",
+      "type": "theme_related_to"
+    },
+    {
+      "source": "章节",
+      "target": "青春",
+      "type": "theme_related_to"
+    },
+    {
+      "source": "章节",
+      "target": "成长",
+      "type": "theme_related_to"
+    },
+    {
+      "source": "章节",
+      "target": "梦想",
+      "type": "theme_related_to"
+    },
+    {
+      "source": "章节",
+      "target": "未来",
+      "type": "theme_related_to"
+    },
+    {
+      "source": "章节",
+      "target": "约定",
+      "type": "theme_related_to"
+    },
+    {
+      "source": "章节",
+      "target": "情感",
+      "type": "theme_related_to"
+    },
+    {
+      "source": "章节",
+      "target": "事业",
+      "type": "theme_related_to"
+    },
+    {
+      "source": "章节",
+      "target": "日常",
+      "type": "theme_related_to"
+    },
+    {
+      "source": "章节",
+      "target": "责任",
+      "type": "theme_related_to"
+    },
+    {
+      "source": "章节",
+      "target": "守护",
+      "type": "theme_related_to"
+    },
+    {
+      "source": "章节",
+      "target": "爱",
+      "type": "theme_related_to"
+    },
+    {
+      "source": "章节",
+      "target": "岁月",
+      "type": "theme_related_to"
+    },
+    {
+      "source": "章节",
+      "target": "终点",
+      "type": "theme_related_to"
+    },
+    {
+      "source": "章节",
+      "target": "归宿",
+      "type": "theme_related_to"
+    },
+    {
+      "source": "章节",
+      "target": "幸福",
+      "type": "theme_related_to"
+    },
+    {
+      "source": "重生",
+      "target": "人生",
+      "type": "modifies"
+    },
+    {
+      "source": "米虫",
+      "target": "人生",
+      "type": "modifies"
+    }
+  ],
+  "hierarchy": {
+    "main_topics": [
+      "重生之米虫人生",
+      "序章",
+      "正文",
+      "尾声"
+    ],
+    "structure": "The document is organized hierarchically, starting with a main title, followed by a prologue section ('序章') which contains a preface ('序'). The main content is presented in a body section ('正文'), which is further divided into twenty numbered chapters. The document concludes with an epilogue ('尾声')."
+  }
+}

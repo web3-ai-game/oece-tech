@@ -1,0 +1,15 @@
+{
+  "propositions": [
+    {
+      "id": "1",
+      "text": "Document: 嫌疑人X的献身_东野圭吾.txt",
+      "level": 1
+    }
+  ],
+  "concepts": [],
+  "relations": [],
+  "hierarchy": {
+    "main_topics": [],
+    "structure": "Basic structure (extraction failed)"
+  }
+}

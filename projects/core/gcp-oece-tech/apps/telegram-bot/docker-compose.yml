@@ -1,0 +1,40 @@
+services:
+  # Telegram Bot 應用
+  # 使用 DO 托管 MongoDB (VPC 私網連接)
+  bot:
+    build: .
+    container_name: sms-tg-bot
+    restart: unless-stopped
+    environment:
+      NODE_ENV: production
+      # DO 托管 MongoDB VPC 連接
+      MONGODB_URI: ${MONGODB_VPC_URI}
+      MONGODB_DB_NAME: sms_tg_bot
+      # Gemini API
+      GEMINI_API_KEY: ${GEMINI_API_OECE_TECH_}
+      # Grok API (備用)
+      GROK_API_KEY: ${GROK_ONE_}
+      # Telegram
+      TELEGRAM_BOT_TOKEN: ${TELEGRAM_BOT_TOKEN}
+      TELEGRAM_CHAT_ID: ${TELEGRAM_CHAT_ID}
+    env_file:
+      - .env
+    networks:
+      - sms-tg-network
+    mem_limit: 512m
+    cpus: 0.5
+    logging:
+      driver: "json-file"
+      options:
+        max-size: "10m"
+        max-file: "3"
+    healthcheck:
+      test: ["CMD", "node", "-e", "require('http').get('http://localhost:3000/health', (r) => process.exit(r.statusCode === 200 ? 0 : 1))"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 30s
+
+networks:
+  sms-tg-network:
+    driver: bridge

@@ -1,0 +1,152 @@
+{
+  "propositions": [
+    {
+      "id": "1",
+      "text": "The narrator returns to school and discusses personal struggles and career choices.",
+      "level": 1
+    },
+    {
+      "id": "1.1",
+      "text": "The narrator, a 22-year-old woman, studies medicine despite lacking interest.",
+      "level": 2
+    },
+    {
+      "id": "1.2",
+      "text": "A missing person notice about a 22-year-old woman, Lin Yingying, intrigues the narrator.",
+      "level": 2
+    },
+    {
+      "id": "2",
+      "text": "The narrator reflects on family history and the significance of Shazhou.",
+      "level": 1
+    },
+    {
+      "id": "2.1",
+      "text": "Shazhou is described as a place of deep memory and inescapable ties through the grandfather's stories.",
+      "level": 2
+    },
+    {
+      "id": "3",
+      "text": "Life at medical school includes friendships and unsettling experiences.",
+      "level": 1
+    },
+    {
+      "id": "3.1",
+      "text": "The narrator bonds with Xiaoya, a quirky roommate, over shared experiences.",
+      "level": 2
+    },
+    {
+      "id": "4",
+      "text": "The mystery of Lin Yingying's disappearance deepens with further investigation.",
+      "level": 1
+    },
+    {
+      "id": "4.1",
+      "text": "The narrator contacts the number on the missing person notice but gains no new information.",
+      "level": 2
+    },
+    {
+      "id": "5",
+      "text": "Unexpected encounters reveal personal connections and tragedies.",
+      "level": 1
+    },
+    {
+      "id": "5.1",
+      "text": "Xiaoya's brother is revealed to be in critical condition after an accident.",
+      "level": 2
+    },
+    {
+      "id": "6",
+      "text": "A disturbing dream of violence and death in a desert setting haunts the narrator.",
+      "level": 1
+    },
+    {
+      "id": "7",
+      "text": "Reflections on the cost of survival and the inescapable nature of Shazhou emerge.",
+      "level": 1
+    },
+    {
+      "id": "8",
+      "text": "The narrator experiences a surreal time-travel to an ancient Shazhou.",
+      "level": 1
+    },
+    {
+      "id": "9",
+      "text": "Shazhou's ancient secrets connect to Lin Yingying and the narrator's family.",
+      "level": 1
+    },
+    {
+      "id": "10",
+      "text": "A final decision is made to confront an ancient curse tied to Lin Yingying and Shazhou.",
+      "level": 1
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Shazhou",
+      "frequency": 10,
+      "context": "A central location tied to memory, history, and mystery."
+    },
+    {
+      "name": "Lin Yingying",
+      "frequency": 6,
+      "context": "A missing woman whose disappearance drives the narrative."
+    },
+    {
+      "name": "Medicine",
+      "frequency": 4,
+      "context": "The narrator's reluctant career path and setting for personal growth."
+    },
+    {
+      "name": "Family",
+      "frequency": 5,
+      "context": "A recurring theme of legacy, loss, and connection."
+    },
+    {
+      "name": "Dreams",
+      "frequency": 3,
+      "context": "Symbolic representations of fear and premonition."
+    },
+    {
+      "name": "Curse",
+      "frequency": 2,
+      "context": "A supernatural element linking past and present."
+    }
+  ],
+  "relations": [
+    {
+      "source": "Shazhou",
+      "target": "Family",
+      "type": "part_of"
+    },
+    {
+      "source": "Lin Yingying",
+      "target": "Shazhou",
+      "type": "connected_to"
+    },
+    {
+      "source": "Curse",
+      "target": "Lin Yingying",
+      "type": "causes"
+    },
+    {
+      "source": "Dreams",
+      "target": "Shazhou",
+      "type": "symbolizes"
+    },
+    {
+      "source": "Medicine",
+      "target": "Narrator",
+      "type": "defines"
+    }
+  ],
+  "hierarchy": {
+    "main_topics": [
+      "Personal Journey",
+      "Mystery of Lin Yingying",
+      "Shazhou's History",
+      "Supernatural Elements"
+    ],
+    "structure": "The document follows a narrative progression from personal reflection and daily life to mystery, historical exploration, and supernatural resolution across ten chapters."
+  }
+}

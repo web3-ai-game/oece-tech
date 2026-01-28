@@ -1,0 +1,167 @@
+{
+  "propositions": [
+    {
+      "id": "1",
+      "text": "A love story spanning a millennium begins with an ancient encounter.",
+      "level": 1
+    },
+    {
+      "id": "1.1",
+      "text": "In an ancient courtyard, a woman in white, stained with blood, expresses deep sorrow and reluctance to part.",
+      "level": 2
+    },
+    {
+      "id": "1.2",
+      "text": "The woman disappears in a flash of light, leaving the courtyard empty.",
+      "level": 2
+    },
+    {
+      "id": "2",
+      "text": "The story transitions to a modern setting with a new protagonist.",
+      "level": 1
+    },
+    {
+      "id": "2.1",
+      "text": "The protagonist feels anxious about a new job in a bustling city.",
+      "level": 2
+    },
+    {
+      "id": "2.2",
+      "text": "He meets a cheerful girl who helps him adjust to the new environment.",
+      "level": 2
+    },
+    {
+      "id": "3",
+      "text": "Unexpected events and inner struggles shape the protagonist's journey.",
+      "level": 1
+    },
+    {
+      "id": "3.1",
+      "text": "The protagonist experiences a physical collision with a stranger, leading to embarrassment.",
+      "level": 2
+    },
+    {
+      "id": "3.2",
+      "text": "He grapples with self-doubt and uncertainty about his path.",
+      "level": 2
+    },
+    {
+      "id": "4",
+      "text": "A connection to a thousand-year-old legend emerges.",
+      "level": 1
+    },
+    {
+      "id": "4.1",
+      "text": "The protagonist learns of Mei Xue, a woman from a tragic love story, whose tale mirrors his dreams.",
+      "level": 2
+    },
+    {
+      "id": "4.2",
+      "text": "He questions if there is a real link between him and Mei Xue.",
+      "level": 2
+    },
+    {
+      "id": "5",
+      "text": "Dreams and reality blur as the past intertwines with the present.",
+      "level": 1
+    },
+    {
+      "id": "5.1",
+      "text": "In a dream, the woman in white claims to have waited a thousand years for him.",
+      "level": 2
+    },
+    {
+      "id": "5.2",
+      "text": "The protagonist struggles to distinguish between dream and reality.",
+      "level": 2
+    },
+    {
+      "id": "6",
+      "text": "The protagonist faces a painful choice between past and present.",
+      "level": 1
+    },
+    {
+      "id": "6.1",
+      "text": "He debates whether to pursue the elusive past or embrace the current reality.",
+      "level": 2
+    },
+    {
+      "id": "7",
+      "text": "The story concludes with acceptance and resolution.",
+      "level": 1
+    },
+    {
+      "id": "7.1",
+      "text": "The protagonist decides to accept his fate, finding peace by the sea.",
+      "level": 2
+    },
+    {
+      "id": "7.2",
+      "text": "He hears a final whisper of love from the past, bringing closure.",
+      "level": 2
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Love",
+      "frequency": 10,
+      "context": "Central theme of a千年-spanning emotional bond."
+    },
+    {
+      "name": "Time",
+      "frequency": 8,
+      "context": "Contrast between ancient past and modern present."
+    },
+    {
+      "name": "Destiny",
+      "frequency": 6,
+      "context": "The inevitable connection between characters across time."
+    },
+    {
+      "name": "Struggle",
+      "frequency": 5,
+      "context": "Internal conflict and emotional turmoil of the protagonist."
+    },
+    {
+      "name": "Dreams",
+      "frequency": 4,
+      "context": "Blurring of reality and visions of the past."
+    }
+  ],
+  "relations": [
+    {
+      "source": "Love",
+      "target": "Destiny",
+      "type": "implies"
+    },
+    {
+      "source": "Time",
+      "target": "Love",
+      "type": "part_of"
+    },
+    {
+      "source": "Dreams",
+      "target": "Time",
+      "type": "connects"
+    },
+    {
+      "source": "Struggle",
+      "target": "Destiny",
+      "type": "results_from"
+    },
+    {
+      "source": "Protagonist",
+      "target": "Mei Xue",
+      "type": "linked_by_fate"
+    }
+  ],
+  "hierarchy": {
+    "main_topics": [
+      "Ancient Love Story",
+      "Modern Encounter",
+      "Crossing of Time",
+      "Emotional Resolution"
+    ],
+    "structure": "The document is structured as a narrative with eight chapters, progressing from an ancient tragic love story to a modern setting, intertwining past and present through dreams and legends, culminating in the protagonist's acceptance of fate."
+  }
+}

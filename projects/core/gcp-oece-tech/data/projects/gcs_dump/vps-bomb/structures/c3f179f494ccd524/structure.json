@@ -1,0 +1,596 @@
+{
+  "propositions": [
+    {
+      "id": "1",
+      "text": "The story begins with a scene set 50 years prior at Biaoziling, Changsha.",
+      "level": 1
+    },
+    {
+      "id": "1.1",
+      "text": "Four grave robbers are examining a tool that has unearthed soil emitting red liquid.",
+      "level": 2
+    },
+    {
+      "id": "1.2",
+      "text": "They suspect the presence of a 'blood corpse' underground.",
+      "level": 2
+    },
+    {
+      "id": "1.3",
+      "text": "A discussion ensues among the grave robbers about whether to proceed.",
+      "level": 2
+    },
+    {
+      "id": "1.4",
+      "text": "The eldest, 'Old Smoker', outlines a plan for descending into the grave, designating roles.",
+      "level": 2
+    },
+    {
+      "id": "1.5",
+      "text": "The youngest, referred to as 'Third Kid', expresses reluctance and is promised a 'gold knife'.",
+      "level": 2
+    },
+    {
+      "id": "1.6",
+      "text": "The group begins digging.",
+      "level": 2
+    },
+    {
+      "id": "1.7",
+      "text": "A 'blood corpse' is encountered, and a box gun is fired.",
+      "level": 2
+    },
+    {
+      "id": "1.8",
+      "text": "The 'Third Kid' is instructed to run and pulls out a severed hand, identified as his second brother's.",
+      "level": 2
+    },
+    {
+      "id": "1.9",
+      "text": "The 'Third Kid' encounters a 'blood red' entity, which is revealed to be a flayed human.",
+      "level": 2
+    },
+    {
+      "id": "1.10",
+      "text": "The 'Third Kid' fires his gun, but it jams, and he throws it at the entity before fleeing.",
+      "level": 2
+    },
+    {
+      "id": "1.11",
+      "text": "The 'blood corpse' steps on the 'Third Kid', causing him to believe he is poisoned.",
+      "level": 2
+    },
+    {
+      "id": "1.12",
+      "text": "He retrieves a silk brocade from his second brother's severed hand.",
+      "level": 2
+    },
+    {
+      "id": "2",
+      "text": "The narrative shifts to 50 years later in Hangzhou.",
+      "level": 1
+    },
+    {
+      "id": "2.1",
+      "text": "The narrator, whose grandfather was a grave robber, is interrupted by a visitor inquiring about rubbings of battle silk manuscripts.",
+      "level": 2
+    },
+    {
+      "id": "2.2",
+      "text": "The visitor claims to be a friend of 'Old Yang' and shows the narrator a watch as proof of introduction.",
+      "level": 2
+    },
+    {
+      "id": "2.3",
+      "text": "The visitor asks to see the narrator's grandfather to verify a silk manuscript.",
+      "level": 2
+    },
+    {
+      "id": "2.4",
+      "text": "The narrator reveals his grandfather passed away the previous year.",
+      "level": 2
+    },
+    {
+      "id": "2.5",
+      "text": "The visitor shows a photocopy of a battle silk manuscript.",
+      "level": 2
+    },
+    {
+      "id": "2.6",
+      "text": "The narrator identifies it as a Han Dynasty replica, not his grandfather's original.",
+      "level": 2
+    },
+    {
+      "id": "2.7",
+      "text": "The visitor leaves, and the narrator discovers a strange fox-like human face pattern on the photocopy.",
+      "level": 2
+    },
+    {
+      "id": "2.8",
+      "text": "The narrator learns about his family's history as 'Southern School' grave robbers, known for using the Luoyang shovel.",
+      "level": 2
+    },
+    {
+      "id": "2.9",
+      "text": "His grandfather's nose was damaged after the Biaoziling incident, leading him to train a dog to smell the earth.",
+      "level": 2
+    },
+    {
+      "id": "2.10",
+      "text": "The narrator visits his 'Third Uncle', who is also involved in acquiring treasures.",
+      "level": 2
+    },
+    {
+      "id": "2.11",
+      "text": "The narrator's Third Uncle identifies a map on the silk manuscript, possibly leading to a significant tomb.",
+      "level": 2
+    },
+    {
+      "id": "2.12",
+      "text": "They plan an expedition to this tomb, with the narrator agreeing to assist but initially told to stay above ground.",
+      "level": 2
+    },
+    {
+      "id": "3",
+      "text": "The expedition begins with the narrator, his Third Uncle, and two experienced grave robbers, along with the young man who sold the Third Uncle a treasure.",
+      "level": 1
+    },
+    {
+      "id": "3.1",
+      "text": "They travel to a remote location in Shandong province.",
+      "level": 2
+    },
+    {
+      "id": "3.2",
+      "text": "They are guided by an old man and a dog named 'Egg Tart'.",
+      "level": 2
+    },
+    {
+      "id": "3.3",
+      "text": "They learn about a mysterious 'river cave' guarded by a boatman's family, where others have disappeared.",
+      "level": 2
+    },
+    {
+      "id": "3.4",
+      "text": "The dog 'Egg Tart' is revealed to have eaten dead flesh and to be immune to the cave's dangers.",
+      "level": 2
+    },
+    {
+      "id": "3.5",
+      "text": "They enter the 'river cave' by boat.",
+      "level": 2
+    },
+    {
+      "id": "3.6",
+      "text": "Inside the cave, they encounter a giant shadow in the water, identified as a swarm of 'corpse beetles'.",
+      "level": 2
+    },
+    {
+      "id": "3.7",
+      "text": "The boatman and the old guide disappear.",
+      "level": 2
+    },
+    {
+      "id": "3.8",
+      "text": "The group debates their next move, with the 'mute young man' remaining silent.",
+      "level": 2
+    },
+    {
+      "id": "3.9",
+      "text": "The 'mute young man' demonstrates extraordinary skill by catching a 'corpse beetle' with his long fingers.",
+      "level": 2
+    },
+    {
+      "id": "3.10",
+      "text": "They realize the swarm of insects was fleeing something deeper in the cave.",
+      "level": 2
+    }
+  ],
+  "concepts": [
+    {
+      "name": "盗墓笔记",
+      "frequency": 1,
+      "context": "Title of the document."
+    },
+    {
+      "name": "南派三叔",
+      "frequency": 1,
+      "context": "Author of the document."
+    },
+    {
+      "name": "土夫子",
+      "frequency": 5,
+      "context": "Term for grave robbers, often referring to the older generation."
+    },
+    {
+      "name": "洛阳铲",
+      "frequency": 3,
+      "context": "A tool used by grave robbers for excavating and identifying soil layers."
+    },
+    {
+      "name": "血尸",
+      "frequency": 4,
+      "context": "A type of undead creature encountered in the story, characterized by blood."
+    },
+    {
+      "name": "老烟头",
+      "frequency": 1,
+      "context": "Nickname for an elder grave robber, also referred to as 'Old Smoker'."
+    },
+    {
+      "name": "独眼",
+      "frequency": 1,
+      "context": "Description of a character with one eye, likely a grave robber."
+    },
+    {
+      "name": "大胡子",
+      "frequency": 1,
+      "context": "Description of a character with a beard, likely a grave robber."
+    },
+    {
+      "name": "匣子炮",
+      "frequency": 2,
+      "context": "A type of firearm, specifically a pistol."
+    },
+    {
+      "name": "土耗子",
+      "frequency": 3,
+      "context": "Possibly a tool or mechanism used in grave robbing, perhaps related to ropes or pulling."
+    },
+    {
+      "name": "金刀刀",
+      "frequency": 1,
+      "context": "A small golden knife, promised as a reward."
+    },
+    {
+      "name": "战国帛书",
+      "frequency": 5,
+      "context": "Silk manuscripts from the Warring States period, a significant artifact in the story."
+    },
+    {
+      "name": "拓本",
+      "frequency": 5,
+      "context": "Rubbings taken from ancient texts or artifacts, used for preservation and study."
+    },
+    {
+      "name": "老痒",
+      "frequency": 4,
+      "context": "A character who seems to be a contact or acquaintance within the underworld."
+    },
+    {
+      "name": "手      表",
+      "frequency": 1,
+      "context": "A watch, used as a token of introduction."
+    },
+    {
+      "name": "京腔",
+      "frequency": 1,
+      "context": "The accent or dialect associated with Beijing."
+    },
+    {
+      "name": "贵族",
+      "frequency": 1,
+      "context": "A person of noble rank."
+    },
+    {
+      "name": "伪",
+      "frequency": 1,
+      "context": "False or fake."
+    },
+    {
+      "name": "赝品",
+      "frequency": 2,
+      "context": "A counterfeit or replica of an antique."
+    },
+    {
+      "name": "南派",
+      "frequency": 3,
+      "context": "Refers to the Southern School of grave robbing."
+    },
+    {
+      "name": "北派",
+      "frequency": 3,
+      "context": "Refers to the Northern School of grave robbing."
+    },
+    {
+      "name": "淘沙",
+      "frequency": 1,
+      "context": "Another term for grave robbing, possibly specific to the Southern School."
+    },
+    {
+      "name": "淘土",
+      "frequency": 1,
+      "context": "Another term for grave robbing, possibly specific to the Southern School."
+    },
+    {
+      "name": "斗尸",
+      "frequency": 1,
+      "context": "An event or practice involving fighting with corpses."
+    },
+    {
+      "name": "狗王",
+      "frequency": 1,
+      "context": "Nickname for the narrator's grandfather due to his ability to train dogs for sensing earth."
+    },
+    {
+      "name": "独眼独臂",
+      "frequency": 1,
+      "context": "Description of a character with one eye and one arm, likely indicating severe injury or death."
+    },
+    {
+      "name": "金杯车",
+      "frequency": 1,
+      "context": "A type of van or vehicle."
+    },
+    {
+      "name": "龙脊背",
+      "frequency": 1,
+      "context": "Possibly an artifact or item, sold by a young man."
+    },
+    {
+      "name": "字画",
+      "frequency": 3,
+      "context": "A combination of writing and drawing, used here to represent detailed maps or codes on silk manuscripts."
+    },
+    {
+      "name": "鲁国",
+      "frequency": 2,
+      "context": "The ancient state of Lu during the Warring States period."
+    },
+    {
+      "name": "人牲",
+      "frequency": 1,
+      "context": "Human sacrifice."
+    },
+    {
+      "name": "面具",
+      "frequency": 1,
+      "context": "A mask, specifically a ritualistic one."
+    },
+    {
+      "name": "瓜子庙",
+      "frequency": 1,
+      "context": "A location in Shandong province where the expedition takes place."
+    },
+    {
+      "name": "驴蛋蛋",
+      "frequency": 3,
+      "context": "The name of a dog, which is apparently immune to the dangers of the 'river cave'."
+    },
+    {
+      "name": "河神",
+      "frequency": 2,
+      "context": "A deity or spirit of the river."
+    },
+    {
+      "name": "蛇精",
+      "frequency": 1,
+      "context": "A snake spirit or demon."
+    },
+    {
+      "name": "尸洞",
+      "frequency": 4,
+      "context": "A cave associated with corpses or death, possibly a burial site or place of massacre."
+    },
+    {
+      "name": "潘子",
+      "frequency": 4,
+      "context": "A character, likely an experienced grave robber or former soldier."
+    },
+    {
+      "name": "阿奎",
+      "frequency": 4,
+      "context": "A large and strong character, part of the expedition team."
+    },
+    {
+      "name": "龙虱",
+      "frequency": 2,
+      "context": "A type of water beetle, initially misidentified in the story."
+    },
+    {
+      "name": "尸蹩",
+      "frequency": 2,
+      "context": "A derogatory term for a 'corpse beetle', suggesting it is dangerous and associated with death."
+    },
+    {
+      "name": "积尸地",
+      "frequency": 1,
+      "context": "An area where corpses accumulate, likely a source of danger."
+    },
+    {
+      "name": "小哥",
+      "frequency": 6,
+      "context": "Refers to the 'mute young man', who is notably skilled and enigmatic."
+    },
+    {
+      "name": "发丘中郎将",
+      "frequency": 1,
+      "context": "An ancient tomb raider title, associated with specific skills."
+    },
+    {
+      "name": "双指探洞",
+      "frequency": 1,
+      "context": "A specific grave robbing technique involving using two fingers to probe for hidden mechanisms."
+    }
+  ],
+  "relations": [
+    {
+      "source": "洛阳铲",
+      "target": "土夫子",
+      "type": "used_by"
+    },
+    {
+      "source": "血尸",
+      "target": "土丘",
+      "type": "found_in"
+    },
+    {
+      "source": "老烟头",
+      "target": "独眼",
+      "type": "interacts_with"
+    },
+    {
+      "source": "匣子炮",
+      "target": "老烟头",
+      "type": "used_by"
+    },
+    {
+      "source": "土耗子",
+      "target": "三伢子",
+      "type": "used_by"
+    },
+    {
+      "source": "金刀刀",
+      "target": "三伢子",
+      "type": "promised_to"
+    },
+    {
+      "source": "战国帛书",
+      "target": "土夫子",
+      "type": "discovered_by"
+    },
+    {
+      "source": "拓本",
+      "target": "战国帛书",
+      "type": "derived_from"
+    },
+    {
+      "source": "老痒",
+      "target": "金牙老头",
+      "type": "introduces"
+    },
+    {
+      "source": "手      表",
+      "target": "老痒",
+      "type": "belongs_to"
+    },
+    {
+      "source": "赝品",
+      "target": "战国帛书",
+      "type": "is_a"
+    },
+    {
+      "source": "南派",
+      "target": "淘沙",
+      "type": "is_a"
+    },
+    {
+      "source": "北派",
+      "target": "倒斗",
+      "type": "is_a"
+    },
+    {
+      "source": "南派",
+      "target": "北派",
+      "type": "contrasted_with"
+    },
+    {
+      "source": "斗尸",
+      "target": "南派",
+      "type": "associated_with"
+    },
+    {
+      "source": "狗王",
+      "target": "爷爷",
+      "type": "nickname_for"
+    },
+    {
+      "source": "字画",
+      "target": "战国帛书",
+      "type": "found_on"
+    },
+    {
+      "source": "鲁国",
+      "target": "贵族",
+      "type": "associated_with"
+    },
+    {
+      "source": "人牲",
+      "target": "鲁国",
+      "type": "practiced_in"
+    },
+    {
+      "source": "面具",
+      "target": "人牲",
+      "type": "used_in"
+    },
+    {
+      "source": "瓜子庙",
+      "target": "山东",
+      "type": "located_in"
+    },
+    {
+      "source": "驴蛋蛋",
+      "target": "老爷子",
+      "type": "owned_by"
+    },
+    {
+      "source": "河神",
+      "target": "河洞",
+      "type": "guard"
+    },
+    {
+      "source": "蛇精",
+      "target": "河洞",
+      "type": "rumored_in"
+    },
+    {
+      "source": "尸洞",
+      "target": "河洞",
+      "type": "is_a"
+    },
+    {
+      "source": "潘子",
+      "target": "阿奎",
+      "type": "travels_with"
+    },
+    {
+      "source": "龙虱",
+      "target": "水",
+      "type": "inhabits"
+    },
+    {
+      "source": "尸蹩",
+      "target": "龙虱",
+      "type": "misidentified_as"
+    },
+    {
+      "source": "尸蹩",
+      "target": "积尸地",
+      "type": "found_in"
+    },
+    {
+      "source": "小哥",
+      "target": "尸蹩",
+      "type": "catches"
+    },
+    {
+      "source": "小哥",
+      "target": "双指探洞",
+      "type": "possesses_skill_of"
+    },
+    {
+      "source": "积尸地",
+      "target": "尸蹩",
+      "type": "attracts"
+    },
+    {
+      "source": "尸蹩",
+      "target": "逃命",
+      "type": "was"
+    },
+    {
+      "source": "尸蹩",
+      "target": "洞穴",
+      "type": "fleeing_from"
+    }
+  ],
+  "hierarchy": {
+    "main_topics": [
+      "Grave Robbing and Ancient Artifacts",
+      "Family History and Legacy",
+      "Mysterious Expeditions and Supernatural Encounters"
+    ],
+    "structure": "The document is structured chronologically, beginning with a flashback to a significant event 50 years prior, then shifting to the present day and detailing a subsequent expedition into a dangerous and mysterious location. It is divided into chapters, each focusing on a specific part of the narrative."
+  }
+}

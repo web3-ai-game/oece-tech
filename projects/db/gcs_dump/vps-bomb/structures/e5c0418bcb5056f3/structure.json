@@ -1,0 +1,219 @@
+{
+  "propositions": [
+    {
+      "id": "1",
+      "text": "《黄河东流去》描绘了二战初期日本侵华战争中，国民党扒开黄河造成巨大灾难。",
+      "level": 1
+    },
+    {
+      "id": "2",
+      "text": "小说展现了灾难中农民的血泪史和坚强的生命力。",
+      "level": 1
+    },
+    {
+      "id": "3",
+      "text": "李准创作《黄河东流去》旨在重新估量民族的生命力量。",
+      "level": 1
+    },
+    {
+      "id": "4",
+      "text": "作品因其语言艺术、幽默感和人物塑造获得茅盾文学奖。",
+      "level": 1
+    },
+    {
+      "id": "5",
+      "text": "小说探讨了民族性格的优缺点及文化传统的继承。",
+      "level": 1
+    },
+    {
+      "id": "6",
+      "text": "作者探索了群像式结构和真实生活化的“美于生活”的人物塑造。",
+      "level": 1
+    },
+    {
+      "id": "7",
+      "text": "李准的创作与新时期中国文学方向一致，注重人民群众喜闻乐见。",
+      "level": 1
+    },
+    {
+      "id": "8",
+      "text": "黄河是中华民族的摇篮，象征着悠久历史和勤劳勇敢。",
+      "level": 1
+    },
+    {
+      "id": "9",
+      "text": "黄河既孕育灿烂文化，也带来巨大灾难，是一条“受难的河流”。",
+      "level": 1
+    },
+    {
+      "id": "10",
+      "text": "小说以1938年花园口决堤事件为背景，聚焦七户农民的命运。",
+      "level": 1
+    }
+  ],
+  "concepts": [
+    {
+      "name": "黄河",
+      "frequency": 17,
+      "context": "中华民族的摇篮，孕育文化也带来灾难"
+    },
+    {
+      "name": "李准",
+      "frequency": 7,
+      "context": "《黄河东流去》的作者，获茅盾文学奖"
+    },
+    {
+      "name": "农民",
+      "frequency": 7,
+      "context": "小说受难者主体，展现生命力与坚韧"
+    },
+    {
+      "name": "灾难",
+      "frequency": 6,
+      "context": "指黄河扒开造成的巨大浩劫"
+    },
+    {
+      "name": "生命力",
+      "frequency": 4,
+      "context": "民族赖以生存和延续的力量"
+    },
+    {
+      "name": "文学",
+      "frequency": 4,
+      "context": "涉及小说创作、艺术成就、贡献"
+    },
+    {
+      "name": "人民",
+      "frequency": 4,
+      "context": "创作和文学表现的根基"
+    },
+    {
+      "name": "幽默感",
+      "frequency": 4,
+      "context": "李准的写作风格，带有乡土气息"
+    },
+    {
+      "name": "文化",
+      "frequency": 4,
+      "context": "民族文化、传统、精神文明"
+    },
+    {
+      "name": "思考",
+      "frequency": 3,
+      "context": "国家、民族在浩劫后的反思"
+    },
+    {
+      "name": "语言",
+      "frequency": 3,
+      "context": "文学艺术魅力，人民语言的运用"
+    },
+    {
+      "name": "人物",
+      "frequency": 3,
+      "context": "塑造独特形象，群像式画廊"
+    },
+    {
+      "name": "时代",
+      "frequency": 3,
+      "context": "新时期，伟大时代，时代精神"
+    },
+    {
+      "name": "民族性格",
+      "frequency": 3,
+      "context": "积极与消极面，优良与劣根"
+    },
+    {
+      "name": "浩劫",
+      "frequency": 3,
+      "context": "指日本侵华战争和十年动乱"
+    }
+  ],
+  "relations": [
+    {
+      "source": "《黄河东流去》",
+      "target": "李准",
+      "type": "author"
+    },
+    {
+      "source": "《黄河东流去》",
+      "target": "黄河",
+      "type": "theme"
+    },
+    {
+      "source": "《黄河东流去》",
+      "target": "茅盾文学奖",
+      "type": "award"
+    },
+    {
+      "source": "李准",
+      "target": "农民",
+      "type": "focus_on"
+    },
+    {
+      "source": "黄河",
+      "target": "灾难",
+      "type": "associated_with"
+    },
+    {
+      "source": "黄河",
+      "target": "民族",
+      "type": "symbol_of"
+    },
+    {
+      "source": "灾难",
+      "target": "农民",
+      "type": "affecting"
+    },
+    {
+      "source": "李准",
+      "target": "文学",
+      "type": "contributes_to"
+    },
+    {
+      "source": "文学",
+      "target": "人民",
+      "type": "serves"
+    },
+    {
+      "source": "作品",
+      "target": "幽默感",
+      "type": "features"
+    },
+    {
+      "source": "作品",
+      "target": "语言艺术",
+      "type": "features"
+    },
+    {
+      "source": "作者",
+      "target": "新时期",
+      "type": "works_in"
+    },
+    {
+      "source": "作者",
+      "target": "民族性格",
+      "type": "explores"
+    },
+    {
+      "source": "作品",
+      "target": "结构",
+      "type": "artistic_element"
+    },
+    {
+      "source": "作品",
+      "target": "人物塑造",
+      "type": "artistic_element"
+    }
+  ],
+  "hierarchy": {
+    "main_topics": [
+      "《黄河东流去》",
+      "李准",
+      "黄河",
+      "历史背景",
+      "文学评价",
+      "创作探索"
+    ],
+    "structure": "文档围绕小说《黄河东流去》展开，包括简介、作者简介、序言、开头的的话和第一章。序言和开头的话是关键的分析和创作理念阐述部分，对小说的背景、主题、艺术特点和作者的创作意图进行了深入解读。第一章则直接引入小说内容，描绘黄河的象征意义。"
+  }
+}

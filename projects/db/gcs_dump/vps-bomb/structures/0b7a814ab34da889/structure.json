@@ -1,0 +1,127 @@
+{
+  "propositions": [
+    {
+      "id": "1",
+      "text": "《古代风云录》讲述了林风在校园中的成长与危机",
+      "level": 1
+    },
+    {
+      "id": "1.1",
+      "text": "林风在校园中因冲突崭露头角",
+      "level": 2
+    },
+    {
+      "id": "1.2",
+      "text": "林风与苏婉的意外相遇建立初步联系",
+      "level": 2
+    },
+    {
+      "id": "2",
+      "text": "林风遭遇突如其来的生命危机",
+      "level": 1
+    },
+    {
+      "id": "2.1",
+      "text": "林风被货车撞击险些溺水",
+      "level": 2
+    },
+    {
+      "id": "2.2",
+      "text": "神秘少年张昊救下林风",
+      "level": 2
+    },
+    {
+      "id": "3",
+      "text": "隐藏的阴谋逐渐浮现",
+      "level": 1
+    },
+    {
+      "id": "3.1",
+      "text": "张昊身份神秘，疑与地下势力有关",
+      "level": 2
+    },
+    {
+      "id": "3.2",
+      "text": "林风收到匿名警告，决定调查真相",
+      "level": 2
+    },
+    {
+      "id": "4",
+      "text": "林风身边危机四伏，张昊多次相救",
+      "level": 1
+    },
+    {
+      "id": "4.1",
+      "text": "张昊承认受托保护林风，但未透露原因",
+      "level": 2
+    },
+    {
+      "id": "4.2",
+      "text": "林风怀疑危机与自身身世有关",
+      "level": 2
+    }
+  ],
+  "concepts": [
+    {
+      "name": "林风",
+      "frequency": 15,
+      "context": "主角，校园学生，卷入冲突与危机"
+    },
+    {
+      "name": "苏婉",
+      "frequency": 4,
+      "context": "林风的同班同学，关心林风"
+    },
+    {
+      "name": "张昊",
+      "frequency": 8,
+      "context": "神秘少年，多次救林风，身份不明"
+    },
+    {
+      "name": "校园冲突",
+      "frequency": 3,
+      "context": "林风在学校中的争端"
+    },
+    {
+      "name": "危机",
+      "frequency": 5,
+      "context": "林风遭遇的生命威胁与阴谋"
+    }
+  ],
+  "relations": [
+    {
+      "source": "林风",
+      "target": "苏婉",
+      "type": "acquaintance"
+    },
+    {
+      "source": "林风",
+      "target": "张昊",
+      "type": "protected_by"
+    },
+    {
+      "source": "张昊",
+      "target": "地下势力",
+      "type": "associated_with"
+    },
+    {
+      "source": "林风",
+      "target": "危机",
+      "type": "target_of"
+    },
+    {
+      "source": "林风",
+      "target": "身世",
+      "type": "related_to"
+    }
+  ],
+  "hierarchy": {
+    "main_topics": [
+      "校园风云",
+      "突如其来的危机",
+      "隐藏的阴谋",
+      "危机四伏"
+    ],
+    "structure": "文档以章节为单位，逐步展开林风的成长、危机及阴谋的揭露，情节层层递进"
+  }
+}

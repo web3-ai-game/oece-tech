@@ -1,0 +1,148 @@
+{
+  "propositions": [
+    {
+      "id": "1",
+      "text": "A modern woman unexpectedly travels through time to ancient times.",
+      "level": 1
+    },
+    {
+      "id": "1.1",
+      "text": "She experiences confusion and shock upon arriving in an unfamiliar ancient setting.",
+      "level": 2
+    },
+    {
+      "id": "1.2",
+      "text": "She discovers memories of the original owner of her body, confirming her time travel.",
+      "level": 2
+    },
+    {
+      "id": "2",
+      "text": "She encounters an ancient general named Li Hao.",
+      "level": 1
+    },
+    {
+      "id": "2.1",
+      "text": "Li Hao questions her presence and offers her shelter.",
+      "level": 2
+    },
+    {
+      "id": "3",
+      "text": "She struggles to adapt to ancient life and customs.",
+      "level": 1
+    },
+    {
+      "id": "3.1",
+      "text": "She learns ancient etiquette and hides her modern identity.",
+      "level": 2
+    },
+    {
+      "id": "4",
+      "text": "Emotional bonds form with Li Hao and another man, Zhang Ran.",
+      "level": 1
+    },
+    {
+      "id": "4.1",
+      "text": "Li Hao offers protection and shows care, creating emotional conflict.",
+      "level": 2
+    },
+    {
+      "id": "4.2",
+      "text": "Zhang Ran provides companionship through intellectual discussions.",
+      "level": 2
+    },
+    {
+      "id": "5",
+      "text": "A crisis emerges with bandits attacking near the military camp.",
+      "level": 1
+    },
+    {
+      "id": "5.1",
+      "text": "Li Hao is injured, and she risks her life to save him using modern tactics.",
+      "level": 2
+    },
+    {
+      "id": "6",
+      "text": "She seeks a way to return to the modern era.",
+      "level": 1
+    },
+    {
+      "id": "6.1",
+      "text": "She discovers a legend about a time portal and performs a ritual to return.",
+      "level": 2
+    },
+    {
+      "id": "6.2",
+      "text": "She parts with Li Hao and Zhang Ran in an emotional farewell.",
+      "level": 2
+    },
+    {
+      "id": "7",
+      "text": "Back in the modern era, she reflects on her journey as a profound emotional experience.",
+      "level": 1
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Time Travel",
+      "frequency": 6,
+      "context": "Central theme of crossing between modern and ancient times."
+    },
+    {
+      "name": "Ancient Life",
+      "frequency": 5,
+      "context": "Adaptation to historical customs and challenges."
+    },
+    {
+      "name": "Emotional Conflict",
+      "frequency": 4,
+      "context": "Torn feelings between two men and two eras."
+    },
+    {
+      "name": "Crisis",
+      "frequency": 3,
+      "context": "Bandit attack and personal risk to save others."
+    },
+    {
+      "name": "Return",
+      "frequency": 3,
+      "context": "Journey back to the modern world via a time portal."
+    }
+  ],
+  "relations": [
+    {
+      "source": "Time Travel",
+      "target": "Ancient Life",
+      "type": "enables"
+    },
+    {
+      "source": "Emotional Conflict",
+      "target": "Li Hao",
+      "type": "involves"
+    },
+    {
+      "source": "Emotional Conflict",
+      "target": "Zhang Ran",
+      "type": "involves"
+    },
+    {
+      "source": "Crisis",
+      "target": "Li Hao",
+      "type": "affects"
+    },
+    {
+      "source": "Return",
+      "target": "Time Travel",
+      "type": "completes"
+    }
+  ],
+  "hierarchy": {
+    "main_topics": [
+      "Time Travel",
+      "Adaptation to Ancient Life",
+      "Emotional Bonds",
+      "Crisis and Resolution",
+      "Return to Modern Era"
+    ],
+    "structure": "The document follows a chronological narrative structure, divided into chapters that trace the protagonist's journey from modern to ancient times, her struggles and relationships, a critical event, and her eventual return."
+  }
+}

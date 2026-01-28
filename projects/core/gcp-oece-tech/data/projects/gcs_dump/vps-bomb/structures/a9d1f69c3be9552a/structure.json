@@ -1,0 +1,487 @@
+{
+  "propositions": [
+    {
+      "id": "1",
+      "text": "林娜·黎吉薇是一个富有、年轻且美丽的女子。",
+      "level": 1
+    },
+    {
+      "id": "1.1",
+      "text": "她继承了巨额财产，并计划在美尔敦—下渥德地区进行大规模的房屋重建和花园建设。",
+      "level": 2
+    },
+    {
+      "id": "1.2",
+      "text": "她的财富来源于她的母亲，一位百万富翁的独生女。",
+      "level": 2
+    },
+    {
+      "id": "2",
+      "text": "乔安娜·邵斯伍德是一位朋友，她对林娜的生活表示羡慕和嫉妒。",
+      "level": 1
+    },
+    {
+      "id": "2.1",
+      "text": "乔安娜认为林娜“样样不缺”，拥有财富、美貌、健康和头脑。",
+      "level": 2
+    },
+    {
+      "id": "2.2",
+      "text": "乔安娜对林娜的处事方式持实用主义观点，认为应该远离不幸的朋友。",
+      "level": 2
+    },
+    {
+      "id": "3",
+      "text": "林娜对朋友贾克琳·杜贝尔弗表示同情，尽管贾姬生活不幸。",
+      "level": 1
+    },
+    {
+      "id": "3.1",
+      "text": "贾姬的父亲抛弃了家庭，母亲因金融破产而落魄。",
+      "level": 2
+    },
+    {
+      "id": "3.2",
+      "text": "贾姬需要林娜的帮助，并向她求职。",
+      "level": 2
+    },
+    {
+      "id": "4",
+      "text": "温特显姆伯爵是林娜的追求者，他来自一个古老家族，并希望与林娜结婚。",
+      "level": 1
+    },
+    {
+      "id": "4.1",
+      "text": "他认为林娜的拒绝并非断然，只是需要时间考虑。",
+      "level": 2
+    },
+    {
+      "id": "4.2",
+      "text": "他承认娶林娜有金钱的考量，但声称也爱她。",
+      "level": 2
+    },
+    {
+      "id": "5",
+      "text": "贾克琳·杜贝尔弗已订婚，但经济状况不佳。",
+      "level": 1
+    },
+    {
+      "id": "5.1",
+      "text": "她的未婚夫名叫希蒙·道尔，是一位贫穷但有地产知识的“郡民”。",
+      "level": 2
+    },
+    {
+      "id": "5.2",
+      "text": "贾姬请求林娜提供工作机会给希蒙，担任她的地产经纪人。",
+      "level": 2
+    },
+    {
+      "id": "6",
+      "text": "赫邱里·白罗是一位著名的侦探，他在“姑妈家”餐厅用餐。",
+      "level": 1
+    },
+    {
+      "id": "6.1",
+      "text": "白罗对旅行（特别是去埃及）感兴趣，认为这是逃避思考的方式。",
+      "level": 2
+    },
+    {
+      "id": "6.2",
+      "text": "他观察到一对年轻情侣（贾姬和希蒙）在餐厅，并对女孩的过度投入表示担忧。",
+      "level": 2
+    },
+    {
+      "id": "7",
+      "text": "林娜对乔安娜的批评感到不耐烦，但承认自己“样样不缺”的生活有些腻味。",
+      "level": 1
+    },
+    {
+      "id": "7.1",
+      "text": "林娜即将与温特显姆伯爵讨论婚姻问题，但她更在意自己的“渥德园”。",
+      "level": 2
+    },
+    {
+      "id": "7.2",
+      "text": "林娜对放弃“渥德园”感到抗拒，并被贾姬的爱情宣言所触动。",
+      "level": 2
+    },
+    {
+      "id": "8",
+      "text": "提姆·艾乐顿对去埃及度假充满兴趣。",
+      "level": 1
+    },
+    {
+      "id": "8.1",
+      "text": "他收到乔安娜的来信，得知林娜拒绝了温特显姆并决定嫁给一个地产经纪人。",
+      "level": 2
+    },
+    {
+      "id": "8.2",
+      "text": "提姆的母亲对乔安娜持有负面看法，并认为提姆受到她的影响。",
+      "level": 2
+    },
+    {
+      "id": "9",
+      "text": "坷妮亚·罗柏森有机会去欧洲旅游，并被邀请作为社交伴侣。",
+      "level": 1
+    },
+    {
+      "id": "9.1",
+      "text": "她的表姨梵舒乐小姐希望她能帮助处理琐事。",
+      "level": 2
+    },
+    {
+      "id": "10",
+      "text": "安德鲁·潘宁顿得知林娜·黎吉薇已于当天结婚。",
+      "level": 1
+    },
+    {
+      "id": "10.1",
+      "text": "新郎是希蒙·道尔。",
+      "level": 2
+    },
+    {
+      "id": "10.2",
+      "text": "潘宁顿和他的合伙人洛克弗德先生认为此事蹊跷，并计划在林娜去埃及度蜜月期间采取行动。",
+      "level": 2
+    },
+    {
+      "id": "11",
+      "text": "林娜·黎吉薇的婚姻对安德鲁·潘宁顿和史登达尔·洛克弗德的计划造成影响。",
+      "level": 1
+    },
+    {
+      "id": "11.1",
+      "text": "他们认为这是一个“偶然相遇”的机会。",
+      "level": 2
+    },
+    {
+      "id": "12",
+      "text": "林娜·黎吉薇最终嫁给了希蒙·道尔。",
+      "level": 1
+    },
+    {
+      "id": "12.1",
+      "text": "她为希蒙安排了地产经纪人的工作。",
+      "level": 2
+    },
+    {
+      "id": "12.2",
+      "text": "他们计划去埃及度蜜月。",
+      "level": 2
+    },
+    {
+      "id": "13",
+      "text": "乔治爵士因马匹生意失败而破产。",
+      "level": 1
+    },
+    {
+      "id": "14",
+      "text": "提姆·艾乐顿的母亲担心他与乔安娜·邵斯伍德的交往。",
+      "level": 1
+    },
+    {
+      "id": "15",
+      "text": "艾乐顿太太对年轻人（包括乔安娜）的生活方式和消费习惯持批评态度。",
+      "level": 1
+    },
+    {
+      "id": "16",
+      "text": "提姆·艾乐顿对他的母亲怀有深厚的敬意和爱戴。",
+      "level": 1
+    },
+    {
+      "id": "17",
+      "text": "梵舒乐小姐邀请坷妮亚·罗柏森前往欧洲。",
+      "level": 1
+    },
+    {
+      "id": "18",
+      "text": "鲍尔斯小姐将陪同梵舒乐小姐去埃及。",
+      "level": 1
+    },
+    {
+      "id": "19",
+      "text": "罗柏森太太担心旅途可能发生意外。",
+      "level": 1
+    },
+    {
+      "id": "20",
+      "text": "安德鲁·潘宁顿和史登达尔·洛克弗德计划利用林娜的埃及蜜月之旅来达成某个目的。",
+      "level": 1
+    }
+  ],
+  "concepts": [
+    {
+      "name": "林娜·黎吉薇",
+      "frequency": 16,
+      "context": "一位年轻、富有、美丽的女子，正在进行大规模的财产投资和婚姻选择。"
+    },
+    {
+      "name": "财富",
+      "frequency": 12,
+      "context": "贯穿文本的核心概念，与林娜的背景、乔安娜的羡慕、温特显姆的动机以及潘宁顿和洛克弗德的计划紧密相关。"
+    },
+    {
+      "name": "婚姻",
+      "frequency": 9,
+      "context": "林娜的婚姻选择（与温特显姆的犹豫，与希蒙的确定）是主要情节之一。"
+    },
+    {
+      "name": "乔安娜·邵斯伍德",
+      "frequency": 7,
+      "context": "林娜的朋友，代表了现实主义和略带刻薄的社交视角。"
+    },
+    {
+      "name": "贾克琳·杜贝尔弗 (贾姬)",
+      "frequency": 8,
+      "context": "林娜的老朋友，经历坎坷，但拥有强烈的爱情和对林娜的依赖。"
+    },
+    {
+      "name": "希蒙·道尔",
+      "frequency": 9,
+      "context": "贾姬的未婚夫，一位贫穷但被认为有能力的地产经纪人，与林娜的婚姻直接相关。"
+    },
+    {
+      "name": "温特显姆伯爵",
+      "frequency": 6,
+      "context": "林娜的追求者，代表了传统婚姻和财产联姻的视角。"
+    },
+    {
+      "name": "埃及",
+      "frequency": 7,
+      "context": "一个重要的旅行目的地，与白罗的兴趣、林娜和希蒙的蜜月计划以及提姆·艾乐顿的愿望相关。"
+    },
+    {
+      "name": "计划",
+      "frequency": 6,
+      "context": "涉及林娜的建筑计划、贾姬和希蒙的工作计划、以及潘宁顿和洛克弗德的阴谋计划。"
+    },
+    {
+      "name": "爱情",
+      "frequency": 5,
+      "context": "贾姬和希蒙的炽热爱情，林娜对爱情的感受，以及温特显姆对林娜的爱。"
+    },
+    {
+      "name": "提姆·艾乐顿",
+      "frequency": 5,
+      "context": "一个对埃及充满向往的年轻人，与母亲关系融洽，对乔安娜持保留态度。"
+    },
+    {
+      "name": "安德鲁·潘宁顿",
+      "frequency": 4,
+      "context": "一个商业人士，得知林娜结婚后，与合伙人开始策划某种阴谋。"
+    },
+    {
+      "name": "史登达尔·洛克弗德",
+      "frequency": 3,
+      "context": "潘宁顿的合伙人，参与了关于林娜婚姻和埃及计划的讨论。"
+    },
+    {
+      "name": "赫邱里·白罗",
+      "frequency": 3,
+      "context": "一位著名的侦探，以观察者的身份出现，对人性和动机进行分析。"
+    },
+    {
+      "name": "渥德园",
+      "frequency": 4,
+      "context": "林娜购买并进行改造的房产，对她而言具有极高的个人价值。"
+    },
+    {
+      "name": "时间",
+      "frequency": 7,
+      "context": "贯穿于故事进展，如林娜的生日、成年舞会、结婚时间、旅行时间等。"
+    },
+    {
+      "name": "金钱",
+      "frequency": 9,
+      "context": "是推动情节的重要因素，影响人物关系和行为。"
+    },
+    {
+      "name": "朋友",
+      "frequency": 5,
+      "context": "人物之间的关系，如林娜与乔安娜、林娜与贾姬。"
+    },
+    {
+      "name": "家",
+      "frequency": 3,
+      "context": "与身份、归属感和生活方式相关，如温特显姆的查尔敦伯利，林娜的渥德园。"
+    },
+    {
+      "name": "旅行",
+      "frequency": 5,
+      "context": "作为一种愿望（提姆、罗柏森一家、白罗）和情节安排（林娜和希蒙的蜜月）。"
+    }
+  ],
+  "relations": [
+    {
+      "source": "林娜·黎吉薇",
+      "target": "财富",
+      "type": "is_characterized_by"
+    },
+    {
+      "source": "林娜·黎吉薇",
+      "target": "婚姻",
+      "type": "is_subject_of"
+    },
+    {
+      "source": "林娜·黎吉薇",
+      "target": "希蒙·道尔",
+      "type": "marries"
+    },
+    {
+      "source": "林娜·黎吉薇",
+      "target": "渥德园",
+      "type": "owns"
+    },
+    {
+      "source": "乔安娜·邵斯伍德",
+      "target": "林娜·黎吉薇",
+      "type": "is_friend_of"
+    },
+    {
+      "source": "乔安娜·邵斯伍德",
+      "target": "羡慕",
+      "type": "feels"
+    },
+    {
+      "source": "贾克琳·杜贝尔弗",
+      "target": "林娜·黎吉薇",
+      "type": "is_friend_of"
+    },
+    {
+      "source": "贾克琳·杜贝尔弗",
+      "target": "希蒙·道尔",
+      "type": "is_engaged_to"
+    },
+    {
+      "source": "贾克琳·杜贝尔弗",
+      "target": "爱情",
+      "type": "experiences"
+    },
+    {
+      "source": "希蒙·道尔",
+      "target": "林娜·黎吉薇",
+      "type": "is_employed_by"
+    },
+    {
+      "source": "希蒙·道尔",
+      "target": "贾克琳·杜贝尔弗",
+      "type": "is_engaged_to"
+    },
+    {
+      "source": "希蒙·道尔",
+      "target": "地产经纪人",
+      "type": "is_a"
+    },
+    {
+      "source": "温特显姆伯爵",
+      "target": "林娜·黎吉薇",
+      "type": "pursues"
+    },
+    {
+      "source": "温特显姆伯爵",
+      "target": "财富",
+      "type": "is_motivated_by"
+    },
+    {
+      "source": "赫邱里·白罗",
+      "target": "埃及",
+      "type": "is_interested_in"
+    },
+    {
+      "source": "赫邱里·白罗",
+      "target": "观察",
+      "type": "performs"
+    },
+    {
+      "source": "提姆·艾乐顿",
+      "target": "埃及",
+      "type": "desires_to_visit"
+    },
+    {
+      "source": "提姆·艾乐顿",
+      "target": "艾乐顿太太",
+      "type": "is_son_of"
+    },
+    {
+      "source": "提姆·艾乐顿",
+      "target": "乔安娜·邵斯伍德",
+      "type": "has_complex_relationship_with"
+    },
+    {
+      "source": "安德鲁·潘宁顿",
+      "target": "史登达尔·洛克弗德",
+      "type": "is_partner_of"
+    },
+    {
+      "source": "安德鲁·潘宁顿",
+      "target": "林娜·黎吉薇",
+      "type": "acts_against"
+    },
+    {
+      "source": "史登达尔·洛克弗德",
+      "target": "林娜·黎吉薇",
+      "type": "acts_against"
+    },
+    {
+      "source": "埃及",
+      "target": "旅行",
+      "type": "is_a_destination_for"
+    },
+    {
+      "source": "婚姻",
+      "target": "林娜·黎吉薇",
+      "type": "is_a_central_theme_for"
+    },
+    {
+      "source": "婚姻",
+      "target": "温特显姆伯爵",
+      "type": "is_desired_by"
+    },
+    {
+      "source": "婚姻",
+      "target": "希蒙·道尔",
+      "type": "is_desired_by"
+    },
+    {
+      "source": "计划",
+      "target": "安德鲁·潘宁顿",
+      "type": "is_made_by"
+    },
+    {
+      "source": "计划",
+      "target": "林娜·黎吉薇",
+      "type": "involves"
+    },
+    {
+      "source": "计划",
+      "target": "希蒙·道尔",
+      "type": "involves"
+    },
+    {
+      "source": "金钱",
+      "target": "财富",
+      "type": "is_related_to"
+    },
+    {
+      "source": "金钱",
+      "target": "动机",
+      "type": "influences"
+    },
+    {
+      "source": "乔治爵士",
+      "target": "破产",
+      "type": "experiences"
+    }
+  ],
+  "hierarchy": {
+    "main_topics": [
+      "Introduction of Linna Rich",
+      "Character Interactions and Relationships",
+      "Plot Developments and Conflicts",
+      "Future Plans and Motivations"
+    ],
+    "structure": "The document is structured in numbered sections, each introducing a character or a setting, and developing subplots or interactions. It follows a chronological progression of events and conversations, revealing character motivations and setting up future conflicts. The narrative is driven by dialogue and internal monologues."
+  }
+}

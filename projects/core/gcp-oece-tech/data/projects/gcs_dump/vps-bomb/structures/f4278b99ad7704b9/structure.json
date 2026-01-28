@@ -1,0 +1,211 @@
+{
+  "propositions": [
+    {
+      "id": "1",
+      "text": "茶苗在南亚繁殖，故乡不知，当时清帝国正值大战乱。",
+      "level": 2
+    },
+    {
+      "id": "2",
+      "text": "太平军（长毛）占据浙江茶商集散地杭州。",
+      "level": 2
+    },
+    {
+      "id": "3",
+      "text": "同治三年，太平军撤出杭州，清军入城。",
+      "level": 2
+    },
+    {
+      "id": "4",
+      "text": "杭九斋与林藕初的婚事被提上日程，双方均反对。",
+      "level": 2
+    },
+    {
+      "id": "5",
+      "text": "清兵追捕负隅顽抗的太平军将士。",
+      "level": 2
+    },
+    {
+      "id": "6",
+      "text": "太平军将士跳入杭九斋与林藕初的婚礼现场，砸到新娘。",
+      "level": 2
+    },
+    {
+      "id": "7",
+      "text": "林藕初巧妙地帮助太平军将士（吴茶清）躲避清兵搜捕。",
+      "level": 2
+    },
+    {
+      "id": "8",
+      "text": "吴茶清康复后，在林藕初帮助下，帮助杭家茶庄振兴。",
+      "level": 2
+    },
+    {
+      "id": "9",
+      "text": "吴茶清谢恩后离开，林藕初试图挽留但未果。",
+      "level": 2
+    },
+    {
+      "id": "10",
+      "text": "数年后，吴茶清返回，林藕初已成为茶庄老板娘。",
+      "level": 2
+    }
+  ],
+  "concepts": [
+    {
+      "name": "太平军",
+      "frequency": 12,
+      "context": "农民组成的起义军"
+    },
+    {
+      "name": "吴茶清",
+      "frequency": 11,
+      "context": "太平军将士"
+    },
+    {
+      "name": "林藕初",
+      "frequency": 10,
+      "context": "新娘，后来的茶庄主"
+    },
+    {
+      "name": "杭九斋",
+      "frequency": 9,
+      "context": "新郎，茶庄少主"
+    },
+    {
+      "name": "茶庄",
+      "frequency": 7,
+      "context": "茶生意经营场所"
+    },
+    {
+      "name": "清兵",
+      "frequency": 6,
+      "context": "清朝官兵"
+    },
+    {
+      "name": "杭州",
+      "frequency": 5,
+      "context": "故事发生地"
+    },
+    {
+      "name": "大烟",
+      "frequency": 4,
+      "context": "毒品，影响人物关系"
+    },
+    {
+      "name": "徽州人",
+      "frequency": 3,
+      "context": "茶商的重要群体"
+    },
+    {
+      "name": "忘忧茶庄",
+      "frequency": 3,
+      "context": "主要经营场所"
+    },
+    {
+      "name": "钥匙",
+      "frequency": 2,
+      "context": "权力象征"
+    },
+    {
+      "name": "玉兰树",
+      "frequency": 2,
+      "context": "婚礼及告别场景"
+    },
+    {
+      "name": "长毛",
+      "frequency": 2,
+      "context": "太平军的别称"
+    },
+    {
+      "name": "茶性易染",
+      "frequency": 1,
+      "context": "茶的特性"
+    },
+    {
+      "name": "兴衰",
+      "frequency": 1,
+      "context": "家族与行业命运"
+    }
+  ],
+  "relations": [
+    {
+      "source": "太平军",
+      "target": "吴茶清",
+      "type": "belong to"
+    },
+    {
+      "source": "杭九斋",
+      "target": "林藕初",
+      "type": "married to"
+    },
+    {
+      "source": "林藕初",
+      "target": "吴茶清",
+      "type": "saved by"
+    },
+    {
+      "source": "吴茶清",
+      "target": "忘忧茶庄",
+      "type": "worked at"
+    },
+    {
+      "source": "林藕初",
+      "target": "忘忧茶庄",
+      "type": "managed"
+    },
+    {
+      "source": "杭九斋",
+      "target": "大烟",
+      "type": "addicted to"
+    },
+    {
+      "source": "杭老板",
+      "target": "大烟",
+      "type": "addicted to"
+    },
+    {
+      "source": "林藕初",
+      "target": "钥匙",
+      "type": "inherited"
+    },
+    {
+      "source": "吴茶清",
+      "target": "徽州人",
+      "type": "is a"
+    },
+    {
+      "source": "杭九斋",
+      "target": "玉兰树",
+      "type": "associated with"
+    },
+    {
+      "source": "林藕初",
+      "target": "玉兰树",
+      "type": "associated with"
+    },
+    {
+      "source": "吴茶清",
+      "target": "玉兰树",
+      "type": "associated with"
+    },
+    {
+      "source": "杭州",
+      "target": "太平军",
+      "type": "occupied by"
+    },
+    {
+      "source": "杭州",
+      "target": "清兵",
+      "type": "entered by"
+    }
+  ],
+  "hierarchy": {
+    "main_topics": [
+      "Chapter 1: Southern Tea Wood",
+      "Chapter 2: Wu Qing",
+      "Chapter 3: Origins"
+    ],
+    "structure": "The document is structured into chapters, with Chapter 1 detailing the dramatic events of a wedding disrupted by rebellion and the subsequent rescue and hiding of a rebel soldier. Chapter 2 delves into the background of the main characters and the tea trade, while Chapter 3 begins tracing family origins. The narrative blends historical context with personal drama and focuses on the tea trade's development."
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "propositions": [
+    {
+      "id": "1",
+      "text": "凡是碰触到这枚刻有“噬魂”二字的黑色玉佩的人，都会被吸入这块玉佩之中，沦为玉佩主人的魂奴。",
+      "level": 1
+    }
+  ],
+  "concepts": [
+    {
+      "name": "黑色玉佩",
+      "frequency": 1,
+      "context": "The object that triggers the supernatural event."
+    },
+    {
+      "name": "噬魂",
+      "frequency": 1,
+      "context": "The inscription on the black jade pendant."
+    },
+    {
+      "name": "魂奴",
+      "frequency": 1,
+      "context": "The state of being after being absorbed by the pendant."
+    },
+    {
+      "name": "玉佩主人",
+      "frequency": 1,
+      "context": "The owner of the jade pendant who controls the soul slaves."
+    }
+  ],
+  "relations": [
+    {
+      "source": "黑色玉佩",
+      "target": "噬魂",
+      "type": "is_marked_with"
+    },
+    {
+      "source": "凡是碰触到这枚刻有“噬魂”二字的黑色玉佩的人",
+      "target": "黑色玉佩",
+      "type": "touches"
+    },
+    {
+      "source": "凡是碰触到这枚刻有“噬魂”二字的黑色玉佩的人",
+      "target": "魂奴",
+      "type": "becomes"
+    },
+    {
+      "source": "魂奴",
+      "target": "玉佩主人",
+      "type": "is_owned_by"
+    }
+  ],
+  "hierarchy": {
+    "main_topics": [
+      "Introduction to a mystical artifact and its consequence"
+    ],
+    "structure": "The document begins with a title and then a prologue. The prologue consists of a repeated legendary statement about a black jade pendant and its inscription 'Soul Devourer' (噬魂). Anyone who touches this pendant is absorbed into it and becomes a 'soul slave' (魂奴) to its owner."
+  }
+}

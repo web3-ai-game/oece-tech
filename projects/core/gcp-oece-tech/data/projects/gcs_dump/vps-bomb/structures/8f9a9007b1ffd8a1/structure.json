@@ -1,0 +1,781 @@
+{
+  "propositions": [
+    {
+      "id": "1",
+      "text": "The story is set at a house called 'Crow's Nest' owned by Sir Charles Cartwright.",
+      "level": 1
+    },
+    {
+      "id": "1.1",
+      "text": "Mr. Saddlethwaite is observing Sir Charles Cartwright climbing up to the house.",
+      "level": 2
+    },
+    {
+      "id": "1.2",
+      "text": "Crow's Nest is described as a modern, well-built bungalow with a good location overlooking 'Lynton Harbour'.",
+      "level": 2
+    },
+    {
+      "id": "1.3",
+      "text": "Sir Charles Cartwright is a middle-aged man, portrayed as an actor who is always 'acting' even in his personal life.",
+      "level": 2
+    },
+    {
+      "id": "1.4",
+      "text": "Sir Charles has retired from the stage to live a simple country life by the sea.",
+      "level": 3
+    },
+    {
+      "id": "1.5",
+      "text": "This retirement is viewed by others as a role he is playing.",
+      "level": 3
+    },
+    {
+      "id": "2",
+      "text": "Mr. Saddlethwaite is a patron of arts and theatre, and a keen observer of people.",
+      "level": 1
+    },
+    {
+      "id": "3",
+      "text": "Dr. Bartholomew Strange, a psychiatrist and Sir Charles' friend, arrives and joins Mr. Saddlethwaite.",
+      "level": 1
+    },
+    {
+      "id": "3.1",
+      "text": "Dr. Strange also believes Sir Charles is playing a role and will eventually tire of his current 'simple country life'.",
+      "level": 2
+    },
+    {
+      "id": "4",
+      "text": "Sir Charles Cartwright arrives and is greeted by Mr. Saddlethwaite and Dr. Strange.",
+      "level": 1
+    },
+    {
+      "id": "4.1",
+      "text": "Sir Charles mentions 'Mirabelle' defeating herself and invites Dr. Strange to join them.",
+      "level": 2
+    },
+    {
+      "id": "4.2",
+      "text": "Mr. Saddlethwaite dislikes sea travel due to seasickness.",
+      "level": 3
+    },
+    {
+      "id": "4.3",
+      "text": "Sir Charles asks for a drink and invites Dr. Strange to join their 'crew'.",
+      "level": 3
+    },
+    {
+      "id": "4.4",
+      "text": "Dr. Strange remarks on the advantage of being a doctor: not having to follow one's own advice.",
+      "level": 4
+    },
+    {
+      "id": "4.5",
+      "text": "Sir Charles is described as a gentleman and an actor.",
+      "level": 3
+    },
+    {
+      "id": "4.6",
+      "text": "Sir Charles reveals he has a helper named 'Cynthia'.",
+      "level": 3
+    },
+    {
+      "id": "4.7",
+      "text": "Mr. Saddlethwaite inquires about Cynthia Lytton-Gore, who knows a little about sailing.",
+      "level": 4
+    },
+    {
+      "id": "4.8",
+      "text": "Sir Charles admits Cynthia made him feel like a fool but helped him.",
+      "level": 4
+    },
+    {
+      "id": "4.9",
+      "text": "Mr. Saddlethwaite speculates that Cynthia might be the reason for Sir Charles' continued satisfaction, linking it to men of his age often having younger female companions.",
+      "level": 5
+    },
+    {
+      "id": "4.10",
+      "text": "Sir Charles expresses his love for the sea, sun, wind, and a simple cottage.",
+      "level": 3
+    },
+    {
+      "id": "4.11",
+      "text": "His 'simple cottage' is revealed to be a well-equipped house with modern amenities.",
+      "level": 4
+    },
+    {
+      "id": "5",
+      "text": "Miss Milray, described as unattractive, emerges from the house and presents a dinner menu.",
+      "level": 1
+    },
+    {
+      "id": "5.1",
+      "text": "Miss Milray asks to join dinner to avoid a table of thirteen, due to superstition.",
+      "level": 2
+    },
+    {
+      "id": "5.2",
+      "text": "She is highly efficient and manages the household like clockwork.",
+      "level": 3
+    },
+    {
+      "id": "5.3",
+      "text": "Sir Charles mentions she was his secretary in London and is now his housekeeper, but she is leaving.",
+      "level": 3
+    },
+    {
+      "id": "5.4",
+      "text": "Sir Charles is unsure of her reason for leaving, suspecting it's not her stated reason of a disabled mother.",
+      "level": 4
+    },
+    {
+      "id": "5.5",
+      "text": "Dr. Strange suggests people talk about Miss Milray.",
+      "level": 4
+    },
+    {
+      "id": "5.6",
+      "text": "Sir Charles is surprised and dismisses the idea of gossip involving him and Miss Milray, based on her appearance and age.",
+      "level": 5
+    },
+    {
+      "id": "5.7",
+      "text": "Sir Charles describes Miss Milray as dignified, chaste, and extremely capable.",
+      "level": 5
+    },
+    {
+      "id": "6",
+      "text": "The guests for the afternoon are listed.",
+      "level": 1
+    },
+    {
+      "id": "6.1",
+      "text": "Angela Sacliffe, a famous actress.",
+      "level": 2
+    },
+    {
+      "id": "6.2",
+      "text": "The Dykes family: Mrs. Dykes, a dressmaker, and Captain Dykes, a racehorse owner.",
+      "level": 2
+    },
+    {
+      "id": "6.3",
+      "text": "The playwright Anthony Astor (later identified as a woman named Miss Wells).",
+      "level": 2
+    },
+    {
+      "id": "6.4",
+      "text": "The Babington family: a clergyman and his wife.",
+      "level": 2
+    },
+    {
+      "id": "6.5",
+      "text": "Mrs. Mary and Cynthia Lytton-Gore.",
+      "level": 2
+    },
+    {
+      "id": "6.6",
+      "text": "A young traveler named Mr. Manders.",
+      "level": 2
+    },
+    {
+      "id": "7",
+      "text": "Mr. Saddlethwaite counts the guests and realizes there is a discrepancy in the numbers mentioned.",
+      "level": 1
+    },
+    {
+      "id": "7.1",
+      "text": "Sir Charles realizes he forgot one guest: Mr. Poirot.",
+      "level": 2
+    },
+    {
+      "id": "7.2",
+      "text": "Mr. Poirot is described as an outstanding, albeit self-important, Belgian detective.",
+      "level": 3
+    },
+    {
+      "id": "8",
+      "text": "Dr. Strange discusses the nature of eventful lives versus uneventful lives, suggesting cases find people rather than the other way around.",
+      "level": 1
+    },
+    {
+      "id": "8.1",
+      "text": "He uses Poirot as an example of someone cases are drawn to.",
+      "level": 2
+    },
+    {
+      "id": "9",
+      "text": "Sir Charles jokingly suggests he won't be the victim.",
+      "level": 1
+    },
+    {
+      "id": "10",
+      "text": "The first chapter ends with the three men entering the house.",
+      "level": 1
+    },
+    {
+      "id": "11",
+      "text": "Chapter 2 begins with Mr. Saddlethwaite's primary interest in people, particularly women.",
+      "level": 1
+    },
+    {
+      "id": "11.1",
+      "text": "He feels like an observer rather than a participant in life.",
+      "level": 2
+    },
+    {
+      "id": "12",
+      "text": "Mr. Saddlethwaite observes Mrs. Cynthia Dykes, noting her fashionable appearance and the artificiality of her beauty.",
+      "level": 1
+    },
+    {
+      "id": "13",
+      "text": "Mrs. Dykes uses the fashionable term 'permeates' in her speech.",
+      "level": 1
+    },
+    {
+      "id": "14",
+      "text": "Sir Charles is seen chatting with Angela Sacliffe.",
+      "level": 1
+    },
+    {
+      "id": "15",
+      "text": "Captain Dykes discusses horse racing with Dr. Strange.",
+      "level": 1
+    },
+    {
+      "id": "16",
+      "text": "Miss Wells (Anthony Astor) is introduced as a tall, slender playwright known for her witty and impactful work.",
+      "level": 1
+    },
+    {
+      "id": "16.1",
+      "text": "She expresses her dislike for the South of France, despite finding it beneficial for her writing.",
+      "level": 2
+    },
+    {
+      "id": "16.2",
+      "text": "Mr. Saddlethwaite is surprised by the contrast between her witty writing and her personal demeanor.",
+      "level": 3
+    },
+    {
+      "id": "16.3",
+      "text": "Miss Wells' observant eyes make Mr. Saddlethwaite uneasy.",
+      "level": 3
+    },
+    {
+      "id": "17",
+      "text": "Mr. Saddlethwaite offers to get Miss Wells a drink, but she offers to make one for him.",
+      "level": 1
+    },
+    {
+      "id": "18",
+      "text": "Mrs. Mary Lytton-Gore and her daughter, Miss Lytton-Gore (Cynthia), arrive.",
+      "level": 1
+    },
+    {
+      "id": "18.1",
+      "text": "Mrs. Lytton-Gore is a widow with a young daughter.",
+      "level": 2
+    },
+    {
+      "id": "18.2",
+      "text": "Cynthia (Egg-Egg) is described as lively and charming, though not conventionally beautiful.",
+      "level": 2
+    },
+    {
+      "id": "18.3",
+      "text": "She is full of youthful energy and has a vibrant presence.",
+      "level": 3
+    },
+    {
+      "id": "19",
+      "text": "Cynthia is talking to Oliver Manders, a handsome young man with a foreign air.",
+      "level": 1
+    },
+    {
+      "id": "20",
+      "text": "Hercule Poirot is also present, observing Oliver Manders with amusement, though appearing somewhat sad.",
+      "level": 1
+    },
+    {
+      "id": "21",
+      "text": "Reverend Stephen Babington expresses his appreciation for Sir Charles.",
+      "level": 1
+    },
+    {
+      "id": "21.1",
+      "text": "Mrs. Babington agrees, noting Sir Charles' childlike nature.",
+      "level": 2
+    },
+    {
+      "id": "22",
+      "text": "Cynthia offers cocktails to the ladies.",
+      "level": 1
+    },
+    {
+      "id": "23",
+      "text": "Mrs. Babington discusses gardening with Sir Charles.",
+      "level": 1
+    },
+    {
+      "id": "24",
+      "text": "Mrs. Mary Lytton-Gore asks about the young woman in green, who turns out to be the playwright Anthony Astor (Miss Wells).",
+      "level": 1
+    },
+    {
+      "id": "24.1",
+      "text": "Mrs. Lytton-Gore is surprised by Miss Wells' appearance, finding her unlike what she expected.",
+      "level": 2
+    },
+    {
+      "id": "25",
+      "text": "Reverend Babington drinks a cocktail and begins to show signs of distress.",
+      "level": 1
+    },
+    {
+      "id": "25.1",
+      "text": "He clutches his throat and collapses.",
+      "level": 2
+    },
+    {
+      "id": "26",
+      "text": "Cynthia screams, announcing that Mr. Babington has fallen ill.",
+      "level": 1
+    },
+    {
+      "id": "27",
+      "text": "Dr. Strange tries to help but confirms that Reverend Babington is dead.",
+      "level": 1
+    },
+    {
+      "id": "28",
+      "text": "Chapter 3 begins with Sir Charles calling Mr. Saddlethwaite into the 'cabin hall' after the commotion.",
+      "level": 1
+    },
+    {
+      "id": "28.1",
+      "text": "Calm has returned after the death of Reverend Babington.",
+      "level": 2
+    },
+    {
+      "id": "28.2",
+      "text": "Mrs. Babington has been taken away, and the local doctor has been called.",
+      "level": 2
+    },
+    {
+      "id": "28.3",
+      "text": "Mr. Saddlethwaite is visibly shaken by witnessing a death.",
+      "level": 3
+    },
+    {
+      "id": "29",
+      "text": "Dr. Strange and Sir Charles are also present.",
+      "level": 1
+    },
+    {
+      "id": "29.1",
+      "text": "Dr. Strange compliments Mr. Saddlethwaite's ability to 'understand life'.",
+      "level": 2
+    },
+    {
+      "id": "29.2",
+      "text": "Sir Charles is distressed by the event.",
+      "level": 2
+    },
+    {
+      "id": "30",
+      "text": "Sir Charles asks Dr. Strange if he has seen someone die like this before.",
+      "level": 1
+    },
+    {
+      "id": "30.1",
+      "text": "Dr. Strange states he hasn't seen many deaths as a psychiatrist focused on keeping patients alive.",
+      "level": 2
+    },
+    {
+      "id": "30.2",
+      "text": "He contrasts this with Dr. McDougal, the local physician, who has likely seen more deaths.",
+      "level": 3
+    },
+    {
+      "id": "30.3",
+      "text": "Dr. McDougal concluded that the death was due to a sudden illness, but Dr. Strange is not satisfied with this explanation.",
+      "level": 3
+    },
+    {
+      "id": "30.4",
+      "text": "He acknowledges that doctors often use vague explanations like 'sudden illness' to satisfy laypeople.",
+      "level": 4
+    },
+    {
+      "id": "30.5",
+      "text": "Dr. Strange notes that Reverend Babington was elderly and had been unwell.",
+      "level": 4
+    },
+    {
+      "id": "31",
+      "text": "Sir Charles hints at suspicion, leading to a discussion about the possibility of suicide or murder.",
+      "level": 1
+    },
+    {
+      "id": "31.1",
+      "text": "Dr. Strange dismisses the idea of murder, deeming it unthinkable to murder a harmless old clergyman.",
+      "level": 2
+    },
+    {
+      "id": "31.2",
+      "text": "He suggests suicide as a possibility, speculating about motives like a terminal illness.",
+      "level": 2
+    },
+    {
+      "id": "32",
+      "text": "Sir Charles is hesitant to accept suicide and mentions he mixed the cocktails.",
+      "level": 1
+    },
+    {
+      "id": "32.1",
+      "text": "Dr. Strange lightheartedly suggests the possibility of poison.",
+      "level": 2
+    },
+    {
+      "id": "33",
+      "text": "Dr. Strange admonishes Sir Charles for his speculative and potentially harmful insinuations, which could cause distress to Mrs. Babington.",
+      "level": 1
+    },
+    {
+      "id": "33.1",
+      "text": "He emphasizes that baseless speculation can lead to damaging rumors.",
+      "level": 2
+    },
+    {
+      "id": "34",
+      "text": "Sir Charles insists he has a 'premonition' that something is not right.",
+      "level": 1
+    },
+    {
+      "id": "35",
+      "text": "Mr. Saddlethwaite shares his observation that Reverend Babington looked pained after drinking his cocktail, initially attributing it to him not being accustomed to the taste.",
+      "level": 1
+    },
+    {
+      "id": "35.1",
+      "text": "He suggests that Reverend Babington might have put something in his own glass.",
+      "level": 2
+    },
+    {
+      "id": "35.2",
+      "text": "Mr. Saddlethwaite proposes that Dr. Strange discreetly examine the cocktail glass.",
+      "level": 2
+    },
+    {
+      "id": "36",
+      "text": "Dr. Strange agrees to examine the glass but bets there will be nothing in it but gin and vermouth.",
+      "level": 1
+    },
+    {
+      "id": "37",
+      "text": "Sir Charles blames Dr. Strange's earlier discussion about Poirot for his own suspicions of murder.",
+      "level": 1
+    },
+    {
+      "id": "38",
+      "text": "Hercule Poirot appears, and Sir Charles directly asks for his opinion on whether something is amiss.",
+      "level": 1
+    },
+    {
+      "id": "38.1",
+      "text": "Poirot notes the suddenness of Reverend Babington's illness.",
+      "level": 2
+    },
+    {
+      "id": "39",
+      "text": "Mr. Saddlethwaite explains his thoughts on suicide and the suggestion to examine the cocktail glass.",
+      "level": 1
+    },
+    {
+      "id": "40",
+      "text": "Poirot agrees to examine the glass, finding suicide unlikely given Reverend Babington's character and the social setting.",
+      "level": 1
+    },
+    {
+      "id": "40.1",
+      "text": "He suspects the glass will only contain cocktail ingredients, as poisoning in such a setting would be technically difficult.",
+      "level": 2
+    },
+    {
+      "id": "41",
+      "text": "Poirot leaves without a trace.",
+      "level": 1
+    },
+    {
+      "id": "42",
+      "text": "Chapter 4 begins with Cynthia Lytton-Gore confronting Mr. Saddlethwaite, insisting he share his true thoughts.",
+      "level": 1
+    },
+    {
+      "id": "42.1",
+      "text": "She dismisses the idea that Reverend Babington's death was due to natural causes, citing his health history.",
+      "level": 2
+    },
+    {
+      "id": "43",
+      "text": "Cynthia questions the thoroughness of Dr. McDougal's examination and Dr. Strange's cautious opinion.",
+      "level": 1
+    },
+    {
+      "id": "44",
+      "text": "Mr. Saddlethwaite reminds her that the cocktail glass was found to contain only gin and vermouth.",
+      "level": 1
+    },
+    {
+      "id": "45",
+      "text": "Cynthia mentions that Dr. Strange said something to Oliver Manders after the examination.",
+      "level": 1
+    },
+    {
+      "id": "46",
+      "text": "She describes Oliver Manders as ambitious and restless, wanting to become a journalist.",
+      "level": 1
+    },
+    {
+      "id": "47",
+      "text": "Cynthia expresses her grief over Reverend Babington's death, whom she respected.",
+      "level": 1
+    },
+    {
+      "id": "47.1",
+      "text": "She claims to be a genuine Christian, unlike her mother.",
+      "level": 2
+    },
+    {
+      "id": "47.2",
+      "text": "She discusses the Babington family's piety and mentions their son Robin, who was killed in India and whom she was once infatuated with.",
+      "level": 3
+    },
+    {
+      "id": "48",
+      "text": "Cynthia insists that if Reverend Babington did not die naturally, it's a terrible misfortune.",
+      "level": 1
+    },
+    {
+      "id": "49",
+      "text": "She suggests the possibility of someone using a needle or a poisoned dart.",
+      "level": 1
+    },
+    {
+      "id": "50",
+      "text": "Cynthia reveals that she and Charles (Sir Charles) suspect foul play.",
+      "level": 1
+    },
+    {
+      "id": "51",
+      "text": "Mr. Saddlethwaite recalls a poem from 'The Quotations Dictionary' about an older man and a younger woman, making a connection to Sir Charles and Cynthia.",
+      "level": 1
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Mr. Saddlethwaite",
+      "frequency": 24,
+      "context": "The main observer and narrator of events, interested in people."
+    },
+    {
+      "name": "Sir Charles Cartwright",
+      "frequency": 21,
+      "context": "Owner of Crow's Nest, former actor, now living by the sea, suspects foul play."
+    },
+    {
+      "name": "Dr. Bartholomew Strange",
+      "frequency": 16,
+      "context": "Psychiatrist, friend of Sir Charles, offers professional opinions and explanations."
+    },
+    {
+      "name": "Cynthia Lytton-Gore",
+      "frequency": 16,
+      "context": "Young woman, companion to her mother, lively and energetic, suspects foul play with Sir Charles."
+    },
+    {
+      "name": "Reverend Stephen Babington",
+      "frequency": 12,
+      "context": "Clergyman who dies suddenly at the dinner party."
+    },
+    {
+      "name": "Miss Milray",
+      "frequency": 8,
+      "context": "Sir Charles' efficient housekeeper, described as unattractive."
+    },
+    {
+      "name": "Hercule Poirot",
+      "frequency": 7,
+      "context": "Famous detective, present at the gathering, consulted on the death."
+    },
+    {
+      "name": "Crow's Nest",
+      "frequency": 5,
+      "context": "Sir Charles Cartwright's house."
+    },
+    {
+      "name": "Cocktail",
+      "frequency": 5,
+      "context": "The drink consumed by Reverend Babington before his death, a focus of suspicion."
+    },
+    {
+      "name": "Death",
+      "frequency": 8,
+      "context": "The central event of the latter part of the narrative."
+    },
+    {
+      "name": "Acting/Role-playing",
+      "frequency": 5,
+      "context": "A recurring theme, especially related to Sir Charles' personality."
+    },
+    {
+      "name": "Observation",
+      "frequency": 6,
+      "context": "Mr. Saddlethwaite's primary method of engaging with the story."
+    },
+    {
+      "name": "Suspicion",
+      "frequency": 6,
+      "context": "The underlying tone regarding the death of Reverend Babington."
+    },
+    {
+      "name": "Mrs. Mary Lytton-Gore",
+      "frequency": 5,
+      "context": "Cynthia's mother, a widow."
+    },
+    {
+      "name": "Oliver Manders",
+      "frequency": 5,
+      "context": "A young traveler, potentially ambitious and restless."
+    },
+    {
+      "name": "Angela Sacliffe",
+      "frequency": 3,
+      "context": "A famous actress, guest at the party."
+    },
+    {
+      "name": "Anthony Astor (Miss Wells)",
+      "frequency": 4,
+      "context": "A playwright, guest at the party."
+    },
+    {
+      "name": "Captain Dykes",
+      "frequency": 2,
+      "context": "Husband of Mrs. Dykes, involved in horse racing."
+    },
+    {
+      "name": "Mrs. Dykes",
+      "frequency": 2,
+      "context": "Dressmaker, wife of Captain Dykes."
+    },
+    {
+      "name": "Dr. McDougal",
+      "frequency": 2,
+      "context": "Local physician who examined Reverend Babington."
+    }
+  ],
+  "relations": [
+    {
+      "source": "Sir Charles Cartwright",
+      "target": "Crow's Nest",
+      "type": "owns"
+    },
+    {
+      "source": "Mr. Saddlethwaite",
+      "target": "Sir Charles Cartwright",
+      "type": "observes"
+    },
+    {
+      "source": "Dr. Bartholomew Strange",
+      "target": "Sir Charles Cartwright",
+      "type": "friend_of"
+    },
+    {
+      "source": "Dr. Bartholomew Strange",
+      "target": "Mr. Saddlethwaite",
+      "type": "interacts_with"
+    },
+    {
+      "source": "Sir Charles Cartwright",
+      "target": "Acting/Role-playing",
+      "type": "associated_with"
+    },
+    {
+      "source": "Reverend Stephen Babington",
+      "target": "Death",
+      "type": "undergoes"
+    },
+    {
+      "source": "Cocktail",
+      "target": "Reverend Stephen Babington",
+      "type": "consumed_by"
+    },
+    {
+      "source": "Cocktail",
+      "target": "Suspicion",
+      "type": "subject_of"
+    },
+    {
+      "source": "Cynthia Lytton-Gore",
+      "target": "Sir Charles Cartwright",
+      "type": "collaborates_with_on_suspicion"
+    },
+    {
+      "source": "Hercule Poirot",
+      "target": "Death",
+      "type": "investigates"
+    },
+    {
+      "source": "Mr. Saddlethwaite",
+      "target": "Observation",
+      "type": "employs"
+    },
+    {
+      "source": "Cynthia Lytton-Gore",
+      "target": "Oliver Manders",
+      "type": "interacts_with"
+    },
+    {
+      "source": "Mrs. Mary Lytton-Gore",
+      "target": "Cynthia Lytton-Gore",
+      "type": "mother_of"
+    },
+    {
+      "source": "Anthony Astor (Miss Wells)",
+      "target": "Playwright",
+      "type": "is_a"
+    },
+    {
+      "source": "Dr. Bartholomew Strange",
+      "target": "Psychiatrist",
+      "type": "is_a"
+    },
+    {
+      "source": "Hercule Poirot",
+      "target": "Detective",
+      "type": "is_a"
+    },
+    {
+      "source": "Reverend Stephen Babington",
+      "target": "Clergyman",
+      "type": "is_a"
+    },
+    {
+      "source": "Sir Charles Cartwright",
+      "target": "Actor",
+      "type": "is_a"
+    }
+  ],
+  "hierarchy": {
+    "main_topics": [
+      "Characters and Setting",
+      "The Death of Reverend Babington",
+      "Investigation and Suspicion"
+    ],
+    "structure": "The document is structured into four chapters, progressing from the introduction of characters and setting to the central mystery of a suspicious death and the initial stages of investigation."
+  }
+}

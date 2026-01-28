@@ -1,0 +1,192 @@
+{
+  "propositions": [
+    {
+      "id": "1",
+      "text": "应物兄 is a novel by Li Er.",
+      "level": 1
+    },
+    {
+      "id": "2",
+      "text": "The novel is published in two volumes.",
+      "level": 1
+    },
+    {
+      "id": "3",
+      "text": "The book includes CIP data and publication details.",
+      "level": 1
+    },
+    {
+      "id": "4",
+      "text": "应物兄 is a character in the novel.",
+      "level": 1
+    },
+    {
+      "id": "5",
+      "text": "The narrative follows 应物兄's interactions and thoughts.",
+      "level": 1
+    },
+    {
+      "id": "6",
+      "text": "应物兄 is persuaded to recruit 费鸣 for the Confucian Research Institute.",
+      "level": 1
+    },
+    {
+      "id": "7",
+      "text": "乔木先生 is 应物兄's mentor and father-in-law.",
+      "level": 1
+    },
+    {
+      "id": "8",
+      "text": "乔木先生 advises 应物兄 to speak less.",
+      "level": 1
+    },
+    {
+      "id": "9",
+      "text": "木瓜 is a dog owned by 乔木先生, previously belonging to 应物兄's daughter.",
+      "level": 1
+    },
+    {
+      "id": "10",
+      "text": "The story explores themes of language, thought, and personal growth.",
+      "level": 1
+    }
+  ],
+  "concepts": [
+    {
+      "name": "应物兄",
+      "frequency": 50,
+      "context": "Main character, novel title"
+    },
+    {
+      "name": "乔木先生",
+      "frequency": 25,
+      "context": "Mentor, father-in-law"
+    },
+    {
+      "name": "费鸣",
+      "frequency": 15,
+      "context": "Character to be recruited"
+    },
+    {
+      "name": "木瓜",
+      "frequency": 15,
+      "context": "Pet dog"
+    },
+    {
+      "name": "儒学研究院",
+      "frequency": 5,
+      "context": "Institute being established"
+    },
+    {
+      "name": "李洱",
+      "frequency": 1,
+      "context": "Author"
+    },
+    {
+      "name": "人民文学出版社",
+      "frequency": 1,
+      "context": "Publisher"
+    },
+    {
+      "name": "孔子",
+      "frequency": 3,
+      "context": "Philosopher, reference"
+    },
+    {
+      "name": "程济世先生",
+      "frequency": 1,
+      "context": "Scholar, potential recruit"
+    },
+    {
+      "name": "语言",
+      "frequency": 8,
+      "context": "Theme, communication"
+    },
+    {
+      "name": "思考",
+      "frequency": 10,
+      "context": "Internal process"
+    },
+    {
+      "name": "性格",
+      "frequency": 4,
+      "context": "Character trait"
+    },
+    {
+      "name": "狗",
+      "frequency": 10,
+      "context": "Animal, theme"
+    },
+    {
+      "name": "中国当代小说",
+      "frequency": 1,
+      "context": "Genre"
+    },
+    {
+      "name": "师生关系",
+      "frequency": 3,
+      "context": "Relationship type"
+    }
+  ],
+  "relations": [
+    {
+      "source": "李洱",
+      "target": "应物兄",
+      "type": "author_of"
+    },
+    {
+      "source": "应物兄",
+      "target": "费鸣",
+      "type": "interacts_with"
+    },
+    {
+      "source": "应物兄",
+      "target": "乔木先生",
+      "type": "mentored_by"
+    },
+    {
+      "source": "应物兄",
+      "target": "木瓜",
+      "type": "cares_for"
+    },
+    {
+      "source": "费鸣",
+      "target": "乔木先生",
+      "type": "student_of"
+    },
+    {
+      "source": "木瓜",
+      "target": "应波",
+      "type": "owned_by"
+    },
+    {
+      "source": "木瓜",
+      "target": "乔木先生",
+      "type": "cared_for_by"
+    },
+    {
+      "source": "乔木先生",
+      "target": "应物兄",
+      "type": "father_in_law_of"
+    },
+    {
+      "source": "儒学研究院",
+      "target": "应物兄",
+      "type": "led_by"
+    },
+    {
+      "source": "儒学研究院",
+      "target": "费鸣",
+      "type": "potential_recruitment_for"
+    }
+  ],
+  "hierarchy": {
+    "main_topics": [
+      "Character: 应物兄",
+      "Publication Details",
+      "Key Characters: 乔木先生, 费鸣, 木瓜",
+      "Themes: Language, Thought, Relationships"
+    ],
+    "structure": "The document outlines a novel titled '应物兄'. It begins with publication information, then delves into the protagonist's internal thoughts and actions, his recruitment task for the Confucian Research Institute, his complex relationship with his mentor 乔木先生, and a detailed anecdote about a dog named 木瓜. The narrative is characterized by introspection and character development."
+  }
+}

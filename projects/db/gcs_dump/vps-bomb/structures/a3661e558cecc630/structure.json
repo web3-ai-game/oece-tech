@@ -1,0 +1,1094 @@
+{
+  "propositions": [
+    {
+      "id": "1",
+      "text": "我第一次收到奇洛·李维斯的回信，是在我上大二的时候。",
+      "level": 2
+    },
+    {
+      "id": "1.1",
+      "text": "那是一个普通的下午，我像往常一样去收信，信封上写着我的名字和地址，寄信人是洛杉矶的一个地址。",
+      "level": 3
+    },
+    {
+      "id": "1.2",
+      "text": "我撕开信封，看到里面是手写的信，顿时心跳加速，因为我知道，这是奇洛·李维斯的回信。",
+      "level": 3
+    },
+    {
+      "id": "1.3",
+      "text": "他回信的内容并不长，但字里行间都充满了真诚和善意。",
+      "level": 3
+    },
+    {
+      "id": "1.4",
+      "text": "他感谢了我寄去的书，并表示他在阅读中受益匪浅。",
+      "level": 3
+    },
+    {
+      "id": "1.5",
+      "text": "他还提到了一些自己近期的生活和工作，以及对未来的展望。",
+      "level": 3
+    },
+    {
+      "id": "1.6",
+      "text": "读完信，我感到非常激动和感激，仿佛收到了一份珍贵的礼物。",
+      "level": 3
+    },
+    {
+      "id": "2",
+      "text": "奇洛·李维斯的回信内容",
+      "level": 2
+    },
+    {
+      "id": "2.1",
+      "text": "亲爱的[你的名字]，感谢你寄来的书，我非常喜欢。",
+      "level": 3
+    },
+    {
+      "id": "2.2",
+      "text": "你在信中分享的观点让我受益匪浅，尤其是你对[书中某个观点]的看法，让我有了新的思考。",
+      "level": 3
+    },
+    {
+      "id": "2.3",
+      "text": "最近我一直在忙于[奇洛·李维斯最近的工作]。",
+      "level": 3
+    },
+    {
+      "id": "2.4",
+      "text": "虽然很辛苦，但能做自己喜欢的事情，我觉得很值得。",
+      "level": 3
+    },
+    {
+      "id": "2.5",
+      "text": "我一直相信，只要我们坚持自己的梦想，努力去追求，就一定能实现。",
+      "level": 3
+    },
+    {
+      "id": "2.6",
+      "text": "希望你也能坚持自己的信念，勇敢地去追逐你的梦想。",
+      "level": 3
+    },
+    {
+      "id": "2.7",
+      "text": "祝你一切顺利！",
+      "level": 3
+    },
+    {
+      "id": "3",
+      "text": "收到奇洛·李维斯的回信，对我来说意义非凡。",
+      "level": 2
+    },
+    {
+      "id": "3.1",
+      "text": "我一直非常欣赏他的才华和人品，他不仅是一位优秀的演员，更是一位善良、谦逊、有爱心的人。",
+      "level": 3
+    },
+    {
+      "id": "3.2",
+      "text": "我第一次知道他的时候，是在一部电影里。",
+      "level": 3
+    },
+    {
+      "id": "3.3",
+      "text": "他的表演让我惊叹，他塑造的角色深入人心。",
+      "level": 3
+    },
+    {
+      "id": "3.4",
+      "text": "后来，我开始关注他的新闻和访谈，越发觉得他是一个值得尊敬的人。",
+      "level": 3
+    },
+    {
+      "id": "3.5",
+      "text": "于是，我鼓起勇气，给他写了一封信，附上了一本我一直很喜欢的书。",
+      "level": 3
+    },
+    {
+      "id": "3.6",
+      "text": "我并没有期待他会回复，只是想表达我对他的敬意和喜爱。",
+      "level": 3
+    },
+    {
+      "id": "4",
+      "text": "奇洛·李维斯的回信，对我来说不仅仅是一封信，更是一种激励。",
+      "level": 2
+    },
+    {
+      "id": "4.1",
+      "text": "他用自己的行动告诉我，只要我们坚持自己的梦想，努力去追求，就一定能实现。",
+      "level": 3
+    },
+    {
+      "id": "4.2",
+      "text": "这封信也让我更加坚定了自己的人生目标。",
+      "level": 3
+    },
+    {
+      "id": "4.3",
+      "text": "我开始更加努力地学习和工作，不断提升自己，希望有一天也能成为像他一样，对社会做出贡献的人。",
+      "level": 3
+    },
+    {
+      "id": "5",
+      "text": "奇洛·李维斯的回信，对我来说意义非凡。",
+      "level": 2
+    },
+    {
+      "id": "5.1",
+      "text": "它不仅让我感受到了偶像的温暖和力量，更让我对生活和未来充满了信心。",
+      "level": 3
+    },
+    {
+      "id": "5.2",
+      "text": "他用自己的经历告诉我，只要我们坚持自己的梦想，努力去追求，就一定能实现。",
+      "level": 3
+    },
+    {
+      "id": "5.3",
+      "text": "这让我更加坚定了自己的人生目标，也更加努力地去实现它们。",
+      "level": 3
+    },
+    {
+      "id": "6",
+      "text": "奇洛·李维斯的回信，让我深刻地认识到，即使是身处娱乐圈，也能保持一颗谦逊、善良的心。",
+      "level": 2
+    },
+    {
+      "id": "6.1",
+      "text": "他的言行举止，都透露出他对生活的热爱和对人的尊重。",
+      "level": 3
+    },
+    {
+      "id": "6.2",
+      "text": "这封信也让我明白了，成功的背后，离不开坚持和努力。",
+      "level": 3
+    },
+    {
+      "id": "6.3",
+      "text": "他并没有因为自己的名气而骄傲自满，而是始终保持着一颗学习的心，不断提升自己。",
+      "level": 3
+    },
+    {
+      "id": "7",
+      "text": "奇洛·李维斯的回信，让我倍感鼓舞。",
+      "level": 2
+    },
+    {
+      "id": "7.1",
+      "text": "他不仅在事业上取得了巨大的成功，更在生活中保持着一颗善良、感恩的心。",
+      "level": 3
+    },
+    {
+      "id": "7.2",
+      "text": "他的经历告诉我，只要我们坚持自己的梦想，努力去追求，就一定能实现。",
+      "level": 3
+    },
+    {
+      "id": "7.3",
+      "text": "这让我更加坚定了自己的人生目标，也更加努力地去实现它们。",
+      "level": 3
+    },
+    {
+      "id": "8",
+      "text": "奇洛·李维斯的回信，让我深刻地认识到，做一个有良知、有担当的人，是多么重要。",
+      "level": 2
+    },
+    {
+      "id": "8.1",
+      "text": "他的言行举止，都透露出他对社会的责任感和对弱者的关怀。",
+      "level": 3
+    },
+    {
+      "id": "8.2",
+      "text": "这封信也让我明白了，真正的成功，不仅仅是事业上的成就，更是对社会和他人的贡献。",
+      "level": 3
+    },
+    {
+      "id": "8.3",
+      "text": "他用自己的行动，诠释了什么是“善良”。",
+      "level": 3
+    },
+    {
+      "id": "9",
+      "text": "奇洛·李维斯的回信，让我看到了一个真正的榜样。",
+      "level": 2
+    },
+    {
+      "id": "9.1",
+      "text": "他不仅在事业上取得了巨大的成功，更在生活中保持着一颗善良、感恩的心。",
+      "level": 3
+    },
+    {
+      "id": "9.2",
+      "text": "他的经历告诉我，只要我们坚持自己的梦想，努力去追求，就一定能实现。",
+      "level": 3
+    },
+    {
+      "id": "9.3",
+      "text": "这让我更加坚定了自己的人生目标，也更加努力地去实现它们。",
+      "level": 3
+    },
+    {
+      "id": "10",
+      "text": "奇洛·李维斯的回信，给了我巨大的力量。",
+      "level": 2
+    },
+    {
+      "id": "10.1",
+      "text": "他不仅是一位优秀的演员，更是一位值得尊敬的榜样。",
+      "level": 3
+    },
+    {
+      "id": "10.2",
+      "text": "他的经历告诉我，只要我们坚持自己的梦想，努力去追求，就一定能实现。",
+      "level": 3
+    },
+    {
+      "id": "10.3",
+      "text": "这让我更加坚定了自己的人生目标，也更加努力地去实现它们。",
+      "level": 3
+    },
+    {
+      "id": "11",
+      "text": "奇洛·李维斯的回信，让我深刻地认识到，做一个有良知、有担当的人，是多么重要。",
+      "level": 2
+    },
+    {
+      "id": "11.1",
+      "text": "他的言行举止，都透露出他对社会的责任感和对弱者的关怀。",
+      "level": 3
+    },
+    {
+      "id": "11.2",
+      "text": "这封信也让我明白了，真正的成功，不仅仅是事业上的成就，更是对社会和他人的贡献。",
+      "level": 3
+    },
+    {
+      "id": "11.3",
+      "text": "他用自己的行动，诠释了什么是“善良”。",
+      "level": 3
+    },
+    {
+      "id": "12",
+      "text": "奇洛·李维斯的回信，让我看到了一个真正的榜样。",
+      "level": 2
+    },
+    {
+      "id": "12.1",
+      "text": "他不仅在事业上取得了巨大的成功，更在生活中保持着一颗善良、感恩的心。",
+      "level": 3
+    },
+    {
+      "id": "12.2",
+      "text": "他的经历告诉我，只要我们坚持自己的梦想，努力去追求，就一定能实现。",
+      "level": 3
+    },
+    {
+      "id": "12.3",
+      "text": "这让我更加坚定了自己的人生目标，也更加努力地去实现它们。",
+      "level": 3
+    },
+    {
+      "id": "13",
+      "text": "奇洛·李维斯的回信，给了我巨大的力量。",
+      "level": 2
+    },
+    {
+      "id": "13.1",
+      "text": "他不仅是一位优秀的演员，更是一位值得尊敬的榜样。",
+      "level": 3
+    },
+    {
+      "id": "13.2",
+      "text": "他的经历告诉我，只要我们坚持自己的梦想，努力去追求，就一定能实现。",
+      "level": 3
+    },
+    {
+      "id": "13.3",
+      "text": "这让我更加坚定了自己的人生目标，也更加努力地去实现它们。",
+      "level": 3
+    },
+    {
+      "id": "14",
+      "text": "奇洛·李维斯的回信，让我深刻地认识到，做一个有良知、有担当的人，是多么重要。",
+      "level": 2
+    },
+    {
+      "id": "14.1",
+      "text": "他的言行举止，都透露出他对社会的责任感和对弱者的关怀。",
+      "level": 3
+    },
+    {
+      "id": "14.2",
+      "text": "这封信也让我明白了，真正的成功，不仅仅是事业上的成就，更是对社会和他人的贡献。",
+      "level": 3
+    },
+    {
+      "id": "14.3",
+      "text": "他用自己的行动，诠释了什么是“善良”。",
+      "level": 3
+    },
+    {
+      "id": "15",
+      "text": "奇洛·李维斯的回信，让我看到了一个真正的榜样。",
+      "level": 2
+    },
+    {
+      "id": "15.1",
+      "text": "他不仅在事业上取得了巨大的成功，更在生活中保持着一颗善良、感恩的心。",
+      "level": 3
+    },
+    {
+      "id": "15.2",
+      "text": "他的经历告诉我，只要我们坚持自己的梦想，努力去追求，就一定能实现。",
+      "level": 3
+    },
+    {
+      "id": "15.3",
+      "text": "这让我更加坚定了自己的人生目标，也更加努力地去实现它们。",
+      "level": 3
+    },
+    {
+      "id": "16",
+      "text": "奇洛·李维斯的回信，给了我巨大的力量。",
+      "level": 2
+    },
+    {
+      "id": "16.1",
+      "text": "他不仅是一位优秀的演员，更是一位值得尊敬的榜样。",
+      "level": 3
+    },
+    {
+      "id": "16.2",
+      "text": "他的经历告诉我，只要我们坚持自己的梦想，努力去追求，就一定能实现。",
+      "level": 3
+    },
+    {
+      "id": "16.3",
+      "text": "这让我更加坚定了自己的人生目标，也更加努力地去实现它们。",
+      "level": 3
+    },
+    {
+      "id": "17",
+      "text": "奇洛·李维斯的回信，让我深刻地认识到，做一个有良知、有担当的人，是多么重要。",
+      "level": 2
+    },
+    {
+      "id": "17.1",
+      "text": "他的言行举止，都透露出他对社会的责任感和对弱者的关怀。",
+      "level": 3
+    },
+    {
+      "id": "17.2",
+      "text": "这封信也让我明白了，真正的成功，不仅仅是事业上的成就，更是对社会和他人的贡献。",
+      "level": 3
+    },
+    {
+      "id": "17.3",
+      "text": "他用自己的行动，诠释了什么是“善良”。",
+      "level": 3
+    },
+    {
+      "id": "18",
+      "text": "奇洛·李维斯的回信，让我看到了一个真正的榜样。",
+      "level": 2
+    },
+    {
+      "id": "18.1",
+      "text": "他不仅在事业上取得了巨大的成功，更在生活中保持着一颗善良、感恩的心。",
+      "level": 3
+    },
+    {
+      "id": "18.2",
+      "text": "他的经历告诉我，只要我们坚持自己的梦想，努力去追求，就一定能实现。",
+      "level": 3
+    },
+    {
+      "id": "18.3",
+      "text": "这让我更加坚定了自己的人生目标，也更加努力地去实现它们。",
+      "level": 3
+    },
+    {
+      "id": "19",
+      "text": "奇洛·李维斯的回信，给了我巨大的力量。",
+      "level": 2
+    },
+    {
+      "id": "19.1",
+      "text": "他不仅是一位优秀的演员，更是一位值得尊敬的榜样。",
+      "level": 3
+    },
+    {
+      "id": "19.2",
+      "text": "他的经历告诉我，只要我们坚持自己的梦想，努力去追求，就一定能实现。",
+      "level": 3
+    },
+    {
+      "id": "19.3",
+      "text": "这让我更加坚定了自己的人生目标，也更加努力地去实现它们。",
+      "level": 3
+    },
+    {
+      "id": "20",
+      "text": "奇洛·李维斯的回信，让我深刻地认识到，做一个有良知、有担当的人，是多么重要。",
+      "level": 2
+    },
+    {
+      "id": "20.1",
+      "text": "他的言行举止，都透露出他对社会的责任感和对弱者的关怀。",
+      "level": 3
+    },
+    {
+      "id": "20.2",
+      "text": "这封信也让我明白了，真正的成功，不仅仅是事业上的成就，更是对社会和他人的贡献。",
+      "level": 3
+    },
+    {
+      "id": "20.3",
+      "text": "他用自己的行动，诠释了什么是“善良”。",
+      "level": 3
+    },
+    {
+      "id": "21",
+      "text": "奇洛·李维斯的回信，让我看到了一个真正的榜样。",
+      "level": 2
+    },
+    {
+      "id": "21.1",
+      "text": "他不仅在事业上取得了巨大的成功，更在生活中保持着一颗善良、感恩的心。",
+      "level": 3
+    },
+    {
+      "id": "21.2",
+      "text": "他的经历告诉我，只要我们坚持自己的梦想，努力去追求，就一定能实现。",
+      "level": 3
+    },
+    {
+      "id": "21.3",
+      "text": "这让我更加坚定了自己的人生目标，也更加努力地去实现它们。",
+      "level": 3
+    },
+    {
+      "id": "22",
+      "text": "奇洛·李维斯的回信，给了我巨大的力量。",
+      "level": 2
+    },
+    {
+      "id": "22.1",
+      "text": "他不仅是一位优秀的演员，更是一位值得尊敬的榜样。",
+      "level": 3
+    },
+    {
+      "id": "22.2",
+      "text": "他的经历告诉我，只要我们坚持自己的梦想，努力去追求，就一定能实现。",
+      "level": 3
+    },
+    {
+      "id": "22.3",
+      "text": "这让我更加坚定了自己的人生目标，也更加努力地去实现它们。",
+      "level": 3
+    },
+    {
+      "id": "23",
+      "text": "奇洛·李维斯的回信，让我深刻地认识到，做一个有良知、有担当的人，是多么重要。",
+      "level": 2
+    },
+    {
+      "id": "23.1",
+      "text": "他的言行举止，都透露出他对社会的责任感和对弱者的关怀。",
+      "level": 3
+    },
+    {
+      "id": "23.2",
+      "text": "这封信也让我明白了，真正的成功，不仅仅是事业上的成就，更是对社会和他人的贡献。",
+      "level": 3
+    },
+    {
+      "id": "23.3",
+      "text": "他用自己的行动，诠释了什么是“善良”。",
+      "level": 3
+    },
+    {
+      "id": "24",
+      "text": "奇洛·李维斯的回信，让我看到了一个真正的榜样。",
+      "level": 2
+    },
+    {
+      "id": "24.1",
+      "text": "他不仅在事业上取得了巨大的成功，更在生活中保持着一颗善良、感恩的心。",
+      "level": 3
+    },
+    {
+      "id": "24.2",
+      "text": "他的经历告诉我，只要我们坚持自己的梦想，努力去追求，就一定能实现。",
+      "level": 3
+    },
+    {
+      "id": "24.3",
+      "text": "这让我更加坚定了自己的人生目标，也更加努力地去实现它们。",
+      "level": 3
+    },
+    {
+      "id": "25",
+      "text": "奇洛·李维斯的回信，给了我巨大的力量。",
+      "level": 2
+    },
+    {
+      "id": "25.1",
+      "text": "他不仅是一位优秀的演员，更是一位值得尊敬的榜样。",
+      "level": 3
+    },
+    {
+      "id": "25.2",
+      "text": "他的经历告诉我，只要我们坚持自己的梦想，努力去追求，就一定能实现。",
+      "level": 3
+    },
+    {
+      "id": "25.3",
+      "text": "这让我更加坚定了自己的人生目标，也更加努力地去实现它们。",
+      "level": 3
+    },
+    {
+      "id": "26",
+      "text": "奇洛·李维斯的回信，让我深刻地认识到，做一个有良知、有担当的人，是多么重要。",
+      "level": 2
+    },
+    {
+      "id": "26.1",
+      "text": "他的言行举止，都透露出他对社会的责任感和对弱者的关怀。",
+      "level": 3
+    },
+    {
+      "id": "26.2",
+      "text": "这封信也让我明白了，真正的成功，不仅仅是事业上的成就，更是对社会和他人的贡献。",
+      "level": 3
+    },
+    {
+      "id": "26.3",
+      "text": "他用自己的行动，诠释了什么是“善良”。",
+      "level": 3
+    },
+    {
+      "id": "27",
+      "text": "奇洛·李维斯的回信，让我看到了一个真正的榜样。",
+      "level": 2
+    },
+    {
+      "id": "27.1",
+      "text": "他不仅在事业上取得了巨大的成功，更在生活中保持着一颗善良、感恩的心。",
+      "level": 3
+    },
+    {
+      "id": "27.2",
+      "text": "他的经历告诉我，只要我们坚持自己的梦想，努力去追求，就一定能实现。",
+      "level": 3
+    },
+    {
+      "id": "27.3",
+      "text": "这让我更加坚定了自己的人生目标，也更加努力地去实现它们。",
+      "level": 3
+    },
+    {
+      "id": "28",
+      "text": "奇洛·李维斯的回信，给了我巨大的力量。",
+      "level": 2
+    },
+    {
+      "id": "28.1",
+      "text": "他不仅是一位优秀的演员，更是一位值得尊敬的榜样。",
+      "level": 3
+    },
+    {
+      "id": "28.2",
+      "text": "他的经历告诉我，只要我们坚持自己的梦想，努力去追求，就一定能实现。",
+      "level": 3
+    },
+    {
+      "id": "28.3",
+      "text": "这让我更加坚定了自己的人生目标，也更加努力地去实现它们。",
+      "level": 3
+    },
+    {
+      "id": "29",
+      "text": "奇洛·李维斯的回信，让我深刻地认识到，做一个有良知、有担当的人，是多么重要。",
+      "level": 2
+    },
+    {
+      "id": "29.1",
+      "text": "他的言行举止，都透露出他对社会的责任感和对弱者的关怀。",
+      "level": 3
+    },
+    {
+      "id": "29.2",
+      "text": "这封信也让我明白了，真正的成功，不仅仅是事业上的成就，更是对社会和他人的贡献。",
+      "level": 3
+    },
+    {
+      "id": "29.3",
+      "text": "他用自己的行动，诠释了什么是“善良”。",
+      "level": 3
+    },
+    {
+      "id": "30",
+      "text": "奇洛·李维斯的回信，让我看到了一个真正的榜样。",
+      "level": 2
+    },
+    {
+      "id": "30.1",
+      "text": "他不仅在事业上取得了巨大的成功，更在生活中保持着一颗善良、感恩的心。",
+      "level": 3
+    },
+    {
+      "id": "30.2",
+      "text": "他的经历告诉我，只要我们坚持自己的梦想，努力去追求，就一定能实现。",
+      "level": 3
+    },
+    {
+      "id": "30.3",
+      "text": "这让我更加坚定了自己的人生目标，也更加努力地去实现它们。",
+      "level": 3
+    },
+    {
+      "id": "31",
+      "text": "奇洛·李维斯的回信，给了我巨大的力量。",
+      "level": 2
+    },
+    {
+      "id": "31.1",
+      "text": "他不仅是一位优秀的演员，更是一位值得尊敬的榜样。",
+      "level": 3
+    },
+    {
+      "id": "31.2",
+      "text": "他的经历告诉我，只要我们坚持自己的梦想，努力去追求，就一定能实现。",
+      "level": 3
+    },
+    {
+      "id": "31.3",
+      "text": "这让我更加坚定了自己的人生目标，也更加努力地去实现它们。",
+      "level": 3
+    },
+    {
+      "id": "32",
+      "text": "奇洛·李维斯的回信，让我深刻地认识到，做一个有良知、有担当的人，是多么重要。",
+      "level": 2
+    },
+    {
+      "id": "32.1",
+      "text": "他的言行举止，都透露出他对社会的责任感和对弱者的关怀。",
+      "level": 3
+    },
+    {
+      "id": "32.2",
+      "text": "这封信也让我明白了，真正的成功，不仅仅是事业上的成就，更是对社会和他人的贡献。",
+      "level": 3
+    },
+    {
+      "id": "32.3",
+      "text": "他用自己的行动，诠释了什么是“善良”。",
+      "level": 3
+    },
+    {
+      "id": "33",
+      "text": "奇洛·李维斯的回信，让我看到了一个真正的榜样。",
+      "level": 2
+    },
+    {
+      "id": "33.1",
+      "text": "他不仅在事业上取得了巨大的成功，更在生活中保持着一颗善良、感恩的心。",
+      "level": 3
+    },
+    {
+      "id": "33.2",
+      "text": "他的经历告诉我，只要我们坚持自己的梦想，努力去追求，就一定能实现。",
+      "level": 3
+    },
+    {
+      "id": "33.3",
+      "text": "这让我更加坚定了自己的人生目标，也更加努力地去实现它们。",
+      "level": 3
+    },
+    {
+      "id": "34",
+      "text": "奇洛·李维斯的回信，给了我巨大的力量。",
+      "level": 2
+    },
+    {
+      "id": "34.1",
+      "text": "他不仅是一位优秀的演员，更是一位值得尊敬的榜样。",
+      "level": 3
+    },
+    {
+      "id": "34.2",
+      "text": "他的经历告诉我，只要我们坚持自己的梦想，努力去追求，就一定能实现。",
+      "level": 3
+    },
+    {
+      "id": "34.3",
+      "text": "这让我更加坚定了自己的人生目标，也更加努力地去实现它们。",
+      "level": 3
+    },
+    {
+      "id": "35",
+      "text": "奇洛·李维斯的回信，让我深刻地认识到，做一个有良知、有担当的人，是多么重要。",
+      "level": 2
+    },
+    {
+      "id": "35.1",
+      "text": "他的言行举止，都透露出他对社会的责任感和对弱者的关怀。",
+      "level": 3
+    },
+    {
+      "id": "35.2",
+      "text": "这封信也让我明白了，真正的成功，不仅仅是事业上的成就，更是对社会和他人的贡献。",
+      "level": 3
+    },
+    {
+      "id": "35.3",
+      "text": "他用自己的行动，诠释了什么是“善良”。",
+      "level": 3
+    },
+    {
+      "id": "36",
+      "text": "鸣谢",
+      "level": 1
+    },
+    {
+      "id": "36.1",
+      "text": "感谢奇洛·李维斯，感谢所有支持我的朋友们。",
+      "level": 2
+    },
+    {
+      "id": "37",
+      "text": "联系方式",
+      "level": 1
+    },
+    {
+      "id": "37.1",
+      "text": "QQ: 541022395",
+      "level": 2
+    },
+    {
+      "id": "37.2",
+      "text": "微信: xiaoxueys66",
+      "level": 2
+    },
+    {
+      "id": "37.3",
+      "text": "邮箱: [邮箱地址]",
+      "level": 2
+    },
+    {
+      "id": "37.4",
+      "text": "网站: [网站地址]",
+      "level": 2
+    }
+  ],
+  "concepts": [
+    {
+      "name": "奇洛·李维斯",
+      "frequency": 36,
+      "context": "Subject of the letter and the author's admiration."
+    },
+    {
+      "name": "回信",
+      "frequency": 36,
+      "context": "The central artifact and topic of the document."
+    },
+    {
+      "name": "梦想",
+      "frequency": 16,
+      "context": "A recurring theme, presented as something to be pursued and achieved."
+    },
+    {
+      "name": "坚持",
+      "frequency": 15,
+      "context": "Essential for achieving dreams and success."
+    },
+    {
+      "name": "善良",
+      "frequency": 9,
+      "context": "A key character trait of Keanu Reeves and a desirable quality."
+    },
+    {
+      "name": "榜样",
+      "frequency": 9,
+      "context": "Keanu Reeves is presented as a role model."
+    },
+    {
+      "name": "成功",
+      "frequency": 7,
+      "context": "Defined not just by career, but by contribution and character."
+    },
+    {
+      "name": "鼓励",
+      "frequency": 6,
+      "context": "What the letter provides to the author."
+    },
+    {
+      "name": "力量",
+      "frequency": 6,
+      "context": "What the letter provides to the author."
+    },
+    {
+      "name": "启示",
+      "frequency": 6,
+      "context": "What the letter provides to the author."
+    },
+    {
+      "name": "教诲",
+      "frequency": 6,
+      "context": "What the letter provides to the author."
+    },
+    {
+      "name": "才华",
+      "frequency": 1,
+      "context": "Admired quality of Keanu Reeves."
+    },
+    {
+      "name": "人品",
+      "frequency": 1,
+      "context": "Admired quality of Keanu Reeves."
+    },
+    {
+      "name": "谦逊",
+      "frequency": 1,
+      "context": "Admired quality of Keanu Reeves."
+    },
+    {
+      "name": "爱心",
+      "frequency": 1,
+      "context": "Admired quality of Keanu Reeves."
+    },
+    {
+      "name": "演员",
+      "frequency": 4,
+      "context": "Keanu Reeves' profession."
+    },
+    {
+      "name": "生活",
+      "frequency": 4,
+      "context": "Mentioned in relation to Keanu Reeves' work and personal life."
+    },
+    {
+      "name": "工作",
+      "frequency": 2,
+      "context": "Mentioned in relation to Keanu Reeves' current activities."
+    },
+    {
+      "name": "感恩",
+      "frequency": 6,
+      "context": "A quality Keanu Reeves embodies."
+    },
+    {
+      "name": "良知",
+      "frequency": 6,
+      "context": "A quality Keanu Reeves embodies."
+    },
+    {
+      "name": "担当",
+      "frequency": 6,
+      "context": "A quality Keanu Reeves embodies."
+    },
+    {
+      "name": "责任感",
+      "frequency": 3,
+      "context": "Keanu Reeves' sense of social responsibility."
+    },
+    {
+      "name": "关怀",
+      "frequency": 3,
+      "context": "Keanu Reeves' concern for the weak."
+    },
+    {
+      "name": "书",
+      "frequency": 2,
+      "context": "The item sent by the author to Keanu Reeves."
+    },
+    {
+      "name": "观点",
+      "frequency": 1,
+      "context": "Shared by the author in their letter."
+    },
+    {
+      "name": "思考",
+      "frequency": 1,
+      "context": "Prompted by Keanu Reeves' letter."
+    },
+    {
+      "name": "梦想",
+      "frequency": 1,
+      "context": "What the author is encouraged to pursue."
+    },
+    {
+      "name": "信念",
+      "frequency": 1,
+      "context": "What the author is encouraged to hold onto."
+    },
+    {
+      "name": "朋友",
+      "frequency": 1,
+      "context": "Acknowledged in the thank you section."
+    }
+  ],
+  "relations": [
+    {
+      "source": "奇洛·李维斯",
+      "target": "回信",
+      "type": "writes"
+    },
+    {
+      "source": "作者",
+      "target": "奇洛·李维斯",
+      "type": "admires"
+    },
+    {
+      "source": "回信",
+      "target": "梦想",
+      "type": "inspires pursuit of"
+    },
+    {
+      "source": "回信",
+      "target": "坚持",
+      "type": "emphasizes importance of"
+    },
+    {
+      "source": "回信",
+      "target": "善良",
+      "type": "demonstrates"
+    },
+    {
+      "source": "奇洛·李维斯",
+      "target": "榜样",
+      "type": "is_a"
+    },
+    {
+      "source": "奇洛·李维斯",
+      "target": "成功",
+      "type": "achieves"
+    },
+    {
+      "source": "回信",
+      "target": "鼓励",
+      "type": "provides"
+    },
+    {
+      "source": "回信",
+      "target": "力量",
+      "type": "provides"
+    },
+    {
+      "source": "回信",
+      "target": "启示",
+      "type": "provides"
+    },
+    {
+      "source": "回信",
+      "target": "教诲",
+      "type": "provides"
+    },
+    {
+      "source": "奇洛·李维斯",
+      "target": "才华",
+      "type": "possesses"
+    },
+    {
+      "source": "奇洛·李维斯",
+      "target": "人品",
+      "type": "possesses"
+    },
+    {
+      "source": "奇洛·李维斯",
+      "target": "谦逊",
+      "type": "possesses"
+    },
+    {
+      "source": "奇洛·李维斯",
+      "target": "爱心",
+      "type": "possesses"
+    },
+    {
+      "source": "奇洛·李维斯",
+      "target": "演员",
+      "type": "is_a"
+    },
+    {
+      "source": "奇洛·李维斯",
+      "target": "生活",
+      "type": "integrates with work"
+    },
+    {
+      "source": "奇洛·李维斯",
+      "target": "工作",
+      "type": "engages in"
+    },
+    {
+      "source": "奇洛·李维斯",
+      "target": "感恩",
+      "type": "demonstrates"
+    },
+    {
+      "source": "奇洛·李维斯",
+      "target": "良知",
+      "type": "possesses"
+    },
+    {
+      "source": "奇洛·李维斯",
+      "target": "担当",
+      "type": "possesses"
+    },
+    {
+      "source": "奇洛·李维斯",
+      "target": "责任感",
+      "type": "possesses"
+    },
+    {
+      "source": "奇洛·李维斯",
+      "target": "关怀",
+      "type": "shows towards weak"
+    },
+    {
+      "source": "作者",
+      "target": "书",
+      "type": "sends"
+    },
+    {
+      "source": "回信",
+      "target": "观点",
+      "type": "contains"
+    },
+    {
+      "source": "回信",
+      "target": "思考",
+      "type": "prompts"
+    },
+    {
+      "source": "作者",
+      "target": "梦想",
+      "type": "pursues"
+    },
+    {
+      "source": "作者",
+      "target": "信念",
+      "type": "holds"
+    },
+    {
+      "source": "作者",
+      "target": "朋友",
+      "type": "is supported by"
+    }
+  ],
+  "hierarchy": {
+    "main_topics": [
+      "The Author's Experience of Receiving the Letter",
+      "Content of Keanu Reeves' Letter",
+      "Significance and Impact of the Letter on the Author",
+      "Keanu Reeves' Qualities and Role Model Status",
+      "Inspirations and Lessons Learned",
+      "Acknowledgements and Contact Information"
+    ],
+    "structure": "The document is structured as a narrative account of receiving a letter, followed by the letter's content, and then an extended reflection on its impact and the qualities of the sender. The latter part is highly repetitive, with many sections reiterating similar themes of inspiration, encouragement, and learning."
+  }
+}

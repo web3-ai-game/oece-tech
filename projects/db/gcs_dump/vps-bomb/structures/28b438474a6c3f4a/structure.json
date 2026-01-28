@@ -1,0 +1,346 @@
+{
+  "propositions": [
+    {
+      "id": "1",
+      "text": "A news report details the discovery of a tomb in Fujian Province, China, containing the remains of Sun Wukong and his brother.",
+      "level": 1
+    },
+    {
+      "id": "1.1",
+      "text": "The tomb is located in the Shuangsheng Temple on Baoshan Mountain.",
+      "level": 2
+    },
+    {
+      "id": "1.2",
+      "text": "The tombstone inscriptions mention \"Qi Tian Da Sheng\" (Great Sage Equal to Heaven), referring to Sun Wukong, and \"Tong Tian Da Sheng\" (Great Sage Who Reaches Heaven).",
+      "level": 2
+    },
+    {
+      "id": "1.3",
+      "text": "Tong Tian Da Sheng is not mentioned in the classic novel \"Journey to the West\" by Wu Cheng'en.",
+      "level": 2
+    },
+    {
+      "id": "2",
+      "text": "British researchers are traveling to Dunhuang to investigate the 'Three Rabbits' symbol found across various ancient cultures.",
+      "level": 1
+    },
+    {
+      "id": "2.1",
+      "text": "The 'Three Rabbits' symbol, where three rabbits' ears are connected, appears in medieval English churches, Mongolian metalware, and ancient Chinese Sui Dynasty temples.",
+      "level": 2
+    },
+    {
+      "id": "2.2",
+      "text": "Scholars are puzzled by the adoption of this symbol by Buddhism, Christianity, and Islam across distant times and locations.",
+      "level": 2
+    },
+    {
+      "id": "2.3",
+      "text": "The research team plans to study murals in Dunhuang, a former important starting point of the Silk Road.",
+      "level": 2
+    },
+    {
+      "id": "2.4",
+      "text": "The researchers believe the origin of the symbol lies in the transmission of religions and ideas along the Silk Road.",
+      "level": 2
+    },
+    {
+      "id": "2.5",
+      "text": "The goal is to understand commonalities across different cultures and religions.",
+      "level": 2
+    },
+    {
+      "id": "3",
+      "text": "The narrator, a journalist, recounts a trip to Fujian with a tour group.",
+      "level": 1
+    },
+    {
+      "id": "3.1",
+      "text": "The narrator is given the nickname 'Wukong' by the tour guide.",
+      "level": 2
+    },
+    {
+      "id": "3.2",
+      "text": "Other tour members are also given mythological nicknames.",
+      "level": 2
+    },
+    {
+      "id": "3.3",
+      "text": "The tour visits Shunchang County, the supposed hometown of Sun Wukong.",
+      "level": 2
+    },
+    {
+      "id": "3.4",
+      "text": "The group visits Gaozhuang (Pigsy's village) and Bimawen (Horse Stable) sites.",
+      "level": 2
+    },
+    {
+      "id": "3.5",
+      "text": "The narrator discusses the discovery of the Sun Wukong tomb with another tourist named 'Liu Er' (Six-eared).\n",
+      "level": 2
+    },
+    {
+      "id": "3.6",
+      "text": "The narrator suspects the tomb discovery news might be a tourism promotion.",
+      "level": 2
+    },
+    {
+      "id": "4",
+      "text": "The group visits the Shuangsheng Temple on Baoshan Mountain to see the Sun Wukong and Tong Tian Wukong tombs.",
+      "level": 1
+    },
+    {
+      "id": "4.1",
+      "text": "Access to the Shuangsheng Temple is temporarily blocked by local authorities, leading to a wait for tourists.",
+      "level": 2
+    },
+    {
+      "id": "4.2",
+      "text": "The narrator, posing as a journalist, gains early access to the temple.",
+      "level": 2
+    },
+    {
+      "id": "4.3",
+      "text": "Inside the temple, the narrator encounters two foreign experts examining the site.",
+      "level": 2
+    },
+    {
+      "id": "4.4",
+      "text": "The narrator recognizes the 'Three Rabbits' symbol on a stone in the temple, linking it to the news he read earlier.",
+      "level": 2
+    },
+    {
+      "id": "4.5",
+      "text": "The narrator realizes the foreign experts are the British researchers mentioned in the news.",
+      "level": 2
+    },
+    {
+      "id": "4.6",
+      "text": "The narrator observes that the 'Three Rabbits' symbol on the large stone is unusually smooth and appears to be carved with fingers, unlike the carvings on the steles.",
+      "level": 2
+    },
+    {
+      "id": "4.7",
+      "text": "The tour guide, 'Tang Seng,' explains the legend of the 'Qi Tian Da Sheng' and 'Tong Tian Da Sheng' and the 'immortal stone' with the 'Three Rabbits' carving.",
+      "level": 2
+    },
+    {
+      "id": "4.8",
+      "text": "The tourists try to trace the carving with their fingers, finding it fits perfectly.",
+      "level": 2
+    },
+    {
+      "id": "5",
+      "text": "A new development occurs with a patient exhibiting a rare \"atavism\" or \"reversal to ancestral type\" phenomenon.",
+      "level": 1
+    },
+    {
+      "id": "5.1",
+      "text": "The patient, a man, has developed dense, fine hair all over his skin, growing at an alarming rate.",
+      "level": 2
+    },
+    {
+      "id": "5.2",
+      "text": "The condition is described as a sudden onset of atavism, with hair growth increasing significantly.",
+      "level": 2
+    },
+    {
+      "id": "5.3",
+      "text": "The patient is isolated in a hospital room due to his appearance.",
+      "level": 2
+    },
+    {
+      "id": "5.4",
+      "text": "Reporters, including the narrator's former intern Yuan Lie, are eager to cover this unusual story.",
+      "level": 2
+    },
+    {
+      "id": "5.5",
+      "text": "The patient becomes distressed and angry when questioned by the media.",
+      "level": 2
+    },
+    {
+      "id": "5.6",
+      "text": "The narrator reflects on the media's intrusive nature and its potential to exacerbate suffering.",
+      "level": 2
+    },
+    {
+      "id": "6",
+      "text": "The narrator's former travel companion, Liu Er, reappears and reveals he is the 'hairy man' exhibiting the atavism.",
+      "level": 1
+    },
+    {
+      "id": "6.1",
+      "text": "Liu Er visits the narrator late at night, in a state of distress and seeking help.",
+      "level": 2
+    },
+    {
+      "id": "6.2",
+      "text": "Liu Er explains the progression of his condition, from a persistent itch to widespread hair growth.",
+      "level": 2
+    },
+    {
+      "id": "6.3",
+      "text": "He recounts trying various treatments, including a misdiagnosed skin condition and a strong depilatory cream.",
+      "level": 2
+    },
+    {
+      "id": "6.4",
+      "text": "Liu Er expresses his desperation and hope that the narrator, with his connections to people with unusual abilities, can help him.",
+      "level": 2
+    },
+    {
+      "id": "6.5",
+      "text": "Liu Er shows the narrator his hands, where he has been shaving off the rapidly growing hair.",
+      "level": 2
+    },
+    {
+      "id": "6.6",
+      "text": "Liu Er's desire to travel abroad is threatened by his condition.",
+      "level": 2
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Sun Wukong",
+      "frequency": 10,
+      "context": "Mythological character, subject of a tomb discovery and a fictional nickname."
+    },
+    {
+      "name": "Tong Tian Da Sheng",
+      "frequency": 5,
+      "context": "Brother of Sun Wukong, mentioned in a tomb inscription, not in the classic novel."
+    },
+    {
+      "name": "Three Rabbits symbol",
+      "frequency": 7,
+      "context": "Ancient religious/cultural symbol found in various locations, investigated by British researchers and observed by the narrator in a temple."
+    },
+    {
+      "name": "Dunhuang",
+      "frequency": 3,
+      "context": "Location where researchers are investigating the 'Three Rabbits' symbol, historically significant for the Silk Road."
+    },
+    {
+      "name": "Silk Road",
+      "frequency": 2,
+      "context": "Historical trade route significant for the transmission of ideas and religions."
+    },
+    {
+      "name": "Shuangsheng Temple",
+      "frequency": 4,
+      "context": "Location of the Sun Wukong and Tong Tian Da Sheng tomb discovery."
+    },
+    {
+      "name": "Atavism",
+      "frequency": 6,
+      "context": "Medical condition described as a \"reversal to ancestral type,\" manifesting as excessive hair growth."
+    },
+    {
+      "name": "Journalist",
+      "frequency": 6,
+      "context": "The narrator's profession, influencing his actions and perspectives."
+    },
+    {
+      "name": "Tour group",
+      "frequency": 8,
+      "context": "The setting for part of the narrative, characterized by playful nicknames and sightseeing."
+    },
+    {
+      "name": "Liu Er",
+      "frequency": 15,
+      "context": "A character introduced as a fellow tourist with the nickname 'Six-eared,' later revealed to be the patient with atavism."
+    },
+    {
+      "name": "Hospital",
+      "frequency": 3,
+      "context": "Location where the patient with atavism is receiving observation and treatment."
+    },
+    {
+      "name": "Hair growth",
+      "frequency": 8,
+      "context": "The primary symptom of the atavism, a central focus of the medical narrative."
+    }
+  ],
+  "relations": [
+    {
+      "source": "Sun Wukong",
+      "target": "Qi Tian Da Sheng",
+      "type": "is_a"
+    },
+    {
+      "source": "Tong Tian Da Sheng",
+      "target": "Brother of Sun Wukong",
+      "type": "part_of"
+    },
+    {
+      "source": "Three Rabbits symbol",
+      "target": "Dunhuang",
+      "type": "found_in"
+    },
+    {
+      "source": "Three Rabbits symbol",
+      "target": "Shuangsheng Temple",
+      "type": "found_in"
+    },
+    {
+      "source": "Dunhuang",
+      "target": "Silk Road",
+      "type": "historical_connection"
+    },
+    {
+      "source": "Shuangsheng Temple",
+      "target": "Sun Wukong",
+      "type": "associated_with"
+    },
+    {
+      "source": "Atavism",
+      "target": "Excessive hair growth",
+      "type": "manifests_as"
+    },
+    {
+      "source": "Journalist",
+      "target": "Narrator",
+      "type": "is_a"
+    },
+    {
+      "source": "Tour group",
+      "target": "Liu Er",
+      "type": "member_of"
+    },
+    {
+      "source": "Liu Er",
+      "target": "Atavism patient",
+      "type": "is_a"
+    },
+    {
+      "source": "Liu Er",
+      "target": "Excessive hair growth",
+      "type": "suffers_from"
+    },
+    {
+      "source": "Hospital",
+      "target": "Atavism patient",
+      "type": "receives_treatment_at"
+    },
+    {
+      "source": "Narrator",
+      "target": "Liu Er",
+      "type": "knows"
+    },
+    {
+      "source": "Liu Er",
+      "target": "Narrator",
+      "type": "seeks_help_from"
+    }
+  ],
+  "hierarchy": {
+    "main_topics": [
+      "Mythological Discoveries and Symbolism",
+      "Travel and Personal Encounters",
+      "Medical Phenomenon and Media Coverage"
+    ],
+    "structure": "The document is structured into distinct sections, beginning with news reports about mythological discoveries, transitioning to a personal travelogue interwoven with these discoveries, and finally focusing on a contemporary medical case and its implications."
+  }
+}

@@ -1,0 +1,31 @@
+# System & Logs
+__pycache__/
+*.pyc
+*.log
+*.log.*
+.DS_Store
+
+# Caches & Raw Data (Don't commit large raw files)
+data/pdf-sample-cache/
+data/pipeline-cache/
+data/ancient-book-cache/
+data/baidu-cache/
+data/pdf-pipeline-cache/
+
+# Virtual Env
+.venv/
+venv/
+env/
+
+# Secrets
+.env
+valid_credentials.json
+
+# Large temp files
+*.tmp
+*.temp
+
+# Exclude large data files (use separate archive for VPS migration)
+data/markdown-output/
+data/wittgenstein-index/
+data/garbage/

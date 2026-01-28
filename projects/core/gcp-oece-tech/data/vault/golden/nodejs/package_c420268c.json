@@ -1,0 +1,70 @@
+{
+  "name": "geeksea",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "專業像素化 Web3 風格教程平台 - Cyber City",
+  "author": "GeekSEA Team",
+  "homepage": "https://geeksea.com",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/YOUR_USERNAME/geeksea.git"
+  },
+  "private": true,
+  "scripts": {
+    "dev": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview",
+    "sync": "astro sync",
+    "new:tutorial": "node scripts/new-tutorial.mjs",
+    "optimize:images": "node scripts/optimize-images.mjs",
+    "sync:drive": "node scripts/sync-from-drive.mjs",
+    "migrate": "node scripts/migrate-from-forum.mjs",
+    "lint:fix": "next lint --fix",
+    "format": "prettier --write .",
+    "type-check": "tsc --noEmit",
+    "fix-all": "npm run lint:fix && npm run format",
+    "db:init": "node scripts/init-db.js",
+    "db:seed": "node scripts/seed-db.js",
+    "db:migrate": "node scripts/migrate-db.js",
+    "create-admin": "ts-node scripts/create-admin.ts",
+    "deploy": "./deploy-quick.sh",
+    "version": "cat VERSION.md | head -5"
+  },
+  "dependencies": {
+    "@astrojs/mdx": "^4.3.7",
+    "@astrojs/sitemap": "^3.1.0",
+    "@astrojs/tailwind": "^5.1.0",
+    "@supabase/supabase-js": "^2.39.0",
+    "@types/node": "^20.11.5",
+    "@types/react": "^18.2.48",
+    "@types/react-dom": "^18.2.18",
+    "astro": "^5.14.8",
+    "autoprefixer": "^10.4.17",
+    "bcryptjs": "^2.4.3",
+    "better-sqlite3": "^9.3.0",
+    "clsx": "^2.1.0",
+    "lightningcss": "^1.30.2",
+    "pagefind": "^1.1.0",
+    "tailwindcss": "^3.4.0"
+  },
+  "devDependencies": {
+    "@types/bcryptjs": "^2.4.6",
+    "@types/better-sqlite3": "^7.6.8",
+    "@types/jsonwebtoken": "^9.0.5",
+    "@types/node": "^20.14.0",
+    "@types/react-syntax-highlighter": "^15.5.11",
+    "enquirer": "^2.4.1",
+    "eslint": "^8.56.0",
+    "eslint-config-next": "^14.1.0",
+    "eslint-config-prettier": "^9.0.0",
+    "glob": "^10.4.5",
+    "gray-matter": "^4.0.3",
+    "prettier": "^3.2.4",
+    "prettier-plugin-astro": "^0.14.0",
+    "sharp": "^0.33.0"
+  },
+  "engines": {
+    "node": ">=18.0.0",
+    "npm": ">=9.0.0"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "generatedAt": "2025-11-27T16:24:45.941Z",
+  "datasets": {
+    "gcp-text": [
+      {
+        "file": "gcp-text/20251127/chunk-0001-21428c10fc.ndjson",
+        "count": 117,
+        "collection": "vector-assets",
+        "dataset": "gcp-text",
+        "date": "20251127"
+      }
+    ],
+    "gcp-distill": [
+      {
+        "file": "gcp-distill/20251127/chunk-0001-1026f9ece6.ndjson",
+        "count": 120,
+        "collection": "distilled-memories",
+        "dataset": "gcp-distill",
+        "date": "20251127"
+      }
+    ],
+    "boom-text": [
+      {
+        "file": "boom-text/20251127/chunk-0001-8ae1253a36.ndjson",
+        "count": 371,
+        "collection": "boom-memories",
+        "dataset": "boom-text",
+        "date": "20251127"
+      }
+    ]
+  }
+}

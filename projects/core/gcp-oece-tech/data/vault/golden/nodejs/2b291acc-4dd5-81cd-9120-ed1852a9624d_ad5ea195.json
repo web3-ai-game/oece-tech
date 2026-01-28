@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "object": "page",
+    "id": "2b291acc-4dd5-81cd-9120-ed1852a9624d",
+    "created_time": "2025-11-21T16:08:00.000Z",
+    "last_edited_time": "2025-11-21T16:08:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "269d872b-594c-81d1-9fe1-00029c482d4b"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "269d872b-594c-81d1-9fe1-00029c482d4b"
+    },
+    "cover": null,
+    "icon": null,
+    "parent": {
+      "type": "database_id",
+      "database_id": "2b291acc-4dd5-8117-ba88-c9145b0025c8"
+    },
+    "archived": false,
+    "in_trash": false,
+    "is_locked": false,
+    "properties": {
+      "Amount": {
+        "id": "Md%5BK",
+        "type": "number",
+        "number": 450
+      },
+      "Income Item": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Side Gig",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Side Gig",
+            "href": null
+          }
+        ]
+      }
+    },
+    "url": "https://www.notion.so/Side-Gig-2b291acc4dd581cd9120ed1852a9624d",
+    "public_url": null,
+    "request_id": "eb23dc18-589a-41cf-97b5-aa7f367dc15c"
+  },
+  "blocks": [],
+  "fetched_at": "2025-11-26T13:32:13.246Z"
+}

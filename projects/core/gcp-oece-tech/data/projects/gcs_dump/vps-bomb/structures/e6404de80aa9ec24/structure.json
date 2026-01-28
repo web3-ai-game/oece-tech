@@ -1,0 +1,192 @@
+{
+  "propositions": [
+    {
+      "id": "1",
+      "text": "小说《第二个太阳》描述了中国解放战争时期的历史转折点。",
+      "level": 1
+    },
+    {
+      "id": "2",
+      "text": "秦震是一位在历史转折关头的军人。",
+      "level": 2
+    },
+    {
+      "id": "3",
+      "text": "周恩来传达了突破长江、解放中国的消息。",
+      "level": 2
+    },
+    {
+      "id": "4",
+      "text": "秦震收到周恩来关于营救黛娜的急报。",
+      "level": 3
+    },
+    {
+      "id": "5",
+      "text": "作者刘白羽的生平与作品被介绍。",
+      "level": 1
+    },
+    {
+      "id": "6",
+      "text": "小说包含序曲、二十章及尾声的目录结构。",
+      "level": 1
+    },
+    {
+      "id": "7",
+      "text": "秦震在暴风雨中回忆起过去参与的解放战争。",
+      "level": 3
+    },
+    {
+      "id": "8",
+      "text": "秦震在北京饭店参加了重要的集会。",
+      "level": 3
+    },
+    {
+      "id": "9",
+      "text": "秦震怀有对即将到来的决战的渴望。",
+      "level": 3
+    },
+    {
+      "id": "10",
+      "text": "秦震在离开北京前往前线时，感受到眷恋与惆怅。",
+      "level": 3
+    }
+  ],
+  "concepts": [
+    {
+      "name": "秦震",
+      "frequency": 30,
+      "context": "小说主要人物，军人"
+    },
+    {
+      "name": "周恩来",
+      "frequency": 7,
+      "context": "重要领导人，传达消息"
+    },
+    {
+      "name": "北京",
+      "frequency": 12,
+      "context": "故事发生的地点"
+    },
+    {
+      "name": "解放战争",
+      "frequency": 9,
+      "context": "历史背景"
+    },
+    {
+      "name": "急报",
+      "frequency": 2,
+      "context": "情节转折点"
+    },
+    {
+      "name": "集会",
+      "frequency": 4,
+      "context": "重要场景"
+    },
+    {
+      "name": "暴风雨",
+      "frequency": 4,
+      "context": "象征性场景"
+    },
+    {
+      "name": "长江",
+      "frequency": 3,
+      "context": "战略目标"
+    },
+    {
+      "name": "前线",
+      "frequency": 4,
+      "context": "秦震的目的地"
+    },
+    {
+      "name": "回忆",
+      "frequency": 3,
+      "context": "秦震的内心活动"
+    },
+    {
+      "name": "刘白羽",
+      "frequency": 1,
+      "context": "作者"
+    },
+    {
+      "name": "黛娜",
+      "frequency": 1,
+      "context": "营救对象"
+    },
+    {
+      "name": "北京饭店",
+      "frequency": 4,
+      "context": "重要地点"
+    },
+    {
+      "name": "空袭警报",
+      "frequency": 1,
+      "context": "象征性事件"
+    },
+    {
+      "name": "告别",
+      "frequency": 2,
+      "context": "情感表达"
+    }
+  ],
+  "relations": [
+    {
+      "source": "秦震",
+      "target": "周恩来",
+      "type": "receives_from"
+    },
+    {
+      "source": "秦震",
+      "target": "解放战争",
+      "type": "participates_in"
+    },
+    {
+      "source": "秦震",
+      "target": "北京",
+      "type": "located_in"
+    },
+    {
+      "source": "周恩来",
+      "target": "长江",
+      "type": "announces_crossing"
+    },
+    {
+      "source": "秦震",
+      "target": "急报",
+      "type": "receives"
+    },
+    {
+      "source": "秦震",
+      "target": "集会",
+      "type": "attends"
+    },
+    {
+      "source": "秦震",
+      "target": "暴风雨",
+      "type": "experiences"
+    },
+    {
+      "source": "秦震",
+      "target": "回忆",
+      "type": "engages_in"
+    },
+    {
+      "source": "秦震",
+      "target": "前线",
+      "type": "travels_to"
+    },
+    {
+      "source": "秦震",
+      "target": "告别",
+      "type": "experiences"
+    }
+  ],
+  "hierarchy": {
+    "main_topics": [
+      "小说《第二个太阳》",
+      "刘白羽",
+      "秦震",
+      "解放战争"
+    ],
+    "structure": "文档包含作者简介、目录、序曲及第一章内容。章节内容聚焦于人物秦震在历史转折点的心路历程与行动，并穿插历史背景的回顾。"
+  }
+}

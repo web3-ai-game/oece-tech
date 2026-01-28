@@ -1,0 +1,388 @@
+{
+  "propositions": [
+    {
+      "id": "1",
+      "text": "Penny, from Team Building Company, has a smile that is adored.",
+      "level": 1
+    },
+    {
+      "id": "1.1",
+      "text": "Her smile is described as the sunshine of a 20-year-old girl, enthusiastic, like a summer afternoon.",
+      "level": 2
+    },
+    {
+      "id": "2",
+      "text": "This was the first meeting between the narrator and Penny.",
+      "level": 1
+    },
+    {
+      "id": "2.1",
+      "text": "Penny gave the narrator a feeling of familiarity, as if they had known each other for a long time.",
+      "level": 2
+    },
+    {
+      "id": "3",
+      "text": "Penny introduced herself and extended her hand.",
+      "level": 1
+    },
+    {
+      "id": "4",
+      "text": "The narrator introduced themselves in return.",
+      "level": 1
+    },
+    {
+      "id": "5",
+      "text": "Penny noted their shared age of 28 and the potential for fate.",
+      "level": 1
+    },
+    {
+      "id": "6",
+      "text": "Penny asked the narrator about their preferred type of girl.",
+      "level": 1
+    },
+    {
+      "id": "6.1",
+      "text": "The narrator prefers girls who are kind, cheerful, have their own ideas, and can share life's moments.",
+      "level": 2
+    },
+    {
+      "id": "7",
+      "text": "Penny asked for the narrator's opinion of her.",
+      "level": 1
+    },
+    {
+      "id": "7.1",
+      "text": "The narrator genuinely responded that she is very good.",
+      "level": 2
+    },
+    {
+      "id": "8",
+      "text": "Penny suggested meeting more often in the future.",
+      "level": 1
+    },
+    {
+      "id": "8.1",
+      "text": "She had a bright smile when making the suggestion.",
+      "level": 2
+    },
+    {
+      "id": "9",
+      "text": "The narrator agreed to future meetings.",
+      "level": 1
+    },
+    {
+      "id": "10",
+      "text": "Penny gave the narrator a comfortable feeling, like knowing someone for many years.",
+      "level": 1
+    },
+    {
+      "id": "11",
+      "text": "Further details about Penny are provided.",
+      "level": 1
+    },
+    {
+      "id": "11.1",
+      "text": "Penny's age is 28.",
+      "level": 2
+    },
+    {
+      "id": "11.2",
+      "text": "Penny works for a Team Building Company.",
+      "level": 2
+    },
+    {
+      "id": "11.3",
+      "text": "Penny's personality traits include: kind, cheerful, has ideas, sunny, enthusiastic, mischievous, and expectant.",
+      "level": 2
+    },
+    {
+      "id": "12",
+      "text": "The narrator's feelings about the first meeting are summarized.",
+      "level": 1
+    },
+    {
+      "id": "12.1",
+      "text": "Penny evoked a familiar and comfortable feeling, akin to a long-time friend.",
+      "level": 2
+    },
+    {
+      "id": "12.2",
+      "text": "Her smile was infectious and comparable to summer afternoon sunshine, bringing joy.",
+      "level": 2
+    },
+    {
+      "id": "13",
+      "text": "Expectations for future interactions are stated.",
+      "level": 1
+    },
+    {
+      "id": "13.1",
+      "text": "Penny initiated the suggestion for the next meeting.",
+      "level": 2
+    },
+    {
+      "id": "13.2",
+      "text": "The narrator readily agreed, anticipating more contact and understanding.",
+      "level": 2
+    },
+    {
+      "id": "14",
+      "text": "The narrator's view on love and relationships is articulated.",
+      "level": 1
+    },
+    {
+      "id": "14.1",
+      "text": "The narrator admires girls who are kind, cheerful, and have their own ideas.",
+      "level": 2
+    },
+    {
+      "id": "14.2",
+      "text": "The narrator hopes to share life's joys and sorrows with their partner.",
+      "level": 2
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Penny",
+      "frequency": 10,
+      "context": "The main female character introduced at the beginning of the document."
+    },
+    {
+      "name": "narrator",
+      "frequency": 8,
+      "context": "The first-person perspective in the document, interacting with Penny."
+    },
+    {
+      "name": "smile",
+      "frequency": 4,
+      "context": "Described as a key characteristic of Penny, associated with youth, sunshine, and enthusiasm."
+    },
+    {
+      "name": "Team Building Company",
+      "frequency": 2,
+      "context": "The employer of Penny."
+    },
+    {
+      "name": "familiarity",
+      "frequency": 2,
+      "context": "A feeling evoked by Penny towards the narrator, suggesting a pre-existing connection."
+    },
+    {
+      "name": "age",
+      "frequency": 2,
+      "context": "Mentioned in relation to both Penny and the narrator (28 years old)."
+    },
+    {
+      "name": "fate",
+      "frequency": 1,
+      "context": "Penny's mention of their shared age suggesting a potential connection."
+    },
+    {
+      "name": "girl",
+      "frequency": 3,
+      "context": "Used in the context of the narrator describing their preferences."
+    },
+    {
+      "name": "kindness",
+      "frequency": 2,
+      "context": "A preferred trait in a girl by the narrator and a trait attributed to Penny."
+    },
+    {
+      "name": "cheerfulness",
+      "frequency": 2,
+      "context": "A preferred trait in a girl by the narrator and a trait attributed to Penny."
+    },
+    {
+      "name": "ideas",
+      "frequency": 2,
+      "context": "A preferred trait in a girl by the narrator and a trait attributed to Penny."
+    },
+    {
+      "name": "sunshine",
+      "frequency": 2,
+      "context": "A metaphor used to describe Penny's smile and personality."
+    },
+    {
+      "name": "enthusiasm",
+      "frequency": 2,
+      "context": "A characteristic of Penny's smile and personality."
+    },
+    {
+      "name": "mischievous",
+      "frequency": 1,
+      "context": "A personality trait attributed to Penny."
+    },
+    {
+      "name": "expectant",
+      "frequency": 1,
+      "context": "A personality trait attributed to Penny."
+    },
+    {
+      "name": "comfort",
+      "frequency": 2,
+      "context": "The feeling Penny gives to the narrator."
+    },
+    {
+      "name": "friend",
+      "frequency": 1,
+      "context": "The analogy used to describe the feeling of familiarity with Penny."
+    },
+    {
+      "name": "joy",
+      "frequency": 1,
+      "context": "The emotion associated with Penny's smile."
+    },
+    {
+      "name": "future contact",
+      "frequency": 2,
+      "context": "The anticipation and agreement for further meetings."
+    },
+    {
+      "name": "love view",
+      "frequency": 1,
+      "context": "The narrator's perspective on desired qualities in a partner and relationship."
+    },
+    {
+      "name": "life moments",
+      "frequency": 1,
+      "context": "The desire to share both good and bad experiences with a partner."
+    }
+  ],
+  "relations": [
+    {
+      "source": "Penny",
+      "target": "Team Building Company",
+      "type": "works_for"
+    },
+    {
+      "source": "Penny",
+      "target": "smile",
+      "type": "possesses"
+    },
+    {
+      "source": "smile",
+      "target": "sunshine",
+      "type": "is_like"
+    },
+    {
+      "source": "smile",
+      "target": "enthusiasm",
+      "type": "is_like"
+    },
+    {
+      "source": "narrator",
+      "target": "Penny",
+      "type": "meets"
+    },
+    {
+      "source": "narrator",
+      "target": "familiarity",
+      "type": "feels_from"
+    },
+    {
+      "source": "Penny",
+      "target": "age",
+      "type": "is"
+    },
+    {
+      "source": "narrator",
+      "target": "age",
+      "type": "is"
+    },
+    {
+      "source": "age",
+      "target": "fate",
+      "type": "suggests"
+    },
+    {
+      "source": "narrator",
+      "target": "girl",
+      "type": "describes_preferences_for"
+    },
+    {
+      "source": "girl",
+      "target": "kindness",
+      "type": "should_be"
+    },
+    {
+      "source": "girl",
+      "target": "cheerfulness",
+      "type": "should_be"
+    },
+    {
+      "source": "girl",
+      "target": "ideas",
+      "type": "should_have"
+    },
+    {
+      "source": "girl",
+      "target": "life moments",
+      "type": "should_share"
+    },
+    {
+      "source": "Penny",
+      "target": "kindness",
+      "type": "possesses"
+    },
+    {
+      "source": "Penny",
+      "target": "cheerfulness",
+      "type": "possesses"
+    },
+    {
+      "source": "Penny",
+      "target": "ideas",
+      "type": "possesses"
+    },
+    {
+      "source": "Penny",
+      "target": "mischievous",
+      "type": "possesses"
+    },
+    {
+      "source": "Penny",
+      "target": "expectant",
+      "type": "possesses"
+    },
+    {
+      "source": "Penny",
+      "target": "comfort",
+      "type": "gives_to"
+    },
+    {
+      "source": "comfort",
+      "target": "friend",
+      "type": "is_like"
+    },
+    {
+      "source": "smile",
+      "target": "joy",
+      "type": "brings"
+    },
+    {
+      "source": "Penny",
+      "target": "future contact",
+      "type": "initiates"
+    },
+    {
+      "source": "narrator",
+      "target": "future contact",
+      "type": "agrees_to"
+    },
+    {
+      "source": "narrator",
+      "target": "love view",
+      "type": "expresses"
+    }
+  ],
+  "hierarchy": {
+    "main_topics": [
+      "Introduction of Penny",
+      "First Meeting and Interaction",
+      "Details and Impressions",
+      "Future Expectations",
+      "Relationship Philosophy"
+    ],
+    "structure": "The document follows a narrative structure, starting with an introduction of the character Penny, detailing the initial interaction with the narrator, then providing specific details and feelings, and concluding with expectations for the future and the narrator's personal views on relationships."
+  }
+}

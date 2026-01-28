@@ -1,0 +1,817 @@
+{
+  "propositions": [
+    {
+      "id": "1",
+      "text": "Elena is in a cemetery, calling out for Damon, feeling the cold wind and fearing for Stefan.",
+      "level": 1
+    },
+    {
+      "id": "1.1",
+      "text": "Elena believes Stefan will resist Damon's power.",
+      "level": 2
+    },
+    {
+      "id": "1.2",
+      "text": "Elena is worried about what Damon might have done to Stefan.",
+      "level": 2
+    },
+    {
+      "id": "2",
+      "text": "Damon appears behind Elena, startling her.",
+      "level": 1
+    },
+    {
+      "id": "2.1",
+      "text": "Elena should have sensed Damon's presence.",
+      "level": 2
+    },
+    {
+      "id": "2.2",
+      "text": "Damon is not human.",
+      "level": 2
+    },
+    {
+      "id": "3",
+      "text": "Elena confronts Damon, demanding to know Stefan's whereabouts.",
+      "level": 1
+    },
+    {
+      "id": "3.1",
+      "text": "Elena slaps Damon.",
+      "level": 2
+    },
+    {
+      "id": "4",
+      "text": "Damon resembles Stefan but has distinct differences.",
+      "level": 1
+    },
+    {
+      "id": "4.1",
+      "text": "Damon has straight black hair, midnight-black eyes, and a cruel smile.",
+      "level": 2
+    },
+    {
+      "id": "5",
+      "text": "Damon implies he has power over Stefan and offers Elena something more.",
+      "level": 1
+    },
+    {
+      "id": "5.1",
+      "text": "Damon offers Elena power, immortality, and emotions she's never had.",
+      "level": 2
+    },
+    {
+      "id": "5.2",
+      "text": "Elena rejects Damon's offer.",
+      "level": 2
+    },
+    {
+      "id": "5.3",
+      "text": "Damon tries to use his powers to make Elena forget Stefan.",
+      "level": 2
+    },
+    {
+      "id": "6",
+      "text": "Elena asserts her love for Stefan and her determination to find him.",
+      "level": 1
+    },
+    {
+      "id": "6.1",
+      "text": "Elena tells Damon she has found what she wants and the person she wants to be with forever.",
+      "level": 2
+    },
+    {
+      "id": "7",
+      "text": "Damon threatens Elena with the same fate as his brother if she is foolish.",
+      "level": 1
+    },
+    {
+      "id": "8",
+      "text": "Elena, despite her fear, insists she is not intimidated by Damon.",
+      "level": 1
+    },
+    {
+      "id": "8.1",
+      "text": "Elena states that since learning what Damon is, he has lost his power over her.",
+      "level": 2
+    },
+    {
+      "id": "8.2",
+      "text": "Elena finds Damon disgusting and believes he can no longer harm her.",
+      "level": 2
+    },
+    {
+      "id": "9",
+      "text": "Damon warns Elena that winter is coming and she will be his.",
+      "level": 1
+    },
+    {
+      "id": "10",
+      "text": "Snow begins to fall, signaling the start of winter.",
+      "level": 1
+    },
+    {
+      "id": "11",
+      "text": "Elena is searching for Stefan in the snow-covered cemetery and surrounding areas.",
+      "level": 1
+    },
+    {
+      "id": "11.1",
+      "text": "Stefan's car was found by the police.",
+      "level": 2
+    },
+    {
+      "id": "11.2",
+      "text": "Elena refuses to give up on finding Stefan, believing he is alive.",
+      "level": 2
+    },
+    {
+      "id": "12",
+      "text": "Elena collapses on the roadside, realizing Stefan will come to her.",
+      "level": 1
+    },
+    {
+      "id": "13",
+      "text": "Elena dreams of Stefan, feeling safe and happy.",
+      "level": 1
+    },
+    {
+      "id": "14",
+      "text": "Elena is awakened by Bonnie and Meredith, who are concerned and have been looking for her.",
+      "level": 1
+    },
+    {
+      "id": "14.1",
+      "text": "Bonnie and Meredith help Elena get to Meredith's car.",
+      "level": 2
+    },
+    {
+      "id": "15",
+      "text": "Elena returns home to her aunt Judith, who is relieved but also concerned about the snow and Elena's whereabouts.",
+      "level": 1
+    },
+    {
+      "id": "16",
+      "text": "Elena insists on returning to find Stefan, despite her aunt and Robert's attempts to dissuade her.",
+      "level": 1
+    },
+    {
+      "id": "16.1",
+      "text": "Robert states that the police are looking for Stefan, implying it's their responsibility.",
+      "level": 2
+    },
+    {
+      "id": "16.2",
+      "text": "Elena desperately tries to convince them that Stefan did not kill Mr. Tanner.",
+      "level": 2
+    },
+    {
+      "id": "17",
+      "text": "Elena feels alienated as no one believes her or Stefan.",
+      "level": 1
+    },
+    {
+      "id": "18",
+      "text": "Elena, Bonnie, and Meredith plan to find Stefan, feeling they can only rely on themselves.",
+      "level": 1
+    },
+    {
+      "id": "18.1",
+      "text": "Bonnie and Meredith offer to stay the night to keep Elena company.",
+      "level": 2
+    },
+    {
+      "id": "19",
+      "text": "Robert also decides to stay, ensuring Elena is monitored.",
+      "level": 1
+    },
+    {
+      "id": "20",
+      "text": "Elena, Bonnie, and Meredith plan to escape the house to search for Stefan.",
+      "level": 1
+    },
+    {
+      "id": "21",
+      "text": "Bonnie and Meredith express their unwavering friendship and willingness to help Elena.",
+      "level": 1
+    },
+    {
+      "id": "21.1",
+      "text": "Meredith criticizes Elena for isolating herself and not sharing her experiences.",
+      "level": 2
+    },
+    {
+      "id": "22",
+      "text": "Elena confides in Bonnie and Meredith that Stefan did not kill Mr. Tanner and that she knows who did.",
+      "level": 1
+    },
+    {
+      "id": "22.1",
+      "text": "Elena reveals that the same person attacked Vickie and the old man by the bridge, and also killed Yangtze.",
+      "level": 2
+    },
+    {
+      "id": "23",
+      "text": "Bonnie agrees to help Elena find Stefan using her psychic abilities.",
+      "level": 1
+    },
+    {
+      "id": "24",
+      "text": "Bonnie expresses concern about the danger of using her abilities and the potential for them to be exploited.",
+      "level": 1
+    },
+    {
+      "id": "25",
+      "text": "Elena emphasizes the urgency of finding Stefan, who she believes is severely injured and in danger.",
+      "level": 1
+    },
+    {
+      "id": "26",
+      "text": "Bonnie, despite her reservations, agrees to help, sensing Stefan's presence.",
+      "level": 1
+    },
+    {
+      "id": "27",
+      "text": "Bonnie uses her abilities to try and locate Stefan, with Elena and Meredith concentrating.",
+      "level": 1
+    },
+    {
+      "id": "28",
+      "text": "Bonnie describes Stefan's perceived location and condition: loneliness, darkness, cold, hunger, weakness, and being trapped.",
+      "level": 1
+    },
+    {
+      "id": "28.1",
+      "text": "Bonnie mentions encountering rocks and cold water that reaches his neck.",
+      "level": 2
+    },
+    {
+      "id": "28.2",
+      "text": "Bonnie conveys Stefan's thoughts about his own weakness and his killer identity.",
+      "level": 2
+    },
+    {
+      "id": "29",
+      "text": "Elena reacts emotionally to Stefan's perceived suffering, momentarily breaking Bonnie's concentration.",
+      "level": 1
+    },
+    {
+      "id": "30",
+      "text": "Bonnie delivers a warning: 'Don't go to that bridge. That is death, Elena. Your death is waiting for you there.'",
+      "level": 1
+    },
+    {
+      "id": "31",
+      "text": "Bonnie collapses, but then recovers, remembering parts of the vision, including the warning about the bridge.",
+      "level": 1
+    },
+    {
+      "id": "32",
+      "text": "Elena, Meredith, and Bonnie decide to go to Wickery Bridge based on Bonnie's vision.",
+      "level": 1
+    },
+    {
+      "id": "33",
+      "text": "They escape the house through a window to avoid waking Robert.",
+      "level": 1
+    },
+    {
+      "id": "34",
+      "text": "Elena asks Bonnie about the significance of oak trees.",
+      "level": 1
+    },
+    {
+      "id": "35",
+      "text": "At Wickery Bridge, they investigate the area under the bridge where the old man was found.",
+      "level": 1
+    },
+    {
+      "id": "36",
+      "text": "A dark figure blocks their path, a man whose face is indistinguishable.",
+      "level": 1
+    },
+    {
+      "id": "37",
+      "text": "Footsteps are heard on the bridge above them.",
+      "level": 1
+    },
+    {
+      "id": "38",
+      "text": "Matt appears, having followed them, and asks what they are doing.",
+      "level": 1
+    },
+    {
+      "id": "39",
+      "text": "Elena apologizes to Matt for her earlier behavior.",
+      "level": 1
+    },
+    {
+      "id": "40",
+      "text": "Bonnie explains that they are looking for a quiet, enclosed place, not the riverbank, as she felt surrounded.",
+      "level": 1
+    },
+    {
+      "id": "41",
+      "text": "Matt is told about Bonnie's psychic abilities and her vision of Stefan being trapped.",
+      "level": 1
+    },
+    {
+      "id": "42",
+      "text": "Bonnie describes Stefan's trapped location: a dark, cold place with water and moss-covered rocks, smelling foul.",
+      "level": 1
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Elena",
+      "frequency": 28,
+      "context": "The main protagonist, experiencing cold, fear, and determination to find Stefan. She confronts Damon, rejects his offers, and leads the search for Stefan."
+    },
+    {
+      "name": "Stefan",
+      "frequency": 18,
+      "context": "Elena's love interest, whose whereabouts and well-being are the central concern. He is believed to be in danger and possibly injured or trapped."
+    },
+    {
+      "name": "Damon",
+      "frequency": 11,
+      "context": "A supernatural being with dark powers, resembling Stefan but with a cruel nature. He is a threat to Elena and Stefan, offering Elena power and immortality."
+    },
+    {
+      "name": "Bonnie",
+      "frequency": 13,
+      "context": "Elena's friend, who possesses psychic abilities. She uses her powers to help locate Stefan and experiences visions of his condition."
+    },
+    {
+      "name": "Meredith",
+      "frequency": 10,
+      "context": "Elena's friend, who supports Elena and accompanies her on the search for Stefan. She is pragmatic and concerned for Elena's safety."
+    },
+    {
+      "name": "Matt",
+      "frequency": 7,
+      "context": "A friend who has a past promise to care for Elena. He follows Elena, Bonnie, and Meredith to the bridge and is introduced to Bonnie's abilities."
+    },
+    {
+      "name": "Judith",
+      "frequency": 5,
+      "context": "Elena's aunt, who is worried about Elena's well-being and tries to keep her safe at home."
+    },
+    {
+      "name": "Winter",
+      "frequency": 4,
+      "context": "A recurring theme, representing an unforgiving season and a period of danger and potential transformation."
+    },
+    {
+      "name": "Snow",
+      "frequency": 5,
+      "context": "The weather condition that sets the scene and emphasizes the cold and harshness of the environment."
+    },
+    {
+      "name": "Bridge",
+      "frequency": 7,
+      "context": "A significant location, specifically Wickery Bridge, which is associated with danger and a potential rendezvous with Stefan or death."
+    },
+    {
+      "name": "Cemetery",
+      "frequency": 4,
+      "context": "The initial setting where Elena confronts Damon, establishing a somber and supernatural atmosphere."
+    },
+    {
+      "name": "Power",
+      "frequency": 4,
+      "context": "A theme discussed by Damon, who offers it to Elena, and also relating to Bonnie's psychic abilities."
+    },
+    {
+      "name": "Danger",
+      "frequency": 4,
+      "context": "A pervasive feeling throughout the narrative, associated with Damon, the coming winter, and the search for Stefan."
+    },
+    {
+      "name": "Fear",
+      "frequency": 4,
+      "context": "Elena's initial reaction to Damon, and a shared emotion among the characters as they face the unknown."
+    },
+    {
+      "name": "Love",
+      "frequency": 3,
+      "context": "The driving force behind Elena's actions, her deep affection for Stefan motivates her relentless search."
+    },
+    {
+      "name": "Mr. Tanner",
+      "frequency": 3,
+      "context": "A character who has been murdered, with Stefan being accused of the crime, which Elena vehemently denies."
+    },
+    {
+      "name": "Yangtze",
+      "frequency": 3,
+      "context": "A dog that was killed, with Elena suggesting the same perpetrator is responsible for other crimes."
+    },
+    {
+      "name": "Oldcreek Avenue",
+      "frequency": 2,
+      "context": "A location where Stefan's car was found, marking a point of interest in the search."
+    },
+    {
+      "name": "Drowning Bay",
+      "frequency": 2,
+      "context": "A body of water near the bridge, adding to the sense of isolation and potential peril."
+    },
+    {
+      "name": "Oak Trees",
+      "frequency": 3,
+      "context": "Mentioned in the cemetery and near the bridge, with a note on their significance in Celtic culture."
+    },
+    {
+      "name": "Raven",
+      "frequency": 2,
+      "context": "A symbol that Elena asks Bonnie to look for, connected to the night Yangtze died."
+    },
+    {
+      "name": "Immortality",
+      "frequency": 2,
+      "context": "An offer made by Damon to Elena, representing a temptation of supernatural power."
+    },
+    {
+      "name": "Forget",
+      "frequency": 2,
+      "context": "Damon's attempt to make Elena forget Stefan, highlighting the importance of memory and love."
+    },
+    {
+      "name": "Trapped",
+      "frequency": 3,
+      "context": "Bonnie's vision of Stefan being in a confined and dark place."
+    },
+    {
+      "name": "Rocks",
+      "frequency": 2,
+      "context": "Part of Bonnie's description of Stefan's predicament, indicating a rough and hard surface."
+    },
+    {
+      "name": "Water",
+      "frequency": 3,
+      "context": "A significant element in Bonnie's vision of Stefan, being cold and surrounding him."
+    },
+    {
+      "name": "Darkness",
+      "frequency": 3,
+      "context": "A recurring sensory detail in Bonnie's visions, emphasizing isolation and the unknown."
+    },
+    {
+      "name": "Cold",
+      "frequency": 4,
+      "context": "A prevalent sensory detail, experienced by Elena and described in Bonnie's visions of Stefan."
+    },
+    {
+      "name": "Hunger",
+      "frequency": 2,
+      "context": "A sensation experienced by Stefan in Bonnie's vision, indicating his physical suffering."
+    },
+    {
+      "name": "Weakness",
+      "frequency": 2,
+      "context": "A perceived state of Stefan in Bonnie's vision, both physically and perhaps emotionally."
+    },
+    {
+      "name": "Killer",
+      "frequency": 2,
+      "context": "A self-description by Stefan in Bonnie's vision, referring to his actions."
+    },
+    {
+      "name": "Death",
+      "frequency": 2,
+      "context": "A warning delivered by Bonnie, associated with the bridge and a significant threat to Elena."
+    },
+    {
+      "name": "Sacrifice",
+      "frequency": 1,
+      "context": "Elena's contemplation of facing Damon alone to protect Bonnie and Meredith."
+    },
+    {
+      "name": "Rosencrantz and Guildenstern",
+      "frequency": 1,
+      "context": "A literary reference used by Elena to sarcastically describe Bonnie and Meredith's close watchfulness."
+    },
+    {
+      "name": "Spirituality",
+      "frequency": 1,
+      "context": "Implied through Bonnie's psychic abilities and the mention of Celtic beliefs about oak trees."
+    },
+    {
+      "name": "Family",
+      "frequency": 1,
+      "context": "Represented by Elena's aunt Judith and her sister Margret, who provide a sense of home but also confinement."
+    },
+    {
+      "name": "Sanity",
+      "frequency": 1,
+      "context": "Questioned by Elena's aunt and Matt, but asserted by Elena, Bonnie, and Meredith."
+    },
+    {
+      "name": "Supernatural",
+      "frequency": 1,
+      "context": "The overarching genre, encompassing vampires, psychic powers, and mysterious occurrences."
+    }
+  ],
+  "relations": [
+    {
+      "source": "Elena",
+      "target": "Stefan",
+      "type": "loves"
+    },
+    {
+      "source": "Elena",
+      "target": "Damon",
+      "type": "confronts"
+    },
+    {
+      "source": "Damon",
+      "target": "Stefan",
+      "type": "resembles"
+    },
+    {
+      "source": "Damon",
+      "target": "Elena",
+      "type": "threatens"
+    },
+    {
+      "source": "Damon",
+      "target": "Power",
+      "type": "offers"
+    },
+    {
+      "source": "Damon",
+      "target": "Forget",
+      "type": "attempts"
+    },
+    {
+      "source": "Elena",
+      "target": "Stefan",
+      "type": "seeks"
+    },
+    {
+      "source": "Elena",
+      "target": "Damon",
+      "type": "rejects"
+    },
+    {
+      "source": "Bonnie",
+      "target": "Elena",
+      "type": "friends_with"
+    },
+    {
+      "source": "Meredith",
+      "target": "Elena",
+      "type": "friends_with"
+    },
+    {
+      "source": "Bonnie",
+      "target": "Stefan",
+      "type": "locates_via_powers"
+    },
+    {
+      "source": "Elena",
+      "target": "Bonnie",
+      "type": "trusts"
+    },
+    {
+      "source": "Elena",
+      "target": "Meredith",
+      "type": "trusts"
+    },
+    {
+      "source": "Matt",
+      "target": "Elena",
+      "type": "cares_for"
+    },
+    {
+      "source": "Matt",
+      "target": "Bonnie",
+      "type": "observes_powers"
+    },
+    {
+      "source": "Winter",
+      "target": "Danger",
+      "type": "implies"
+    },
+    {
+      "source": "Bridge",
+      "target": "Death",
+      "type": "associated_with"
+    },
+    {
+      "source": "Stefan",
+      "target": "Trapped",
+      "type": "is_in_state_of"
+    },
+    {
+      "source": "Bonnie",
+      "target": "Stefan",
+      "type": "visions_of"
+    },
+    {
+      "source": "Elena",
+      "target": "Bridge",
+      "type": "goes_to"
+    },
+    {
+      "source": "Damon",
+      "target": "Vampire",
+      "type": "is_a"
+    },
+    {
+      "source": "Mr. Tanner",
+      "target": "Murdered",
+      "type": "was"
+    },
+    {
+      "source": "Elena",
+      "target": "Mr. Tanner",
+      "type": "claims_innocent_of_murder"
+    },
+    {
+      "source": "Yangtze",
+      "target": "Killed",
+      "type": "was"
+    },
+    {
+      "source": "Bonnie",
+      "target": "Psychic_Abilities",
+      "type": "possesses"
+    },
+    {
+      "source": "Elena",
+      "target": "Determination",
+      "type": "displays"
+    },
+    {
+      "source": "Damon",
+      "target": "Immortality",
+      "type": "offers"
+    },
+    {
+      "source": "Stefan",
+      "target": "Injured",
+      "type": "possibly"
+    },
+    {
+      "source": "Oak Trees",
+      "target": "Sacred",
+      "type": "were_considered"
+    },
+    {
+      "source": "Raven",
+      "target": "Symbolic",
+      "type": "is"
+    },
+    {
+      "source": "Matt",
+      "target": "Promise",
+      "type": "fulfills"
+    },
+    {
+      "source": "Elena",
+      "target": "Sanity",
+      "type": "asserts"
+    },
+    {
+      "source": "Bonnie",
+      "target": "Sanity",
+      "type": "asserts"
+    },
+    {
+      "source": "Meredith",
+      "target": "Sanity",
+      "type": "asserts"
+    },
+    {
+      "source": "Damon",
+      "target": "Supernatural_Being",
+      "type": "is_a"
+    },
+    {
+      "source": "Bonnie",
+      "target": "Supernatural_Abilities",
+      "type": "possesses"
+    },
+    {
+      "source": "Elena",
+      "target": "Love",
+      "type": "motivated_by"
+    },
+    {
+      "source": "Stefan",
+      "target": "Love_Interest",
+      "type": "is_Elena's"
+    },
+    {
+      "source": "Elena",
+      "target": "Fear",
+      "type": "experiences"
+    },
+    {
+      "source": "Damon",
+      "target": "Power",
+      "type": "wields"
+    },
+    {
+      "source": "Winter",
+      "target": "Unforgiving",
+      "type": "is_described_as"
+    },
+    {
+      "source": "Bridge",
+      "target": "Wickery_Bridge",
+      "type": "is_a_specific"
+    },
+    {
+      "source": "Cemetery",
+      "target": "Supernatural_Atmosphere",
+      "type": "creates"
+    },
+    {
+      "source": "Elena",
+      "target": "Determination",
+      "type": "shows"
+    },
+    {
+      "source": "Stefan",
+      "target": "Danger",
+      "type": "is_in"
+    },
+    {
+      "source": "Bonnie",
+      "target": "Vision",
+      "type": "has"
+    },
+    {
+      "source": "Meredith",
+      "target": "Support",
+      "type": "provides"
+    },
+    {
+      "source": "Matt",
+      "target": "Following",
+      "type": "engages_in"
+    },
+    {
+      "source": "Rocks",
+      "target": "Trapped_Location",
+      "type": "part_of"
+    },
+    {
+      "source": "Water",
+      "target": "Trapped_Location",
+      "type": "part_of"
+    },
+    {
+      "source": "Darkness",
+      "target": "Trapped_Location",
+      "type": "feature_of"
+    },
+    {
+      "source": "Cold",
+      "target": "Trapped_Location",
+      "type": "feature_of"
+    },
+    {
+      "source": "Elena",
+      "target": "Sacrifice",
+      "type": "contemplates"
+    },
+    {
+      "source": "Rosencrantz_and_Guildenstern",
+      "target": "Elena",
+      "type": "compared_to_by"
+    },
+    {
+      "source": "Spirituality",
+      "target": "Bonnie's_Abilities",
+      "type": "related_to"
+    },
+    {
+      "source": "Family",
+      "target": "Elena",
+      "type": "provides_home_and_confinement_to"
+    },
+    {
+      "source": "Sanity",
+      "target": "Questioned",
+      "type": "is"
+    },
+    {
+      "source": "Supernatural",
+      "target": "Genre",
+      "type": "is_the"
+    }
+  ],
+  "hierarchy": {
+    "main_topics": [
+      "Elena's Search for Stefan",
+      "The Supernatural Threat of Damon",
+      "Bonnie's Psychic Abilities and Visions",
+      "The Danger of the Bridge and the Coming Winter"
+    ],
+    "structure": "The document is structured as a narrative, unfolding through dialogue, Elena's internal thoughts, and descriptions of events. It progresses from an initial confrontation in a cemetery to a collaborative effort involving Elena's friends to locate Stefan, culminating in a perilous journey to Wickery Bridge."
+  }
+}

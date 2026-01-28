@@ -1,0 +1,437 @@
+{
+  "propositions": [
+    {
+      "id": "1",
+      "text": "《观世音密码》是一部关于一部佛头拍卖的书籍。",
+      "level": 1
+    },
+    {
+      "id": "1.1",
+      "text": "该书通过伊能泉文、程弼、莎莉等人物的视角展开叙述。",
+      "level": 2
+    },
+    {
+      "id": "1.1.1",
+      "text": "伊能泉文是日本《朝日新闻》社的总编辑助理，收到一份关于佛头的奇特新闻线索。",
+      "level": 3
+    },
+    {
+      "id": "1.1.2",
+      "text": "程弼是香港佳德艺术品拍卖公司的总经理，负责拍卖一件南北朝时期的佛头。",
+      "level": 3
+    },
+    {
+      "id": "1.1.3",
+      "text": "莎莉是佳德公司总经理的特别助理，在拍卖过程中扮演重要角色。",
+      "level": 3
+    },
+    {
+      "id": "2",
+      "text": "一则关于南北朝佛头的消息引起了日本新闻界和香港拍卖界的关注。",
+      "level": 1
+    },
+    {
+      "id": "2.1",
+      "text": "伊能泉文收到一份传真，称香港即将拍卖的一件南北朝佛头指示了佛教的一个大秘密，可能改写中国禅宗历史。",
+      "level": 2
+    },
+    {
+      "id": "2.1.1",
+      "text": "该秘密与埋藏在山洞中的佛教典籍有关，这些典籍记录了中国禅宗六祖慧能大师继承衣钵的真相。",
+      "level": 3
+    },
+    {
+      "id": "2.1.2",
+      "text": "伊能泉文最初认为这是个荒唐的玩笑，但署名是一位著名的日本佛学学者。",
+      "level": 3
+    },
+    {
+      "id": "3",
+      "text": "香港佳德艺术品拍卖公司正准备拍卖这件南北朝佛头。",
+      "level": 1
+    },
+    {
+      "id": "3.1",
+      "text": "程弼在拍卖前夕收到一个匿名电话，声称佛头是赝品，真品已在他们手中，并指示他要将佛头拍给一个来自中国的年轻人。",
+      "level": 2
+    },
+    {
+      "id": "3.1.1",
+      "text": "程弼对此感到震惊和怀疑，因为拍卖行的安保非常严密。",
+      "level": 3
+    },
+    {
+      "id": "3.1.2",
+      "text": "程弼发现他的秘密专线电话也被打了，这让他更加不安。",
+      "level": 3
+    },
+    {
+      "id": "3.2",
+      "text": "程弼对这件佛头的来历和董事会的指令感到困惑，董事会要求直接拍卖且起拍价不低于100万港币，这很不寻常。",
+      "level": 2
+    },
+    {
+      "id": "4",
+      "text": "拍卖当天，围绕着这件佛头发生了一系列异常事件。",
+      "level": 1
+    },
+    {
+      "id": "4.1",
+      "text": "莎莉接到大量询问电话，关于佛头的真实性、秘密以及传闻中的法力。",
+      "level": 2
+    },
+    {
+      "id": "4.1.1",
+      "text": "有消息称佛头指示了一个佛家宝藏，拥有它的人可以揭开佛教历史秘密并拥有至高无上的权力。",
+      "level": 3
+    },
+    {
+      "id": "4.1.2",
+      "text": "莎莉怀疑程弼失联，并决定冒险进入董事会的特别会议室。",
+      "level": 3
+    },
+    {
+      "id": "4.2",
+      "text": "程弼通过监视器关注拍卖，神秘的9号买家引起了他的注意。",
+      "level": 2
+    },
+    {
+      "id": "4.2.1",
+      "text": "9号买家看起来像个年轻学者，似乎没有购买能力，但却成为佛头的竞拍者。",
+      "level": 3
+    },
+    {
+      "id": "4.3",
+      "text": "一位日本买家（31号）与9号买家展开激烈竞拍。",
+      "level": 2
+    },
+    {
+      "id": "4.3.1",
+      "text": "9号买家以“比他的价格高10万”的策略进行竞拍。",
+      "level": 3
+    },
+    {
+      "id": "4.4",
+      "text": "程弼和莎莉在地下密室通过监视器观察拍卖，并试图联系董事会。",
+      "level": 2
+    },
+    {
+      "id": "4.4.1",
+      "text": "莎莉透露9号买家是董事会安排的。",
+      "level": 3
+    },
+    {
+      "id": "4.4.2",
+      "text": "程弼得到董事会的口头指令，要将佛头拍给9号。",
+      "level": 3
+    },
+    {
+      "id": "4.5",
+      "text": "最终，9号买家以480万的价格拍得佛头。",
+      "level": 2
+    },
+    {
+      "id": "4.5.1",
+      "text": "日本买家（31号）在与9号年轻人短暂交流后放弃竞拍。",
+      "level": 3
+    },
+    {
+      "id": "5",
+      "text": "故事背景涉及日本的神秘人物和策划。",
+      "level": 1
+    },
+    {
+      "id": "5.1",
+      "text": "一位日本老人和其助理似乎在策划着什么，并等待着某人的到来。",
+      "level": 2
+    },
+    {
+      "id": "6",
+      "text": "佛头的历史和艺术价值引发了9号买家（以及作者）的思考。",
+      "level": 1
+    },
+    {
+      "id": "6.1",
+      "text": "9号买家分析佛头的特征，认为其带有西方（犍陀罗艺术）的影响，符合南北朝时期的特点，但又觉得有些不对劲。",
+      "level": 2
+    },
+    {
+      "id": "6.1.1",
+      "text": "文章引用了佛教造像历史、阿育王石柱、蓝毗尼园遗址、犍陀罗艺术等相关知识。",
+      "level": 3
+    },
+    {
+      "id": "7",
+      "text": "整个事件被描绘成一场精心设计的“戏”。",
+      "level": 1
+    },
+    {
+      "id": "7.1",
+      "text": "莎莉认为自己和程弼只是“跑龙套的”，真正的操纵者是董事会。",
+      "level": 2
+    },
+    {
+      "id": "7.2",
+      "text": "一位匿名日本老人打来电话，感谢程弼为他们所做的一切，暗示交易已完成。",
+      "level": 2
+    }
+  ],
+  "concepts": [
+    {
+      "name": "观世音密码",
+      "frequency": 1,
+      "context": "书名，贯穿整个文档。"
+    },
+    {
+      "name": "伊能泉文",
+      "frequency": 5,
+      "context": "日本《朝日新闻》社的总编辑助理，收到关于佛头的奇特新闻线索。"
+    },
+    {
+      "name": "新闻",
+      "frequency": 7,
+      "context": "伊能泉文的新闻工作，新闻线索，新闻价值，新闻量，突发事件等。"
+    },
+    {
+      "name": "佛头",
+      "frequency": 15,
+      "context": "南北朝时期的佛头，是拍卖的核心物品，涉及秘密、赝品、真品、法力等。"
+    },
+    {
+      "name": "佛教",
+      "frequency": 8,
+      "context": "涉及佛教秘密，禅宗，慧能大师，偶像崇拜，佛陀，佛像，佛教典籍等。"
+    },
+    {
+      "name": "中国禅宗",
+      "frequency": 3,
+      "context": "佛头可能改写中国禅宗历史，与慧能大师继承衣钵的真相有关。"
+    },
+    {
+      "name": "程弼",
+      "frequency": 15,
+      "context": "香港佳德艺术品拍卖公司的总经理，负责拍卖，受到匿名电话和董事会指令的影响。"
+    },
+    {
+      "name": "佳德艺术品拍卖公司",
+      "frequency": 10,
+      "context": "拍卖会的地点，拥有严密的安保系统，是故事的主要发生地。"
+    },
+    {
+      "name": "拍卖",
+      "frequency": 15,
+      "context": "核心事件，包括拍卖会、买家、竞价、拍品、主持人等。"
+    },
+    {
+      "name": "南北朝",
+      "frequency": 4,
+      "context": "佛头的时代背景，中国历史上佛教兴盛的时期。"
+    },
+    {
+      "name": "莎莉",
+      "frequency": 10,
+      "context": "佳德公司总经理的特别助理，聪明、果断，在事件中起关键作用。"
+    },
+    {
+      "name": "董事会",
+      "frequency": 10,
+      "context": "佳德公司的高层，神秘且拥有权力，直接安排9号买家，发布指令。"
+    },
+    {
+      "name": "电话",
+      "frequency": 10,
+      "context": "匿名电话、秘密专线电话、董事会专线电话，在推动剧情中起到重要作用。"
+    },
+    {
+      "name": "秘密",
+      "frequency": 6,
+      "context": "佛教的秘密，禅宗的秘密，董事会的秘密，密室的秘密等。"
+    },
+    {
+      "name": "赝品",
+      "frequency": 3,
+      "context": "关于佛头是赝品的传言和匿名电话的说法。"
+    },
+    {
+      "name": "真品",
+      "frequency": 3,
+      "context": "匿名电话声称真品已在他们手中，以及程弼对佛头真伪的鉴定。"
+    },
+    {
+      "name": "9号买家",
+      "frequency": 8,
+      "context": "神秘的竞拍者，被董事会安排，最终拍得佛头。"
+    },
+    {
+      "name": "31号买家",
+      "frequency": 3,
+      "context": "竞拍佛头的日本买家，与9号买家展开竞争。"
+    },
+    {
+      "name": "日本",
+      "frequency": 5,
+      "context": "伊能泉文、日本佛学学者、日本买家、日本老人，与事件有联系。"
+    },
+    {
+      "name": "犍陀罗艺术",
+      "frequency": 2,
+      "context": "9号买家分析佛头时提到的艺术风格，带有古希腊雕像艺术影响。"
+    },
+    {
+      "name": "监视器",
+      "frequency": 5,
+      "context": "用于监控拍卖会和公司内部情况，是程弼和莎莉观察事件的工具。"
+    },
+    {
+      "name": "密室",
+      "frequency": 4,
+      "context": "佳德公司地下二层的秘密房间，是程弼观察拍卖的场所，安保严密。"
+    },
+    {
+      "name": "权力",
+      "frequency": 3,
+      "context": "拥有佛头的人可以拥有佛教界至高无上的权力，以及董事会赋予的权力。"
+    },
+    {
+      "name": "中国文物",
+      "frequency": 1,
+      "context": "佳德公司常拍卖流失到外国的中国文物。"
+    }
+  ],
+  "relations": [
+    {
+      "source": "伊能泉文",
+      "target": "佛头",
+      "type": "receives_information_about"
+    },
+    {
+      "source": "伊能泉文",
+      "target": "日本佛学学者",
+      "type": "identifies"
+    },
+    {
+      "source": "佛头",
+      "target": "佛教秘密",
+      "type": "reveals"
+    },
+    {
+      "source": "佛教秘密",
+      "target": "中国禅宗",
+      "type": "related_to"
+    },
+    {
+      "source": "程弼",
+      "target": "佳德艺术品拍卖公司",
+      "type": "is_manager_of"
+    },
+    {
+      "source": "程弼",
+      "target": "佛头",
+      "type": "manages_auction_of"
+    },
+    {
+      "source": "匿名电话",
+      "target": "佛头",
+      "type": "claims_about"
+    },
+    {
+      "source": "匿名电话",
+      "target": "赝品",
+      "type": "describes"
+    },
+    {
+      "source": "董事会",
+      "target": "佛头",
+      "type": "directs_auction_of"
+    },
+    {
+      "source": "董事会",
+      "target": "9号买家",
+      "type": "arranges"
+    },
+    {
+      "source": "莎莉",
+      "target": "程弼",
+      "type": "is_assistant_to"
+    },
+    {
+      "source": "莎莉",
+      "target": "特别会议室",
+      "type": "accesses"
+    },
+    {
+      "source": "9号买家",
+      "target": "佛头",
+      "type": "bids_on"
+    },
+    {
+      "source": "31号买家",
+      "target": "佛头",
+      "type": "bids_on"
+    },
+    {
+      "source": "9号买家",
+      "target": "31号买家",
+      "type": "competes_with"
+    },
+    {
+      "source": "程弼",
+      "target": "监视器",
+      "type": "uses"
+    },
+    {
+      "source": "莎莉",
+      "target": "监视器",
+      "type": "uses"
+    },
+    {
+      "source": "程弼",
+      "target": "董事会",
+      "type": "receives_instructions_from"
+    },
+    {
+      "source": "莎莉",
+      "target": "董事会",
+      "type": "receives_instructions_from"
+    },
+    {
+      "source": "日本老人",
+      "target": "计划",
+      "type": "executes"
+    },
+    {
+      "source": "9号买家",
+      "target": "佛头",
+      "type": "analyzes_artistic_features_of"
+    },
+    {
+      "source": "犍陀罗艺术",
+      "target": "佛像",
+      "type": "influences"
+    },
+    {
+      "source": "事件",
+      "target": "戏",
+      "type": "is_part_of"
+    },
+    {
+      "source": "匿名日本老人",
+      "target": "程弼",
+      "type": "communicates_with"
+    },
+    {
+      "source": "程弼",
+      "target": "佛头",
+      "type": "finalizes_auction_of"
+    }
+  ],
+  "hierarchy": {
+    "main_topics": [
+      "The Mysterious Buddha Head",
+      "The Auction House",
+      "Intrigue and Manipulation",
+      "Historical and Religious Context"
+    ],
+    "structure": "The document is structured into chapters or sections, each focusing on different characters' perspectives and unfolding events chronologically, primarily centered around the auction of a Buddha head. It begins with a news tip, moves to the auction house and the anxieties surrounding the event, then details the unfolding auction with suspicious characters and actions, and concludes with hints of a larger, orchestrated plot involving Japanese figures and a mysterious 'play'."
+  }
+}

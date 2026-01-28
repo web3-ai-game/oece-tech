@@ -1,0 +1,140 @@
+{
+  "propositions": [
+    {
+      "id": "1",
+      "text": "The document \"重生之破茧\" is a collection of timestamps.",
+      "level": 1
+    },
+    {
+      "id": "1.1",
+      "text": "The source of the document is http://www.mespxp.com.",
+      "level": 2
+    },
+    {
+      "id": "1.2",
+      "text": "The publication time of the document is 2010-2-26 14:59:48.",
+      "level": 2
+    },
+    {
+      "id": "1.3",
+      "text": "The author is listed as '1409 楼'.",
+      "level": 2
+    },
+    {
+      "id": "1.4",
+      "text": "The document has been read 2176 times.",
+      "level": 2
+    },
+    {
+      "id": "1.5",
+      "text": "The document has 2419 comments.",
+      "level": 2
+    },
+    {
+      "id": "1.6",
+      "text": "The main content is titled '正文'.",
+      "level": 2
+    },
+    {
+      "id": "1.7",
+      "text": "The document contains a series of dated timestamps.",
+      "level": 2
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Document Title",
+      "frequency": 1,
+      "context": "The main heading of the document."
+    },
+    {
+      "name": "Source",
+      "frequency": 1,
+      "context": "Indicates the origin of the document."
+    },
+    {
+      "name": "Publication Time",
+      "frequency": 1,
+      "context": "Specifies when the document was first made available."
+    },
+    {
+      "name": "Author",
+      "frequency": 1,
+      "context": "Identifies the creator of the content."
+    },
+    {
+      "name": "Reads",
+      "frequency": 1,
+      "context": "Indicates the number of times the document has been viewed."
+    },
+    {
+      "name": "Comments",
+      "frequency": 1,
+      "context": "Indicates the number of user comments associated with the document."
+    },
+    {
+      "name": "Main Body",
+      "frequency": 1,
+      "context": "The primary section of the document's content."
+    },
+    {
+      "name": "Timestamp",
+      "frequency": 129,
+      "context": "Represents specific dates and times within the document's content."
+    },
+    {
+      "name": "Date",
+      "frequency": 129,
+      "context": "Part of the timestamp, indicating the calendar day."
+    },
+    {
+      "name": "Time",
+      "frequency": 129,
+      "context": "Part of the timestamp, indicating the hour and minute."
+    }
+  ],
+  "relations": [
+    {
+      "source": "Document Title",
+      "target": "重生之破茧",
+      "type": "is_named"
+    },
+    {
+      "source": "Source",
+      "target": "http://www.mespxp.com",
+      "type": "is_linked_to"
+    },
+    {
+      "source": "Publication Time",
+      "target": "2010-2-26 14:59:48",
+      "type": "is"
+    },
+    {
+      "source": "Author",
+      "target": "1409 楼",
+      "type": "is_attributed_to"
+    },
+    {
+      "source": "Main Body",
+      "target": "Timestamp",
+      "type": "contains"
+    },
+    {
+      "source": "Timestamp",
+      "target": "Date",
+      "type": "has_component"
+    },
+    {
+      "source": "Timestamp",
+      "target": "Time",
+      "type": "has_component"
+    }
+  ],
+  "hierarchy": {
+    "main_topics": [
+      "Document Metadata",
+      "Content Timestamps"
+    ],
+    "structure": "The document is structured with a main title, metadata (source, publication time, author, metrics), and a large section of chronological timestamps, likely representing posts or entries."
+  }
+}

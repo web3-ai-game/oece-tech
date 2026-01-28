@@ -1,0 +1,360 @@
+{
+  "propositions": [
+    {
+      "id": "1",
+      "text": "在一个新年夜，萨特思韦特先生参加了罗伊斯顿招待会，并对波特尔夫妇产生了浓厚的兴趣。",
+      "level": 1
+    },
+    {
+      "id": "1.1",
+      "text": "萨特思韦特先生年届六十二，喜欢观察人性，并预感到有不寻常的事情即将发生。",
+      "level": 2
+    },
+    {
+      "id": "1.2",
+      "text": "他注意到亚历克斯·波特尔是一个普通的英格兰人，而他的妻子埃莉诺·波特尔则是一个来自澳大利亚、充满神秘感的女人，她染了金发，行为举止引人注目。",
+      "level": 2
+    },
+    {
+      "id": "2",
+      "text": "招待会上，大家谈论起房屋的前主人德里克·卡佩尔自杀的事件。",
+      "level": 1
+    },
+    {
+      "id": "2.1",
+      "text": "伊夫斯厄姆先生提到购买这栋房子的不愉快经历，以及卡佩尔自杀事件对他的影响。",
+      "level": 2
+    },
+    {
+      "id": "2.2",
+      "text": "康韦爵士描述了卡佩尔自杀的谜团，认为他当时情绪极佳，毫无理由自杀。",
+      "level": 2
+    },
+    {
+      "id": "3",
+      "text": "一位名叫哈利·奎恩的陌生人突然到访，他的到来引发了对卡佩尔自杀事件更深入的讨论。",
+      "level": 1
+    },
+    {
+      "id": "3.1",
+      "text": "奎恩先生认识死者德里克·卡佩尔，并对事件的“费解”表示了看法。",
+      "level": 2
+    },
+    {
+      "id": "3.2",
+      "text": "奎恩先生提出，一个难题不一定无法解决，关键在于找到合理的角度。",
+      "level": 2
+    },
+    {
+      "id": "3.3",
+      "text": "在奎恩先生的引导下，大家开始回顾卡佩尔自杀当晚的细节。",
+      "level": 2
+    },
+    {
+      "id": "3.4",
+      "text": "讨论聚焦在卡佩尔自杀前为何表现得如此高兴，以及他为何在收到邮件后不久自杀。",
+      "level": 2
+    },
+    {
+      "id": "3.5",
+      "text": "康韦爵士回忆起卡佩尔收到大量报纸和信件，但事后发现他并未打开过信件。",
+      "level": 2
+    },
+    {
+      "id": "3.6",
+      "text": "奎恩先生推测，卡佩尔看到警察来到是为了找一只走失的狗，但他当时并不知道原因，以为是与阿普尔顿事件有关。",
+      "level": 2
+    },
+    {
+      "id": "3.7",
+      "text": "萨特思韦特先生解释了阿普尔顿太太摔碎酒杯的行为，认为她是因为爱卡佩尔，试图销毁不利于他的证据。",
+      "level": 2
+    },
+    {
+      "id": "3.8",
+      "text": "奎恩先生揭示，卡佩尔可能因为误以为自己将要为阿普尔顿太太的罪行承担后果而自杀，而阿普尔顿太太也因承受后果而承受着巨大的心理压力。",
+      "level": 2
+    },
+    {
+      "id": "3.9",
+      "text": "奎恩先生离开，并提醒萨特思韦特先生当心“丑角戏”的象征意义。",
+      "level": 2
+    },
+    {
+      "id": "3.10",
+      "text": "事后，萨特思韦特先生看到埃莉诺·波特尔与奎恩先生交谈，并最终与亚历克斯·波特尔和解。",
+      "level": 2
+    },
+    {
+      "id": "4",
+      "text": "第二章介绍了萨特思韦特先生参加格林韦斯府邸的宴会。",
+      "level": 1
+    },
+    {
+      "id": "4.1",
+      "text": "萨特思韦特先生对富人家的社交活动和潜在的人生戏剧表现出兴趣。",
+      "level": 2
+    },
+    {
+      "id": "4.2",
+      "text": "辛西亚·德雷奇夫人讨论了主人昂克顿夫妇邀请理查德·斯科特夫妇和斯塔弗顿太太的社交困境。",
+      "level": 2
+    },
+    {
+      "id": "4.3",
+      "text": "斯塔弗顿太太和理查德·斯科特之间似乎存在一段过去的关系。",
+      "level": 2
+    },
+    {
+      "id": "4.4",
+      "text": "萨特思韦特先生被告知格林韦斯府邸有一个与窗户玻璃相关的幽灵故事。",
+      "level": 2
+    },
+    {
+      "id": "4.5",
+      "text": "斯科特夫妇和他们的朋友约翰·波特到来。",
+      "level": 2
+    },
+    {
+      "id": "4.6",
+      "text": "萨特思韦特先生讲述了格林韦斯府邸的幽灵故事，其中涉及一个保皇党人的妻子和她的圆颅党情人。",
+      "level": 2
+    },
+    {
+      "id": "4.7",
+      "text": "故事的核心是一个窗口上的一块污痕，看起来像一个男人的脸。",
+      "level": 2
+    }
+  ],
+  "concepts": [
+    {
+      "name": "萨特思韦特先生",
+      "frequency": 18,
+      "context": "侦探小说中的观察者角色，对人性及其戏剧性事件充满兴趣。"
+    },
+    {
+      "name": "奎恩先生",
+      "frequency": 17,
+      "context": "神秘的陌生人，以睿智和洞察力解开谜团。"
+    },
+    {
+      "name": "德里克·卡佩尔",
+      "frequency": 13,
+      "context": "自杀身亡的前房屋主人，其死亡事件是第一章的核心谜团。"
+    },
+    {
+      "name": "埃莉诺·波特尔",
+      "frequency": 9,
+      "context": "澳大利亚来的妻子，充满神秘感，与卡佩尔事件有关联。"
+    },
+    {
+      "name": "亚历克斯·波特尔",
+      "frequency": 7,
+      "context": "埃莉诺的丈夫，对妻子既崇拜又害怕。"
+    },
+    {
+      "name": "伊夫斯厄姆先生",
+      "frequency": 7,
+      "context": "招待会的主人，罗伊斯顿的现任主人。"
+    },
+    {
+      "name": "康韦爵士",
+      "frequency": 6,
+      "context": "军人、旅行家、运动员，参与了卡佩尔自杀当晚的谈话。"
+    },
+    {
+      "name": "阿普尔顿太太",
+      "frequency": 6,
+      "context": "另一桩与毒杀相关的案件中的关键人物，与卡佩尔事件的解决有关。"
+    },
+    {
+      "name": "理查德·斯科特",
+      "frequency": 5,
+      "context": "第二章中格林韦斯府邸宴会的客人，一位猎人探险家。"
+    },
+    {
+      "name": "辛西亚·德雷奇夫人",
+      "frequency": 5,
+      "context": "格林韦斯府邸宴会的客人，善于社交，对他人事件充满好奇。"
+    },
+    {
+      "name": "格林韦斯府邸",
+      "frequency": 4,
+      "context": "第二章故事发生的地点，与一个幽灵故事相关。"
+    },
+    {
+      "name": "幽灵故事",
+      "frequency": 4,
+      "context": "格林韦斯府邸的传说，涉及到窗口的污痕。"
+    },
+    {
+      "name": "死亡",
+      "frequency": 4,
+      "context": "书中出现的多种死亡事件，包括自杀和疑似谋杀。"
+    },
+    {
+      "name": "真相",
+      "frequency": 4,
+      "context": "故事的核心追求，通过观察和推理揭示事件的本质。"
+    },
+    {
+      "name": "怀疑",
+      "frequency": 3,
+      "context": "角色之间，特别是波特尔夫妇之间的情感冲突。"
+    },
+    {
+      "name": "命运",
+      "frequency": 3,
+      "context": "角色对自身处境和事件走向的看法。"
+    },
+    {
+      "name": "观察",
+      "frequency": 3,
+      "context": "萨特思韦特先生和奎恩先生的主要行为方式。"
+    },
+    {
+      "name": "犯罪",
+      "frequency": 3,
+      "context": "书中涉及的潜在或已发生的罪行。"
+    },
+    {
+      "name": "线索",
+      "frequency": 3,
+      "context": "揭示真相的细节和信息。"
+    },
+    {
+      "name": "推理",
+      "frequency": 3,
+      "context": "解决谜团的过程。"
+    },
+    {
+      "name": "误解",
+      "frequency": 3,
+      "context": "导致事件发生或加剧矛盾的原因。"
+    },
+    {
+      "name": "爱",
+      "frequency": 3,
+      "context": "驱动某些角色行为的动机。"
+    },
+    {
+      "name": "恐惧",
+      "frequency": 2,
+      "context": "某些角色面临的心理状态。"
+    },
+    {
+      "name": "证据",
+      "frequency": 2,
+      "context": "用于证明或反驳某事的依据。"
+    },
+    {
+      "name": "新年",
+      "frequency": 1,
+      "context": "故事发生的时间背景。"
+    },
+    {
+      "name": "招待会",
+      "frequency": 1,
+      "context": "故事发生的社交场合。"
+    },
+    {
+      "name": "派对",
+      "frequency": 1,
+      "context": "第二章故事发生的社交场合。"
+    },
+    {
+      "name": "记者",
+      "frequency": 1,
+      "context": "与侦探故事相关的角色类型。"
+    }
+  ],
+  "relations": [
+    {
+      "source": "萨特思韦特先生",
+      "target": "奎恩先生",
+      "type": "observes"
+    },
+    {
+      "source": "萨特思韦特先生",
+      "target": "埃莉诺·波特尔",
+      "type": "observes"
+    },
+    {
+      "source": "奎恩先生",
+      "target": "德里克·卡佩尔",
+      "type": "knew"
+    },
+    {
+      "source": "奎恩先生",
+      "target": "埃莉诺·波特尔",
+      "type": "interacts_with"
+    },
+    {
+      "source": "埃莉诺·波特尔",
+      "target": "德里克·卡佩尔",
+      "type": "loved"
+    },
+    {
+      "source": "埃莉诺·波特尔",
+      "target": "亚历克斯·波特尔",
+      "type": "married_to"
+    },
+    {
+      "source": "亚历克斯·波特尔",
+      "target": "埃莉诺·波特尔",
+      "type": "loved"
+    },
+    {
+      "source": "德里克·卡佩尔",
+      "target": "阿普尔顿太太",
+      "type": "knew"
+    },
+    {
+      "source": "阿普尔顿太太",
+      "target": "德里克·卡佩尔",
+      "type": "accused_of_murdering"
+    },
+    {
+      "source": "伊夫斯厄姆先生",
+      "target": "德里克·卡佩尔",
+      "type": "owned_house_of"
+    },
+    {
+      "source": "康韦爵士",
+      "target": "德里克·卡佩尔",
+      "type": "was_present_at_death_of"
+    },
+    {
+      "source": "萨特思韦特先生",
+      "target": "格林韦斯府邸",
+      "type": "attends_event_at"
+    },
+    {
+      "source": "辛西亚·德雷奇夫人",
+      "target": "理查德·斯科特",
+      "type": "discusses_past_relationship_with"
+    },
+    {
+      "source": "理查德·斯科特",
+      "target": "莫伊拉·斯科特",
+      "type": "married_to"
+    },
+    {
+      "source": "约翰·波特",
+      "target": "理查德·斯科特",
+      "type": "friend_of"
+    },
+    {
+      "source": "格林韦斯府邸",
+      "target": "幽灵故事",
+      "type": "associated_with"
+    }
+  ],
+  "hierarchy": {
+    "main_topics": [
+      "First Chapter: The Arrival of Mr. Quin",
+      "Second Chapter: Shadows on the Glass"
+    ],
+    "structure": "The document is structured into two distinct chapters. Chapter one focuses on the arrival of Mr. Quin and the unraveling of the mystery surrounding Mr. Derek Capper's death at a New Year's Eve party. Chapter two shifts to a different setting, a garden party at Greenways, and introduces a new mystery related to a ghost story and past relationships."
+  }
+}

@@ -1,0 +1,784 @@
+{
+  "propositions": [
+    {
+      "id": "1",
+      "text": "众相公，一个承载着厚重历史与文化积淀的名字，不仅仅是一个简单的称谓，更是一扇窗口，让我们得以窥探古代社会中那群身处权力中心、影响国家命运的士大夫阶层。",
+      "level": 1
+    },
+    {
+      "id": "1.1",
+      "text": "他们是时代的弄潮儿，是历史舞台上的关键角色，他们的言行举止，他们的决策与命运，无不深刻地影响着王朝的兴衰与百姓的福祉。",
+      "level": 1
+    },
+    {
+      "id": "2",
+      "text": "“士不可以不弘毅，任重而道远。仁以为己任，不亦重乎？死而后已，不亦远乎？”",
+      "level": 1
+    },
+    {
+      "id": "2.1",
+      "text": "这句话出自《论语·泰伯》，虽然并非直接指向“众相公”，但却精准地道出了士人阶层所应承担的历史使命和精神追求。",
+      "level": 1
+    },
+    {
+      "id": "2.2",
+      "text": "众相公们，便是肩负着这份“重任”的群体。",
+      "level": 1
+    },
+    {
+      "id": "2.3",
+      "text": "他们来自不同的家庭背景，经历着不同的人生轨迹，但他们都通过科举考试，凭借着才华与学识，汇聚于朝堂之上，共同构成了那个时代的“众相公”。",
+      "level": 1
+    },
+    {
+      "id": "3",
+      "text": "众相公的构成是多元的。",
+      "level": 2
+    },
+    {
+      "id": "3.1",
+      "text": "他们有的是寒门出身，凭借“书中自有黄金屋”的信念，通过十年寒窗苦读，一朝登龙门；",
+      "level": 2
+    },
+    {
+      "id": "3.2",
+      "text": "有的是书香门第，自幼耳濡目染，继承了家族的荣耀与使命，在仕途上顺风顺水；",
+      "level": 2
+    },
+    {
+      "id": "3.3",
+      "text": "也有的是战功显赫的将门之后，凭借军功与政治智慧，在权力斗角中占据一席之地。",
+      "level": 2
+    },
+    {
+      "id": "4",
+      "text": "作为国家的核心决策者，众相公们肩负着治理国家的重任。",
+      "level": 2
+    },
+    {
+      "id": "4.1",
+      "text": "他们参与制定法律，规划国家发展蓝图，处理国家内外事务，保卫国家疆土。",
+      "level": 2
+    },
+    {
+      "id": "4.2",
+      "text": "他们的智慧与决策，直接影响着税收、农业、军事、文化等方方面面。",
+      "level": 2
+    },
+    {
+      "id": "5",
+      "text": "然而，众相公的生活并非总是光鲜亮丽。",
+      "level": 2
+    },
+    {
+      "id": "5.1",
+      "text": "在权力的高压之下，他们面临着巨大的挑战。",
+      "level": 2
+    },
+    {
+      "id": "5.2",
+      "text": "政治斗争的漩涡：朝堂之上，派系林立，明争暗斗从未停歇。",
+      "level": 3
+    },
+    {
+      "id": "5.2.1",
+      "text": "众相公们往往身处政治斗争的漩涡之中，稍有不慎便可能身败名裂。",
+      "level": 3
+    },
+    {
+      "id": "5.3",
+      "text": "个人道德与集体利益的博弈：在维护个人利益、家族利益与国家整体利益之间，众相公们常常陷入两难的境地。",
+      "level": 3
+    },
+    {
+      "id": "5.4",
+      "text": "舆论的审视与百姓的期盼：他们的每一个决定都会被公之于众，并受到来自社会各界的审视与期盼。",
+      "level": 3
+    },
+    {
+      "id": "6",
+      "text": "众相公的结局也是多种多样的。",
+      "level": 2
+    },
+    {
+      "id": "6.1",
+      "text": "有的功成名就，为国捐躯，名垂青史；",
+      "level": 2
+    },
+    {
+      "id": "6.2",
+      "text": "有的却因为政治斗争的失败，或是个人品德的失误，而落得悲惨的下场。",
+      "level": 2
+    },
+    {
+      "id": "6.3",
+      "text": "他们的命运，如同历史长河中的浪花，时而激越，时而沉寂，但都留下了属于自己的印记。",
+      "level": 2
+    },
+    {
+      "id": "7",
+      "text": "尽管时代变迁，但众相公所代表的“为官一任，造福一方”的精神，以及他们对国家民族的担当，依然值得我们深思和传承。",
+      "level": 1
+    },
+    {
+      "id": "7.1",
+      "text": "他们是那个时代的精神脊梁，是历史进程中不可或缺的推动者。",
+      "level": 1
+    },
+    {
+      "id": "7.2",
+      "text": "研究众相公，不仅是对历史的回顾，更是对国家治理、社会责任以及个人价值实现的一次深刻的探索。",
+      "level": 1
+    }
+  ],
+  "concepts": [
+    {
+      "name": "众相公",
+      "frequency": 10,
+      "context": "The central concept of the document, referring to the scholar-official class in ancient China."
+    },
+    {
+      "name": "士大夫",
+      "frequency": 1,
+      "context": "Synonymous with '众相公', referring to the literati and official class."
+    },
+    {
+      "name": "权力中心",
+      "frequency": 1,
+      "context": "The seat of power where '众相公' operated."
+    },
+    {
+      "name": "国家命运",
+      "frequency": 1,
+      "context": "The fate and well-being of the nation, influenced by '众相公'."
+    },
+    {
+      "name": "王朝兴衰",
+      "frequency": 1,
+      "context": "The rise and fall of dynasties, impacted by the actions of '众相公'."
+    },
+    {
+      "name": "百姓福祉",
+      "frequency": 1,
+      "context": "The welfare of the common people, affected by '众相公'."
+    },
+    {
+      "name": "历史使命",
+      "frequency": 1,
+      "context": "The historical responsibility and purpose attributed to the scholar-official class."
+    },
+    {
+      "name": "精神追求",
+      "frequency": 1,
+      "context": "The ideals and aspirations of the scholar-official class."
+    },
+    {
+      "name": "科举考试",
+      "frequency": 1,
+      "context": "The examination system that enabled entry into the official class."
+    },
+    {
+      "name": "才华与学识",
+      "frequency": 1,
+      "context": "The qualities required to become a '众相公'."
+    },
+    {
+      "name": "家庭背景",
+      "frequency": 1,
+      "context": "The diverse origins of '众相公'."
+    },
+    {
+      "name": "人生轨迹",
+      "frequency": 1,
+      "context": "The varied paths taken by '众相公'."
+    },
+    {
+      "name": "寒门出身",
+      "frequency": 1,
+      "context": "A background of poverty for some '众相公'."
+    },
+    {
+      "name": "书中自有黄金屋",
+      "frequency": 1,
+      "context": "A proverb highlighting the belief in education leading to wealth and status."
+    },
+    {
+      "name": "十年寒窗苦读",
+      "frequency": 1,
+      "context": "The arduous study required for the imperial examinations."
+    },
+    {
+      "name": "登龙门",
+      "frequency": 1,
+      "context": "A metaphor for achieving success through the imperial examinations."
+    },
+    {
+      "name": "书香门第",
+      "frequency": 1,
+      "context": "A family background of scholarly tradition."
+    },
+    {
+      "name": "家族荣耀",
+      "frequency": 1,
+      "context": "The honor inherited by members of scholarly families."
+    },
+    {
+      "name": "仕途",
+      "frequency": 1,
+      "context": "The career path in officialdom."
+    },
+    {
+      "name": "战功显赫",
+      "frequency": 1,
+      "context": "Distinguished military achievements, a route to officialdom."
+    },
+    {
+      "name": "将门之后",
+      "frequency": 1,
+      "context": "Descendants of military families."
+    },
+    {
+      "name": "军功",
+      "frequency": 1,
+      "context": "Merit earned through military service."
+    },
+    {
+      "name": "政治智慧",
+      "frequency": 1,
+      "context": "The skill in navigating political affairs."
+    },
+    {
+      "name": "权力斗角",
+      "frequency": 1,
+      "context": "Political maneuvering and competition."
+    },
+    {
+      "name": "国家治理",
+      "frequency": 2,
+      "context": "The act of governing the country, a primary duty of '众相公'."
+    },
+    {
+      "name": "制定法律",
+      "frequency": 1,
+      "context": "The role of '众相公' in lawmaking."
+    },
+    {
+      "name": "国家发展蓝图",
+      "frequency": 1,
+      "context": "The plans for national development conceived by '众相公'."
+    },
+    {
+      "name": "内外事务",
+      "frequency": 1,
+      "context": "Domestic and foreign affairs managed by '众相公'."
+    },
+    {
+      "name": "国家疆土",
+      "frequency": 1,
+      "context": "The territory of the nation, defended by '众相公'."
+    },
+    {
+      "name": "税收",
+      "frequency": 1,
+      "context": "Financial policy, influenced by '众相公'."
+    },
+    {
+      "name": "农业",
+      "frequency": 1,
+      "context": "Agricultural policy, affected by '众相公'."
+    },
+    {
+      "name": "军事",
+      "frequency": 1,
+      "context": "Military affairs, overseen by '众相公'."
+    },
+    {
+      "name": "文化",
+      "frequency": 1,
+      "context": "Cultural development, influenced by '众相公'."
+    },
+    {
+      "name": "光鲜亮丽",
+      "frequency": 1,
+      "context": "The often idealized public image of '众相公'."
+    },
+    {
+      "name": "权力高压",
+      "frequency": 1,
+      "context": "The immense pressure associated with holding power."
+    },
+    {
+      "name": "巨大挑战",
+      "frequency": 1,
+      "context": "The difficulties faced by '众相公'."
+    },
+    {
+      "name": "政治斗争",
+      "frequency": 2,
+      "context": "The inherent conflict and power struggles within the court."
+    },
+    {
+      "name": "派系林立",
+      "frequency": 1,
+      "context": "The existence of multiple factions in the court."
+    },
+    {
+      "name": "明争暗斗",
+      "frequency": 1,
+      "context": "Open and covert conflicts among officials."
+    },
+    {
+      "name": "身败名裂",
+      "frequency": 1,
+      "context": "The potential consequence of political downfall."
+    },
+    {
+      "name": "个人利益",
+      "frequency": 1,
+      "context": "The self-interest of individuals."
+    },
+    {
+      "name": "家族利益",
+      "frequency": 1,
+      "context": "The interests of one's family."
+    },
+    {
+      "name": "国家整体利益",
+      "frequency": 1,
+      "context": "The overarching interests of the state."
+    },
+    {
+      "name": "两难的境地",
+      "frequency": 1,
+      "context": "Dilemmas faced by '众相公'."
+    },
+    {
+      "name": "舆论的审视",
+      "frequency": 1,
+      "context": "Public scrutiny of the officials' actions."
+    },
+    {
+      "name": "百姓的期盼",
+      "frequency": 1,
+      "context": "The expectations of the common people."
+    },
+    {
+      "name": "功成名就",
+      "frequency": 1,
+      "context": "Achieving success and fame."
+    },
+    {
+      "name": "为国捐躯",
+      "frequency": 1,
+      "context": "Dying for one's country."
+    },
+    {
+      "name": "名垂青史",
+      "frequency": 1,
+      "context": "Being recorded in history for one's achievements."
+    },
+    {
+      "name": "政治斗争的失败",
+      "frequency": 1,
+      "context": "Losing in political power struggles."
+    },
+    {
+      "name": "个人品德的失误",
+      "frequency": 1,
+      "context": "Moral failings of officials."
+    },
+    {
+      "name": "悲惨的下场",
+      "frequency": 1,
+      "context": "A unfortunate fate."
+    },
+    {
+      "name": "历史长河",
+      "frequency": 1,
+      "context": "The continuous flow of history."
+    },
+    {
+      "name": "时代变迁",
+      "frequency": 1,
+      "context": "The changes brought about by time."
+    },
+    {
+      "name": "为官一任，造福一方",
+      "frequency": 1,
+      "context": "A principle of governance: to serve and benefit the region one governs."
+    },
+    {
+      "name": "担当",
+      "frequency": 1,
+      "context": "Responsibility and commitment."
+    },
+    {
+      "name": "精神脊梁",
+      "frequency": 1,
+      "context": "The moral and intellectual backbone of an era."
+    },
+    {
+      "name": "历史进程",
+      "frequency": 1,
+      "context": "The unfolding of historical events."
+    },
+    {
+      "name": "推动者",
+      "frequency": 1,
+      "context": "Agents of historical change."
+    },
+    {
+      "name": "历史的回顾",
+      "frequency": 1,
+      "context": "Looking back at the past."
+    },
+    {
+      "name": "社会责任",
+      "frequency": 1,
+      "context": "The obligations of individuals and groups to society."
+    },
+    {
+      "name": "个人价值实现",
+      "frequency": 1,
+      "context": "Fulfilling one's potential and purpose."
+    }
+  ],
+  "relations": [
+    {
+      "source": "众相公",
+      "target": "士大夫",
+      "type": "is_a"
+    },
+    {
+      "source": "众相公",
+      "target": "权力中心",
+      "type": "located_in"
+    },
+    {
+      "source": "众相公",
+      "target": "国家命运",
+      "type": "influences"
+    },
+    {
+      "source": "众相公",
+      "target": "王朝兴衰",
+      "type": "influences"
+    },
+    {
+      "source": "众相公",
+      "target": "百姓福祉",
+      "type": "influences"
+    },
+    {
+      "source": "众相公",
+      "target": "历史使命",
+      "type": "carries"
+    },
+    {
+      "source": "众相公",
+      "target": "精神追求",
+      "type": "embodies"
+    },
+    {
+      "source": "众相公",
+      "target": "科举考试",
+      "type": "entered_via"
+    },
+    {
+      "source": "众相公",
+      "target": "才华与学识",
+      "type": "possesses"
+    },
+    {
+      "source": "众相公",
+      "target": "家庭背景",
+      "type": "has_diverse"
+    },
+    {
+      "source": "众相公",
+      "target": "人生轨迹",
+      "type": "has_diverse"
+    },
+    {
+      "source": "寒门出身",
+      "target": "众相公",
+      "type": "part_of"
+    },
+    {
+      "source": "书中自有黄金屋",
+      "target": "寒门出身",
+      "type": "motivates"
+    },
+    {
+      "source": "十年寒窗苦读",
+      "target": "科举考试",
+      "type": "required_for"
+    },
+    {
+      "source": "登龙门",
+      "target": "科举考试_success",
+      "type": "metaphor_for"
+    },
+    {
+      "source": "书香门第",
+      "target": "众相公",
+      "type": "part_of"
+    },
+    {
+      "source": "家族荣耀",
+      "target": "书香门第",
+      "type": "inherited_by"
+    },
+    {
+      "source": "仕途",
+      "target": "书香门第",
+      "type": "often_smooth_for"
+    },
+    {
+      "source": "战功显赫",
+      "target": "将门之后",
+      "type": "characteristic_of"
+    },
+    {
+      "source": "将门之后",
+      "target": "众相公",
+      "type": "part_of"
+    },
+    {
+      "source": "军功",
+      "target": "将门之后",
+      "type": "basis_for"
+    },
+    {
+      "source": "政治智慧",
+      "target": "将门之后",
+      "type": "used_in"
+    },
+    {
+      "source": "权力斗角",
+      "target": "将门之后",
+      "type": "involved_in"
+    },
+    {
+      "source": "众相公",
+      "target": "国家治理",
+      "type": "responsible_for"
+    },
+    {
+      "source": "众相公",
+      "target": "制定法律",
+      "type": "participates_in"
+    },
+    {
+      "source": "众相公",
+      "target": "规划国家发展蓝图",
+      "type": "participates_in"
+    },
+    {
+      "source": "众相公",
+      "target": "处理国家内外事务",
+      "type": "participates_in"
+    },
+    {
+      "source": "众相公",
+      "target": "保卫国家疆土",
+      "type": "participates_in"
+    },
+    {
+      "source": "众相公",
+      "target": "税收",
+      "type": "influences"
+    },
+    {
+      "source": "众相公",
+      "target": "农业",
+      "type": "influences"
+    },
+    {
+      "source": "众相公",
+      "target": "军事",
+      "type": "influences"
+    },
+    {
+      "source": "众相公",
+      "target": "文化",
+      "type": "influences"
+    },
+    {
+      "source": "众相公",
+      "target": "生活",
+      "type": "has"
+    },
+    {
+      "source": "生活",
+      "target": "光鲜亮丽",
+      "type": "not_always"
+    },
+    {
+      "source": "众相公",
+      "target": "巨大挑战",
+      "type": "faces"
+    },
+    {
+      "source": "权力高压",
+      "target": "巨大挑战",
+      "type": "source_of"
+    },
+    {
+      "source": "政治斗争",
+      "target": "众相公",
+      "type": "involves"
+    },
+    {
+      "source": "派系林立",
+      "target": "朝堂",
+      "type": "characteristic_of"
+    },
+    {
+      "source": "明争暗斗",
+      "target": "朝堂",
+      "type": "characteristic_of"
+    },
+    {
+      "source": "政治斗争",
+      "target": "身败名裂",
+      "type": "can_lead_to"
+    },
+    {
+      "source": "个人利益",
+      "target": "众相公",
+      "type": "balances"
+    },
+    {
+      "source": "家族利益",
+      "target": "众相公",
+      "type": "balances"
+    },
+    {
+      "source": "国家整体利益",
+      "target": "众相公",
+      "type": "balances"
+    },
+    {
+      "source": "个人利益",
+      "target": "两难的境地",
+      "type": "involved_in"
+    },
+    {
+      "source": "家族利益",
+      "target": "两难的境地",
+      "type": "involved_in"
+    },
+    {
+      "source": "国家整体利益",
+      "target": "两难的境地",
+      "type": "involved_in"
+    },
+    {
+      "source": "舆论的审视",
+      "target": "众相公",
+      "type": "receives"
+    },
+    {
+      "source": "百姓的期盼",
+      "target": "众相公",
+      "type": "receives"
+    },
+    {
+      "source": "众相公",
+      "target": "结局",
+      "type": "has_diverse"
+    },
+    {
+      "source": "功成名就",
+      "target": "结局",
+      "type": "type_of"
+    },
+    {
+      "source": "为国捐躯",
+      "target": "功成名就",
+      "type": "part_of"
+    },
+    {
+      "source": "名垂青史",
+      "target": "功成名就",
+      "type": "part_of"
+    },
+    {
+      "source": "政治斗争的失败",
+      "target": "悲惨的下场",
+      "type": "can_lead_to"
+    },
+    {
+      "source": "个人品德的失误",
+      "target": "悲惨的下场",
+      "type": "can_lead_to"
+    },
+    {
+      "source": "命运",
+      "target": "历史长河",
+      "type": "like"
+    },
+    {
+      "source": "印记",
+      "target": "命运",
+      "type": "leaves"
+    },
+    {
+      "source": "时代变迁",
+      "target": "众相公_spirit",
+      "type": "does_not_diminish"
+    },
+    {
+      "source": "众相公",
+      "target": "为官一任，造福一方",
+      "type": "represents"
+    },
+    {
+      "source": "众相公",
+      "target": "担当",
+      "type": "embodies"
+    },
+    {
+      "source": "众相公",
+      "target": "精神脊梁",
+      "type": "are"
+    },
+    {
+      "source": "众相公",
+      "target": "历史进程",
+      "type": "are_推动者_of"
+    },
+    {
+      "source": "研究众相公",
+      "target": "历史的回顾",
+      "type": "is_not_just"
+    },
+    {
+      "source": "研究众相公",
+      "target": "国家治理",
+      "type": "explores"
+    },
+    {
+      "source": "研究众相公",
+      "target": "社会责任",
+      "type": "explores"
+    },
+    {
+      "source": "研究众相公",
+      "target": "个人价值实现",
+      "type": "explores"
+    }
+  ],
+  "hierarchy": {
+    "main_topics": [
+      "Definition and Role of 众相公",
+      "Origin and Composition of 众相公",
+      "Duties and Influence of 众相公",
+      "Challenges and Difficulties faced by 众相公",
+      "Outcomes and Legacies of 众相公",
+      "Enduring Spirit of 众相公"
+    ],
+    "structure": "The document begins with a broad definition and historical context of '众相公', followed by an explanation of their role and significance. It then delves into the diverse origins of this group, their responsibilities and the wide-ranging impact of their decisions. The text moves on to describe the challenges and predicaments faced by '众相公', including political struggles, ethical dilemmas, and public scrutiny. Finally, it discusses the varied outcomes of their lives and emphasizes the enduring spirit and value of studying this historical class."
+  }
+}

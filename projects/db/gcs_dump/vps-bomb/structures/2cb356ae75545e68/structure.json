@@ -1,0 +1,362 @@
+{
+  "propositions": [
+    {
+      "id": "1",
+      "text": "帅锅漫天飞，都把偶来追？",
+      "level": 1
+    },
+    {
+      "id": "1.1",
+      "text": "序言",
+      "level": 2
+    },
+    {
+      "id": "1.1.1",
+      "text": "www.txtnovel.com",
+      "level": 3
+    },
+    {
+      "id": "1.2",
+      "text": "正文",
+      "level": 2
+    },
+    {
+      "id": "1.2.1",
+      "text": "第一章：初遇",
+      "level": 3
+    },
+    {
+      "id": "1.2.1.1",
+      "text": "美女，一个人吗？",
+      "level": 4
+    },
+    {
+      "id": "1.2.1.2",
+      "text": "要不要这么俗套？",
+      "level": 4
+    },
+    {
+      "id": "1.2.1.3",
+      "text": "嘿嘿，没办法，谁让你长得这么漂亮呢？",
+      "level": 4
+    },
+    {
+      "id": "1.2.2",
+      "text": "第二章：邂逅",
+      "level": 3
+    },
+    {
+      "id": "1.2.2.1",
+      "text": "我叫李明。",
+      "level": 4
+    },
+    {
+      "id": "1.2.2.2",
+      "text": "我叫张薇。",
+      "level": 4
+    },
+    {
+      "id": "1.2.2.3",
+      "text": "很高兴认识你。",
+      "level": 4
+    },
+    {
+      "id": "1.2.3",
+      "text": "第三章：心动",
+      "level": 3
+    },
+    {
+      "id": "1.2.3.1",
+      "text": "你喜欢我吗？",
+      "level": 4
+    },
+    {
+      "id": "1.2.3.2",
+      "text": "我……",
+      "level": 4
+    },
+    {
+      "id": "1.2.4",
+      "text": "第四章：告白",
+      "level": 3
+    },
+    {
+      "id": "1.2.4.1",
+      "text": "李明，我喜欢你！",
+      "level": 4
+    },
+    {
+      "id": "1.2.4.2",
+      "text": "我也喜欢你。",
+      "level": 4
+    },
+    {
+      "id": "1.2.5",
+      "text": "第五章：在一起",
+      "level": 3
+    },
+    {
+      "id": "1.2.5.1",
+      "text": "我们在一起吧！",
+      "level": 4
+    },
+    {
+      "id": "1.2.5.2",
+      "text": "好！",
+      "level": 4
+    },
+    {
+      "id": "1.2.6",
+      "text": "第六章：甜蜜",
+      "level": 3
+    },
+    {
+      "id": "1.2.6.1",
+      "text": "我爱你。",
+      "level": 4
+    },
+    {
+      "id": "1.2.6.2",
+      "text": "我也爱你。",
+      "level": 4
+    },
+    {
+      "id": "1.2.7",
+      "text": "第七章：分歧",
+      "level": 3
+    },
+    {
+      "id": "1.2.7.1",
+      "text": "我们还是分手吧。",
+      "level": 4
+    },
+    {
+      "id": "1.2.7.2",
+      "text": "为什么？",
+      "level": 4
+    },
+    {
+      "id": "1.2.8",
+      "text": "第八章：挽回",
+      "level": 3
+    },
+    {
+      "id": "1.2.8.1",
+      "text": "我不想分手。",
+      "level": 4
+    },
+    {
+      "id": "1.2.8.2",
+      "text": "可是……",
+      "level": 4
+    },
+    {
+      "id": "1.2.9",
+      "text": "第九章：复合",
+      "level": 3
+    },
+    {
+      "id": "1.2.9.1",
+      "text": "我们复合吧。",
+      "level": 4
+    },
+    {
+      "id": "1.2.9.2",
+      "text": "好。",
+      "level": 4
+    },
+    {
+      "id": "1.2.10",
+      "text": "第十章：幸福",
+      "level": 3
+    },
+    {
+      "id": "1.2.10.1",
+      "text": "我们结婚吧！",
+      "level": 4
+    },
+    {
+      "id": "1.2.10.2",
+      "text": "好！",
+      "level": 4
+    },
+    {
+      "id": "1.2.11",
+      "text": "第十一章：永远",
+      "level": 3
+    },
+    {
+      "id": "1.2.11.1",
+      "text": "我永远爱你。",
+      "level": 4
+    },
+    {
+      "id": "1.2.11.2",
+      "text": "我也永远爱你。",
+      "level": 4
+    },
+    {
+      "id": "1.3",
+      "text": "参考文献",
+      "level": 2
+    },
+    {
+      "id": "1.3.1",
+      "text": "www.txtnovel.com...",
+      "level": 3
+    }
+  ],
+  "concepts": [
+    {
+      "name": "帅锅",
+      "frequency": 1,
+      "context": "Title of the document."
+    },
+    {
+      "name": "美女",
+      "frequency": 1,
+      "context": "Used in the dialogue of Chapter 1."
+    },
+    {
+      "name": "李明",
+      "frequency": 3,
+      "context": "Character name introduced in Chapter 2, mentioned in Chapter 4."
+    },
+    {
+      "name": "张薇",
+      "frequency": 1,
+      "context": "Character name introduced in Chapter 2."
+    },
+    {
+      "name": "喜欢",
+      "frequency": 3,
+      "context": "Expressed in Chapter 3 and Chapter 4."
+    },
+    {
+      "name": "在一起",
+      "frequency": 2,
+      "context": "Proposed in Chapter 5 and confirmed."
+    },
+    {
+      "name": "爱",
+      "frequency": 4,
+      "context": "Expressed in Chapter 6 and Chapter 11."
+    },
+    {
+      "name": "分手",
+      "frequency": 2,
+      "context": "Proposed in Chapter 7 and rejected in Chapter 8."
+    },
+    {
+      "name": "复合",
+      "frequency": 1,
+      "context": "Proposed in Chapter 9 and accepted."
+    },
+    {
+      "name": "结婚",
+      "frequency": 1,
+      "context": "Proposed in Chapter 10 and accepted."
+    },
+    {
+      "name": "永远",
+      "frequency": 2,
+      "context": "Used in the context of love in Chapter 11."
+    },
+    {
+      "name": "www.txtnovel.com",
+      "frequency": 2,
+      "context": "Appears in the preamble and references."
+    }
+  ],
+  "relations": [
+    {
+      "source": "帅锅",
+      "target": "追",
+      "type": "action_related_to"
+    },
+    {
+      "source": "美女",
+      "target": "漂亮",
+      "type": "attribute_of"
+    },
+    {
+      "source": "李明",
+      "target": "喜欢",
+      "type": "expresses"
+    },
+    {
+      "source": "张薇",
+      "target": "喜欢",
+      "type": "expresses"
+    },
+    {
+      "source": "李明",
+      "target": "在一起",
+      "type": "proposes"
+    },
+    {
+      "source": "张薇",
+      "target": "在一起",
+      "type": "accepts"
+    },
+    {
+      "source": "李明",
+      "target": "爱",
+      "type": "expresses"
+    },
+    {
+      "source": "张薇",
+      "target": "爱",
+      "type": "expresses"
+    },
+    {
+      "source": "张薇",
+      "target": "分手",
+      "type": "proposes"
+    },
+    {
+      "source": "李明",
+      "target": "不想分手",
+      "type": "rejects"
+    },
+    {
+      "source": "张薇",
+      "target": "复合",
+      "type": "proposes"
+    },
+    {
+      "source": "李明",
+      "target": "复合",
+      "type": "accepts"
+    },
+    {
+      "source": "张薇",
+      "target": "结婚",
+      "type": "proposes"
+    },
+    {
+      "source": "李明",
+      "target": "结婚",
+      "type": "accepts"
+    },
+    {
+      "source": "李明",
+      "target": "永远爱你",
+      "type": "declares"
+    },
+    {
+      "source": "张薇",
+      "target": "永远爱你",
+      "type": "declares"
+    }
+  ],
+  "hierarchy": {
+    "main_topics": [
+      "Title",
+      "Preamble",
+      "Main Body (Chapters)",
+      "References"
+    ],
+    "structure": "The document has a clear hierarchical structure starting with a title, followed by a preamble, a main body divided into sequentially numbered chapters, and concluding with a references section. Each chapter contains dialogue, progressing a narrative arc of a relationship."
+  }
+}

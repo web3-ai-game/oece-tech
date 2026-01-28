@@ -1,0 +1,5833 @@
+{
+  "propositions": [
+    {
+      "id": "1",
+      "text": "The telephone rings, signaling a terrible change.",
+      "level": 1
+    },
+    {
+      "id": "1.1",
+      "text": "The narrator is not a fortune teller and cannot predict the future.",
+      "level": 2
+    },
+    {
+      "id": "1.2",
+      "text": "The narrator's father is dying.",
+      "level": 2
+    },
+    {
+      "id": "1.3",
+      "text": "The narrator fears losing his father and facing life alone at twenty-eight.",
+      "level": 2
+    },
+    {
+      "id": "1.4",
+      "text": "The narrator is an only child; his mother died two years ago.",
+      "level": 2
+    },
+    {
+      "id": "1.5",
+      "text": "The narrator returned home tired and couldn't sleep well.",
+      "level": 2
+    },
+    {
+      "id": "1.6",
+      "text": "The narrator leans forward, wishing the ringing would stop.",
+      "level": 2
+    },
+    {
+      "id": "1.7",
+      "text": "The family dog, Olson, senses the significance of the call.",
+      "level": 2
+    },
+    {
+      "id": "1.8",
+      "text": "Olson is an unusual dog, staring intently at people.",
+      "level": 3
+    },
+    {
+      "id": "1.9",
+      "text": "Olson may see something unsettling but is not easily frightened.",
+      "level": 3
+    },
+    {
+      "id": "1.10",
+      "text": "Olson is the narrator's dog and trusted friend.",
+      "level": 2
+    },
+    {
+      "id": "1.11",
+      "text": "The narrator finally answers the phone on the seventh ring.",
+      "level": 2
+    },
+    {
+      "id": "1.12",
+      "text": "A nurse from Mercy Hospital informs him of his father's critical condition.",
+      "level": 2
+    },
+    {
+      "id": "1.13",
+      "text": "The narrator is advised to go to the hospital immediately.",
+      "level": 2
+    },
+    {
+      "id": "1.14",
+      "text": "After hanging up, Olson rests his head on the narrator's lap.",
+      "level": 2
+    },
+    {
+      "id": "1.15",
+      "text": "The narrator feels a loss of sensation and an inability to think or act.",
+      "level": 2
+    },
+    {
+      "id": "1.16",
+      "text": "The silence of the house is oppressive.",
+      "level": 2
+    },
+    {
+      "id": "1.17",
+      "text": "The narrator calls Sasha Gude to drive him to the hospital.",
+      "level": 2
+    },
+    {
+      "id": "1.18",
+      "text": "Sasha usually sleeps until 8 PM and works as a radio DJ from midnight to 6 AM.",
+      "level": 3
+    },
+    {
+      "id": "1.19",
+      "text": "The narrator feels guilty about waking her on a March evening.",
+      "level": 3
+    },
+    {
+      "id": "1.20",
+      "text": "Sasha is also a friend the narrator can rely on.",
+      "level": 2
+    },
+    {
+      "id": "1.21",
+      "text": "Sasha answers on the second ring, sounding awake.",
+      "level": 2
+    },
+    {
+      "id": "1.22",
+      "text": "Sasha expresses regret, seemingly anticipating the bad news.",
+      "level": 2
+    },
+    {
+      "id": "1.23",
+      "text": "The narrator forces himself not to think about what might happen, hoping for a misdiagnosis or remission.",
+      "level": 2
+    },
+    {
+      "id": "1.24",
+      "text": "The narrator believes in miracles, considering his own survival to twenty-eight a miracle.",
+      "level": 2
+    },
+    {
+      "id": "1.25",
+      "text": "The narrator believes everyone 'needs a miracle'.",
+      "level": 2
+    },
+    {
+      "id": "1.26",
+      "text": "Sasha promises to be there in five minutes.",
+      "level": 2
+    },
+    {
+      "id": "1.27",
+      "text": "Walking to the hospital would be too conspicuous and risky at this hour.",
+      "level": 2
+    },
+    {
+      "id": "1.28",
+      "text": "The narrator asks Sasha to be careful and says he needs ten minutes to prepare.",
+      "level": 2
+    },
+    {
+      "id": "1.29",
+      "text": "They exchange 'I love you'.",
+      "level": 2
+    },
+    {
+      "id": "2",
+      "text": "The narrator describes California pepper trees.",
+      "level": 1
+    },
+    {
+      "id": "2.1",
+      "text": "During the day, they shimmer and appear graceful.",
+      "level": 2
+    },
+    {
+      "id": "2.2",
+      "text": "At night, they appear to bow their heads in sadness.",
+      "level": 2
+    },
+    {
+      "id": "2.3",
+      "text": "These trees line the long driveway to Cork's Funeral Home.",
+      "level": 2
+    },
+    {
+      "id": "2.4",
+      "text": "The funeral home is on a three-acre hill northeast of town.",
+      "level": 3
+    },
+    {
+      "id": "2.5",
+      "text": "The trees act as mourners.",
+      "level": 2
+    },
+    {
+      "id": "2.6",
+      "text": "The narrator climbs the private road, with landscape lights casting rings of light.",
+      "level": 2
+    },
+    {
+      "id": "2.7",
+      "text": "The wind rustles the leaves with a sigh.",
+      "level": 2
+    },
+    {
+      "id": "2.8",
+      "text": "No cars are parked along the road, indicating no services are in progress.",
+      "level": 2
+    },
+    {
+      "id": "2.9",
+      "text": "The narrator usually walks or bikes and has no reason to learn to drive.",
+      "level": 3
+    },
+    {
+      "id": "2.10",
+      "text": "Driving during the day is problematic, and at night, headlights are blinding without sunglasses, which draw police attention.",
+      "level": 3
+    },
+    {
+      "id": "2.11",
+      "text": "A full moon rises.",
+      "level": 2
+    },
+    {
+      "id": "2.12",
+      "text": "The narrator likes the moon for its gentle light.",
+      "level": 2
+    },
+    {
+      "id": "2.13",
+      "text": "The road loops around the hilltop, forming a circular lawn.",
+      "level": 2
+    },
+    {
+      "id": "2.14",
+      "text": "In the center of the lawn is a concrete cast of Michelangelo's 'Pietà'.",
+      "level": 2
+    },
+    {
+      "id": "2.15",
+      "text": "Under the moonlight, the sculpture gleams, making the crude casting appear less so.",
+      "level": 2
+    },
+    {
+      "id": "2.16",
+      "text": "The narrator appreciates humanity's ability to find solace and hope in even flawed things.",
+      "level": 2
+    },
+    {
+      "id": "2.17",
+      "text": "The narrator hesitates at the porch, unsure of what lies ahead.",
+      "level": 2
+    },
+    {
+      "id": "2.18",
+      "text": "The funeral home is a large, two-story Georgian-style building.",
+      "level": 3
+    },
+    {
+      "id": "2.19",
+      "text": "It looks out of place in Moonlight Bay.",
+      "level": 3
+    },
+    {
+      "id": "2.20",
+      "text": "Sandy Cork lives on the second floor, which is dark.",
+      "level": 3
+    },
+    {
+      "id": "2.21",
+      "text": "The viewing room is on the first floor, with faint light visible through stained glass.",
+      "level": 3
+    },
+    {
+      "id": "2.22",
+      "text": "The narrator rings the doorbell.",
+      "level": 2
+    },
+    {
+      "id": "2.23",
+      "text": "Sandy Cork emerges, his elegant gait suggesting his identity.",
+      "level": 2
+    },
+    {
+      "id": "2.24",
+      "text": "Sandy opens the door and lights the interior and porch.",
+      "level": 2
+    },
+    {
+      "id": "2.25",
+      "text": "Sandy expresses surprise at seeing Christopher.",
+      "level": 2
+    },
+    {
+      "id": "2.26",
+      "text": "Sandy offers condolences for the narrator's father.",
+      "level": 2
+    },
+    {
+      "id": "2.27",
+      "text": "Sandy assures the narrator his father was treated with extra care.",
+      "level": 2
+    },
+    {
+      "id": "2.28",
+      "text": "Sandy recalls taking a 20th-century poetry class from the narrator's father and learning to appreciate poets like Eliot and Pound.",
+      "level": 3
+    },
+    {
+      "id": "2.29",
+      "text": "The narrator mentions his father's favorite poets: Wallace Stevens, Donald Justice, and Louise Glück.",
+      "level": 2
+    },
+    {
+      "id": "2.30",
+      "text": "Sandy turns off the lights to be considerate.",
+      "level": 2
+    },
+    {
+      "id": "2.31",
+      "text": "Sandy states that while this is hard, at least the father is free from pain.",
+      "level": 2
+    },
+    {
+      "id": "2.32",
+      "text": "Sandy's green eyes appear dark under the moonlight.",
+      "level": 3
+    },
+    {
+      "id": "2.33",
+      "text": "The narrator asks to see his father.",
+      "level": 2
+    },
+    {
+      "id": "2.34",
+      "text": "Sandy expresses regret, stating the process has already begun.",
+      "level": 2
+    },
+    {
+      "id": "2.35",
+      "text": "The narrator asks if his father has been cremated.",
+      "level": 2
+    },
+    {
+      "id": "2.36",
+      "text": "Sandy confirms the body has been moved for cremation.",
+      "level": 2
+    },
+    {
+      "id": "2.37",
+      "text": "The narrator questions if it's too soon.",
+      "level": 2
+    },
+    {
+      "id": "2.38",
+      "text": "Sandy explains that delays are not wise in their business.",
+      "level": 2
+    },
+    {
+      "id": "2.39",
+      "text": "Sandy expresses distress at the narrator's sadness and wishes he could help.",
+      "level": 2
+    },
+    {
+      "id": "2.40",
+      "text": "The narrator feels ashamed of Sandy's lie, considering it a shared disgrace.",
+      "level": 2
+    },
+    {
+      "id": "2.41",
+      "text": "The narrator avoids Sandy's gaze and looks at the floor.",
+      "level": 2
+    },
+    {
+      "id": "2.42",
+      "text": "Sandy misinterprets the narrator's silence as grief and pats his shoulder.",
+      "level": 2
+    },
+    {
+      "id": "2.43",
+      "text": "Sandy admits he's not good at providing comfort and doesn't know how to make death easier.",
+      "level": 2
+    },
+    {
+      "id": "2.44",
+      "text": "The narrator forces himself to say he'll be fine and leaves before acting impulsively.",
+      "level": 2
+    },
+    {
+      "id": "2.45",
+      "text": "Sandy states he avoids clichés and only says special things to the narrator.",
+      "level": 2
+    },
+    {
+      "id": "2.46",
+      "text": "The narrator thanks Sandy and apologizes for the intrusion.",
+      "level": 2
+    },
+    {
+      "id": "2.47",
+      "text": "Sandy wishes the narrator had called earlier so he could have 'delayed' things.",
+      "level": 2
+    },
+    {
+      "id": "2.48",
+      "text": "The narrator reassures Sandy it's not his fault.",
+      "level": 2
+    },
+    {
+      "id": "2.49",
+      "text": "The narrator retreats from the porch and turns away from Sandy.",
+      "level": 2
+    },
+    {
+      "id": "2.50",
+      "text": "Sandy asks about funeral arrangements.",
+      "level": 2
+    },
+    {
+      "id": "2.51",
+      "text": "The narrator says he hasn't thought about it and will tell him tomorrow.",
+      "level": 2
+    },
+    {
+      "id": "2.52",
+      "text": "Sandy asks if the narrator is alright.",
+      "level": 2
+    },
+    {
+      "id": "2.53",
+      "text": "The narrator replies numbly that he's fine and will be alright.",
+      "level": 2
+    },
+    {
+      "id": "2.54",
+      "text": "The narrator walks away, looking back at the funeral home.",
+      "level": 2
+    },
+    {
+      "id": "2.55",
+      "text": "The 'Pietà' sculpture gleams under the moonlight.",
+      "level": 2
+    },
+    {
+      "id": "2.56",
+      "text": "The narrator resists the urge to look back at Sandy.",
+      "level": 2
+    },
+    {
+      "id": "2.57",
+      "text": "The trees whisper as he walks down the driveway.",
+      "level": 2
+    },
+    {
+      "id": "2.58",
+      "text": "The temperature drops, and a clean breeze blows from the sea.",
+      "level": 2
+    },
+    {
+      "id": "2.59",
+      "text": "Once out of Sandy's sight, the narrator looks back and sees only the roof and chimney against the starry sky.",
+      "level": 2
+    },
+    {
+      "id": "2.60",
+      "text": "He leaves the asphalt for the grass and heads uphill.",
+      "level": 2
+    },
+    {
+      "id": "2.61",
+      "text": "The funeral home's circular drive and the 'Pietà' reappear.",
+      "level": 2
+    },
+    {
+      "id": "2.62",
+      "text": "Sandy is inside, and the main door is closed.",
+      "level": 2
+    },
+    {
+      "id": "2.63",
+      "text": "The narrator goes around to the back of the house, using trees and bushes for cover.",
+      "level": 2
+    },
+    {
+      "id": "2.64",
+      "text": "The backyard features a large porch, a swimming pool, a Spanish-style courtyard, and a rose garden, hidden from public view.",
+      "level": 3
+    },
+    {
+      "id": "2.65",
+      "text": "The narrator notes the city's birth and death rates and the limited number of funeral homes.",
+      "level": 3
+    },
+    {
+      "id": "2.66",
+      "text": "Cork Funeral Home handles a significant portion of the business.",
+      "level": 3
+    },
+    {
+      "id": "2.67",
+      "text": "Death is a profitable business for Sandy.",
+      "level": 2
+    },
+    {
+      "id": "2.68",
+      "text": "The daytime view from the courtyard is presumably impressive.",
+      "level": 3
+    },
+    {
+      "id": "2.69",
+      "text": "Seeing no one in the lighted window, the narrator crosses the courtyard.",
+      "level": 2
+    },
+    {
+      "id": "2.70",
+      "text": "The moonlight shines on the dark pool water.",
+      "level": 2
+    },
+    {
+      "id": "2.71",
+      "text": "The house is adjacent to a large L-shaped garage, which houses two hearses and Sandy's car, and also contains the crematorium.",
+      "level": 3
+    },
+    {
+      "id": "2.72",
+      "text": "The narrator sneaks behind the garage, moving along the shorter side, with eucalyptus trees providing cover.",
+      "level": 2
+    },
+    {
+      "id": "2.73",
+      "text": "The air is fragrant with eucalyptus, and fallen leaves crunch underfoot.",
+      "level": 2
+    },
+    {
+      "id": "2.74",
+      "text": "The narrator knows Moonlight Bay well, especially this area.",
+      "level": 3
+    },
+    {
+      "id": "2.75",
+      "text": "He anticipates seeing something disturbing and horrific at the crematorium window.",
+      "level": 2
+    },
+    {
+      "id": "2.76",
+      "text": "His prediction proves correct.",
+      "level": 2
+    },
+    {
+      "id": "2.77",
+      "text": "Fifteen years prior, the narrator and his friend Bobby Heigeway explored the funeral home, fascinated by death.",
+      "level": 3
+    },
+    {
+      "id": "2.78",
+      "text": "They fantasized about finding gruesome things, like skeletons or a mad scientist son creating lightning.",
+      "level": 4
+    },
+    {
+      "id": "2.79",
+      "text": "They may have expected to encounter Lovecraftian deities in the rose garden.",
+      "level": 4
+    },
+    {
+      "id": "2.80",
+      "text": "Bobby called them 'weird kids', but the narrator felt they were only slightly weirder than others.",
+      "level": 3
+    },
+    {
+      "id": "2.81",
+      "text": "Bobby believed in embracing their strangeness and aligning with nature.",
+      "level": 3
+    },
+    {
+      "id": "2.82",
+      "text": "One October night, they found the crematorium window and were drawn by the flickering light.",
+      "level": 3
+    },
+    {
+      "id": "2.83",
+      "text": "Unable to see from their height, they moved a wooden bench to stand on.",
+      "level": 3
+    },
+    {
+      "id": "2.84",
+      "text": "They clearly saw Frank Cork and his assistant working, as the louvers were not fully closed.",
+      "level": 3
+    },
+    {
+      "id": "2.85",
+      "text": "Despite the risk of blindness, the narrator wanted to share the experience with Bobby.",
+      "level": 3
+    },
+    {
+      "id": "2.86",
+      "text": "A stretcher with an old man's body was near the window, his face visible.",
+      "level": 3
+    },
+    {
+      "id": "2.87",
+      "text": "The man's appearance suggested he died after a long illness.",
+      "level": 3
+    },
+    {
+      "id": "2.88",
+      "text": "His appearance was terrifying, making him a subject for their morbid fascination.",
+      "level": 3
+    },
+    {
+      "id": "2.89",
+      "text": "The most striking feature was his one open eye, filled with blood.",
+      "level": 3
+    },
+    {
+      "id": "2.90",
+      "text": "The eye seemed to stare into them.",
+      "level": 3
+    },
+    {
+      "id": "2.91",
+      "text": "They watched Frank and his assistant prepare the crematorium, noting the heat and their sweaty appearance.",
+      "level": 3
+    },
+    {
+      "id": "2.92",
+      "text": "The boys shivered despite the mild October night.",
+      "level": 3
+    },
+    {
+      "id": "2.93",
+      "text": "The funeral director pulled back the sheet, revealing the old man's emaciated body.",
+      "level": 3
+    },
+    {
+      "id": "2.94",
+      "text": "The boys were shocked but also thrilled, comparing it to watching 'Night of the Living Dead'.",
+      "level": 3
+    },
+    {
+      "id": "2.95",
+      "text": "As the body was placed in a cardboard box and pushed into the crematorium's blue flames, the boys held onto each other.",
+      "level": 3
+    },
+    {
+      "id": "2.96",
+      "text": "They feared being pulled into the fire themselves.",
+      "level": 3
+    },
+    {
+      "id": "2.97",
+      "text": "The heavy thud of the crematorium door closing echoed through them.",
+      "level": 3
+    },
+    {
+      "id": "2.98",
+      "text": "They returned the bench and fled the funeral home.",
+      "level": 2
+    },
+    {
+      "id": "2.99",
+      "text": "They hid in the unlit bleachers of a high school football field.",
+      "level": 2
+    },
+    {
+      "id": "2.100",
+      "text": "They ate chips and drank cola, exclaiming how cool the experience was.",
+      "level": 2
+    },
+    {
+      "id": "2.101",
+      "text": "They compared it to other exciting but less intense experiences.",
+      "level": 3
+    },
+    {
+      "id": "2.102",
+      "text": "The narrator reflects on how bold thirteen-year-olds can be.",
+      "level": 2
+    },
+    {
+      "id": "2.103",
+      "text": "The experience solidified their friendship.",
+      "level": 2
+    },
+    {
+      "id": "2.104",
+      "text": "They sensed a deeper meaning to the event beyond their comprehension.",
+      "level": 2
+    },
+    {
+      "id": "2.105",
+      "text": "A second, more disturbing event in December cemented their bond.",
+      "level": 2
+    },
+    {
+      "id": "2.106",
+      "text": "Fifteen years later, the narrator is back at the crematorium window.",
+      "level": 2
+    },
+    {
+      "id": "2.107",
+      "text": "The louvers are still yellowed, but the gaps are wide enough to see through.",
+      "level": 3
+    },
+    {
+      "id": "2.108",
+      "text": "Sandy Cork and his assistant are working next to the 'Power Pak II' cremator.",
+      "level": 3
+    },
+    {
+      "id": "2.109",
+      "text": "They are wearing masks, gloves, and disposable aprons.",
+      "level": 3
+    },
+    {
+      "id": "2.110",
+      "text": "An opaque nylon body bag contains a homeless man, likely to be cremated in place of the narrator's father.",
+      "level": 3
+    },
+    {
+      "id": "2.111",
+      "text": "The man's face is severely beaten, and his eyes are missing.",
+      "level": 3
+    },
+    {
+      "id": "2.112",
+      "text": "This sight is far more horrifying than the bleeding eye of the old man from fifteen years ago.",
+      "level": 3
+    },
+    {
+      "id": "2.113",
+      "text": "The previous incident represented nature's cruelty; this represents human cruelty.",
+      "level": 3
+    },
+    {
+      "id": "2.114",
+      "text": "In the past, they occasionally returned to the window, smelling the eucalyptus and associating it with death.",
+      "level": 3
+    },
+    {
+      "id": "2.115",
+      "text": "Frank Cork cremated only three out of fourteen bodies during those months.",
+      "level": 3
+    },
+    {
+      "id": "2.116",
+      "text": "Most bodies were embalmed for traditional burial.",
+      "level": 3
+    },
+    {
+      "id": "2.117",
+      "text": "They couldn't observe the embalming room as it was in the basement and had no windows.",
+      "level": 3
+    },
+    {
+      "id": "2.118",
+      "text": "The narrator is privately relieved they couldn't witness embalming.",
+      "level": 3
+    },
+    {
+      "id": "2.119",
+      "text": "Frank likely did embalming during the day and cremations at night.",
+      "level": 3
+    },
+    {
+      "id": "2.120",
+      "text": "The old cremator was primitive, but the 'Power Pak II' is more advanced.",
+      "level": 3
+    },
+    {
+      "id": "2.121",
+      "text": "Frank chose nighttime cremations out of respect for the families, to avoid them seeing the smoke from afar.",
+      "level": 3
+    },
+    {
+      "id": "2.122",
+      "text": "Bobby's father, the editor of the Moonlight Bay Gazette, provided them with information on recent deaths.",
+      "level": 3
+    },
+    {
+      "id": "2.123",
+      "text": "They would rush to the funeral home to observe cremations.",
+      "level": 3
+    },
+    {
+      "id": "2.124",
+      "text": "Mr. Gables, president of First National Bank, died of a heart attack and was cremated.",
+      "level": 3
+    },
+    {
+      "id": "2.125",
+      "text": "Henry Ames, a carpenter, fell and broke his neck, and was also cremated, but they didn't witness it because the louvers were closed.",
+      "level": 3
+    },
+    {
+      "id": "2.126",
+      "text": "They witnessed the cremation of Roberta Aikens, a thirty-year-old librarian and mother of a five-year-old son.",
+      "level": 3
+    },
+    {
+      "id": "2.127",
+      "text": "Roberta looked beautiful and serene on the stretcher.",
+      "level": 3
+    },
+    {
+      "id": "2.128",
+      "text": "They felt no carnal thoughts, only admiration for her beauty.",
+      "level": 3
+    },
+    {
+      "id": "2.129",
+      "text": "She died quickly from a ruptured brain aneurysm.",
+      "level": 3
+    },
+    {
+      "id": "2.130",
+      "text": "Her face was peaceful, with a slight smile, as if dreaming.",
+      "level": 3
+    },
+    {
+      "id": "2.131",
+      "text": "When the sheet was lifted, they saw her slender, perfectly formed body, described as indescribably lovely and beyond carnal attraction.",
+      "level": 3
+    },
+    {
+      "id": "2.132",
+      "text": "She looked young and timeless.",
+      "level": 3
+    },
+    {
+      "id": "2.133",
+      "text": "The funeral home personnel were unusually gentle and reverent as they placed her in the cremation box.",
+      "level": 3
+    },
+    {
+      "id": "2.134",
+      "text": "Frank Cork removed his gloves and wiped his eyes, not from sweat.",
+      "level": 3
+    },
+    {
+      "id": "2.135",
+      "text": "Unlike previous cremations where they chatted, Frank and his assistant were silent.",
+      "level": 3
+    },
+    {
+      "id": "2.136",
+      "text": "The boys were also speechless.",
+      "level": 2
+    },
+    {
+      "id": "2.137",
+      "text": "They returned the bench and left the funeral home quietly.",
+      "level": 2
+    },
+    {
+      "id": "2.138",
+      "text": "They rode their bikes to the beach.",
+      "level": 2
+    },
+    {
+      "id": "2.139",
+      "text": "The beach was deserted under the winter sky.",
+      "level": 2
+    },
+    {
+      "id": "2.140",
+      "text": "The narrator thought about Christmas approaching and the orphaned son of Roberta Aikens.",
+      "level": 2
+    },
+    {
+      "id": "2.141",
+      "text": "Bobby suggested they go swimming.",
+      "level": 2
+    },
+    {
+      "id": "2.142",
+      "text": "Despite the mild weather, the December sea was cold.",
+      "level": 3
+    },
+    {
+      "id": "2.143",
+      "text": "They swam far out into the ocean.",
+      "level": 2
+    },
+    {
+      "id": "2.144",
+      "text": "They swam north with the tide, a dangerous distance.",
+      "level": 2
+    },
+    {
+      "id": "2.145",
+      "text": "They were both good swimmers but became careless due to the perceived warmth of the water.",
+      "level": 3
+    },
+    {
+      "id": "2.146",
+      "text": "The cold water became increasingly intense.",
+      "level": 3
+    },
+    {
+      "id": "2.147",
+      "text": "They should have returned to shore but instead paused.",
+      "level": 3
+    },
+    {
+      "id": "2.148",
+      "text": "They began to shiver violently, their breath chilling their throats.",
+      "level": 3
+    },
+    {
+      "id": "2.149",
+      "text": "They turned back, still far from shore.",
+      "level": 2
+    },
+    {
+      "id": "2.150",
+      "text": "Their limbs grew heavy, and their hearts pounded.",
+      "level": 2
+    },
+    {
+      "id": "2.151",
+      "text": "The waves felt rough and biting.",
+      "level": 2
+    },
+    {
+      "id": "2.152",
+      "text": "They kept each other in sight, relying on their friendship for support.",
+      "level": 2
+    },
+    {
+      "id": "2.153",
+      "text": "They returned to shore exhausted, nauseated, and shivering.",
+      "level": 2
+    },
+    {
+      "id": "2.154",
+      "text": "They were too cold to even remember the crematorium's heat.",
+      "level": 2
+    },
+    {
+      "id": "2.155",
+      "text": "They left the beach and rode their bikes home.",
+      "level": 2
+    },
+    {
+      "id": "2.156",
+      "text": "They slept deeply upon returning home.",
+      "level": 2
+    },
+    {
+      "id": "2.157",
+      "text": "They never returned to the crematorium window or mentioned Roberta Aikens again.",
+      "level": 2
+    },
+    {
+      "id": "2.158",
+      "text": "They remained steadfast friends, willing to die for each other.",
+      "level": 2
+    },
+    {
+      "id": "2.159",
+      "text": "The narrator reflects on the unreality of sensory experiences compared to abstract concepts like love, friendship, and loneliness.",
+      "level": 2
+    },
+    {
+      "id": "2.160",
+      "text": "The current reality of the crematorium window and its sights is more real than imagined.",
+      "level": 2
+    },
+    {
+      "id": "2.161",
+      "text": "The brutal murder of a hitchhiker and the gouging out of his eyes are disturbingly real.",
+      "level": 2
+    },
+    {
+      "id": "2.162",
+      "text": "The motive of a body swap is questioned, as is the reason for removing the eyes.",
+      "level": 2
+    },
+    {
+      "id": "2.163",
+      "text": "The narrator describes a burly man with a shaven head, a pearl earring, and cold, steely eyes.",
+      "level": 3
+    },
+    {
+      "id": "2.164",
+      "text": "This man seems capable of inflicting pain and dismemberment without remorse.",
+      "level": 3
+    },
+    {
+      "id": "2.165",
+      "text": "Sandy and his assistant are pushing the gurney towards the cremator when the phone rings.",
+      "level": 2
+    },
+    {
+      "id": "2.166",
+      "text": "The narrator instinctively shrinks away from the window, feeling like he triggered an alarm.",
+      "level": 2
+    },
+    {
+      "id": "2.167",
+      "text": "He sees Sandy take off his mask and answer the phone, his tone shifting from confusion to anger.",
+      "level": 2
+    },
+    {
+      "id": "2.168",
+      "text": "Sandy slams the receiver back, likely deafening the person on the other end.",
+      "level": 2
+    },
+    {
+      "id": "2.169",
+      "text": "Sandy speaks urgently to his assistant, and the narrator thinks he hears his name mentioned negatively.",
+      "level": 2
+    },
+    {
+      "id": "2.170",
+      "text": "The assistant, Jesse Pinne, has a gaunt face, red hair, and brown eyes.",
+      "level": 3
+    },
+    {
+      "id": "2.171",
+      "text": "Jesse begins to zip up the body bag.",
+      "level": 2
+    },
+    {
+      "id": "2.172",
+      "text": "Sandy takes off his jacket and reveals a shoulder holster with a handgun.",
+      "level": 2
+    },
+    {
+      "id": "2.173",
+      "text": "Sandy yells at Jesse and gestures towards the window.",
+      "level": 2
+    },
+    {
+      "id": "2.174",
+      "text": "The narrator believes he hasn't been seen.",
+      "level": 2
+    },
+    {
+      "id": "2.175",
+      "text": "Despite his optimism, the narrator decides it's wiser to flee.",
+      "level": 2
+    },
+    {
+      "id": "2.176",
+      "text": "He retreats through the gap between the garage wall and eucalyptus trees, the air thick with the scent of death.",
+      "level": 2
+    },
+    {
+      "id": "2.177",
+      "text": "The crunching of leaves underfoot is masked by the wind in the trees.",
+      "level": 2
+    },
+    {
+      "id": "2.178",
+      "text": "The narrator suspects the call was from a hospital orderly who discovered the body swap and saw the narrator's wallet.",
+      "level": 2
+    },
+    {
+      "id": "2.179",
+      "text": "Sandy now realizes the narrator's presence at the door had a different motive.",
+      "level": 2
+    },
+    {
+      "id": "2.180",
+      "text": "Sandy and Jesse will likely search for him nearby.",
+      "level": 2
+    },
+    {
+      "id": "2.181",
+      "text": "The narrator reaches the backyard and decides not to linger near the house or driveway.",
+      "level": 2
+    },
+    {
+      "id": "2.182",
+      "text": "He runs across the lawn towards the rose garden.",
+      "level": 2
+    },
+    {
+      "id": "2.183",
+      "text": "The rose garden is terraced, with trellises and winding paths.",
+      "level": 3
+    },
+    {
+      "id": "2.184",
+      "text": "Roses are in bloom, their dark colors appearing black in the moonlight.",
+      "level": 3
+    },
+    {
+      "id": "2.185",
+      "text": "White flowers resemble baby heads.",
+      "level": 3
+    },
+    {
+      "id": "2.186",
+      "text": "Voices are heard, and two flashlight beams emerge from near the garage.",
+      "level": 2
+    },
+    {
+      "id": "2.187",
+      "text": "Sandy Cork, likely armed, and Jesse Pinne are searching.",
+      "level": 3
+    },
+    {
+      "id": "2.188",
+      "text": "A third, fourth, fifth, and sixth flashlight beam appear.",
+      "level": 2
+    },
+    {
+      "id": "2.189",
+      "text": "The narrator doesn't know who these new searchers are.",
+      "level": 2
+    },
+    {
+      "id": "2.190",
+      "text": "They spread out, moving towards the rose garden.",
+      "level": 2
+    },
+    {
+      "id": "2.191",
+      "text": "The narrator feels like he's in a nightmare.",
+      "level": 2
+    },
+    {
+      "id": "2.192",
+      "text": "The garden's terraced structure makes descending difficult.",
+      "level": 3
+    },
+    {
+      "id": "2.193",
+      "text": "The trellises and thorny vines seem to writhe.",
+      "level": 3
+    },
+    {
+      "id": "2.194",
+      "text": "The night has become a waking nightmare.",
+      "level": 2
+    },
+    {
+      "id": "2.195",
+      "text": "The narrator's heart pounds, and he feels the sky might collapse.",
+      "level": 2
+    },
+    {
+      "id": "2.196",
+      "text": "He reaches a seven-foot iron fence at the garden's end and collides with it.",
+      "level": 2
+    },
+    {
+      "id": "2.197",
+      "text": "He crouches behind the fence, his mouth tasting bitter.",
+      "level": 2
+    },
+    {
+      "id": "2.198",
+      "text": "He feels thorns in his face, likely from the roses.",
+      "level": 2
+    },
+    {
+      "id": "2.199",
+      "text": "The scent of roses is overpowering, mixed with sweat and sunscreen.",
+      "level": 2
+    },
+    {
+      "id": "2.200",
+      "text": "He humorously considers the hunters tracking him by scent.",
+      "level": 2
+    },
+    {
+      "id": "2.201",
+      "text": "He observes the search party ascending the terraces.",
+      "level": 2
+    },
+    {
+      "id": "2.202",
+      "text": "The searchers are moving faster.",
+      "level": 2
+    },
+    {
+      "id": "2.203",
+      "text": "The narrator crosses the fence into a wide, dark valley with scattered oak trees.",
+      "level": 2
+    },
+    {
+      "id": "2.204",
+      "text": "The grass is tall due to recent rain.",
+      "level": 3
+    },
+    {
+      "id": "2.205",
+      "text": "He needs to get beyond the flashlight beams.",
+      "level": 2
+    },
+    {
+      "id": "2.206",
+      "text": "He runs further from the city, increasing his isolation.",
+      "level": 2
+    },
+    {
+      "id": "2.207",
+      "text": "He wishes the grass would conceal his tracks.",
+      "level": 2
+    },
+    {
+      "id": "2.208",
+      "text": "He reaches dense brush and a ten-foot-wide dry drainage ditch.",
+      "level": 2
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Telephone",
+      "frequency": 4,
+      "context": "Signals bad news, is answered, is used to call for help."
+    },
+    {
+      "name": "Father",
+      "frequency": 7,
+      "context": "Is dying, narrator's fear of losing him, his poetic influence."
+    },
+    {
+      "name": "Narrator",
+      "frequency": 40,
+      "context": "The central character experiencing the events, his thoughts and feelings."
+    },
+    {
+      "name": "Change",
+      "frequency": 1,
+      "context": "A terrible transformation signaled by the phone."
+    },
+    {
+      "name": "Fortune teller",
+      "frequency": 1,
+      "context": "The narrator is not one and cannot see the future."
+    },
+    {
+      "name": "Future",
+      "frequency": 1,
+      "context": "Cannot be revealed by palmistry or tea leaves."
+    },
+    {
+      "name": "Palmistry",
+      "frequency": 1,
+      "context": "A method of fortune telling the narrator does not use."
+    },
+    {
+      "name": "Gypsy",
+      "frequency": 1,
+      "context": "A group associated with fortune telling through tea leaves."
+    },
+    {
+      "name": "Tea leaves",
+      "frequency": 1,
+      "context": "Used for divination by gypsies."
+    },
+    {
+      "name": "Dying",
+      "frequency": 2,
+      "context": "Describes the father's condition."
+    },
+    {
+      "name": "Bedside",
+      "frequency": 1,
+      "context": "Where the narrator attended to his father."
+    },
+    {
+      "name": "Sweat",
+      "frequency": 2,
+      "context": "On the father's brow, on the funeral workers."
+    },
+    {
+      "name": "Breathing",
+      "frequency": 1,
+      "context": "The father's labored breaths."
+    },
+    {
+      "name": "Losing",
+      "frequency": 1,
+      "context": "The narrator's fear of losing his father."
+    },
+    {
+      "name": "Alone",
+      "frequency": 1,
+      "context": "The narrator's fear of facing life alone."
+    },
+    {
+      "name": "Age",
+      "frequency": 1,
+      "context": "Twenty-eight, the narrator's age."
+    },
+    {
+      "name": "Life",
+      "frequency": 2,
+      "context": "The narrator's life, facing life alone."
+    },
+    {
+      "name": "Only child",
+      "frequency": 1,
+      "context": "The narrator's status."
+    },
+    {
+      "name": "Mother",
+      "frequency": 1,
+      "context": "Died two years prior."
+    },
+    {
+      "name": "Death",
+      "frequency": 5,
+      "context": "Mother's death, father's impending death, the business of death, the meaning of death."
+    },
+    {
+      "name": "Blow",
+      "frequency": 1,
+      "context": "Mother's death was a blow to the narrator."
+    },
+    {
+      "name": "Pain",
+      "frequency": 2,
+      "context": "Mother's death was not a torment of pain, father is free from pain."
+    },
+    {
+      "name": "Morning",
+      "frequency": 1,
+      "context": "Narrator returned home in the early morning."
+    },
+    {
+      "name": "Tired",
+      "frequency": 1,
+      "context": "Narrator's state upon returning home."
+    },
+    {
+      "name": "Sleep",
+      "frequency": 3,
+      "context": "Narrator couldn't sleep, Sasha usually sleeps, they sleep after the events."
+    },
+    {
+      "name": "Chair",
+      "frequency": 1,
+      "context": "Narrator leans forward from his chair."
+    },
+    {
+      "name": "Ring",
+      "frequency": 4,
+      "context": "Telephone rings, ring at the doorbell."
+    },
+    {
+      "name": "Stop",
+      "frequency": 1,
+      "context": "Narrator wishes the ringing would stop."
+    },
+    {
+      "name": "Dog",
+      "frequency": 8,
+      "context": "Olson, the family dog, his behavior and significance."
+    },
+    {
+      "name": "Meaning",
+      "frequency": 4,
+      "context": "Dog senses the meaning of the call, the meaning of the sculpture, Sandy's regret for not being able to help with the meaning of death, meaning of the event beyond comprehension."
+    },
+    {
+      "name": "Home",
+      "frequency": 3,
+      "context": "Narrator returns home, Sandy lives in a house, they go home."
+    },
+    {
+      "name": "Shadow",
+      "frequency": 1,
+      "context": "Dog emerges from the shadow."
+    },
+    {
+      "name": "Candlelight",
+      "frequency": 1,
+      "context": "The study is lit only by candlelight."
+    },
+    {
+      "name": "Gaze",
+      "frequency": 2,
+      "context": "Dog's mournful gaze, narrator's gaze never leaving the dog."
+    },
+    {
+      "name": "Stare",
+      "frequency": 1,
+      "context": "Animals only briefly meet our gaze."
+    },
+    {
+      "name": "Fear",
+      "frequency": 3,
+      "context": "Fear of losing father, fear of facing life alone, fear of what lies ahead."
+    },
+    {
+      "name": "Familiar",
+      "frequency": 1,
+      "context": "The dog is familiar."
+    },
+    {
+      "name": "Friend",
+      "frequency": 6,
+      "context": "Olson is a trusted friend, Sasha is a friend, narrator and Bobby's friendship."
+    },
+    {
+      "name": "Trust",
+      "frequency": 1,
+      "context": "Olson is the narrator's most trusted friend."
+    },
+    {
+      "name": "Love",
+      "frequency": 2,
+      "context": "Narrator loves his dog, they exchange 'I love you'."
+    },
+    {
+      "name": "Sigh",
+      "frequency": 1,
+      "context": "The wind and leaves make a sigh."
+    },
+    {
+      "name": "Tear",
+      "frequency": 1,
+      "context": "Sandy wipes his eyes."
+    },
+    {
+      "name": "Sadness",
+      "frequency": 2,
+      "context": "Pepper trees bow in sadness, Sandy is distressed at narrator's sadness."
+    },
+    {
+      "name": "Grief",
+      "frequency": 1,
+      "context": "Sandy misinterprets narrator's silence as grief."
+    },
+    {
+      "name": "Silence",
+      "frequency": 1,
+      "context": "The house is silent."
+    },
+    {
+      "name": "Oppressed",
+      "frequency": 1,
+      "context": "The narrator feels oppressed by the silence."
+    },
+    {
+      "name": "Call",
+      "frequency": 3,
+      "context": "Telephone call, narrator calls Sasha, call from the hospital."
+    },
+    {
+      "name": "Hospital",
+      "frequency": 3,
+      "context": "Mercy Hospital, narrator's father is in the hospital, narrator goes to the hospital."
+    },
+    {
+      "name": "Nurse",
+      "frequency": 1,
+      "context": "A nurse from Mercy Hospital calls."
+    },
+    {
+      "name": "Condition",
+      "frequency": 2,
+      "context": "Father's critical condition, the narrator's own condition."
+    },
+    {
+      "name": "Deteriorate",
+      "frequency": 1,
+      "context": "Father's condition is deteriorating."
+    },
+    {
+      "name": "Visit",
+      "frequency": 1,
+      "context": "Narrator is advised to visit his father."
+    },
+    {
+      "name": "Hang up",
+      "frequency": 1,
+      "context": "Narrator hangs up the phone."
+    },
+    {
+      "name": "Head",
+      "frequency": 3,
+      "context": "Dog rests his head, man's head beaten, man's hair is disheveled."
+    },
+    {
+      "name": "Leg",
+      "frequency": 1,
+      "context": "Dog rests head on narrator's leg."
+    },
+    {
+      "name": "Groan",
+      "frequency": 1,
+      "context": "Dog groans softly."
+    },
+    {
+      "name": "Nose",
+      "frequency": 1,
+      "context": "Dog nudges narrator's hand with his nose."
+    },
+    {
+      "name": "Tail",
+      "frequency": 1,
+      "context": "Dog does not wag its tail."
+    },
+    {
+      "name": "Sensation",
+      "frequency": 1,
+      "context": "Narrator loses sensation."
+    },
+    {
+      "name": "Thought",
+      "frequency": 1,
+      "context": "Narrator is unable to think."
+    },
+    {
+      "name": "Action",
+      "frequency": 1,
+      "context": "Narrator is unable to act."
+    },
+    {
+      "name": "Abyss",
+      "frequency": 1,
+      "context": "Silence is like a deep-sea abyss."
+    },
+    {
+      "name": "Car",
+      "frequency": 2,
+      "context": "Sasha drives him in her car, narrator has no reason to learn to drive."
+    },
+    {
+      "name": "Drive",
+      "frequency": 3,
+      "context": "Sasha drives him, narrator has no reason to learn to drive, Sasha's driving skills."
+    },
+    {
+      "name": "Sasha",
+      "frequency": 6,
+      "context": "The person narrator calls for a ride, her personality and role."
+    },
+    {
+      "name": "Valley",
+      "frequency": 1,
+      "context": "Moonlight Bay."
+    },
+    {
+      "name": "Radio",
+      "frequency": 1,
+      "context": "Sasha is a radio DJ."
+    },
+    {
+      "name": "DJ",
+      "frequency": 1,
+      "context": "Sasha's profession."
+    },
+    {
+      "name": "Work",
+      "frequency": 1,
+      "context": "Sasha's work hours."
+    },
+    {
+      "name": "Time",
+      "frequency": 4,
+      "context": "Time of evening, time to prepare, time to wake up, time of death."
+    },
+    {
+      "name": "March",
+      "frequency": 1,
+      "context": "The month of the story."
+    },
+    {
+      "name": "Evening",
+      "frequency": 2,
+      "context": "March evening, October evening."
+    },
+    {
+      "name": "Guilt",
+      "frequency": 2,
+      "context": "Narrator feels guilty about waking Sasha, narrator feels guilty about the phone call."
+    },
+    {
+      "name": "Wake",
+      "frequency": 1,
+      "context": "Narrator feels guilty about waking Sasha."
+    },
+    {
+      "name": "Object",
+      "frequency": 1,
+      "context": "Sasha is an object the narrator can seek help from."
+    },
+    {
+      "name": "Help",
+      "frequency": 2,
+      "context": "Sasha is someone to seek help from, Sandy wishes he could help."
+    },
+    {
+      "name": "Stronger",
+      "frequency": 1,
+      "context": "Sasha's driving is stronger than a dog's."
+    },
+    {
+      "name": "Voice",
+      "frequency": 2,
+      "context": "Sasha's voice, Sandy's voice."
+    },
+    {
+      "name": "Sleepy",
+      "frequency": 1,
+      "context": "Sasha's voice is not sleepy."
+    },
+    {
+      "name": "Regret",
+      "frequency": 1,
+      "context": "Sasha expresses regret."
+    },
+    {
+      "name": "Anticipate",
+      "frequency": 1,
+      "context": "Sasha seemed to anticipate the phone call."
+    },
+    {
+      "name": "Bad news",
+      "frequency": 1,
+      "context": "The phone call brought bad news."
+    },
+    {
+      "name": "Lips",
+      "frequency": 1,
+      "context": "Narrator bites his lips."
+    },
+    {
+      "name": "Diagnose",
+      "frequency": 1,
+      "context": "Possible misdiagnosis by the doctor."
+    },
+    {
+      "name": "Remission",
+      "frequency": 1,
+      "context": "Hope for cancer remission."
+    },
+    {
+      "name": "Miracle",
+      "frequency": 2,
+      "context": "Narrator believes in miracles, needs miracles."
+    },
+    {
+      "name": "Curse",
+      "frequency": 1,
+      "context": "Others might see the narrator's life as a curse."
+    },
+    {
+      "name": "Need",
+      "frequency": 1,
+      "context": "Everyone needs a miracle."
+    },
+    {
+      "name": "Promise",
+      "frequency": 1,
+      "context": "Sasha promises to be there."
+    },
+    {
+      "name": "Careful",
+      "frequency": 1,
+      "context": "Narrator tells Sasha to drive carefully."
+    },
+    {
+      "name": "Prepare",
+      "frequency": 1,
+      "context": "Narrator needs time to prepare."
+    },
+    {
+      "name": "Pepper tree",
+      "frequency": 3,
+      "context": "Description of California pepper trees."
+    },
+    {
+      "name": "Sunlight",
+      "frequency": 1,
+      "context": "Pepper trees shimmer in sunlight."
+    },
+    {
+      "name": "Gleam",
+      "frequency": 1,
+      "context": "Sculpture gleams under moonlight."
+    },
+    {
+      "name": "Graceful",
+      "frequency": 1,
+      "context": "Pepper trees appear graceful."
+    },
+    {
+      "name": "Night",
+      "frequency": 6,
+      "context": "Pepper trees at night, driving at night, moonlit night, October night, December night, entire night."
+    },
+    {
+      "name": "Bow",
+      "frequency": 1,
+      "context": "Pepper trees bow their heads."
+    },
+    {
+      "name": "Face",
+      "frequency": 4,
+      "context": "Father's face, daughter's face, man's face beaten, man's face unrecognizable."
+    },
+    {
+      "name": "Worry",
+      "frequency": 1,
+      "context": "Pepper trees cover their faces with branches as if in worry."
+    },
+    {
+      "name": "Driveway",
+      "frequency": 3,
+      "context": "Long driveway to the funeral home, narrator climbs the private road, returns to the driveway."
+    },
+    {
+      "name": "Funeral home",
+      "frequency": 10,
+      "context": "The location of the events, its description and history."
+    },
+    {
+      "name": "Hill",
+      "frequency": 2,
+      "context": "Funeral home on a hill, narrator goes uphill."
+    },
+    {
+      "name": "Road",
+      "frequency": 5,
+      "context": "Road to funeral home, private road, asphalt road, dark road, main road."
+    },
+    {
+      "name": "Outer edge",
+      "frequency": 1,
+      "context": "Funeral home is on the outer edge of town."
+    },
+    {
+      "name": "Highway",
+      "frequency": 1,
+      "context": "Located next to Highway 1."
+    },
+    {
+      "name": "Bridge",
+      "frequency": 1,
+      "context": "Must pass over a bridge to reach it."
+    },
+    {
+      "name": "Mourners",
+      "frequency": 1,
+      "context": "Trees act as mourners."
+    },
+    {
+      "name": "Climb",
+      "frequency": 1,
+      "context": "Narrator climbs the road."
+    },
+    {
+      "name": "Lights",
+      "frequency": 5,
+      "context": "Landscape lights, interior lights, porch light, headlights, flashlight beams."
+    },
+    {
+      "name": "Ring",
+      "frequency": 1,
+      "context": "Landscape lights cast rings of light."
+    },
+    {
+      "name": "Wind",
+      "frequency": 4,
+      "context": "Wind rustles leaves, wind blows, sea breeze, wind in trees."
+    },
+    {
+      "name": "Rustle",
+      "frequency": 1,
+      "context": "Wind rustles the leaves."
+    },
+    {
+      "name": "Parking",
+      "frequency": 1,
+      "context": "No parking along the road."
+    },
+    {
+      "name": "Service",
+      "frequency": 1,
+      "context": "No funeral services in progress."
+    },
+    {
+      "name": "Walk",
+      "frequency": 2,
+      "context": "Narrator usually walks, narrator walks down the driveway."
+    },
+    {
+      "name": "Bike",
+      "frequency": 3,
+      "context": "Narrator usually bikes, they ride bikes, narrator pushes bike."
+    },
+    {
+      "name": "Reason",
+      "frequency": 1,
+      "context": "No reason to learn to drive."
+    },
+    {
+      "name": "Drive",
+      "frequency": 1,
+      "context": "Narrator has no reason to learn to drive."
+    },
+    {
+      "name": "Day",
+      "frequency": 6,
+      "context": "Pepper trees during the day, driving during the day, Sandy usually does embalming during the day, narrator's life during the day, narrator's life during the day is strange."
+    },
+    {
+      "name": "Night",
+      "frequency": 1,
+      "context": "Driving at night is problematic."
+    },
+    {
+      "name": "Sunglasses",
+      "frequency": 1,
+      "context": "Must wear sunglasses at night."
+    },
+    {
+      "name": "Headlights",
+      "frequency": 1,
+      "context": "Blinding headlights at night."
+    },
+    {
+      "name": "Police",
+      "frequency": 1,
+      "context": "Police frown upon drivers wearing sunglasses at night."
+    },
+    {
+      "name": "Moon",
+      "frequency": 3,
+      "context": "Full moon rises, narrator likes the moon, moonlight."
+    },
+    {
+      "name": "Bright",
+      "frequency": 1,
+      "context": "Moon is bright but not burning."
+    },
+    {
+      "name": "Beautiful",
+      "frequency": 3,
+      "context": "Moon makes beautiful things more beautiful, Roberta looks beautiful, Roberta's beauty is indescribable."
+    },
+    {
+      "name": "Hide",
+      "frequency": 1,
+      "context": "Moon hides imperfections."
+    },
+    {
+      "name": "Loop",
+      "frequency": 1,
+      "context": "Road loops around the hilltop."
+    },
+    {
+      "name": "Lawn",
+      "frequency": 2,
+      "context": "Circular lawn, narrator runs across the lawn."
+    },
+    {
+      "name": "Center",
+      "frequency": 1,
+      "context": "Center of the lawn."
+    },
+    {
+      "name": "Sculpture",
+      "frequency": 2,
+      "context": "Concrete cast of 'Pietà', sculpture gleams."
+    },
+    {
+      "name": "Michelangelo",
+      "frequency": 1,
+      "context": "Artist of the 'Pietà'."
+    },
+    {
+      "name": "Christ",
+      "frequency": 1,
+      "context": "Jesus Christ's body."
+    },
+    {
+      "name": "Mother",
+      "frequency": 1,
+      "context": "Virgin Mary's mother."
+    },
+    {
+      "name": "Crude",
+      "frequency": 1,
+      "context": "Crude imitation sculpture."
+    },
+    {
+      "name": "Sadness",
+      "frequency": 1,
+      "context": "The trees seem to bow their heads in sadness."
+    },
+    {
+      "name": "Solace",
+      "frequency": 1,
+      "context": "People find solace in the sculpture."
+    },
+    {
+      "name": "Hope",
+      "frequency": 1,
+      "context": "Hope helps people find solace."
+    },
+    {
+      "name": "Appreciate",
+      "frequency": 1,
+      "context": "The narrator appreciates humanity's ability to find hope."
+    },
+    {
+      "name": "Hesitate",
+      "frequency": 1,
+      "context": "Narrator hesitates at the porch."
+    },
+    {
+      "name": "Assess",
+      "frequency": 1,
+      "context": "Cannot assess the danger of the next step."
+    },
+    {
+      "name": "Danger",
+      "frequency": 2,
+      "context": "Cannot assess danger, danger of hypothermia."
+    },
+    {
+      "name": "Building",
+      "frequency": 2,
+      "context": "A large building, Georgian-style building."
+    },
+    {
+      "name": "Brick",
+      "frequency": 1,
+      "context": "Red brick walls."
+    },
+    {
+      "name": "Wood",
+      "frequency": 1,
+      "context": "White wooden planks."
+    },
+    {
+      "name": "Lovely",
+      "frequency": 1,
+      "context": "Could be the loveliest house in town."
+    },
+    {
+      "name": "Luxury",
+      "frequency": 1,
+      "context": "A luxury mansion."
+    },
+    {
+      "name": "Galaxy",
+      "frequency": 1,
+      "context": "More alien than a spaceship from another galaxy."
+    },
+    {
+      "name": "Sky",
+      "frequency": 2,
+      "context": "Clear California sky, starry night sky."
+    },
+    {
+      "name": "Rain",
+      "frequency": 1,
+      "context": "Warm downpour of rain."
+    },
+    {
+      "name": "Floor",
+      "frequency": 2,
+      "context": "Second floor, first floor."
+    },
+    {
+      "name": "Dark",
+      "frequency": 4,
+      "context": "Dog emerges from the dark, Sandy's floor is dark, dark night, dark pool water."
+    },
+    {
+      "name": "Viewing room",
+      "frequency": 1,
+      "context": "Located on the first floor."
+    },
+    {
+      "name": "Glass",
+      "frequency": 1,
+      "context": "Stained glass windows."
+    },
+    {
+      "name": "Light",
+      "frequency": 6,
+      "context": "Faint light, interior light, porch light, moonlight, flashlight beams, window light."
+    },
+    {
+      "name": "Doorbell",
+      "frequency": 1,
+      "context": "Narrator presses the doorbell."
+    },
+    {
+      "name": "Person",
+      "frequency": 2,
+      "context": "Someone emerges from the hallway, a person is lying in the bag."
+    },
+    {
+      "name": "Hallway",
+      "frequency": 1,
+      "context": "Someone emerges from the hallway."
+    },
+    {
+      "name": "Silhouette",
+      "frequency": 1,
+      "context": "Only a silhouette is visible."
+    },
+    {
+      "name": "Walk",
+      "frequency": 1,
+      "context": "Walks gracefully."
+    },
+    {
+      "name": "Elegant",
+      "frequency": 1,
+      "context": "Elegant gait."
+    },
+    {
+      "name": "Posture",
+      "frequency": 1,
+      "context": "Elegant posture."
+    },
+    {
+      "name": "Dashing",
+      "frequency": 1,
+      "context": "Makes him look dashing."
+    },
+    {
+      "name": "Vestibule",
+      "frequency": 1,
+      "context": "He walks to the vestibule."
+    },
+    {
+      "name": "Surprise",
+      "frequency": 1,
+      "context": "Shows considerable surprise."
+    },
+    {
+      "name": "Christopher",
+      "frequency": 1,
+      "context": "Sandy calls the narrator Christopher."
+    },
+    {
+      "name": "Evening",
+      "frequency": 1,
+      "context": "Good evening, Mr. Cork."
+    },
+    {
+      "name": "Condolences",
+      "frequency": 1,
+      "context": "Sandy offers condolences."
+    },
+    {
+      "name": "Good",
+      "frequency": 1,
+      "context": "Such a good man."
+    },
+    {
+      "name": "Treat",
+      "frequency": 1,
+      "context": "Treated him with extra courtesy."
+    },
+    {
+      "name": "Family",
+      "frequency": 1,
+      "context": "Treated him as one of their own family."
+    },
+    {
+      "name": "Assure",
+      "frequency": 1,
+      "context": "You can be sure of that."
+    },
+    {
+      "name": "College",
+      "frequency": 1,
+      "context": "Attended college in Greyton."
+    },
+    {
+      "name": "Class",
+      "frequency": 2,
+      "context": "Took a class from the narrator's father, narrator took the class."
+    },
+    {
+      "name": "Poetry",
+      "frequency": 3,
+      "context": "20th-century poetry class, reading poetry."
+    },
+    {
+      "name": "Appreciate",
+      "frequency": 2,
+      "context": "Learned to appreciate poets, narrator cannot appreciate the current situation."
+    },
+    {
+      "name": "Eliot",
+      "frequency": 1,
+      "context": "Poet."
+    },
+    {
+      "name": "Pound",
+      "frequency": 1,
+      "context": "Poet."
+    },
+    {
+      "name": "Auden",
+      "frequency": 1,
+      "context": "Poet."
+    },
+    {
+      "name": "Plath",
+      "frequency": 1,
+      "context": "Poet."
+    },
+    {
+      "name": "Beckett",
+      "frequency": 1,
+      "context": "Poet."
+    },
+    {
+      "name": "Ashbery",
+      "frequency": 1,
+      "context": "Poet."
+    },
+    {
+      "name": "Loeb",
+      "frequency": 1,
+      "context": "Poet."
+    },
+    {
+      "name": "Yeats",
+      "frequency": 1,
+      "context": "Poet."
+    },
+    {
+      "name": "Intolerable",
+      "frequency": 1,
+      "context": "Found reading poetry intolerable at first."
+    },
+    {
+      "name": "Live",
+      "frequency": 1,
+      "context": "Couldn't live without poetry."
+    },
+    {
+      "name": "Stevens",
+      "frequency": 1,
+      "context": "Poet."
+    },
+    {
+      "name": "Justice",
+      "frequency": 1,
+      "context": "Poet."
+    },
+    {
+      "name": "Gluck",
+      "frequency": 1,
+      "context": "Poet."
+    },
+    {
+      "name": "Favorite",
+      "frequency": 1,
+      "context": "Father's personal favorite poets."
+    },
+    {
+      "name": "Nodded",
+      "frequency": 1,
+      "context": "Sandy nodded."
+    },
+    {
+      "name": "Forgot",
+      "frequency": 1,
+      "context": "Oh, sorry, I forgot."
+    },
+    {
+      "name": "Consideration",
+      "frequency": 1,
+      "context": "Out of consideration for my situation."
+    },
+    {
+      "name": "Pain",
+      "frequency": 1,
+      "context": "At least he is no longer suffering from pain."
+    },
+    {
+      "name": "Eyes",
+      "frequency": 4,
+      "context": "Sandy's green eyes, narrator examines Sandy's eyes, eyes missing, bleeding eye."
+    },
+    {
+      "name": "Beetle",
+      "frequency": 1,
+      "context": "Eyes like a beetle's shell."
+    },
+    {
+      "name": "Shell",
+      "frequency": 1,
+      "context": "Eyes like a beetle's shell."
+    },
+    {
+      "name": "Examine",
+      "frequency": 1,
+      "context": "Narrator examines Sandy's eyes."
+    },
+    {
+      "name": "Ask",
+      "frequency": 1,
+      "context": "Narrator asks to see his father."
+    },
+    {
+      "name": "Remove",
+      "frequency": 1,
+      "context": "When they removed him from the hospital room."
+    },
+    {
+      "name": "Sheet",
+      "frequency": 3,
+      "context": "Did not lift the sheet, covered by a sheet, sheet pulled back."
+    },
+    {
+      "name": "Mood",
+      "frequency": 1,
+      "context": "Not in the mood."
+    },
+    {
+      "name": "Necessary",
+      "frequency": 1,
+      "context": "Felt it was unnecessary."
+    },
+    {
+      "name": "Sea",
+      "frequency": 3,
+      "context": "Sea abyss, sea surface, sea of the night."
+    },
+    {
+      "name": "Surface",
+      "frequency": 1,
+      "context": "Seemingly calm surface of the sea."
+    },
+    {
+      "name": "Waves",
+      "frequency": 4,
+      "context": "Under the calm surface, waves, waves are gentle, waves are rough."
+    },
+    {
+      "name": "Calm",
+      "frequency": 1,
+      "context": "Calm sea surface."
+    },
+    {
+      "name": "Tone",
+      "frequency": 1,
+      "context": "Maintains his pleasant tone."
+    },
+    {
+      "name": "Comfort",
+      "frequency": 1,
+      "context": "Comforting the bereaved."
+    },
+    {
+      "name": "Bereaved",
+      "frequency": 1,
+      "context": "Comforting the bereaved."
+    },
+    {
+      "name": "Sorry",
+      "frequency": 2,
+      "context": "I'm so sorry, Sorry to bother you."
+    },
+    {
+      "name": "Procedure",
+      "frequency": 1,
+      "context": "The procedure has already begun."
+    },
+    {
+      "name": "Cremate",
+      "frequency": 3,
+      "context": "Put him in the furnace, moved for cremation, cremated."
+    },
+    {
+      "name": "Furnace",
+      "frequency": 1,
+      "context": "Put him in the furnace."
+    },
+    {
+      "name": "Family business",
+      "frequency": 1,
+      "context": "Grew up in a family business filled with euphemisms."
+    },
+    {
+      "name": "Euphemism",
+      "frequency": 1,
+      "context": "Family business filled with euphemisms."
+    },
+    {
+      "name": "Bluntness",
+      "frequency": 1,
+      "context": "Seemed somewhat taken aback by my bluntness."
+    },
+    {
+      "name": "Deceased",
+      "frequency": 1,
+      "context": "The deceased has been moved for cremation."
+    },
+    {
+      "name": "Urn",
+      "frequency": 1,
+      "context": "The urn."
+    },
+    {
+      "name": "Too soon",
+      "frequency": 1,
+      "context": "Isn't that a little too soon?"
+    },
+    {
+      "name": "Delay",
+      "frequency": 1,
+      "context": "Delays are not wise in our line of work."
+    },
+    {
+      "name": "Wise",
+      "frequency": 1,
+      "context": "Delays are not wise."
+    },
+    {
+      "name": "Line of work",
+      "frequency": 1,
+      "context": "Our line of work."
+    },
+    {
+      "name": "Sufficient",
+      "frequency": 1,
+      "context": "If I had known you were coming and if there had been sufficient light."
+    },
+    {
+      "name": "Dare",
+      "frequency": 1,
+      "context": "I doubt he would have dared."
+    },
+    {
+      "name": "Stare",
+      "frequency": 1,
+      "context": "To meet my gaze."
+    },
+    {
+      "name": "Troubled",
+      "frequency": 1,
+      "context": "This bothers me, Christopher."
+    },
+    {
+      "name": "Helpful",
+      "frequency": 1,
+      "context": "If I could have been of any help."
+    },
+    {
+      "name": "Experience",
+      "frequency": 3,
+      "context": "Rich in some things I have experienced, seldom in others, narrator has experience with nocturnal life, the boys have experience with death."
+    },
+    {
+      "name": "Rarely",
+      "frequency": 1,
+      "context": "Seldom had the occasion to experience."
+    },
+    {
+      "name": "Nocturnal",
+      "frequency": 1,
+      "context": "Mastery of the nocturnal world."
+    },
+    {
+      "name": "Fool",
+      "frequency": 1,
+      "context": "Some ignorant fools."
+    },
+    {
+      "name": "Cruel",
+      "frequency": 1,
+      "context": "Cruel object of ridicule."
+    },
+    {
+      "name": "Understand",
+      "frequency": 1,
+      "context": "Understanding of human nature."
+    },
+    {
+      "name": "Deceived",
+      "frequency": 1,
+      "context": "Rarely experienced being maliciously deceived."
+    },
+    {
+      "name": "Lie",
+      "frequency": 1,
+      "context": "Sandy's monumental lie."
+    },
+    {
+      "name": "Monumental",
+      "frequency": 1,
+      "context": "Monumental lie."
+    },
+    {
+      "name": "Ashamed",
+      "frequency": 1,
+      "context": "Ashamed of myself."
+    },
+    {
+      "name": "Disgrace",
+      "frequency": 1,
+      "context": "His disgrace, and mine."
+    },
+    {
+      "name": "Avoid",
+      "frequency": 1,
+      "context": "Could no longer face him."
+    },
+    {
+      "name": "Downcast",
+      "frequency": 1,
+      "context": "Lowered my head."
+    },
+    {
+      "name": "Misinterpret",
+      "frequency": 1,
+      "context": "He mistook my shame for inability to speak."
+    },
+    {
+      "name": "Pat",
+      "frequency": 1,
+      "context": "Patted me on the shoulder."
+    },
+    {
+      "name": "Shoulder",
+      "frequency": 1,
+      "context": "Patted me on the shoulder."
+    },
+    {
+      "name": "Avoid",
+      "frequency": 1,
+      "context": "I tried not to avoid his touch."
+    },
+    {
+      "name": "Touch",
+      "frequency": 1,
+      "context": "Avoid his touch."
+    },
+    {
+      "name": "Job",
+      "frequency": 1,
+      "context": "My job is to provide comfort."
+    },
+    {
+      "name": "Good at",
+      "frequency": 1,
+      "context": "I'm not very good at it."
+    },
+    {
+      "name": "Honest",
+      "frequency": 1,
+      "context": "To be honest."
+    },
+    {
+      "name": "Interpret",
+      "frequency": 1,
+      "context": "I don't know what words to use."
+    },
+    {
+      "name": "Bear",
+      "frequency": 1,
+      "context": "Make death easier to bear."
+    },
+    {
+      "name": "Kick",
+      "frequency": 1,
+      "context": "I wanted to kick him in the ass."
+    },
+    {
+      "name": "Impulsive",
+      "frequency": 1,
+      "context": "Before I did something impulsive."
+    },
+    {
+      "name": "Cliché",
+      "frequency": 1,
+      "context": "I hear myself spouting the same clichés."
+    },
+    {
+      "name": "Favorite",
+      "frequency": 1,
+      "context": "Your father's favorite poems."
+    },
+    {
+      "name": "Special",
+      "frequency": 1,
+      "context": "Especially to you."
+    },
+    {
+      "name": "Nod",
+      "frequency": 1,
+      "context": "I nodded."
+    },
+    {
+      "name": "Retreat",
+      "frequency": 1,
+      "context": "I retreated a step."
+    },
+    {
+      "name": "Withdraw",
+      "frequency": 1,
+      "context": "Drew my hand away."
+    },
+    {
+      "name": "Bother",
+      "frequency": 1,
+      "context": "Sorry to have bothered you."
+    },
+    {
+      "name": "Brick",
+      "frequency": 1,
+      "context": "Red bricked porch."
+    },
+    {
+      "name": "Steps",
+      "frequency": 1,
+      "context": "No steps."
+    },
+    {
+      "name": "Portico",
+      "frequency": 1,
+      "context": "Under the portico."
+    },
+    {
+      "name": "Asphalt",
+      "frequency": 1,
+      "context": "Back to the asphalt road."
+    },
+    {
+      "name": "Turned",
+      "frequency": 1,
+      "context": "Turned my back to Sandy."
+    },
+    {
+      "name": "Ask",
+      "frequency": 2,
+      "context": "Sandy asks about funeral, Sandy asks if narrator is alright."
+    },
+    {
+      "name": "Funeral",
+      "frequency": 2,
+      "context": "Funeral arrangements, narrator thinking about the funeral."
+    },
+    {
+      "name": "When",
+      "frequency": 1,
+      "context": "When will it be held?"
+    },
+    {
+      "name": "How",
+      "frequency": 1,
+      "context": "How will it be held?"
+    },
+    {
+      "name": "Tomorrow",
+      "frequency": 1,
+      "context": "I'll tell you tomorrow."
+    },
+    {
+      "name": "Distance",
+      "frequency": 1,
+      "context": "Facing him at some distance."
+    },
+    {
+      "name": "Numb",
+      "frequency": 1,
+      "context": "Monotone voice."
+    },
+    {
+      "name": "Elevation",
+      "frequency": 1,
+      "context": "Slightly elevated."
+    },
+    {
+      "name": "Shrug",
+      "frequency": 1,
+      "context": "I shrugged."
+    },
+    {
+      "name": "Jacket",
+      "frequency": 1,
+      "context": "Hands in my jacket pockets."
+    },
+    {
+      "name": "Mansion",
+      "frequency": 1,
+      "context": "Away from the grand house."
+    },
+    {
+      "name": "Mica",
+      "frequency": 1,
+      "context": "Mica flecks mixed in the material."
+    },
+    {
+      "name": "Shimmer",
+      "frequency": 1,
+      "context": "Shimmered in the moonlight."
+    },
+    {
+      "name": "Cheek",
+      "frequency": 1,
+      "context": "Virgin Mary's cheek."
+    },
+    {
+      "name": "Impulse",
+      "frequency": 1,
+      "context": "I suppressed an impulse."
+    },
+    {
+      "name": "Owner",
+      "frequency": 1,
+      "context": "The owner of the funeral home."
+    },
+    {
+      "name": "Sure",
+      "frequency": 1,
+      "context": "I was sure he was watching me."
+    },
+    {
+      "name": "Forgotten",
+      "frequency": 1,
+      "context": "Forgotten trees."
+    },
+    {
+      "name": "Whisper",
+      "frequency": 1,
+      "context": "Trees seemed to whisper."
+    },
+    {
+      "name": "Temperature",
+      "frequency": 1,
+      "context": "Temperature dropped to around sixty degrees."
+    },
+    {
+      "name": "Ocean",
+      "frequency": 2,
+      "context": "Breeze from the ocean, vast Pacific Ocean."
+    },
+    {
+      "name": "Pure",
+      "frequency": 1,
+      "context": "The breeze seemed purer."
+    },
+    {
+      "name": "Salt",
+      "frequency": 1,
+      "context": "With a faint taste of salt."
+    },
+    {
+      "name": "Slope",
+      "frequency": 1,
+      "context": "The private driveway sloped down."
+    },
+    {
+      "name": "Roof",
+      "frequency": 1,
+      "context": "Sharp roofs."
+    },
+    {
+      "name": "Chimney",
+      "frequency": 1,
+      "context": "Chimney shadows."
+    },
+    {
+      "name": "Starry",
+      "frequency": 1,
+      "context": "Starry night sky."
+    },
+    {
+      "name": "Grass",
+      "frequency": 3,
+      "context": "Narrator walks on grass, mown grass, tall grass."
+    },
+    {
+      "name": "Canopy",
+      "frequency": 1,
+      "context": "Under the leafy canopy."
+    },
+    {
+      "name": "Braid",
+      "frequency": 1,
+      "context": "Moon woven into the pepper trees' flowing braids."
+    },
+    {
+      "name": "Visible",
+      "frequency": 1,
+      "context": "Pietà and portico were visible."
+    },
+    {
+      "name": "Hide",
+      "frequency": 1,
+      "context": "Trees and shrubs served as cover."
+    },
+    {
+      "name": "Behind",
+      "frequency": 2,
+      "context": "Behind the house, behind the garage."
+    },
+    {
+      "name": "Backyard",
+      "frequency": 2,
+      "context": "Backyard, narrator goes to the backyard."
+    },
+    {
+      "name": "Porch",
+      "frequency": 1,
+      "context": "Deep porch."
+    },
+    {
+      "name": "Steps",
+      "frequency": 1,
+      "context": "Steps led down."
+    },
+    {
+      "name": "Pool",
+      "frequency": 2,
+      "context": "Swimming pool, pool water."
+    },
+    {
+      "name": "Courtyard",
+      "frequency": 3,
+      "context": "Spanish-style courtyard, narrator crosses the courtyard, narrator decides not to linger near the courtyard."
+    },
+    {
+      "name": "Rose garden",
+      "frequency": 3,
+      "context": "Rose garden, narrator runs to the rose garden, rose garden search."
+    },
+    {
+      "name": "Hidden",
+      "frequency": 1,
+      "context": "Hidden from public view."
+    },
+    {
+      "name": "City",
+      "frequency": 3,
+      "context": "Size of our city, from the city, further from the city."
+    },
+    {
+      "name": "Babies",
+      "frequency": 1,
+      "context": "Two hundred babies born each year."
+    },
+    {
+      "name": "Death",
+      "frequency": 1,
+      "context": "One hundred citizens die."
+    },
+    {
+      "name": "Business",
+      "frequency": 2,
+      "context": "Cork handles a lot of business, death is a profitable business."
+    },
+    {
+      "name": "Out of town",
+      "frequency": 1,
+      "context": "Half the business from out of town."
+    },
+    {
+      "name": "Profit",
+      "frequency": 1,
+      "context": "Death is the best way to make a profit."
+    },
+    {
+      "name": "View",
+      "frequency": 1,
+      "context": "The view from the courtyard."
+    },
+    {
+      "name": "Rolling",
+      "frequency": 1,
+      "context": "Rolling, uninhabited hills."
+    },
+    {
+      "name": "Scattered",
+      "frequency": 1,
+      "context": "Scattered, gnarled oak trees."
+    },
+    {
+      "name": "Oak trees",
+      "frequency": 1,
+      "context": "Scattered, gnarled oak trees."
+    },
+    {
+      "name": "Window",
+      "frequency": 6,
+      "context": "Crematorium window, window light, window glass, window near the cremator, window view, window opening."
+    },
+    {
+      "name": "No one",
+      "frequency": 1,
+      "context": "No one in the lighted window."
+    },
+    {
+      "name": "Crossed",
+      "frequency": 1,
+      "context": "Crossed the courtyard."
+    },
+    {
+      "name": "Petals",
+      "frequency": 1,
+      "context": "Moonlight like rose petals."
+    },
+    {
+      "name": "Float",
+      "frequency": 1,
+      "context": "Moonlight floated lightly."
+    },
+    {
+      "name": "Garage",
+      "frequency": 4,
+      "context": "L-shaped garage, behind the garage, garage wall, crematorium window is behind the garage."
+    },
+    {
+      "name": "Hearse",
+      "frequency": 2,
+      "context": "Two hearses, two hearses and Sandy's car."
+    },
+    {
+      "name": "Crematorium",
+      "frequency": 4,
+      "context": "The crematorium, crematorium window, crematorium room, crematorium fire."
+    },
+    {
+      "name": "Sneaked",
+      "frequency": 1,
+      "context": "Sneaked around the corner."
+    },
+    {
+      "name": "Eucalyptus",
+      "frequency": 3,
+      "context": "Tall eucalyptus trees, eucalyptus trees, scent of eucalyptus."
+    },
+    {
+      "name": "Herbal",
+      "frequency": 1,
+      "context": "Herbal scent of the trees."
+    },
+    {
+      "name": "Layer",
+      "frequency": 1,
+      "context": "Thick layer of fallen leaves."
+    },
+    {
+      "name": "Crunch",
+      "frequency": 1,
+      "context": "Fallen leaves crunched."
+    },
+    {
+      "name": "Familiar",
+      "frequency": 1,
+      "context": "No corner of Moonlight Bay was unfamiliar."
+    },
+    {
+      "name": "Explore",
+      "frequency": 1,
+      "context": "Explored our city most nights."
+    },
+    {
+      "name": "Discovery",
+      "frequency": 1,
+      "context": "Occasional gruesome discoveries."
+    },
+    {
+      "name": "Dim",
+      "frequency": 1,
+      "context": "Dim light from the window."
+    },
+    {
+      "name": "Approached",
+      "frequency": 1,
+      "context": "I approached slowly."
+    },
+    {
+      "name": "Certain",
+      "frequency": 1,
+      "context": "Certain that something gruesome and horrific awaited me."
+    },
+    {
+      "name": "Prediction",
+      "frequency": 1,
+      "context": "My prediction proved entirely correct."
+    },
+    {
+      "name": "Fifteen years",
+      "frequency": 3,
+      "context": "Fifteen years ago, fifteen years later, fifteen years before."
+    },
+    {
+      "name": "Thirteen",
+      "frequency": 4,
+      "context": "Thirteen years old, thirteen-year-old boys, thirteen years of age, at thirteen."
+    },
+    {
+      "name": "Morbid",
+      "frequency": 1,
+      "context": "Morbid fascination with death."
+    },
+    {
+      "name": "Mysterious",
+      "frequency": 1,
+      "context": "The mystery of death."
+    },
+    {
+      "name": "Awesome",
+      "frequency": 1,
+      "context": "The awesome and the terrible."
+    },
+    {
+      "name": "Heroic",
+      "frequency": 1,
+      "context": "Felt it was heroic."
+    },
+    {
+      "name": "Infiltrate",
+      "frequency": 1,
+      "context": "Infiltrate a funeral home."
+    },
+    {
+      "name": "Ugly",
+      "frequency": 1,
+      "context": "Search for ugly, horrible, and frightening things."
+    },
+    {
+      "name": "Hideous",
+      "frequency": 1,
+      "context": "Hideous and frightening things."
+    },
+    {
+      "name": "Expect",
+      "frequency": 1,
+      "context": "I don't remember what we expected."
+    },
+    {
+      "name": "Skull",
+      "frequency": 1,
+      "context": "A pile of skulls?"
+    },
+    {
+      "name": "Balcony",
+      "frequency": 1,
+      "context": "A balcony made of bones?"
+    },
+    {
+      "name": "Laboratory",
+      "frequency": 1,
+      "context": "Secret laboratory."
+    },
+    {
+      "name": "Mad scientist",
+      "frequency": 1,
+      "context": "Mad scientist."
+    },
+    {
+      "name": "Frank",
+      "frequency": 1,
+      "context": "Mad scientist Frank."
+    },
+    {
+      "name": "Lightning",
+      "frequency": 1,
+      "context": "Summon lightning."
+    },
+    {
+      "name": "Awaken",
+      "frequency": 1,
+      "context": "Awaken our dead neighbors."
+    },
+    {
+      "name": "Servants",
+      "frequency": 1,
+      "context": "As maids and cleaners."
+    },
+    {
+      "name": "Gothic",
+      "frequency": 1,
+      "context": "Elder gods."
+    },
+    {
+      "name": "Throne",
+      "frequency": 1,
+      "context": "Thorned altar."
+    },
+    {
+      "name": "Cthulhu",
+      "frequency": 1,
+      "context": "God of Elder Gods."
+    },
+    {
+      "name": "Yog-Sothoth",
+      "frequency": 1,
+      "context": "Elder God."
+    },
+    {
+      "name": "Lovecraft",
+      "frequency": 1,
+      "context": "H.P. Lovecraft."
+    },
+    {
+      "name": "Weird",
+      "frequency": 2,
+      "context": "Bobby said we were weird kids, Narrator didn't think he was that weird."
+    },
+    {
+      "name": "Boy",
+      "frequency": 4,
+      "context": "Other boys, thirteen-year-old boys, boy's age, boy's morbid fascination."
+    },
+    {
+      "name": "Habit",
+      "frequency": 1,
+      "context": "Gradually shed their odd habits."
+    },
+    {
+      "name": "Worse",
+      "frequency": 1,
+      "context": "Seemed to get worse as we got older."
+    },
+    {
+      "name": "Disagree",
+      "frequency": 1,
+      "context": "I disagreed with Bobby's opinion."
+    },
+    {
+      "name": "Compare",
+      "frequency": 2,
+      "context": "Compared to other boys, comparing goosebumps."
+    },
+    {
+      "name": "Cherish",
+      "frequency": 1,
+      "context": "Bobby cherished his oddness."
+    },
+    {
+      "name": "Stand",
+      "frequency": 1,
+      "context": "Stand on the same side."
+    },
+    {
+      "name": "Embrace",
+      "frequency": 1,
+      "context": "The more we admitted and embraced our oddness."
+    },
+    {
+      "name": "Nature",
+      "frequency": 1,
+      "context": "Harmonize with nature."
+    },
+    {
+      "name": "Variety",
+      "frequency": 1,
+      "context": "Nature is full of variety."
+    },
+    {
+      "name": "Discover",
+      "frequency": 1,
+      "context": "Discovered the window."
+    },
+    {
+      "name": "Bench",
+      "frequency": 2,
+      "context": "Wooden bench, long bench."
+    },
+    {
+      "name": "Move",
+      "frequency": 1,
+      "context": "Moved a bench."
+    },
+    {
+      "name": "Below",
+      "frequency": 1,
+      "context": "Directly below the glowing window."
+    },
+    {
+      "name": "Shoulder to shoulder",
+      "frequency": 1,
+      "context": "We stood shoulder to shoulder."
+    },
+    {
+      "name": "Clearly",
+      "frequency": 1,
+      "context": "We could see clearly."
+    },
+    {
+      "name": "Louvers",
+      "frequency": 2,
+      "context": "Louvers, louvers were adjusted."
+    },
+    {
+      "name": "Forget",
+      "frequency": 1,
+      "context": "They forgot to close the louvers."
+    },
+    {
+      "name": "Side",
+      "frequency": 1,
+      "context": "From the outside."
+    },
+    {
+      "name": "Harm",
+      "frequency": 1,
+      "context": "Danger of losing my sight."
+    },
+    {
+      "name": "Miss",
+      "frequency": 1,
+      "context": "Would not want to miss the opportunity."
+    },
+    {
+      "name": "Share",
+      "frequency": 1,
+      "context": "Share that moment with Bobby."
+    },
+    {
+      "name": "Stretcher",
+      "frequency": 2,
+      "context": "Stretcher car, stretcher."
+    },
+    {
+      "name": "Old man",
+      "frequency": 1,
+      "context": "An old man's body."
+    },
+    {
+      "name": "Visible",
+      "frequency": 1,
+      "context": "Only his face was visible."
+    },
+    {
+      "name": "Ghastly",
+      "frequency": 1,
+      "context": "Ghastly sight."
+    },
+    {
+      "name": "Gray",
+      "frequency": 1,
+      "context": "Grayish-white hair."
+    },
+    {
+      "name": "Disheveled",
+      "frequency": 1,
+      "context": "Disheveled hair."
+    },
+    {
+      "name": "Storm",
+      "frequency": 1,
+      "context": "Died in a storm."
+    },
+    {
+      "name": "Waxen",
+      "frequency": 1,
+      "context": "Waxen skin."
+    },
+    {
+      "name": "Sunken",
+      "frequency": 1,
+      "context": "Sunken cheeks."
+    },
+    {
+      "name": "Cracked",
+      "frequency": 1,
+      "context": "Severely cracked lips."
+    },
+    {
+      "name": "Stormy",
+      "frequency": 1,
+      "context": "Not from a stormy night."
+    },
+    {
+      "name": "Long illness",
+      "frequency": 1,
+      "context": "Died from a long struggle with illness."
+    },
+    {
+      "name": "Recognize",
+      "frequency": 1,
+      "context": "We wouldn't have recognized him."
+    },
+    {
+      "name": "Acquaintance",
+      "frequency": 1,
+      "context": "Even if he were an acquaintance."
+    },
+    {
+      "name": "Fulfill",
+      "frequency": 1,
+      "context": "Satisfy the morbid entertainment and fantasies."
+    },
+    {
+      "name": "Pride",
+      "frequency": 1,
+      "context": "We took pride in being thirteen."
+    },
+    {
+      "name": "Striking",
+      "frequency": 1,
+      "context": "Most striking, most incredible, most marvelous."
+    },
+    {
+      "name": "Horrific",
+      "frequency": 1,
+      "context": "Its horrific features."
+    },
+    {
+      "name": "Blind",
+      "frequency": 1,
+      "context": "Blind and lifeless."
+    },
+    {
+      "name": "Stare",
+      "frequency": 1,
+      "context": "Stared right into our souls."
+    },
+    {
+      "name": "Souls",
+      "frequency": 1,
+      "context": "Stared right into our souls."
+    },
+    {
+      "name": "Fascinated",
+      "frequency": 1,
+      "context": "We were fascinated by that eye."
+    },
+    {
+      "name": "Quietly",
+      "frequency": 1,
+      "context": "Sometimes we just sat there, quietly terrified."
+    },
+    {
+      "name": "Whisper",
+      "frequency": 1,
+      "context": "Whispering back and forth."
+    },
+    {
+      "name": "Sports commentators",
+      "frequency": 1,
+      "context": "Like two sports commentators."
+    },
+    {
+      "name": "Prepare",
+      "frequency": 1,
+      "context": "Prepare the cremator."
+    },
+    {
+      "name": "Warm",
+      "frequency": 1,
+      "context": "The room must have been warm."
+    },
+    {
+      "name": "Sweaty",
+      "frequency": 1,
+      "context": "Sweaty brows."
+    },
+    {
+      "name": "Mild",
+      "frequency": 1,
+      "context": "Mild October night."
+    },
+    {
+      "name": "Shiver",
+      "frequency": 2,
+      "context": "Shivering, boys shivered."
+    },
+    {
+      "name": "Goosebumps",
+      "frequency": 1,
+      "context": "Compare who had more goosebumps."
+    },
+    {
+      "name": "Strange",
+      "frequency": 1,
+      "context": "We thought it was strange."
+    },
+    {
+      "name": "White smoke",
+      "frequency": 1,
+      "context": "Our breath did not form white smoke."
+    },
+    {
+      "name": "Funeral director",
+      "frequency": 1,
+      "context": "The funeral director."
+    },
+    {
+      "name": "Emaciated",
+      "frequency": 1,
+      "context": "The emaciated body."
+    },
+    {
+      "name": "Old age",
+      "frequency": 1,
+      "context": "The ravages of old age and fatal illness."
+    },
+    {
+      "name": "Ghastly",
+      "frequency": 1,
+      "context": "Ghastly sight."
+    },
+    {
+      "name": "Amazed",
+      "frequency": 1,
+      "context": "Left us gaping."
+    },
+    {
+      "name": "Enjoyed",
+      "frequency": 1,
+      "context": "We enjoyed 'Night of the Living Dead'."
+    },
+    {
+      "name": "Thrilled",
+      "frequency": 1,
+      "context": "Simultaneously thrilled and amazed."
+    },
+    {
+      "name": "Cardboard box",
+      "frequency": 1,
+      "context": "Put the body into a cardboard box."
+    },
+    {
+      "name": "Push",
+      "frequency": 1,
+      "context": "Pushed it into the flames."
+    },
+    {
+      "name": "Frightened",
+      "frequency": 1,
+      "context": "I grabbed Bobby's arm."
+    },
+    {
+      "name": "Squeeze",
+      "frequency": 1,
+      "context": "He squeezed the back of my neck."
+    },
+    {
+      "name": "Supernatural",
+      "frequency": 1,
+      "context": "Supernatural force."
+    },
+    {
+      "name": "Drag",
+      "frequency": 1,
+      "context": "Drag us in."
+    },
+    {
+      "name": "Shatter",
+      "frequency": 1,
+      "context": "Shatter the glass."
+    },
+    {
+      "name": "Buried",
+      "frequency": 1,
+      "context": "Buried in the flames."
+    },
+    {
+      "name": "Close",
+      "frequency": 1,
+      "context": "Frank Cork closed the furnace door."
+    },
+    {
+      "name": "Thud",
+      "frequency": 1,
+      "context": "The final thud."
+    },
+    {
+      "name": "Resound",
+      "frequency": 1,
+      "context": "Resounded in our bones."
+    },
+    {
+      "name": "Escape",
+      "frequency": 1,
+      "context": "Fled the funeral home."
+    },
+    {
+      "name": "Bleachers",
+      "frequency": 1,
+      "context": "Outdoor bleachers of a high school football field."
+    },
+    {
+      "name": "Safe",
+      "frequency": 1,
+      "context": "Safe place for me."
+    },
+    {
+      "name": "Cola",
+      "frequency": 1,
+      "context": "Bought cola."
+    },
+    {
+      "name": "Chips",
+      "frequency": 1,
+      "context": "And potato chips."
+    },
+    {
+      "name": "Guzzle",
+      "frequency": 1,
+      "context": "We guzzled cola."
+    },
+    {
+      "name": "Stuff",
+      "frequency": 1,
+      "context": "Stuffing chips into our mouths."
+    },
+    {
+      "name": "Cool",
+      "frequency": 3,
+      "context": "It was so cool, It was the coolest, cooler than."
+    },
+    {
+      "name": "Awesome",
+      "frequency": 1,
+      "context": "It was totally awesome!"
+    },
+    {
+      "name": "Poker",
+      "frequency": 1,
+      "context": "Ned's poker cards."
+    },
+    {
+      "name": "Nude",
+      "frequency": 1,
+      "context": "Nude women."
+    },
+    {
+      "name": "Flaming",
+      "frequency": 1,
+      "context": "Flaming women."
+    },
+    {
+      "name": "Fifty-two",
+      "frequency": 1,
+      "context": "Fifty-two different beauties."
+    },
+    {
+      "name": "Hundred percent",
+      "frequency": 1,
+      "context": "A hundred percent cooler."
+    },
+    {
+      "name": "Tanker truck",
+      "frequency": 1,
+      "context": "Exploding tanker truck on the highway."
+    },
+    {
+      "name": "Ranch",
+      "frequency": 1,
+      "context": "Zack Blenheim being gored by a bull."
+    },
+    {
+      "name": "Stitches",
+      "frequency": 1,
+      "context": "Twenty-eight stitches."
+    },
+    {
+      "name": "Arctic",
+      "frequency": 1,
+      "context": "Cooler than the Arctic."
+    },
+    {
+      "name": "Blood",
+      "frequency": 2,
+      "context": "Blood, eye filled with blood, bleeding eye."
+    },
+    {
+      "name": "God",
+      "frequency": 1,
+      "context": "Oh my God."
+    },
+    {
+      "name": "Freak",
+      "frequency": 1,
+      "context": "Super freak."
+    },
+    {
+      "name": "Laugh",
+      "frequency": 1,
+      "context": "Never laughed so hard."
+    },
+    {
+      "name": "Bold",
+      "frequency": 1,
+      "context": "Thirteen-year-olds are so bold."
+    },
+    {
+      "name": "Adventure",
+      "frequency": 2,
+      "context": "This thrilling adventure, daring adventure."
+    },
+    {
+      "name": "Bond",
+      "frequency": 2,
+      "context": "An unbreakable bond, cemented our bond."
+    },
+    {
+      "name": "Friendship",
+      "frequency": 4,
+      "context": "Friendship, Bobby and I were friends, our friendship, our friendship was solidified."
+    },
+    {
+      "name": "Two years",
+      "frequency": 1,
+      "context": "We had been friends for two years."
+    },
+    {
+      "name": "Complex",
+      "frequency": 1,
+      "context": "More complex than it had been."
+    },
+    {
+      "name": "Shared",
+      "frequency": 1,
+      "context": "Shared a harrowing experience."
+    },
+    {
+      "name": "Profound",
+      "frequency": 1,
+      "context": "Its profundity was beyond our comprehension."
+    },
+    {
+      "name": "Mysterious",
+      "frequency": 1,
+      "context": "Bobby acquired a mysterious aura."
+    },
+    {
+      "name": "Overture",
+      "frequency": 1,
+      "context": "This was merely an overture."
+    },
+    {
+      "name": "December",
+      "frequency": 2,
+      "context": "Second week of December, December night."
+    },
+    {
+      "name": "Disturbing",
+      "frequency": 1,
+      "context": "A more disturbing sight."
+    },
+    {
+      "name": "Year",
+      "frequency": 1,
+      "context": "After all these years."
+    },
+    {
+      "name": "Old",
+      "frequency": 1,
+      "context": "Too old for this game."
+    },
+    {
+      "name": "Peace of mind",
+      "frequency": 1,
+      "context": "Could no longer afford to trespass with peace of mind."
+    },
+    {
+      "name": "Trespass",
+      "frequency": 1,
+      "context": "Trespass on other people's land."
+    },
+    {
+      "name": "Back",
+      "frequency": 3,
+      "context": "Back at the crematorium window, back to the original departure point, narrator looks back."
+    },
+    {
+      "name": "Eucalyptus",
+      "frequency": 1,
+      "context": "Eucalyptus fallen leaves."
+    },
+    {
+      "name": "Carefully",
+      "frequency": 1,
+      "context": "Moving carefully."
+    },
+    {
+      "name": "Face",
+      "frequency": 1,
+      "context": "Bringing my face close to the window."
+    },
+    {
+      "name": "Fate",
+      "frequency": 1,
+      "context": "Window of fate."
+    },
+    {
+      "name": "Yellowed",
+      "frequency": 1,
+      "context": "Louvers were yellowed."
+    },
+    {
+      "name": "Adjusted",
+      "frequency": 1,
+      "context": "Louvers were adjusted."
+    },
+    {
+      "name": "Gap",
+      "frequency": 1,
+      "context": "The width of the gaps."
+    },
+    {
+      "name": "See",
+      "frequency": 1,
+      "context": "See everything that was going on inside."
+    },
+    {
+      "name": "Height",
+      "frequency": 1,
+      "context": "My height was sufficient."
+    },
+    {
+      "name": "Assistant",
+      "frequency": 3,
+      "context": "Frank Cork and his assistant, Sandy and his assistant, Jesse Pinne."
+    },
+    {
+      "name": "Power Pak II",
+      "frequency": 1,
+      "context": "The cremator."
+    },
+    {
+      "name": "Busy",
+      "frequency": 1,
+      "context": "Busy next to the cremator."
+    },
+    {
+      "name": "Surgeons",
+      "frequency": 1,
+      "context": "Surgical masks."
+    },
+    {
+      "name": "Disposable",
+      "frequency": 1,
+      "context": "Disposable plastic aprons."
+    },
+    {
+      "name": "Aprons",
+      "frequency": 1,
+      "context": "Disposable plastic aprons."
+    },
+    {
+      "name": "Stretcher",
+      "frequency": 1,
+      "context": "Stretcher cart."
+    },
+    {
+      "name": "Opaque",
+      "frequency": 1,
+      "context": "Opaque nylon bag."
+    },
+    {
+      "name": "Nylon",
+      "frequency": 1,
+      "context": "Opaque nylon bag."
+    },
+    {
+      "name": "Body bag",
+      "frequency": 2,
+      "context": "Nylon body bag, narrator checks the body bag."
+    },
+    {
+      "name": "Zipper",
+      "frequency": 1,
+      "context": "Zipper was down."
+    },
+    {
+      "name": "Dead man",
+      "frequency": 1,
+      "context": "A dead man lay inside."
+    },
+    {
+      "name": "Homeless man",
+      "frequency": 1,
+      "context": "The homeless man."
+    },
+    {
+      "name": "Cremated",
+      "frequency": 2,
+      "context": "To be cremated, bodies were cremated."
+    },
+    {
+      "name": "Five feet ten inches",
+      "frequency": 1,
+      "context": "Approximate height of the homeless man."
+    },
+    {
+      "name": "One hundred sixty pounds",
+      "frequency": 1,
+      "context": "Approximate weight of the homeless man."
+    },
+    {
+      "name": "Beaten",
+      "frequency": 1,
+      "context": "Severely beaten."
+    },
+    {
+      "name": "Estimate",
+      "frequency": 1,
+      "context": "Couldn't estimate his age."
+    },
+    {
+      "name": "Face",
+      "frequency": 1,
+      "context": "His whole face was beaten in."
+    },
+    {
+      "name": "Clotted",
+      "frequency": 1,
+      "context": "Eyes were covered with clotted blood."
+    },
+    {
+      "name": "Empty",
+      "frequency": 1,
+      "context": "His eyes were gone."
+    },
+    {
+      "name": "Holes",
+      "frequency": 1,
+      "context": "The holes where his eyes had been."
+    },
+    {
+      "name": "Horrifying",
+      "frequency": 1,
+      "context": "This was far more horrifying."
+    },
+    {
+      "name": "Natural",
+      "frequency": 1,
+      "context": "It meant nature's indifference."
+    },
+    {
+      "name": "Human",
+      "frequency": 1,
+      "context": "It meant human malice."
+    },
+    {
+      "name": "Malice",
+      "frequency": 1,
+      "context": "Human malice."
+    },
+    {
+      "name": "Occasionally",
+      "frequency": 1,
+      "context": "Occasionally returned."
+    },
+    {
+      "name": "Dank",
+      "frequency": 1,
+      "context": "Dank nights."
+    },
+    {
+      "name": "Ivy",
+      "frequency": 1,
+      "context": "Afraid of tripping on the ivy."
+    },
+    {
+      "name": "Lungs",
+      "frequency": 1,
+      "context": "Lungs filled with the scent."
+    },
+    {
+      "name": "Forever",
+      "frequency": 1,
+      "context": "Forever associate that scent with death."
+    },
+    {
+      "name": "Held",
+      "frequency": 1,
+      "context": "Fourteen funerals had been held."
+    },
+    {
+      "name": "Embalm",
+      "frequency": 1,
+      "context": "Embalmed."
+    },
+    {
+      "name": "Traditional",
+      "frequency": 1,
+      "context": "Traditional burial."
+    },
+    {
+      "name": "Sigh",
+      "frequency": 1,
+      "context": "Bobby and I would always sigh."
+    },
+    {
+      "name": "Sanctuary",
+      "frequency": 1,
+      "context": "That hallowed sanctuary."
+    },
+    {
+      "name": "Wet work",
+      "frequency": 1,
+      "context": "Where they did their wet work."
+    },
+    {
+      "name": "Underground",
+      "frequency": 1,
+      "context": "Located in the basement."
+    },
+    {
+      "name": "Spy",
+      "frequency": 1,
+      "context": "Audacious spies."
+    },
+    {
+      "name": "Secretly",
+      "frequency": 1,
+      "context": "Secretly glad."
+    },
+    {
+      "name": "Disappointed",
+      "frequency": 1,
+      "context": "Pretended to be disappointed."
+    },
+    {
+      "name": "Daytime",
+      "frequency": 1,
+      "context": "Frank usually did the embalming during the daytime."
+    },
+    {
+      "name": "Nighttime",
+      "frequency": 1,
+      "context": "Cremations were always done at nighttime."
+    },
+    {
+      "name": "Possible",
+      "frequency": 1,
+      "context": "Made it impossible for us to participate."
+    },
+    {
+      "name": "Clunky",
+      "frequency": 1,
+      "context": "The old cremator was clunky."
+    },
+    {
+      "name": "Primitive",
+      "frequency": 1,
+      "context": "Far more primitive."
+    },
+    {
+      "name": "High temperature",
+      "frequency": 1,
+      "context": "Capable of handling remains at a high temperature."
+    },
+    {
+      "name": "Exhaust system",
+      "frequency": 1,
+      "context": "Claimed to have an exhaust system."
+    },
+    {
+      "name": "Smog",
+      "frequency": 1,
+      "context": "Smog drifting from the chimney."
+    },
+    {
+      "name": "Respect",
+      "frequency": 1,
+      "context": "Out of respect for the deceased's family and friends."
+    },
+    {
+      "name": "Mountain",
+      "frequency": 1,
+      "context": "Looking up from the valley floor."
+    },
+    {
+      "name": "Loved ones",
+      "frequency": 1,
+      "context": "Their loved ones."
+    },
+    {
+      "name": "Gray smoke",
+      "frequency": 1,
+      "context": "Into a wisp of gray smoke."
+    },
+    {
+      "name": "Convenient",
+      "frequency": 1,
+      "context": "It was very convenient for us."
+    },
+    {
+      "name": "Editor",
+      "frequency": 1,
+      "context": "Editor of the Moonlight Bay Gazette."
+    },
+    {
+      "name": "Easy",
+      "frequency": 1,
+      "context": "It was easy for Bobby."
+    },
+    {
+      "name": "Leverage",
+      "frequency": 1,
+      "context": "Leverage his connections."
+    },
+    {
+      "name": "Familiarity",
+      "frequency": 1,
+      "context": "And his familiarity with the paper."
+    },
+    {
+      "name": "Accidental",
+      "frequency": 1,
+      "context": "News of accidental and natural deaths."
+    },
+    {
+      "name": "Fresh",
+      "frequency": 1,
+      "context": "As soon as Frank got a fresh corpse."
+    },
+    {
+      "name": "Determine",
+      "frequency": 1,
+      "context": "Couldn't determine whether he would embalm or cremate."
+    },
+    {
+      "name": "Impatient",
+      "frequency": 1,
+      "context": "We would become impatient."
+    },
+    {
+      "name": "Cycle",
+      "frequency": 1,
+      "context": "As soon as the sun went down."
+    },
+    {
+      "name": "Sneak",
+      "frequency": 1,
+      "context": "Sneak onto the funeral home's private grounds."
+    },
+    {
+      "name": "Wait",
+      "frequency": 1,
+      "context": "Wait by the crematorium window."
+    },
+    {
+      "name": "Commence",
+      "frequency": 1,
+      "context": "Until the cremation process commenced."
+    },
+    {
+      "name": "Certain",
+      "frequency": 1,
+      "context": "Until we were certain he wouldn't be cremated."
+    },
+    {
+      "name": "President",
+      "frequency": 1,
+      "context": "President of First National Bank."
+    },
+    {
+      "name": "Sixty",
+      "frequency": 1,
+      "context": "Sixty-year-old president."
+    },
+    {
+      "name": "Heart attack",
+      "frequency": 1,
+      "context": "Died of a heart attack."
+    },
+    {
+      "name": "Carpenter",
+      "frequency": 1,
+      "context": "A carpenter named Henry Ames."
+    },
+    {
+      "name": "Roof",
+      "frequency": 1,
+      "context": "Fell from a roof."
+    },
+    {
+      "name": "Neck",
+      "frequency": 1,
+      "context": "Broke his neck."
+    },
+    {
+      "name": "Witness",
+      "frequency": 2,
+      "context": "Did not witness the process, witness the cremation."
+    },
+    {
+      "name": "Louvers",
+      "frequency": 1,
+      "context": "Remembered to close the louvers."
+    },
+    {
+      "name": "Roberta",
+      "frequency": 2,
+      "context": "Roberta Aikens, Roberta Aikens' body."
+    },
+    {
+      "name": "Teacher",
+      "frequency": 1,
+      "context": "Junior high math teacher."
+    },
+    {
+      "name": "Librarian",
+      "frequency": 1,
+      "context": "Mrs. Aikens was a librarian."
+    },
+    {
+      "name": "Son",
+      "frequency": 2,
+      "context": "Five-year-old son, orphaned son."
+    },
+    {
+      "name": "David",
+      "frequency": 1,
+      "context": "Named David."
+    },
+    {
+      "name": "Lying",
+      "frequency": 1,
+      "context": "Lying on the stretcher cart."
+    },
+    {
+      "name": "Dreamlike",
+      "frequency": 1,
+      "context": "Her face was dreamlike."
+    },
+    {
+      "name": "Weight",
+      "frequency": 1,
+      "context": "Held a place in our hearts."
+    },
+    {
+      "name": "Breath",
+      "frequency": 1,
+      "context": "We could barely breathe."
+    },
+    {
+      "name": "Understand",
+      "frequency": 1,
+      "context": "We understood she was a beautiful woman."
+    },
+    {
+      "name": "Mothers",
+      "frequency": 1,
+      "context": "A mother herself."
+    },
+    {
+      "name": "Appreciate",
+      "frequency": 1,
+      "context": "We didn't appreciate this quiet, rain-like beauty."
+    },
+    {
+      "name": "Galaxy",
+      "frequency": 1,
+      "context": "Galaxies of starlight."
+    },
+    {
+      "name": "Rainwater",
+      "frequency": 1,
+      "context": "As clear as rainwater."
+    },
+    {
+      "name": "Attract",
+      "frequency": 1,
+      "context": "Only the hot, nude women on poker cards attracted us."
+    },
+    {
+      "name": "Notice",
+      "frequency": 1,
+      "context": "Never paid much attention to her."
+    },
+    {
+      "name": "Trace",
+      "frequency": 1,
+      "context": "Death left no trace on her face."
+    },
+    {
+      "name": "Artery",
+      "frequency": 1,
+      "context": "Defect in the wall of a brain artery."
+    },
+    {
+      "name": "Congenital",
+      "frequency": 1,
+      "context": "Undoubtedly congenital."
+    },
+    {
+      "name": "Undiscovered",
+      "frequency": 1,
+      "context": "Had gone undiscovered."
+    },
+    {
+      "name": "Swelling",
+      "frequency": 1,
+      "context": "Swollen until it finally burst."
+    },
+    {
+      "name": "Burst",
+      "frequency": 1,
+      "context": "Suddenly burst one afternoon."
+    },
+    {
+      "name": "Hours",
+      "frequency": 1,
+      "context": "She died within hours."
+    },
+    {
+      "name": "Eyes closed",
+      "frequency": 1,
+      "context": "Her eyes were closed."
+    },
+    {
+      "name": "Serene",
+      "frequency": 1,
+      "context": "Her features were serene."
+    },
+    {
+      "name": "Dream",
+      "frequency": 1,
+      "context": "As if she were dreaming."
+    },
+    {
+      "name": "Smile",
+      "frequency": 1,
+      "context": "Corners of her mouth turned up."
+    },
+    {
+      "name": "Slender",
+      "frequency": 1,
+      "context": "Her slender body."
+    },
+    {
+      "name": "Delicate",
+      "frequency": 1,
+      "context": "Delicate and perfectly proportioned."
+    },
+    {
+      "name": "Charming",
+      "frequency": 1,
+      "context": "Her charm was beyond words."
+    },
+    {
+      "name": "Beyond",
+      "frequency": 1,
+      "context": "Beyond carnal attraction."
+    },
+    {
+      "name": "Thought",
+      "frequency": 1,
+      "context": "Without a hint of carnal thought."
+    },
+    {
+      "name": "Young",
+      "frequency": 1,
+      "context": "She looked so young."
+    },
+    {
+      "name": "Old",
+      "frequency": 1,
+      "context": "Would never look old."
+    },
+    {
+      "name": "Gentle",
+      "frequency": 1,
+      "context": "Unusually gentle."
+    },
+    {
+      "name": "Reverence",
+      "frequency": 1,
+      "context": "And reverence."
+    },
+    {
+      "name": "Box",
+      "frequency": 1,
+      "context": "Into a paper box."
+    },
+    {
+      "name": "Behind her",
+      "frequency": 1,
+      "context": "The furnace door closed behind her."
+    },
+    {
+      "name": "Remove",
+      "frequency": 1,
+      "context": "Removed his rubber gloves."
+    },
+    {
+      "name": "Wipe",
+      "frequency": 1,
+      "context": "Wiped the corners of his eyes."
+    },
+    {
+      "name": "Chatting",
+      "frequency": 1,
+      "context": "Frank and his assistant chatted."
+    },
+    {
+      "name": "Silent",
+      "frequency": 1,
+      "context": "They spoke barely a word."
+    },
+    {
+      "name": "Word",
+      "frequency": 1,
+      "context": "Spoke barely a word."
+    },
+    {
+      "name": "Speechless",
+      "frequency": 1,
+      "context": "Bobby and I were speechless."
+    },
+    {
+      "name": "Quietly",
+      "frequency": 1,
+      "context": "Quietly left Cork's Funeral Home."
+    },
+    {
+      "name": "Retrieve",
+      "frequency": 1,
+      "context": "Retrieved our bicycles."
+    },
+    {
+      "name": "Darkest",
+      "frequency": 1,
+      "context": "Rode through the darkest streets."
+    },
+    {
+      "name": "Across",
+      "frequency": 1,
+      "context": "Across Moonlight Bay."
+    },
+    {
+      "name": "Shore",
+      "frequency": 1,
+      "context": "The wide beach lay exposed."
+    },
+    {
+      "name": "Barren",
+      "frequency": 1,
+      "context": "Looked barren."
+    },
+    {
+      "name": "Feathers",
+      "frequency": 1,
+      "context": "City lights shimmered like a phoenix's colorful feathers."
+    },
+    {
+      "name": "Pacific",
+      "frequency": 1,
+      "context": "The vast Pacific Ocean."
+    },
+    {
+      "name": "Ink",
+      "frequency": 1,
+      "context": "Its ink-black surf."
+    },
+    {
+      "name": "Gentle",
+      "frequency": 1,
+      "context": "The surf was gentle."
+    },
+    {
+      "name": "Distance",
+      "frequency": 1,
+      "context": "The distance between the waves."
+    },
+    {
+      "name": "Lapping",
+      "frequency": 1,
+      "context": "Gentle lapping waves."
+    },
+    {
+      "name": "Lazily",
+      "frequency": 1,
+      "context": "Lazily churned."
+    },
+    {
+      "name": "Shimmering",
+      "frequency": 1,
+      "context": "Lapping waves churned, creating shimmering crests."
+    },
+    {
+      "name": "Collapse",
+      "frequency": 1,
+      "context": "And collapsed from right to left."
+    },
+    {
+      "name": "Peel",
+      "frequency": 1,
+      "context": "Like a strip of white skin."
+    },
+    {
+      "name": "Black flesh",
+      "frequency": 1,
+      "context": "Peeling from the sea's black flesh."
+    },
+    {
+      "name": "Sitting",
+      "frequency": 1,
+      "context": "Sitting on the sand."
+    },
+    {
+      "name": "Christmas",
+      "frequency": 2,
+      "context": "Christmas was two weeks away, David's Christmas."
+    },
+    {
+      "name": "Mind",
+      "frequency": 1,
+      "context": "Kept dinging in my mind."
+    },
+    {
+      "name": "Wonder",
+      "frequency": 1,
+      "context": "I wondered what Bobby was thinking."
+    },
+    {
+      "name": "Ask",
+      "frequency": 1,
+      "context": "I didn't ask."
+    },
+    {
+      "name": "Motherless",
+      "frequency": 1,
+      "context": "Motherless David."
+    },
+    {
+      "name": "Understand",
+      "frequency": 1,
+      "context": "He probably didn't understand what death was."
+    },
+    {
+      "name": "Husband",
+      "frequency": 1,
+      "context": "Her husband, Tom Aikens."
+    },
+    {
+      "name": "Sure",
+      "frequency": 1,
+      "context": "He would know what death was."
+    },
+    {
+      "name": "Decorate",
+      "frequency": 1,
+      "context": "Would he still put up a Christmas tree for David?"
+    },
+    {
+      "name": "Heart",
+      "frequency": 1,
+      "context": "Where would he find the heart?"
+    },
+    {
+      "name": "Tinsel",
+      "frequency": 1,
+      "context": "To twine tinsel around the branches."
+    },
+    {
+      "name": "Silence",
+      "frequency": 1,
+      "context": "Bobby broke the silence."
+    },
+    {
+      "name": "Swim",
+      "frequency": 4,
+      "context": "Let's go swimming, narrator and Bobby swim, narrator feels he shouldn't swim."
+    },
+    {
+      "name": "Weather",
+      "frequency": 1,
+      "context": "The weather was mild."
+    },
+    {
+      "name": "December",
+      "frequency": 1,
+      "context": "It was December, after all."
+    },
+    {
+      "name": "Warm",
+      "frequency": 1,
+      "context": "No warm currents from the southern hemisphere."
+    },
+    {
+      "name": "Uninviting",
+      "frequency": 1,
+      "context": "The temperature of the water was uninviting."
+    },
+    {
+      "name": "Chilly",
+      "frequency": 1,
+      "context": "And the wind was chilly."
+    },
+    {
+      "name": "Strip",
+      "frequency": 1,
+      "context": "Bobby stripped off his clothes."
+    },
+    {
+      "name": "Fold",
+      "frequency": 1,
+      "context": "Folded his clothes."
+    },
+    {
+      "name": "Kelp",
+      "frequency": 1,
+      "context": "On a pile of dry, tangled kelp."
+    },
+    {
+      "name": "Washed",
+      "frequency": 1,
+      "context": "Washed ashore."
+    },
+    {
+      "name": "Sun-dried",
+      "frequency": 1,
+      "context": "Dried by the sun."
+    },
+    {
+      "name": "Lay",
+      "frequency": 1,
+      "context": "Laid my own clothes beside his."
+    },
+    {
+      "name": "Naked",
+      "frequency": 1,
+      "context": "Naked bodies."
+    },
+    {
+      "name": "Waded",
+      "frequency": 1,
+      "context": "Waded into the black water."
+    },
+    {
+      "name": "Against",
+      "frequency": 1,
+      "context": "Swam against the outgoing tide."
+    },
+    {
+      "name": "Far",
+      "frequency": 1,
+      "context": "A good distance from the shore."
+    },
+    {
+      "name": "Turned",
+      "frequency": 1,
+      "context": "Then we turned north."
+    },
+    {
+      "name": "Parallel",
+      "frequency": 1,
+      "context": "Parallel to the beach."
+    },
+    {
+      "name": "Current",
+      "frequency": 1,
+      "context": "Riding the outgoing current."
+    },
+    {
+      "name": "Effortless",
+      "frequency": 1,
+      "context": "The water was effortless."
+    },
+    {
+      "name": "Dangerous",
+      "frequency": 1,
+      "context": "A dangerous distance."
+    },
+    {
+      "name": "Skilled",
+      "frequency": 1,
+      "context": "We were both skilled swimmers."
+    },
+    {
+      "name": "Careless",
+      "frequency": 1,
+      "context": "Perhaps a bit careless now."
+    },
+    {
+      "name": "Comfortable",
+      "frequency": 1,
+      "context": "Reached a comfortable temperature."
+    },
+    {
+      "name": "Hypothermia",
+      "frequency": 1,
+      "context": "Could lead to danger."
+    },
+    {
+      "name": "Sense",
+      "frequency": 1,
+      "context": "If we'd had any sense."
+    },
+    {
+      "name": "Pause",
+      "frequency": 1,
+      "context": "Paused for a moment."
+    },
+    {
+      "name": "Treading water",
+      "frequency": 1,
+      "context": "Treading water."
+    },
+    {
+      "name": "Shuddering",
+      "frequency": 1,
+      "context": "Shivering violently."
+    },
+    {
+      "name": "Breathe",
+      "frequency": 1,
+      "context": "Sucking in air."
+    },
+    {
+      "name": "Throat",
+      "frequency": 1,
+      "context": "Scoured our precious body heat from our throats."
+    },
+    {
+      "name": "Simultaneously",
+      "frequency": 1,
+      "context": "Turned and swam south simultaneously."
+    },
+    {
+      "name": "Heavy",
+      "frequency": 1,
+      "context": "Limbs growing heavier."
+    },
+    {
+      "name": "Stomach",
+      "frequency": 1,
+      "context": "Stomach cramping."
+    },
+    {
+      "name": "Terrifyingly",
+      "frequency": 1,
+      "context": "Stomach cramping terrifyingly."
+    },
+    {
+      "name": "Deep",
+      "frequency": 1,
+      "context": "Deep heartbeats."
+    },
+    {
+      "name": "Sink",
+      "frequency": 1,
+      "context": "Could sink us."
+    },
+    {
+      "name": "Surging",
+      "frequency": 1,
+      "context": "Felt more surging."
+    },
+    {
+      "name": "Biting",
+      "frequency": 1,
+      "context": "Biting us with their icy white foam."
+    },
+    {
+      "name": "Side by side",
+      "frequency": 1,
+      "context": "We swam side by side."
+    },
+    {
+      "name": "Lost",
+      "frequency": 1,
+      "context": "Not letting each other out of sight."
+    },
+    {
+      "name": "Winter",
+      "frequency": 1,
+      "context": "Winter night sky."
+    },
+    {
+      "name": "Comfort",
+      "frequency": 1,
+      "context": "No comfort from the winter night sky."
+    },
+    {
+      "name": "Distant",
+      "frequency": 1,
+      "context": "City lights like distant stars."
+    },
+    {
+      "name": "Ocean",
+      "frequency": 1,
+      "context": "The sea itself seemed malevolent."
+    },
+    {
+      "name": "Malevolent",
+      "frequency": 1,
+      "context": "The sea itself seemed malevolent."
+    },
+    {
+      "name": "Rescue",
+      "frequency": 1,
+      "context": "Would save each other without question."
+    },
+    {
+      "name": "Exhausted",
+      "frequency": 1,
+      "context": "We were almost too exhausted."
+    },
+    {
+      "name": "Spit",
+      "frequency": 1,
+      "context": "We spat the bitter taste of the sea."
+    },
+    {
+      "name": "Nauseated",
+      "frequency": 1,
+      "context": "Nauseated."
+    },
+    {
+      "name": "Pale",
+      "frequency": 1,
+      "context": "Pale as the sand."
+    },
+    {
+      "name": "Remind",
+      "frequency": 1,
+      "context": "We couldn't even remember."
+    },
+    {
+      "name": "Warm",
+      "frequency": 1,
+      "context": "How hot the cremator's fire was."
+    },
+    {
+      "name": "Cold",
+      "frequency": 2,
+      "context": "Still felt frozen, freezing cold."
+    },
+    {
+      "name": "Good",
+      "frequency": 1,
+      "context": "That felt good."
+    },
+    {
+      "name": "Park",
+      "frequency": 1,
+      "context": "Through the parkland bordering the beach."
+    },
+    {
+      "name": "Nearest",
+      "frequency": 1,
+      "context": "Onto the nearest street."
+    },
+    {
+      "name": "Damn",
+      "frequency": 1,
+      "context": "Bobby cursed."
+    },
+    {
+      "name": "Good",
+      "frequency": 1,
+      "context": "Good cursing,"
+    },
+    {
+      "name": "Home",
+      "frequency": 1,
+      "context": "Rode off to our respective homes."
+    },
+    {
+      "name": "Uncomfortable",
+      "frequency": 1,
+      "context": "Felt uncomfortable."
+    },
+    {
+      "name": "Collapsed",
+      "frequency": 1,
+      "context": "Collapsed into sleep."
+    },
+    {
+      "name": "Dreaming",
+      "frequency": 1,
+      "context": "Dreaming."
+    },
+    {
+      "name": "Continued",
+      "frequency": 1,
+      "context": "Life went on."
+    },
+    {
+      "name": "Mention",
+      "frequency": 1,
+      "context": "Never mentioned Mrs. Aikens again."
+    },
+    {
+      "name": "Years",
+      "frequency": 1,
+      "context": "After all these years."
+    },
+    {
+      "name": "Hesitate",
+      "frequency": 1,
+      "context": "Bobby and I would still unhesitatingly."
+    },
+    {
+      "name": "Die",
+      "frequency": 1,
+      "context": "Die for each other."
+    },
+    {
+      "name": "World",
+      "frequency": 1,
+      "context": "How strange the world is!"
+    },
+    {
+      "name": "Sensory",
+      "frequency": 1,
+      "context": "Things we can perceive with our senses."
+    },
+    {
+      "name": "Body",
+      "frequency": 1,
+      "context": "Our own bones and flesh."
+    },
+    {
+      "name": "Star",
+      "frequency": 1,
+      "context": "Starlight in the sky."
+    },
+    {
+      "name": "Unreal",
+      "frequency": 1,
+      "context": "Seem less real."
+    },
+    {
+      "name": "Touch",
+      "frequency": 1,
+      "context": "Things we can't touch, taste, smell, or see."
+    },
+    {
+      "name": "Bike",
+      "frequency": 1,
+      "context": "Bicycles and the boys who ride them."
+    },
+    {
+      "name": "Imagination",
+      "frequency": 1,
+      "context": "As real as things in our imagination."
+    },
+    {
+      "name": "Endure",
+      "frequency": 1,
+      "context": "Emotions that endure longer than the world."
+    },
+    {
+      "name": "Love",
+      "frequency": 1,
+      "context": "Love, friendship, and loneliness."
+    },
+    {
+      "name": "Loneliness",
+      "frequency": 1,
+      "context": "Love, friendship, and loneliness."
+    },
+    {
+      "name": "March night",
+      "frequency": 1,
+      "context": "On this March night."
+    },
+    {
+      "name": "Thought",
+      "frequency": 1,
+      "context": "More real than I had imagined."
+    },
+    {
+      "name": "Brutally",
+      "frequency": 1,
+      "context": "Someone had brutally beaten a hitchhiker to death."
+    },
+    {
+      "name": "Hitchhiker",
+      "frequency": 1,
+      "context": "A hitchhiker."
+    },
+    {
+      "name": "Gouged",
+      "frequency": 1,
+      "context": "Gouged out his eyes."
+    },
+    {
+      "name": "Motive",
+      "frequency": 1,
+      "context": "The motive for killing."
+    },
+    {
+      "name": "Body swap",
+      "frequency": 1,
+      "context": "In order to facilitate a body swap with my father's corpse."
+    },
+    {
+      "name": "Reason",
+      "frequency": 1,
+      "context": "What was the reason for gouging out his eyes?"
+    },
+    {
+      "name": "Pitiful",
+      "frequency": 1,
+      "context": "This poor wretch."
+    },
+    {
+      "name": "Sent",
+      "frequency": 1,
+      "context": "Sent to the furnace without eyes."
+    },
+    {
+      "name": "Purely",
+      "frequency": 1,
+      "context": "Purely for the thrill of base depravity?"
+    },
+    {
+      "name": "Depravity",
+      "frequency": 1,
+      "context": "Base depravity."
+    },
+    {
+      "name": "Bulky",
+      "frequency": 1,
+      "context": "Burly man."
+    },
+    {
+      "name": "Shaven",
+      "frequency": 1,
+      "context": "Shaven head."
+    },
+    {
+      "name": "Earring",
+      "frequency": 1,
+      "context": "Pearl earring."
+    },
+    {
+      "name": "Rough",
+      "frequency": 1,
+      "context": "Rough face."
+    },
+    {
+      "name": "Cold",
+      "frequency": 1,
+      "context": "Cold, killer's eyes."
+    },
+    {
+      "name": "Calm",
+      "frequency": 1,
+      "context": "Calm."
+    },
+    {
+      "name": "Iron",
+      "frequency": 1,
+      "context": "Voice like iron."
+    },
+    {
+      "name": "Harsh",
+      "frequency": 1,
+      "context": "Harsh rasp of a rusty knife."
+    },
+    {
+      "name": "Enjoy",
+      "frequency": 1,
+      "context": "A person like that could certainly enjoy inflicting pain."
+    },
+    {
+      "name": "Carve",
+      "frequency": 1,
+      "context": "Carving up human flesh."
+    },
+    {
+      "name": "Branch",
+      "frequency": 1,
+      "context": "Breaking branches from wild trees."
+    },
+    {
+      "name": "Gurney",
+      "frequency": 1,
+      "context": "Pushing the gurney."
+    },
+    {
+      "name": "Guilty",
+      "frequency": 1,
+      "context": "I shrank away from the window, guiltily."
+    },
+    {
+      "name": "Alarm",
+      "frequency": 1,
+      "context": "As if I'd tripped some kind of alarm."
+    },
+    {
+      "name": "Closer",
+      "frequency": 1,
+      "context": "When I moved closer to the window again."
+    },
+    {
+      "name": "Off",
+      "frequency": 1,
+      "context": "Pulled off his mask."
+    },
+    {
+      "name": "Wall",
+      "frequency": 1,
+      "context": "Picked up the telephone receiver from the wall."
+    },
+    {
+      "name": "Receiver",
+      "frequency": 1,
+      "context": "Telephone receiver."
+    },
+    {
+      "name": "Perplexed",
+      "frequency": 1,
+      "context": "Voice sounded perplexed."
+    },
+    {
+      "name": "Alarmed",
+      "frequency": 1,
+      "context": "Then alarmed."
+    },
+    {
+      "name": "Furious",
+      "frequency": 1,
+      "context": "Finally furious."
+    },
+    {
+      "name": "Double",
+      "frequency": 1,
+      "context": "Double panes of glass."
+    },
+    {
+      "name": "Hear",
+      "frequency": 1,
+      "context": "Couldn't hear what he was saying."
+    },
+    {
+      "name": "Slammed",
+      "frequency": 1,
+      "context": "Slammed the receiver back."
+    },
+    {
+      "name": "Machine",
+      "frequency": 1,
+      "context": "Almost knocking the whole telephone machine off the wall."
+    },
+    {
+      "name": "Other end",
+      "frequency": 1,
+      "context": "Whoever was on the other end."
+    },
+    {
+      "name": "Ears",
+      "frequency": 1,
+      "context": "Must have had his ears ringing."
+    },
+    {
+      "name": "Urgently",
+      "frequency": 1,
+      "context": "Spoke urgently to his assistant."
+    },
+    {
+      "name": "My name",
+      "frequency": 1,
+      "context": "My name mentioned."
+    },
+    {
+      "name": "Dislike",
+      "frequency": 1,
+      "context": "Did not sound appreciative or affectionate."
+    },
+    {
+      "name": "Jessie",
+      "frequency": 1,
+      "context": "Jessie Pinne."
+    },
+    {
+      "name": "Greyhound",
+      "frequency": 1,
+      "context": "Greyhound-thin cheeks."
+    },
+    {
+      "name": "Ruddy",
+      "frequency": 1,
+      "context": "Ruddy brown eyes."
+    },
+    {
+      "name": "Thin",
+      "frequency": 1,
+      "context": "Thin lips."
+    },
+    {
+      "name": "Pursed",
+      "frequency": 1,
+      "context": "Always pursed."
+    },
+    {
+      "name": "Begin",
+      "frequency": 1,
+      "context": "Began zipping up the body bag."
+    },
+    {
+      "name": "Cover",
+      "frequency": 1,
+      "context": "To cover the homeless man's corpse."
+    },
+    {
+      "name": "Suit",
+      "frequency": 1,
+      "context": "Sandy's suit jacket."
+    },
+    {
+      "name": "Hook",
+      "frequency": 1,
+      "context": "On a hook on the right-hand door."
+    },
+    {
+      "name": "Shoulder holster",
+      "frequency": 1,
+      "context": "A shoulder holster."
+    },
+    {
+      "name": "Hang",
+      "frequency": 1,
+      "context": "Hung down."
+    },
+    {
+      "name": "Pistol",
+      "frequency": 1,
+      "context": "Weight of the pistol."
+    },
+    {
+      "name": "Fumble",
+      "frequency": 1,
+      "context": "Pinne was still fumbling with the bag."
+    },
+    {
+      "name": "Yell",
+      "frequency": 1,
+      "context": "Sandy began yelling at him."
+    },
+    {
+      "name": "Gesture",
+      "frequency": 1,
+      "context": "Gesturing towards the window."
+    },
+    {
+      "name": "Seen",
+      "frequency": 1,
+      "context": "I guessed I hadn't been seen."
+    },
+    {
+      "name": "Optimist",
+      "frequency": 1,
+      "context": "I am a radical optimist."
+    },
+    {
+      "name": "Automatic",
+      "frequency": 1,
+      "context": "Optimism is my automatic response."
+    },
+    {
+      "name": "Pessimistic",
+      "frequency": 1,
+      "context": "Pessimistic intuition."
+    },
+    {
+      "name": "Wise",
+      "frequency": 1,
+      "context": "Wiser to heed."
+    },
+    {
+      "name": "Flee",
+      "frequency": 1,
+      "context": "Flee the scene."
+    },
+    {
+      "name": "Creak",
+      "frequency": 1,
+      "context": "Crisp sound of crushed snail shells."
+    },
+    {
+      "name": "Rustle",
+      "frequency": 1,
+      "context": "Sound of wind rustling branches."
+    },
+    {
+      "name": "Cover",
+      "frequency": 1,
+      "context": "Masked my passage."
+    },
+    {
+      "name": "Tracker",
+      "frequency": 1,
+      "context": "Mask the footsteps of a tracker."
+    },
+    {
+      "name": "Sure",
+      "frequency": 1,
+      "context": "I was sure the call had come."
+    },
+    {
+      "name": "Orderly",
+      "frequency": 1,
+      "context": "Hospital orderly."
+    },
+    {
+      "name": "Inspect",
+      "frequency": 1,
+      "context": "Inspected the contents of the briefcase."
+    },
+    {
+      "name": "Wallet",
+      "frequency": 1,
+      "context": "Father's wallet."
+    },
+    {
+      "name": "Conclude",
+      "frequency": 1,
+      "context": "Concluded I must have been to the garage."
+    },
+    {
+      "name": "Witnessed",
+      "frequency": 1,
+      "context": "Witnessed the body swap."
+    },
+    {
+      "name": "Realize",
+      "frequency": 1,
+      "context": "Sandy realized."
+    },
+    {
+      "name": "Motive",
+      "frequency": 1,
+      "context": "Motive for my visit."
+    },
+    {
+      "name": "Simple",
+      "frequency": 1,
+      "context": "Not as simple as he thought."
+    },
+    {
+      "name": "Immediately",
+      "frequency": 1,
+      "context": "Would immediately run out."
+    },
+    {
+      "name": "Look",
+      "frequency": 1,
+      "context": "See if I was still lurking nearby."
+    },
+    {
+      "name": "Backyard",
+      "frequency": 1,
+      "context": "I reached the backyard."
+    },
+    {
+      "name": "Expansive",
+      "frequency": 1,
+      "context": "Seemed more expansive than I remembered."
+    },
+    {
+      "name": "Dare",
+      "frequency": 1,
+      "context": "I didn't dare cross the courtyard."
+    },
+    {
+      "name": "Decide",
+      "frequency": 1,
+      "context": "I had already decided."
+    },
+    {
+      "name": "Linger",
+      "frequency": 1,
+      "context": "Not to linger near the house or the driveway."
+    },
+    {
+      "name": "Risk",
+      "frequency": 1,
+      "context": "The risk of going back the way I came."
+    },
+    {
+      "name": "Fast",
+      "frequency": 1,
+      "context": "Ran as fast as I could."
+    },
+    {
+      "name": "Flowerbeds",
+      "frequency": 1,
+      "context": "Past the rose beds."
+    },
+    {
+      "name": "Seven",
+      "frequency": 1,
+      "context": "Seven feet high."
+    },
+    {
+      "name": "Iron fence",
+      "frequency": 1,
+      "context": "A black iron fence."
+    },
+    {
+      "name": "Gleamed",
+      "frequency": 1,
+      "context": "Gleamed black in the moonlight."
+    },
+    {
+      "name": "Heel",
+      "frequency": 1,
+      "context": "Dug my heels into the soft earth."
+    },
+    {
+      "name": "Brake",
+      "frequency": 1,
+      "context": "Braked hard."
+    },
+    {
+      "name": "Impact",
+      "frequency": 1,
+      "context": "Didn't impact the fence hard."
+    },
+    {
+      "name": "Noise",
+      "frequency": 1,
+      "context": "Made almost no noise."
+    },
+    {
+      "name": "Spikes",
+      "frequency": 1,
+      "context": "Spikes erected on the fence."
+    },
+    {
+      "name": "Welded",
+      "frequency": 1,
+      "context": "Welded firmly."
+    },
+    {
+      "name": "Crossbars",
+      "frequency": 1,
+      "context": "To the crossbars."
+    },
+    {
+      "name": "Vibrate",
+      "frequency": 1,
+      "context": "The fence vibrated slightly."
+    },
+    {
+      "name": "Leaned",
+      "frequency": 1,
+      "context": "Leaned against the fence."
+    },
+    {
+      "name": "Downhill",
+      "frequency": 1,
+      "context": "Running downhill."
+    },
+    {
+      "name": "Bitterness",
+      "frequency": 1,
+      "context": "A bitter taste in my mouth."
+    },
+    {
+      "name": "Dry",
+      "frequency": 1,
+      "context": "So dry I couldn't spit."
+    },
+    {
+      "name": "Temple",
+      "frequency": 1,
+      "context": "Right temple ached."
+    },
+    {
+      "name": "Felt",
+      "frequency": 1,
+      "context": "Reached up and felt my face."
+    },
+    {
+      "name": "Thorns",
+      "frequency": 1,
+      "context": "Three thorns had stuck into the flesh."
+    },
+    {
+      "name": "Pulled",
+      "frequency": 1,
+      "context": "Pulled them all out."
+    },
+    {
+      "name": "Scratched",
+      "frequency": 1,
+      "context": "Scratched by rose thorns."
+    },
+    {
+      "name": "Fiercely",
+      "frequency": 1,
+      "context": "Charging so fiercely."
+    },
+    {
+      "name": "Thick",
+      "frequency": 1,
+      "context": "The thick aroma of roses."
+    },
+    {
+      "name": "Pungent",
+      "frequency": 1,
+      "context": "Pungent with decay."
+    },
+    {
+      "name": "Smell",
+      "frequency": 1,
+      "context": "Could smell the scent of my sunscreen."
+    },
+    {
+      "name": "Evaporate",
+      "frequency": 1,
+      "context": "Evaporated by my sweat."
+    },
+    {
+      "name": "Absurd",
+      "frequency": 1,
+      "context": "An absurd thought struck me."
+    },
+    {
+      "name": "Hunters",
+      "frequency": 1,
+      "context": "The six killers hunting me."
+    },
+    {
+      "name": "Scent",
+      "frequency": 1,
+      "context": "Track me by scent like hounds."
+    },
+    {
+      "name": "Temporary",
+      "frequency": 1,
+      "context": "Not in immediate danger."
+    },
+    {
+      "name": "Downwind",
+      "frequency": 1,
+      "context": "I was downwind."
+    },
+    {
+      "name": "Vibrate",
+      "frequency": 1,
+      "context": "The vibration of the fence."
+    },
+    {
+      "name": "Bone",
+      "frequency": 1,
+      "context": "To the bone."
+    },
+    {
+      "name": "Uphill",
+      "frequency": 1,
+      "context": "Looking uphill."
+    },
+    {
+      "name": "Search party",
+      "frequency": 1,
+      "context": "The entire search party."
+    },
+    {
+      "name": "Ascending",
+      "frequency": 1,
+      "context": "Ascending from the top terrace to the second."
+    },
+    {
+      "name": "Sickle",
+      "frequency": 1,
+      "context": "Six sickle-like beams."
+    },
+    {
+      "name": "Sweep",
+      "frequency": 1,
+      "context": "Swept through the rose bushes."
+    },
+    {
+      "name": "Distorted",
+      "frequency": 1,
+      "context": "Distorted the trellises."
+    },
+    {
+      "name": "Dinosaur",
+      "frequency": 1,
+      "context": "Looked like the bones of a dinosaur."
+    },
+    {
+      "name": "Corner",
+      "frequency": 1,
+      "context": "More corners to hide in."
+    },
+    {
+      "name": "Increased",
+      "frequency": 1,
+      "context": "Their pace seemed to increase."
+    },
+    {
+      "name": "Carefully",
+      "frequency": 1,
+      "context": "Carefully climbed over the fence."
+    },
+    {
+      "name": "Jacket pocket",
+      "frequency": 1,
+      "context": "Jacket pockets."
+    },
+    {
+      "name": "Jeans",
+      "frequency": 1,
+      "context": "Jean legs."
+    },
+    {
+      "name": "Hook",
+      "frequency": 1,
+      "context": "Caught on the spikes."
+    },
+    {
+      "name": "Wide",
+      "frequency": 1,
+      "context": "A wide expanse of land."
+    },
+    {
+      "name": "Valley",
+      "frequency": 1,
+      "context": "Dark valley."
+    },
+    {
+      "name": "Hills",
+      "frequency": 1,
+      "context": "Rolling hills."
+    },
+    {
+      "name": "Scattered",
+      "frequency": 1,
+      "context": "Scattered, indistinct oak trees."
+    },
+    {
+      "name": "Winter rains",
+      "frequency": 1,
+      "context": "Recent abundant winter rains."
+    },
+    {
+      "name": "Thick",
+      "frequency": 1,
+      "context": "The grass grew thick."
+    },
+    {
+      "name": "Knee",
+      "frequency": 1,
+      "context": "About knee-high."
+    },
+    {
+      "name": "Crushed",
+      "frequency": 1,
+      "context": "Crushed blades of grass beneath my shoes."
+    },
+    {
+      "name": "Sure",
+      "frequency": 1,
+      "context": "I was sure Sandy's gang wouldn't miss a square inch."
+    },
+    {
+      "name": "Escape",
+      "frequency": 1,
+      "context": "Flee the funeral home."
+    },
+    {
+      "name": "Reach",
+      "frequency": 1,
+      "context": "Before they reached the iron fence."
+    },
+    {
+      "name": "Out of range",
+      "frequency": 1,
+      "context": "Beyond the reach of the flashlights."
+    },
+    {
+      "name": "Further",
+      "frequency": 1,
+      "context": "The further I ran from the city."
+    },
+    {
+      "name": "Bad sign",
+      "frequency": 1,
+      "context": "Not a good sign."
+    },
+    {
+      "name": "Wilderness",
+      "frequency": 1,
+      "context": "In the wilderness."
+    },
+    {
+      "name": "Assistance",
+      "frequency": 1,
+      "context": "Could find no assistance."
+    },
+    {
+      "name": "Isolation",
+      "frequency": 1,
+      "context": "Closer to isolation."
+    },
+    {
+      "name": "Vulnerable",
+      "frequency": 1,
+      "context": "As vulnerable as anyone."
+    },
+    {
+      "name": "Season",
+      "frequency": 1,
+      "context": "Lucky to have hit this season."
+    },
+    {
+      "name": "Summer",
+      "frequency": 1,
+      "context": "Scorching summer."
+    },
+    {
+      "name": "Golden",
+      "frequency": 1,
+      "context": "Tall grass would have been golden."
+    },
+    {
+      "name": "Dry",
+      "frequency": 1,
+      "context": "Dry and brown."
+    },
+    {
+      "name": "Track",
+      "frequency": 1,
+      "context": "My passage would have left a visible track."
+    },
+    {
+      "name": "Trampled",
+      "frequency": 1,
+      "context": "Trampled grass."
+    },
+    {
+      "name": "Wish",
+      "frequency": 1,
+      "context": "I wished."
+    },
+    {
+      "name": "Spring back",
+      "frequency": 1,
+      "context": "Spring back into place."
+    },
+    {
+      "name": "Conceal",
+      "frequency": 1,
+      "context": "Conceal my tracks."
+    },
+    {
+      "name": "Observant",
+      "frequency": 1,
+      "context": "Any observant searcher."
+    },
+    {
+      "name": "Direction",
+      "frequency": 1,
+      "context": "Would see my direction."
+    },
+    {
+      "name": "Meter",
+      "frequency": 1,
+      "context": "Two meters from the fence."
+    },
+    {
+      "name": "Slope",
+      "frequency": 1,
+      "context": "At the bottom of the slope."
+    },
+    {
+      "name": "Brush",
+      "frequency": 1,
+      "context": "Dense brush."
+    },
+    {
+      "name": "Pampas grass",
+      "frequency": 1,
+      "context": "Clusters of pampas grass."
+    },
+    {
+      "name": "Obstacle",
+      "frequency": 1,
+      "context": "Formed an almost impassable obstacle."
+    },
+    {
+      "name": "Clearing",
+      "frequency": 1,
+      "context": "Struggled through the jungle."
+    },
+    {
+      "name": "Drainage ditch",
+      "frequency": 1,
+      "context": "A natural drainage ditch."
+    },
+    {
+      "name": "Vegetation",
+      "frequency": 1,
+      "context": "No vegetation grew there."
+    },
+    {
+      "name": "Scoured",
+      "frequency": 1,
+      "context": "Scoured clean."
+    },
+    {
+      "name": "Previous",
+      "frequency": 1,
+      "context": "Previous storm."
+    },
+    {
+      "name": "Bedrock",
+      "frequency": 1,
+      "context": "A strip of bedrock."
+    },
+    {
+      "name": "Weeks",
+      "frequency": 1,
+      "context": "Two weeks without rain."
+    },
+    {
+      "name": "Dry",
+      "frequency": 1,
+      "context": "The entire vein of rock was dry."
+    }
+  ],
+  "relations": [
+    {
+      "source": "Telephone",
+      "target": "Terrible change",
+      "type": "signals"
+    },
+    {
+      "source": "Narrator",
+      "target": "Father",
+      "type": "cares for"
+    },
+    {
+      "source": "Narrator",
+      "target": "Alone",
+      "type": "fears being"
+    },
+    {
+      "source": "Narrator",
+      "target": "Sasha",
+      "type": "calls"
+    },
+    {
+      "source": "Sasha",
+      "target": "Hospital",
+      "type": "drives to"
+    },
+    {
+      "source": "Narrator",
+      "target": "Miracle",
+      "type": "believes in"
+    },
+    {
+      "source": "Pepper trees",
+      "target": "Funeral home",
+      "type": "line driveway to"
+    },
+    {
+      "source": "Trees",
+      "target": "Mourners",
+      "type": "act as"
+    },
+    {
+      "source": "Sculpture",
+      "target": "Solace",
+      "type": "provides"
+    },
+    {
+      "source": "Sandy Cork",
+      "target": "Narrator",
+      "type": "expresses surprise at seeing"
+    },
+    {
+      "source": "Sandy Cork",
+      "target": "Father",
+      "type": "offers condolences for"
+    },
+    {
+      "source": "Sandy Cork",
+      "target": "Poetry",
+      "type": "learned from"
+    },
+    {
+      "source": "Narrator",
+      "target": "Sandy's lie",
+      "type": "feels ashamed of"
+    },
+    {
+      "source": "Sandy",
+      "target": "Narrator's silence",
+      "type": "mistakes for grief"
+    },
+    {
+      "source": "Narrator",
+      "target": "Impulsive action",
+      "type": "leaves before"
+    },
+    {
+      "source": "Narrator",
+      "target": "Sandy",
+      "type": "retracts from"
+    },
+    {
+      "source": "Narrator",
+      "target": "Backyard",
+      "type": "goes to"
+    },
+    {
+      "source": "Crematorium",
+      "target": "Window",
+      "type": "has a"
+    },
+    {
+      "source": "Narrator",
+      "target": "Bobby Heigeway",
+      "type": "was friends with"
+    },
+    {
+      "source": "Boys (Narrator & Bobby)",
+      "target": "Death",
+      "type": "fascinated by"
+    },
+    {
+      "source": "Boys (Narrator & Bobby)",
+      "target": "Friendship",
+      "type": "strengthened by shared experience"
+    },
+    {
+      "source": "Narrator",
+      "target": "Crematorium window",
+      "type": "observes from"
+    },
+    {
+      "source": "Sandy Cork",
+      "target": "Assistant",
+      "type": "works with"
+    },
+    {
+      "source": "Sandy Cork",
+      "target": "Handgun",
+      "type": "carries"
+    },
+    {
+      "source": "Narrator",
+      "target": "Search party",
+      "type": "flees from"
+    },
+    {
+      "source": "Narrator",
+      "target": "Fence",
+      "type": "collides with"
+    },
+    {
+      "source": "Narrator",
+      "target": "Rose garden",
+      "type": "flees through"
+    },
+    {
+      "source": "Narrator",
+      "target": "Isolation",
+      "type": "moves towards"
+    },
+    {
+      "source": "Narrator",
+      "target": "Drainage ditch",
+      "type": "reaches"
+    },
+    {
+      "source": "Roberta Aikens",
+      "target": "Beauty",
+      "type": "possessed"
+    },
+    {
+      "source": "Roberta Aikens",
+      "target": "Serenity",
+      "type": "possessed"
+    },
+    {
+      "source": "Roberta Aikens",
+      "target": "Son",
+      "type": "was mother of"
+    },
+    {
+      "source": "Roberta Aikens",
+      "target": "Death",
+      "type": "experienced"
+    },
+    {
+      "source": "Narrator",
+      "target": "Friendship",
+      "type": "values"
+    },
+    {
+      "source": "Narrator",
+      "target": "Love",
+      "type": "values"
+    },
+    {
+      "source": "Narrator",
+      "target": "Loneliness",
+      "type": "understands"
+    },
+    {
+      "source": "Hitchhiker",
+      "target": "Death",
+      "type": "experienced"
+    },
+    {
+      "source": "Hitchhiker",
+      "target": "Murder",
+      "type": "experienced"
+    },
+    {
+      "source": "Hitchhiker",
+      "target": "Eyes gouged out",
+      "type": "experienced"
+    },
+    {
+      "source": "Sandy Cork",
+      "target": "Homeless man",
+      "type": "intended to cremate"
+    },
+    {
+      "source": "Sandy Cork",
+      "target": "Narrator's father",
+      "type": "intended to cremate"
+    },
+    {
+      "source": "Telephone call",
+      "target": "Sandy Cork",
+      "type": "causes anger in"
+    },
+    {
+      "source": "Searchers",
+      "target": "Rose garden",
+      "type": "search in"
+    }
+  ],
+  "hierarchy": {
+    "main_topics": [
+      "Introduction and Father's Illness",
+      "Journey to the Funeral Home and Sandy Cork's Deception",
+      "The Narrator's Childhood Exploration of the Crematorium",
+      "The Present Visit and the Unveiling of Brutality",
+      "Escape and Reflection"
+    ],
+    "structure": "The document begins with an immediate event (the phone call) and then flashes back to establish context and past experiences. The narrative then returns to the present, detailing the narrator's investigation and subsequent flight. The structure blends present action with significant flashbacks to build suspense and thematic depth."
+  }
+}

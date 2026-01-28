@@ -1,0 +1,234 @@
+{
+  "propositions": [
+    {
+      "id": "1",
+      "text": "风初遇穿越到一个女子为尊的世界，成为尚书之女。",
+      "level": 1
+    },
+    {
+      "id": "1.1",
+      "text": "在这个世界，女子可以三妻四妾，男子只能从一而终。",
+      "level": 2
+    },
+    {
+      "id": "1.2",
+      "text": "风初遇在这个世界遇到了很多人，经历了许多事情。",
+      "level": 2
+    },
+    {
+      "id": "1.3",
+      "text": "风初遇在这个世界将如何安身立命、处理感情、面对规则。",
+      "level": 2
+    },
+    {
+      "id": "2",
+      "text": "风初遇醒来，发现自己身处陌生房间，面前站着她的贴身护卫凌。",
+      "level": 1
+    },
+    {
+      "id": "2.1",
+      "text": "风初遇得知自己穿越了。",
+      "level": 2
+    },
+    {
+      "id": "3",
+      "text": "风初遇从凌的介绍中初次得知“女尊”世界的规则。",
+      "level": 1
+    },
+    {
+      "id": "3.1",
+      "text": "女子为尊，男子为卑。",
+      "level": 2
+    },
+    {
+      "id": "3.2",
+      "text": "男子一生只能从一而终，且只能有一个伴侣。",
+      "level": 2
+    },
+    {
+      "id": "4",
+      "text": "风初遇对凌产生了情愫，并主动表白，邀请凌成为她的男人。",
+      "level": 1
+    },
+    {
+      "id": "4.1",
+      "text": "凌欣然接受，表示愿意。",
+      "level": 2
+    },
+    {
+      "id": "5",
+      "text": "风初遇在宫宴上遇到丞相之女慕容雪，被其美貌倾倒。",
+      "level": 1
+    },
+    {
+      "id": "6",
+      "text": "风初遇与慕容雪一见钟情，慕容雪大胆向风初遇求婚。",
+      "level": 1
+    },
+    {
+      "id": "6.1",
+      "text": "风初遇接受求婚，两人决定在一起。",
+      "level": 2
+    },
+    {
+      "id": "7",
+      "text": "风初遇与慕容雪结婚后，风初遇怀孕。",
+      "level": 1
+    },
+    {
+      "id": "8",
+      "text": "风初遇生下了一个儿子，取名风逸。",
+      "level": 1
+    },
+    {
+      "id": "9",
+      "text": "风初遇、慕容雪及儿子风逸幸福地生活在这个女尊世界。",
+      "level": 1
+    },
+    {
+      "id": "9.1",
+      "text": "风初遇渐渐适应并爱上了这个世界。",
+      "level": 2
+    }
+  ],
+  "concepts": [
+    {
+      "name": "风初遇",
+      "frequency": 10,
+      "context": "主角，现代大学毕业生，穿越到女尊世界成为尚书之女。"
+    },
+    {
+      "name": "女尊世界",
+      "frequency": 7,
+      "context": "故事发生的背景，女子为尊，男子为卑。"
+    },
+    {
+      "name": "凌",
+      "frequency": 7,
+      "context": "风初遇的贴身护卫，银发蓝眸，接受风初遇的追求。"
+    },
+    {
+      "name": "慕容雪",
+      "frequency": 6,
+      "context": "丞相之女，美貌倾城，与风初遇一见钟情并结婚生子。"
+    },
+    {
+      "name": "穿越",
+      "frequency": 3,
+      "context": "风初遇从现代来到女尊世界的事件。"
+    },
+    {
+      "name": "感情",
+      "frequency": 3,
+      "context": "风初遇在这个世界需要处理的方面，包括与凌和慕容雪的感情。"
+    },
+    {
+      "name": "规则",
+      "frequency": 3,
+      "context": "风初遇需要面对的女尊世界的社会规则。"
+    },
+    {
+      "name": "宫宴",
+      "frequency": 2,
+      "context": "风初遇与慕容雪初次相遇的场合。"
+    },
+    {
+      "name": "风逸",
+      "frequency": 2,
+      "context": "风初遇与慕容雪的儿子。"
+    }
+  ],
+  "relations": [
+    {
+      "source": "风初遇",
+      "target": "女尊世界",
+      "type": "is_inhabitant_of"
+    },
+    {
+      "source": "风初遇",
+      "target": "凌",
+      "type": "has_protector"
+    },
+    {
+      "source": "凌",
+      "target": "风初遇",
+      "type": "serves"
+    },
+    {
+      "source": "风初遇",
+      "target": "凌",
+      "type": "falls_in_love_with"
+    },
+    {
+      "source": "凌",
+      "target": "风初遇",
+      "type": "accepts_as_partner"
+    },
+    {
+      "source": "风初遇",
+      "target": "慕容雪",
+      "type": "falls_in_love_with"
+    },
+    {
+      "source": "慕容雪",
+      "target": "风初遇",
+      "type": "proposes_to"
+    },
+    {
+      "source": "风初遇",
+      "target": "慕容雪",
+      "type": "accepts_proposal_from"
+    },
+    {
+      "source": "风初遇",
+      "target": "慕容雪",
+      "type": "is_married_to"
+    },
+    {
+      "source": "慕容雪",
+      "target": "风初遇",
+      "type": "is_married_to"
+    },
+    {
+      "source": "风初遇",
+      "target": "风逸",
+      "type": "is_parent_of"
+    },
+    {
+      "source": "慕容雪",
+      "target": "风逸",
+      "type": "is_parent_of"
+    },
+    {
+      "source": "女尊世界",
+      "target": "女子为尊",
+      "type": "characterized_by"
+    },
+    {
+      "source": "女尊世界",
+      "target": "男子为卑",
+      "type": "characterized_by"
+    },
+    {
+      "source": "女子为尊",
+      "target": "三妻四妾",
+      "type": "allows"
+    },
+    {
+      "source": "男子为卑",
+      "target": "从一而终",
+      "type": "requires"
+    }
+  ],
+  "hierarchy": {
+    "main_topics": [
+      "Introduction to the Female-Dominant World",
+      "The Protagonist's Arrival and Awakening",
+      "Understanding the World's Rules",
+      "Developing Romantic Relationships",
+      "Marriage and Family",
+      "Conclusion"
+    ],
+    "structure": "The document is structured chronologically, following the protagonist's experiences and relationships within the fictional world. It progresses from an introduction to the world and the protagonist's situation, through key events like understanding the world's rules, forming relationships, marriage, childbirth, and finally a happy conclusion. Each chapter focuses on a distinct phase or event in the protagonist's journey."
+  }
+}

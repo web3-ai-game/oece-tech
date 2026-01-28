@@ -1,0 +1,408 @@
+{
+  "propositions": [
+    {
+      "id": "1",
+      "text": "The document analyzes terms related to titles and concepts in ancient Japan, specifically concerning the imperial court, bureaucracy, and spiritual practices.",
+      "level": 1
+    },
+    {
+      "id": "1.1",
+      "text": "It details the meanings and historical context of terms like '女御' (imperial consort), '殿上人' (high-ranking officials allowed in the Emperor's presence), and '太政大臣' (highest administrative official).",
+      "level": 2
+    },
+    {
+      "id": "2",
+      "text": "The document explores concepts related to Onmyodo, the traditional Japanese divination and magic system.",
+      "level": 1
+    },
+    {
+      "id": "2.1",
+      "text": "Key Onmyodo elements discussed include '阴阳寮' (the government bureau responsible for astronomy and calendar), '结印' (hand seals for exorcism), '土御门' (a historical location associated with Onmyoji), '式神' (summoned spirits), '泰山府君' (a deity in Onmyodo), and '百鬼夜行' (night parade of demons).",
+      "level": 2
+    },
+    {
+      "id": "3",
+      "text": "The document introduces key figures relevant to the narrative and the historical context.",
+      "level": 1
+    },
+    {
+      "id": "3.1",
+      "text": "Prominent figures include '安倍晴明' (a famous Onmyoji), '源博雅' (a musician and friend of Seimei), '贺茂保宪' (another Onmyoji and potential teacher of Seimei), and '藤原兼家' (a powerful minister).",
+      "level": 2
+    },
+    {
+      "id": "4",
+      "text": "The narrative begins with an introduction and then unfolds into a story involving mystery and the supernatural.",
+      "level": 1
+    },
+    {
+      "id": "4.1",
+      "text": "The introduction draws parallels between fictional portrayals of Abe no Seimei and his historical existence, framing the story as a Japanese-style 'Liaozhai' tale.",
+      "level": 2
+    },
+    {
+      "id": "4.2",
+      "text": "Chapter '卷一：疑心生暗鬼' (Doubt Breeds Inner Demons) presents a scenario where a fallen samurai, Heike Maru, encounters a beautiful, deceased woman and takes a magical勾玉 (magatama) from her.",
+      "level": 2
+    },
+    {
+      "id": "4.3",
+      "text": "This encounter leads to a series of supernatural events, including a woman appearing at the shop of a merchant named Iwasa, demanding something and exhibiting no shadow.",
+      "level": 2
+    },
+    {
+      "id": "4.4",
+      "text": "Iwasa seeks help from Abe no Seimei, who is away. Minamoto no Hiromasa, Seimei's friend, steps in to investigate.",
+      "level": 2
+    },
+    {
+      "id": "4.5",
+      "text": "Hiromasa confronts the supposed supernatural presence at Iwasa's shop, only to find it is Seimei playing a trick on him.",
+      "level": 2
+    },
+    {
+      "id": "4.6",
+      "text": "Seimei reveals that the 'ghost' and the events were a manifestation of Iwasa's own fear and the belief that the donated勾玉 was cursed.",
+      "level": 2
+    },
+    {
+      "id": "4.7",
+      "text": "Seimei then visits Fujiwara Kaneie to retrieve a fan that was a gift from the deceased samurai, Kihei, and which Seimei claims is haunted.",
+      "level": 2
+    },
+    {
+      "id": "4.8",
+      "text": "Seimei performs a ritual, making a blood-like illusion appear on the fan, frightening Kaneie and convincing him to give up the fan.",
+      "level": 2
+    },
+    {
+      "id": "4.9",
+      "text": "Back at Seimei's residence, Seimei explains to Hiromasa that the fan was not truly haunted and the illusion was a spell. The fan's pendant was the勾玉 that had been exchanged for alcohol.",
+      "level": 2
+    },
+    {
+      "id": "4.10",
+      "text": "Seimei reveals that the woman was likely the spirit of the deceased samurai's lover or wife, who was attached to the fan's pendant (the勾玉).",
+      "level": 2
+    },
+    {
+      "id": "4.11",
+      "text": "The story concludes with Seimei explaining the nature of spells and how belief can manifest phenomena, as exemplified by Iwasa's fear.",
+      "level": 2
+    }
+  ],
+  "concepts": [
+    {
+      "name": "女御",
+      "frequency": 1,
+      "context": "An imperial consort in ancient China and Japan."
+    },
+    {
+      "name": "殿上人",
+      "frequency": 1,
+      "context": "High-ranking officials in ancient Japan permitted in the Emperor's presence."
+    },
+    {
+      "name": "太政大臣",
+      "frequency": 1,
+      "context": "The highest administrative official in the Ritsuryō system of ancient Japan."
+    },
+    {
+      "name": "阴阳寮",
+      "frequency": 1,
+      "context": "Ancient Japanese government agency responsible for astronomy, calendar, and divination."
+    },
+    {
+      "name": "结印",
+      "frequency": 1,
+      "context": "Hand seals used in Japanese Onmyodo for exorcism and rituals."
+    },
+    {
+      "name": "土御门",
+      "frequency": 1,
+      "context": "A place name in Heian-kyo (Kyoto), associated with Abe no Seimei and his descendants."
+    },
+    {
+      "name": "式神",
+      "frequency": 1,
+      "context": "Spirits summoned by Onmyoji, often made from paper or other materials."
+    },
+    {
+      "name": "泰山府君",
+      "frequency": 1,
+      "context": "A deity in Daoism and Onmyodo, associated with the underworld and judgment."
+    },
+    {
+      "name": "百鬼夜行",
+      "frequency": 1,
+      "context": "A Japanese legend of demons and spirits parading at night."
+    },
+    {
+      "name": "安倍晴明",
+      "frequency": 9,
+      "context": "A famous Onmyoji of the Heian period, a central character in the narrative."
+    },
+    {
+      "name": "源博雅",
+      "frequency": 7,
+      "context": "A musician and friend of Abe no Seimei, also a protagonist in the story."
+    },
+    {
+      "name": "贺茂保宪",
+      "frequency": 1,
+      "context": "An Onmyoji from the Kamo family, mentioned as a potential teacher of Abe no Seimei."
+    },
+    {
+      "name": "藤原兼家",
+      "frequency": 4,
+      "context": "A powerful minister and maternal grandfather of Emperor Ichijo, depicted as a character in the narrative."
+    },
+    {
+      "name": "勾玉",
+      "frequency": 5,
+      "context": "A comma-shaped jewel, which plays a significant role in the plot, acting as a stolen item and a lost pendant."
+    },
+    {
+      "name": "扇子",
+      "frequency": 5,
+      "context": "A fan, used as a plot device, which is found to be haunted and later revealed to have had the勾玉 as its pendant."
+    },
+    {
+      "name": "鬼魂",
+      "frequency": 3,
+      "context": "Spirits or ghosts, central to the supernatural elements of the story."
+    },
+    {
+      "name": "咒",
+      "frequency": 3,
+      "context": "Spell or curse, referring to magical incantations and their effects."
+    },
+    {
+      "name": "平安京",
+      "frequency": 3,
+      "context": "The ancient capital of Japan, the setting for the story."
+    },
+    {
+      "name": "武士",
+      "frequency": 5,
+      "context": "A warrior class in feudal Japan."
+    },
+    {
+      "name": "仪式",
+      "frequency": 1,
+      "context": "A ritual or ceremony."
+    },
+    {
+      "name": "疑心生暗鬼",
+      "frequency": 1,
+      "context": "An idiom meaning 'doubt breeds inner demons', used to explain the supernatural occurrences."
+    }
+  ],
+  "relations": [
+    {
+      "source": "女御",
+      "target": "帝王后妃",
+      "type": "is_a"
+    },
+    {
+      "source": "殿上人",
+      "target": "官员",
+      "type": "is_a"
+    },
+    {
+      "name": "殿上人",
+      "target": "天皇",
+      "type": "allowed_in_presence_of"
+    },
+    {
+      "source": "太政大臣",
+      "target": "最高行政长官",
+      "type": "is_a"
+    },
+    {
+      "source": "阴阳寮",
+      "target": "政府机构",
+      "type": "is_a"
+    },
+    {
+      "source": "阴阳寮",
+      "target": "天文",
+      "type": "responsible_for"
+    },
+    {
+      "source": "阴阳寮",
+      "target": "历法",
+      "type": "responsible_for"
+    },
+    {
+      "source": "结印",
+      "target": "手部动作",
+      "type": "involves"
+    },
+    {
+      "source": "结印",
+      "target": "驱魔",
+      "type": "used_for"
+    },
+    {
+      "source": "土御门",
+      "target": "安倍晴明",
+      "type": "associated_with"
+    },
+    {
+      "source": "土御门",
+      "target": "安倍家",
+      "type": "associated_with"
+    },
+    {
+      "source": "式神",
+      "target": "阴阳师",
+      "type": "summoned_by"
+    },
+    {
+      "source": "泰山府君",
+      "target": "道教神灵",
+      "type": "is_a"
+    },
+    {
+      "source": "泰山府君",
+      "target": "阴阳道",
+      "type": "important_deity_in"
+    },
+    {
+      "source": "百鬼夜行",
+      "target": "传说",
+      "type": "is_a"
+    },
+    {
+      "source": "安倍晴明",
+      "target": "阴阳师",
+      "type": "is_a"
+    },
+    {
+      "source": "安倍晴明",
+      "target": "土御门神道",
+      "type": "founder_of"
+    },
+    {
+      "source": "源博雅",
+      "target": "音乐家",
+      "type": "is_a"
+    },
+    {
+      "source": "源博雅",
+      "target": "雅乐",
+      "type": "skilled_in"
+    },
+    {
+      "source": "源博雅",
+      "target": "安倍晴明",
+      "type": "friend_of"
+    },
+    {
+      "source": "贺茂保宪",
+      "target": "阴阳道",
+      "type": "practitioner_of"
+    },
+    {
+      "source": "贺茂保宪",
+      "target": "安倍晴明",
+      "type": "teacher_of"
+    },
+    {
+      "source": "藤原兼家",
+      "target": "大臣",
+      "type": "is_a"
+    },
+    {
+      "source": "藤原兼家",
+      "target": "一条天皇",
+      "type": "maternal_grandfather_of"
+    },
+    {
+      "source": "勾玉",
+      "target": "武士",
+      "type": "stolen_by"
+    },
+    {
+      "source": "勾玉",
+      "target": "女鬼",
+      "type": "related_to"
+    },
+    {
+      "source": "勾玉",
+      "target": "扇子",
+      "type": "pendant_of"
+    },
+    {
+      "source": "扇子",
+      "target": "藤原兼家",
+      "type": "possessed_by"
+    },
+    {
+      "source": "扇子",
+      "target": "鬼魂",
+      "type": "haunted_by"
+    },
+    {
+      "source": "鬼魂",
+      "target": "扇子",
+      "type": "attached_to"
+    },
+    {
+      "source": "鬼魂",
+      "target": "怨灵",
+      "type": "is_a"
+    },
+    {
+      "source": "咒",
+      "target": "疑心",
+      "type": "manifested_by"
+    },
+    {
+      "source": "咒",
+      "target": "信念",
+      "type": "manifested_by"
+    },
+    {
+      "source": "安倍晴明",
+      "target": "源博雅",
+      "type": "story_focus_with"
+    },
+    {
+      "source": "源博雅",
+      "target": "岩作",
+      "type": "helps"
+    },
+    {
+      "source": "安倍晴明",
+      "target": "藤原兼家",
+      "type": "confronts"
+    },
+    {
+      "source": "阴阳道",
+      "target": "术法",
+      "type": "utilizes"
+    },
+    {
+      "source": "阴阳道",
+      "target": "镇压鬼神",
+      "type": "purpose_is"
+    },
+    {
+      "source": "阴阳道",
+      "target": "观测天象",
+      "type": "purpose_is"
+    }
+  ],
+  "hierarchy": {
+    "main_topics": [
+      "称谓相关 (Related Titles)",
+      "阴阳道相关 (Related Onmyodo)",
+      "人物相关 (Related Figures)",
+      "引子 (Prologue)",
+      "卷一：疑心生暗鬼 (Chapter One: Doubt Breeds Inner Demons)"
+    ],
+    "structure": "The document begins with a glossary of terms and key figures, followed by an introductory narrative that sets the scene and introduces the protagonists. The main body of the document presents a serialized story involving supernatural occurrences, investigation, and resolution, highlighting the characters of Abe no Seimei and Minamoto no Hiromasa. The story follows a episodic structure within the chapter, with distinct events and their resolutions."
+  }
+}

@@ -1,0 +1,230 @@
+{
+  "propositions": [
+    {
+      "id": "1",
+      "text": "1998年，大学时光。",
+      "level": 1
+    },
+    {
+      "id": "1.1",
+      "text": "早上8:00起床，赶上八点的课。",
+      "level": 2
+    },
+    {
+      "id": "1.2",
+      "text": "大学里的生活，忙碌而充实。",
+      "level": 2
+    },
+    {
+      "id": "2",
+      "text": "大学生活，就是学习，就是进步。",
+      "level": 1
+    },
+    {
+      "id": "3",
+      "text": "听大学老师说，要努力学习，才能有出息。",
+      "level": 1
+    },
+    {
+      "id": "4",
+      "text": "大学老师也经常鼓励我们，不要辜负了时光。",
+      "level": 1
+    },
+    {
+      "id": "5",
+      "text": "转眼就到了。",
+      "level": 1
+    },
+    {
+      "id": "6",
+      "text": "“我回来啦！”",
+      "level": 1
+    },
+    {
+      "id": "7",
+      "text": "“啊，是啊，好久不见，半年了吧，回来啦！”",
+      "level": 1
+    },
+    {
+      "id": "8",
+      "text": "“嗯，半年了，感觉一切都变了，又好像什么都没变。”",
+      "level": 1
+    },
+    {
+      "id": "9",
+      "text": "“是啊，大学就是这样，时间过得飞快。”",
+      "level": 1
+    },
+    {
+      "id": "10",
+      "text": "“大学的时光，真的很美好。”",
+      "level": 1
+    },
+    {
+      "id": "11",
+      "text": "“是啊，大学时光，永远是人生中最美好的回忆。”",
+      "level": 1
+    },
+    {
+      "id": "12",
+      "text": "“大学生活，给了我太多太多，让我的人生充满了希望。”",
+      "level": 1
+    },
+    {
+      "id": "13",
+      "text": "“大学，教会我太多太多，让我明白了什么才是真正的自己。”",
+      "level": 1
+    },
+    {
+      "id": "14",
+      "text": "“大学，是我人生中最宝贵的财富。”",
+      "level": 1
+    },
+    {
+      "id": "15",
+      "text": "“大学，让我学会了独立，学会了坚强，学会了成长。”",
+      "level": 1
+    },
+    {
+      "id": "16",
+      "text": "“大学，是我人生中最美好的时光。”",
+      "level": 1
+    }
+  ],
+  "concepts": [
+    {
+      "name": "大学",
+      "frequency": 28,
+      "context": "Refers to university life, experiences, and its significance in one's life."
+    },
+    {
+      "name": "时光",
+      "frequency": 18,
+      "context": "Refers to the passage of time, particularly in the context of university."
+    },
+    {
+      "name": "生活",
+      "frequency": 3,
+      "context": "Describes the general state of being or activities, specifically university life."
+    },
+    {
+      "name": "学习",
+      "frequency": 3,
+      "context": "Refers to the act of acquiring knowledge and skills, central to university."
+    },
+    {
+      "name": "老师",
+      "frequency": 2,
+      "context": "Refers to university instructors and their influence."
+    },
+    {
+      "name": "财富",
+      "frequency": 15,
+      "context": "Used metaphorically to describe the immense value of university experiences."
+    },
+    {
+      "name": "美好",
+      "frequency": 15,
+      "context": "Describes the positive and cherished nature of university times and memories."
+    },
+    {
+      "name": "成长",
+      "frequency": 1,
+      "context": "Refers to personal development and maturation."
+    },
+    {
+      "name": "希望",
+      "frequency": 1,
+      "context": "Refers to a feeling of expectation and desire for future success."
+    },
+    {
+      "name": "时间",
+      "frequency": 1,
+      "context": "Refers to the concept of time and its rapid passage."
+    },
+    {
+      "name": "回忆",
+      "frequency": 1,
+      "context": "Refers to past events that are remembered."
+    },
+    {
+      "name": "独立",
+      "frequency": 1,
+      "context": "Refers to self-reliance and autonomy."
+    },
+    {
+      "name": "坚强",
+      "frequency": 1,
+      "context": "Refers to emotional resilience and strength."
+    }
+  ],
+  "relations": [
+    {
+      "source": "大学",
+      "target": "时光",
+      "type": "part_of"
+    },
+    {
+      "source": "大学",
+      "target": "生活",
+      "type": "is_a"
+    },
+    {
+      "source": "大学",
+      "target": "学习",
+      "type": "implies"
+    },
+    {
+      "source": "大学",
+      "target": "老师",
+      "type": "has_a"
+    },
+    {
+      "source": "大学",
+      "target": "财富",
+      "type": "is_a"
+    },
+    {
+      "source": "大学",
+      "target": "美好",
+      "type": "has_quality"
+    },
+    {
+      "source": "大学",
+      "target": "成长",
+      "type": "facilitates"
+    },
+    {
+      "source": "大学",
+      "target": "希望",
+      "type": "provides"
+    },
+    {
+      "source": "大学",
+      "target": "时间",
+      "type": "characterized_by"
+    },
+    {
+      "source": "大学",
+      "target": "回忆",
+      "type": "generates"
+    },
+    {
+      "source": "大学",
+      "target": "独立",
+      "type": "teaches"
+    },
+    {
+      "source": "大学",
+      "target": "坚强",
+      "type": "teaches"
+    }
+  ],
+  "hierarchy": {
+    "main_topics": [
+      "University Life in 1998",
+      "Experiences and Reflections on University"
+    ],
+    "structure": "The document is structured hierarchically, starting with a main heading '# 重生1998' and a sub-heading '## 1998'. The content then elaborates on the university experience in 1998, featuring a conversation and introspective thoughts about the value and nature of university life. The propositions generally follow a linear progression describing the setting, activities, and reflections."
+  }
+}

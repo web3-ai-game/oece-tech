@@ -1,0 +1,684 @@
+{
+  "propositions": [
+    {
+      "id": "1",
+      "text": "《燕倾天下》讲述了一个关于爱恨情仇、家国天下的故事。",
+      "level": 1
+    },
+    {
+      "id": "1.1",
+      "text": "在那个风云变幻的时代，一位名叫慕容倾城的女子，凭借着她的智慧、勇气和美貌，在乱世中崛起，最终赢得了天下，也收获了属于自己的爱情。",
+      "level": 2
+    },
+    {
+      "id": "1.1.1",
+      "text": "她的一生，充满了传奇色彩。",
+      "level": 3
+    },
+    {
+      "id": "1.1.1.1",
+      "text": "她出身名门，却历经磨难，流落江湖。",
+      "level": 4
+    },
+    {
+      "id": "1.1.1.2",
+      "text": "在江湖中，她结识了许多志同道合的朋友，也遇到了她生命中的挚爱——冷逸尘。",
+      "level": 4
+    },
+    {
+      "id": "1.1.1.2.1",
+      "text": "冷逸尘，一位神秘的江湖侠客，他武功高强，为人正直，却身世成谜。",
+      "level": 5
+    },
+    {
+      "id": "1.1.2",
+      "text": "两人在一次偶然的机会下相遇，从此便情根深种。",
+      "level": 2
+    },
+    {
+      "id": "1.1.3",
+      "text": "然而，他们的爱情之路却充满了坎坷。",
+      "level": 2
+    },
+    {
+      "id": "1.1.4",
+      "text": "宫廷的斗争，江湖的恩怨，家国的责任，让他们不得不面对重重考验。",
+      "level": 2
+    },
+    {
+      "id": "2",
+      "text": "“情不知所起，一往而深。”",
+      "level": 1
+    },
+    {
+      "id": "3",
+      "text": "慕容倾城和冷逸尘的爱情，就像一首婉转动人的歌曲，在乱世中回响。",
+      "level": 1
+    },
+    {
+      "id": "4",
+      "text": "他们一起经历了生死考验，一起分享了喜怒哀乐。",
+      "level": 1
+    },
+    {
+      "id": "5",
+      "text": "在他们的爱情中，我们看到了坚韧、忠诚和无私的奉献。",
+      "level": 1
+    },
+    {
+      "id": "6",
+      "text": "“这乱世之中，唯有真情才能抵御一切黑暗。”",
+      "level": 1
+    },
+    {
+      "id": "7",
+      "text": "慕容倾城和冷逸尘的故事，不仅仅是一个爱情故事，更是一个关于成长、关于担当、关于家国情怀的故事。",
+      "level": 1
+    },
+    {
+      "id": "8",
+      "text": "他们用自己的行动，诠释了什么是真正的英雄，什么是真正的爱情。",
+      "level": 1
+    },
+    {
+      "id": "9",
+      "text": "那是一个飘着细雨的黄昏，慕容倾城在江南的一家茶楼里躲雨。",
+      "level": 1
+    },
+    {
+      "id": "9.1",
+      "text": "“细雨斜织，断肠人在天涯。”",
+      "level": 2
+    },
+    {
+      "id": "9.2",
+      "text": "她独自一人，望着窗外的烟雨蒙蒙，心中泛起一丝愁绪。",
+      "level": 2
+    },
+    {
+      "id": "9.3",
+      "text": "就在这时，一位白衣男子推门而入，他便是冷逸尘。",
+      "level": 2
+    },
+    {
+      "id": "9.4",
+      "text": "他的出现，如同惊鸿一瞥，瞬间吸引了她的目光。",
+      "level": 2
+    },
+    {
+      "id": "10",
+      "text": "冷逸尘是一位游侠，他行走江湖，行侠仗义。",
+      "level": 1
+    },
+    {
+      "id": "10.1",
+      "text": "他曾在漠北与匈奴大战，也曾在江南与倭寇搏斗。",
+      "level": 2
+    },
+    {
+      "id": "10.2",
+      "text": "他的名字，在江湖中流传甚广，是许多人心中的传奇。",
+      "level": 2
+    },
+    {
+      "id": "11",
+      "text": "慕容倾城是他的红颜知己，他们一起闯荡江湖，一起经历风雨。",
+      "level": 1
+    },
+    {
+      "id": "11.1",
+      "text": "他们一起品尝过江湖的苦辣酸甜，也一起见证了彼此的成长。",
+      "level": 2
+    },
+    {
+      "id": "12",
+      "text": "然而，命运的齿轮开始转动，将他们卷入了宫廷的漩涡。",
+      "level": 1
+    },
+    {
+      "id": "12.1",
+      "text": "当时的朝廷，已经被权臣把持，皇帝年幼，朝政混乱。",
+      "level": 2
+    },
+    {
+      "id": "12.2",
+      "text": "慕容倾城凭借着她的才智，逐渐获得了皇帝的信任，成为了朝廷中的一股清流。",
+      "level": 2
+    },
+    {
+      "id": "12.3",
+      "text": "而冷逸尘，也因为他的神秘身份，被卷入了宫廷的权力斗争之中。",
+      "level": 2
+    },
+    {
+      "id": "12.4",
+      "text": "权臣们为了巩固自己的地位，不惜一切代价，想要铲除一切威胁。",
+      "level": 2
+    },
+    {
+      "id": "12.5",
+      "text": "冷逸尘成为了他们的眼中钉，肉中刺。",
+      "level": 2
+    },
+    {
+      "id": "13",
+      "text": "在一次江湖大会上，冷逸尘与权臣的党羽展开了殊死搏斗。",
+      "level": 1
+    },
+    {
+      "id": "13.1",
+      "text": "“剑光如雪，生死一线。”",
+      "level": 2
+    },
+    {
+      "id": "13.2",
+      "text": "他以一敌百，然而，寡不敌众，身受重伤。",
+      "level": 2
+    },
+    {
+      "id": "14",
+      "text": "慕容倾城赶到时，冷逸尘已经奄奄一息。",
+      "level": 1
+    },
+    {
+      "id": "15",
+      "text": "为了救他，她不得不做出一个艰难的决定。",
+      "level": 1
+    },
+    {
+      "id": "16",
+      "text": "她决定利用自己的身份，去争取皇帝的支持，共同对抗权臣。",
+      "level": 1
+    },
+    {
+      "id": "16.1",
+      "text": "在她的努力下，皇帝终于下定决心，铲除了权臣，重振朝纲。",
+      "level": 2
+    },
+    {
+      "id": "17",
+      "text": "最终，慕容倾城和冷逸尘联手，平定了内乱，结束了乱世。",
+      "level": 1
+    },
+    {
+      "id": "17.1",
+      "text": "他们用自己的力量，为天下带来了和平。",
+      "level": 2
+    },
+    {
+      "id": "17.2",
+      "text": "“江山如画，美人如诗。”",
+      "level": 2
+    },
+    {
+      "id": "17.3",
+      "text": "他们的爱情，也在这场风云变幻的乱世中，得到了升华。",
+      "level": 2
+    },
+    {
+      "id": "18",
+      "text": "乱世平定后，慕容倾城和冷逸尘选择归隐江湖，过上了与世无争的生活。",
+      "level": 1
+    },
+    {
+      "id": "18.1",
+      "text": "他们在一个风景如画的山谷里，建了一座小院，过着闲云野鹤般的生活。",
+      "level": 2
+    },
+    {
+      "id": "18.2",
+      "text": "在那里，他们远离了尘世的喧嚣，享受着属于自己的宁静和幸福。",
+      "level": 2
+    },
+    {
+      "id": "18.3",
+      "text": "他们的故事，也成为了后世流传的佳话。",
+      "level": 2
+    },
+    {
+      "id": "19",
+      "text": "“天长地久有时尽，此恨绵绵无绝期。”",
+      "level": 1
+    },
+    {
+      "id": "20",
+      "text": "他们的爱情，如同一首永恒的诗篇，永远地留在了人们的心中。",
+      "level": 1
+    },
+    {
+      "id": "21",
+      "text": "慕容倾城和冷逸尘的故事，虽然已经落幕，但他们的精神，却永远地激励着后人。",
+      "level": 1
+    },
+    {
+      "id": "22",
+      "text": "在那个乱世中，他们用自己的生命，谱写了一曲荡气回肠的英雄赞歌。",
+      "level": 1
+    },
+    {
+      "id": "23",
+      "text": "他们的爱情，也成为了人们心中永恒的向往。",
+      "level": 1
+    },
+    {
+      "id": "24",
+      "text": "When the raw text was extracted from the original document, it contained a variety of characters that appear to be the result of Optical Character Recognition (OCR) errors. These characters have been cleaned up and the text has been reformatted to ensure readability and academic integrity. The following Markdown document represents a structured and edited version of the original content.",
+      "level": 1
+    },
+    {
+      "id": "25",
+      "text": "The following sections delve into various aspects of the text, presenting them in a structured Markdown format.",
+      "level": 1
+    },
+    {
+      "id": "26",
+      "text": "The central theme revolves around the concept of \"倾国倾城\" (qīng guó qīng chéng), meaning a beauty that can overturn cities and nations.",
+      "level": 1
+    },
+    {
+      "id": "26.1",
+      "text": "This phrase is used metaphorically to describe the profound impact of a person's allure or influence, extending beyond mere physical appearance to encompass a potent, almost magical, ability to sway destinies and reshape power dynamics.",
+      "level": 2
+    },
+    {
+      "id": "26.2",
+      "text": "The text explores how such influence, whether wielded intentionally or not, can lead to significant societal shifts, political upheaval, and personal transformation.",
+      "level": 2
+    },
+    {
+      "id": "26.3",
+      "text": "It questions the nature of this power, its origins, and its ultimate consequences, suggesting that while it can bring about grand transformations, it often comes at a considerable cost, both to the individual and to society.",
+      "level": 2
+    },
+    {
+      "id": "26.4",
+      "text": "The narrative implicitly examines the double-edged nature of overwhelming charm or persuasive ability, highlighting its potential for both creation and destruction.",
+      "level": 2
+    },
+    {
+      "id": "27",
+      "text": "The intersection of power and beauty is a recurring motif.",
+      "level": 1
+    },
+    {
+      "id": "27.1",
+      "text": "The text suggests that beauty, in its most potent form, becomes a currency of power, capable of unlocking doors, influencing decisions, and even forging alliances.",
+      "level": 2
+    },
+    {
+      "id": "27.2",
+      "text": "It posits that those possessing such beauty are not merely passive recipients of admiration but active agents who can, consciously or unconsciously, leverage their charm to navigate complex social and political landscapes.",
+      "level": 2
+    },
+    {
+      "id": "27.3",
+      "text": "The narrative questions whether this beauty is a natural gift, a cultivated skill, or a force that transcends ordinary human attributes, capable of altering the course of history through sheer, unadulterated influence.",
+      "level": 2
+    },
+    {
+      "id": "28",
+      "text": "The concept of fate and destiny is intricately woven into the fabric of the text.",
+      "level": 1
+    },
+    {
+      "id": "28.1",
+      "text": "It portrays individuals as pawns, or perhaps artists, in a larger game of destiny, where beauty and power act as the primary tools for shaping one's path.",
+      "level": 2
+    },
+    {
+      "id": "28.2",
+      "text": "The text contemplates whether these individuals are merely instruments of fate, guided by unseen forces, or if they possess the agency to defy and rewrite their predetermined destinies.",
+      "level": 2
+    },
+    {
+      "id": "28.3",
+      "text": "It explores the idea that even the most powerful individuals are ultimately subject to the capricious nature of fate, and that their influence, however grand, can be both a blessing and a curse in their personal journeys.",
+      "level": 2
+    },
+    {
+      "id": "29",
+      "text": "The City: Represents a physical manifestation of power, societal structure, and collective destiny.",
+      "level": 1
+    },
+    {
+      "id": "29.1",
+      "text": "Its potential to be \"overturned\" signifies radical change and the fragility of established order.",
+      "level": 2
+    },
+    {
+      "id": "30",
+      "text": "The Nation: Symbolizes a broader sphere of influence and collective identity, subject to the currents of power and beauty.",
+      "level": 1
+    },
+    {
+      "id": "31",
+      "text": "Destiny: Portrayed as an intangible yet powerful force, capable of shaping events and individual lives, often in ways that are beyond human control.",
+      "level": 1
+    },
+    {
+      "id": "32",
+      "text": "Charm/Beauty: Presented not just as aesthetic appeal but as a potent force capable of influencing minds, hearts, and the very fabric of society.",
+      "level": 1
+    },
+    {
+      "id": "33",
+      "text": "\"Beauty that can overturn cities and nations is not merely a physical attribute; it is a force that can reshape power structures and alter the course of history.\" (Implied from the core theme of \"倾国倾城\").",
+      "level": 1
+    },
+    {
+      "id": "34",
+      "text": "The text, through its exploration of beauty, power, and destiny, offers a profound commentary on the human condition.",
+      "level": 1
+    },
+    {
+      "id": "34.1",
+      "text": "It suggests that the allure of overwhelming influence, while captivating, carries inherent risks and responsibilities.",
+      "level": 2
+    },
+    {
+      "id": "34.2",
+      "text": "The narrative leaves the reader contemplating the enduring power of such forces and their capacity to shape both individual lives and the grand tapestry of human civilization....",
+      "level": 2
+    },
+    {
+      "id": "35",
+      "text": "慕容倾城，字倾城，出身于江南望族，后因家族变故流落江湖，以“倾城”之名行走江湖。",
+      "level": 1
+    },
+    {
+      "id": "36",
+      "text": "冷逸尘，身份神秘，武功盖世，常以一身白衣示人，江湖人称“白衣剑客”。",
+      "level": 1
+    }
+  ],
+  "concepts": [
+    {
+      "name": "慕容倾城",
+      "frequency": 12,
+      "context": "主人公, 名门出身, 智慧, 勇气, 美貌, 流落江湖, 结识朋友, 遇到挚爱, 经历磨难, 克服考验, 争取支持, 铲除权臣, 平定内乱, 归隐田园, 留下佳话"
+    },
+    {
+      "name": "冷逸尘",
+      "frequency": 10,
+      "context": "慕容倾城的挚爱, 神秘的江湖侠客, 武功高强, 为人正直, 身世成谜, 遇到慕容倾城, 经历生死考验, 卷入宫廷斗争, 身受重伤, 平定内乱, 归隐田园, 留下佳话"
+    },
+    {
+      "name": "爱情",
+      "frequency": 9,
+      "context": "慕容倾城与冷逸尘之间的情感, 情根深种, 充满坎坷, 经历考验, 坚韧, 忠诚, 无私奉献, 动人的歌曲, 升华, 永恒的诗篇, 心中的向往"
+    },
+    {
+      "name": "乱世",
+      "frequency": 6,
+      "context": "故事发生的时代背景, 风云变幻, 宫廷斗争, 江湖恩怨, 家国责任, 考验, 黑暗, 英雄赞歌, 动荡"
+    },
+    {
+      "name": "家国天下",
+      "frequency": 4,
+      "context": "故事的重要主题, 家国责任, 倾国倾城, 平定内乱, 带来和平, 重振朝纲, 担当"
+    },
+    {
+      "name": "宫廷",
+      "frequency": 3,
+      "context": "权力斗争的场所, 权臣把持, 皇帝年幼, 朝政混乱, 卷入漩涡, 争取支持, 重振朝纲"
+    },
+    {
+      "name": "江湖",
+      "frequency": 5,
+      "context": "故事发生的另一个重要场所, 流落江湖, 结识朋友, 遇到挚爱, 游侠, 行侠仗义, 江湖风云, 江湖恩怨, 闯荡江湖, 归隐江湖"
+    },
+    {
+      "name": "智慧",
+      "frequency": 2,
+      "context": "慕容倾城的重要品质, 运用智慧获得皇帝信任, 赢得天下"
+    },
+    {
+      "name": "勇气",
+      "frequency": 2,
+      "context": "慕容倾城的重要品质, 面对磨难和考验, 赢得天下"
+    },
+    {
+      "name": "美貌",
+      "frequency": 3,
+      "context": "慕容倾城的重要特质, 赢得天下, 倾国倾城, 力量的象征"
+    },
+    {
+      "name": "权臣",
+      "frequency": 3,
+      "context": "宫廷斗争的参与者, 把持朝政, 阴谋, 铲除威胁, 被铲除"
+    },
+    {
+      "name": "命运",
+      "frequency": 4,
+      "context": "影响故事发展的重要力量, 命运的齿轮, 拨弄, 难以预测, 影响个人和集体"
+    },
+    {
+      "name": "成长",
+      "frequency": 2,
+      "context": "故事的重要主题, 见证彼此的成长, 担当"
+    },
+    {
+      "name": "英雄",
+      "frequency": 2,
+      "context": "故事的重要概念, 诠释真正的英雄, 英雄赞歌"
+    },
+    {
+      "name": "归隐",
+      "frequency": 3,
+      "context": "乱世平定后的结局, 归隐江湖, 与世无争, 闲云野鹤, 宁静幸福"
+    },
+    {
+      "name": "倾国倾城",
+      "frequency": 3,
+      "context": "核心概念, 美貌的力量, 影响巨大, 改变历史"
+    },
+    {
+      "name": "权力",
+      "frequency": 3,
+      "context": "故事的重要元素, 宫廷的权力斗争, 权臣的地位, 影响力的象征"
+    },
+    {
+      "name": "美貌",
+      "frequency": 3,
+      "context": "核心概念, 吸引力, 影响他人的力量, 权力与美貌的交织"
+    },
+    {
+      "name": "力量",
+      "frequency": 4,
+      "context": "美貌、智慧、武功等多种形式, 影响世界, 改变命运"
+    },
+    {
+      "name": "文本",
+      "frequency": 3,
+      "context": "指代分析的文档内容, 论述, 核心思想, 关键意象"
+    }
+  ],
+  "relations": [
+    {
+      "source": "慕容倾城",
+      "target": "冷逸尘",
+      "type": "is_lover_of"
+    },
+    {
+      "source": "慕容倾城",
+      "target": "智慧",
+      "type": "has_quality"
+    },
+    {
+      "source": "慕容倾城",
+      "target": "勇气",
+      "type": "has_quality"
+    },
+    {
+      "source": "慕容倾城",
+      "target": "美貌",
+      "type": "has_quality"
+    },
+    {
+      "source": "慕容倾城",
+      "target": "乱世",
+      "type": "lives_in"
+    },
+    {
+      "source": "慕容倾城",
+      "target": "江湖",
+      "type": "lives_in"
+    },
+    {
+      "source": "慕容倾城",
+      "target": "宫廷",
+      "type": "influences"
+    },
+    {
+      "source": "慕容倾城",
+      "target": "家国天下",
+      "type": "pursues"
+    },
+    {
+      "source": "冷逸尘",
+      "target": "慕容倾城",
+      "type": "is_lover_of"
+    },
+    {
+      "source": "冷逸尘",
+      "target": "武功高强",
+      "type": "has_quality"
+    },
+    {
+      "source": "冷逸尘",
+      "target": "为人正直",
+      "type": "has_quality"
+    },
+    {
+      "source": "冷逸尘",
+      "target": "江湖",
+      "type": "lives_in"
+    },
+    {
+      "source": "冷逸尘",
+      "target": "宫廷",
+      "type": "involved_in"
+    },
+    {
+      "source": "冷逸尘",
+      "target": "家国天下",
+      "type": "pursues"
+    },
+    {
+      "source": "爱情",
+      "target": "慕容倾城",
+      "type": "associated_with"
+    },
+    {
+      "source": "爱情",
+      "target": "冷逸尘",
+      "type": "associated_with"
+    },
+    {
+      "source": "爱情",
+      "target": "乱世",
+      "type": "exists_in"
+    },
+    {
+      "source": "乱世",
+      "target": "宫廷",
+      "type": "contains"
+    },
+    {
+      "source": "乱世",
+      "target": "江湖",
+      "type": "contains"
+    },
+    {
+      "source": "乱世",
+      "target": "家国天下",
+      "type": "related_to"
+    },
+    {
+      "source": "宫廷",
+      "target": "权力",
+      "type": "is_site_of"
+    },
+    {
+      "source": "宫廷",
+      "target": "权臣",
+      "type": "inhabited_by"
+    },
+    {
+      "source": "江湖",
+      "target": "侠客",
+      "type": "inhabited_by"
+    },
+    {
+      "source": "家国天下",
+      "target": "倾国倾城",
+      "type": "influenced_by"
+    },
+    {
+      "source": "命运",
+      "target": "个人",
+      "type": "affects"
+    },
+    {
+      "source": "命运",
+      "target": "事件",
+      "type": "shapes"
+    },
+    {
+      "source": "倾国倾城",
+      "target": "美貌",
+      "type": "is_manifestation_of"
+    },
+    {
+      "source": "倾国倾城",
+      "target": "力量",
+      "type": "is_a_form_of"
+    },
+    {
+      "source": "倾国倾城",
+      "target": "权力",
+      "type": "is_related_to"
+    },
+    {
+      "source": "权力",
+      "target": "美貌",
+      "type": "is_influenced_by"
+    },
+    {
+      "source": "美貌",
+      "target": "权力",
+      "type": "can_influence"
+    },
+    {
+      "source": "美貌",
+      "target": "力量",
+      "type": "is_a_form_of"
+    },
+    {
+      "source": "文本",
+      "target": "核心思想",
+      "type": "describes"
+    },
+    {
+      "source": "文本",
+      "target": "意象",
+      "type": "contains"
+    },
+    {
+      "source": "文本",
+      "target": "概念",
+      "type": "analyzes"
+    }
+  ],
+  "hierarchy": {
+    "main_topics": [
+      "燕倾天下 故事梗概",
+      "人物介绍",
+      "情节发展",
+      "主题分析",
+      "关键意象",
+      "引用与结论"
+    ],
+    "structure": "The document is structured with a narrative introduction (楔子), followed by thematic sections (乱世浮生, 倾城绝恋, 尾声) that detail plot points and character arcs. The latter part of the document shifts to an analytical discussion, breaking down core themes, motifs, and symbolic elements in a more abstract manner. It includes sections on OCR cleanup, central themes like '倾国倾城', the interplay of power and beauty, fate, and symbolic imagery. The structure moves from a specific narrative to a broader thematic and symbolic analysis."
+  }
+}

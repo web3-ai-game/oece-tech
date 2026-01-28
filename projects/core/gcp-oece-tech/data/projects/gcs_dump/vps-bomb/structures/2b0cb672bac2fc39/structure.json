@@ -1,0 +1,173 @@
+{
+  "propositions": [
+    {
+      "id": "1",
+      "text": "The document is titled \"女录-飞凤女帅\".",
+      "level": 1
+    },
+    {
+      "id": "2",
+      "text": "The main section is about \"飞凤女帅\".",
+      "level": 2
+    },
+    {
+      "id": "3",
+      "text": "\"飞凤女帅\" is identified as a novel.",
+      "level": 3
+    },
+    {
+      "id": "4",
+      "text": "The novel includes a preface (序).",
+      "level": 4
+    },
+    {
+      "id": "5",
+      "text": "In the preface, a character questions her attire, stating it's too advanced for the era and perhaps too avant-garde.",
+      "level": 5
+    },
+    {
+      "id": "6",
+      "text": "Another character reassures her that she looks good in anything and that it's acceptable to enjoy being at the forefront of fashion.",
+      "level": 5
+    },
+    {
+      "id": "7",
+      "text": "The reassuring character emphasizes his role as her husband and assures her that with him by her side, nothing else matters.",
+      "level": 6
+    }
+  ],
+  "concepts": [
+    {
+      "name": "女录-飞凤女帅",
+      "frequency": 1,
+      "context": "Document title."
+    },
+    {
+      "name": "飞凤女帅",
+      "frequency": 2,
+      "context": "Main section title and description of the novel."
+    },
+    {
+      "name": "小说",
+      "frequency": 1,
+      "context": "Classification of \"飞凤女帅\"."
+    },
+    {
+      "name": "序",
+      "frequency": 1,
+      "context": "Section within the novel (preface)."
+    },
+    {
+      "name": "夫君",
+      "frequency": 1,
+      "context": "Term of address used by a wife to her husband."
+    },
+    {
+      "name": "羽绒服",
+      "frequency": 1,
+      "context": "Specific item of clothing mentioned, indicative of anachronism."
+    },
+    {
+      "name": "时代",
+      "frequency": 1,
+      "context": "Refers to the specific time period of the story."
+    },
+    {
+      "name": "衣饰",
+      "frequency": 1,
+      "context": "General term for clothing and accessories."
+    },
+    {
+      "name": "前卫",
+      "frequency": 1,
+      "context": "Describes something as avant-garde or too advanced."
+    },
+    {
+      "name": "媳妇儿",
+      "frequency": 1,
+      "context": "Term of address used by a husband to his wife."
+    },
+    {
+      "name": "时尚",
+      "frequency": 1,
+      "context": "Refers to fashion and trends."
+    },
+    {
+      "name": "老公",
+      "frequency": 1,
+      "context": "Term for husband."
+    },
+    {
+      "name": "丈夫",
+      "frequency": 1,
+      "context": "Term for husband."
+    }
+  ],
+  "relations": [
+    {
+      "source": "女录-飞凤女帅",
+      "target": "飞凤女帅",
+      "type": "contains"
+    },
+    {
+      "source": "飞凤女帅",
+      "target": "小说",
+      "type": "is_a"
+    },
+    {
+      "source": "小说",
+      "target": "序",
+      "type": "has_part"
+    },
+    {
+      "source": "序",
+      "target": "夫君",
+      "type": "dialogue_participant"
+    },
+    {
+      "source": "夫君",
+      "target": "羽绒服",
+      "type": "mentions"
+    },
+    {
+      "source": "羽绒服",
+      "target": "时代",
+      "type": "anachronistic_to"
+    },
+    {
+      "source": "夫君",
+      "target": "前卫",
+      "type": "describes"
+    },
+    {
+      "source": "夫君",
+      "target": "时尚",
+      "type": "references"
+    },
+    {
+      "source": "夫君",
+      "target": "老公",
+      "type": "uses_term"
+    },
+    {
+      "source": "夫君",
+      "target": "丈夫",
+      "type": "uses_term"
+    },
+    {
+      "source": "夫君",
+      "target": "我",
+      "type": "is"
+    }
+  ],
+  "hierarchy": {
+    "main_topics": [
+      "Document Title",
+      "Novel Title",
+      "Novel Type",
+      "Novel Section (Preface)",
+      "Dialogue Content"
+    ],
+    "structure": "The document outlines a hierarchical structure: a main title, a primary section title, a classification for that section, a specific part of that section (preface), and then the content within the preface, which itself involves dialogue with levels of reassurance and affirmation."
+  }
+}

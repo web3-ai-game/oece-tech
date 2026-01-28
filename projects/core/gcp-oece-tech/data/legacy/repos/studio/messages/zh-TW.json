@@ -1,0 +1,107 @@
+{
+  "common": {
+    "brand": "DeepWeay",
+    "tagline": "深潛數位游牧 2.0",
+    "slogan": "與物理距離和時間談判",
+    "home": "首頁",
+    "dashboard": "儀表板",
+    "articles": "文章",
+    "aiTools": "AI 工具",
+    "forum": "論壇",
+    "login": "登入",
+    "signup": "註冊"
+  },
+  "nav": {
+    "home": "首頁",
+    "dashboard": "儀表板",
+    "articles": "文章",
+    "aiTools": "AI 工具",
+    "bbs": "論壇",
+    "settings": "設定",
+    "logout": "登出"
+  },
+  "auth": {
+    "login": "登入",
+    "register": "註冊帳號",
+    "email": "電子郵件",
+    "password": "密碼",
+    "inviteCode": "邀請碼",
+    "signIn": "登入",
+    "createAccount": "創建帳號",
+    "alreadyMember": "已經是潛水員？",
+    "newToDiving": "新來的潛水員？"
+  },
+  "tools": {
+    "visaComparison": {
+      "title": "簽證對比",
+      "subtitle": "比較各國數位游牧簽證",
+      "nationality": "您的國籍",
+      "compare": "開始對比",
+      "comparing": "分析中..."
+    },
+    "visaAssistant": {
+      "title": "簽證申請助手",
+      "subtitle": "獲取簽證申請的詳細指導",
+      "visaType": "簽證類型",
+      "nationality": "國籍",
+      "destination": "目的地國家",
+      "purpose": "目的",
+      "duration": "時長",
+      "getGuidance": "獲取指導",
+      "analyzing": "分析中...",
+      "applicationDetails": "申請詳情",
+      "tellUsAbout": "告訴我們您的簽證信息"
+    },
+    "costOfLiving": {
+      "title": "生活成本",
+      "subtitle": "比較生活成本與套利機會",
+      "city1": "城市 1",
+      "city2": "城市 2",
+      "city3": "城市 3（選填）",
+      "analyze": "開始分析",
+      "analyzing": "分析中..."
+    },
+    "tripPlanner": {
+      "title": "AI 行程規劃",
+      "subtitle": "用 AI 打造完美行程",
+      "destination": "目的地",
+      "duration": "時長",
+      "budget": "預算（美元）",
+      "interests": "興趣與風格",
+      "aiMode": "AI 模式",
+      "quickMode": "⚡ 快速（簡潔快速）",
+      "standardMode": "⚙️ 標準（均衡）",
+      "detailedMode": "🔥 詳細（全面深入）",
+      "generate": "生成行程",
+      "generating": "生成中...",
+      "generatingQuick": "快速生成中...",
+      "generatingStandard": "生成中...",
+      "generatingDetailed": "詳細生成中（需時較長）...",
+      "yourTravelPlan": "您的旅行計劃",
+      "inputPreferences": "輸入您的偏好",
+      "itineraryPlaceholder": "您的行程將在此顯示",
+      "fillForm": "填寫表單以生成AI行程計劃"
+    }
+  },
+  "footer": {
+    "tagline": "深潛數位游牧 2.0",
+    "slogan": "與物理距離和時間談判",
+    "tools": "AI 工具",
+    "visaComparison": "簽證對比",
+    "costOfLiving": "生活成本",
+    "tripPlanner": "行程規劃",
+    "community": "社群",
+    "forum": "論壇",
+    "articles": "文章",
+    "telegram": "Telegram",
+    "resources": "資源",
+    "aboutUs": "關於我們",
+    "privacy": "隱私政策",
+    "terms": "服務條款",
+    "copyright": "© 2025 DeepWeay. 版權所有。"
+  },
+  "errors": {
+    "general": "發生錯誤",
+    "tryAgain": "請稍後再試"
+  }
+}

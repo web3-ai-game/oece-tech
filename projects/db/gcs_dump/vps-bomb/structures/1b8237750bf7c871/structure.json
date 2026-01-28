@@ -1,0 +1,483 @@
+{
+  "propositions": [
+    {
+      "id": "1",
+      "text": "The protagonist reflects on the aftermath of his experiences.",
+      "level": 1
+    },
+    {
+      "id": "1.1",
+      "text": "He describes being unable to recover from the events and experiencing nightmares.",
+      "level": 2
+    },
+    {
+      "id": "1.2",
+      "text": "He questions whether he can truly escape his past and the unresolved mysteries.",
+      "level": 2
+    },
+    {
+      "id": "1.3",
+      "text": "He believes that uncovering secrets comes with a cost.",
+      "level": 2
+    },
+    {
+      "id": "1.4",
+      "text": "He recounts writing down all the events of the past year.",
+      "level": 2
+    },
+    {
+      "id": "1.5",
+      "text": "He expresses concern about forgetting and the passage of time.",
+      "level": 2
+    },
+    {
+      "id": "1.6",
+      "text": "He lists unresolved questions about his uncle, the mute bottle's identity, Wenjin's whereabouts, the ultimate secret, and the builders of the underground ruins.",
+      "level": 2
+    },
+    {
+      "id": "1.7",
+      "text": "He mentions the mute bottle's hospitalization and lack of recovery.",
+      "level": 2
+    },
+    {
+      "id": "1.8",
+      "text": "He notes that learning about the mute bottle's background is proving difficult.",
+      "level": 2
+    },
+    {
+      "id": "1.9",
+      "text": "He muses on the paradox of people wanting to forget and others wanting to remember.",
+      "level": 2
+    },
+    {
+      "id": "1.10",
+      "text": "He mentions Pan Zi's recovery from his injuries.",
+      "level": 2
+    },
+    {
+      "id": "1.11",
+      "text": "He describes the chaos in Changsha following his uncle's disappearance.",
+      "level": 2
+    },
+    {
+      "id": "1.12",
+      "text": "He advises Pan Zi to get married and not worry about his uncle's business.",
+      "level": 2
+    },
+    {
+      "id": "1.13",
+      "text": "He notes Fatty's return to Beijing to resume his business.",
+      "level": 2
+    },
+    {
+      "id": "1.14",
+      "text": "He recalls Zaxie's departure after helping them escape the Tarim Basin.",
+      "level": 2
+    },
+    {
+      "id": "1.15",
+      "text": "He acknowledges An Ning's death and the severed contact with Judeu Kao's company.",
+      "level": 2
+    },
+    {
+      "id": "1.16",
+      "text": "He feels that life is returning to a normal routine.",
+      "level": 2
+    },
+    {
+      "id": "1.17",
+      "text": "He reflects on the Zhuang Zhou dream butterfly analogy.",
+      "level": 2
+    },
+    {
+      "id": "1.18",
+      "text": "He acknowledges that the events are far from over.",
+      "level": 2
+    },
+    {
+      "id": "2",
+      "text": "Two weeks later, the protagonist meets with Fatty and the mute bottle in Beijing to discuss future plans.",
+      "level": 1
+    },
+    {
+      "id": "2.1",
+      "text": "He faces the challenge of dealing with his uncle's unresolved affairs.",
+      "level": 2
+    },
+    {
+      "id": "2.2",
+      "text": "He must also address the issue of the mute bottle's recovery and reintegration into the world.",
+      "level": 2
+    },
+    {
+      "id": "2.3",
+      "text": "He describes the mute bottle's lack of family, possessions, and connection to the world.",
+      "level": 2
+    },
+    {
+      "id": "2.4",
+      "text": "He notes Fatty's successful business ventures in Liulichang.",
+      "level": 2
+    },
+    {
+      "id": "2.5",
+      "text": "He observes the mute bottle's improved appearance but continued detachment.",
+      "level": 2
+    },
+    {
+      "id": "2.6",
+      "text": "He learns that the mute bottle is recalling fragmented memories due to strong stimuli.",
+      "level": 2
+    },
+    {
+      "id": "2.7",
+      "text": "Fatty suggests a plan to rent a place for the mute bottle and share the costs.",
+      "level": 2
+    },
+    {
+      "id": "2.8",
+      "text": "The protagonist suggests asking the mute bottle his own wishes.",
+      "level": 2
+    },
+    {
+      "id": "2.9",
+      "text": "The mute bottle expresses a desire to travel and revisit places he knows.",
+      "level": 2
+    },
+    {
+      "id": "2.10",
+      "text": "The protagonist worries about the mute bottle's memory recovery and potential distress.",
+      "level": 2
+    },
+    {
+      "id": "2.11",
+      "text": "Fatty advises to let things happen naturally.",
+      "level": 2
+    },
+    {
+      "id": "2.12",
+      "text": "The protagonist decides to involve himself in the mute bottle's journey to prevent extreme actions.",
+      "level": 2
+    },
+    {
+      "id": "2.13",
+      "text": "He inquires about Fatty's previous attempts to uncover the mute bottle's background.",
+      "level": 2
+    },
+    {
+      "id": "2.14",
+      "text": "Fatty explains his failed attempt to get information from people who act as intermediaries.",
+      "level": 2
+    },
+    {
+      "id": "2.15",
+      "text": "The protagonist believes they might find a way through Chu Ge, who is imprisoned.",
+      "level": 2
+    },
+    {
+      "id": "2.16",
+      "text": "They agree to help the mute bottle investigate, involving Pan Zi.",
+      "level": 2
+    },
+    {
+      "id": "3",
+      "text": "The protagonist contacts Pan Zi, who obtains information from Chu Ge.",
+      "level": 1
+    },
+    {
+      "id": "3.1",
+      "text": "Chu Ge demands ten thousand yuan and a personal meeting.",
+      "level": 2
+    },
+    {
+      "id": "3.2",
+      "text": "Chu Ge sends an old photograph as a condition for the meeting.",
+      "level": 2
+    },
+    {
+      "id": "3.3",
+      "text": "The photograph is old and shows a figure behind a screen in an old house, possibly indicating a 'ghost'.",
+      "level": 2
+    },
+    {
+      "id": "3.4",
+      "text": "The protagonist identifies the location as a former military sanatorium in Golmud.",
+      "level": 2
+    },
+    {
+      "id": "3.5",
+      "text": "He suspects Chu Ge might have been involved or received information from his uncle.",
+      "level": 2
+    },
+    {
+      "id": "3.6",
+      "text": "The protagonist decides to meet Chu Ge.",
+      "level": 2
+    },
+    {
+      "id": "4",
+      "text": "The protagonist meets Chu Ge in Ping Tang Prison.",
+      "level": 1
+    },
+    {
+      "id": "4.1",
+      "text": "Chu Ge reveals that the mute bottle is called 'Mute Zhang' in the underworld.",
+      "level": 2
+    },
+    {
+      "id": "4.2",
+      "text": "Chu Ge recounts the story of how Chen Pi'a Si found the mute bottle in Guangxi.",
+      "level": 2
+    },
+    {
+      "id": "4.3",
+      "text": "He describes a bizarre incident involving Vietnamese grave robbers and a person referred to as 'Akun'.",
+      "level": 2
+    },
+    {
+      "id": "4.4",
+      "text": "The mute bottle, 'Akun', survived a dangerous encounter in a two-story tomb.",
+      "level": 2
+    },
+    {
+      "id": "4.5",
+      "text": "Chu Ge explains that his own investigation led him to a village in Guangxi where he found clues about the mute bottle.",
+      "level": 2
+    },
+    {
+      "id": "4.6",
+      "text": "He reveals that the mute bottle lived in a humble house there, with photographs under glass on a table.",
+      "level": 2
+    },
+    {
+      "id": "4.7",
+      "text": "Chu Ge refuses to disclose further details about a 'big secret', citing loyalty to the protagonist's uncle and fear for his own safety.",
+      "level": 2
+    },
+    {
+      "id": "4.8",
+      "text": "He advises the protagonist to examine the other photographs in the mute bottle's former residence.",
+      "level": 2
+    },
+    {
+      "id": "5",
+      "text": "The protagonist, along with Fatty and the mute bottle, travels to Guangxi to find the mute bottle's former residence.",
+      "level": 1
+    },
+    {
+      "id": "5.1",
+      "text": "They arrive in the remote village of Banai, a Yao settlement.",
+      "level": 2
+    },
+    {
+      "id": "5.2",
+      "text": "They find accommodation with a local named Agui.",
+      "level": 2
+    },
+    {
+      "id": "5.3",
+      "text": "While waiting for dinner, the mute bottle expresses eagerness to visit his former house.",
+      "level": 2
+    },
+    {
+      "id": "5.4",
+      "text": "After dinner, the protagonist notices a photograph on the wall of the dining room.",
+      "level": 2
+    },
+    {
+      "id": "5.5",
+      "text": "The photograph is a black and white image showing Chen Wenjin with a man in Yao traditional clothing and a child.",
+      "level": 2
+    },
+    {
+      "id": "5.6",
+      "text": "Agui identifies the man as his father and mentions that Chen Wenjin was part of an expedition team that explored the mountains years ago.",
+      "level": 2
+    }
+  ],
+  "concepts": [
+    {
+      "name": "protagonist",
+      "frequency": 10,
+      "context": "The main narrator and character of the story."
+    },
+    {
+      "name": "mute bottle",
+      "frequency": 16,
+      "context": "A mysterious character with unusual abilities and a forgotten past, also referred to as 'Mute Zhang'."
+    },
+    {
+      "name": "uncle",
+      "frequency": 6,
+      "context": "The protagonist's uncle, whose disappearance and business affairs are a significant plot point."
+    },
+    {
+      "name": "Fatty",
+      "frequency": 12,
+      "context": "A loyal friend of the protagonist, known for his business acumen and loyalty."
+    },
+    {
+      "name": "Pan Zi",
+      "frequency": 9,
+      "context": "A loyal follower of the protagonist's uncle, who assists in investigations."
+    },
+    {
+      "name": "Chu Ge",
+      "frequency": 10,
+      "context": "An informant imprisoned in Ping Tang Prison, who possesses crucial information."
+    },
+    {
+      "name": "Chen Wenjin",
+      "frequency": 4,
+      "context": "A key figure from the past, whose connection to the mute bottle and the expedition is revealed."
+    },
+    {
+      "name": "secret",
+      "frequency": 7,
+      "context": "The underlying mysteries and hidden truths driving the narrative."
+    },
+    {
+      "name": "photograph",
+      "frequency": 7,
+      "context": "An important piece of evidence that reveals past events and connections."
+    },
+    {
+      "name": "Guangxi",
+      "frequency": 8,
+      "context": "A region in China where significant parts of the investigation take place."
+    },
+    {
+      "name": "memory",
+      "frequency": 4,
+      "context": "The protagonist's struggle with remembering and the mute bottle's memory loss."
+    },
+    {
+      "name": "investigation",
+      "frequency": 6,
+      "context": "The process of uncovering secrets and solving mysteries."
+    },
+    {
+      "name": "expedition",
+      "frequency": 3,
+      "context": "Past research missions that are connected to the current events."
+    },
+    {
+      "name": "underworld",
+      "frequency": 2,
+      "context": "The criminal or clandestine aspects of society where characters like Chen Pi'a Si operate."
+    },
+    {
+      "name": "Chen Pi'a Si",
+      "frequency": 4,
+      "context": "A figure from the past associated with the mute bottle's origins and grave robbing."
+    },
+    {
+      "name": "Agui",
+      "frequency": 4,
+      "context": "A local resident in Banai, Guangxi, who provides accommodation and information."
+    },
+    {
+      "name": "tradition",
+      "frequency": 3,
+      "context": "Cultural practices and customs of the Yao people."
+    }
+  ],
+  "relations": [
+    {
+      "source": "protagonist",
+      "target": "mute bottle",
+      "type": "companion_of"
+    },
+    {
+      "source": "protagonist",
+      "target": "uncle",
+      "type": "relative_of"
+    },
+    {
+      "source": "protagonist",
+      "target": "Fatty",
+      "type": "friend_of"
+    },
+    {
+      "source": "protagonist",
+      "target": "Pan Zi",
+      "type": "ally_of"
+    },
+    {
+      "source": "protagonist",
+      "target": "Chu Ge",
+      "type": "seek_information_from"
+    },
+    {
+      "source": "mute bottle",
+      "target": "Chen Wenjin",
+      "type": "connected_to"
+    },
+    {
+      "name": "Chu Ge",
+      "target": "mute bottle",
+      "type": "knows_background_of"
+    },
+    {
+      "source": "Chen Pi'a Si",
+      "target": "mute bottle",
+      "type": "encountered"
+    },
+    {
+      "source": "Chu Ge",
+      "target": "uncle",
+      "type": "friend_of"
+    },
+    {
+      "source": "Chen Wenjin",
+      "target": "expedition",
+      "type": "member_of"
+    },
+    {
+      "source": "protagonist",
+      "target": "investigation",
+      "type": "undertakes"
+    },
+    {
+      "source": "Agui",
+      "target": "Chen Wenjin",
+      "type": "knows_of"
+    },
+    {
+      "source": "Agui",
+      "target": "protagonist",
+      "type": "provides_lodging_to"
+    },
+    {
+      "source": "Chu Ge",
+      "target": "photograph",
+      "type": "provides"
+    },
+    {
+      "source": "protagonist",
+      "target": "Guangxi",
+      "type": "travels_to"
+    },
+    {
+      "source": "Fatty",
+      "target": "Guangxi",
+      "type": "travels_to"
+    },
+    {
+      "source": "mute bottle",
+      "target": "Guangxi",
+      "type": "travels_to"
+    }
+  ],
+  "hierarchy": {
+    "main_topics": [
+      "Aftermath of the expedition",
+      "Planning the next steps",
+      "Investigating the mute bottle's past",
+      "Journey to Guangxi",
+      "Discovery in Banai"
+    ],
+    "structure": "The document is structured chronologically, following the protagonist's reflections after a traumatic event, his subsequent planning with companions, the investigation into a key character's past through an informant, and the journey to a specific location based on that information, culminating in a significant discovery."
+  }
+}

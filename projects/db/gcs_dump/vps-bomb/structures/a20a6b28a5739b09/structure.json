@@ -1,0 +1,116 @@
+{
+  "propositions": [
+    {
+      "id": "1",
+      "text": "好月长圆 is a personal narrative with ongoing revisions.",
+      "level": 1
+    },
+    {
+      "id": "1.1",
+      "text": "The author uses an ID for privacy and acknowledges inconsistencies in the plot.",
+      "level": 2
+    },
+    {
+      "id": "2",
+      "text": "The story begins with an incident of falling and receiving help.",
+      "level": 1
+    },
+    {
+      "id": "2.1",
+      "text": "The fall leads to physical pain and emotional reflections on destiny.",
+      "level": 2
+    },
+    {
+      "id": "2.2",
+      "text": "Interactions with companions reveal social pressures and isolation.",
+      "level": 2
+    },
+    {
+      "id": "3",
+      "text": "Hospital experiences evoke sensory and emotional responses.",
+      "level": 1
+    },
+    {
+      "id": "3.1",
+      "text": "The smell of disinfectant and forced medication cause distress.",
+      "level": 2
+    },
+    {
+      "id": "4",
+      "text": "Pain and recovery are recurring themes in the narrative.",
+      "level": 1
+    },
+    {
+      "id": "4.1",
+      "text": "The protagonist endures repeated injuries and emotional fatigue.",
+      "level": 2
+    },
+    {
+      "id": "5",
+      "text": "Memories and relationships shape the protagonist's inner conflict.",
+      "level": 1
+    },
+    {
+      "id": "5.1",
+      "text": "Past encounters and nicknames like '小鱼' carry emotional weight.",
+      "level": 2
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Pain",
+      "frequency": 10,
+      "context": "Physical and emotional suffering from injuries and social interactions."
+    },
+    {
+      "name": "Hospital",
+      "frequency": 5,
+      "context": "Setting associated with recovery, discomfort, and sensory experiences."
+    },
+    {
+      "name": "Destiny",
+      "frequency": 3,
+      "context": "Reflections on fate and the consequences of actions."
+    },
+    {
+      "name": "Isolation",
+      "frequency": 4,
+      "context": "Feelings of loneliness and social disconnection."
+    },
+    {
+      "name": "Memory",
+      "frequency": 3,
+      "context": "Recollections of past events influencing current emotions."
+    }
+  ],
+  "relations": [
+    {
+      "source": "Pain",
+      "target": "Hospital",
+      "type": "associated_with"
+    },
+    {
+      "source": "Pain",
+      "target": "Isolation",
+      "type": "implies"
+    },
+    {
+      "source": "Destiny",
+      "target": "Pain",
+      "type": "influences"
+    },
+    {
+      "source": "Memory",
+      "target": "Isolation",
+      "type": "contributes_to"
+    }
+  ],
+  "hierarchy": {
+    "main_topics": [
+      "Personal Narrative",
+      "Pain and Recovery",
+      "Relationships and Isolation"
+    ],
+    "structure": "The document is structured as a personal story with chapters and sub-sections, focusing on an incident, hospital experiences, and emotional reflections."
+  }
+}

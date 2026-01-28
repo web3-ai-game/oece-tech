@@ -1,0 +1,498 @@
+{
+  "propositions": [
+    {
+      "id": "1",
+      "text": "一家名为“荒村公寓”的公寓，以其阴森诡异的气氛闻名。",
+      "level": 1
+    },
+    {
+      "id": "1.1",
+      "text": "许多住客声称在这里经历了难以解释的事件，使得荒村公寓成为了当地的禁地。",
+      "level": 2
+    },
+    {
+      "id": "2",
+      "text": "主人公因缘际会住进了荒村公寓，起初并未在意那些传说。",
+      "level": 1
+    },
+    {
+      "id": "2.1",
+      "text": "随着时间的推移，公寓里开始发生各种怪事。",
+      "level": 2
+    },
+    {
+      "id": "2.1.1",
+      "text": "夜半的怪声：深夜里，时常传来莫名的哭泣声、脚步声，甚至有敲门声，但开门后却空无一人。",
+      "level": 3
+    },
+    {
+      "id": "2.1.2",
+      "text": "消失的物品：房间里的物品会莫名其妙地消失，又在不经意间重现。",
+      "level": 3
+    },
+    {
+      "id": "2.1.3",
+      "text": "诡异的镜子：房间里的镜子似乎隐藏着秘密，住客有时会在镜中看到不属于自己的影像，或是扭曲的面孔。",
+      "level": 3
+    },
+    {
+      "id": "2.1.4",
+      "text": "挥之不去的阴影：公寓的角落里似乎总有挥之不去的阴影在游荡，让人毛骨悚然。",
+      "level": 3
+    },
+    {
+      "id": "3",
+      "text": "主人公在荒村公寓中，逐渐被这些超自然现象所困扰。",
+      "level": 1
+    },
+    {
+      "id": "3.1",
+      "text": "他试图寻找这些事件的根源，却发现公寓的历史隐藏着一段悲伤而恐怖的往事。",
+      "level": 2
+    },
+    {
+      "id": "3.1.1",
+      "text": "公寓的墙壁似乎渗透着过去的哀怨，每一块砖石都诉说着不为人知的秘密。",
+      "level": 3
+    },
+    {
+      "id": "4",
+      "text": "主人公起初对传言持怀疑态度，但随着经历的深入，他逐渐被恐惧和好奇所驱使，开始调查公寓的真相。",
+      "level": 1
+    },
+    {
+      "id": "4.1",
+      "text": "一些曾在此居住过的住客，他们的遭遇成为了公寓传说的来源，为主人公提供了线索。",
+      "level": 1
+    },
+    {
+      "id": "4.2",
+      "text": "公寓中那些无法解释的存在，它们是故事中最神秘和恐怖的元素。",
+      "level": 1
+    },
+    {
+      "id": "5",
+      "text": "作者采用了悬疑和惊悚的叙事手法，通过细腻的心理描写和场景渲染，营造出一种压抑、紧张的氛围。",
+      "level": 1
+    },
+    {
+      "id": "5.1",
+      "text": "第一人称视角：让读者更能身临其境地感受到主人公的恐惧和困惑。",
+      "level": 2
+    },
+    {
+      "id": "5.2",
+      "text": "循序渐进的揭秘：逐步揭开公寓的秘密，保持读者的阅读兴趣。",
+      "level": 2
+    },
+    {
+      "id": "5.3",
+      "text": "留白与暗示：许多恐怖之处并未直接描写，而是通过暗示和想象来激发读者的恐惧感。",
+      "level": 2
+    },
+    {
+      "id": "6",
+      "text": "对未知的恐惧：人类对于未知事物的本能恐惧。",
+      "level": 1
+    },
+    {
+      "id": "6.1",
+      "text": "过去与现在：过去发生的事件如何影响着现在。",
+      "level": 1
+    },
+    {
+      "id": "6.2",
+      "text": "人性的脆弱：在极端环境下，人性的脆弱和坚韧。",
+      "level": 1
+    },
+    {
+      "id": "7",
+      "text": "故事的结局并没有给出一个明确的解释，而是留下了一丝悬念，让读者在读完后仍能回味无穷。",
+      "level": 1
+    },
+    {
+      "id": "7.1",
+      "text": "主人公或许找到了真相，或许成为了公寓的一部分。",
+      "level": 2
+    },
+    {
+      "id": "8",
+      "text": "荒村公寓以其独特的恐怖氛围和引人入胜的剧情，在读者中获得了广泛的讨论。",
+      "level": 1
+    },
+    {
+      "id": "8.1",
+      "text": "“这部小说成功地捕捉到了那种令人窒息的幽闭恐惧感，每一次翻页都伴随着心跳的加速。”",
+      "level": 2
+    },
+    {
+      "id": "9",
+      "text": "[此处可列出可能相关的学术研究或文献]",
+      "level": 1
+    },
+    {
+      "id": "10",
+      "text": "[此处可添加作者的简介]",
+      "level": 1
+    },
+    {
+      "id": "10.1",
+      "text": "[此处可添加作者的其他作品]",
+      "level": 2
+    }
+  ],
+  "concepts": [
+    {
+      "name": "荒村公寓",
+      "frequency": 6,
+      "context": " the name of the apartment building, central to the story"
+    },
+    {
+      "name": "阴森诡异",
+      "frequency": 1,
+      "context": "describes the atmosphere of 荒村公寓"
+    },
+    {
+      "name": "难以解释的事件",
+      "frequency": 1,
+      "context": "what residents claim to experience in 荒村公寓"
+    },
+    {
+      "name": "禁地",
+      "frequency": 1,
+      "context": "the status of 荒村公寓 in the local area"
+    },
+    {
+      "name": "主人公",
+      "frequency": 4,
+      "context": "the main character of the story"
+    },
+    {
+      "name": "怪事",
+      "frequency": 1,
+      "context": "refers to the unusual occurrences in the apartment"
+    },
+    {
+      "name": "怪声",
+      "frequency": 1,
+      "context": "specific type of怪事, including crying and footsteps"
+    },
+    {
+      "name": "消失的物品",
+      "frequency": 1,
+      "context": "another specific type of怪事"
+    },
+    {
+      "name": "诡异的镜子",
+      "frequency": 1,
+      "context": "a specific element that causes fear and mystery"
+    },
+    {
+      "name": "阴影",
+      "frequency": 1,
+      "context": "a visual element contributing to the horror"
+    },
+    {
+      "name": "超自然现象",
+      "frequency": 1,
+      "context": "the nature of the events in the apartment"
+    },
+    {
+      "name": "公寓的历史",
+      "frequency": 1,
+      "context": "the background story of the apartment"
+    },
+    {
+      "name": "悲伤而恐怖的往事",
+      "frequency": 1,
+      "context": "the nature of the apartment's history"
+    },
+    {
+      "name": "秘密",
+      "frequency": 2,
+      "context": "refers to hidden information about the apartment and its history"
+    },
+    {
+      "name": "前住客",
+      "frequency": 1,
+      "context": "characters whose experiences form part of the legends"
+    },
+    {
+      "name": "公寓的“居民”",
+      "frequency": 1,
+      "context": "unexplained entities within the apartment"
+    },
+    {
+      "name": "叙事手法",
+      "frequency": 1,
+      "context": "describes the author's literary techniques"
+    },
+    {
+      "name": "悬疑",
+      "frequency": 1,
+      "context": "a genre/technique used in the story"
+    },
+    {
+      "name": "惊悚",
+      "frequency": 1,
+      "context": "a genre/technique used in the story"
+    },
+    {
+      "name": "心理描写",
+      "frequency": 1,
+      "context": "a literary technique used by the author"
+    },
+    {
+      "name": "场景渲染",
+      "frequency": 1,
+      "context": "a literary technique used by the author"
+    },
+    {
+      "name": "压抑、紧张的氛围",
+      "frequency": 1,
+      "context": "the mood created by the author's techniques"
+    },
+    {
+      "name": "第一人称视角",
+      "frequency": 1,
+      "context": "a narrative perspective"
+    },
+    {
+      "name": "循序渐进的揭秘",
+      "frequency": 1,
+      "context": "a plot development technique"
+    },
+    {
+      "name": "留白与暗示",
+      "frequency": 1,
+      "context": "a literary technique for creating fear"
+    },
+    {
+      "name": "未知",
+      "frequency": 1,
+      "context": "a theme explored in the story"
+    },
+    {
+      "name": "恐惧",
+      "frequency": 3,
+      "context": "a primary emotion experienced by characters and evoked in readers"
+    },
+    {
+      "name": "过去",
+      "frequency": 2,
+      "context": "a temporal element influencing the present"
+    },
+    {
+      "name": "现在",
+      "frequency": 1,
+      "context": "the temporal setting of the story"
+    },
+    {
+      "name": "人性",
+      "frequency": 1,
+      "context": "a theme explored in the story"
+    },
+    {
+      "name": "脆弱",
+      "frequency": 1,
+      "context": "a characteristic of humanity explored"
+    },
+    {
+      "name": "坚韧",
+      "frequency": 1,
+      "context": "a characteristic of humanity explored"
+    },
+    {
+      "name": "结局",
+      "frequency": 1,
+      "context": "the conclusion of the story"
+    },
+    {
+      "name": "悬念",
+      "frequency": 1,
+      "context": "a narrative element left by the ending"
+    },
+    {
+      "name": "讨论",
+      "frequency": 1,
+      "context": "the reception of the story by readers"
+    },
+    {
+      "name": "幽闭恐惧感",
+      "frequency": 1,
+      "context": "a specific type of fear evoked by the novel"
+    }
+  ],
+  "relations": [
+    {
+      "source": "荒村公寓",
+      "target": "阴森诡异",
+      "type": "has_atmosphere"
+    },
+    {
+      "source": "荒村公寓",
+      "target": "禁地",
+      "type": "is_considered"
+    },
+    {
+      "source": "荒村公寓",
+      "target": "难以解释的事件",
+      "type": "associated_with"
+    },
+    {
+      "source": "主人公",
+      "target": "荒村公寓",
+      "type": "lives_in"
+    },
+    {
+      "source": "主人公",
+      "target": "怪事",
+      "type": "experiences"
+    },
+    {
+      "source": "主人公",
+      "target": "超自然现象",
+      "type": "is_troubled_by"
+    },
+    {
+      "source": "主人公",
+      "target": "公寓的历史",
+      "type": "investigates"
+    },
+    {
+      "source": "主人公",
+      "target": "恐惧",
+      "type": "feels"
+    },
+    {
+      "source": "主人公",
+      "target": "好奇",
+      "type": "feels"
+    },
+    {
+      "source": "怪事",
+      "target": "怪声",
+      "type": "includes"
+    },
+    {
+      "source": "怪事",
+      "target": "消失的物品",
+      "type": "includes"
+    },
+    {
+      "source": "怪事",
+      "target": "诡异的镜子",
+      "type": "includes"
+    },
+    {
+      "source": "怪事",
+      "target": "阴影",
+      "type": "associated_with"
+    },
+    {
+      "source": "公寓的历史",
+      "target": "悲伤而恐怖的往事",
+      "type": "is_a"
+    },
+    {
+      "source": "公寓的历史",
+      "target": "秘密",
+      "type": "contains"
+    },
+    {
+      "source": "前住客",
+      "target": "公寓的传说",
+      "type": "contributes_to"
+    },
+    {
+      "source": "公寓的“居民”",
+      "target": "无法解释的存在",
+      "type": "is_a"
+    },
+    {
+      "source": "叙事手法",
+      "target": "悬疑",
+      "type": "employs"
+    },
+    {
+      "source": "叙事手法",
+      "target": "惊悚",
+      "type": "employs"
+    },
+    {
+      "source": "叙事手法",
+      "target": "心理描写",
+      "type": "uses"
+    },
+    {
+      "source": "叙事手法",
+      "target": "场景渲染",
+      "type": "uses"
+    },
+    {
+      "source": "叙事手法",
+      "target": "压抑、紧张的氛围",
+      "type": "creates"
+    },
+    {
+      "source": "第一人称视角",
+      "target": "恐惧",
+      "type": "enhances_reader's_feeling_of"
+    },
+    {
+      "source": "循序渐进的揭秘",
+      "target": "阅读兴趣",
+      "type": "maintains"
+    },
+    {
+      "source": "留白与暗示",
+      "target": "恐惧",
+      "type": "stimulates"
+    },
+    {
+      "source": "未知",
+      "target": "恐惧",
+      "type": "related_to"
+    },
+    {
+      "source": "过去",
+      "target": "现在",
+      "type": "influences"
+    },
+    {
+      "source": "人性的脆弱",
+      "target": "极端环境",
+      "type": "revealed_in"
+    },
+    {
+      "source": "结局",
+      "target": "悬念",
+      "type": "leaves"
+    },
+    {
+      "source": "荒村公寓",
+      "target": "讨论",
+      "type": "generated"
+    },
+    {
+      "source": "幽闭恐惧感",
+      "target": "小说",
+      "type": "evoked_by"
+    }
+  ],
+  "hierarchy": {
+    "main_topics": [
+      "Introduction",
+      "Plot Summary",
+      "Core Conflict",
+      "Character Analysis",
+      "Narrative Techniques",
+      "Thematic Exploration",
+      "Ending Outlook",
+      "Reception and Reviews",
+      "References",
+      "Appendices"
+    ],
+    "structure": "The document is structured as a typical analysis of a literary work, moving from an introduction and plot summary to deeper analysis of themes, characters, and narrative, concluding with reception and supplementary information. Each main section is further divided into sub-sections or bullet points."
+  }
+}

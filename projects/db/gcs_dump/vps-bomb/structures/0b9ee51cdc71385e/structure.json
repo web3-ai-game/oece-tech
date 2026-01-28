@@ -1,0 +1,152 @@
+{
+  "propositions": [
+    {
+      "id": "1",
+      "text": "Kyoto (京华) is a place of prosperity hiding endless conspiracies and dangers.",
+      "level": 1
+    },
+    {
+      "id": "1.1",
+      "text": "In Kyoto, power and wealth drive people's actions, leading to constant overt and covert struggles.",
+      "level": 2
+    },
+    {
+      "id": "1.2",
+      "text": "桐 (Tong), a determined woman, navigates this complex environment to control her own destiny.",
+      "level": 2
+    },
+    {
+      "id": "1.2.1",
+      "text": "Tong faces societal prejudice and personal challenges but remains resolute.",
+      "level": 3
+    },
+    {
+      "id": "1.2.2",
+      "text": "Tong's interactions with 云老 (Yun Lao) reveal the depth of Kyoto's intrigues.",
+      "level": 3
+    },
+    {
+      "id": "2",
+      "text": "Kyoto Tower (京华楼) symbolizes wealth and power, serving as a hub for secrets and schemes.",
+      "level": 1
+    },
+    {
+      "id": "2.1",
+      "text": "Tong explores Kyoto Tower, uncovering its hidden dangers and mysteries.",
+      "level": 2
+    },
+    {
+      "id": "3",
+      "text": "Alliances and betrayals shape Tong's journey in Kyoto.",
+      "level": 1
+    },
+    {
+      "id": "3.1",
+      "text": "Yun Lao's deceptive proposals test Tong's wit and caution.",
+      "level": 2
+    },
+    {
+      "id": "3.2",
+      "text": "A mysterious woman, 宝儿 (Bao'er), offers cooperation, hinting at deeper secrets.",
+      "level": 2
+    },
+    {
+      "id": "4",
+      "text": "Survival in Kyoto demands strength, strategy, and alliances.",
+      "level": 1
+    },
+    {
+      "id": "4.1",
+      "text": "Tong faces life-threatening situations, reinforcing her resolve.",
+      "level": 2
+    },
+    {
+      "id": "4.2",
+      "text": "Tong and Bao'er plan to challenge the established order in Kyoto.",
+      "level": 2
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Kyoto (京华)",
+      "frequency": 20,
+      "context": "A prosperous yet dangerous city full of conspiracies."
+    },
+    {
+      "name": "Tong (桐)",
+      "frequency": 25,
+      "context": "A determined female protagonist navigating power struggles."
+    },
+    {
+      "name": "Yun Lao (云老)",
+      "frequency": 15,
+      "context": "A secretive, manipulative figure in Kyoto's underworld."
+    },
+    {
+      "name": "Kyoto Tower (京华楼)",
+      "frequency": 10,
+      "context": "A symbolic location of wealth, power, and hidden secrets."
+    },
+    {
+      "name": "Bao'er (宝儿)",
+      "frequency": 8,
+      "context": "A mysterious ally with knowledge of Kyoto's secrets."
+    },
+    {
+      "name": "Conspiracy",
+      "frequency": 12,
+      "context": "The underlying theme of hidden schemes and dangers."
+    },
+    {
+      "name": "Power",
+      "frequency": 10,
+      "context": "The driving force behind actions in Kyoto."
+    }
+  ],
+  "relations": [
+    {
+      "source": "Tong",
+      "target": "Kyoto",
+      "type": "resides_in"
+    },
+    {
+      "source": "Tong",
+      "target": "Yun Lao",
+      "type": "opposes"
+    },
+    {
+      "source": "Tong",
+      "target": "Bao'er",
+      "type": "allies_with"
+    },
+    {
+      "source": "Kyoto Tower",
+      "target": "Kyoto",
+      "type": "part_of"
+    },
+    {
+      "source": "Yun Lao",
+      "target": "Kyoto Tower",
+      "type": "controls_secrets_of"
+    },
+    {
+      "source": "Conspiracy",
+      "target": "Kyoto",
+      "type": "defines"
+    },
+    {
+      "source": "Power",
+      "target": "Kyoto",
+      "type": "motivates"
+    }
+  ],
+  "hierarchy": {
+    "main_topics": [
+      "Kyoto's Intrigues",
+      "Tong's Struggle",
+      "Kyoto Tower's Secrets",
+      "Alliances and Betrayals"
+    ],
+    "structure": "The document is organized into chapters, each focusing on Tong's progression through Kyoto's dangerous social and political landscape, with escalating conflicts and alliances."
+  }
+}

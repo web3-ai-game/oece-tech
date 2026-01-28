@@ -1,0 +1,137 @@
+{
+  "propositions": [
+    {
+      "id": "1",
+      "text": "The protagonist unexpectedly traverses to a strange land called Male Country.",
+      "level": 1
+    },
+    {
+      "id": "1.1",
+      "text": "The protagonist finds himself in unfamiliar surroundings with unique customs and interpersonal dynamics.",
+      "level": 2
+    },
+    {
+      "id": "2",
+      "text": "Male Country is a male-dominated society where women are rare and considered treasures.",
+      "level": 1
+    },
+    {
+      "id": "2.1",
+      "text": "Men handle hunting, farming, and defense, while women are protected and rarely appear in public.",
+      "level": 2
+    },
+    {
+      "id": "3",
+      "text": "The protagonist faces a crisis during a hunting trip, encountering an enemy tribe.",
+      "level": 1
+    },
+    {
+      "id": "3.1",
+      "text": "After surviving the attack, the protagonist is accepted as a member of the village.",
+      "level": 2
+    },
+    {
+      "id": "4",
+      "text": "The protagonist befriends a local named A Shi, who teaches survival skills and mentions a legendary artifact.",
+      "level": 1
+    },
+    {
+      "id": "4.1",
+      "text": "A Shi describes the artifact as a source of immense power, hidden in the mountains and guarded by a beast.",
+      "level": 2
+    },
+    {
+      "id": "5",
+      "text": "The protagonist and A Shi embark on a journey to find the artifact in the mountains.",
+      "level": 1
+    },
+    {
+      "id": "5.1",
+      "text": "They face numerous challenges, including wild beasts and harsh environments, before locating the artifact in a cave.",
+      "level": 2
+    },
+    {
+      "id": "6",
+      "text": "The artifact grants the protagonist extraordinary powers, healing wounds and restoring energy.",
+      "level": 1
+    },
+    {
+      "id": "6.1",
+      "text": "A Shi warns that great power comes with great responsibility.",
+      "level": 2
+    },
+    {
+      "id": "7",
+      "text": "Upon returning, the protagonist is revered as a 'Holy Envoy' and takes on a leadership role in the village.",
+      "level": 1
+    },
+    {
+      "id": "7.1",
+      "text": "Despite the new role, the protagonist remains determined to find a way back to the original world.",
+      "level": 2
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Male Country",
+      "frequency": 10,
+      "context": "A male-dominated society where women are rare and treasured."
+    },
+    {
+      "name": "Artifact",
+      "frequency": 6,
+      "context": "A legendary object with immense power, hidden in the mountains."
+    },
+    {
+      "name": "Protagonist",
+      "frequency": 15,
+      "context": "The central character who traverses to Male Country and seeks to return home."
+    },
+    {
+      "name": "A Shi",
+      "frequency": 5,
+      "context": "A local friend who aids the protagonist in survival and the quest for the artifact."
+    },
+    {
+      "name": "Village",
+      "frequency": 8,
+      "context": "The community in Male Country where the protagonist initially integrates."
+    }
+  ],
+  "relations": [
+    {
+      "source": "Male Country",
+      "target": "Protagonist",
+      "type": "contains"
+    },
+    {
+      "source": "Protagonist",
+      "target": "A Shi",
+      "type": "allied_with"
+    },
+    {
+      "source": "Protagonist",
+      "target": "Artifact",
+      "type": "seeks"
+    },
+    {
+      "source": "Artifact",
+      "target": "Male Country",
+      "type": "located_in"
+    },
+    {
+      "source": "Village",
+      "target": "Male Country",
+      "type": "part_of"
+    }
+  ],
+  "hierarchy": {
+    "main_topics": [
+      "Unexpected Traversal",
+      "Cultural Adaptation in Male Country",
+      "Quest for the Artifact",
+      "Leadership and Responsibility"
+    ],
+    "structure": "The document follows a linear narrative structure, progressing from the protagonist's arrival in Male Country, through cultural integration and challenges, to a quest for a powerful artifact and eventual leadership role."
+  }
+}

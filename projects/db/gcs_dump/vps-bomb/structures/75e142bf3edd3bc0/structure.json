@@ -1,0 +1,335 @@
+{
+  "propositions": [
+    {
+      "id": "1",
+      "text": "Louis Creed is a doctor who moves with his family to Ludlow, Maine.",
+      "level": 1
+    },
+    {
+      "id": "1.1",
+      "text": "His family includes his wife Rachel, daughter Ellie, and son Gage.",
+      "level": 2
+    },
+    {
+      "id": "1.2",
+      "text": "They also bring their cat, Winston Churchill (Churchill).",
+      "level": 2
+    },
+    {
+      "id": "2",
+      "text": "The family encounters their neighbor, Jud Crandall, shortly after arriving.",
+      "level": 1
+    },
+    {
+      "id": "2.1",
+      "text": "Jud Crandall is an elderly and wise man who offers assistance.",
+      "level": 2
+    },
+    {
+      "id": "2.2",
+      "text": "Jud helps them with a bee sting on Gage and provides them with keys to their new house.",
+      "level": 2
+    },
+    {
+      "id": "3",
+      "text": "Louis discovers a pet cemetery behind their house.",
+      "level": 1
+    },
+    {
+      "id": "3.1",
+      "text": "Jud explains that the pet cemetery is used by local children to bury their pets.",
+      "level": 2
+    },
+    {
+      "id": "4",
+      "text": "The pet cemetery holds a mysterious and potentially dangerous power.",
+      "level": 1
+    },
+    {
+      "id": "4.1",
+      "text": "Louis's cat, Churchill, is run over by a truck and buried in the pet cemetery.",
+      "level": 2
+    },
+    {
+      "id": "4.2",
+      "text": "Churchill returns from the dead, but is changed and malevolent.",
+      "level": 2
+    },
+    {
+      "id": "5",
+      "text": "Tragedy strikes when Gage also dies in an accident.",
+      "level": 1
+    },
+    {
+      "id": "5.1",
+      "text": "Despite Jud's warnings, Louis buries Gage in the pet cemetery.",
+      "level": 2
+    },
+    {
+      "id": "5.2",
+      "text": "Gage also returns, but as a monstrous and evil entity.",
+      "level": 2
+    },
+    {
+      "id": "6",
+      "text": "Louis is forced to confront the consequences of his actions.",
+      "level": 1
+    },
+    {
+      "id": "6.1",
+      "text": "He realizes the true horror of the pet cemetery's power.",
+      "level": 2
+    },
+    {
+      "id": "6.2",
+      "text": "Louis must make a desperate attempt to undo the unnatural resurrection.",
+      "level": 2
+    },
+    {
+      "id": "7",
+      "text": "The story explores themes of grief, loss, and the limits of human intervention in the natural order.",
+      "level": 1
+    },
+    {
+      "id": "7.1",
+      "text": "The concept of 'home' and belonging is also a significant theme.",
+      "level": 2
+    },
+    {
+      "id": "8",
+      "text": "The narrative is structured into chapters, each detailing a part of the family's experience and the unfolding events.",
+      "level": 1
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Louis Creed",
+      "frequency": 30,
+      "context": "The protagonist, a doctor who moves his family to Ludlow."
+    },
+    {
+      "name": "Pet Cemetery",
+      "frequency": 25,
+      "context": "A mysterious location with the power to bring the dead back to life."
+    },
+    {
+      "name": "Jud Crandall",
+      "frequency": 20,
+      "context": "The elderly and knowledgeable neighbor who warns Louis about the pet cemetery."
+    },
+    {
+      "name": "Rachel Creed",
+      "frequency": 15,
+      "context": "Louis's wife, who is concerned about the move and the events that unfold."
+    },
+    {
+      "name": "Ellie Creed",
+      "frequency": 15,
+      "context": "Louis and Rachel's daughter, who is initially excited about the new home."
+    },
+    {
+      "name": "Gage Creed",
+      "frequency": 15,
+      "context": "Louis and Rachel's young son, who becomes a victim of the pet cemetery's power."
+    },
+    {
+      "name": "Churchill (cat)",
+      "frequency": 10,
+      "context": "The family's pet cat, whose resurrection is the first indication of the pet cemetery's influence."
+    },
+    {
+      "name": "Ludlow, Maine",
+      "frequency": 10,
+      "context": "The town where the Creed family moves and where the story takes place."
+    },
+    {
+      "name": "Death",
+      "frequency": 10,
+      "context": "A central theme, explored through the loss of family members and pets."
+    },
+    {
+      "name": "Resurrection",
+      "frequency": 10,
+      "context": "The unnatural return of the dead, a core element of the plot."
+    },
+    {
+      "name": "Grief",
+      "frequency": 5,
+      "context": "The emotional response of the characters to loss."
+    },
+    {
+      "name": "Family",
+      "frequency": 5,
+      "context": "The central unit of the story, facing extraordinary challenges."
+    },
+    {
+      "name": "Home",
+      "frequency": 5,
+      "context": "The search for belonging and comfort in a new environment."
+    },
+    {
+      "name": "Foreshadowing",
+      "frequency": 5,
+      "context": "Hints of future tragic events woven into the narrative."
+    },
+    {
+      "name": "Horror",
+      "frequency": 5,
+      "context": "The genre of the story, characterized by fear and the supernatural."
+    },
+    {
+      "name": "Natural Order",
+      "frequency": 5,
+      "context": "The established order of life and death, which is disrupted."
+    },
+    {
+      "name": "Warning",
+      "frequency": 5,
+      "context": "Jud's repeated advice to Louis about not disturbing the pet cemetery."
+    },
+    {
+      "name": "Truck",
+      "frequency": 5,
+      "context": "An instrument of death for Churchill and Gage."
+    },
+    {
+      "name": "Monster",
+      "frequency": 5,
+      "context": "The transformed state of the resurrected characters."
+    },
+    {
+      "name": "Consequences",
+      "frequency": 5,
+      "context": "The inevitable repercussions of Louis's actions."
+    }
+  ],
+  "relations": [
+    {
+      "source": "Louis Creed",
+      "target": "Doctor",
+      "type": "is_a"
+    },
+    {
+      "source": "Louis Creed",
+      "target": "Rachel Creed",
+      "type": "spouse_of"
+    },
+    {
+      "source": "Louis Creed",
+      "target": "Ellie Creed",
+      "type": "parent_of"
+    },
+    {
+      "source": "Louis Creed",
+      "target": "Gage Creed",
+      "type": "parent_of"
+    },
+    {
+      "source": "Louis Creed",
+      "target": "Jud Crandall",
+      "type": "neighbor_of"
+    },
+    {
+      "source": "Jud Crandall",
+      "target": "Pet Cemetery",
+      "type": "knows_about"
+    },
+    {
+      "source": "Pet Cemetery",
+      "target": "Resurrection",
+      "type": "enables"
+    },
+    {
+      "source": "Churchill (cat)",
+      "target": "Pet Cemetery",
+      "type": "buried_in"
+    },
+    {
+      "source": "Churchill (cat)",
+      "target": "Resurrection",
+      "type": "undergoes"
+    },
+    {
+      "source": "Gage Creed",
+      "target": "Accident",
+      "type": "victim_of"
+    },
+    {
+      "source": "Gage Creed",
+      "target": "Pet Cemetery",
+      "type": "buried_in"
+    },
+    {
+      "source": "Gage Creed",
+      "target": "Resurrection",
+      "type": "undergoes"
+    },
+    {
+      "source": "Resurrection",
+      "target": "Monster",
+      "type": "results_in"
+    },
+    {
+      "source": "Louis Creed",
+      "target": "Confronts",
+      "type": "action"
+    },
+    {
+      "source": "Confronts",
+      "target": "Consequences",
+      "type": "of"
+    },
+    {
+      "source": "Grief",
+      "target": "Loss",
+      "type": "related_to"
+    },
+    {
+      "source": "Family",
+      "target": "Challenges",
+      "type": "faces"
+    },
+    {
+      "source": "Home",
+      "target": "Belonging",
+      "type": "theme"
+    },
+    {
+      "source": "Foreshadowing",
+      "target": "Tragic events",
+      "type": "hints_at"
+    },
+    {
+      "source": "Horror",
+      "target": "Supernatural",
+      "type": "characterized_by"
+    },
+    {
+      "source": "Natural Order",
+      "target": "Disrupted",
+      "type": "is"
+    },
+    {
+      "source": "Jud Crandall",
+      "target": "Warning",
+      "type": "gives"
+    },
+    {
+      "source": "Truck",
+      "target": "Death",
+      "type": "causes"
+    }
+  ],
+  "hierarchy": {
+    "main_topics": [
+      "Introduction of the Creed Family and New Home",
+      "Encounter with Jud Crandall and the Pet Cemetery",
+      "The First Death and Resurrection (Churchill)",
+      "The Second Death and Resurrection (Gage)",
+      "Confrontation and Consequences",
+      "Thematic Exploration",
+      "Narrative Structure"
+    ],
+    "structure": "The document is structured as a narrative with distinct chapters (宠物公墓一 through 宠物公墓八), progressing chronologically through the Creed family's experiences and the unfolding supernatural events. Each chapter builds upon the previous one, introducing new characters, escalating the stakes, and deepening the exploration of themes."
+  }
+}

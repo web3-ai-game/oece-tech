@@ -1,0 +1,106 @@
+{
+  "propositions": [
+    {
+      "id": "1",
+      "text": "Dialogue about plans and a potential relationship.",
+      "level": 1
+    },
+    {
+      "id": "1.1",
+      "text": "Initial exchange about returning and going somewhere.",
+      "level": 2
+    },
+    {
+      "id": "1.2",
+      "text": "Decision to wander around.",
+      "level": 2
+    },
+    {
+      "id": "1.3",
+      "text": "Suggestion to wander together.",
+      "level": 2
+    },
+    {
+      "id": "1.4",
+      "text": "Hesitation and questioning of suitability.",
+      "level": 2
+    },
+    {
+      "id": "1.5",
+      "text": "Reference to a familial relationship.",
+      "level": 3
+    },
+    {
+      "id": "1.6",
+      "text": "Agreement to something.",
+      "level": 2
+    },
+    {
+      "id": "1.7",
+      "text": "Expression of gratitude and its dismissal.",
+      "level": 2
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Return",
+      "frequency": 1,
+      "context": "Discussing where to go after a conversation."
+    },
+    {
+      "name": "Wander",
+      "frequency": 1,
+      "context": "A casual plan for after parting ways."
+    },
+    {
+      "name": "Together",
+      "frequency": 1,
+      "context": "A suggestion made to accompany someone who plans to wander."
+    },
+    {
+      "name": "Suitability",
+      "frequency": 1,
+      "context": "A question raised about the appropriateness of a relationship."
+    },
+    {
+      "name": "Relationship (familial)",
+      "frequency": 1,
+      "context": "Mentioned as a bond between the speakers."
+    },
+    {
+      "name": "Agreement",
+      "frequency": 1,
+      "context": "Confirmed through repeated dialogue."
+    },
+    {
+      "name": "Gratitude",
+      "frequency": 1,
+      "context": "Expressed and then dismissed multiple times."
+    }
+  ],
+  "relations": [
+    {
+      "source": "Wander",
+      "target": "Together",
+      "type": "implies"
+    },
+    {
+      "source": "Suitability",
+      "target": "Relationship (familial)",
+      "type": "is_related_to"
+    },
+    {
+      "source": "Agreement",
+      "target": "Gratitude",
+      "type": "often_precedes"
+    }
+  ],
+  "hierarchy": {
+    "main_topics": [
+      "Dialogue",
+      "Interpersonal relationships",
+      "Plans"
+    ],
+    "structure": "The document presents a conversational exchange, primarily focused on the interactions and feelings between two individuals. The structure is defined by spoken dialogue, with implicit actions and emotional states conveyed through speech patterns and pauses."
+  }
+}

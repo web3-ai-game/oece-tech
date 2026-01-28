@@ -7,9 +7,9 @@
     "getStarted": "Get Started"
   },
   "hero": {
-    "title": "AI-Powered",
-    "highlight": "Knowledge Engine",
-    "subtitle": "Chat with Gemini AI, explore knowledge base, unlock the future."
+    "title": "AI Entertainment",
+    "highlight": "Creative Studio",
+    "subtitle": "Gemini Comics · Novel Generator · Past Life Analysis · MCP Prompts Library"
   },
   "chat": {
     "placeholder": "Ask me anything...",
@@ -20,17 +20,21 @@
     "docs": "Docs"
   },
   "features": {
-    "gemini": {
-      "title": "Gemini Pro",
-      "desc": "Unlimited Lite"
+    "comic": {
+      "title": "AI Comics",
+      "desc": "Story to Panels"
     },
-    "chat": {
-      "title": "Smart Chat",
-      "desc": "Multi-modal"
+    "novel": {
+      "title": "Novel Gen",
+      "desc": "Auto Chapters"
     },
-    "beta": {
-      "title": "Beta Free",
-      "desc": "All features"
+    "pastlife": {
+      "title": "Past Life",
+      "desc": "AI Divination"
+    },
+    "prompts": {
+      "title": "Prompts",
+      "desc": "CN/EN MCP"
     }
   },
   "footer": {

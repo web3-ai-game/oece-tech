@@ -1,0 +1,124 @@
+{
+  "propositions": [
+    {
+      "id": "1",
+      "text": "墨蛇狂情",
+      "level": 1
+    },
+    {
+      "id": "1.1",
+      "text": "第一章",
+      "level": 2
+    },
+    {
+      "id": "1.1.1",
+      "text": "“那个……我是蛇王。蛇王……”",
+      "level": 3
+    },
+    {
+      "id": "1.1.2",
+      "text": "“你们几个，快跟上来。别磨磨蹭蹭的。”",
+      "level": 3
+    },
+    {
+      "id": "1.1.3",
+      "text": "“是，蛇王。”",
+      "level": 3
+    },
+    {
+      "id": "1.1.4",
+      "text": "“嗯！嗯！我们马上就来。”",
+      "level": 3
+    },
+    {
+      "id": "1.1.5",
+      "text": "“我们这就来。”",
+      "level": 3
+    },
+    {
+      "id": "1.1.6",
+      "text": "“各位，这有一批新人，是跟风先生的，风先生，他们几个跟您。”",
+      "level": 3
+    },
+    {
+      "id": "1.1.7",
+      "text": "“嗯！我知道了。”",
+      "level": 3
+    },
+    {
+      "id": "1.1.8",
+      "text": "“我们这就走。”",
+      "level": 3
+    },
+    {
+      "id": "1.1.9",
+      "text": "“蛇王，还有这么多的事，你怎么一个人跟我们来。”",
+      "level": 3
+    },
+    {
+      "id": "1.1.10",
+      "text": "“是啊。蛇王。”",
+      "level": 3
+    },
+    {
+      "id": "1.1.11",
+      "text": "“各位，这有一批新人，是跟风先生的，风先生，他们几个跟您。”",
+      "level": 3
+    },
+    {
+      "id": "1.1.12",
+      "text": "“嗯！我知道了。”",
+      "level": 3
+    },
+    {
+      "id": "1.1.13",
+      "text": "“嗯！我知道了。”",
+      "level": 3
+    },
+    {
+      "id": "1.1.14",
+      "text": "“我知道了。”",
+      "level": 3
+    }
+  ],
+  "concepts": [
+    {
+      "name": "蛇王",
+      "frequency": 5,
+      "context": "Used by characters to refer to a person and in dialogue."
+    },
+    {
+      "name": "新人",
+      "frequency": 2,
+      "context": "Introduced as a group following a '风先生'."
+    },
+    {
+      "name": "风先生",
+      "frequency": 3,
+      "context": "A person to whom the '新人' are assigned."
+    }
+  ],
+  "relations": [
+    {
+      "source": "蛇王",
+      "target": "新人",
+      "type": "introduces"
+    },
+    {
+      "source": "风先生",
+      "target": "新人",
+      "type": "is_assigned"
+    },
+    {
+      "source": "蛇王",
+      "target": "风先生",
+      "type": "introduces_to"
+    }
+  ],
+  "hierarchy": {
+    "main_topics": [
+      "墨蛇狂情"
+    ],
+    "structure": "The document is structured with a main title '墨蛇狂情' followed by chapters and sections. The content appears to be dialogue within a narrative."
+  }
+}

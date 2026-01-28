@@ -1,0 +1,531 @@
+{
+  "propositions": [
+    {
+      "id": "1",
+      "text": "An introduction to the characters and the setting, focusing on Mrs. Angkatell's active mind and her anticipation of a weekend gathering.",
+      "level": 1
+    },
+    {
+      "id": "1.1",
+      "text": "Mrs. Angkatell wakes up early and immediately starts thinking about the upcoming weekend and the guests.",
+      "level": 2
+    },
+    {
+      "id": "1.1.1",
+      "text": "She decides to discuss her thoughts with her young cousin, Mickey Hardcastle.",
+      "level": 3
+    },
+    {
+      "id": "1.1.2",
+      "text": "Mrs. Angkatell imagines the conversation and Mickey's responses.",
+      "level": 3
+    },
+    {
+      "id": "1.2",
+      "text": "Mrs. Angkatell enters Mickey's room and initiates the conversation.",
+      "level": 2
+    },
+    {
+      "id": "1.3",
+      "text": "The conversation reveals Mrs. Angkatell's eccentricities and her anxieties about the weekend guests.",
+      "level": 2
+    },
+    {
+      "id": "1.3.1",
+      "text": "She expresses concern about 'trouble' during the weekend and mentions past incidents, like the 'round game' with Gerda.",
+      "level": 3
+    },
+    {
+      "id": "1.3.2",
+      "text": "She discusses Gerda's lack of intelligence despite her beauty, and her own behavior regarding the invitation.",
+      "level": 3
+    },
+    {
+      "id": "1.3.3",
+      "text": "Mickey points out the early hour, and Mrs. Angkatell dismisses it, highlighting her unconventional nature.",
+      "level": 3
+    },
+    {
+      "id": "1.4",
+      "text": "Mickey reflects on Mrs. Angkatell's charm and the reason for her influence on others.",
+      "level": 2
+    },
+    {
+      "id": "1.5",
+      "text": "Mrs. Angkatell continues to voice her worries about the guests and the potential social difficulties.",
+      "level": 2
+    },
+    {
+      "id": "1.5.1",
+      "text": "She names some guests: John and Gerda, Henrietta, and David Angkatell.",
+      "level": 3
+    },
+    {
+      "id": "1.5.2",
+      "text": "She describes the guests' personalities and the challenges they might present.",
+      "level": 3
+    },
+    {
+      "id": "1.5.3",
+      "text": "Henrietta is highlighted as a stabilizing and helpful presence.",
+      "level": 3
+    },
+    {
+      "id": "1.5.4",
+      "text": "David Angkatell, recently returned from university, is described as a typical intelligent but difficult young man.",
+      "level": 3
+    },
+    {
+      "id": "1.5.5",
+      "text": "Henrietta's artistic work is mentioned as a potential influence on David.",
+      "level": 3
+    },
+    {
+      "id": "1.6",
+      "text": "The arrival of Edward is revealed as another source of anxiety for Mrs. Angkatell.",
+      "level": 2
+    },
+    {
+      "id": "1.6.1",
+      "text": "Edward is described as sensitive, and his invitation was prompted by his own request.",
+      "level": 3
+    },
+    {
+      "id": "1.6.2",
+      "text": "Mrs. Angkatell wishes Henrietta would marry Edward, noting their compatibility and John's negative influence on Edward.",
+      "level": 3
+    },
+    {
+      "id": "1.7",
+      "text": "Mrs. Angkatell reveals she has invited a detective to dinner as a surprise.",
+      "level": 2
+    },
+    {
+      "id": "1.7.1",
+      "text": "She describes the detective's appearance and a past encounter with him.",
+      "level": 3
+    },
+    {
+      "id": "1.7.2",
+      "text": "She expresses a detached view on the importance of the cause of death.",
+      "level": 3
+    },
+    {
+      "id": "1.8",
+      "text": "Mrs. Angkatell's domestic habits and the involvement of the butler, Gedge, are shown.",
+      "level": 2
+    },
+    {
+      "id": "1.8.1",
+      "text": "She forgets about a boiling kettle, leading to it being ruined, and Gedge discreetly handles the situation.",
+      "level": 3
+    },
+    {
+      "id": "1.9",
+      "text": "The chapter ends with Mrs. Angkatell falling asleep, unaware of the continuous boiling water.",
+      "level": 2
+    },
+    {
+      "id": "2",
+      "text": "Henrietta’s artistic process and internal thoughts as she works on a sculpture of Nausicaa.",
+      "level": 1
+    },
+    {
+      "id": "2.1",
+      "text": "Henrietta is sculpting a girl's head, 'Nausicaa', and is deeply focused on her work.",
+      "level": 2
+    },
+    {
+      "id": "2.1.1",
+      "text": "She is engaged in a conversation with her model, Doris Saunders, but is not fully listening.",
+      "level": 3
+    },
+    {
+      "id": "2.1.2",
+      "text": "Henrietta's internal monologue reveals her artistic perceptions and criticisms of the model's features.",
+      "level": 3
+    },
+    {
+      "id": "2.1.3",
+      "text": "She struggles with a particular part of the sculpture, the eyebrow, feeling she is overworking the bone structure.",
+      "level": 3
+    },
+    {
+      "id": "2.2",
+      "text": "Doris Saunders continues to talk about her personal troubles, including a man giving her a bracelet.",
+      "level": 2
+    },
+    {
+      "id": "2.3",
+      "text": "Henrietta's focus on her art is described as a way to shut out distractions, a skill honed over years.",
+      "level": 2
+    },
+    {
+      "id": "2.4",
+      "text": "Henrietta has a moment of frantic inspiration, realizing she is about to achieve a breakthrough in her sculpture.",
+      "level": 2
+    },
+    {
+      "id": "2.5",
+      "text": "The sculpture of Nausicaa is driven by Henrietta's desire for something that sparks her imagination.",
+      "level": 2
+    },
+    {
+      "id": "2.6",
+      "text": "Henrietta recalls seeing a girl on a bus whose face inspired her vision of Nausicaa.",
+      "level": 2
+    },
+    {
+      "id": "2.7",
+      "text": "She follows the girl, Doris Saunders, and approaches her to ask if she can model for her.",
+      "level": 2
+    },
+    {
+      "id": "2.7.1",
+      "text": "Doris is surprised but agrees, requesting professional fees.",
+      "level": 3
+    },
+    {
+      "id": "2.8",
+      "text": "Henrietta feels a sense of relief and fulfillment after securing the model.",
+      "level": 2
+    },
+    {
+      "id": "2.9",
+      "text": "Henrietta completes the modeling session and reflects on the process.",
+      "level": 2
+    },
+    {
+      "id": "2.9.1",
+      "text": "She realizes the sculpture is not a likeness of Doris but an interpretation of 'Nausicaa'.",
+      "level": 3
+    },
+    {
+      "id": "2.9.2",
+      "text": "The sculpture captures the essence of a 'poetic' girl rather than the physical appearance of Doris.",
+      "level": 3
+    },
+    {
+      "id": "2.9.3",
+      "text": "Henrietta dismisses Doris, feeling her own creative energy has been replenished.",
+      "level": 3
+    },
+    {
+      "id": "2.10",
+      "text": "Henrietta's thoughts turn to John and her anticipation of visiting Angkatell House.",
+      "level": 2
+    },
+    {
+      "id": "2.11",
+      "text": "She feels revitalized and ready for the upcoming weekend.",
+      "level": 2
+    },
+    {
+      "id": "2.12",
+      "text": "Upon re-examining the sculpture, Henrietta realizes she has inadvertently incorporated the model's negative traits.",
+      "level": 2
+    },
+    {
+      "id": "2.12.1",
+      "text": "The 'vacant eyes' are present but tinged with 'vulgar malice'.",
+      "level": 3
+    },
+    {
+      "id": "2.12.2",
+      "text": "She recognizes that Doris's 'cheapness, malice, and vulgarity' have influenced her work.",
+      "level": 3
+    },
+    {
+      "id": "2.13",
+      "text": "Distressed, Henrietta destroys the sculpture of Nausicaa.",
+      "level": 2
+    },
+    {
+      "id": "2.13.1",
+      "text": "She reflects on the transient nature of inspiration and creation.",
+      "level": 3
+    },
+    {
+      "id": "2.14",
+      "text": "She contemplates the philosophical implications of individual existence and influence.",
+      "level": 2
+    },
+    {
+      "id": "3",
+      "text": "Dr. John Christoe's internal monologue about his work and his feelings of weariness and dissatisfaction.",
+      "level": 1
+    },
+    {
+      "id": "3.1",
+      "text": "Dr. Christoe is seeing his last patient of the morning, a woman who seems to be hypochondriac.",
+      "level": 2
+    },
+    {
+      "id": "3.1.1",
+      "text": "He prescribes a medication but feels it will only be a temporary fix for her vague ailments.",
+      "level": 3
+    },
+    {
+      "id": "3.1.2",
+      "text": "He reflects on the repetitive nature of his work with unwell women.",
+      "level": 3
+    },
+    {
+      "id": "3.2",
+      "text": "He feels a deep sense of weariness and boredom with his profession.",
+      "level": 2
+    },
+    {
+      "id": "3.3",
+      "text": "His thoughts turn to Mrs. Crabtree and the hospital, contrasting his current fatigue with a sense of purpose found in helping others.",
+      "level": 2
+    },
+    {
+      "id": "3.4",
+      "text": "He walks the patient to the door, offering encouragement, but immediately forgets about her.",
+      "level": 2
+    },
+    {
+      "id": "3.5",
+      "text": "His mind starts to anticipate the weekend at Angkatell House, with its promise of relaxation and time with Henrietta.",
+      "level": 2
+    },
+    {
+      "id": "3.6",
+      "text": "He delays seeing his last patient, feeling an increasing sense of frustration and anger.",
+      "level": 2
+    },
+    {
+      "id": "3.6.1",
+      "text": "He is annoyed by his wife, Gerda's, submissiveness and patience, which he finds irritating.",
+      "level": 3
+    },
+    {
+      "id": "3.6.2",
+      "text": "He contrasts Gerda with Henrietta, who is honest and direct, even when it is difficult.",
+      "level": 3
+    },
+    {
+      "id": "3.6.3",
+      "text": "He recalls a conversation with Henrietta about truth and pleasing others, highlighting their differing philosophies.",
+      "level": 3
+    },
+    {
+      "id": "3.7",
+      "text": "His secretary, Beryl Collins, reminds him of his remaining patient.",
+      "level": 2
+    },
+    {
+      "id": "3.7.1",
+      "text": "He observes Beryl's competence and lack of personal engagement, contrasting with the ideal of a devoted secretary.",
+      "level": 3
+    },
+    {
+      "id": "3.7.2",
+      "text": "He is bothered by Beryl's objective assessment of him, highlighting his selfishness and inconsideration.",
+      "level": 3
+    },
+    {
+      "id": "3.8",
+      "text": "He feels a deep-seated restlessness and a desire to escape.",
+      "level": 2
+    },
+    {
+      "id": "3.9",
+      "text": "The thought 'I want to go home' surfaces, surprising him as he has never truly had a home.",
+      "level": 2
+    },
+    {
+      "id": "3.10",
+      "text": "This leads him to recall his past in St. Miguel, a period he had suppressed.",
+      "level": 2
+    },
+    {
+      "id": "3.10.1",
+      "text": "He remembers his relationship with Veronica and how he broke off their engagement to pursue his career and marry Gerda.",
+      "level": 3
+    },
+    {
+      "id": "3.11",
+      "text": "He finally sees Mrs. Forrest, reflecting on the superficiality of wealthy patients and the recurring themes of imagined illnesses.",
+      "level": 2
+    },
+    {
+      "id": "3.12",
+      "text": "He concludes that his current state of dissatisfaction stems from a deeper issue than overwork.",
+      "level": 2
+    },
+    {
+      "id": "3.13",
+      "text": "He reiterates his desire to 'go home', questioning the meaning of home and his past choices.",
+      "level": 2
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Mrs. Angkatell",
+      "frequency": 20,
+      "context": "Character introduced in Chapter 1, described as having an active mind, eccentric, and anxious about upcoming guests."
+    },
+    {
+      "name": "Mickey Hardcastle",
+      "frequency": 7,
+      "context": "Mrs. Angkatell's young cousin, a sounding board for her thoughts and anxieties in Chapter 1."
+    },
+    {
+      "name": "Angkatell House",
+      "frequency": 5,
+      "context": "The setting for the upcoming weekend gathering, described as a pleasant place by John Christoe."
+    },
+    {
+      "name": "Weekend Guests",
+      "frequency": 15,
+      "context": "A central theme in Chapter 1, with specific guests like John, Gerda, Henrietta, David, and Edward being discussed and their potential interactions analyzed."
+    },
+    {
+      "name": "Henrietta",
+      "frequency": 18,
+      "context": "A key character, depicted as a talented sculptor in Chapter 2, and later as a wise and honest individual by John Christoe in Chapter 3."
+    },
+    {
+      "name": "Sculpture",
+      "frequency": 10,
+      "context": "Henrietta's artistic pursuit, specifically the sculpture of 'Nausicaa', which becomes a focal point of internal conflict and realization in Chapter 2."
+    },
+    {
+      "name": "Nausicaa",
+      "frequency": 5,
+      "context": "The subject of Henrietta's sculpture, representing an idealized concept rather than a literal portrait."
+    },
+    {
+      "name": "Doris Saunders",
+      "frequency": 7,
+      "context": "The model for Henrietta's 'Nausicaa' sculpture, whose conversation reveals her shallow and malicious nature, ultimately influencing the artwork."
+    },
+    {
+      "name": "John Christoe",
+      "frequency": 15,
+      "context": "A doctor whose internal monologue dominates Chapter 3, expressing weariness with his profession and a desire for a different life."
+    },
+    {
+      "name": "Weariness",
+      "frequency": 8,
+      "context": "A prominent theme for John Christoe, stemming from his profession and a deeper existential dissatisfaction."
+    },
+    {
+      "name": "Gerda",
+      "frequency": 6,
+      "context": "John Christoe's wife, whose submissiveness is a source of irritation for him, contrasting with Henrietta's directness."
+    },
+    {
+      "name": "Beryl Collins",
+      "frequency": 3,
+      "context": "John Christoe's secretary, depicted as competent and objective, whose evaluations of him reveal his flaws."
+    },
+    {
+      "name": "Home",
+      "frequency": 4,
+      "context": "A concept that surfaces for John Christoe, representing an idealized place he never had and a desire for escape."
+    },
+    {
+      "name": "St. Miguel",
+      "frequency": 2,
+      "context": "A past location significant to John Christoe's history, associated with Veronica and a turning point in his life."
+    },
+    {
+      "name": "Veronica",
+      "frequency": 2,
+      "context": "John Christoe's former fiancée, representing a path not taken and a different life he rejected."
+    },
+    {
+      "name": "Detective",
+      "frequency": 1,
+      "context": "An unexpected guest invited by Mrs. Angkatell, hinting at potential mystery or intrigue in the narrative."
+    },
+    {
+      "name": "Gedge",
+      "frequency": 2,
+      "context": "The butler at Angkatell House, who discreetly handles Mrs. Angkatell's forgetfulness, indicating a structured household despite its eccentricities."
+    }
+  ],
+  "relations": [
+    {
+      "source": "Mrs. Angkatell",
+      "target": "Mickey Hardcastle",
+      "type": "conversation_partner"
+    },
+    {
+      "source": "Mrs. Angkatell",
+      "target": "Weekend Guests",
+      "type": "anticipates"
+    },
+    {
+      "source": "Henrietta",
+      "target": "Scuplture",
+      "type": "creates"
+    },
+    {
+      "source": "Henrietta",
+      "target": "Doris Saunders",
+      "type": "models"
+    },
+    {
+      "source": "Doris Saunders",
+      "target": "Nausicaa",
+      "type": "inspires"
+    },
+    {
+      "source": "Henrietta",
+      "target": "Nausicaa",
+      "type": "creates"
+    },
+    {
+      "source": "John Christoe",
+      "target": "Weariness",
+      "type": "experiences"
+    },
+    {
+      "source": "John Christoe",
+      "target": "Henrietta",
+      "type": "admires"
+    },
+    {
+      "source": "John Christoe",
+      "target": "Gerda",
+      "type": "married_to"
+    },
+    {
+      "source": "John Christoe",
+      "target": "Home",
+      "type": "desires"
+    },
+    {
+      "source": "John Christoe",
+      "target": "Veronica",
+      "type": "rejected"
+    },
+    {
+      "source": "Angkatell House",
+      "target": "Weekend Guests",
+      "type": "hosts"
+    },
+    {
+      "source": "Gedge",
+      "target": "Mrs. Angkatell",
+      "type": "manages_forgetfulness"
+    },
+    {
+      "source": "Henrietta",
+      "target": "John Christoe",
+      "type": "potential_love_interest"
+    }
+  ],
+  "hierarchy": {
+    "main_topics": [
+      "Character Introductions and Setting the Scene (Chapter 1)",
+      "Artistic Process and Internal Conflict (Chapter 2)",
+      "Professional Dissatisfaction and Existential Reflection (Chapter 3)"
+    ],
+    "structure": "The document is structured into three chapters, each focusing on different characters and their internal states. Chapter 1 introduces the main household and the anticipation of guests. Chapter 2 delves into the creative process and moral implications for Henrietta. Chapter 3 explores the weariness and past regrets of Dr. John Christoe."
+  }
+}

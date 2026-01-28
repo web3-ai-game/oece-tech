@@ -1,0 +1,100 @@
+{
+  "propositions": [
+    {
+      "id": "1",
+      "text": "The story revolves around a female-dominated society with complex interpersonal relationships and survival struggles.",
+      "level": 1
+    },
+    {
+      "id": "1.1",
+      "text": "Central characters navigate personal and societal challenges in a harsh, often unforgiving environment.",
+      "level": 2
+    },
+    {
+      "id": "1.2",
+      "text": "Themes of love, betrayal, and power dynamics are explored through character interactions.",
+      "level": 2
+    },
+    {
+      "id": "2",
+      "text": "The narrative includes elements of fantasy or historical settings with unique cultural norms.",
+      "level": 1
+    },
+    {
+      "id": "2.1",
+      "text": "Gender roles are reversed or redefined, focusing on female authority and male subordination.",
+      "level": 2
+    },
+    {
+      "id": "3",
+      "text": "Survival and personal growth are recurring motifs, depicted through physical and emotional trials.",
+      "level": 1
+    },
+    {
+      "id": "3.1",
+      "text": "Characters face external threats like harsh weather and internal conflicts like emotional turmoil.",
+      "level": 2
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Female Dominance",
+      "frequency": 10,
+      "context": "Central theme of societal structure where women hold power over men."
+    },
+    {
+      "name": "Survival",
+      "frequency": 8,
+      "context": "Characters struggle with harsh environments and personal challenges."
+    },
+    {
+      "name": "Love and Betrayal",
+      "frequency": 6,
+      "context": "Emotional dynamics driving character relationships and conflicts."
+    },
+    {
+      "name": "Power Dynamics",
+      "frequency": 5,
+      "context": "Interactions reflecting authority, submission, and resistance."
+    },
+    {
+      "name": "Cultural Norms",
+      "frequency": 4,
+      "context": "Unique societal rules and gender roles shaping behavior."
+    }
+  ],
+  "relations": [
+    {
+      "source": "Female Dominance",
+      "target": "Power Dynamics",
+      "type": "implies"
+    },
+    {
+      "source": "Female Dominance",
+      "target": "Cultural Norms",
+      "type": "part_of"
+    },
+    {
+      "source": "Survival",
+      "target": "Love and Betrayal",
+      "type": "interacts_with"
+    },
+    {
+      "source": "Power Dynamics",
+      "target": "Love and Betrayal",
+      "type": "influences"
+    },
+    {
+      "source": "Cultural Norms",
+      "target": "Survival",
+      "type": "constrains"
+    }
+  ],
+  "hierarchy": {
+    "main_topics": [
+      "Female-Dominated Society",
+      "Survival and Relationships"
+    ],
+    "structure": "The document is structured as a narrative with episodic progression, focusing on character-driven stories within a broader societal framework, interspersed with dialogue and descriptive passages."
+  }
+}

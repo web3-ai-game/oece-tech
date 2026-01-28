@@ -1,0 +1,138 @@
+{
+  "propositions": [
+    {
+      "id": "1",
+      "text": "Love and romance form the central theme of the narrative.",
+      "level": 1
+    },
+    {
+      "id": "1.1",
+      "text": "Initial meeting and emotional bonding occur in a serene setting.",
+      "level": 2
+    },
+    {
+      "id": "1.2",
+      "text": "Promises of eternal love are made under moonlight.",
+      "level": 2
+    },
+    {
+      "id": "2",
+      "text": "Palace intrigue introduces conflict and danger.",
+      "level": 1
+    },
+    {
+      "id": "2.1",
+      "text": "The female protagonist faces hidden hostility upon entering the palace.",
+      "level": 2
+    },
+    {
+      "id": "2.2",
+      "text": "Power struggles and manipulation emerge as key challenges.",
+      "level": 2
+    },
+    {
+      "id": "3",
+      "text": "Emotional complexity deepens with love and betrayal.",
+      "level": 1
+    },
+    {
+      "id": "3.1",
+      "text": "Love between protagonists grows amidst danger.",
+      "level": 2
+    },
+    {
+      "id": "3.2",
+      "text": "Betrayal by a trusted person causes profound pain.",
+      "level": 2
+    },
+    {
+      "id": "4",
+      "text": "Tragic separation tests the strength of love.",
+      "level": 1
+    },
+    {
+      "id": "4.1",
+      "text": "A life-threatening event leads to a final farewell.",
+      "level": 2
+    },
+    {
+      "id": "4.2",
+      "text": "A promise of reunion in the afterlife is made.",
+      "level": 2
+    },
+    {
+      "id": "5",
+      "text": "Rebirth offers a chance for renewal and reunion.",
+      "level": 1
+    },
+    {
+      "id": "5.1",
+      "text": "The female protagonist is reborn with memories of past life.",
+      "level": 2
+    },
+    {
+      "id": "5.2",
+      "text": "A destined reunion reaffirms eternal love.",
+      "level": 2
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Love",
+      "frequency": 10,
+      "context": "Central theme of emotional bonding and promises between protagonists."
+    },
+    {
+      "name": "Betrayal",
+      "frequency": 3,
+      "context": "Conflict arising from trust broken by close associates."
+    },
+    {
+      "name": "Power",
+      "frequency": 4,
+      "context": "Driving force behind palace intrigue and manipulation."
+    },
+    {
+      "name": "Rebirth",
+      "frequency": 2,
+      "context": "Theme of renewal and second chances in life."
+    },
+    {
+      "name": "Destiny",
+      "frequency": 3,
+      "context": "Belief in fated reunions and predetermined paths."
+    }
+  ],
+  "relations": [
+    {
+      "source": "Love",
+      "target": "Destiny",
+      "type": "implies"
+    },
+    {
+      "source": "Betrayal",
+      "target": "Power",
+      "type": "part_of"
+    },
+    {
+      "source": "Rebirth",
+      "target": "Love",
+      "type": "enables"
+    },
+    {
+      "source": "Power",
+      "target": "Betrayal",
+      "type": "causes"
+    }
+  ],
+  "hierarchy": {
+    "main_topics": [
+      "Love and Romance",
+      "Palace Intrigue",
+      "Betrayal and Pain",
+      "Tragic Separation",
+      "Rebirth and Reunion"
+    ],
+    "structure": "The document follows a chronological narrative structure with five main chapters, each focusing on a distinct phase of the protagonists' journey from initial love to tragic separation and eventual reunion through rebirth."
+  }
+}

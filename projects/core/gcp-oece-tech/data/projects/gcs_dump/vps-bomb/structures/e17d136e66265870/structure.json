@@ -1,0 +1,588 @@
+{
+  "propositions": [
+    {
+      "id": "1",
+      "text": "沐炎坤钰在一片黑暗中醒来，头痛欲裂，身体却像是被掏空了一般无力。",
+      "level": 1
+    },
+    {
+      "id": "1.1",
+      "text": "她挣扎着想要坐起来，却发现双手被束缚着，动弹不得。",
+      "level": 2
+    },
+    {
+      "id": "1.2",
+      "text": "“这是哪里？”她试图开口，声音却干涩沙哑，像是被砂纸打磨过一样。",
+      "level": 2
+    },
+    {
+      "id": "2",
+      "text": "黑暗中，一个身影缓缓逼近。",
+      "level": 1
+    },
+    {
+      "id": "2.1",
+      "text": "随着光线的微弱变化，她终于看清了来人的模样。",
+      "level": 2
+    },
+    {
+      "id": "2.1.1",
+      "text": "那是一个穿着古装的女子，面容姣好，但眼神却冰冷得没有一丝温度。",
+      "level": 3
+    },
+    {
+      "id": "3",
+      "text": "“你醒了？”女子开口，声音带着一丝嘲讽，“醒了就好，免得本宫费心。”",
+      "level": 1
+    },
+    {
+      "id": "4",
+      "text": "“本宫？”沐炎坤钰心中一惊，“你是谁？我为什么在这里？”",
+      "level": 1
+    },
+    {
+      "id": "5",
+      "text": "女子冷笑一声，从怀中取出一物，在沐炎坤钰眼前晃了晃。",
+      "level": 1
+    },
+    {
+      "id": "5.1",
+      "text": "那是一块玉佩，上面雕刻着精美的凤凰图案。",
+      "level": 2
+    },
+    {
+      "id": "6",
+      "text": "“这块玉佩，足以证明你的身份。”女子缓缓说道，“本宫乃是当朝长公主，而你，则是本宫失散多年的妹妹，沐炎坤钰。”",
+      "level": 1
+    },
+    {
+      "id": "7",
+      "text": "“什么？”沐炎坤钰难以置信地瞪大了眼睛，“我……我不是沐炎坤钰！我是……”,",
+      "level": 1
+    },
+    {
+      "id": "8",
+      "text": "她的话还没说完，就被女子打断。",
+      "level": 1
+    },
+    {
+      "id": "9",
+      "text": "“闭嘴！”女子厉声喝道，“在本宫面前，你最好安分守己。否则，本宫有的是办法让你乖乖听话。”",
+      "level": 1
+    },
+    {
+      "id": "10",
+      "text": "女子说完，便转身离开了，留下沐炎坤钰一人在黑暗中，心中充满了恐惧和茫然。",
+      "level": 1
+    },
+    {
+      "id": "10.1",
+      "text": "她到底是谁？为什么会被当作另一个人？",
+      "level": 2
+    },
+    {
+      "id": "11",
+      "text": "接下来的日子，沐炎坤钰在长公主的软禁下度过。",
+      "level": 1
+    },
+    {
+      "id": "11.1",
+      "text": "她被安置在一处偏僻的院落里，衣食无忧，却失去了自由。",
+      "level": 2
+    },
+    {
+      "id": "12",
+      "text": "长公主几乎每天都会来探望她，时而温言软语，时而厉声呵斥，试图让她相信自己就是沐炎坤钰。",
+      "level": 1
+    },
+    {
+      "id": "12.1",
+      "text": "但沐炎坤钰心中始终清楚，她并非此人。",
+      "level": 2
+    },
+    {
+      "id": "13",
+      "text": "“长公主，我真的不是沐炎坤钰。”在一次探访中，沐炎坤钰再次试图辩解，“我叫……我叫……”,",
+      "level": 1
+    },
+    {
+      "id": "14",
+      "text": "她顿了一下，不知道该如何说出自己的真实名字。",
+      "level": 1
+    },
+    {
+      "id": "15",
+      "text": "长公主却只是冷笑：“你以为本宫会相信你这套说辞吗？本宫已经调查清楚了，你就是沐炎坤钰，只是因为某些原因，失去了记忆。”",
+      "level": 1
+    },
+    {
+      "id": "16",
+      "text": "“可是……”",
+      "level": 1
+    },
+    {
+      "id": "17",
+      "text": "“没有可是！”长公主打断她，“本宫只给你一个选择，要么乖乖接受自己的身份，要么……就做好承受一切后果的准备。”",
+      "level": 1
+    },
+    {
+      "id": "18",
+      "text": "长公主说完，便离开了，留下沐炎坤钰一人，心中充满了绝望。",
+      "level": 1
+    },
+    {
+      "id": "19",
+      "text": "日子一天天过去，沐炎坤钰的心中，逃离的念头越来越强烈。",
+      "level": 1
+    },
+    {
+      "id": "19.1",
+      "text": "她开始暗中观察院落里的守卫，寻找逃脱的机会。",
+      "level": 2
+    },
+    {
+      "id": "20",
+      "text": "终于，在一个风雨交加的夜晚，她找到了机会。",
+      "level": 1
+    },
+    {
+      "id": "21",
+      "text": "趁着守卫松懈，她悄悄地溜出了院落。",
+      "level": 1
+    },
+    {
+      "id": "21.1",
+      "text": "一路上，她躲避着巡逻的侍卫，小心翼翼地前进。",
+      "level": 2
+    },
+    {
+      "id": "22",
+      "text": "夜色茫茫，雨水模糊了她的视线，也模糊了她的脚步声。",
+      "level": 1
+    },
+    {
+      "id": "23",
+      "text": "她不知道自己要去哪里，只知道，她必须逃离这个地方。",
+      "level": 1
+    },
+    {
+      "id": "24",
+      "text": "沐炎坤钰一路奔逃，最终来到了一座陌生的城市。",
+      "level": 1
+    },
+    {
+      "id": "25",
+      "text": "这座城市与她记忆中的任何一个地方都不同。",
+      "level": 1
+    },
+    {
+      "id": "25.1",
+      "text": "这里的建筑风格古老而奇特，人们的穿着打扮也十分怪异。",
+      "level": 2
+    },
+    {
+      "id": "26",
+      "text": "她茫然地走在街上，感觉自己仿佛置身于一个梦境之中。",
+      "level": 1
+    },
+    {
+      "id": "27",
+      "text": "“这是哪里？”她喃喃自语。",
+      "level": 1
+    },
+    {
+      "id": "28",
+      "text": "突然，一个声音在耳边响起。",
+      "level": 1
+    },
+    {
+      "id": "29",
+      "text": "“姑娘，你迷路了吗？”",
+      "level": 1
+    },
+    {
+      "id": "30",
+      "text": "沐炎坤钰抬起头，看到一个年轻男子站在她面前，脸上带着善意的笑容。",
+      "level": 1
+    },
+    {
+      "id": "31",
+      "text": "男子自称沐炎君钰，是这座城市的皇子。",
+      "level": 1
+    },
+    {
+      "id": "31.1",
+      "text": "他得知沐炎坤钰的遭遇后，对她产生了极大的同情。",
+      "level": 2
+    },
+    {
+      "id": "32",
+      "text": "“你放心，”沐炎君钰安慰道，“我一定会帮助你。",
+      "level": 1
+    },
+    {
+      "id": "32.1",
+      "text": "我带你回宫，你可以在皇宫里安心地住下。”",
+      "level": 2
+    },
+    {
+      "id": "33",
+      "text": "沐炎坤钰感激地看着他，心中涌起一丝暖意。",
+      "level": 1
+    },
+    {
+      "id": "34",
+      "text": "在沐炎君钰的帮助下，沐炎坤钰成功地在皇宫里安顿了下来。",
+      "level": 1
+    },
+    {
+      "id": "34.1",
+      "text": "她在这里，开始了新的生活。",
+      "level": 2
+    },
+    {
+      "id": "35",
+      "text": "然而，沐炎坤钰心中始终有一个谜团，那就是她的真实身份。",
+      "level": 1
+    },
+    {
+      "id": "36",
+      "text": "她不知道自己为何会出现在长公主的禁地，也不知道长公主为何认定她是沐炎坤钰。",
+      "level": 1
+    },
+    {
+      "id": "37",
+      "text": "沐炎君钰也为她的身世感到担忧。",
+      "level": 1
+    },
+    {
+      "id": "37.1",
+      "text": "他四处打听，试图寻找有关沐炎坤钰的线索。",
+      "level": 2
+    },
+    {
+      "id": "38",
+      "text": "随着时间的推移，沐炎坤钰和沐炎君钰之间的感情，也渐渐升温。",
+      "level": 1
+    },
+    {
+      "id": "39",
+      "text": "然而，他们的爱情，却注定要经历重重考验。",
+      "level": 1
+    },
+    {
+      "id": "40",
+      "text": "长公主的出现，打破了这份宁静。",
+      "level": 1
+    },
+    {
+      "id": "40.1",
+      "text": "她得知沐炎坤钰在皇宫的消息后，勃然大怒。",
+      "level": 2
+    },
+    {
+      "id": "41",
+      "text": "“沐炎君钰！”长公主的声音，带着无尽的愤怒，“你竟敢包庇本宫的妹妹？你可知罪？”",
+      "level": 1
+    },
+    {
+      "id": "42",
+      "text": "沐炎君钰毫不畏惧地站出来：“长公主，她并非你的妹妹。",
+      "level": 1
+    },
+    {
+      "id": "42.1",
+      "text": "而且，我早已爱上了她，绝不会将她交给你。”",
+      "level": 2
+    },
+    {
+      "id": "43",
+      "text": "长公主冷笑：“你以为，你能够阻止本宫吗？本宫一定会让你后悔！”",
+      "level": 1
+    },
+    {
+      "id": "44",
+      "text": "长公主与沐炎君钰的矛盾，日益加剧。",
+      "level": 1
+    },
+    {
+      "id": "45",
+      "text": "最终，长公主采取了极端的手段。",
+      "level": 1
+    },
+    {
+      "id": "45.1",
+      "text": "她派人将沐炎坤钰抓回，并以此要挟沐炎君钰。",
+      "level": 2
+    },
+    {
+      "id": "46",
+      "text": "沐炎君钰为了救沐炎坤钰，不得不妥协。",
+      "level": 1
+    },
+    {
+      "id": "47",
+      "text": "然而，在长公主面前，沐炎坤钰终于爆发了。",
+      "level": 1
+    },
+    {
+      "id": "48",
+      "text": "“我不是沐炎坤钰！”她大声嘶吼，“我叫……我叫……”,",
+      "level": 1
+    },
+    {
+      "id": "49",
+      "text": "她努力地回忆，试图找出自己的名字。",
+      "level": 1
+    },
+    {
+      "id": "50",
+      "text": "“我叫……沐炎……沐炎……沐炎……啊！”",
+      "level": 1
+    },
+    {
+      "id": "51",
+      "text": "一声尖叫，沐炎坤钰倒在了地上，痛苦地捂着头。",
+      "level": 1
+    },
+    {
+      "id": "52",
+      "text": "在长公主的逼迫下，沐炎坤钰的记忆，开始逐渐恢复。",
+      "level": 1
+    },
+    {
+      "id": "52.1",
+      "text": "她终于想起了自己的名字，也想起了自己为何会出现在长公主的禁地。",
+      "level": 2
+    },
+    {
+      "id": "53",
+      "text": "原来，她和长公主，曾经是情敌。",
+      "level": 1
+    },
+    {
+      "id": "54",
+      "text": "长公主与沐炎坤钰，这对曾经的姐妹，如今却站在了对立面。",
+      "level": 1
+    },
+    {
+      "id": "55",
+      "text": "她们之间的恩怨情仇，注定要在这里，做一个了结。",
+      "level": 1
+    },
+    {
+      "id": "56",
+      "text": "在沐炎君钰的帮助下，沐炎坤钰最终战胜了长公主。",
+      "level": 1
+    },
+    {
+      "id": "57",
+      "text": "她们之间的恩怨，也在此刻，画上了句号。",
+      "level": 1
+    },
+    {
+      "id": "58",
+      "text": "沐炎坤钰和沐炎君钰，终于得以在一起。",
+      "level": 1
+    },
+    {
+      "id": "58.1",
+      "text": "他们携手，共同书写着属于他们的幸福篇章。",
+      "level": 2
+    },
+    {
+      "id": "59",
+      "text": "本书背景为女尊世界，女性拥有至高无上的权力。",
+      "level": 1
+    },
+    {
+      "id": "60",
+      "text": "主角沐炎坤钰并非本书世界原住民，而是来自现代的穿越者。",
+      "level": 1
+    },
+    {
+      "id": "61",
+      "text": "主角的真实身份，以及与长公主之间的恩怨，是本书的一大看点。",
+      "level": 1
+    },
+    {
+      "id": "62",
+      "text": "主角与沐炎君钰之间的感情，将是本书的重要组成部分。",
+      "level": 1
+    },
+    {
+      "id": "63",
+      "text": "本书为原创作品，仅供个人阅读交流，请勿用于商业用途。",
+      "level": 1
+    },
+    {
+      "id": "64",
+      "text": "如有雷同，纯属巧合。",
+      "level": 1
+    },
+    {
+      "id": "65",
+      "text": "写下这个故事，是希望能够展现一个与我们所处世界截然不同的社会形态，探讨女性在权力中心的可能性。",
+      "level": 1
+    },
+    {
+      "id": "65.1",
+      "text": "同时，也希望通过主角的经历，传递爱与勇气，以及面对困境时的坚韧不拔。",
+      "level": 2
+    },
+    {
+      "id": "66",
+      "text": "感谢大家的阅读！",
+      "level": 1
+    },
+    {
+      "id": "67",
+      "text": "感谢您阅读《御苍生-沐炎坤钰（女尊）》。",
+      "level": 1
+    },
+    {
+      "id": "68",
+      "text": "若您喜欢本书，请不吝分享给您的朋友。",
+      "level": 1
+    },
+    {
+      "id": "69",
+      "text": "更多精彩内容，请关注www.aitxt.com。",
+      "level": 1
+    }
+  ],
+  "concepts": [
+    {
+      "name": "沐炎坤钰",
+      "frequency": 50,
+      "context": "The main protagonist whose identity is central to the plot."
+    },
+    {
+      "name": "长公主",
+      "frequency": 13,
+      "context": "The antagonist who claims the protagonist as her sister."
+    },
+    {
+      "name": "沐炎君钰",
+      "frequency": 6,
+      "context": "A prince who helps and falls in love with the protagonist."
+    },
+    {
+      "name": "女尊",
+      "frequency": 1,
+      "context": "The societal setting where women hold supreme power."
+    },
+    {
+      "name": "穿越",
+      "frequency": 1,
+      "context": "The element of the protagonist being from modern times."
+    },
+    {
+      "name": "身份",
+      "frequency": 4,
+      "context": "The protagonist's true identity and the mystery surrounding it."
+    },
+    {
+      "name": "记忆",
+      "frequency": 3,
+      "context": "The protagonist's lost memories and their gradual recovery."
+    },
+    {
+      "name": "逃离",
+      "frequency": 3,
+      "context": "The protagonist's desire and actions to escape captivity."
+    },
+    {
+      "name": "皇宫",
+      "frequency": 4,
+      "context": "The setting where the protagonist finds refuge and new life."
+    },
+    {
+      "name": "爱情",
+      "frequency": 2,
+      "context": "The developing romantic relationship between the protagonist and the prince."
+    },
+    {
+      "name": "情敌",
+      "frequency": 1,
+      "context": "The revelation of the past relationship between the protagonist and the princess."
+    }
+  ],
+  "relations": [
+    {
+      "source": "沐炎坤钰",
+      "target": "长公主",
+      "type": "claims_to_be_sister_of"
+    },
+    {
+      "source": "沐炎坤钰",
+      "target": "沐炎君钰",
+      "type": "is_loved_by"
+    },
+    {
+      "source": "长公主",
+      "target": "沐炎坤钰",
+      "type": "antagonizes"
+    },
+    {
+      "source": "沐炎君钰",
+      "target": "沐炎坤钰",
+      "type": "helps"
+    },
+    {
+      "source": "女尊",
+      "target": "皇宫",
+      "type": "setting_of"
+    },
+    {
+      "source": "穿越",
+      "target": "沐炎坤钰",
+      "type": "applies_to"
+    },
+    {
+      "source": "身份",
+      "target": "沐炎坤钰",
+      "type": "central_to"
+    },
+    {
+      "source": "记忆",
+      "target": "沐炎坤钰",
+      "type": "is_lost_by"
+    },
+    {
+      "source": "逃离",
+      "target": "沐炎坤钰",
+      "type": "is_attempted_by"
+    },
+    {
+      "source": "爱情",
+      "target": "沐炎坤钰",
+      "type": "involves"
+    },
+    {
+      "source": "爱情",
+      "target": "沐炎君钰",
+      "type": "involves"
+    },
+    {
+      "source": "情敌",
+      "target": "沐炎坤钰",
+      "type": "was_a"
+    },
+    {
+      "source": "情敌",
+      "target": "长公主",
+      "type": "was_a"
+    }
+  ],
+  "hierarchy": {
+    "main_topics": [
+      "Protagonist's Awakening and False Identity",
+      "Captivity and Escape",
+      "New Life and Developing Relationships",
+      "Conflict and Memory Recovery",
+      "Resolution and Future"
+    ],
+    "structure": "The document is structured as a novel with chapters detailing the protagonist's journey from captivity to finding love and uncovering her true identity. It also includes author's notes and a disclaimer."
+  }
+}

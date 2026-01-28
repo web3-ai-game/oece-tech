@@ -1,0 +1,27 @@
+# 🔥 MEGA DISTILLER 超級蒸餾容器
+# 10 Key 並發轟炸 + 4000 RPM
+
+FROM node:20-alpine
+
+LABEL maintainer="DeepWeay"
+LABEL description="超級蒸餾池 - 10 Key 並發"
+
+WORKDIR /app
+
+# 安裝依賴
+RUN npm install mongodb axios
+
+# 複製蒸餾引擎
+COPY scripts/mega-distiller.js ./
+
+# 掛載點
+VOLUME ["/mnt/data/BOOM"]
+
+# 環境變量
+ENV NODE_ENV=production
+ENV MONGODB_URI=mongodb+srv://root:UeGJpOmsy0SYXnny@svs-svs.yzl7bqo.mongodb.net/
+
+# 資源限制在 docker run 時指定
+# --cpus=4 --memory=4g
+
+CMD ["node", "mega-distiller.js"]

@@ -1,0 +1,20 @@
+{
+  "apps": [{
+    "name": "notion-cleaner",
+    "script": "./scripts/extract_core_content.js",
+    "cwd": "/home/svs-main-key/GCP/deepweay-sms",
+    "env": {
+      "GEMINI_PRO_30": "${GEMINI_PRO_30}",
+      "NODE_ENV": "production"
+    },
+    "instances": 1,
+    "exec_mode": "fork",
+    "autorestart": false,
+    "max_restarts": 3,
+    "watch": false,
+    "log_file": "/home/svs-main-key/GCP/deepweay-sms/logs/notion-cleaner.log",
+    "out_file": "/home/svs-main-key/GCP/deepweay-sms/logs/notion-cleaner-out.log",
+    "error_file": "/home/svs-main-key/GCP/deepweay-sms/logs/notion-cleaner-error.log",
+    "time": true
+  }]
+}

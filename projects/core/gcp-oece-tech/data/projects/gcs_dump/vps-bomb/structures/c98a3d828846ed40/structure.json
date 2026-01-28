@@ -1,0 +1,367 @@
+{
+  "propositions": [
+    {
+      "id": "1",
+      "text": "The text discusses the common use of death in mystery novels and introduces Josephine Tey's \"The Franchise Affair\" as a novel that stands out by not relying on death.",
+      "level": 1
+    },
+    {
+      "id": "1.1",
+      "text": "The author contrasts the approach of authors like Yokomizo Seishi and Agatha Christie with the author's critique of excessive death in mystery novels.",
+      "level": 2
+    },
+    {
+      "id": "1.2",
+      "text": "The author highlights S.S. Van Dine's view on the necessity of crime in novels to justify their length.",
+      "level": 2
+    },
+    {
+      "id": "1.3",
+      "text": "The author argues that death is often overused in mystery novels, leading to a superficial narrative.",
+      "level": 2
+    },
+    {
+      "id": "1.4",
+      "text": "The author proposes the idea of a \"non-death\" mystery novel ranking, emphasizing the confidence and creativity required for such works.",
+      "level": 2
+    },
+    {
+      "id": "1.5",
+      "text": "\"The Franchise Affair\" is presented as an example of a successful \"non-death\" mystery novel.",
+      "level": 2
+    },
+    {
+      "id": "2",
+      "text": "The plot of \"The Franchise Affair\" involves a teenage schoolgirl who is not killed but is abducted and forced into servitude at the \"Franchise\" house.",
+      "level": 1
+    },
+    {
+      "id": "2.1",
+      "text": "The victim's experience includes whipping and starvation.",
+      "level": 2
+    },
+    {
+      "id": "2.2",
+      "text": "The case is initially considered minor by Scotland Yard.",
+      "level": 2
+    },
+    {
+      "id": "3",
+      "text": "Josephine Tey's writing is characterized by a strong, unhidden anger and a desire to convey messages beyond the genre's conventions.",
+      "level": 1
+    },
+    {
+      "id": "3.1",
+      "text": "Tey's \"The Daughter of Time\" is mentioned as an example of her critique of public ignorance and hidden self-interests that contribute to historical falsehoods.",
+      "level": 2
+    },
+    {
+      "id": "3.2",
+      "text": "In \"The Franchise Affair,\" Tey extends this indignation to criticize the public's mob mentality and its violent manifestation.",
+      "level": 2
+    },
+    {
+      "id": "3.3",
+      "text": "The public's reaction to the suspected abduction case leads to the destruction of the Franchise house.",
+      "level": 2
+    },
+    {
+      "id": "4",
+      "text": "Tey's core beliefs involve a faith in knowledge, experience, and progress, tempered by the understanding that time is necessary and passion can be destructive.",
+      "level": 1
+    },
+    {
+      "id": "4.1",
+      "text": "She believes in moral virtues but cautions against elevating any single virtue to a divine status.",
+      "level": 2
+    },
+    {
+      "id": "4.2",
+      "text": "She recognizes that values and virtues can conflict and require careful discernment and adjustment.",
+      "level": 2
+    },
+    {
+      "id": "5",
+      "text": "The text connects Tey's work to the tradition of British intellectuals, contrasting it with the passionate and sometimes destructive nature of revolutionary modernization.",
+      "level": 1
+    },
+    {
+      "id": "5.1",
+      "text": "While France pursued revolution with ideals like liberty, equality, and fraternity, Britain is described as using time to temper passion.",
+      "level": 2
+    },
+    {
+      "id": "5.2",
+      "text": "British intellectuals are portrayed as \"engineers of thought\" rather than ideological revolutionaries, exemplified by Edmund Burke's measured critique.",
+      "level": 2
+    },
+    {
+      "id": "6",
+      "text": "The narrative shifts to the perspective of Robert Blair, a lawyer in Milford, experiencing a sense of existential doubt and dissatisfaction with his routine life.",
+      "level": 1
+    },
+    {
+      "id": "6.1",
+      "text": "Blair contemplates the meaning of his life and questions if this is the life he wants to live until the end.",
+      "level": 2
+    },
+    {
+      "id": "6.2",
+      "text": "He reflects on the unchanging nature of his office, symbolized by the afternoon tea ritual.",
+      "level": 2
+    },
+    {
+      "id": "6.3",
+      "text": "He considers potential reasons for his discontent, such as the absence of a wife or mother, or lack of wealth or excitement, but finds these explanations unsatisfactory.",
+      "level": 2
+    },
+    {
+      "id": "7",
+      "text": "Blair's office, \"Blair, Haiwa & Pownye,\" is described as a long-established firm.",
+      "level": 1
+    },
+    {
+      "id": "7.1",
+      "text": "The firm's history and the personalities of its current and past members, including Mr. Pownye's son and Mr. Blacksting, are detailed.",
+      "level": 2
+    },
+    {
+      "id": "7.2",
+      "text": "The description of Milford's High Street emphasizes its historical architectural styles and the blend of old and new establishments.",
+      "level": 2
+    },
+    {
+      "id": "8",
+      "text": "A phone call interrupts Blair's contemplation, initiating the main plot of the novel.",
+      "level": 1
+    },
+    {
+      "id": "8.1",
+      "text": "The caller is Marian Sharpe, who lives at \"Franchise\" with her mother and desperately needs legal assistance regarding a Scotland Yard investigation.",
+      "level": 2
+    },
+    {
+      "id": "8.2",
+      "text": "Blair is initially reluctant to take on a criminal case, suggesting Marian consult another lawyer, Benjamin Kalli.",
+      "level": 2
+    },
+    {
+      "id": "8.3",
+      "text": "Marian's plea, comparing Blair to someone refusing to extend a hand to a drowning person, persuades him to visit.",
+      "level": 2
+    },
+    {
+      "id": "9",
+      "text": "Blair drives to \"Franchise,\" encountering local rivalries and observing the countryside.",
+      "level": 1
+    },
+    {
+      "id": "9.1",
+      "text": "His journey takes him through Milford's High Street and into the rural landscape leading to \"Franchise.\"",
+      "level": 2
+    },
+    {
+      "id": "9.2",
+      "text": "He reflects on the legal implications of \"kidnapping\" and \"abduction\" in English law.",
+      "level": 2
+    },
+    {
+      "id": "10",
+      "text": "Upon arrival at \"Franchise,\" Blair observes the house's unconventional architecture and the presence of police vehicles.",
+      "level": 1
+    },
+    {
+      "id": "10.1",
+      "text": "The house is described as ugly and unwelcoming, evoking a defensive posture.",
+      "level": 2
+    },
+    {
+      "id": "10.2",
+      "text": "He meets Marian Sharpe at the door, who explains her mother is sleeping and expresses gratitude for his arrival.",
+      "level": 2
+    },
+    {
+      "id": "11",
+      "text": "Inside, Blair meets Detective Inspector Grant from Scotland Yard and Detective Sergeant Hallam.",
+      "level": 1
+    },
+    {
+      "id": "11.1",
+      "text": "Grant explains the case: a fifteen-year-old girl, Elizabeth Kayne, disappeared after visiting her aunt and was later found in a disheveled state.",
+      "level": 2
+    },
+    {
+      "id": "11.2",
+      "text": "Elizabeth claims she was abducted and forced into servitude by two women at \"Franchise.\"",
+      "level": 2
+    },
+    {
+      "id": "11.3",
+      "text": "Her account involves being lured into a car, taken to a house, and subjected to threats, confinement, and physical abuse when she refused to work as a maid.",
+      "level": 2
+    },
+    {
+      "id": "11.4",
+      "text": "The description includes details of a round window in a small attic room and the girl's attempts to escape.",
+      "level": 2
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Mystery Novel",
+      "frequency": 10,
+      "context": "Central genre of discussion, analyzed for its use of death and narrative conventions."
+    },
+    {
+      "name": "Death",
+      "frequency": 8,
+      "context": "A key element in mystery novels, discussed as a narrative device and its potential for overuse."
+    },
+    {
+      "name": "Josephine Tey",
+      "frequency": 7,
+      "context": "The author of \"The Franchise Affair,\" presented as a significant figure in mystery fiction."
+    },
+    {
+      "name": "The Franchise Affair",
+      "frequency": 10,
+      "context": "The novel being analyzed, its plot and thematic elements are central to the document."
+    },
+    {
+      "name": "Abduction/Kidnapping",
+      "frequency": 8,
+      "context": "The central crime and accusation in \"The Franchise Affair.\""
+    },
+    {
+      "name": "Marian Sharpe",
+      "frequency": 12,
+      "context": "A key character, resident of \"Franchise,\" who contacts the lawyer Robert Blair."
+    },
+    {
+      "name": "Robert Blair",
+      "frequency": 20,
+      "context": "The lawyer protagonist, whose perspective drives much of the narrative and internal reflection."
+    },
+    {
+      "name": "Scotland Yard",
+      "frequency": 7,
+      "context": "The official police force investigating the case in the novel."
+    },
+    {
+      "name": "Lawyer/Legal Assistance",
+      "frequency": 15,
+      "context": "The role of Robert Blair and the need for legal representation are crucial to the plot."
+    },
+    {
+      "name": "British Intellectual Tradition",
+      "frequency": 3,
+      "context": "A philosophical framework used to interpret Tey's work and the broader context of the novel."
+    },
+    {
+      "name": "Milford",
+      "frequency": 10,
+      "context": "The small town setting where Robert Blair practices law."
+    },
+    {
+      "name": "Franchise (the house)",
+      "frequency": 12,
+      "context": "The location where the alleged abduction and mistreatment took place."
+    },
+    {
+      "name": "Elizabeth Kayne",
+      "frequency": 7,
+      "context": "The alleged victim of abduction and mistreatment."
+    },
+    {
+      "name": "Anger/Indignation",
+      "frequency": 3,
+      "context": "A prominent characteristic of Josephine Tey's writing and her critique of society."
+    },
+    {
+      "name": "Routine/Dissatisfaction",
+      "frequency": 4,
+      "context": "Robert Blair's internal conflict and questioning of his life's path."
+    }
+  ],
+  "relations": [
+    {
+      "source": "Mystery Novel",
+      "target": "Death",
+      "type": "frequently uses"
+    },
+    {
+      "source": "Josephine Tey",
+      "target": "The Franchise Affair",
+      "type": "authored"
+    },
+    {
+      "source": "The Franchise Affair",
+      "target": "Abduction/Kidnapping",
+      "type": "plot involves"
+    },
+    {
+      "source": "The Franchise Affair",
+      "target": "Marian Sharpe",
+      "type": "features"
+    },
+    {
+      "source": "The Franchise Affair",
+      "target": "Robert Blair",
+      "type": "features"
+    },
+    {
+      "source": "Marian Sharpe",
+      "target": "Robert Blair",
+      "type": "seeks help from"
+    },
+    {
+      "source": "Robert Blair",
+      "target": "Lawyer/Legal Assistance",
+      "type": "is a provider of"
+    },
+    {
+      "source": "Scotland Yard",
+      "target": "Abduction/Kidnapping",
+      "type": "investigates"
+    },
+    {
+      "source": "Franchise (the house)",
+      "target": "Marian Sharpe",
+      "type": "residence of"
+    },
+    {
+      "source": "Elizabeth Kayne",
+      "target": "Abduction/Kidnapping",
+      "type": "alleged victim of"
+    },
+    {
+      "source": "Josephine Tey",
+      "target": "Anger/Indignation",
+      "type": "exhibits"
+    },
+    {
+      "source": "Robert Blair",
+      "target": "Routine/Dissatisfaction",
+      "type": "experiences"
+    },
+    {
+      "source": "Robert Blair",
+      "target": "Milford",
+      "type": "practices law in"
+    },
+    {
+      "source": "British Intellectual Tradition",
+      "target": "Josephine Tey",
+      "type": "related to"
+    }
+  ],
+  "hierarchy": {
+    "main_topics": [
+      "Introduction to 'The Franchise Affair' and critique of mystery novels",
+      "Josephine Tey's literary style and themes",
+      "Robert Blair's personal narrative and internal conflict",
+      "The unfolding of the legal case and the presentation of evidence"
+    ],
+    "structure": "The document begins with a literary critique and introduction to the novel's premise, then delves into the author's style and philosophical underpinnings. It then transitions to the protagonist's perspective and his involvement in the central mystery, concluding with the exposition of the case by the investigating officer. The structure moves from meta-commentary on the genre and author to the narrative details of the specific novel."
+  }
+}

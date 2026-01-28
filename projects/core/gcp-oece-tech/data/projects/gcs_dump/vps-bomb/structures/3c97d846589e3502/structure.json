@@ -1,0 +1,627 @@
+{
+  "propositions": [
+    {
+      "id": "1",
+      "text": "Elena enters a clearing in the woods, and the twilight has fallen.",
+      "level": 1
+    },
+    {
+      "id": "1.1",
+      "text": "The snow is melting underfoot.",
+      "level": 2
+    },
+    {
+      "id": "1.2",
+      "text": "The blizzard is waning.",
+      "level": 2
+    },
+    {
+      "id": "2",
+      "text": "Elena observes two figures fighting beneath a large oak tree.",
+      "level": 1
+    },
+    {
+      "id": "2.1",
+      "text": "One figure is taller, with thick, dark curly hair.",
+      "level": 2
+    },
+    {
+      "id": "2.2",
+      "text": "The taller figure's eyes are green.",
+      "level": 2
+    },
+    {
+      "id": "2.3",
+      "text": "The other figure has thick, dark, straight hair.",
+      "level": 2
+    },
+    {
+      "id": "2.4",
+      "text": "The second figure's eyes are black.",
+      "level": 2
+    },
+    {
+      "id": "3",
+      "text": "Elena is drawn to the fight by the echoes of their battle in her mind.",
+      "level": 1
+    },
+    {
+      "id": "3.1",
+      "text": "The sounds of their anger, hatred, and pain are almost deafening.",
+      "level": 2
+    },
+    {
+      "id": "4",
+      "text": "Elena realizes she is there to help one of the fighters.",
+      "level": 1
+    },
+    {
+      "id": "4.1",
+      "text": "He summoned her with waves of irritation and pain.",
+      "level": 2
+    },
+    {
+      "id": "5",
+      "text": "Elena intervenes in the fight between Stefan and Damon.",
+      "level": 1
+    },
+    {
+      "id": "5.1",
+      "text": "She grabs Stefan's hand as he is choking Damon.",
+      "level": 2
+    },
+    {
+      "id": "5.2",
+      "text": "She forces Damon to release Stefan.",
+      "level": 2
+    },
+    {
+      "id": "5.3",
+      "text": "She hits Damon and pins him down.",
+      "level": 2
+    },
+    {
+      "id": "6",
+      "text": "Damon retaliates and pins Elena down.",
+      "level": 1
+    },
+    {
+      "id": "6.1",
+      "text": "He attempts to choke her.",
+      "level": 2
+    },
+    {
+      "id": "7",
+      "text": "Damon stops when he looks at Elena and recognizes her.",
+      "level": 1
+    },
+    {
+      "id": "7.1",
+      "text": "His anger is replaced by confusion and astonishment.",
+      "level": 2
+    },
+    {
+      "id": "7.2",
+      "text": "He calls her name, \"Elena.\"",
+      "level": 2
+    },
+    {
+      "id": "8",
+      "text": "Elena, seemingly disoriented, tells herself she can handle the situation.",
+      "level": 1
+    },
+    {
+      "id": "8.1",
+      "text": "She dismisses Damon as a \"fool.\"",
+      "level": 2
+    },
+    {
+      "id": "9",
+      "text": "Elena attacks Stefan again, mistaking him for an enemy.",
+      "level": 1
+    },
+    {
+      "id": "9.1",
+      "text": "She hisses and bares her teeth at him.",
+      "level": 2
+    },
+    {
+      "id": "9.2",
+      "text": "Stefan is shocked and distressed.",
+      "level": 2
+    },
+    {
+      "id": "10",
+      "text": "Elena bites Stefan, drawing blood.",
+      "level": 1
+    },
+    {
+      "id": "10.1",
+      "text": "She is initially dissatisfied with her bite, lacking experience.",
+      "level": 2
+    },
+    {
+      "id": "10.2",
+      "text": "She bites again, finding a vein.",
+      "level": 2
+    },
+    {
+      "id": "11",
+      "text": "Damon intervenes and pulls Elena off Stefan.",
+      "level": 1
+    },
+    {
+      "id": "12",
+      "text": "Elena remembers Damon's name and declares her love for him.",
+      "level": 1
+    },
+    {
+      "id": "13",
+      "text": "Stefan confronts Damon, accusing him of not being satisfied with Elena's death.",
+      "level": 1
+    },
+    {
+      "id": "13.1",
+      "text": "Stefan believes Damon wants to make Elena like them.",
+      "level": 2
+    },
+    {
+      "id": "14",
+      "text": "Damon dismisses Stefan's accusations and questions Elena about her memories.",
+      "level": 1
+    },
+    {
+      "id": "14.1",
+      "text": "Elena recalls the Founders' Day celebration and Caroline planning to read her diary.",
+      "level": 2
+    },
+    {
+      "id": "14.2",
+      "text": "She remembers tricking Caroline with Damon's help.",
+      "level": 2
+    },
+    {
+      "id": "14.3",
+      "text": "She recalls arguing with Aunt Judith.",
+      "level": 2
+    },
+    {
+      "id": "14.4",
+      "text": "She remembers driving Matt's car towards Wickery Bridge.",
+      "level": 2
+    },
+    {
+      "id": "14.5",
+      "text": "She felt something was chasing her in the woods, described as a large, white shadow made of fog.",
+      "level": 2
+    },
+    {
+      "id": "14.6",
+      "text": "She escaped by driving towards Drowning Creek and the bridge.",
+      "level": 2
+    },
+    {
+      "id": "15",
+      "text": "Stefan reveals that Elena's car is still in the river.",
+      "level": 1
+    },
+    {
+      "id": "15.1",
+      "text": "Bonnie and Meredith found her.",
+      "level": 2
+    },
+    {
+      "id": "15.2",
+      "text": "Stefan went into the water to save her.",
+      "level": 2
+    },
+    {
+      "id": "16",
+      "text": "Damon accuses Stefan of abandoning Elena.",
+      "level": 1
+    },
+    {
+      "id": "17",
+      "text": "Damon states that Elena needs human blood to complete her transformation and survive.",
+      "level": 1
+    },
+    {
+      "id": "18",
+      "text": "Elena, believing she is fine, expresses annoyance at being interrupted and not being allowed to kill Stefan.",
+      "level": 1
+    },
+    {
+      "id": "19",
+      "text": "Damon explains that he did not kill Elena and could have turned her whenever he pleased.",
+      "level": 1
+    },
+    {
+      "id": "19.1",
+      "text": "He implies that Elena's engagement might be a reason for Stefan's actions.",
+      "level": 2
+    },
+    {
+      "id": "19.2",
+      "text": "Damon believes Elena has forgotten Stefan and will choose between them when she recovers.",
+      "level": 2
+    },
+    {
+      "id": "20",
+      "text": "Elena recognizes the engagement ring and claims she loves Damon.",
+      "level": 1
+    },
+    {
+      "id": "21",
+      "text": "Damon decides to take Elena to get the blood she needs.",
+      "level": 1
+    },
+    {
+      "id": "22",
+      "text": "Elena and Damon encounter Aunt Judith and other familiar faces at the scene of the car accident.",
+      "level": 1
+    },
+    {
+      "id": "22.1",
+      "text": "Elena cannot recall the name of the child with them.",
+      "level": 2
+    },
+    {
+      "id": "22.2",
+      "text": "She recognizes Bonnie and Meredith.",
+      "level": 2
+    },
+    {
+      "id": "23",
+      "text": "Bonnie and Meredith are explaining to a uniformed man that Stefan rescued Elena from the water.",
+      "level": 1
+    },
+    {
+      "id": "24",
+      "text": "They mention that Stefan said he would leave Elena under the willow if he had to leave.",
+      "level": 1
+    },
+    {
+      "id": "25",
+      "text": "Damon interprets the situation as Elena being a hunter and the people at the scene being her prey.",
+      "level": 1
+    },
+    {
+      "id": "26",
+      "text": "Stefan suggests taking Elena to school to find a voluntary blood source.",
+      "level": 1
+    },
+    {
+      "id": "27",
+      "text": "Stefan encounters Matt, who is distraught about Elena's supposed death.",
+      "level": 1
+    },
+    {
+      "id": "27.1",
+      "text": "Matt believes Elena drowned and cannot accept it.",
+      "level": 2
+    },
+    {
+      "id": "27.2",
+      "text": "Stefan reveals that Elena has transformed into a vampire.",
+      "level": 2
+    },
+    {
+      "id": "28",
+      "text": "Stefan uses his powers to influence Matt to agree to help Elena.",
+      "level": 1
+    },
+    {
+      "id": "29",
+      "text": "Stefan and Damon guide Elena to feed on Matt.",
+      "level": 1
+    },
+    {
+      "id": "29.1",
+      "text": "Damon directs Elena on where to bite Matt.",
+      "level": 2
+    },
+    {
+      "id": "29.2",
+      "text": "Stefan reassures Matt that he will not be permanently harmed.",
+      "level": 2
+    },
+    {
+      "id": "30",
+      "text": "Elena feeds on Matt, experiencing satisfaction and developing a liking for him.",
+      "level": 1
+    },
+    {
+      "id": "31",
+      "text": "Stefan interrupts Elena, ensuring she does not take too much blood.",
+      "level": 1
+    },
+    {
+      "id": "32",
+      "text": "Damon states he will take Elena to rest.",
+      "level": 1
+    },
+    {
+      "id": "33",
+      "text": "Damon warns Stefan about their past conflict.",
+      "level": 1
+    },
+    {
+      "id": "34",
+      "text": "Stefan observes Elena's unwavering devotion to Damon.",
+      "level": 1
+    },
+    {
+      "id": "35",
+      "text": "Stefan reflects on his past actions, including killing six people, and his inability to leave as long as Elena is in danger.",
+      "level": 1
+    },
+    {
+      "id": "36",
+      "text": "Matt confronts Stefan about the events in the school, expressing disbelief and asking about Damon.",
+      "level": 1
+    },
+    {
+      "id": "37",
+      "text": "Stefan reveals he killed the individuals at the school.",
+      "level": 1
+    },
+    {
+      "id": "38",
+      "text": "Stefan explains that Elena's transformation is permanent and irreversible.",
+      "level": 1
+    },
+    {
+      "id": "39",
+      "text": "Matt expresses his distrust and disappointment in Stefan.",
+      "level": 1
+    },
+    {
+      "id": "40",
+      "text": "Elena explores a cemetery, drawn by the flight of an owl.",
+      "level": 1
+    },
+    {
+      "id": "40.1",
+      "text": "She observes a ruined church.",
+      "level": 2
+    },
+    {
+      "id": "40.2",
+      "text": "She looks at the tombs of Thomas Fell and Honoria Fell.",
+      "level": 2
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Elena",
+      "frequency": 28,
+      "context": "The main female protagonist who undergoes a transformation into a vampire."
+    },
+    {
+      "name": "Stefan",
+      "frequency": 24,
+      "context": "A vampire, Elena's former love interest, and Damon's brother."
+    },
+    {
+      "name": "Damon",
+      "frequency": 20,
+      "context": "A powerful vampire, Stefan's brother, and Elena's new love interest."
+    },
+    {
+      "name": "Vampire",
+      "frequency": 14,
+      "context": "Supernatural beings who feed on blood and have enhanced abilities."
+    },
+    {
+      "name": "Blood",
+      "frequency": 11,
+      "context": "Essential for vampire sustenance and transformation."
+    },
+    {
+      "name": "Matt",
+      "frequency": 10,
+      "context": "Elena's ex-boyfriend, who becomes a victim and later learns the truth about vampires."
+    },
+    {
+      "name": "Transformation",
+      "frequency": 7,
+      "context": "The process of becoming a vampire, requiring blood."
+    },
+    {
+      "name": "Forest",
+      "frequency": 5,
+      "context": "The primary setting for the initial conflict and encounters."
+    },
+    {
+      "name": "Anger",
+      "frequency": 5,
+      "context": "A prevalent emotion driving the characters' actions, especially in fights."
+    },
+    {
+      "name": "Memory",
+      "frequency": 5,
+      "context": "Crucial for characters to understand their past and present circumstances."
+    },
+    {
+      "name": "Fight",
+      "frequency": 5,
+      "context": "A recurring event between characters, often driven by conflict and emotion."
+    },
+    {
+      "name": "Protection",
+      "frequency": 4,
+      "context": "Motivates characters to act, particularly Stefan in relation to Elena."
+    },
+    {
+      "name": "Confusion",
+      "frequency": 4,
+      "context": "Elena's state after her transformation and Matt's initial reaction to the supernatural."
+    },
+    {
+      "name": "Bonnie",
+      "frequency": 3,
+      "context": "A friend of Elena's, who has psychic abilities."
+    },
+    {
+      "name": "Meredith",
+      "frequency": 3,
+      "context": "A friend of Elena's."
+    },
+    {
+      "name": "Aunt Judith",
+      "frequency": 2,
+      "context": "Elena's aunt, with whom she had an argument."
+    },
+    {
+      "name": "Wickery Bridge",
+      "frequency": 2,
+      "context": "The location where Elena's car went into the river."
+    },
+    {
+      "name": "Founders' Day",
+      "frequency": 2,
+      "context": "A celebration where events related to Elena's past are recalled."
+    },
+    {
+      "name": "School",
+      "frequency": 3,
+      "context": "A location where Stefan arranges for Elena to feed and where past events are revealed."
+    },
+    {
+      "name": "Cemetery",
+      "frequency": 2,
+      "context": "A location Elena visits towards the end of the excerpt."
+    },
+    {
+      "name": "Tyler",
+      "frequency": 3,
+      "context": "A character present at the school, implied to be a victim of Stefan's actions."
+    },
+    {
+      "name": "Killing",
+      "frequency": 3,
+      "context": "Stefan's past actions and Damon's inherent nature."
+    },
+    {
+      "name": "Hunter",
+      "frequency": 3,
+      "context": "Elena's new identity after her transformation."
+    },
+    {
+      "name": "Prey",
+      "frequency": 2,
+      "context": "The role of humans in relation to vampires."
+    }
+  ],
+  "relations": [
+    {
+      "source": "Elena",
+      "target": "Stefan",
+      "type": "loves"
+    },
+    {
+      "source": "Elena",
+      "target": "Damon",
+      "type": "loves"
+    },
+    {
+      "source": "Stefan",
+      "target": "Damon",
+      "type": "brother_of"
+    },
+    {
+      "source": "Stefan",
+      "target": "Elena",
+      "type": "protector_of"
+    },
+    {
+      "source": "Damon",
+      "target": "Elena",
+      "type": "transformed_into_vampire"
+    },
+    {
+      "source": "Elena",
+      "target": "Vampire",
+      "type": "becomes"
+    },
+    {
+      "source": "Vampire",
+      "target": "Blood",
+      "type": "needs"
+    },
+    {
+      "source": "Elena",
+      "target": "Blood",
+      "type": "needs"
+    },
+    {
+      "source": "Stefan",
+      "target": "Blood",
+      "type": "needs"
+    },
+    {
+      "source": "Damon",
+      "target": "Blood",
+      "type": "needs"
+    },
+    {
+      "source": "Elena",
+      "target": "Matt",
+      "type": "feeds_on"
+    },
+    {
+      "source": "Stefan",
+      "target": "Matt",
+      "type": "reveals_truth_to"
+    },
+    {
+      "source": "Damon",
+      "target": "Elena",
+      "type": "guides"
+    },
+    {
+      "source": "Stefan",
+      "target": "Elena",
+      "type": "protects"
+    },
+    {
+      "source": "Bonnie",
+      "target": "Elena",
+      "type": "friend_of"
+    },
+    {
+      "source": "Meredith",
+      "target": "Elena",
+      "type": "friend_of"
+    },
+    {
+      "source": "Stefan",
+      "target": "Killing",
+      "type": "commits"
+    },
+    {
+      "source": "Damon",
+      "target": "Killing",
+      "type": "commits"
+    },
+    {
+      "source": "Elena",
+      "target": "Hunter",
+      "type": "becomes"
+    },
+    {
+      "source": "Vampire",
+      "target": "Prey",
+      "type": "hunts"
+    }
+  ],
+  "hierarchy": {
+    "main_topics": [
+      "Introduction and Initial Conflict",
+      "Elena's Transformation and its Aftermath",
+      "Revealing the Truth and Confrontation",
+      "The Nature of Vampirism and its Consequences"
+    ],
+    "structure": "The document follows a linear narrative structure, starting with a dramatic scene, progressing through Elena's transformation and the immediate fallout, then delving into the characters' backstories and motivations, and concluding with the consequences of vampirism on both Elena and those around her. It is divided into three chapters."
+  }
+}

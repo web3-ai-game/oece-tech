@@ -1,0 +1,469 @@
+{
+  "propositions": [
+    {
+      "id": "1",
+      "text": "《魔牙》是一本小说。",
+      "level": 1
+    },
+    {
+      "id": "1.1",
+      "text": "《魔牙》的书评、最新更新和相关书籍推荐可以在http://www.xiaoshuotxt.com/xuanyi/4877/找到。",
+      "level": 2
+    },
+    {
+      "id": "1.2",
+      "text": "TXT小说天堂（http://www.xiaoshuotxt.com）提供经典的文学名著、武侠小说、言情小说、人文社科类书籍在线阅读，以及TXT电子书手机免费下载阅读。",
+      "level": 2
+    },
+    {
+      "id": "2",
+      "text": "第一章 描写了九月四日下午发生的一系列事件。",
+      "level": 1
+    },
+    {
+      "id": "2.1",
+      "text": "重宗祐，M银行新宿支店长，在下午两点离开银行。",
+      "level": 2
+    },
+    {
+      "id": "2.1.1",
+      "text": "他原本要去吉野餐厅参加银行支店长会议。",
+      "level": 3
+    },
+    {
+      "id": "2.1.2",
+      "text": "在会议开始前，他去了电动弹子游艺室。",
+      "level": 3
+    },
+    {
+      "id": "2.1.3",
+      "text": "他认为自己作为支店长，在电子游艺室玩游戏是不光彩的。",
+      "level": 3
+    },
+    {
+      "id": "2.1.4",
+      "text": "会议结束后，他与同事去了酒吧，直到十一点才离开。",
+      "level": 3
+    },
+    {
+      "id": "2.1.5",
+      "text": "他乘坐出租车回家，家住在中野区江古田，是一处豪宅。",
+      "level": 3
+    },
+    {
+      "id": "2.2",
+      "text": "在回家路上，重宗遇到了两名歹徒，被歹徒用拳头击打并塞进汽车。",
+      "level": 2
+    },
+    {
+      "id": "2.2.1",
+      "text": "歹徒的目的是抢劫银行。",
+      "level": 3
+    },
+    {
+      "id": "2.2.2",
+      "text": "重宗在得知抢劫银行的计划后反而镇静下来。",
+      "level": 3
+    },
+    {
+      "id": "2.2.3",
+      "text": "重宗解释了银行的安保措施，包括多重门锁、金库锁和自动报警系统。",
+      "level": 3
+    },
+    {
+      "id": "2.2.4",
+      "text": "歹徒透露自己是警备保险公司的监视员，并且已经为此计划了五年。",
+      "level": 3
+    },
+    {
+      "id": "2.2.5",
+      "text": "歹徒提到银行当晚有近二亿现金。",
+      "level": 3
+    },
+    {
+      "id": "2.3",
+      "text": "重宗被迫为歹徒打开银行的保险柜。",
+      "level": 2
+    },
+    {
+      "id": "2.3.1",
+      "text": "银行门是锁着的，但重宗作为支店长打开了门。",
+      "level": 3
+    },
+    {
+      "id": "2.3.2",
+      "text": "有三个醉汉看到重宗与歹徒一起进入银行，并误以为是强盗。",
+      "level": 3
+    },
+    {
+      "id": "2.3.3",
+      "text": "重宗解释自己是支店长。",
+      "level": 3
+    },
+    {
+      "id": "2.3.4",
+      "text": "重宗打开了多重门锁和金库的锁。",
+      "level": 3
+    },
+    {
+      "id": "2.3.5",
+      "text": "歹徒开始往大提包里塞钱，共计一亿八千万。",
+      "level": 3
+    },
+    {
+      "id": "2.4",
+      "text": "重宗被歹徒杀害。",
+      "level": 2
+    },
+    {
+      "id": "2.4.1",
+      "text": "在抢劫结束后，另一名歹徒（长岛公三）以重宗看清了他们的脸为由将其杀害。",
+      "level": 3
+    },
+    {
+      "id": "2.4.2",
+      "text": "主犯（中原顺）对同伙的行为表示愤怒。",
+      "level": 3
+    },
+    {
+      "id": "3",
+      "text": "凌晨四时，重宗的妻子报警，警方赶到银行发现情况异常。",
+      "level": 1
+    },
+    {
+      "id": "3.1",
+      "text": "新宿警察署接到报警后，让派出所前往M银行新宿支店查看。",
+      "level": 2
+    },
+    {
+      "id": "3.2",
+      "text": "银行大门未锁，警报装置未响。",
+      "level": 2
+    },
+    {
+      "id": "3.3",
+      "text": "警视厅搜查一科的涸沼凉介到达现场，发现重宗已被杀害。",
+      "level": 2
+    },
+    {
+      "id": "3.4",
+      "text": "上午五时，犯人身份查清为中原顺，极东警备保险公司的警备科长。",
+      "level": 2
+    },
+    {
+      "id": "3.5",
+      "text": "警方发现连接警备公司的M银行线路被做了手脚。",
+      "level": 2
+    },
+    {
+      "id": "3.6",
+      "text": "中原顺已做好逃窜准备。",
+      "level": 2
+    },
+    {
+      "id": "4",
+      "text": "调查显示，中原顺是一个有计划、有毅力的人。",
+      "level": 1
+    },
+    {
+      "id": "4.1",
+      "text": "中原五岁时父母双亡，由叔父抚养长大，叔父是其进入警备公司的保证人。",
+      "level": 2
+    },
+    {
+      "id": "4.2",
+      "text": "叔父去世后，中原隐瞒了消息。",
+      "level": 2
+    },
+    {
+      "id": "4.3",
+      "text": "中原没有朋友，只有熟人，性格孤独寡言，被称作“冰冷的男人”。",
+      "level": 2
+    },
+    {
+      "id": "4.4",
+      "text": "他有异样的执著于锻炼身体，精通柔道和空手道，并热衷于独自行山。",
+      "level": 2
+    },
+    {
+      "id": "4.5",
+      "text": "他极少接近女性，避免可能暴露行踪的途径。",
+      "level": 2
+    },
+    {
+      "id": "5",
+      "text": "警方确认了同案犯的身份。",
+      "level": 1
+    },
+    {
+      "id": "5.1",
+      "text": "同案犯是名叫长岛公三的小流氓，有三次前科，是前田帮成员。",
+      "level": 2
+    },
+    {
+      "id": "5.2",
+      "text": "长岛公三的指纹留在凶器匕首上。",
+      "level": 2
+    },
+    {
+      "id": "5.3",
+      "text": "远山认为中原与前田帮的合作显得轻率，不符其中原的性格。",
+      "level": 2
+    },
+    {
+      "id": "6",
+      "text": "长岛公三被捕后，提供了关于中原顺和赃款的线索。",
+      "level": 1
+    },
+    {
+      "id": "6.1",
+      "text": "长岛否认杀害支店长，称是中原所为。",
+      "level": 2
+    },
+    {
+      "id": "6.2",
+      "text": "长岛要求见拜把兄弟斋藤，并表示之后会说出实情。",
+      "level": 2
+    },
+    {
+      "id": "6.3",
+      "text": "斋藤见面后，长岛供述钱被中原带走，约定六天后（九月十日）在长野县饭田市的桔庄旅馆见面。",
+      "level": 2
+    },
+    {
+      "id": "6.4",
+      "text": "长岛指认中原是杀人凶手。",
+      "level": 2
+    },
+    {
+      "id": "7",
+      "text": "警方在饭田市桔庄旅馆布置了严密的包围网。",
+      "level": 1
+    },
+    {
+      "id": "7.1",
+      "text": "远山和涸沼在附近潜伏，忍野和铃木扮作游客入住旅馆。",
+      "level": 2
+    },
+    {
+      "id": "7.2",
+      "text": "前田帮的成员在郊外封锁了饭田市的两条主要公路。",
+      "level": 2
+    },
+    {
+      "id": "7.3",
+      "text": "中原顺在五点十分左右撞上前田帮的设卡，发生搏斗后抢夺了他们的车逃跑，沿着三州街道向盐尻方向逃离。",
+      "level": 2
+    },
+    {
+      "id": "7.4",
+      "text": "警方在松川町和驹根市封锁了公路，但认为中原可能弃车逃入山区。",
+      "level": 2
+    },
+    {
+      "id": "7.5",
+      "text": "涸沼根据中原的登山经历，判断他会逃往南阿尔卑斯山脉的赤石峰。",
+      "level": 2
+    },
+    {
+      "id": "8",
+      "text": "涸沼独自前往赤石峰搜寻中原。",
+      "level": 1
+    },
+    {
+      "id": "8.1",
+      "text": "涸沼到达大鹿村，得知赤石峰附近可能要来台风，并有两队登山者失踪的传闻（UFO基地）。",
+      "level": 2
+    },
+    {
+      "id": "8.2",
+      "text": "涸沼不相信UFO的说法，但对这次搜捕感到不安。",
+      "level": 2
+    },
+    {
+      "id": "8.3",
+      "text": "涸沼具备超乎寻常的搜寻能力，曾独自在奥羽山脉搜寻犯人长达一个月。",
+      "level": 2
+    },
+    {
+      "id": "8.4",
+      "text": "涸沼在登山途中遭遇暴雨和山崩，被迫躲避。",
+      "level": 2
+    },
+    {
+      "id": "8.5",
+      "text": "涸沼最终决定前往鹿泽庄温泉疗养所避难。",
+      "level": 2
+    },
+    {
+      "id": "9",
+      "text": "九月十日，岛崎安雄和君枝在鹿泽庄接待了避雨的四名年轻女性。",
+      "level": 1
+    },
+    {
+      "id": "9.1",
+      "text": "这四名女性可能是从赤石峰下山途中遇到台风而来到疗养所。",
+      "level": 2
+    }
+  ],
+  "concepts": [
+    {
+      "name": "重宗祐",
+      "frequency": 8,
+      "context": "M银行新宿支店长，被歹徒绑架并杀害。"
+    },
+    {
+      "name": "中原顺",
+      "frequency": 16,
+      "context": "极东警备保险公司警备科长，主犯，精心策划抢劫银行并杀害支店长。"
+    },
+    {
+      "name": "长岛公三",
+      "frequency": 7,
+      "context": "小流氓，前田帮成员，与中原顺合谋，被捕后供出线索。"
+    },
+    {
+      "name": "涸沼凉介",
+      "frequency": 11,
+      "context": "警视厅搜查一科刑警，具备出色的搜寻和追踪能力，负责追捕中原顺。"
+    },
+    {
+      "name": "远山",
+      "frequency": 7,
+      "context": "警视厅搜查一科老资格科员，与涸沼一同办案，性格稍显急躁。"
+    },
+    {
+      "name": "忍野",
+      "frequency": 7,
+      "context": "新宿署警官，负责本案，倾向于速战速决。"
+    },
+    {
+      "name": "银行",
+      "frequency": 10,
+      "context": "M银行新宿支店，被抢劫的对象。"
+    },
+    {
+      "name": "警备保险公司",
+      "frequency": 6,
+      "context": "负责银行的安保，中原顺曾是该公司的监视员。"
+    },
+    {
+      "name": "赤石峰",
+      "frequency": 8,
+      "context": "南阿尔卑斯山脉中的一处山峰，涸沼推测中原顺会逃往此处。"
+    },
+    {
+      "name": "前田帮",
+      "frequency": 6,
+      "context": "一个黑社会组织，长岛公三是其成员，并在饭田市设卡阻拦警方。"
+    },
+    {
+      "name": "台风",
+      "frequency": 4,
+      "context": "影响了涸沼在赤石峰的搜寻行动，并导致一些登山者可能遇难。"
+    },
+    {
+      "name": "UFO",
+      "frequency": 2,
+      "context": "大鹿村旅馆女服务员提到的传闻，与赤石峰失踪事件有关。"
+    },
+    {
+      "name": "鹿泽庄",
+      "frequency": 3,
+      "context": "赤石峰中部的温泉疗养所，涸沼避难的目的地。"
+    }
+  ],
+  "relations": [
+    {
+      "source": "重宗祐",
+      "target": "M银行",
+      "type": "is_a"
+    },
+    {
+      "source": "重宗祐",
+      "target": "歹徒",
+      "type": "is_victim_of"
+    },
+    {
+      "source": "中原顺",
+      "target": "极东警备保险公司",
+      "type": "is_employee_of"
+    },
+    {
+      "source": "中原顺",
+      "target": "长岛公三",
+      "type": "collaborates_with"
+    },
+    {
+      "source": "中原顺",
+      "target": "M银行",
+      "type": "robs"
+    },
+    {
+      "source": "中原顺",
+      "target": "重宗祐",
+      "type": "murders"
+    },
+    {
+      "source": "长岛公三",
+      "target": "前田帮",
+      "type": "is_member_of"
+    },
+    {
+      "source": "长岛公三",
+      "target": "匕首",
+      "type": "leaves_fingerprint_on"
+    },
+    {
+      "source": "涸沼凉介",
+      "target": "警视厅",
+      "type": "is_employee_of"
+    },
+    {
+      "source": "涸沼凉介",
+      "target": "中原顺",
+      "type": "hunts"
+    },
+    {
+      "source": "涸沼凉介",
+      "target": "赤石峰",
+      "type": "searches_in"
+    },
+    {
+      "source": "忍野",
+      "target": "新宿署",
+      "type": "is_employee_of"
+    },
+    {
+      "source": "M银行",
+      "target": "警备保险公司",
+      "type": "has_contract_with"
+    },
+    {
+      "source": "前田帮",
+      "target": "饭田市",
+      "type": "operates_in"
+    },
+    {
+      "source": "台风",
+      "target": "赤石峰",
+      "type": "affects"
+    },
+    {
+      "source": "涸沼凉介",
+      "target": "鹿泽庄",
+      "type": "seeks_shelter_at"
+    }
+  ],
+  "hierarchy": {
+    "main_topics": [
+      "Novel Introduction and Website Information",
+      "Chapter 1: Bestiality (The Robbery and Murder)",
+      "Investigation and Identification of Suspects",
+      "Suspect Profiling and Background",
+      "The Chase and Capture Attempt",
+      "Chapter 2: Magic Valley (The Pursuit in the Mountains)"
+    ],
+    "structure": "The document is structured as a novel, divided into chapters and sections, detailing a crime, its investigation, and the subsequent pursuit of the perpetrator. It follows a chronological narrative with elements of crime fiction and police procedural."
+  }
+}

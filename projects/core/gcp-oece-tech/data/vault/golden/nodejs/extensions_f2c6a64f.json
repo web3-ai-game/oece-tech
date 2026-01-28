@@ -1,0 +1,33 @@
+{
+  "recommendations": [
+    // Essential
+    "dbaeumer.vscode-eslint",
+    "esbenp.prettier-vscode",
+    "bradlc.vscode-tailwindcss",
+    
+    // Next.js & React
+    "dsznajder.es7-react-js-snippets",
+    "styled-components.vscode-styled-components",
+    
+    // TypeScript
+    "ms-vscode.vscode-typescript-next",
+    
+    // Git
+    "eamodio.gitlens",
+    "mhutchie.git-graph",
+    
+    // Markdown
+    "yzhang.markdown-all-in-one",
+    "DavidAnson.vscode-markdownlint",
+    
+    // Utils
+    "christian-kohler.path-intellisense",
+    "formulahendry.auto-rename-tag",
+    "usernamehw.errorlens",
+    "aaron-bond.better-comments",
+    
+    // Theme (Optional)
+    "PKief.material-icon-theme",
+    "GitHub.github-vscode-theme"
+  ]
+}

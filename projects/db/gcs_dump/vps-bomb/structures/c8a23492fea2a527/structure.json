@@ -1,0 +1,65 @@
+{
+  "propositions": [
+    {
+      "id": "1",
+      "text": "穿越之女尊传奇 as the central theme",
+      "level": 1
+    },
+    {
+      "id": "1.1",
+      "text": "Introduction to the concept of穿越 (time travel)",
+      "level": 2
+    },
+    {
+      "id": "1.2",
+      "text": "Exploration of女尊 (matriarchal society)",
+      "level": 2
+    },
+    {
+      "id": "1.3",
+      "text": "Narrative progression through multiple sections",
+      "level": 2
+    }
+  ],
+  "concepts": [
+    {
+      "name": "穿越 (Time Travel)",
+      "frequency": 131,
+      "context": "Core theme of the narrative, repeated in each section title"
+    },
+    {
+      "name": "女尊 (Matriarchal Society)",
+      "frequency": 131,
+      "context": "Central societal structure explored in the story"
+    },
+    {
+      "name": "传奇 (Legend)",
+      "frequency": 131,
+      "context": "Descriptive element of the story's epic nature"
+    }
+  ],
+  "relations": [
+    {
+      "source": "穿越 (Time Travel)",
+      "target": "女尊 (Matriarchal Society)",
+      "type": "contextualizes"
+    },
+    {
+      "source": "女尊 (Matriarchal Society)",
+      "target": "传奇 (Legend)",
+      "type": "defines"
+    },
+    {
+      "source": "穿越 (Time Travel)",
+      "target": "传奇 (Legend)",
+      "type": "enables"
+    }
+  ],
+  "hierarchy": {
+    "main_topics": [
+      "穿越 (Time Travel)",
+      "女尊 (Matriarchal Society)"
+    ],
+    "structure": "The document is structured as a novel with a repetitive title pattern across 131 sections under a single chapter, focusing on time travel and matriarchal themes."
+  }
+}

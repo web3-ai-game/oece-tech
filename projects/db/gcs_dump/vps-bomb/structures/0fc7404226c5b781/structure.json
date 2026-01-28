@@ -1,0 +1,196 @@
+{
+  "propositions": [
+    {
+      "id": "1",
+      "text": "The document describes the societal structure and power dynamics of a city.",
+      "level": 1
+    },
+    {
+      "id": "2",
+      "text": "Different districts represent varying levels of prestige and influence.",
+      "level": 2
+    },
+    {
+      "id": "3",
+      "text": "Xiamen Road symbolizes power and status due to its residents.",
+      "level": 2
+    },
+    {
+      "id": "4",
+      "text": "The residents of Xiamen Road are high-ranking officials.",
+      "level": 3
+    },
+    {
+      "id": "5",
+      "text": "The city's true center is debated, with different groups claiming it.",
+      "level": 2
+    },
+    {
+      "id": "6",
+      "text": "Gao Bonian, the city's top leader, faces personal and professional crises.",
+      "level": 2
+    },
+    {
+      "id": "7",
+      "text": "Gao Bonian's son requests a photo of his birth mother from the front lines.",
+      "level": 3
+    },
+    {
+      "id": "8",
+      "text": "Gao Bonian's daughter is pregnant and has had an abortion.",
+      "level": 3
+    },
+    {
+      "id": "9",
+      "text": "The mayor, Yan Honghuan, is summoned to Beijing without Gao Bonian's knowledge.",
+      "level": 3
+    },
+    {
+      "id": "10",
+      "text": "Gao Bonian's wife, Shen Ping, has a complex relationship with him and their family.",
+      "level": 3
+    }
+  ],
+  "concepts": [
+    {
+      "name": "City Center",
+      "frequency": 7,
+      "context": "Debates about location and definition"
+    },
+    {
+      "name": "Social Hierarchy",
+      "frequency": 6,
+      "context": "District influence and resident status"
+    },
+    {
+      "name": "Power Dynamics",
+      "frequency": 5,
+      "context": "Official roles and decision-making"
+    },
+    {
+      "name": "Personal Crisis",
+      "frequency": 5,
+      "context": "Family issues affecting leaders"
+    },
+    {
+      "name": "Political Landscape",
+      "frequency": 5,
+      "context": "Beijing's involvement and leadership shifts"
+    },
+    {
+      "name": "Xiamen Road",
+      "frequency": 4,
+      "context": "Symbol of power and privilege"
+    },
+    {
+      "name": "Gao Bonian",
+      "frequency": 4,
+      "context": "City Party Secretary"
+    },
+    {
+      "name": "Yan Honghuan",
+      "frequency": 3,
+      "context": "Mayor, potential successor"
+    },
+    {
+      "name": "Shen Ping",
+      "frequency": 3,
+      "context": "Gao Bonian's wife"
+    },
+    {
+      "name": "Family Issues",
+      "frequency": 3,
+      "context": "Children's problems"
+    },
+    {
+      "name": "Identity",
+      "frequency": 2,
+      "context": "Sense of self and status"
+    },
+    {
+      "name": "Past vs. Present",
+      "frequency": 2,
+      "context": "Historical context of city development"
+    },
+    {
+      "name": "Rural vs. Urban",
+      "frequency": 2,
+      "context": "Gao Bonian's family background"
+    },
+    {
+      "name": "Health",
+      "frequency": 2,
+      "context": "Gao Bonian's well-being"
+    },
+    {
+      "name": "Reform Era",
+      "frequency": 1,
+      "context": "Changing times and leadership"
+    }
+  ],
+  "relations": [
+    {
+      "source": "1",
+      "target": "2",
+      "type": "describes"
+    },
+    {
+      "source": "2",
+      "target": "3",
+      "type": "exemplifies"
+    },
+    {
+      "source": "3",
+      "target": "4",
+      "type": "characterized_by"
+    },
+    {
+      "source": "5",
+      "target": "2",
+      "type": "related_to"
+    },
+    {
+      "source": "6",
+      "target": "7",
+      "type": "involves"
+    },
+    {
+      "source": "6",
+      "target": "8",
+      "type": "involves"
+    },
+    {
+      "source": "6",
+      "target": "9",
+      "type": "involves"
+    },
+    {
+      "source": "9",
+      "target": "6",
+      "type": "impacts_on"
+    },
+    {
+      "source": "6",
+      "target": "10",
+      "type": "related_to"
+    },
+    {
+      "source": "10",
+      "target": "6",
+      "type": "influences"
+    },
+    {
+      "source": "10",
+      "target": "8",
+      "type": "related_to"
+    }
+  ],
+  "hierarchy": {
+    "main_topics": [
+      "Urban Geography and Social Stratification",
+      "Political Leadership and Personal Struggles",
+      "Family Dynamics and Personal Relationships"
+    ],
+    "structure": "The document begins by exploring the concept of a city center and its multiple interpretations, moving on to delineate social stratification through different urban districts. It then shifts to the personal and professional challenges faced by the city's top leader, Gao Bonian, detailing his family crises and the political implications of the mayor's independent actions. The narrative concludes by delving into the complex relationship between Gao Bonian and his wife, highlighting their past conflicts and differing perspectives."
+  }
+}

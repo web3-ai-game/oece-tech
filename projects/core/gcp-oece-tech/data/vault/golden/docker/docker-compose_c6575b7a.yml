@@ -1,0 +1,200 @@
+version: '3.8'
+
+services:
+  # ========================================
+  # Nginx Reverse Proxy + SSL
+  # ========================================
+  nginx:
+    build:
+      context: ./nginx
+      dockerfile: Dockerfile
+    container_name: deepweay-nginx
+    restart: always
+    ports:
+      - "80:80"
+      - "443:443"
+    volumes:
+      # SSL certificates
+      - ./certbot/conf:/etc/letsencrypt
+      - ./certbot/www:/var/www/certbot
+      # Nginx logs
+      - ./logs/nginx:/var/log/nginx
+    depends_on:
+      web:
+        condition: service_healthy
+    networks:
+      - deepweay-network
+    labels:
+      com.datadoghq.ad.logs: '[{"source": "nginx", "service": "deepweay-nginx"}]'
+      com.datadoghq.tags.env: "production"
+      com.datadoghq.tags.service: "deepweay-nginx"
+    healthcheck:
+      test: ["CMD", "wget", "--quiet", "--tries=1", "--spider", "http://localhost/health"]
+      interval: 30s
+      timeout: 5s
+      retries: 3
+      start_period: 10s
+
+  # ========================================
+  # Next.js Web应用 (内部服务，不暴露端口)
+  # ========================================
+  web:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: deepweay-web
+    restart: always
+    # 不暴露端口到宿主机，仅容器内部通信
+    expose:
+      - "3000"
+    env_file:
+      - .env.production
+    environment:
+      - NODE_ENV=production
+      - HOSTNAME=0.0.0.0
+    labels:
+      # Datadog日志收集
+      com.datadoghq.ad.logs: '[{"source": "nextjs", "service": "deepweay-web"}]'
+      # Datadog标签
+      com.datadoghq.tags.env: "production"
+      com.datadoghq.tags.service: "deepweay-web"
+      com.datadoghq.tags.version: "1.0.0"
+    networks:
+      - deepweay-network
+    healthcheck:
+      test: ["CMD", "wget", "--quiet", "--tries=1", "--spider", "http://localhost:3000"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 40s
+
+  # ========================================
+  # Telegram Bot 1 (小爱同学)
+  # ========================================
+  telegram-bot-1:
+    build:
+      context: ./telegram-bot
+      dockerfile: Dockerfile
+    container_name: deepweay-tg-bot-1
+    restart: always
+    environment:
+      - NODE_ENV=production
+      - BOT_NUM=1
+    env_file:
+      - .env.production
+    labels:
+      com.datadoghq.ad.logs: '[{"source": "telegram-bot", "service": "tg-bot-1"}]'
+      com.datadoghq.tags.env: "production"
+      com.datadoghq.tags.service: "tg-bot-1"
+      com.datadoghq.tags.bot: "svsinst_bot"
+    networks:
+      - deepweay-network
+    depends_on:
+      web:
+        condition: service_healthy
+
+  # ========================================
+  # Telegram Bot 2 (备用)
+  # ========================================
+  telegram-bot-2:
+    build:
+      context: ./telegram-bot
+      dockerfile: Dockerfile
+    container_name: deepweay-tg-bot-2
+    restart: always
+    environment:
+      - NODE_ENV=production
+      - BOT_NUM=2
+    env_file:
+      - .env.production
+    labels:
+      com.datadoghq.ad.logs: '[{"source": "telegram-bot", "service": "tg-bot-2"}]'
+      com.datadoghq.tags.env: "production"
+      com.datadoghq.tags.service: "tg-bot-2"
+      com.datadoghq.tags.bot: "svslovea_bot"
+    networks:
+      - deepweay-network
+    depends_on:
+      web:
+        condition: service_healthy
+
+  # ========================================
+  # Datadog Agent (监控核心)
+  # ========================================
+  datadog:
+    image: gcr.io/datadoghq/agent:7
+    container_name: deepweay-datadog
+    restart: always
+    env_file:
+      - .env.production
+    environment:
+      # API配置 (US5站点)
+      - DD_API_KEY=${DATADOG_API_KEY:-ae7af4dca416e9e3894b31c0a12cf093}
+      - DD_SITE=us5.datadoghq.com
+      
+      # 日志收集
+      - DD_LOGS_ENABLED=true
+      - DD_LOGS_CONFIG_CONTAINER_COLLECT_ALL=true
+      - DD_LOGS_CONFIG_DOCKER_LABELS_AS_TAGS={"*":"true"}
+      
+      # 进程监控
+      - DD_PROCESS_AGENT_ENABLED=true
+      - DD_PROCESS_CONFIG_PROCESS_COLLECTION_ENABLED=true
+      
+      # APM追踪
+      - DD_APM_ENABLED=true
+      - DD_APM_NON_LOCAL_TRAFFIC=true
+      - DD_APM_RECEIVER_PORT=8126
+      
+      # 容器监控
+      - DD_CONTAINER_LABELS_AS_TAGS={"*":"true"}
+      - DD_DOCKER_LABELS_AS_TAGS={"*":"true"}
+      
+      # 全局标签
+      - DD_TAGS=env:production project:deepweay vps:digitalocean region:sgp1
+      
+      # 主机名
+      - DD_HOSTNAME=deepweay-vps-production
+      
+      # 性能优化
+      - DD_DOGSTATSD_NON_LOCAL_TRAFFIC=true
+      - DD_SYSTEM_PROBE_ENABLED=false
+    volumes:
+      # Docker socket (监控容器)
+      - /var/run/docker.sock:/var/run/docker.sock:ro
+      
+      # 系统信息
+      - /proc/:/host/proc/:ro
+      - /sys/fs/cgroup/:/host/sys/fs/cgroup:ro
+      
+      # 容器日志
+      - /var/lib/docker/containers:/var/lib/docker/containers:ro
+      
+      # 持久化数据
+      - /opt/datadog-agent/run:/opt/datadog-agent/run:rw
+    networks:
+      - deepweay-network
+    ports:
+      - "8125:8125/udp"  # DogStatsD
+      - "8126:8126/tcp"  # APM
+    security_opt:
+      - apparmor:unconfined
+    cap_add:
+      - SYS_ADMIN
+      - SYS_RESOURCE
+      - SYS_PTRACE
+      - NET_ADMIN
+      - NET_BROADCAST
+      - NET_RAW
+      - IPC_LOCK
+      - CHOWN
+
+# ========================================
+# 网络配置
+# ========================================
+networks:
+  deepweay-network:
+    driver: bridge
+    ipam:
+      config:
+        - subnet: 172.25.0.0/16

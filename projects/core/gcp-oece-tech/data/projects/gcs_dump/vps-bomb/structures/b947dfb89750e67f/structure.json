@@ -1,0 +1,845 @@
+{
+  "propositions": [
+    {
+      "id": "1",
+      "text": "《帝王游戏》是一款以古代帝王为题材的角色扮演类游戏。",
+      "level": 1
+    },
+    {
+      "id": "1.1",
+      "text": "玩家在游戏中扮演一位年轻的君主。",
+      "level": 2
+    },
+    {
+      "id": "1.2",
+      "text": "玩家通过一系列的策略、外交、战争和内政，逐步发展自己的国家。",
+      "level": 2
+    },
+    {
+      "id": "1.3",
+      "text": "玩家的最终目标是统一天下，成为一代传奇帝王。",
+      "level": 2
+    },
+    {
+      "id": "2",
+      "text": "游戏的核心玩法包括国家发展、策略战争、外交手段和人物养成。",
+      "level": 1
+    },
+    {
+      "id": "2.1",
+      "text": "国家发展涉及管理农业、商业、军事、文化等，提升国家实力和民众幸福度。",
+      "level": 2
+    },
+    {
+      "id": "2.2",
+      "text": "策略战争包括招募军队、研发科技、制定作战计划，与其他势力搏斗以实现统一。",
+      "level": 2
+    },
+    {
+      "id": "2.3",
+      "text": "外交手段涉及结盟、贸易、威胁等多种方式与其他国家互动。",
+      "level": 2
+    },
+    {
+      "id": "2.4",
+      "text": "人物养成包括培养历史名臣和后宫佳丽，让他们效力或成为伴侣。",
+      "level": 2
+    },
+    {
+      "id": "3",
+      "text": "游戏具有宏大的世界观，深度的策略性，丰富的剧情和精美的画面。",
+      "level": 1
+    },
+    {
+      "id": "3.1",
+      "text": "宏大的世界观融合了丰富的历史元素和虚构情节。",
+      "level": 2
+    },
+    {
+      "id": "3.2",
+      "text": "深度的策略性体现在内政管理和军事扩张的多样化策略选择。",
+      "level": 2
+    },
+    {
+      "id": "3.3",
+      "text": "丰富的剧情拥有跌宕起伏，玩家选择影响故事发展和最终结局。",
+      "level": 2
+    },
+    {
+      "id": "3.4",
+      "text": "精美的画面采用写实风格，配以动听的音乐。",
+      "level": 2
+    },
+    {
+      "id": "4",
+      "text": "玩家评价强调了游戏中的权力和责任感、决策的挑战与成就感，以及策略深度和剧情故事的优秀。",
+      "level": 1
+    },
+    {
+      "id": "5",
+      "text": "游戏攻略提供了初期、中期和后期发展策略。",
+      "level": 1
+    },
+    {
+      "id": "5.1",
+      "text": "初期发展建议包括优先发展农业、谨慎扩张和善用外交。",
+      "level": 2
+    },
+    {
+      "id": "5.1.1",
+      "text": "农业是国力的基础，初期应优先发展以保障粮食供应。",
+      "level": 3
+    },
+    {
+      "id": "5.1.2",
+      "text": "初期不宜过度扩张，应先稳定内政。",
+      "level": 3
+    },
+    {
+      "id": "5.1.3",
+      "text": "与周边小国建立良好关系，避免多线战争。",
+      "level": 3
+    },
+    {
+      "id": "5.2",
+      "text": "中期策略包括科技研发、人才招募和后宫经营。",
+      "level": 2
+    },
+    {
+      "id": "5.2.1",
+      "text": "集中资源研发军事科技以提升军队战斗力。",
+      "level": 3
+    },
+    {
+      "id": "5.2.2",
+      "text": "积极招募贤臣以弥补自身不足。",
+      "level": 3
+    },
+    {
+      "id": "5.2.3",
+      "text": "培养后宫嫔妃可获得特殊加成或助力。",
+      "level": 3
+    },
+    {
+      "id": "5.3",
+      "text": "后期统一策略包括集中优势兵力、利用天气和地形以及瓦解敌方联盟。",
+      "level": 2
+    },
+    {
+      "id": "5.3.1",
+      "text": "关键战役中集中优势兵力。",
+      "level": 3
+    },
+    {
+      "id": "5.3.2",
+      "text": "充分利用天气和地形优势。",
+      "level": 3
+    },
+    {
+      "id": "5.3.3",
+      "text": "通过外交手段分化瓦解敌方联盟。",
+      "level": 3
+    },
+    {
+      "id": "6",
+      "text": "游戏由XXX工作室开发，YYY科技发行。",
+      "level": 1
+    },
+    {
+      "id": "7",
+      "text": "参考文献包括《游戏攻略秘籍大全》和玩家论坛精华帖。",
+      "level": 1
+    }
+  ],
+  "concepts": [
+    {
+      "name": "帝王游戏",
+      "frequency": 10,
+      "context": "The central topic of the document, a role-playing game."
+    },
+    {
+      "name": "角色扮演类游戏",
+      "frequency": 1,
+      "context": "The genre of the '帝王游戏'."
+    },
+    {
+      "name": "古代帝王",
+      "frequency": 1,
+      "context": "The theme of the '帝王游戏'."
+    },
+    {
+      "name": "君主",
+      "frequency": 1,
+      "context": "The role the player assumes in the game."
+    },
+    {
+      "name": "策略",
+      "frequency": 4,
+      "context": "A core gameplay element and a characteristic of the game."
+    },
+    {
+      "name": "外交",
+      "frequency": 4,
+      "context": "A core gameplay element and a strategic aspect."
+    },
+    {
+      "name": "战争",
+      "frequency": 4,
+      "context": "A core gameplay element and a strategic aspect."
+    },
+    {
+      "name": "内政",
+      "frequency": 3,
+      "context": "A core gameplay element and a strategic aspect."
+    },
+    {
+      "name": "国家发展",
+      "frequency": 2,
+      "context": "A core gameplay element."
+    },
+    {
+      "name": "农业",
+      "frequency": 2,
+      "context": "A component of national development."
+    },
+    {
+      "name": "商业",
+      "frequency": 1,
+      "context": "A component of national development."
+    },
+    {
+      "name": "军事",
+      "frequency": 3,
+      "context": "A component of national development and a gameplay element."
+    },
+    {
+      "name": "文化",
+      "frequency": 1,
+      "context": "A component of national development."
+    },
+    {
+      "name": "玩家",
+      "frequency": 5,
+      "context": "The user of the game."
+    },
+    {
+      "name": "统一天下",
+      "frequency": 2,
+      "context": "The ultimate goal of the player."
+    },
+    {
+      "name": "传奇帝王",
+      "frequency": 1,
+      "context": "The aspirational status for the player."
+    },
+    {
+      "name": "核心玩法",
+      "frequency": 1,
+      "context": "Describes the fundamental mechanics of the game."
+    },
+    {
+      "name": "人物养成",
+      "frequency": 2,
+      "context": "A core gameplay element."
+    },
+    {
+      "name": "历史名臣",
+      "frequency": 1,
+      "context": "Characters involved in character development."
+    },
+    {
+      "name": "后宫佳丽",
+      "frequency": 2,
+      "context": "Characters involved in character development."
+    },
+    {
+      "name": "游戏特色",
+      "frequency": 1,
+      "context": "Describes the unique aspects of the game."
+    },
+    {
+      "name": "世界观",
+      "frequency": 2,
+      "context": "A feature of the game's setting."
+    },
+    {
+      "name": "历史元素",
+      "frequency": 1,
+      "context": "Part of the game's world-building."
+    },
+    {
+      "name": "虚构情节",
+      "frequency": 1,
+      "context": "Part of the game's world-building."
+    },
+    {
+      "name": "策略性",
+      "frequency": 2,
+      "context": "A characteristic of the game."
+    },
+    {
+      "name": "内政管理",
+      "frequency": 1,
+      "context": "A gameplay aspect requiring strategy."
+    },
+    {
+      "name": "军事扩张",
+      "frequency": 1,
+      "context": "A gameplay aspect requiring strategy."
+    },
+    {
+      "name": "剧情",
+      "frequency": 2,
+      "context": "A feature of the game."
+    },
+    {
+      "name": "画面",
+      "frequency": 1,
+      "context": "A feature of the game's presentation."
+    },
+    {
+      "name": "音乐",
+      "frequency": 1,
+      "context": "A feature of the game's presentation."
+    },
+    {
+      "name": "玩家评价",
+      "frequency": 1,
+      "context": "Feedback from players."
+    },
+    {
+      "name": "权力",
+      "frequency": 1,
+      "context": "Perceived aspect of being an emperor in the game."
+    },
+    {
+      "name": "责任",
+      "frequency": 1,
+      "context": "Perceived aspect of being an emperor in the game."
+    },
+    {
+      "name": "决策",
+      "frequency": 2,
+      "context": "Key actions taken by the player."
+    },
+    {
+      "name": "挑战",
+      "frequency": 1,
+      "context": "An aspect of gameplay experience."
+    },
+    {
+      "name": "成就感",
+      "frequency": 1,
+      "context": "An aspect of gameplay experience."
+    },
+    {
+      "name": "游戏攻略",
+      "frequency": 1,
+      "context": "Guidance for playing the game."
+    },
+    {
+      "name": "初期发展",
+      "frequency": 2,
+      "context": "The beginning phase of the game."
+    },
+    {
+      "name": "粮食供应",
+      "frequency": 1,
+      "context": "A resource managed in the game."
+    },
+    {
+      "name": "内政",
+      "frequency": 2,
+      "context": "Aspect of game management."
+    },
+    {
+      "name": "建筑",
+      "frequency": 1,
+      "context": "Element within national development."
+    },
+    {
+      "name": "周边小国",
+      "frequency": 1,
+      "context": "Entities the player interacts with diplomatically."
+    },
+    {
+      "name": "多线战争",
+      "frequency": 1,
+      "context": "A potential strategic challenge."
+    },
+    {
+      "name": "中期策略",
+      "frequency": 1,
+      "context": "The middle phase of the game's strategic advice."
+    },
+    {
+      "name": "科技研发",
+      "frequency": 2,
+      "context": "A strategic activity."
+    },
+    {
+      "name": "军队战斗力",
+      "frequency": 1,
+      "context": "A measure of military strength."
+    },
+    {
+      "name": "人才招募",
+      "frequency": 1,
+      "context": "A strategic activity."
+    },
+    {
+      "name": "贤臣",
+      "frequency": 1,
+      "context": "Characters acquired through recruitment."
+    },
+    {
+      "name": "后宫经营",
+      "frequency": 1,
+      "context": "A gameplay element."
+    },
+    {
+      "name": "特殊加成",
+      "frequency": 1,
+      "context": "Benefits gained from certain actions."
+    },
+    {
+      "name": "后期统一",
+      "frequency": 1,
+      "context": "The final phase of the game's strategic advice."
+    },
+    {
+      "name": "优势兵力",
+      "frequency": 1,
+      "context": "A tactical consideration in warfare."
+    },
+    {
+      "name": "关键战役",
+      "frequency": 1,
+      "context": "Important military engagements."
+    },
+    {
+      "name": "天气",
+      "frequency": 1,
+      "context": "An environmental factor influencing warfare."
+    },
+    {
+      "name": "地形",
+      "frequency": 2,
+      "context": "An environmental factor influencing warfare."
+    },
+    {
+      "name": "敌方联盟",
+      "frequency": 1,
+      "context": "An obstacle to unification."
+    },
+    {
+      "name": "游戏截图",
+      "frequency": 1,
+      "context": "Visual representation of the game (placeholder)."
+    },
+    {
+      "name": "开发者信息",
+      "frequency": 1,
+      "context": "Information about the game's creators."
+    },
+    {
+      "name": "开发商",
+      "frequency": 1,
+      "context": "The company that developed the game."
+    },
+    {
+      "name": "发行商",
+      "frequency": 1,
+      "context": "The company that published the game."
+    },
+    {
+      "name": "参考文献",
+      "frequency": 1,
+      "context": "Sources of information related to the game."
+    },
+    {
+      "name": "游戏攻略秘籍大全",
+      "frequency": 1,
+      "context": "A reference book."
+    },
+    {
+      "name": "玩家论坛",
+      "frequency": 1,
+      "context": "An online community for players."
+    }
+  ],
+  "relations": [
+    {
+      "source": "帝王游戏",
+      "target": "角色扮演类游戏",
+      "type": "is_a"
+    },
+    {
+      "source": "帝王游戏",
+      "target": "古代帝王",
+      "type": "has_theme"
+    },
+    {
+      "source": "玩家",
+      "target": "君主",
+      "type": "plays_role_as"
+    },
+    {
+      "source": "君主",
+      "target": "策略",
+      "type": "uses"
+    },
+    {
+      "source": "君主",
+      "target": "外交",
+      "type": "uses"
+    },
+    {
+      "source": "君主",
+      "target": "战争",
+      "type": "uses"
+    },
+    {
+      "source": "君主",
+      "target": "内政",
+      "type": "manages"
+    },
+    {
+      "source": "君主",
+      "target": "国家发展",
+      "type": "performs"
+    },
+    {
+      "source": "君主",
+      "target": "统一天下",
+      "type": "aims_for"
+    },
+    {
+      "source": "帝王游戏",
+      "target": "核心玩法",
+      "type": "has"
+    },
+    {
+      "source": "核心玩法",
+      "target": "国家发展",
+      "type": "includes"
+    },
+    {
+      "source": "核心玩法",
+      "target": "策略战争",
+      "type": "includes"
+    },
+    {
+      "source": "核心玩法",
+      "target": "外交手段",
+      "type": "includes"
+    },
+    {
+      "source": "核心玩法",
+      "target": "人物养成",
+      "type": "includes"
+    },
+    {
+      "source": "国家发展",
+      "target": "农业",
+      "type": "involves"
+    },
+    {
+      "source": "国家发展",
+      "target": "商业",
+      "type": "involves"
+    },
+    {
+      "source": "国家发展",
+      "target": "军事",
+      "type": "involves"
+    },
+    {
+      "source": "国家发展",
+      "target": "文化",
+      "type": "involves"
+    },
+    {
+      "source": "策略战争",
+      "target": "军队",
+      "type": "involves"
+    },
+    {
+      "source": "策略战争",
+      "target": "科技",
+      "type": "involves"
+    },
+    {
+      "source": "策略战争",
+      "target": "作战计划",
+      "type": "involves"
+    },
+    {
+      "source": "外交手段",
+      "target": "结盟",
+      "type": "includes"
+    },
+    {
+      "source": "外交手段",
+      "target": "贸易",
+      "type": "includes"
+    },
+    {
+      "source": "外交手段",
+      "target": "威胁",
+      "type": "includes"
+    },
+    {
+      "source": "人物养成",
+      "target": "历史名臣",
+      "type": "involves"
+    },
+    {
+      "source": "人物养成",
+      "target": "后宫佳丽",
+      "type": "involves"
+    },
+    {
+      "source": "帝王游戏",
+      "target": "游戏特色",
+      "type": "has"
+    },
+    {
+      "source": "游戏特色",
+      "target": "世界观",
+      "type": "includes"
+    },
+    {
+      "source": "游戏特色",
+      "target": "策略性",
+      "type": "includes"
+    },
+    {
+      "source": "游戏特色",
+      "target": "剧情",
+      "type": "includes"
+    },
+    {
+      "source": "游戏特色",
+      "target": "画面",
+      "type": "includes"
+    },
+    {
+      "source": "世界观",
+      "target": "历史元素",
+      "type": "integrates"
+    },
+    {
+      "source": "世界观",
+      "target": "虚构情节",
+      "type": "integrates"
+    },
+    {
+      "source": "策略性",
+      "target": "内政管理",
+      "type": "applies_to"
+    },
+    {
+      "source": "策略性",
+      "target": "军事扩张",
+      "type": "applies_to"
+    },
+    {
+      "source": "剧情",
+      "target": "玩家选择",
+      "type": "affected_by"
+    },
+    {
+      "source": "画面",
+      "target": "写实风格",
+      "type": "is_in_style"
+    },
+    {
+      "source": "画面",
+      "target": "音乐",
+      "type": "complemented_by"
+    },
+    {
+      "source": "帝王游戏",
+      "target": "玩家评价",
+      "type": "receives"
+    },
+    {
+      "source": "玩家评价",
+      "target": "权力",
+      "type": "mentions"
+    },
+    {
+      "source": "玩家评价",
+      "target": "责任",
+      "type": "mentions"
+    },
+    {
+      "source": "玩家评价",
+      "target": "决策",
+      "type": "highlights"
+    },
+    {
+      "source": "玩家评价",
+      "target": "挑战",
+      "type": "describes"
+    },
+    {
+      "source": "玩家评价",
+      "target": "成就感",
+      "type": "describes"
+    },
+    {
+      "source": "玩家评价",
+      "target": "策略深度",
+      "type": "praises"
+    },
+    {
+      "source": "玩家评价",
+      "target": "剧情故事",
+      "type": "praises"
+    },
+    {
+      "source": "帝王游戏",
+      "target": "游戏攻略",
+      "type": "has"
+    },
+    {
+      "source": "游戏攻略",
+      "target": "初期发展",
+      "type": "provides_advice_on"
+    },
+    {
+      "source": "游戏攻略",
+      "target": "中期策略",
+      "type": "provides_advice_on"
+    },
+    {
+      "source": "游戏攻略",
+      "target": "后期统一",
+      "type": "provides_advice_on"
+    },
+    {
+      "source": "初期发展",
+      "target": "农业",
+      "type": "recommends_prioritizing"
+    },
+    {
+      "source": "初期发展",
+      "target": "内政",
+      "type": "recommends_stabilizing"
+    },
+    {
+      "source": "初期发展",
+      "target": "外交",
+      "type": "recommends_utilizing"
+    },
+    {
+      "source": "中期策略",
+      "target": "科技研发",
+      "type": "includes"
+    },
+    {
+      "source": "中期策略",
+      "target": "人才招募",
+      "type": "includes"
+    },
+    {
+      "source": "中期策略",
+      "target": "后宫经营",
+      "type": "includes"
+    },
+    {
+      "source": "科技研发",
+      "target": "军事科技",
+      "type": "focuses_on"
+    },
+    {
+      "source": "科技研发",
+      "target": "军队战斗力",
+      "type": "aims_to_increase"
+    },
+    {
+      "source": "人才招募",
+      "target": "贤臣",
+      "type": "involves"
+    },
+    {
+      "source": "后宫经营",
+      "target": "后宫嫔妃",
+      "type": "involves"
+    },
+    {
+      "source": "后宫经营",
+      "target": "特殊加成",
+      "type": "can_provide"
+    },
+    {
+      "source": "后期统一",
+      "target": "优势兵力",
+      "type": "recommends_concentrating"
+    },
+    {
+      "source": "后期统一",
+      "target": "天气",
+      "type": "recommends_utilizing"
+    },
+    {
+      "source": "后期统一",
+      "target": "地形",
+      "type": "recommends_utilizing"
+    },
+    {
+      "source": "后期统一",
+      "target": "敌方联盟",
+      "type": "recommends_dismantling"
+    },
+    {
+      "source": "敌方联盟",
+      "target": "外交手段",
+      "type": "used_to_dismantle"
+    },
+    {
+      "source": "帝王游戏",
+      "target": "开发者信息",
+      "type": "has"
+    },
+    {
+      "source": "开发者信息",
+      "target": "开发商",
+      "type": "includes"
+    },
+    {
+      "source": "开发者信息",
+      "target": "发行商",
+      "type": "includes"
+    },
+    {
+      "source": "帝王游戏",
+      "target": "参考文献",
+      "type": "has"
+    },
+    {
+      "source": "参考文献",
+      "target": "游戏攻略秘籍大全",
+      "type": "includes"
+    },
+    {
+      "source": "参考文献",
+      "target": "玩家论坛",
+      "type": "includes"
+    }
+  ],
+  "hierarchy": {
+    "main_topics": [
+      "游戏介绍",
+      "核心玩法",
+      "游戏特色",
+      "玩家评价",
+      "游戏攻略",
+      "开发者信息",
+      "参考文献"
+    ],
+    "structure": "The document is structured as a typical game overview, starting with a general introduction, then detailing core gameplay mechanics, unique features, player feedback, strategic advice (gameplay guide), and finally developer and reference information. The 'Game Guide' section is further subdivided into early, mid, and late-game strategies."
+  }
+}

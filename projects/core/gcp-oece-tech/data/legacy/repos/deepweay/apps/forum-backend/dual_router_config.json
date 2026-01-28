@@ -1,0 +1,83 @@
+{
+  "architecture": "dual_router_quad_group",
+  "routers": {
+    "router_a": {
+      "key": "AIzaSyA5PgAqHpLt8yHCcxdTyBTHt_YP9VmOwjA",
+      "manages": [
+        "group_a1",
+        "group_a2"
+      ]
+    },
+    "router_b": {
+      "key": "AIzaSyDNpOIB0nn4YcVTG9x559O3Ht-AdnHUiLA",
+      "manages": [
+        "group_b1",
+        "group_b2"
+      ]
+    }
+  },
+  "groups": {
+    "group_a1": {
+      "size": 7,
+      "keys": [
+        "AIzaSyCPxNPKzWp29Bfn41KhfGzor8Nw98UBUlU",
+        "AIzaSyAWpD1-bJIE6lXv3lwT-yePeb2faEpYXd8",
+        "AIzaSyBKOla-lFvzYBnMozGcqJvGMWD_A3BkpMs",
+        "AIzaSyCVRIQzW07PYeo9YJJnOqS4f15yLe6WRsg",
+        "AIzaSyCm7hYdz36B75sGtDhtnGrWW75WNTrQ-pU",
+        "AIzaSyAGWdNp7CzAqaCGkan75OW1AwEyL53ljT0",
+        "AIzaSyDoQMM0PQmdNabF9CKTC4lzavLsZnR6zQU"
+      ]
+    },
+    "group_a2": {
+      "size": 7,
+      "keys": [
+        "AIzaSyA9-h77IHDo_LXwYQqO4ZLeIbb49HYaU4A",
+        "AIzaSyAjo1tVdfrDyCzIjQtaTtN6Zt2s4X3bijc",
+        "AIzaSyBOzbxdFcRN_1b007QhuSi-f4FbZXKc5Lw",
+        "AIzaSyD1qjHKnBuGH5ukDCn3CN7dN_OqA5o6Qps",
+        "AIzaSyB7Wx2a_j2YU3Dcklq4Li3p_1Hxxl5abtU",
+        "AIzaSyA8u-ZYsrUU0rDSFPGARGNFHRlpAlXgaS0",
+        "AIzaSyB7xWKLkqOOWJbIcvA3sk4O0dFGbRKhNR4"
+      ]
+    },
+    "group_b1": {
+      "size": 7,
+      "keys": [
+        "AIzaSyATC0o1O_4Ai3oEw_4KfnukCikwKYnXzp4",
+        "AIzaSyDE8txzP-pHA_xO5iXP3VTJExGPgDyw3TE",
+        "AIzaSyDyh8M0djG2E7pbCvNm3d2ecotv2ot8Zkk",
+        "AIzaSyB_PhtmKUEE6d2CtAGiqZMk67R4qrgsXyg",
+        "AIzaSyBRm9efJEnuaeLXkPGuXWDwIWVGBrJVhgA",
+        "AIzaSyArIZw_CufZHxeUkrTmma3oUIJi2bXn4lI",
+        "AIzaSyC1_xh4ylFxwlsT7RnECrGbcsfHp4wLftM"
+      ]
+    },
+    "group_b2": {
+      "size": 6,
+      "keys": [
+        "AIzaSyAlsZ3fLPsB3udtH6hBLOJsSEyijVFXTmI",
+        "AIzaSyCl9-5P5EomTcv5G82___nTB1y29-FpBW4",
+        "AIzaSyCFsMpRhiwm_SMgsJNODRAR86NKDxM6M8c",
+        "AIzaSyAt0PUYuIrHN898bGAE1amOsUjP3ogrXiQ",
+        "AIzaSyAWXpDiRsyELoVB5VNpHuGevufpurQTMwg",
+        "AIzaSyDMzpEWY3kbgkZVpNpcipIsNg6xinQsvAs"
+      ]
+    }
+  },
+  "features": [
+    "dual_router_architecture",
+    "text_generation",
+    "image_generation",
+    "simple_context_memory",
+    "auto_detection"
+  ],
+  "capacity": {
+    "total_keys": 29,
+    "router_keys": 2,
+    "worker_keys": 27,
+    "estimated_users": 50,
+    "rpm_per_group": 70,
+    "total_rpm": 280
+  }
+}

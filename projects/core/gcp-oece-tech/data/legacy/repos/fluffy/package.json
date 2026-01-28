@@ -1,0 +1,31 @@
+{
+  "name": "fluffy",
+  "version": "1.0.0",
+  "description": "全栈Google云架构项目 - 适合50用户规模",
+  "main": "index.js",
+  "scripts": {
+    "dev": "docker-compose up",
+    "build": "npm run build:frontend && npm run build:backend",
+    "build:frontend": "cd frontend && npm run build",
+    "build:backend": "cd backend && npm run build",
+    "start": "docker-compose up -d",
+    "stop": "docker-compose down",
+    "deploy": "./scripts/deploy.sh",
+    "setup": "./scripts/setup.sh",
+    "logs": "docker-compose logs -f",
+    "clean": "docker-compose down -v && docker system prune -f"
+  },
+  "keywords": [
+    "fullstack",
+    "google-cloud",
+    "nextjs",
+    "nodejs",
+    "postgresql",
+    "docker"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "devDependencies": {
+    "concurrently": "^8.2.2"
+  }
+}

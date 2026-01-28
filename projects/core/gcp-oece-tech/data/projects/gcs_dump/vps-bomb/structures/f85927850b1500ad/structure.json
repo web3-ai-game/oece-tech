@@ -1,0 +1,140 @@
+{
+  "propositions": [
+    {
+      "id": "1",
+      "text": "The document describes a narrative with characters and events.",
+      "level": 1
+    },
+    {
+      "id": "1.1",
+      "text": "Characters express their thoughts and feelings.",
+      "level": 2
+    },
+    {
+      "id": "1.2",
+      "text": "There are interactions and dialogues between characters.",
+      "level": 2
+    },
+    {
+      "id": "1.3",
+      "text": "The narrative involves a story or plot.",
+      "level": 2
+    },
+    {
+      "id": "1.4",
+      "text": "Mentions of specific dates and times suggest a progression of events.",
+      "level": 2
+    },
+    {
+      "id": "1.5",
+      "text": "The presence of user comments or reactions is noted.",
+      "level": 2
+    },
+    {
+      "id": "1.5.1",
+      "text": "Comments often express approval or support.",
+      "level": 3
+    },
+    {
+      "id": "1.5.2",
+      "text": "Some comments express specific emotions or opinions.",
+      "level": 3
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Character",
+      "frequency": 30,
+      "context": "Refers to individuals within the narrative who speak, act, or are spoken about."
+    },
+    {
+      "name": "Narrative",
+      "frequency": 20,
+      "context": "The overarching story or account being presented."
+    },
+    {
+      "name": "Comment",
+      "frequency": 15,
+      "context": "Expressions from readers or users, often in response to the narrative content."
+    },
+    {
+      "name": "Time/Date",
+      "frequency": 10,
+      "context": "Specific chronological markers that structure the narrative and user interactions."
+    },
+    {
+      "name": "Emotion",
+      "frequency": 12,
+      "context": "Feelings expressed by characters or commenters (e.g., happiness, support, sadness)."
+    },
+    {
+      "name": "Support",
+      "frequency": 8,
+      "context": "A common sentiment expressed in comments, indicating positive reception."
+    },
+    {
+      "name": "Story",
+      "frequency": 7,
+      "context": "Synonymous with narrative, referring to the sequence of events."
+    },
+    {
+      "name": "Interaction",
+      "frequency": 6,
+      "context": "The engagement between characters or between characters and readers."
+    },
+    {
+      "name": "Dialogue",
+      "frequency": 5,
+      "context": "Conversations between characters within the narrative."
+    }
+  ],
+  "relations": [
+    {
+      "source": "Character",
+      "target": "Narrative",
+      "type": "part_of"
+    },
+    {
+      "source": "Comment",
+      "target": "Narrative",
+      "type": "response_to"
+    },
+    {
+      "source": "Emotion",
+      "target": "Character",
+      "type": "expressed_by"
+    },
+    {
+      "source": "Emotion",
+      "target": "Comment",
+      "type": "expressed_by"
+    },
+    {
+      "source": "Support",
+      "target": "Comment",
+      "type": "type_of"
+    },
+    {
+      "source": "Time/Date",
+      "target": "Narrative",
+      "type": "structures"
+    },
+    {
+      "source": "Dialogue",
+      "target": "Interaction",
+      "type": "is_a"
+    },
+    {
+      "source": "Story",
+      "target": "Narrative",
+      "type": "synonym_of"
+    }
+  ],
+  "hierarchy": {
+    "main_topics": [
+      "Narrative Content",
+      "Reader Engagement/Comments"
+    ],
+    "structure": "The document appears to be a collection of narrative segments interspersed with user comments. The narrative itself contains characters, actions, and dialogues. The comments often express support and emotional responses to the narrative. Timestamps indicate a chronological element."
+  }
+}

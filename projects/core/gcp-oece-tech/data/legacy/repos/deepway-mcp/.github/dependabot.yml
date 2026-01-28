@@ -1,0 +1,3 @@
+# Dependabot 配置 - 暫時關閉自動 PR
+version: 2
+updates: []

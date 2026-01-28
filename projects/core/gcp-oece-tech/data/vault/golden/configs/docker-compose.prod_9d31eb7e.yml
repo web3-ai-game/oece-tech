@@ -1,0 +1,187 @@
+version: '3.8'
+
+# VPS 2v4g 優化配置
+# 總 RAM: ~3.9GB / 4GB
+# 適用於：新加坡 VPS 生產環境
+
+services:
+  # ===========================================
+  # Gemini AI Router - 核心服務
+  # ===========================================
+  gemini-router:
+    build:
+      context: ./apps/forum-backend
+      dockerfile: Dockerfile
+    container_name: gemini-router
+    environment:
+      # Gemini API Keys（25個）
+      - GEMINI_ROUTER_LEADER_1=${GEMINI_ROUTER_LEADER_1}
+      - GEMINI_ROUTER_LEADER_2=${GEMINI_ROUTER_LEADER_2}
+      - GEMINI_API_KEYS=${GEMINI_API_KEYS}
+      - GEMINI_ROUTER_STRATEGY=priority
+      - GEMINI_MAX_RPM_PER_KEY=10
+      # Redis 連接
+      - REDIS_URL=redis://redis:6379
+      # 日誌級別
+      - LOG_LEVEL=info
+    ports:
+      - "5000:5000"
+    depends_on:
+      - redis
+    restart: unless-stopped
+    cpus: 0.5
+    mem_limit: 1g
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:5000/health"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+
+  # ===========================================
+  # Telegram Bots - 3個機器人
+  # ===========================================
+  telegram-bots:
+    build:
+      context: ./apps/telegram-bot
+      dockerfile: Dockerfile
+    container_name: telegram-bots
+    environment:
+      # Bot Tokens
+      - TELEGRAM_BOT_TOKEN=${TELEGRAM_BOT_TOKEN}
+      - TELEGRAM_LOVE_BOT_TOKEN=${TELEGRAM_LOVE_BOT_TOKEN}
+      - TELEGRAM_INST_BOT_TOKEN=${TELEGRAM_INST_BOT_TOKEN}
+      # Gemini API
+      - GEMINI_API_KEYS=${GEMINI_API_KEYS}
+      # 數據庫
+      - DATABASE_URL=postgresql://postgres:${DB_PASSWORD}@postgres:5432/deepway
+      - REDIS_URL=redis://redis:6379
+      # Supabase
+      - SUPABASE_URL=${SUPABASE_URL}
+      - SUPABASE_KEY=${SUPABASE_KEY}
+    depends_on:
+      - postgres
+      - redis
+      - gemini-router
+    restart: unless-stopped
+    cpus: 0.5
+    mem_limit: 768m
+
+  # ===========================================
+  # Redis - 緩存服務
+  # ===========================================
+  redis:
+    image: redis:7-alpine
+    container_name: redis
+    command: >
+      redis-server
+      --maxmemory 512mb
+      --maxmemory-policy allkeys-lru
+      --save 900 1
+      --save 300 10
+      --save 60 10000
+      --appendonly yes
+    ports:
+      - "6379:6379"
+    volumes:
+      - redis_data:/data
+    restart: unless-stopped
+    cpus: 0.25
+    mem_limit: 512m
+    healthcheck:
+      test: ["CMD", "redis-cli", "ping"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+
+  # ===========================================
+  # PostgreSQL - 數據庫
+  # ===========================================
+  postgres:
+    image: postgres:16-alpine
+    container_name: postgres
+    environment:
+      - POSTGRES_DB=deepway
+      - POSTGRES_USER=postgres
+      - POSTGRES_PASSWORD=${DB_PASSWORD}
+      - POSTGRES_INITDB_ARGS=--encoding=UTF-8 --lc-collate=C --lc-ctype=C
+    ports:
+      - "5432:5432"
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+    restart: unless-stopped
+    cpus: 1
+    mem_limit: 1g
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U postgres"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+
+  # ===========================================
+  # Datadog Agent - 監控（你已訂閱）
+  # ===========================================
+  datadog:
+    image: datadog/agent:latest
+    container_name: datadog-agent
+    environment:
+      # Datadog API Key
+      - DD_API_KEY=${DATADOG_API_KEY}
+      - DD_SITE=datadoghq.com
+      - DD_HOSTNAME=vps-singapore
+      - DD_TAGS=env:production,service:deepway-mcp
+      # 功能開關
+      - DD_LOGS_ENABLED=true
+      - DD_APM_ENABLED=true
+      - DD_PROCESS_AGENT_ENABLED=true
+      - DD_DOGSTATSD_NON_LOCAL_TRAFFIC=true
+      # 容器監控
+      - DD_CONTAINER_LABELS_AS_TAGS=true
+      - DD_DOCKER_LABELS_AS_TAGS=true
+    volumes:
+      - /var/run/docker.sock:/var/run/docker.sock:ro
+      - /proc/:/host/proc/:ro
+      - /sys/fs/cgroup/:/host/sys/fs/cgroup:ro
+      - /var/lib/docker/containers:/var/lib/docker/containers:ro
+    restart: unless-stopped
+    cpus: 0.25
+    mem_limit: 512m
+
+  # ===========================================
+  # Nginx - 反向代理
+  # ===========================================
+  nginx:
+    image: nginx:alpine
+    container_name: nginx
+    ports:
+      - "80:80"
+      - "443:443"
+    volumes:
+      - ./nginx/nginx.conf:/etc/nginx/nginx.conf:ro
+      - ./nginx/ssl:/etc/nginx/ssl:ro
+    depends_on:
+      - gemini-router
+    restart: unless-stopped
+    cpus: 0.25
+    mem_limit: 128m
+    healthcheck:
+      test: ["CMD", "wget", "--quiet", "--tries=1", "--spider", "http://localhost/health"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+
+# ===========================================
+# 數據卷
+# ===========================================
+volumes:
+  postgres_data:
+    driver: local
+  redis_data:
+    driver: local
+
+# ===========================================
+# 網絡
+# ===========================================
+networks:
+  default:
+    name: deepway-network
+    driver: bridge

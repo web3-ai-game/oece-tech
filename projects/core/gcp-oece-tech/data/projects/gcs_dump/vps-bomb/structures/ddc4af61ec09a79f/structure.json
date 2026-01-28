@@ -1,0 +1,810 @@
+{
+  "propositions": [
+    {
+      "id": "1",
+      "text": "本文旨在分析《地狱变》这篇文本，探讨其潜在的语言模式、叙事结构以及可能存在的文化内涵。",
+      "level": 1
+    },
+    {
+      "id": "1.1",
+      "text": "通过对文本内容的细致梳理和格式化，我们可以更好地理解作者的创作意图和文本的艺术价值。",
+      "level": 2
+    },
+    {
+      "id": "2",
+      "text": "《地狱变》作为一篇具有深远影响的文学作品，其语言的精炼与意境的营造是其独特魅力的重要来源。",
+      "level": 1
+    },
+    {
+      "id": "2.1",
+      "text": "本文将从文本的结构性特点出发，对其进行深入的剖析。",
+      "level": 2
+    },
+    {
+      "id": "3",
+      "text": "作品的叙事结构清晰，围绕着特定的情节发展展开。",
+      "level": 1
+    },
+    {
+      "id": "3.1",
+      "text": "开端: 故事的引入部分，确立了人物和背景。",
+      "level": 2
+    },
+    {
+      "id": "3.2",
+      "text": "发展: 情节逐渐展开，矛盾冲突逐步显现。",
+      "level": 2
+    },
+    {
+      "id": "3.3",
+      "text": "高潮: 故事达到最为激烈的阶段，人物关系和命运在此刻达到顶点。",
+      "level": 2
+    },
+    {
+      "id": "3.4",
+      "text": "结局: 情节收束，人物的最终命运得以揭示。",
+      "level": 2
+    },
+    {
+      "id": "4",
+      "text": "作品中的人物形象立体丰满，具有鲜明的个性特征。",
+      "level": 1
+    },
+    {
+      "id": "4.1",
+      "text": "主角: 经历着内心的挣扎与成长。",
+      "level": 2
+    },
+    {
+      "id": "4.2",
+      "text": "配角: 共同推动情节发展，丰富故事的维度。",
+      "level": 2
+    },
+    {
+      "id": "5",
+      "text": "《地狱变》的语言风格独特，其意象的运用和情感的表达尤为出色。",
+      "level": 1
+    },
+    {
+      "id": "5.1",
+      "text": "“生命的意义在于对痛苦的超越，而地狱则是通往彼岸的必经之路。”",
+      "level": 2
+    },
+    {
+      "id": "5.2",
+      "text": "作品中不乏对自然景物的细腻描摹，如：",
+      "level": 2
+    },
+    {
+      "id": "5.2.1",
+      "text": "“阴沉的天空，如同打翻的墨汁。”",
+      "level": 3
+    },
+    {
+      "id": "5.2.2",
+      "text": "“风卷起落叶，发出沙沙的低语。”",
+      "level": 3
+    },
+    {
+      "id": "6",
+      "text": "文本所探讨的主题深刻，涵盖了人生、命运、艺术等多个层面。",
+      "level": 1
+    },
+    {
+      "id": "6.1",
+      "text": "生存与抗争: 人物在逆境中的坚韧不拔。",
+      "level": 2
+    },
+    {
+      "id": "6.2",
+      "text": "艺术与牺牲: 为艺术而付出的代价。",
+      "level": 2
+    },
+    {
+      "id": "6.3",
+      "text": "人性善恶: 在极端环境下展现的人性光辉与阴暗。",
+      "level": 2
+    },
+    {
+      "id": "7",
+      "text": "作品可能创作于特定的历史时期，反映了当时的社会风貌和思想潮流。",
+      "level": 1
+    },
+    {
+      "id": "7.1",
+      "text": "例如，1919这一节点可能与某些重要的历史事件相关联。",
+      "level": 2
+    },
+    {
+      "id": "7.2",
+      "text": "“1919年的风暴，不仅改变了中国的命运，也深刻影响了文艺界的思想解放。”",
+      "level": 2
+    },
+    {
+      "id": "8",
+      "text": "对《地狱变》的研究早已成为文学批评的重要课题。",
+      "level": 1
+    },
+    {
+      "id": "8.1",
+      "text": "学者A (日期) 曾指出：“《地狱变》的象征主义手法，是其区别于其他作品的关键。”",
+      "level": 2
+    },
+    {
+      "id": "8.2",
+      "text": "学者B (日期) 强调：“文本中对‘变’的阐释，是理解其哲学思想的核心。”",
+      "level": 2
+    },
+    {
+      "id": "9",
+      "text": "《地狱变》以其深刻的思想内涵、精湛的艺术技巧和独特的语言风格，在中国现代文学史上占据了重要的地位。",
+      "level": 1
+    },
+    {
+      "id": "9.1",
+      "text": "对文本的持续研究和解读，将有助于我们更全面地认识其艺术价值和思想贡献。",
+      "level": 2
+    },
+    {
+      "id": "10",
+      "text": "地狱变: 指作品中描绘的极端痛苦和绝望的场景，也象征着人物内心的挣扎与升华。",
+      "level": 1
+    },
+    {
+      "id": "11",
+      "text": "超越: 指个体通过经历苦难而达到的精神境界的提升。",
+      "level": 1
+    }
+  ],
+  "concepts": [
+    {
+      "name": "地狱变",
+      "frequency": 8,
+      "context": "Title, abstract, main body discussing the work, key term explanation."
+    },
+    {
+      "name": "文本分析",
+      "frequency": 1,
+      "context": "Section heading."
+    },
+    {
+      "name": "语言模式",
+      "frequency": 1,
+      "context": "Abstract."
+    },
+    {
+      "name": "叙事结构",
+      "frequency": 2,
+      "context": "Abstract, section heading."
+    },
+    {
+      "name": "文化内涵",
+      "frequency": 1,
+      "context": "Abstract."
+    },
+    {
+      "name": "创作意图",
+      "frequency": 1,
+      "context": "Abstract."
+    },
+    {
+      "name": "艺术价值",
+      "frequency": 2,
+      "context": "Abstract, conclusion."
+    },
+    {
+      "name": "文学作品",
+      "frequency": 1,
+      "context": "Introduction."
+    },
+    {
+      "name": "语言精炼",
+      "frequency": 1,
+      "context": "Introduction."
+    },
+    {
+      "name": "意境营造",
+      "frequency": 1,
+      "context": "Introduction."
+    },
+    {
+      "name": "结构性特点",
+      "frequency": 1,
+      "context": "Introduction."
+    },
+    {
+      "name": "情节发展",
+      "frequency": 1,
+      "context": "Narrative Structure."
+    },
+    {
+      "name": "人物",
+      "frequency": 4,
+      "context": "Narrative Structure, Character Development, Survival and Struggle."
+    },
+    {
+      "name": "背景",
+      "frequency": 1,
+      "context": "Narrative Structure."
+    },
+    {
+      "name": "矛盾冲突",
+      "frequency": 1,
+      "context": "Narrative Structure."
+    },
+    {
+      "name": "高潮",
+      "frequency": 1,
+      "context": "Narrative Structure."
+    },
+    {
+      "name": "结局",
+      "frequency": 1,
+      "context": "Narrative Structure."
+    },
+    {
+      "name": "人物塑造",
+      "frequency": 1,
+      "context": "Section heading."
+    },
+    {
+      "name": "主角",
+      "frequency": 1,
+      "context": "Character Development."
+    },
+    {
+      "name": "配角",
+      "frequency": 1,
+      "context": "Character Development."
+    },
+    {
+      "name": "内心挣扎",
+      "frequency": 1,
+      "context": "Character Development."
+    },
+    {
+      "name": "成长",
+      "frequency": 1,
+      "context": "Character Development."
+    },
+    {
+      "name": "语言风格",
+      "frequency": 2,
+      "context": "Section heading, conclusion."
+    },
+    {
+      "name": "意象运用",
+      "frequency": 1,
+      "context": "Language Style."
+    },
+    {
+      "name": "情感表达",
+      "frequency": 1,
+      "context": "Language Style."
+    },
+    {
+      "name": "自然景物",
+      "frequency": 1,
+      "context": "Language Style."
+    },
+    {
+      "name": "主题探讨",
+      "frequency": 1,
+      "context": "Section heading."
+    },
+    {
+      "name": "人生",
+      "frequency": 1,
+      "context": "Theme Exploration."
+    },
+    {
+      "name": "命运",
+      "frequency": 1,
+      "context": "Theme Exploration."
+    },
+    {
+      "name": "艺术",
+      "frequency": 2,
+      "context": "Theme Exploration, Art and Sacrifice."
+    },
+    {
+      "name": "生存",
+      "frequency": 1,
+      "context": "Theme Exploration."
+    },
+    {
+      "name": "抗争",
+      "frequency": 1,
+      "context": "Theme Exploration."
+    },
+    {
+      "name": "牺牲",
+      "frequency": 1,
+      "context": "Theme Exploration."
+    },
+    {
+      "name": "人性",
+      "frequency": 1,
+      "context": "Theme Exploration."
+    },
+    {
+      "name": "善恶",
+      "frequency": 1,
+      "context": "Theme Exploration."
+    },
+    {
+      "name": "历史背景",
+      "frequency": 1,
+      "context": "Section heading."
+    },
+    {
+      "name": "创作背景",
+      "frequency": 1,
+      "context": "Section heading."
+    },
+    {
+      "name": "历史时期",
+      "frequency": 1,
+      "context": "Historical Background."
+    },
+    {
+      "name": "社会风貌",
+      "frequency": 1,
+      "context": "Historical Background."
+    },
+    {
+      "name": "思想潮流",
+      "frequency": 1,
+      "context": "Historical Background."
+    },
+    {
+      "name": "1919",
+      "frequency": 2,
+      "context": "Historical Background."
+    },
+    {
+      "name": "历史事件",
+      "frequency": 1,
+      "context": "Historical Background."
+    },
+    {
+      "name": "风暴",
+      "frequency": 1,
+      "context": "Historical Background."
+    },
+    {
+      "name": "中国命运",
+      "frequency": 1,
+      "context": "Historical Background."
+    },
+    {
+      "name": "文艺界",
+      "frequency": 1,
+      "context": "Historical Background."
+    },
+    {
+      "name": "思想解放",
+      "frequency": 1,
+      "context": "Historical Background."
+    },
+    {
+      "name": "学术研究",
+      "frequency": 1,
+      "context": "Section heading."
+    },
+    {
+      "name": "文学批评",
+      "frequency": 1,
+      "context": "Academic Research."
+    },
+    {
+      "name": "学者A",
+      "frequency": 1,
+      "context": "Academic Research."
+    },
+    {
+      "name": "象征主义手法",
+      "frequency": 1,
+      "context": "Academic Research."
+    },
+    {
+      "name": "学者B",
+      "frequency": 1,
+      "context": "Academic Research."
+    },
+    {
+      "name": "‘变’的阐释",
+      "frequency": 1,
+      "context": "Academic Research."
+    },
+    {
+      "name": "哲学思想",
+      "frequency": 1,
+      "context": "Academic Research."
+    },
+    {
+      "name": "思想内涵",
+      "frequency": 1,
+      "context": "Conclusion."
+    },
+    {
+      "name": "艺术技巧",
+      "frequency": 1,
+      "context": "Conclusion."
+    },
+    {
+      "name": "中国现代文学史",
+      "frequency": 1,
+      "context": "Conclusion."
+    },
+    {
+      "name": "研究",
+      "frequency": 1,
+      "context": "Conclusion."
+    },
+    {
+      "name": "解读",
+      "frequency": 1,
+      "context": "Conclusion."
+    },
+    {
+      "name": "参考文献",
+      "frequency": 1,
+      "context": "Section heading."
+    },
+    {
+      "name": "附录",
+      "frequency": 1,
+      "context": "Section heading."
+    },
+    {
+      "name": "文本原文片段",
+      "frequency": 1,
+      "context": "Appendix."
+    },
+    {
+      "name": "关键术语解释",
+      "frequency": 1,
+      "context": "Section heading."
+    },
+    {
+      "name": "痛苦",
+      "frequency": 1,
+      "context": "Key Term Explanation."
+    },
+    {
+      "name": "升华",
+      "frequency": 1,
+      "context": "Key Term Explanation."
+    },
+    {
+      "name": "超越",
+      "frequency": 2,
+      "context": "Language Style quote, Key Term Explanation."
+    }
+  ],
+  "relations": [
+    {
+      "source": "本文",
+      "target": "《地狱变》",
+      "type": "analysis of"
+    },
+    {
+      "source": "《地狱变》",
+      "target": "语言模式",
+      "type": "has"
+    },
+    {
+      "source": "《地狱变》",
+      "target": "叙事结构",
+      "type": "has"
+    },
+    {
+      "source": "《地狱变》",
+      "target": "文化内涵",
+      "type": "has"
+    },
+    {
+      "source": "文本内容的细致梳理和格式化",
+      "target": "作者的创作意图",
+      "type": "helps understand"
+    },
+    {
+      "source": "文本内容的细致梳理和格式化",
+      "target": "文本的艺术价值",
+      "type": "helps understand"
+    },
+    {
+      "source": "《地狱变》",
+      "target": "语言精炼",
+      "type": "characterized by"
+    },
+    {
+      "source": "《地狱变》",
+      "target": "意境营造",
+      "type": "characterized by"
+    },
+    {
+      "source": "本文",
+      "target": "文本的结构性特点",
+      "type": "focuses on"
+    },
+    {
+      "source": "叙事结构",
+      "target": "情节发展",
+      "type": "structured around"
+    },
+    {
+      "source": "开端",
+      "target": "人物",
+      "type": "establishes"
+    },
+    {
+      "source": "开端",
+      "target": "背景",
+      "type": "establishes"
+    },
+    {
+      "source": "发展",
+      "target": "情节",
+      "type": "unfolds"
+    },
+    {
+      "source": "发展",
+      "target": "矛盾冲突",
+      "type": "reveals"
+    },
+    {
+      "source": "高潮",
+      "target": "故事",
+      "type": "reaches"
+    },
+    {
+      "source": "高潮",
+      "target": "人物关系",
+      "type": "reaches climax"
+    },
+    {
+      "source": "高潮",
+      "target": "命运",
+      "type": "reaches climax"
+    },
+    {
+      "source": "结局",
+      "target": "情节",
+      "type": "concludes"
+    },
+    {
+      "source": "结局",
+      "target": "人物的最终命运",
+      "type": "reveals"
+    },
+    {
+      "source": "作品中的人物形象",
+      "target": "立体丰满",
+      "type": "is"
+    },
+    {
+      "source": "作品中的人物形象",
+      "target": "鲜明的个性特征",
+      "type": "possesses"
+    },
+    {
+      "source": "主角",
+      "target": "内心的挣扎与成长",
+      "type": "undergoes"
+    },
+    {
+      "source": "配角",
+      "target": "情节发展",
+      "type": "promotes"
+    },
+    {
+      "source": "配角",
+      "target": "故事的维度",
+      "type": "enriches"
+    },
+    {
+      "source": "《地狱变》",
+      "target": "语言风格",
+      "type": "has"
+    },
+    {
+      "source": "语言风格",
+      "target": "意象的运用",
+      "type": "excels in"
+    },
+    {
+      "source": "语言风格",
+      "target": "情感的表达",
+      "type": "excels in"
+    },
+    {
+      "source": "“生命的意义在于对痛苦的超越，而地狱则是通往彼岸的必经之路。”",
+      "target": "生命",
+      "type": "defines"
+    },
+    {
+      "source": "“生命的意义在于对痛苦的超越，而地狱则是通往彼岸的必经之路。”",
+      "target": "痛苦",
+      "type": "involves"
+    },
+    {
+      "source": "“生命的意义在于对痛苦的超越，而地狱则是通往彼岸的必经之路。”",
+      "target": "地狱",
+      "type": "is a path to"
+    },
+    {
+      "source": "作品",
+      "target": "自然景物",
+      "type": "includes"
+    },
+    {
+      "source": "文本",
+      "target": "主题",
+      "type": "explores"
+    },
+    {
+      "source": "主题",
+      "target": "人生",
+      "type": "covers"
+    },
+    {
+      "source": "主题",
+      "target": "命运",
+      "type": "covers"
+    },
+    {
+      "source": "主题",
+      "target": "艺术",
+      "type": "covers"
+    },
+    {
+      "source": "生存与抗争",
+      "target": "人物",
+      "type": "describes"
+    },
+    {
+      "source": "艺术与牺牲",
+      "target": "艺术",
+      "type": "relates to"
+    },
+    {
+      "source": "人性善恶",
+      "target": "人性",
+      "type": "illustrates"
+    },
+    {
+      "source": "作品",
+      "target": "历史时期",
+      "type": "may be created in"
+    },
+    {
+      "source": "历史时期",
+      "target": "社会风貌",
+      "type": "reflects"
+    },
+    {
+      "source": "历史时期",
+      "target": "思想潮流",
+      "type": "reflects"
+    },
+    {
+      "source": "1919",
+      "target": "历史事件",
+      "type": "may be related to"
+    },
+    {
+      "source": "1919年的风暴",
+      "target": "中国的命运",
+      "type": "changed"
+    },
+    {
+      "source": "1919年的风暴",
+      "target": "文艺界的思想解放",
+      "type": "influenced"
+    },
+    {
+      "source": "对《地狱变》的研究",
+      "target": "文学批评",
+      "type": "is a topic in"
+    },
+    {
+      "source": "学者A",
+      "target": "象征主义手法",
+      "type": "identified as"
+    },
+    {
+      "source": "学者A",
+      "target": "《地狱变》",
+      "type": "commented on"
+    },
+    {
+      "source": "学者B",
+      "target": "‘变’的阐释",
+      "type": "emphasized"
+    },
+    {
+      "source": "学者B",
+      "target": "哲学思想",
+      "type": "is key to understanding"
+    },
+    {
+      "source": "《地狱变》",
+      "target": "思想内涵",
+      "type": "has"
+    },
+    {
+      "source": "《地狱变》",
+      "target": "艺术技巧",
+      "type": "has"
+    },
+    {
+      "source": "《地狱变》",
+      "target": "语言风格",
+      "type": "has"
+    },
+    {
+      "source": "《地狱变》",
+      "target": "中国现代文学史",
+      "type": "holds a position in"
+    },
+    {
+      "source": "对文本的持续研究和解读",
+      "target": "艺术价值",
+      "type": "helps understand"
+    },
+    {
+      "source": "对文本的持续研究和解读",
+      "target": "思想贡献",
+      "type": "helps understand"
+    },
+    {
+      "source": "地狱变",
+      "target": "极端痛苦和绝望的场景",
+      "type": "depicts"
+    },
+    {
+      "source": "地狱变",
+      "target": "人物内心的挣扎与升华",
+      "type": "symbolizes"
+    },
+    {
+      "source": "超越",
+      "target": "精神境界的提升",
+      "type": "is a"
+    },
+    {
+      "source": "超越",
+      "target": "经历苦难",
+      "type": "achieved through"
+    },
+    {
+      "source": "标题",
+      "target": "地狱变",
+      "type": "is"
+    },
+    {
+      "source": "摘要",
+      "target": "本文",
+      "type": "describes"
+    },
+    {
+      "source": "引言",
+      "target": "《地狱变》",
+      "type": "introduces"
+    }
+  ],
+  "hierarchy": {
+    "main_topics": [
+      "《地狱变》文本分析",
+      "叙事结构",
+      "人物塑造",
+      "语言风格",
+      "主题探讨",
+      "历史背景与学术引用",
+      "结论"
+    ],
+    "structure": "The document is structured with a title, abstract, introduction, detailed analysis sections (narrative structure, character development, language style, theme exploration), historical context and academic references, a conclusion, and appendices. Each section is further broken down into sub-points."
+  }
+}

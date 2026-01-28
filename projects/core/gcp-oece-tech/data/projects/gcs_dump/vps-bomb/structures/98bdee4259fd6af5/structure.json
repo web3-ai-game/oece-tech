@@ -1,0 +1,192 @@
+{
+  "propositions": [
+    {
+      "id": "1",
+      "text": "The novel describes the survival of the Ewenki ethnic group.",
+      "level": 1
+    },
+    {
+      "id": "2",
+      "text": "The narrator is the last chief's woman of the Ewenki people.",
+      "level": 1
+    },
+    {
+      "id": "3",
+      "text": "The Ewenki people are migrating from the mountains to a settlement.",
+      "level": 1
+    },
+    {
+      "id": "4",
+      "text": "The narrator opposes the settlement due to her deep connection to nature.",
+      "level": 1
+    },
+    {
+      "id": "5",
+      "text": "The story is told through the narrator's memories and experiences.",
+      "level": 1
+    },
+    {
+      "id": "6",
+      "text": "The novel touches upon themes of tradition, loss, and cultural change.",
+      "level": 1
+    },
+    {
+      "id": "7",
+      "text": "The author, Chi Zijian, is a renowned Chinese writer.",
+      "level": 1
+    },
+    {
+      "id": "8",
+      "text": "The Ewenki people have a history of migration and adaptation.",
+      "level": 1
+    },
+    {
+      "id": "9",
+      "text": "Spiritual beliefs and shamanism are integral to the Ewenki culture.",
+      "level": 1
+    },
+    {
+      "id": "10",
+      "text": "The Ergun River plays a significant role in the Ewenki's history and identity.",
+      "level": 1
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Ewenki people",
+      "frequency": 25,
+      "context": "Minority ethnic group in Northeast China."
+    },
+    {
+      "name": "Narrator",
+      "frequency": 15,
+      "context": "The elderly last chief's woman."
+    },
+    {
+      "name": "Migration",
+      "frequency": 10,
+      "context": "Moving from traditional lands to settlement."
+    },
+    {
+      "name": "Tradition",
+      "frequency": 8,
+      "context": "Cultural practices of the Ewenki."
+    },
+    {
+      "name": "Nature",
+      "frequency": 7,
+      "context": "Deep connection to mountains, rivers, animals."
+    },
+    {
+      "name": "Shamanism",
+      "frequency": 6,
+      "context": "Spiritual beliefs and rituals."
+    },
+    {
+      "name": "Ergun River",
+      "frequency": 5,
+      "context": "Geographical and historical significance."
+    },
+    {
+      "name": "Settlement",
+      "frequency": 5,
+      "context": "New, fixed living place for the Ewenki."
+    },
+    {
+      "name": "Memories",
+      "frequency": 5,
+      "context": "Narrator's recollection of the past."
+    },
+    {
+      "name": "Chi Zijian",
+      "frequency": 3,
+      "context": "The author of the novel."
+    },
+    {
+      "name": "Reindeer",
+      "frequency": 3,
+      "context": "Important animal for the Ewenki."
+    },
+    {
+      "name": "Chieftain",
+      "frequency": 2,
+      "context": "Leader of the Ewenki community."
+    },
+    {
+      "name": "Spiritual beliefs",
+      "frequency": 2,
+      "context": "Worship of spirits and gods."
+    },
+    {
+      "name": "Cultural change",
+      "frequency": 2,
+      "context": "Impact of modernization on Ewenki."
+    },
+    {
+      "name": "Loss",
+      "frequency": 2,
+      "context": "Loss of tradition, land, and people."
+    }
+  ],
+  "relations": [
+    {
+      "source": "Narrator",
+      "target": "Ewenki people",
+      "type": "is a member of"
+    },
+    {
+      "source": "Narrator",
+      "target": "Last chief's woman",
+      "type": "is identified as"
+    },
+    {
+      "source": "Migration",
+      "target": "Ewenki people",
+      "type": "undertaken by"
+    },
+    {
+      "source": "Narrator",
+      "target": "Migration",
+      "type": "opposes"
+    },
+    {
+      "source": "Narrator",
+      "target": "Nature",
+      "type": "has deep connection to"
+    },
+    {
+      "source": "Shamanism",
+      "target": "Ewenki people",
+      "type": "integral to culture of"
+    },
+    {
+      "source": "Ergun River",
+      "target": "Ewenki people",
+      "type": "historically significant to"
+    },
+    {
+      "source": "Chi Zijian",
+      "target": "Novel",
+      "type": "authored"
+    },
+    {
+      "source": "Tradition",
+      "target": "Ewenki people",
+      "type": "practiced by"
+    },
+    {
+      "source": "Settlement",
+      "target": "Ewenki people",
+      "type": "moving to"
+    }
+  ],
+  "hierarchy": {
+    "main_topics": [
+      "Novel Overview",
+      "Narrator's Perspective",
+      "Ewenki Culture and History",
+      "Author Information"
+    ],
+    "structure": "The document outlines the novel 'The Right Bank of the Ergun River' by Chi Zijian. It begins with a summary and author introduction, then delves into a chapter from the novel. The chapter is a first-person narrative from the perspective of an elderly Ewenki woman, reflecting on her people's traditions, their move towards settlement, and her personal history and connection to the land and the Ergun River."
+  }
+}

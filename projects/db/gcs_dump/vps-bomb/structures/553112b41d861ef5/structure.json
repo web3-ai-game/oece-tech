@@ -1,0 +1,946 @@
+{
+  "propositions": [
+    {
+      "id": "1",
+      "text": "The story begins in Zhili, near Lianjiabao.",
+      "level": 1
+    },
+    {
+      "id": "1.1",
+      "text": "Wu Zhen has recovered from his injuries.",
+      "level": 2
+    },
+    {
+      "id": "1.2",
+      "text": "Liancheng is excited to return to Lianjiabao.",
+      "level": 2
+    },
+    {
+      "id": "2",
+      "text": "They decide to buy gifts for the villagers.",
+      "level": 1
+    },
+    {
+      "id": "2.1",
+      "text": "Lian Xing, Da Kui, and Wu Zhen discuss the gift buying.",
+      "level": 2
+    },
+    {
+      "id": "2.2",
+      "text": "They decide to go to the market in a nearby town.",
+      "level": 2
+    },
+    {
+      "id": "3",
+      "text": "The carriage turns towards a small town.",
+      "level": 1
+    },
+    {
+      "id": "3.1",
+      "text": "The town is small with scattered houses and a main street.",
+      "level": 2
+    },
+    {
+      "id": "4",
+      "text": "Lian Xing and Da Kui wait at the town entrance with their camels.",
+      "level": 1
+    },
+    {
+      "id": "4.1",
+      "text": "Da Kui asks Lian Xing about his whereabouts after parting ways.",
+      "level": 2
+    },
+    {
+      "id": "5",
+      "text": "A scream is heard from the town, followed by chaos.",
+      "level": 1
+    },
+    {
+      "id": "5.1",
+      "text": "The scream sounds like the carriage driver.",
+      "level": 2
+    },
+    {
+      "id": "5.2",
+      "text": "People shout that someone is being killed.",
+      "level": 2
+    },
+    {
+      "id": "6",
+      "text": "Lian Xing and Da Kui rush into the town.",
+      "level": 1
+    },
+    {
+      "id": "7",
+      "text": "They find Wu Zhen surrounded by ten black-clothed men.",
+      "level": 1
+    },
+    {
+      "id": "7.1",
+      "text": "A dead body, presumably the driver, lies on the ground.",
+      "level": 2
+    },
+    {
+      "id": "7.2",
+      "text": "Wu Zhen is defending himself with a saber.",
+      "level": 2
+    },
+    {
+      "id": "7.3",
+      "text": "The attackers do not seem to be trying to kill Wu Zhen, but rather to intercept him.",
+      "level": 2
+    },
+    {
+      "id": "8",
+      "text": "As Lian Xing and Da Kui approach, the black-clothed men disperse.",
+      "level": 1
+    },
+    {
+      "id": "9",
+      "text": "Wu Zhen tells Lian Xing to save his mother.",
+      "level": 1
+    },
+    {
+      "id": "10",
+      "text": "Lian Xing sees the carriage speeding away towards the end of the town.",
+      "level": 1
+    },
+    {
+      "id": "10.1",
+      "text": "A woman's scream comes from the carriage.",
+      "level": 2
+    },
+    {
+      "id": "11",
+      "text": "Lian Xing pursues the carriage on his camel.",
+      "level": 1
+    },
+    {
+      "id": "12",
+      "text": "The horse is startled and veers off into the farmland.",
+      "level": 1
+    },
+    {
+      "id": "13",
+      "text": "A farmer suddenly appears and grabs the carriage shaft, stopping the runaway horse.",
+      "level": 1
+    },
+    {
+      "id": "14",
+      "text": "Lian Xing reaches the carriage and finds Liancheng inside, terrified.",
+      "level": 1
+    },
+    {
+      "id": "15",
+      "text": "The farmer warns them that there is danger in the carriage.",
+      "level": 1
+    },
+    {
+      "id": "15.1",
+      "text": "Lian Xing smells sulfur.",
+      "level": 2
+    },
+    {
+      "id": "16",
+      "text": "Lian Xing takes Liancheng and runs away from the carriage.",
+      "level": 1
+    },
+    {
+      "id": "17",
+      "text": "The carriage explodes violently.",
+      "level": 1
+    },
+    {
+      "id": "17.1",
+      "text": "The horse is killed by the explosion.",
+      "level": 2
+    },
+    {
+      "id": "18",
+      "text": "Wu Zhen arrives and checks on Liancheng.",
+      "level": 1
+    },
+    {
+      "id": "19",
+      "text": "Da Kui points out the farmer's crucial role in saving them.",
+      "level": 1
+    },
+    {
+      "id": "20",
+      "text": "Wu Zhen looks at the farmer, who smiles back.",
+      "level": 1
+    },
+    {
+      "id": "20.1",
+      "text": "The farmer is about fifty years old, with a strong build and features that suggest he might be more than a farmer.",
+      "level": 2
+    },
+    {
+      "id": "21",
+      "text": "Wu Zhen finds the farmer familiar but cannot place him.",
+      "level": 1
+    },
+    {
+      "id": "22",
+      "text": "Lian Xing stops the farmer from leaving and thanks him.",
+      "level": 1
+    },
+    {
+      "id": "23",
+      "text": "Lian Xing questions the farmer about his knowledge of the explosion.",
+      "level": 1
+    },
+    {
+      "id": "23.1",
+      "text": "Lian Xing suspects the farmer knew about the explosives.",
+      "level": 2
+    },
+    {
+      "id": "24",
+      "text": "The farmer, surprised, asks if Lian Xing knows Wu Zhen.",
+      "level": 1
+    },
+    {
+      "id": "24.1",
+      "text": "He addresses Wu Zhen by name, revealing he knows him.",
+      "level": 2
+    },
+    {
+      "id": "25",
+      "text": "The farmer then asks if Wu Zhen knows Guo Tianbao.",
+      "level": 1
+    },
+    {
+      "id": "26",
+      "text": "Wu Zhen confirms he knows Guo Tianbao, his master.",
+      "level": 1
+    },
+    {
+      "id": "27",
+      "text": "The farmer reveals Guo Tianbao is his senior brother.",
+      "level": 1
+    },
+    {
+      "id": "28",
+      "text": "Wu Zhen asks if the farmer's surname is Yue or Jing.",
+      "level": 1
+    },
+    {
+      "id": "29",
+      "text": "The farmer reveals his name is Yue Tiannan.",
+      "level": 1
+    },
+    {
+      "id": "29.1",
+      "text": "He shows a unique Mojin sect amulet.",
+      "level": 2
+    },
+    {
+      "id": "30",
+      "text": "Wu Zhen respectfully bows to Yue Tiannan, addressing him as Uncle-Master.",
+      "level": 1
+    },
+    {
+      "id": "31",
+      "text": "Yue Tiannan explains he smelled sulfur and deduced the carriage might have explosives.",
+      "level": 1
+    },
+    {
+      "id": "31.1",
+      "text": "He identified the explosives as \"pili zi\" from the Jiangnan Pilidang.",
+      "level": 2
+    },
+    {
+      "id": "32",
+      "text": "Wu Zhen is relieved that Liancheng was not harmed.",
+      "level": 1
+    },
+    {
+      "id": "33",
+      "text": "Lian Xing remains suspicious of Yue Tiannan's timely appearance.",
+      "level": 1
+    },
+    {
+      "id": "33.1",
+      "text": "He suspects a setup, possibly a trap.",
+      "level": 2
+    },
+    {
+      "id": "34",
+      "text": "Lian Xing contemplates using this situation to infiltrate the Mojin sect to steal the \"Xunlong Jue\".",
+      "level": 1
+    },
+    {
+      "id": "35",
+      "text": "Lian Xing apologizes to Yue Tiannan for his earlier suspicion.",
+      "level": 1
+    },
+    {
+      "id": "36",
+      "text": "Wu Zhen expresses his fortune in meeting Yue Tiannan.",
+      "level": 1
+    },
+    {
+      "id": "37",
+      "text": "Yue Tiannan states he has been in the area for twenty years.",
+      "level": 1
+    },
+    {
+      "id": "37.1",
+      "text": "He asks Wu Zhen about his destination.",
+      "level": 2
+    },
+    {
+      "id": "38",
+      "text": "Wu Zhen explains his desire to return to his hometown in Sichuan but has been pursued by the Banshan sect.",
+      "level": 1
+    },
+    {
+      "id": "38.1",
+      "text": "He now wishes to live a secluded life in Lianjiabao with his wife.",
+      "level": 2
+    },
+    {
+      "id": "39",
+      "text": "Yue Tiannan advises against this, stating Wu Zhen's whereabouts are likely known.",
+      "level": 1
+    },
+    {
+      "id": "40",
+      "text": "Yue Tiannan suggests Wu Zhen accompany him to the Mojin sect headquarters.",
+      "level": 1
+    },
+    {
+      "id": "41",
+      "text": "Lian Xing realizes this is an opportunity to go to the Mojin sect.",
+      "level": 1
+    },
+    {
+      "id": "42",
+      "text": "Yue Tiannan proposes they travel together.",
+      "level": 1
+    },
+    {
+      "id": "43",
+      "text": "Liancheng agrees to go wherever Wu Zhen goes.",
+      "level": 1
+    },
+    {
+      "id": "44",
+      "text": "Wu Zhen accepts Yue Tiannan's invitation.",
+      "level": 1
+    },
+    {
+      "id": "45",
+      "text": "Yue Tiannan leaves to hire a carriage for Liancheng.",
+      "level": 1
+    },
+    {
+      "id": "46",
+      "text": "Da Kui voices his suspicion to Lian Xing.",
+      "level": 1
+    },
+    {
+      "id": "47",
+      "text": "Lian Xing agrees they should observe Yue Tiannan's actions.",
+      "level": 1
+    },
+    {
+      "id": "48",
+      "text": "Yue Tiannan returns with a carriage and three horses.",
+      "level": 1
+    },
+    {
+      "id": "48.1",
+      "text": "The carriage driver appears to be skilled in martial arts.",
+      "level": 2
+    },
+    {
+      "id": "49",
+      "text": "They travel west towards the Mojin sect headquarters in Motiangya, Luliang Mountains.",
+      "level": 1
+    },
+    {
+      "id": "50",
+      "text": "Upon arrival at Motiangya, they are met by several armed men.",
+      "level": 1
+    },
+    {
+      "id": "51",
+      "text": "One of the men, Xiao Linzi, recognizes Yue Tiannan as his senior brother.",
+      "level": 1
+    },
+    {
+      "id": "52",
+      "text": "Yue Tiannan asks about their master.",
+      "level": 1
+    },
+    {
+      "id": "52.1",
+      "text": "Xiao Linzi confirms the master is well and that Guo Tianbao is taking care of him.",
+      "level": 2
+    },
+    {
+      "id": "53",
+      "text": "Yue Tiannan asks Xiao Linzi to take care of his friends.",
+      "level": 1
+    },
+    {
+      "id": "54",
+      "text": "Yue Tiannan invites Wu Zhen to see his master.",
+      "level": 1
+    },
+    {
+      "id": "55",
+      "text": "Lian Xing and Da Kui are asked to wait.",
+      "level": 1
+    },
+    {
+      "id": "56",
+      "text": "Yue Tiannan leads Wu Zhen up Motiangya.",
+      "level": 1
+    },
+    {
+      "id": "57",
+      "text": "Lian Xing ties up his white camel and asks for it to be looked after.",
+      "level": 1
+    },
+    {
+      "id": "58",
+      "text": "Lian Xing enters a wooden house with his zombie mastiff.",
+      "level": 1
+    },
+    {
+      "id": "58.1",
+      "text": "The mastiff's appearance causes fear among the Mojin disciples.",
+      "level": 2
+    },
+    {
+      "id": "59",
+      "text": "Lian Xing reassures them about the mastiff.",
+      "level": 1
+    },
+    {
+      "id": "60",
+      "text": "Lian Xing instructs Da Kui to escape with his mother if anything goes wrong.",
+      "level": 1
+    },
+    {
+      "id": "61",
+      "text": "Xiao Linzi arrives and invites Lian Xing to Motiangya.",
+      "level": 1
+    },
+    {
+      "id": "62",
+      "text": "Lian Xing follows Xiao Linzi up the narrow mountain path.",
+      "level": 1
+    },
+    {
+      "id": "63",
+      "text": "They reach the flat summit and a large circular wooden house.",
+      "level": 1
+    },
+    {
+      "id": "64",
+      "text": "Xiao Linzi tells Lian Xing to enter alone.",
+      "level": 1
+    },
+    {
+      "id": "65",
+      "text": "Lian Xing enters the dark wooden house.",
+      "level": 1
+    },
+    {
+      "id": "66",
+      "text": "A sword attack comes from the left; Lian Xing dodges using his 'Yi Xing Huan Ying Shen Gong'.",
+      "level": 1
+    },
+    {
+      "id": "67",
+      "text": "The sword pursues him, and Lian Xing cuts it in half with his dagger.",
+      "level": 1
+    },
+    {
+      "id": "68",
+      "text": "He sees a fifty-year-old man in green robes, Guo Tianbao, holding the broken sword.",
+      "level": 1
+    },
+    {
+      "id": "69",
+      "text": "Applause comes from afar; Yue Tiannan and Wu Zhen are sitting with an ancient white-haired old man.",
+      "level": 1
+    },
+    {
+      "id": "70",
+      "text": "Yue Tiannan introduces Lian Xing to the old man as a remarkable individual.",
+      "level": 1
+    },
+    {
+      "id": "71",
+      "text": "Lian Xing realizes the old man is the Mojin King.",
+      "level": 1
+    },
+    {
+      "id": "72",
+      "text": "The Mojin King acknowledges Lian Xing.",
+      "level": 1
+    },
+    {
+      "id": "73",
+      "text": "Yue Tiannan explains that Guo Tianbao wanted to test Lian Xing's martial arts.",
+      "level": 1
+    },
+    {
+      "id": "74",
+      "text": "Yue Tiannan shows Lian Xing that the broken sword tip was removed, ensuring no harm.",
+      "level": 1
+    },
+    {
+      "id": "75",
+      "text": "Guo Tianbao praises Lian Xing's martial arts skills.",
+      "level": 1
+    },
+    {
+      "id": "76",
+      "text": "Yue Tiannan introduces Lian Xing to his master, the Mojin King.",
+      "level": 1
+    },
+    {
+      "id": "77",
+      "text": "The Mojin King welcomes Lian Xing.",
+      "level": 1
+    },
+    {
+      "id": "78",
+      "text": "The Mojin King asks if Lian Xing possesses the 'Kuixing Tizou Tu' and the key to the 'Seven Yin Pearls'.",
+      "level": 1
+    },
+    {
+      "id": "79",
+      "text": "Lian Xing is surprised, realizing the information must have come from the Banshan sect.",
+      "level": 1
+    },
+    {
+      "id": "80",
+      "text": "Wu Zhen shakes his head, indicating he did not reveal the information.",
+      "level": 1
+    },
+    {
+      "id": "81",
+      "text": "The Mojin King reveals the information came from the Banshan sect.",
+      "level": 1
+    },
+    {
+      "id": "82",
+      "text": "Lian Xing confirms he has the items.",
+      "level": 1
+    },
+    {
+      "id": "83",
+      "text": "Lian Xing gives the 'Kuixing Tizou Tu' and the key to Yue Tiannan.",
+      "level": 1
+    },
+    {
+      "id": "84",
+      "text": "Guo Tianbao and Yue Tiannan are visibly impressed by the items.",
+      "level": 1
+    },
+    {
+      "id": "85",
+      "text": "The Mojin King weeps upon seeing the 'Kuixing Tizou Tu'.",
+      "level": 1
+    },
+    {
+      "id": "86",
+      "text": "He remembers his eldest disciple, Yang Tianding.",
+      "level": 1
+    },
+    {
+      "id": "87",
+      "text": "Yang Tianding, the 'King of Kings', disappeared after leaving the Mojin sect and is believed to have died.",
+      "level": 1
+    },
+    {
+      "id": "88",
+      "text": "Wu Zhen knows the truth of Yang Tianding's death and possesses the Mojin sect's treasure, 'Long Dianxue'.",
+      "level": 1
+    },
+    {
+      "id": "89",
+      "text": "The Mojin King recounts Yang Tianding's departure after an argument and his subsequent disappearance.",
+      "level": 1
+    },
+    {
+      "id": "90",
+      "text": "The Mojin King attempts to tear the 'Kuixing Tizou Tu', but Guo Tianbao and Yue Tiannan stop him.",
+      "level": 1
+    },
+    {
+      "id": "91",
+      "text": "Yue Tiannan suggests the map might lead to a treasure and can be used to find the 'Night Emperor's Mausoleum'.",
+      "level": 1
+    },
+    {
+      "id": "92",
+      "text": "The Mojin King dismisses his disciples, stating he is too old to intervene.",
+      "level": 1
+    },
+    {
+      "id": "93",
+      "text": "Lian Xing questions why the Mojin disciples don't use the 'Xunlong Jue' to find the mausoleum.",
+      "level": 1
+    },
+    {
+      "id": "94",
+      "text": "The Mojin King asks Lian Xing to stay behind while Guo Tianbao and Yue Tiannan take Wu Zhen.",
+      "level": 1
+    },
+    {
+      "id": "95",
+      "text": "The Mojin King asks Lian Xing how he knows about the 'Xunlong Jue', suspecting the Banshan sect.",
+      "level": 1
+    },
+    {
+      "id": "96",
+      "text": "Lian Xing admits the Banshan sect sent him for the 'Xunlong Jue'.",
+      "level": 1
+    },
+    {
+      "id": "97",
+      "text": "The Mojin King reveals the 'Xunlong Jue' was lost by his master in the desert while searching for Loulan.",
+      "level": 1
+    },
+    {
+      "id": "98",
+      "text": "Lian Xing is disheartened, as he promised to find the 'Xunlong Jue'.",
+      "level": 1
+    },
+    {
+      "id": "99",
+      "text": "The Mojin King suggests the only way to find the 'Xunlong Jue' is to find Loulan and his master's remains.",
+      "level": 1
+    },
+    {
+      "id": "100",
+      "text": "The Mojin King gives Lian Xing a Mojin amulet for protection.",
+      "level": 1
+    },
+    {
+      "id": "101",
+      "text": "He mentions that finding the 'Long Dianxue' would be beneficial.",
+      "level": 1
+    },
+    {
+      "id": "102",
+      "text": "The Mojin King reveals the 'Long Dianxue' was given to Yang Tianding and is now lost.",
+      "level": 1
+    },
+    {
+      "id": "103",
+      "text": "Lian Xing leaves the Mojin King, who is lost in thought about Yang Tianding.",
+      "level": 1
+    },
+    {
+      "id": "104",
+      "text": "Lian Xing descends the mountain and is greeted by his zombie mastiff.",
+      "level": 1
+    },
+    {
+      "id": "105",
+      "text": "He enters the wooden house where Guo Tianbao, Yue Tiannan, Wu Zhen, and Da Kui are examining a map.",
+      "level": 1
+    },
+    {
+      "id": "106",
+      "text": "Liancheng expresses relief that Lian Xing was not troubled by the Mojin King.",
+      "level": 1
+    },
+    {
+      "id": "107",
+      "text": "They discuss the Mojin King's appearance.",
+      "level": 1
+    },
+    {
+      "id": "108",
+      "text": "Lian Xing agrees to accompany them to the desert, asking Wu Zhen to stay with Liancheng.",
+      "level": 1
+    },
+    {
+      "id": "109",
+      "text": "Wu Zhen feels a sense of reconciliation with Lian Xing.",
+      "level": 1
+    },
+    {
+      "id": "110",
+      "text": "Lian Xing expresses his commitment to return to his mother after the desert trip.",
+      "level": 1
+    },
+    {
+      "id": "111",
+      "text": "Lian Xing notices Wu Zhen's reaction when his mother mentions 'your father'.",
+      "level": 1
+    },
+    {
+      "id": "112",
+      "text": "Wu Zhen nods, understanding Lian Xing's unspoken request to care for Liancheng.",
+      "level": 1
+    },
+    {
+      "id": "113",
+      "text": "Lian Xing realizes Wu Zhen is not the coward he once thought.",
+      "level": 1
+    },
+    {
+      "id": "114",
+      "text": "The map is made of silk and depicts a flying wolf on one side.",
+      "level": 1
+    },
+    {
+      "id": "115",
+      "text": "When the silk is placed in water, the characters 'Loulan' appear.",
+      "level": 1
+    },
+    {
+      "id": "116",
+      "text": "Guo Tianbao proposes they go to the desert to find Loulan and its treasures.",
+      "level": 1
+    },
+    {
+      "id": "117",
+      "text": "Yue Tiannan agrees, suggesting they share the spoils.",
+      "level": 1
+    },
+    {
+      "id": "118",
+      "text": "Wu Zhen is hesitant to leave Liancheng.",
+      "level": 1
+    },
+    {
+      "id": "119",
+      "text": "Lian Xing reassures his mother and father.",
+      "level": 1
+    },
+    {
+      "id": "120",
+      "text": "They agree to depart the next day.",
+      "level": 1
+    },
+    {
+      "id": "121",
+      "text": "The group of five (Lian Xing, Da Kui, Guo Tianbao, Yue Tiannan, and the carriage driver) arrive at the Peacock River after months of travel.",
+      "level": 1
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Lianjiabao",
+      "frequency": 3,
+      "context": "The destination of the characters at the beginning of the story."
+    },
+    {
+      "name": "Wu Zhen",
+      "frequency": 11,
+      "context": "A central character, injured at the start, who recovers and is involved in the main plot."
+    },
+    {
+      "name": "Liancheng",
+      "frequency": 10,
+      "context": "Wu Zhen's wife, who is rescued from danger and is a constant concern for her family."
+    },
+    {
+      "name": "Lian Xing",
+      "frequency": 28,
+      "context": "A main protagonist, driven by a promise to the Banshan sect, who is perceptive and plays a key role in uncovering secrets."
+    },
+    {
+      "name": "Da Kui",
+      "frequency": 12,
+      "context": "Lian Xing's companion, loyal and often expresses his suspicions."
+    },
+    {
+      "name": "Mojin sect",
+      "frequency": 18,
+      "context": "An ancient sect involved in tomb raiding, with its headquarters at Motiangya."
+    },
+    {
+      "name": "Yue Tiannan",
+      "frequency": 15,
+      "context": "A senior member of the Mojin sect, who plays a pivotal role in bringing Wu Zhen and Lian Xing into the sect."
+    },
+    {
+      "name": "Guo Tianbao",
+      "frequency": 11,
+      "context": "Another senior member of the Mojin sect, who is instrumental in the investigation of the Loulan map."
+    },
+    {
+      "name": "Mojin King",
+      "frequency": 10,
+      "context": "The elderly and wise leader of the Mojin sect, who has a deep connection to his past disciples."
+    },
+    {
+      "name": "Yang Tianding",
+      "frequency": 6,
+      "context": "The Mojin King's eldest disciple, a legendary figure who disappeared."
+    },
+    {
+      "name": "Xunlong Jue",
+      "frequency": 6,
+      "context": "A legendary book or technique sought by Lian Xing from the Mojin sect."
+    },
+    {
+      "name": "Kuixing Tizou Tu",
+      "frequency": 5,
+      "context": "A map or item related to finding treasures, held by Lian Xing."
+    },
+    {
+      "name": "Seven Yin Pearls",
+      "frequency": 4,
+      "context": "Mysterious pearls associated with a key held by Lian Xing."
+    },
+    {
+      "name": "Loulan",
+      "frequency": 5,
+      "context": "An ancient lost city in the desert, the subject of a new quest."
+    },
+    {
+      "name": "Banshan sect",
+      "frequency": 5,
+      "context": "A rival sect pursuing Wu Zhen and the instigator of Lian Xing's mission."
+    },
+    {
+      "name": "Pili zi",
+      "frequency": 2,
+      "context": "Explosives from Jiangnan Pilidang used in the carriage incident."
+    },
+    {
+      "name": "Zombie mastiff",
+      "frequency": 3,
+      "context": "A fearsome dog accompanying Lian Xing, which causes fear."
+    },
+    {
+      "name": "Mojin amulet",
+      "frequency": 2,
+      "context": "An item given to Lian Xing by the Mojin King for protection."
+    },
+    {
+      "name": "Long Dianxue",
+      "frequency": 2,
+      "context": "A treasure of the Mojin sect, lost by Yang Tianding."
+    },
+    {
+      "name": "Peacock River",
+      "frequency": 1,
+      "context": "A location reached by the protagonists towards the end of the provided text."
+    }
+  ],
+  "relations": [
+    {
+      "source": "Wu Zhen",
+      "target": "Liancheng",
+      "type": "is_spouse_of"
+    },
+    {
+      "source": "Lian Xing",
+      "target": "Wu Zhen",
+      "type": "is_son_of"
+    },
+    {
+      "source": "Lian Xing",
+      "target": "Liancheng",
+      "type": "is_son_of"
+    },
+    {
+      "source": "Yue Tiannan",
+      "target": "Guo Tianbao",
+      "type": "is_senior_brother_of"
+    },
+    {
+      "source": "Guo Tianbao",
+      "target": "Mojin King",
+      "type": "is_disciple_of"
+    },
+    {
+      "source": "Yue Tiannan",
+      "target": "Mojin King",
+      "type": "is_disciple_of"
+    },
+    {
+      "source": "Yang Tianding",
+      "target": "Mojin King",
+      "type": "is_disciple_of"
+    },
+    {
+      "source": "Lian Xing",
+      "target": "Xunlong Jue",
+      "type": "seeks"
+    },
+    {
+      "source": "Banshan sect",
+      "target": "Lian Xing",
+      "type": "causes_mission_of"
+    },
+    {
+      "source": "Lian Xing",
+      "target": "Kuixing Tizou Tu",
+      "type": "possesses"
+    },
+    {
+      "source": "Lian Xing",
+      "target": "Seven Yin Pearls",
+      "type": "possesses_key_to"
+    },
+    {
+      "source": "Lian Xing",
+      "target": "Loulan",
+      "type": "intends_to_find"
+    },
+    {
+      "source": "Guo Tianbao",
+      "target": "Loulan",
+      "type": "intends_to_find"
+    },
+    {
+      "source": "Yue Tiannan",
+      "target": "Loulan",
+      "type": "intends_to_find"
+    },
+    {
+      "source": "Mojin King",
+      "target": "Xunlong Jue",
+      "type": "was_lost_by_master_of"
+    },
+    {
+      "source": "Mojin King",
+      "target": "Yang Tianding",
+      "type": "is_father_figure_to"
+    },
+    {
+      "source": "Yang Tianding",
+      "target": "Long Dianxue",
+      "type": "was_given"
+    },
+    {
+      "source": "Lian Xing",
+      "target": "Zombie mastiff",
+      "type": "is_accompanied_by"
+    },
+    {
+      "source": "Mojin King",
+      "target": "Mojin amulet",
+      "type": "gives_to"
+    },
+    {
+      "source": "Lian Xing",
+      "target": "Mojin amulet",
+      "type": "receives"
+    }
+  ],
+  "hierarchy": {
+    "main_topics": [
+      "The narrative begins with a journey and an attack, leading to the introduction of new characters and factions.",
+      "The plot develops with a revelation of identities and a deep dive into the Mojin sect's history and secrets.",
+      "A new quest to find the lost city of Loulan is initiated."
+    ],
+    "structure": "The document is structured episodically, following the progression of the characters' journey and their discoveries. Each chapter introduces new plot points and character interactions, building towards the overarching quest."
+  }
+}

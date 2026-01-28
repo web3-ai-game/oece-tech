@@ -1,0 +1,90 @@
+{
+  "_comment": "🔥 Gemini 收費模型配額表 - 2025-11-27",
+  
+  "keys": [
+    "AIzaSyAjp701xPLEyf-G2pPvoK-i-XtDkdnlSMs",
+    "AIzaSyB9BI0vPGm_JbuYs9QrzAlXI76IpfzobZ8",
+    "AIzaSyBnMr5u6qcazGNu5PwkTDXoQjpIVHGx9W0",
+    "AIzaSyBv5-B34bAmiPWRrhxaY9dxilaR8rr1-QQ"
+  ],
+
+  "models": {
+    "gemini-3-pro": {
+      "category": "Text-out",
+      "rpm": 25,
+      "tpm": 1000000,
+      "rpd": 250,
+      "priority": 1,
+      "use_case": "頂級推理"
+    },
+    "gemini-2.5-pro": {
+      "category": "Text-out",
+      "rpm": 150,
+      "tpm": 2000000,
+      "rpd": 10000,
+      "priority": 2,
+      "use_case": "高質量蒸餾"
+    },
+    "gemini-2.0-flash": {
+      "category": "Text-out",
+      "rpm": 2000,
+      "tpm": 4000000,
+      "rpd": -1,
+      "priority": 3,
+      "use_case": "快速處理"
+    },
+    "gemini-2.5-flash": {
+      "category": "Text-out",
+      "rpm": 1000,
+      "tpm": 1000000,
+      "rpd": 10000,
+      "priority": 4,
+      "use_case": "平衡模式"
+    },
+    "gemini-2.5-flash-lite": {
+      "category": "Text-out",
+      "rpm": 4000,
+      "tpm": 4000000,
+      "rpd": -1,
+      "priority": 5,
+      "use_case": "🔥 大批量清洗首選"
+    },
+    "gemini-2.0-flash-lite": {
+      "category": "Text-out",
+      "rpm": 4000,
+      "tpm": 4000000,
+      "rpd": -1,
+      "priority": 6,
+      "use_case": "大批量備選"
+    },
+    "gemini-3-pro-image": {
+      "category": "Multi-modal",
+      "rpm": 20,
+      "tpm": 100000,
+      "rpd": 250,
+      "priority": 7,
+      "use_case": "🖼️ 童年照片識別"
+    },
+    "imagen-4.0-fast-generate": {
+      "category": "Multi-modal",
+      "rpm": 10,
+      "rpd": 70,
+      "priority": 8,
+      "use_case": "圖片生成"
+    },
+    "veo-3.0-generate": {
+      "category": "Multi-modal",
+      "rpm": 2,
+      "rpd": 10,
+      "priority": 9,
+      "use_case": "視頻生成"
+    }
+  },
+
+  "strategy": {
+    "bulk_clean": "gemini-2.5-flash-lite",
+    "quality_distill": "gemini-2.5-pro",
+    "photo_memory": "gemini-3-pro-image",
+    "top_reasoning": "gemini-3-pro"
+  }
+}

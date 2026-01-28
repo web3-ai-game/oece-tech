@@ -1,0 +1,208 @@
+{
+  "propositions": [
+    {
+      "id": "1",
+      "text": "The document is titled \"重生之家有童养媳.txt\".",
+      "level": 1
+    },
+    {
+      "id": "2",
+      "text": "The content of the document discusses a story about a \"child bride\" in a \"reborn family\".",
+      "level": 1
+    },
+    {
+      "id": "3",
+      "text": "The text appears to be a fictional narrative.",
+      "level": 1
+    },
+    {
+      "id": "4",
+      "text": "There are mentions of characters and their interactions.",
+      "level": 2
+    },
+    {
+      "id": "5",
+      "text": "The narrative seems to involve themes of family, relationships, and potentially societal norms.",
+      "level": 2
+    },
+    {
+      "id": "6",
+      "text": "There are elements of personal reflection and emotional expression within the text.",
+      "level": 3
+    },
+    {
+      "id": "7",
+      "text": "The text explores the concept of fate and destiny.",
+      "level": 3
+    },
+    {
+      "id": "8",
+      "text": "There are discussions about understanding and learning.",
+      "level": 3
+    },
+    {
+      "id": "9",
+      "text": "The narrative touches upon the passage of time and its effects.",
+      "level": 3
+    },
+    {
+      "id": "10",
+      "text": "The concept of growth and development is present.",
+      "level": 4
+    },
+    {
+      "id": "11",
+      "text": "There are explorations of change and transformation.",
+      "level": 4
+    },
+    {
+      "id": "12",
+      "text": "The text seems to be written in Chinese.",
+      "level": 1
+    }
+  ],
+  "concepts": [
+    {
+      "name": "重生之家 (Reborn Family)",
+      "frequency": 1,
+      "context": "Mentioned in the title."
+    },
+    {
+      "name": "童养媳 (Child Bride)",
+      "frequency": 1,
+      "context": "Mentioned in the title and as a central theme."
+    },
+    {
+      "name": "小说 (Fiction)",
+      "frequency": 1,
+      "context": "Implied by the narrative nature of the text."
+    },
+    {
+      "name": "人物 (Characters)",
+      "frequency": 1,
+      "context": "Implied by the presence of interactions."
+    },
+    {
+      "name": "家庭 (Family)",
+      "frequency": 1,
+      "context": "Implied by the context of a 'family'."
+    },
+    {
+      "name": "关系 (Relationships)",
+      "frequency": 1,
+      "context": "Implied by the interactions between characters."
+    },
+    {
+      "name": "社会规范 (Societal Norms)",
+      "frequency": 1,
+      "context": "Potentially explored through the 'child bride' theme."
+    },
+    {
+      "name": "反思 (Reflection)",
+      "frequency": 1,
+      "context": "Implied by personal reflections."
+    },
+    {
+      "name": "情感 (Emotion)",
+      "frequency": 1,
+      "context": "Implied by emotional expressions."
+    },
+    {
+      "name": "命运 (Fate)",
+      "frequency": 1,
+      "context": "Explored as a theme."
+    },
+    {
+      "name": "宿命 (Destiny)",
+      "frequency": 1,
+      "context": "Explored as a theme."
+    },
+    {
+      "name": "理解 (Understanding)",
+      "frequency": 1,
+      "context": "Discussed within the text."
+    },
+    {
+      "name": "学习 (Learning)",
+      "frequency": 1,
+      "context": "Discussed within the text."
+    },
+    {
+      "name": "时间流逝 (Passage of Time)",
+      "frequency": 1,
+      "context": "Discussed within the text."
+    },
+    {
+      "name": "成长 (Growth)",
+      "frequency": 1,
+      "context": "Present as a concept."
+    },
+    {
+      "name": "发展 (Development)",
+      "frequency": 1,
+      "context": "Present as a concept."
+    },
+    {
+      "name": "变化 (Change)",
+      "frequency": 1,
+      "context": "Explored as a concept."
+    },
+    {
+      "name": "转变 (Transformation)",
+      "frequency": 1,
+      "context": "Explored as a concept."
+    },
+    {
+      "name": "中文 (Chinese)",
+      "frequency": 1,
+      "context": "The language of the document."
+    }
+  ],
+  "relations": [
+    {
+      "source": "童养媳 (Child Bride)",
+      "target": "家庭 (Family)",
+      "type": "part_of"
+    },
+    {
+      "source": "童养媳 (Child Bride)",
+      "target": "社会规范 (Societal Norms)",
+      "type": "implies"
+    },
+    {
+      "source": "小说 (Fiction)",
+      "target": "人物 (Characters)",
+      "type": "has_part"
+    },
+    {
+      "source": "反思 (Reflection)",
+      "target": "情感 (Emotion)",
+      "type": "related_to"
+    },
+    {
+      "source": "命运 (Fate)",
+      "target": "宿命 (Destiny)",
+      "type": "synonym"
+    },
+    {
+      "source": "成长 (Growth)",
+      "target": "发展 (Development)",
+      "type": "related_to"
+    },
+    {
+      "source": "变化 (Change)",
+      "target": "转变 (Transformation)",
+      "type": "related_to"
+    }
+  ],
+  "hierarchy": {
+    "main_topics": [
+      "Document Title",
+      "Narrative Content",
+      "Themes",
+      "Concepts",
+      "Language"
+    ],
+    "structure": "The document starts with a title, followed by general observations about the content, then delves into specific sub-themes and concepts, and concludes with a note about the language."
+  }
+}

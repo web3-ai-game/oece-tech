@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "object": "page",
+    "id": "2b291acc-4dd5-8179-9815-c54b85a22804",
+    "created_time": "2025-11-21T16:08:00.000Z",
+    "last_edited_time": "2025-11-21T16:08:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "269d872b-594c-81d1-9fe1-00029c482d4b"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "269d872b-594c-81d1-9fe1-00029c482d4b"
+    },
+    "cover": null,
+    "icon": null,
+    "parent": {
+      "type": "database_id",
+      "database_id": "2b291acc-4dd5-81f4-bb7b-fc4bea0fd5f6"
+    },
+    "archived": false,
+    "in_trash": false,
+    "is_locked": false,
+    "properties": {
+      "Amount": {
+        "id": "Fsvp",
+        "type": "number",
+        "number": 2000
+      },
+      "Expense Item": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Rent",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Rent",
+            "href": null
+          }
+        ]
+      }
+    },
+    "url": "https://www.notion.so/Rent-2b291acc4dd581799815c54b85a22804",
+    "public_url": null,
+    "request_id": "f51f26ac-a4aa-4c33-a0ef-bd738955a927"
+  },
+  "blocks": [],
+  "fetched_at": "2025-11-26T13:32:12.449Z"
+}

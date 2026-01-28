@@ -1,0 +1,293 @@
+{
+  "propositions": [
+    {
+      "id": "1",
+      "text": "医学的本质是为了救死扶伤。",
+      "level": 1
+    },
+    {
+      "id": "1.1",
+      "text": "生老病死是自然的规律，无法改变。",
+      "level": 2
+    },
+    {
+      "id": "1.2",
+      "text": "医生可以用知识和技能帮助病人，挽救生命。",
+      "level": 2
+    },
+    {
+      "id": "1.3",
+      "text": "医生肩负重大责任，需保持仁爱之心。",
+      "level": 2
+    },
+    {
+      "id": "1.4",
+      "text": "面对无法治愈的疾病和死亡，唯有接受。",
+      "level": 2
+    },
+    {
+      "id": "1.5",
+      "text": "接受不代表放弃，应尽最大努力为患者争取生机。",
+      "level": 2
+    },
+    {
+      "id": "1.6",
+      "text": "即使生命走到终点，也不能失去对生命的敬畏。",
+      "level": 2
+    },
+    {
+      "id": "1.7",
+      "text": "医生应用专业知识减轻痛苦，用耐心和关爱陪伴患者度过生命的最后旅程。",
+      "level": 2
+    },
+    {
+      "id": "1.8",
+      "text": "医学是一门充满爱与奉献的艺术。",
+      "level": 2
+    },
+    {
+      "id": "1.9",
+      "text": "作者从小立志学医，将此生奉献给医学事业。",
+      "level": 2
+    },
+    {
+      "id": "2",
+      "text": "患者询问还能活多久。",
+      "level": 1
+    },
+    {
+      "id": "2.1",
+      "text": "医生告知患者身体状况很糟糕，最多只能活一年。",
+      "level": 2
+    },
+    {
+      "id": "2.2",
+      "text": "医生表示已经尽力，并向患者道歉。",
+      "level": 2
+    },
+    {
+      "id": "3",
+      "text": "人们议论某件“那件事”。",
+      "level": 1
+    },
+    {
+      "id": "3.1",
+      "text": "人们对“那件事”感到不敢相信、太突然，像做梦一样，不可思议。",
+      "level": 2
+    },
+    {
+      "id": "3.2",
+      "text": "人们对未来感到不确定。",
+      "level": 2
+    },
+    {
+      "id": "4",
+      "text": "医生嘱咐患者按时服用药物，注意休息。",
+      "level": 1
+    },
+    {
+      "id": "4.1",
+      "text": "医生表示药物对病情有帮助。",
+      "level": 2
+    },
+    {
+      "id": "4.2",
+      "text": "患者再次询问病情，医生表示已尽力。",
+      "level": 2
+    },
+    {
+      "id": "5",
+      "text": "（歌词）有人在遥远的地方想着我、爱着我。",
+      "level": 1
+    },
+    {
+      "id": "5.1",
+      "text": "（歌词）有人在祈祷，希望我们能找到彼此。",
+      "level": 2
+    },
+    {
+      "id": "5.2",
+      "text": "（歌词）即使相隔遥远，也希望能怀着同样的愿望。",
+      "level": 2
+    },
+    {
+      "id": "5.3",
+      "text": "（歌词）夜风唱着歌谣，安慰我们同在一个天空下。",
+      "level": 2
+    },
+    {
+      "id": "5.4",
+      "text": "（歌词）如果爱能让我们走到一起，我们就会在一起。",
+      "level": 2
+    },
+    {
+      "id": "5.5",
+      "text": "（歌词）在遥远的地方，梦想会成真。",
+      "level": 2
+    },
+    {
+      "id": "6",
+      "text": "（重复对话）医生告知患者最多活一年，已尽力。",
+      "level": 1
+    },
+    {
+      "id": "7",
+      "text": "（重复对话）人们议论某件“那件事”。",
+      "level": 1
+    }
+  ],
+  "concepts": [
+    {
+      "name": "医学",
+      "frequency": 10,
+      "context": "医学的本质, 学习医学, 医生, 专业知识"
+    },
+    {
+      "name": "生命",
+      "frequency": 10,
+      "context": "生命, 挽救生命, 生命的规律, 生命的最后一程, 对生命的敬畏, 生命还能延续多久"
+    },
+    {
+      "name": "死亡",
+      "frequency": 4,
+      "context": "救死扶伤, 生老病死, 死亡, 疾病无法治愈, 死亡成为唯一的归宿"
+    },
+    {
+      "name": "医生",
+      "frequency": 25,
+      "context": "医生, 医生的话, 医生告知, 医生询问"
+    },
+    {
+      "name": "患者",
+      "frequency": 15,
+      "context": "病人, 患者, 患者的病情"
+    },
+    {
+      "name": "疾病",
+      "frequency": 3,
+      "context": "病痛, 疾病, 疾病无法治愈, 病情"
+    },
+    {
+      "name": "责任",
+      "frequency": 2,
+      "context": "责任, 肩上的责任"
+    },
+    {
+      "name": "接受",
+      "frequency": 4,
+      "context": "唯有接受, 接受, 并不代表放弃"
+    },
+    {
+      "name": "努力",
+      "frequency": 3,
+      "context": "尽我们最大的努力, 努力"
+    },
+    {
+      "name": "希望",
+      "frequency": 3,
+      "context": "希望, 渺茫, 带来健康和希望, Out there dreams come true"
+    },
+    {
+      "name": "痛苦",
+      "frequency": 2,
+      "context": "痛苦, 减轻他们的痛苦"
+    },
+    {
+      "name": "艺术",
+      "frequency": 2,
+      "context": "一门艺术, 充满爱与奉献的艺术"
+    },
+    {
+      "name": "爱",
+      "frequency": 4,
+      "context": "仁爱之心, loving me tonight, if love can see us through, 爱与奉献"
+    },
+    {
+      "name": "那件事",
+      "frequency": 16,
+      "context": "那件事, 某件‘那件事’"
+    },
+    {
+      "name": "时间",
+      "frequency": 18,
+      "context": "多久, 一年, 按时服用, 以后, tonight"
+    },
+    {
+      "name": "情感",
+      "frequency": 4,
+      "context": "感情, 敬畏, 爱情, 恐惧"
+    }
+  ],
+  "relations": [
+    {
+      "source": "医学",
+      "target": "救死扶伤",
+      "type": "is_for"
+    },
+    {
+      "source": "医生",
+      "target": "医学",
+      "type": "practices"
+    },
+    {
+      "source": "医生",
+      "target": "患者",
+      "type": "treats"
+    },
+    {
+      "source": "疾病",
+      "target": "死亡",
+      "type": "can_lead_to"
+    },
+    {
+      "source": "患者",
+      "target": "生命",
+      "type": "has"
+    },
+    {
+      "source": "疾病",
+      "target": "痛苦",
+      "type": "causes"
+    },
+    {
+      "source": "医生",
+      "target": "希望",
+      "type": "provides"
+    },
+    {
+      "source": "接受",
+      "target": "放弃",
+      "type": "is_not_synonymous_with"
+    },
+    {
+      "source": "时间",
+      "target": "生命",
+      "type": "quantifies"
+    },
+    {
+      "source": "那件事",
+      "target": "人们",
+      "type": "is_discussed_by"
+    },
+    {
+      "source": "歌词",
+      "target": "爱",
+      "type": "expresses"
+    },
+    {
+      "source": "歌词",
+      "target": "希望",
+      "type": "expresses"
+    }
+  ],
+  "hierarchy": {
+    "main_topics": [
+      "The Philosophy of Medicine and the Role of a Doctor",
+      "Dying and Facing Mortality",
+      "Interpersonal Interactions in Healthcare",
+      "Societal Reactions to Significant Events",
+      "Themes of Love and Hope in Separation"
+    ],
+    "structure": "The document begins with a philosophical reflection on the essence of medicine and the doctor's role, followed by a section on confronting death. It then presents dialogues illustrating patient-doctor interactions about prognosis and societal gossip. The latter half of the document includes repeated dialogue snippets and song lyrics, creating a fragmented and emotionally resonant narrative, with recurring themes of mortality and distant connection."
+  }
+}

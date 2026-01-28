@@ -1,0 +1,2303 @@
+{
+  "propositions": [
+    {
+      "id": "1",
+      "text": "Miss Jane Marple sat by the window, no longer admiring the once-luxuriant garden.",
+      "level": 1
+    },
+    {
+      "id": "1.1",
+      "text": "She had not been able to do anything for a long time.",
+      "level": 2
+    },
+    {
+      "id": "1.2",
+      "text": "Rookwood's excuses were always plausible: the weather was too dry, too damp, or the soil too wet.",
+      "level": 2
+    },
+    {
+      "id": "1.3",
+      "text": "Rookwood's own gardening principles were simple: a strong cup of sweet tea to refresh himself, sweeping leaves in autumn, planting his favorite sage and asters in summer.",
+      "level": 2
+    },
+    {
+      "id": "1.4",
+      "text": "He was fond of his employers and indulged their tastes, and he knew vegetables well, never confusing a good marjoram with a cabbage.",
+      "level": 2
+    },
+    {
+      "id": "1.5",
+      "text": "He was also a thoughtful man, but the fact remained that Mary Mead had lost its former glory.",
+      "level": 2
+    },
+    {
+      "id": "1.6",
+      "text": "In a sense, it had lost everything.",
+      "level": 3
+    },
+    {
+      "id": "1.7",
+      "text": "One could curse the war, or the younger generation, or women working outside the home, but the real reason was that one was growing old.",
+      "level": 2
+    },
+    {
+      "id": "1.8",
+      "text": "Miss Marple was a very sensitive old lady, and she was aware of this, and she felt Mary Mead deeply.",
+      "level": 2
+    },
+    {
+      "id": "2",
+      "text": "Mary Mead still stood here, the center of a bygone era.",
+      "level": 1
+    },
+    {
+      "id": "2.1",
+      "text": "The 'Blue Boar' inn, the church, the vicarage, Queen Anne's and Georgian cottages were also here.",
+      "level": 2
+    },
+    {
+      "id": "2.2",
+      "text": "The houses retained their old appearance, but the streets were different.",
+      "level": 2
+    },
+    {
+      "id": "2.3",
+      "text": "As soon as a shop changed hands, it was thoroughly renovated and expanded.",
+      "level": 3
+    },
+    {
+      "id": "2.4",
+      "text": "The fishmonger who sold his shop no longer recognized his old premises, and frozen fish gleamed in silver behind elegant shop windows.",
+      "level": 3
+    },
+    {
+      "id": "2.5",
+      "text": "Fortunately, Mr. Bonner the grocer's shop remained unchanged, where Mrs. Hartnett, Miss Bop, and others met daily for prayer.",
+      "level": 2
+    },
+    {
+      "id": "2.6",
+      "text": "The chairs by the counter were both appropriate and comfortable.",
+      "level": 3
+    },
+    {
+      "id": "2.7",
+      "text": "Thinking of this, Miss Marple sighed with annoyance.",
+      "level": 2
+    },
+    {
+      "id": "3",
+      "text": "Her thoughts inevitably returned to the past.",
+      "level": 1
+    },
+    {
+      "id": "3.1",
+      "text": "Colonel Ann Bolshet, a poor man, looked tired and unhappy.",
+      "level": 2
+    },
+    {
+      "id": "3.2",
+      "text": "He must have been murdered.",
+      "level": 3
+    },
+    {
+      "id": "3.3",
+      "text": "She then remembered Gertrude, the young, beautiful wife of the vicar, loyal to her friends, who never forgot to send a card every Christmas.",
+      "level": 2
+    },
+    {
+      "id": "3.4",
+      "text": "She then lamented how times had changed.",
+      "level": 2
+    },
+    {
+      "id": "3.5",
+      "text": "Miss Kennett, walking upstairs, made the chandelier on the mantelpiece tinkle, interrupting Miss Bop's reverie.",
+      "level": 1
+    },
+    {
+      "id": "3.6",
+      "text": "It was evident that Miss Kennett had woken from her nap and was about to go for a walk.",
+      "level": 2
+    },
+    {
+      "id": "3.7",
+      "text": "Miss Kennett was kind-hearted, but now her bronchitis made her very weak.",
+      "level": 2
+    },
+    {
+      "id": "3.8",
+      "text": "Miss Kennett entered cheerfully, a large, listless woman of fifty-six with elaborately styled straw-colored hair and glasses perched on her thin nose.",
+      "level": 2
+    },
+    {
+      "id": "3.9",
+      "text": "Her lips appeared kind, her cheeks thin.",
+      "level": 3
+    },
+    {
+      "id": "4",
+      "text": "'We meet again!' she exclaimed with delight, 'I hope we can pass some time?'",
+      "level": 1
+    },
+    {
+      "id": "4.1",
+      "text": "'Do you have a way?' Miss Marple said, 'I don't.'",
+      "level": 1
+    },
+    {
+      "id": "4.2",
+      "text": "'Now I'm going out to buy things for my little one,' the lady said jokingly, seeing her like this, 'It won't take long.'",
+      "level": 1
+    },
+    {
+      "id": "4.3",
+      "text": "'No need to rush back,' Miss Bop said politely and solicitously, 'If you don't find it too far, could you ask at Harlett's if they have any egg beaters - not whisk beaters.'",
+      "level": 1
+    },
+    {
+      "id": "4.4",
+      "text": "Miss Kennett enjoyed shopping and, after a final glance at the frail old lady resting peacefully by the window, she left cheerfully.",
+      "level": 1
+    },
+    {
+      "id": "5",
+      "text": "Miss Marple waited for a moment, then stood up, put aside her knitting, and went out through the side door.",
+      "level": 1
+    },
+    {
+      "id": "5.1",
+      "text": "She hurried through the garden, immersed in the pleasant enjoyment of an outing.",
+      "level": 2
+    },
+    {
+      "id": "5.2",
+      "text": "Along a path through the garden, out onto a stone-edged path, it led directly to a small bridge.",
+      "level": 2
+    },
+    {
+      "id": "5.3",
+      "text": "Miss Marple crossed the bridge, walked down, passing a residential area with neat rows of buildings, TV antennas, and colorful doors and windows.",
+      "level": 2
+    },
+    {
+      "id": "5.4",
+      "text": "The people here seemed insubstantial: young women in trousers.",
+      "level": 3
+    },
+    {
+      "id": "5.5",
+      "text": "Teenagers who looked quite sinister, and a happy fifteen-year-old girl on the verge of blooming.",
+      "level": 3
+    },
+    {
+      "id": "5.6",
+      "text": "Miss Marple couldn't help but feel it was a corrupt world, and turning into the Washington Close area, this new world was no different from the old.",
+      "level": 2
+    },
+    {
+      "id": "5.7",
+      "text": "After a few turns, Miss Bop lost her sense of direction and found herself by the residential area again, where half the houses were still under construction.",
+      "level": 2
+    },
+    {
+      "id": "5.8",
+      "text": "A man and a woman stood by the window of a house that was almost finished, their voices carrying.",
+      "level": 3
+    },
+    {
+      "id": "5.9",
+      "text": "'Hertley, you have to admit this is a good location.'",
+      "level": 4
+    },
+    {
+      "id": "5.10",
+      "text": "'Another location is also good.'",
+      "level": 4
+    },
+    {
+      "id": "5.11",
+      "text": "'Oh. Don't be such a killjoy, Mum, what did she say?'",
+      "level": 4
+    },
+    {
+      "id": "5.12",
+      "text": "'Your mother talks too much, Lily.'",
+      "level": 4
+    },
+    {
+      "id": "5.13",
+      "text": "'You can see the mountain view from here. You can almost see—' she leaned out the window to the left. 'You can almost see the pond—'",
+      "level": 4
+    },
+    {
+      "id": "5.14",
+      "text": "She continued to lean forward, not noticing that her entire body was pressing on a loose plank.",
+      "level": 4
+    },
+    {
+      "id": "5.15",
+      "text": "The plank loosened and fell outward, and with it, her whole body.",
+      "level": 4
+    },
+    {
+      "id": "5.16",
+      "text": "She screamed and tried to regain her balance.",
+      "level": 4
+    },
+    {
+      "id": "5.17",
+      "text": "'Hertley—!'",
+      "level": 5
+    },
+    {
+      "id": "5.18",
+      "text": "The young man was a step or two behind her, making no movement.",
+      "level": 5
+    },
+    {
+      "id": "5.19",
+      "text": "He took a step back—",
+      "level": 5
+    },
+    {
+      "id": "5.20",
+      "text": "How disappointing, she clung to the wall and steadied herself.",
+      "level": 4
+    },
+    {
+      "id": "5.21",
+      "text": "'Oh!' she gasped, still shaken. 'I almost fell. Why didn't you grab me?'",
+      "level": 4
+    },
+    {
+      "id": "5.22",
+      "text": "'Too fast. You're fine in the end.'",
+      "level": 4
+    },
+    {
+      "id": "6",
+      "text": "Miss Marple walked forward a short distance, and an impulse made her return.",
+      "level": 1
+    },
+    {
+      "id": "6.1",
+      "text": "Lily was waiting for the young man on the road to lock the door.",
+      "level": 2
+    },
+    {
+      "id": "6.2",
+      "text": "Miss Marple stepped forward and said quickly and in a low voice: 'If I were you, dear, I would never marry a young man like this. You should find someone you can rely on when you are in danger.'",
+      "level": 1
+    },
+    {
+      "id": "6.3",
+      "text": "She walked away after speaking, and Lily watched her back.",
+      "level": 2
+    },
+    {
+      "id": "6.4",
+      "text": "Miss Marple turned a sharp corner and finally tripped on some loose stones.",
+      "level": 1
+    },
+    {
+      "id": "7",
+      "text": "A woman ran out of the house and, with excessive kindness, helped Miss Marple up.",
+      "level": 1
+    },
+    {
+      "id": "7.1",
+      "text": "Her loud voice was full of friendliness, and she was a plump woman in her early forties.",
+      "level": 2
+    },
+    {
+      "id": "7.2",
+      "text": "She said, 'You'd better come inside and rest. I'll make you a cup of tea.'",
+      "level": 2
+    },
+    {
+      "id": "7.3",
+      "text": "Miss Marple thanked her and followed her through a blue door into a small room, where she introduced herself: 'My name is Hetty, this is my husband's home, Arthur—we have a guest.'",
+      "level": 1
+    },
+    {
+      "id": "7.4",
+      "text": "She went into the living room and then accompanied Arthur, who looked awkward, a thin, pale man who spoke very slowly.",
+      "level": 2
+    },
+    {
+      "id": "7.5",
+      "text": "'The lady fell—right in front of our door, so I asked her in.'",
+      "level": 3
+    },
+    {
+      "id": "7.6",
+      "text": "'Your wife is very kind, sir. I'm afraid I've caused you trouble.'",
+      "level": 3
+    },
+    {
+      "id": "7.7",
+      "text": "'Oh, it's no trouble for Hetty, she likes to help people.' He looked at her curiously. 'Where are you going? Is there anything special?'",
+      "level": 3
+    },
+    {
+      "id": "7.8",
+      "text": "'No, I'm just out for a walk. I live in Mary Mead village. My name is Marple.'",
+      "level": 3
+    },
+    {
+      "id": "7.9",
+      "text": "'Oh, imagine that!' Hetty exclaimed loudly. 'So you're Miss Marple. I've heard of you. You're very good at all sorts of murders.'",
+      "level": 1
+    },
+    {
+      "id": "7.10",
+      "text": "Miss Marple mumbled that she had been involved in murder cases once or twice.",
+      "level": 2
+    },
+    {
+      "id": "7.11",
+      "text": "'I've heard there have been several murders here, in this village. The Bingo Club was talking about it the next day. One murder happened at Costing Manor. If it were me, I would never buy a house where a murder occurred. I'm sure there are ghosts there.'",
+      "level": 1
+    },
+    {
+      "id": "7.12",
+      "text": "'The murder scene was not at Costing Manor; that was just where the body was moved.'",
+      "level": 2
+    },
+    {
+      "id": "7.13",
+      "text": "'They say it was found on the carpet in front of the study fireplace, wasn't it?'",
+      "level": 3
+    },
+    {
+      "id": "7.14",
+      "text": "Miss Marple nodded.",
+      "level": 3
+    },
+    {
+      "id": "7.15",
+      "text": "'Have you seen it yourself? Perhaps they plan to make a movie of it. Maybe that's why Marina Grey bought Costing Manor.'",
+      "level": 3
+    },
+    {
+      "id": "7.16",
+      "text": "'Marina Grey?'",
+      "level": 4
+    },
+    {
+      "id": "7.17",
+      "text": "'Yes, she and her husband. I forget his name—he's a producer, or a director, Jason something; Marina Grey is lovely. Have you seen her in 'Carmena', 'The Prince's Love', 'Mary Queen of Scots'? She's not young anymore, but still an excellent actress.'",
+      "level": 1
+    },
+    {
+      "id": "7.18",
+      "text": "Miss Marple looked at her.",
+      "level": 2
+    },
+    {
+      "id": "7.19",
+      "text": "Hetty Babcock laughed: 'Oh, I always think from my own perspective, so it's hard to see how things affect others or how things happen to them.'",
+      "level": 1
+    },
+    {
+      "id": "7.20",
+      "text": "'Like that time you took in the family who moved out of the murder house, and they took our spoons when they left,' Arthur said.",
+      "level": 1
+    },
+    {
+      "id": "7.21",
+      "text": "'But Arthur!—I couldn't ask them to leave, it wasn't polite.'",
+      "level": 2
+    },
+    {
+      "id": "7.22",
+      "text": "'Those were heirloom spoons,' Mr. Babcock said sadly. 'They were Georgian, my great-grandmother's.'",
+      "level": 2
+    },
+    {
+      "id": "8",
+      "text": "Mrs. Bunty sold Costing Manor to her late husband, Colonel Bunty, years ago, leaving only the east wing.",
+      "level": 1
+    },
+    {
+      "id": "8.1",
+      "text": "It was a small, charming house with a porch, but it had many inconveniences.",
+      "level": 2
+    },
+    {
+      "id": "8.2",
+      "text": "Mrs. Bunty added some modern amenities to the house and had been traveling extensively in recent years, visiting her grandchildren around the world, and then occasionally returning to enjoy the pleasures of her own home.",
+      "level": 2
+    },
+    {
+      "id": "8.3",
+      "text": "Costing Manor had changed hands a few times.",
+      "level": 3
+    },
+    {
+      "id": "8.4",
+      "text": "It was first run as a hotel and failed, then four people bought it and divided it into four apartments, and the four people split up due to disagreements.",
+      "level": 3
+    },
+    {
+      "id": "8.5",
+      "text": "When Miss Marple arrived, she naturally spoke to Mrs. Bunty about Costing Manor.",
+      "level": 1
+    },
+    {
+      "id": "8.6",
+      "text": "'I've heard a lot of rumors,' Miss Marple said.",
+      "level": 2
+    },
+    {
+      "id": "8.7",
+      "text": "'Of course,' said Mrs. Bunty. 'Some people even say Charlie Chaplin and his children will live there. It's actually Marina Grey who will live there.'",
+      "level": 1
+    },
+    {
+      "id": "8.8",
+      "text": "'She's a lovely creature,' sighed Miss Marple. 'I'll never forget her early films.'",
+      "level": 2
+    },
+    {
+      "id": "8.9",
+      "text": "Mrs. Bunty said, 'She must be forty-five? Fifty?'",
+      "level": 1
+    },
+    {
+      "id": "8.10",
+      "text": "Miss Marple thought she was about fifty.",
+      "level": 2
+    },
+    {
+      "id": "8.11",
+      "text": "'Has she made any films recently? I don't go to the cinema much anymore.'",
+      "level": 1
+    },
+    {
+      "id": "8.12",
+      "text": "'Not many, I think,' said Mrs. Bunty. 'She hasn't been a movie star for a long time. She had a nervous breakdown not long after her divorce.'",
+      "level": 2
+    },
+    {
+      "id": "8.13",
+      "text": "'Movie stars like them always remarry,' said Miss Marple.",
+      "level": 1
+    },
+    {
+      "id": "8.14",
+      "text": "'I think they are truly different,' said Mrs. Bunty. 'They have to live this kind of life, a life without privacy.'",
+      "level": 2
+    },
+    {
+      "id": "8.15",
+      "text": "'She married five times, didn't she?' Miss Marple asked.",
+      "level": 1
+    },
+    {
+      "id": "8.16",
+      "text": "'At least five. The first one doesn't count. Later she married a foreign prince or count or something, then the movie star Robert Charles. Was it? This romance was sensational, but only lasted four years. Then the playwright Esther Wright. This time it was very serious and solemn. She was pregnant—she had always longed to have a child—and adopted some orphans—in any case, this is true. Later, I think she had a retarded or abnormal baby. After this, she completely broke down, started taking pills or something, and finally became mentally unbalanced.'",
+      "level": 1
+    },
+    {
+      "id": "8.17",
+      "text": "'You seem to know a lot about her,' Miss Marple said.",
+      "level": 2
+    },
+    {
+      "id": "8.18",
+      "text": "'Oh, of course,' said Mrs. Bunty. 'I was very curious when she bought Costing Manor. Two years ago when she married her current husband, she was said to have recovered. He's a producer—or a director? I always get them mixed up. He fell in love with her when they were very young, but he hadn't debuted then. Now I think he's famous. His name is Jason—Jason something—Jason Hood, no, Luther. They bought Costing because this place—' she hesitated—'is convenient for the estuary.'",
+      "level": 1
+    },
+    {
+      "id": "8.19",
+      "text": "Miss Marple shook her head.",
+      "level": 2
+    },
+    {
+      "id": "8.20",
+      "text": "'I don't think so,' she said. 'The estuary is north of London.'",
+      "level": 2
+    },
+    {
+      "id": "8.21",
+      "text": "'It's a very new studio called Shillingford, sounds like Finnish, about six miles from the market. She plans to shoot in Elisabeth, Austria soon.'",
+      "level": 3
+    },
+    {
+      "id": "8.22",
+      "text": "'How do you know so much?' Miss Marple asked, 'You're a walking encyclopedia of movie stars' private lives. Did you hear all this when you were in California?'",
+      "level": 1
+    },
+    {
+      "id": "8.23",
+      "text": "'Not entirely,' said Mrs. Bunty, 'but it's true that she's coming to live here.'",
+      "level": 2
+    },
+    {
+      "id": "8.24",
+      "text": "'I know she's giving up Costing on the 23rd to host a party to raise funds for the John Hospital's field hospital. I guess they've had a lot of renovations done to the house?'",
+      "level": 1
+    },
+    {
+      "id": "8.25",
+      "text": "'In fact, everything has been touched,' said Miss Marple. 'I heard they've built six new rooms, a courtyard, a swimming pool, and what they call observation windows. They've also turned your husband's study and laboratory into a concert hall.'",
+      "level": 2
+    },
+    {
+      "id": "8.26",
+      "text": "'Arthur would die if he heard that. You know he hates music.' She paused, then immediately added, 'Has anyone said Costing is haunted?'",
+      "level": 3
+    },
+    {
+      "id": "8.27",
+      "text": "Miss Marple shook her head.",
+      "level": 3
+    },
+    {
+      "id": "8.28",
+      "text": "Mrs. Bunty laughed: 'No secrets can be kept in Mary Mead village. Don't you always tell me that? Mrs. Meve told me.'",
+      "level": 1
+    },
+    {
+      "id": "8.29",
+      "text": "'Mrs. Meve?' Miss Marple looked confused.",
+      "level": 2
+    },
+    {
+      "id": "8.30",
+      "text": "'She comes every day. Lives in the residential area.'",
+      "level": 3
+    },
+    {
+      "id": "8.31",
+      "text": "'Oh, the residential area. I went there.'",
+      "level": 3
+    },
+    {
+      "id": "8.32",
+      "text": "'What did you go there for?' Mrs. Bunty asked curiously.",
+      "level": 3
+    },
+    {
+      "id": "8.33",
+      "text": "'I just wanted to see it. Oh, it gives you an understanding of certain situations. When anything happens, you can understand the reason.'",
+      "level": 4
+    },
+    {
+      "id": "8.34",
+      "text": "'You mean murder?'",
+      "level": 4
+    },
+    {
+      "id": "8.35",
+      "text": "Miss Marple froze: 'I don't know why you always think I'm thinking about murder.'",
+      "level": 1
+    },
+    {
+      "id": "8.36",
+      "text": "'Why don't you say it openly and ask a criminologist to solve it?'",
+      "level": 2
+    },
+    {
+      "id": "8.37",
+      "text": "'Because I'm not that kind of person,' Miss Marple said spiritedly.",
+      "level": 3
+    },
+    {
+      "id": "8.38",
+      "text": "'You might have something there,' Mrs. Bunty said thoughtfully. 'Your nephew Raymond always says it's a backward area.'",
+      "level": 1
+    },
+    {
+      "id": "8.39",
+      "text": "'Lovely Raymond,' Miss Marple said casually, 'He's so kind, you know. He paid Miss Kennett for me.'",
+      "level": 2
+    },
+    {
+      "id": "8.40",
+      "text": "Mentioning Kennett, she felt uneasy and stood up, saying, 'I think I'd better go.'",
+      "level": 3
+    },
+    {
+      "id": "8.41",
+      "text": "'You didn't come on foot, did you?'",
+      "level": 4
+    },
+    {
+      "id": "8.42",
+      "text": "'Of course not. I came by Inge car.'",
+      "level": 4
+    },
+    {
+      "id": "8.43",
+      "text": "The other party understood the strange name perfectly. For a long time, Mr. Inge's two vans had picked up passengers at the local station, and nearby women also hired them for tea parties. Mr. Inge was a cheerful, ruddy old man in his seventies, who handed over his cars to his son, whom everyone called 'Young Inge.'",
+      "level": 1
+    },
+    {
+      "id": "8.44",
+      "text": "Miss Marple said goodbye and left.",
+      "level": 2
+    },
+    {
+      "id": "9",
+      "text": "When Miss Marple returned, Kennett told her: 'Dr. Haddock called. I told him you and Mrs. Bunty were having tea. He said he'd call again tomorrow.'",
+      "level": 1
+    },
+    {
+      "id": "9.1",
+      "text": "'I'll ask him tomorrow morning,' Miss Marple said.",
+      "level": 2
+    },
+    {
+      "id": "10",
+      "text": "The next morning, Miss Kennett saw Dr. Haddock in the living room. The old doctor entered the bedroom, rubbing his hands, it was a cold morning.",
+      "level": 1
+    },
+    {
+      "id": "10.1",
+      "text": "'How about a glass of sherry?' Miss Marple suggested.",
+      "level": 2
+    },
+    {
+      "id": "10.2",
+      "text": "Dr. Haddock was an old friend. He was semi-retired but still saw a few old patients.",
+      "level": 2
+    },
+    {
+      "id": "10.3",
+      "text": "'I heard you fell,' he said after drinking. 'You can't do that, especially at your age.'",
+      "level": 1
+    },
+    {
+      "id": "10.4",
+      "text": "'The problem isn't there. It's hard to go out alone for even a few minutes. Like knitting—it used to be a pleasant thing, but now I always drop stitches—and I don't even know I've dropped them.'",
+      "level": 2
+    },
+    {
+      "id": "10.5",
+      "text": "Dr. Haddock looked at her thoughtfully: 'But you're good at untangling things, aren't you? You always find a way to unravel the thread, I can't figure it out, it's just like Sherlock Holmes.'",
+      "level": 1
+    },
+    {
+      "id": "10.6",
+      "text": "'But there's no murder here,' Miss Kennett interjected.",
+      "level": 2
+    },
+    {
+      "id": "10.7",
+      "text": "But she was wrong, a murder had indeed happened.",
+      "level": 1
+    },
+    {
+      "id": "10.8",
+      "text": "txt`小说`天堂wwＷ.xiaoshuotxt=com",
+      "level": 4
+    },
+    {
+      "id": "11",
+      "text": "Mrs. Bunty stepped back a pace and surveyed herself in the mirror.",
+      "level": 1
+    },
+    {
+      "id": "11.1",
+      "text": "She had a pleasant premonition. About three weeks after talking to Miss Marple, Marina Grey and her husband had arrived at Costing, and had more or less settled in.",
+      "level": 2
+    },
+    {
+      "id": "11.2",
+      "text": "This afternoon, some important people were meeting there for a fundraising tea party for the John Ambulance Association.",
+      "level": 3
+    },
+    {
+      "id": "11.3",
+      "text": "Although Mrs. Bunty was not one of them, she had received a note from Marina Grey inviting her for tea.",
+      "level": 3
+    },
+    {
+      "id": "11.4",
+      "text": "As she walked along the pavement, Mrs. Bunty's keen eyes darted to and fro.",
+      "level": 1
+    },
+    {
+      "id": "11.5",
+      "text": "The place had become tidy since changing hands.",
+      "level": 2
+    },
+    {
+      "id": "11.6",
+      "text": "There was no garden on the office pavement, and Mrs. Bunty was happy about that too.",
+      "level": 2
+    },
+    {
+      "id": "11.7",
+      "text": "When she lived at Costing, she had been particularly nostalgic about the garden and the surrounding greenery.",
+      "level": 3
+    },
+    {
+      "id": "11.8",
+      "text": "She stood before a freshly painted door and rang the bell.",
+      "level": 1
+    },
+    {
+      "id": "11.9",
+      "text": "The door opened immediately, and the person who opened it was clearly an Italian servant.",
+      "level": 2
+    },
+    {
+      "id": "11.10",
+      "text": "She was taken to Colonel Bunty's study, which had been combined with the drawing-room, with paneled walls and parquet flooring.",
+      "level": 2
+    },
+    {
+      "id": "11.11",
+      "text": "There was a grand piano in the corner and a high-fidelity record player against the wall.",
+      "level": 3
+    },
+    {
+      "id": "11.12",
+      "text": "Marina Grey was sitting at the table, and a man was leaning against the mantelpiece, whom Mrs. Bunty thought was the ugliest man she had ever seen.",
+      "level": 1
+    },
+    {
+      "id": "11.13",
+      "text": "A quarter of an hour before Mrs. Bunty rang the bell, Marina Grey said to her husband: 'This place is very suitable for me. It's quiet, like the English countryside. We can admire the lawn outside the window and the English garden and feel that we can settle down.'",
+      "level": 1
+    },
+    {
+      "id": "11.14",
+      "text": "Jason Luther (whom his wife called Jick) smiled at her, a submissive, indulgent smile, and said in a low voice: 'Darling, this is wonderful, wonderful. I'm so glad you like it.'",
+      "level": 2
+    },
+    {
+      "id": "11.15",
+      "text": "This is not bad, he thought to himself. Very good, solidly built, but the ugliest Victorian house. He admitted to himself that the house gave a sense of solidity and security.",
+      "level": 1
+    },
+    {
+      "id": "11.16",
+      "text": "All the inconveniences had been removed now, he thought, and Marina might not dislike it for two to two and a half years.",
+      "level": 2
+    },
+    {
+      "id": "11.17",
+      "text": "Just then the door opened, and the Italian servant led Mrs. Bunty in.",
+      "level": 1
+    },
+    {
+      "id": "11.18",
+      "text": "Marina Grey greeted her charmingly. 'You don't know my husband, do you? Jason, this is Mrs. Bunty.'",
+      "level": 1
+    },
+    {
+      "id": "11.19",
+      "text": "Mrs. Bunty looked at Jason Luther with curiosity.",
+      "level": 2
+    },
+    {
+      "id": "11.20",
+      "text": "At first, she thought he was the ugliest man she had ever seen, but now she thought he suited Marina Grey well.",
+      "level": 2
+    },
+    {
+      "id": "11.21",
+      "text": "He had a pair of interesting eyes, almost more sunken than average, like a deep pool.",
+      "level": 3
+    },
+    {
+      "id": "11.22",
+      "text": "The rest of his face was disproportionately wrinkled, making him look comical, his nose was prominent, and if it were a little redder, it would be a clown's nose.",
+      "level": 3
+    },
+    {
+      "id": "11.23",
+      "text": "He also had a large, sad mouth, like a clown's.",
+      "level": 3
+    },
+    {
+      "id": "11.24",
+      "text": "She didn't know if he was just in a bad mood at the moment or if he always looked that way.",
+      "level": 3
+    },
+    {
+      "id": "11.25",
+      "text": "However, he spoke with unexpected pleasantness, his voice low and gentle.",
+      "level": 3
+    },
+    {
+      "id": "11.26",
+      "text": "He said, 'I must say, my wife and I are very pleased to welcome you here.'",
+      "level": 1
+    },
+    {
+      "id": "11.27",
+      "text": "Mrs. Bunty said, 'This is no longer my home since I moved out of my old one. I was glad to have sold the house. I lived quite comfortably, traveling around the world to visit my daughters and grandchildren.'",
+      "level": 1
+    },
+    {
+      "id": "11.28",
+      "text": "Jason Luther interrupted her: 'Tell me about this pleasant village.' He handed her a cup of tea.",
+      "level": 2
+    },
+    {
+      "id": "11.29",
+      "text": "'Good tea,' Mrs. Bunty drank the fragrant beverage.",
+      "level": 1
+    },
+    {
+      "id": "11.30",
+      "text": "Marina Grey smiled, looking very happy.",
+      "level": 2
+    },
+    {
+      "id": "11.31",
+      "text": "Jason Luther had already noticed her fingers twitching for a minute or two, and now they had stopped.",
+      "level": 2
+    },
+    {
+      "id": "11.32",
+      "text": "Mrs. Bunty looked at her with envy.",
+      "level": 3
+    },
+    {
+      "id": "11.33",
+      "text": "On impulse, she said: 'I really hope you like it here. Do you want to own this place forever?'",
+      "level": 3
+    },
+    {
+      "id": "11.34",
+      "text": "Marina turned and stared at her with wide eyes. 'I want to live here forever. I might be shooting a film in North Africa next year, but this will be my home. This is wonderful, wonderful. Finally, a home.'",
+      "level": 1
+    },
+    {
+      "id": "11.35",
+      "text": "'I understand,' said Mrs. Bunty, while she herself thought: 'I don't believe you're the type to settle down peacefully.'",
+      "level": 2
+    },
+    {
+      "id": "11.36",
+      "text": "She quickly glanced at Jason Luther again. Just then the door opened, and a woman walked in. 'Jason, Butler asks for you on the phone.'",
+      "level": 1
+    },
+    {
+      "id": "11.37",
+      "text": "He sighed and stood up. 'Let me introduce you to Mrs. Bunty,' he said. 'This is Ila Jelinsky, my secretary.'",
+      "level": 2
+    },
+    {
+      "id": "11.38",
+      "text": "Ila Jelinsky was about thirty-five years old.",
+      "level": 2
+    },
+    {
+      "id": "11.39",
+      "text": "She wore a well-fitting suit and a lace blouse and looked confident.",
+      "level": 3
+    },
+    {
+      "id": "11.40",
+      "text": "She had short hair and a broad forehead. 'They say you used to live here,' she said to Mrs. Bunty.",
+      "level": 3
+    },
+    {
+      "id": "11.41",
+      "text": "'That was many years ago,' said Mrs. Bunty. 'I sold it after my husband died. It's changed hands several times since then.'",
+      "level": 1
+    },
+    {
+      "id": "11.42",
+      "text": "Ila glanced quickly at Mrs. Bunty. 'Oh, I heard there was a murder here at some point?'",
+      "level": 2
+    },
+    {
+      "id": "11.43",
+      "text": "'No murder has happened here,' said Mrs. Bunty.",
+      "level": 3
+    },
+    {
+      "id": "11.44",
+      "text": "'Oh, hurry up. I've heard this story. Mrs. Bunty, there are always stories here, right by the fireplace on the carpet? Right here?' Miss Jelinsky nodded towards the fireplace.",
+      "level": 3
+    },
+    {
+      "id": "11.45",
+      "text": "'That's right,' said Mrs. Bunty. 'It's this spot.'",
+      "level": 4
+    },
+    {
+      "id": "11.46",
+      "text": "'So that means a murder did happen?'",
+      "level": 4
+    },
+    {
+      "id": "11.47",
+      "text": "Mrs. Bunty shook her head. 'The murder didn't happen here. The murdered girl was moved here, and the scene was staged. She had nothing to do with us.'",
+      "level": 1
+    },
+    {
+      "id": "11.48",
+      "text": "'Perhaps it's hard for you to believe that?' she commented. 'When did you find the body?'",
+      "level": 2
+    },
+    {
+      "id": "11.49",
+      "text": "'The butler in the morning,' said Mrs. Bunty, 'bringing morning tea. You know, we had a butler then.'",
+      "level": 3
+    },
+    {
+      "id": "11.50",
+      "text": "'I know,' said Miss Jelinsky, 'wearing a rustling cotton dress.'",
+      "level": 4
+    },
+    {
+      "id": "11.51",
+      "text": "'I don't remember if it was a cotton dress,' said Mrs. Bunty, 'Maybe she was wearing overalls. She rushed in and told me there was a body in the study. I woke my husband, and we went down together.'",
+      "level": 4
+    },
+    {
+      "id": "11.52",
+      "text": "'And it was true,' said Miss Jelinsky. 'Good heavens, such a thing.' She suddenly turned to look at the door, then turned back. 'Don't tell Miss Grey, if you don't mind.'",
+      "level": 5
+    },
+    {
+      "id": "11.53",
+      "text": "'Of course, I won't say a word,' said Mrs. Bunty, 'In fact, she seems to like this house.'",
+      "level": 5
+    },
+    {
+      "id": "11.54",
+      "text": "'I hope this situation lasts for a year or two,' said Ila Jelinsky.",
+      "level": 1
+    },
+    {
+      "id": "11.55",
+      "text": "'Not longer?'",
+      "level": 2
+    },
+    {
+      "id": "11.56",
+      "text": "'Oh, I doubt it. Marina, like some people, always wants to find what they truly desire,' said Miss Jelinsky.",
+      "level": 3
+    },
+    {
+      "id": "11.57",
+      "text": "She stuffed down not two or three sandwiches, eating them ravenously as if she had an important train to catch.",
+      "level": 3
+    },
+    {
+      "id": "11.58",
+      "text": "Mrs. Bunty felt a bit awkward, but she didn't care much about this awkwardness.",
+      "level": 1
+    },
+    {
+      "id": "11.59",
+      "text": "She ate the last sandwich and suddenly said, 'Well, the fundraising is about to begin.' Hearing this, Mrs. Bunty looked out the window, where it was indeed lively.",
+      "level": 1
+    },
+    {
+      "id": "11.60",
+      "text": "The square in front of Costing Manor was crowded with people to raise funds for the John Ambulance Association.",
+      "level": 2
+    },
+    {
+      "id": "11.61",
+      "text": "The sun was shining brightly, but the reason for the sensation was that local residents wanted to see how these 'movie personalities' had transformed Costing Manor.",
+      "level": 3
+    },
+    {
+      "id": "11.62",
+      "text": "Even Mr. Sampson, the oldest resident of Mary Mead village, came with a cane to watch the excitement.",
+      "level": 3
+    },
+    {
+      "id": "11.63",
+      "text": "Everyone knew that the grand finale was the afternoon entertainment.",
+      "level": 1
+    },
+    {
+      "id": "11.64",
+      "text": "For an extra shilling, one could enter the house and visit the new concert hall, the drawing-room, and the dining room, which had never been open to the public before.",
+      "level": 2
+    },
+    {
+      "id": "11.65",
+      "text": "These rooms were now decorated with black oak and Spanish leather.",
+      "level": 3
+    },
+    {
+      "id": "11.66",
+      "text": "In addition to visiting the interior, there were other amusements.",
+      "level": 3
+    },
+    {
+      "id": "11.67",
+      "text": "Mrs. Bunty was delighted to see that the attendees were all upper-class people. 'Mrs. Bunty? I'm Hailey Preston. I work for Mr. Luther. Could you come up to the second floor? The Luthers are having some friends there.'",
+      "level": 1
+    },
+    {
+      "id": "11.68",
+      "text": "Mrs. Bunty followed him upstairs, flattered, through what they called a garden door, where Mrs. Bunty saw Mrs. Oake and the Member of Parliament.",
+      "level": 2
+    },
+    {
+      "id": "11.69",
+      "text": "'Mrs. Bunty, they've done it wonderfully, haven't they?' said Mrs. Oake breathlessly.",
+      "level": 1
+    },
+    {
+      "id": "11.70",
+      "text": "At the top of the stairs, Marina Grey and Jason Luther were standing to receive the distinguished guests.",
+      "level": 1
+    },
+    {
+      "id": "11.71",
+      "text": "Marina Grey was very natural and charming. Mrs. Oake said, 'Even with such fame, she's still very approachable.'",
+      "level": 1
+    },
+    {
+      "id": "11.72",
+      "text": "It was wonderful that Mrs. Oake and the Member of Parliament could attend. She hoped they would enjoy a pleasant afternoon.",
+      "level": 2
+    },
+    {
+      "id": "11.73",
+      "text": "The Member of Parliament and Mrs. Oake went to Jason and had drinks.",
+      "level": 1
+    },
+    {
+      "id": "11.74",
+      "text": "The man called Hailey Preston entertained them, and after a while, he hurried away.",
+      "level": 2
+    },
+    {
+      "id": "11.75",
+      "text": "A clergyman arrived, tall and thin, like an ascetic.",
+      "level": 2
+    },
+    {
+      "id": "11.76",
+      "text": "Miss Jelinsky was also helping at the event, handing him a glass of lemon juice and smiling gently at him.",
+      "level": 3
+    },
+    {
+      "id": "11.77",
+      "text": "'Mrs. Babcock,' the clergyman turned to Mrs. Babcock with a glass of lemon juice. 'Don't you remember me?' Mrs. Hetty joked. 'I attended the Ambulance Association in Bermuda. Oh, that was a long time ago.'",
+      "level": 1
+    },
+    {
+      "id": "11.78",
+      "text": "'I remember it clearly,' said Mrs. Babcock. 'Do you know, I was so happy. I was the only girl there. Imagine having the chance to see Marina Grey in person. Oh, I've always been her biggest fan.'",
+      "level": 2
+    },
+    {
+      "id": "11.79",
+      "text": "'You are too kind,' Marina said sweetly.",
+      "level": 1
+    },
+    {
+      "id": "11.80",
+      "text": "At this point, Mrs. Oake picked up her glass. 'I'm going to try this, it tastes very much like Russian vodka, I don't think I'll like it very much...'",
+      "level": 1
+    },
+    {
+      "id": "11.81",
+      "text": "She turned her head and heard Mrs. Hetty Babcock say enthusiastically: 'I can't forget how great you were then, it was simply indescribable.'",
+      "level": 2
+    },
+    {
+      "id": "11.82",
+      "text": "This time Marina's reaction was not as natural. Her eyes wandered past Mrs. Hetty Babcock, settling on the wall in the middle of the stairs.",
+      "level": 1
+    },
+    {
+      "id": "11.83",
+      "text": "She stared, her face contorted with terror, so much so that Mrs. Bunty took a step forward.",
+      "level": 2
+    },
+    {
+      "id": "11.84",
+      "text": "Was this woman about to faint?",
+      "level": 3
+    },
+    {
+      "id": "11.85",
+      "text": "But before she could reach Marina, Marina had recovered, her charming demeanor returned, though still with a shadow of distress.",
+      "level": 3
+    },
+    {
+      "id": "11.86",
+      "text": "Mrs. Bunty said to Mrs. Oake: 'Let's go and see the bathroom.'",
+      "level": 1
+    },
+    {
+      "id": "11.87",
+      "text": "'Oh, do you think we can? Won't it be too impolite?'",
+      "level": 2
+    },
+    {
+      "id": "11.88",
+      "text": "Jason laughed: 'Go ahead. If you like, you can even take a bath.'",
+      "level": 2
+    },
+    {
+      "id": "11.89",
+      "text": "Mrs. Oake followed Mrs. Bunty down the corridor.",
+      "level": 1
+    },
+    {
+      "id": "11.90",
+      "text": "They walked down the corridor, opening doors from time to time.",
+      "level": 2
+    },
+    {
+      "id": "11.91",
+      "text": "Mrs. Bunty felt pleased to play the role of a semi-hostess.",
+      "level": 2
+    },
+    {
+      "id": "11.92",
+      "text": "When they reached the side of the bedroom, it was locked, and everyone was disappointed.",
+      "level": 3
+    },
+    {
+      "id": "11.93",
+      "text": "'I think there must be some private secrets inside,' said Mrs. Bunty magnanimously.",
+      "level": 3
+    },
+    {
+      "id": "11.94",
+      "text": "Walking back along the corridor, Mrs. Bunty suddenly felt that the house was old and dilapidated, and looked very artificial.",
+      "level": 1
+    },
+    {
+      "id": "11.95",
+      "text": "Despite the bright paint and renovations, it still had the decadence of an old Victorian house.",
+      "level": 2
+    },
+    {
+      "id": "11.96",
+      "text": "Suddenly, a faint buzzing sound came from somewhere.",
+      "level": 2
+    },
+    {
+      "id": "11.97",
+      "text": "She and two other women started to walk forward.",
+      "level": 3
+    },
+    {
+      "id": "11.98",
+      "text": "'What's going on?' one of them said. 'It sounds like something is happening.'",
+      "level": 3
+    },
+    {
+      "id": "11.99",
+      "text": "They walked back along the corridor, and Ila Jelinsky hurried past them.",
+      "level": 1
+    },
+    {
+      "id": "11.100",
+      "text": "She tried to open a bedroom door, saying in a hurry, 'Oh, dear. They're all locked.'",
+      "level": 2
+    },
+    {
+      "id": "11.101",
+      "text": "'Is something wrong?' Mrs. Bunty asked.",
+      "level": 3
+    },
+    {
+      "id": "11.102",
+      "text": "'Someone is sick,' Jelinsky replied curtly. 'Jason is on the phone. She seems very ill.'",
+      "level": 3
+    },
+    {
+      "id": "11.103",
+      "text": "'Who?' Mrs. Bunty asked.",
+      "level": 4
+    },
+    {
+      "id": "11.104",
+      "text": "'A Mrs. Beck, I believe.'",
+      "level": 4
+    },
+    {
+      "id": "11.105",
+      "text": "'Hetty Babcock? But she was fine just now!'",
+      "level": 5
+    },
+    {
+      "id": "11.106",
+      "text": "Ila Jelinsky said impatiently, 'She had a sudden attack or something. Do you know if she has heart problems or anything like that?'",
+      "level": 1
+    },
+    {
+      "id": "11.107",
+      "text": "'I don't know her at all,' said Mrs. Bunty. 'She's new here, from the residential area.'",
+      "level": 2
+    },
+    {
+      "id": "11.108",
+      "text": "'Residential area? Oh, you mean that block of houses. I don't know where her husband is or what he looks like.'",
+      "level": 3
+    },
+    {
+      "id": "11.109",
+      "text": "'Middle-aged, blonde, modest,' said Mrs. Bunty. 'I came with him, so he must be around here.'",
+      "level": 3
+    },
+    {
+      "id": "11.110",
+      "text": "Ila Jelinsky walked into the bathroom. 'I'll see if I can help,' said Mrs. Bunty.",
+      "level": 1
+    },
+    {
+      "id": "11.111",
+      "text": "She walked away, hurrying towards the staircase.",
+      "level": 2
+    },
+    {
+      "id": "11.112",
+      "text": "Turning a corner, she bumped into Jason Luther.",
+      "level": 2
+    },
+    {
+      "id": "11.113",
+      "text": "'Have you seen Ila?' he said. 'Ila Jelinsky?'",
+      "level": 3
+    },
+    {
+      "id": "11.114",
+      "text": "'She just walked in here to a bathroom, seemingly looking for something, smelling salts—or something of the sort.'",
+      "level": 3
+    },
+    {
+      "id": "11.115",
+      "text": "'No need to bother,' said Jason Luther, 'That poor woman is dead.'",
+      "level": 1
+    },
+    {
+      "id": "11.116",
+      "text": "'Dead!' Mrs. Bunty was truly shocked. 'But she was fine just now.'",
+      "level": 2
+    },
+    {
+      "id": "12",
+      "text": "See here,' said Miss Kennett, placing the breakfast plate in front of Miss Marple.",
+      "level": 1
+    },
+    {
+      "id": "12.1",
+      "text": "'Mrs. Bunty called,' Miss Kennett said, 'About half an hour ago. She wants to talk to you.'",
+      "level": 2
+    },
+    {
+      "id": "12.2",
+      "text": "'My friend is calling,' said Miss Bop, 'I'll take it. What happened?'",
+      "level": 1
+    },
+    {
+      "id": "12.3",
+      "text": "'Someone died during the fundraising at Costing Manor yesterday. A Mrs. Babcock, who lives on our corner. I don't think you know her.'",
+      "level": 2
+    },
+    {
+      "id": "12.4",
+      "text": "'Mrs. Babcock?' Miss Marple said in surprise. 'I know her. I fell that day, and she ran out and helped me up. She was very kind. What happened?'",
+      "level": 1
+    },
+    {
+      "id": "12.5",
+      "text": "'Don't know. She was invited there because she's the secretary of the John Ambulance Association. It's said she drank something and died five minutes later.'",
+      "level": 2
+    },
+    {
+      "id": "12.6",
+      "text": "'How dreadful,' said Miss Marple. 'Did she have any heart problems?'",
+      "level": 1
+    },
+    {
+      "id": "12.7",
+      "text": "'They say she was always energetic. That's all I can tell you. They haven't sent her home yet.'",
+      "level": 2
+    },
+    {
+      "id": "12.8",
+      "text": "Miss Marple looked confused. 'What did you say? Haven't sent her home yet?'",
+      "level": 1
+    },
+    {
+      "id": "12.9",
+      "text": "'The doctor said an autopsy is needed. An examination—whatever you call it. It's funny.' She added.",
+      "level": 2
+    },
+    {
+      "id": "12.10",
+      "text": "'What do you mean by funny?' Miss Marple asked.",
+      "level": 3
+    },
+    {
+      "id": "12.11",
+      "text": "'Oh, there must be something hidden behind this.'",
+      "level": 4
+    },
+    {
+      "id": "12.12",
+      "text": "'Is her husband very distressed?'",
+      "level": 1
+    },
+    {
+      "id": "12.13",
+      "text": "'His face was as white as paper. I've never seen a man so sad—that's all.'",
+      "level": 2
+    },
+    {
+      "id": "12.14",
+      "text": "Miss Marple listened intently, her head tilted like a curious little bird.",
+      "level": 1
+    },
+    {
+      "id": "12.15",
+      "text": "'Was he faithful to her?'",
+      "level": 2
+    },
+    {
+      "id": "12.16",
+      "text": "'He did everything she said, but let her have her way.'",
+      "level": 3
+    },
+    {
+      "id": "12.17",
+      "text": "'Don't you like her?' Miss Marple asked.",
+      "level": 1
+    },
+    {
+      "id": "12.18",
+      "text": "'I don't know her and I don't like her. We're different types. Too meddlesome.'",
+      "level": 2
+    },
+    {
+      "id": "12.19",
+      "text": "Miss Marple thought for a moment and said: 'People like that live a dangerous life—though they don't know it themselves.'",
+      "level": 1
+    },
+    {
+      "id": "12.20",
+      "text": "'What a funny thing to say. I don't quite understand what you mean,' said Miss Kennett.",
+      "level": 2
+    },
+    {
+      "id": "12.21",
+      "text": "Just then, Mrs. Bunty arrived, slightly breathless.",
+      "level": 1
+    },
+    {
+      "id": "12.22",
+      "text": "'Jane, I have a lot to tell you,' she said. 'What do you think about Hetty's death?'",
+      "level": 2
+    },
+    {
+      "id": "12.23",
+      "text": "'Can you tell me the situation at the time?' Miss Marple said.",
+      "level": 1
+    },
+    {
+      "id": "12.24",
+      "text": "'She arrived very happy and energetic. About fifteen minutes later, she sat in a chair and said she felt unwell and was short of breath. She died soon after. What do you think?'",
+      "level": 1
+    },
+    {
+      "id": "12.25",
+      "text": "Miss Marple said: 'The question is what the medical experts say?'",
+      "level": 1
+    },
+    {
+      "id": "12.26",
+      "text": "Mrs. Bunty nodded in agreement. 'There will be an investigation and autopsy, but Dr. Stanford called the police after returning home.'",
+      "level": 2
+    },
+    {
+      "id": "12.27",
+      "text": "'Who told you?' Miss Marple asked curiously.",
+      "level": 1
+    },
+    {
+      "id": "12.28",
+      "text": "'Old Bragg,' said Mrs. Bunty. 'He didn't tell me directly. You know, that evening he went to inspect Dr. Stanford's garden. He was carrying something to his study when he heard him reporting to the police station in Marchingham.'",
+      "level": 1
+    },
+    {
+      "id": "12.29",
+      "text": "'Did you see her husband? Did he look like someone who would poison her?'",
+      "level": 2
+    },
+    {
+      "id": "12.30",
+      "text": "'Hard to say,' Mrs. Bunty continued. 'Did he remind you of Mayor Smith or Betty Jones or someone from years ago?'",
+      "level": 1
+    },
+    {
+      "id": "12.31",
+      "text": "'No,' said Miss Marple, 'He didn't remind me of anyone.' she added. 'But she did.'",
+      "level": 2
+    },
+    {
+      "id": "12.32",
+      "text": "'Who—Mrs. Babcock?'",
+      "level": 3
+    },
+    {
+      "id": "12.33",
+      "text": "'Yes,' said Miss Marple. 'She reminded me of someone named Alice Weed.'",
+      "level": 3
+    },
+    {
+      "id": "12.34",
+      "text": "'What was Alice Weed like?'",
+      "level": 1
+    },
+    {
+      "id": "12.35",
+      "text": "'She had no idea what the world was like, or what people were like. She never thought about them. Therefore, you know, she couldn't prevent what happened to her.'",
+      "level": 2
+    },
+    {
+      "id": "12.36",
+      "text": "'I don't understand what you're saying,' said Mrs. Bunty.",
+      "level": 3
+    },
+    {
+      "id": "12.37",
+      "text": "'It's hard to explain clearly,' Miss Marple said apologetically. 'The main reason is being too self-centered,' she added. 'You can be kind, selfless, even considerate. But if you are like Alice Weed, you will never know what will happen to you.'",
+      "level": 1
+    },
+    {
+      "id": "12.38",
+      "text": "'Can you explain it more clearly?' said Mrs. Bunty.",
+      "level": 2
+    },
+    {
+      "id": "12.39",
+      "text": "'Oh, let me give you an analogy. Suppose you go to a shop, and you know the shop owner has a good-for-nothing son. He's standing there listening to you tell his mother that you have some money at home. Then, one night you go out, forgetting something, and you find that scoundrel in your house. When he's caught stealing, he turns and hits you with a stick.'",
+      "level": 1
+    },
+    {
+      "id": "12.40",
+      "text": "'This could happen to almost anyone,' said Mrs. Bunty.",
+      "level": 2
+    },
+    {
+      "id": "12.41",
+      "text": "'Not entirely,' said Miss Marple. 'Most people have a defensive psychology towards others. But Alice Weed never thought about others except herself. She's the type who tells you everything.' She paused and said, 'I think Hetty Babcock is that type.'",
+      "level": 3
+    },
+    {
+      "id": "12.42",
+      "text": "Mrs. Bunty said, 'You mean she's the type who gets involved in something without realizing it?'",
+      "level": 1
+    },
+    {
+      "id": "12.43",
+      "text": "'She doesn't know it's dangerous.' Miss Marple said, 'This is the only reason I can think of for her being killed. Of course, if, if,' Miss Marple added, 'we assume there is a murderer.'",
+      "level": 2
+    },
+    {
+      "id": "12.44",
+      "text": "'Don't you think she might have been blackmailing someone?' Mrs. Bunty reminded her.",
+      "level": 3
+    },
+    {
+      "id": "12.45",
+      "text": "'Oh, no. She was a kind and good woman, she would never do such a thing. I suspect she was killed by mistake.' Miss Marple thought for a moment.",
+      "level": 1
+    },
+    {
+      "id": "12.46",
+      "text": "Just then, the door opened, and Dr. Haddock walked in, followed by Miss Kennett, giggling.",
+      "level": 1
+    },
+    {
+      "id": "12.47",
+      "text": "'Aha, have you finished talking?' Dr. Haddock looked at the two women. 'I've come to check on your health. Also, there was a sudden death at Costing. In fact, the seeds of murder were sown long ago. Everyone wants to know the investigation results.'",
+      "level": 2
+    },
+    {
+      "id": "12.48",
+      "text": "'When will the investigation begin?' asked Miss Bop.",
+      "level": 3
+    },
+    {
+      "id": "12.49",
+      "text": "'The day after tomorrow,' said Dr. Haddock, and then left.",
+      "level": 3
+    },
+    {
+      "id": "12.50",
+      "text": "'I prefer him to Dr. Stanford,' said Mrs. Bunty.",
+      "level": 1
+    },
+    {
+      "id": "12.51",
+      "text": "'Me too,' said Miss Bop. 'He's an approachable friend.' She thought for a moment, 'I think he's here to 'cheer me up'.'",
+      "level": 2
+    },
+    {
+      "id": "12.52",
+      "text": "'So it's a murder, then,' said Mrs. Bunty. 'In fact, I saw what happened.'",
+      "level": 3
+    },
+    {
+      "id": "12.53",
+      "text": "'That's great,' said Miss Bop. 'You can tell me what happened after she arrived.'",
+      "level": 3
+    },
+    {
+      "id": "12.54",
+      "text": "'I was taken inside,' said Mrs. Bunty, 'by someone of low status.'",
+      "level": 1
+    },
+    {
+      "id": "12.55",
+      "text": "'Who took you in?'",
+      "level": 2
+    },
+    {
+      "id": "12.56",
+      "text": "'Oh, a very thin-looking young man. I think he's Marina Grey's secretary or something. He took me in and led me upstairs, where there was a members' gathering.'",
+      "level": 3
+    },
+    {
+      "id": "12.57",
+      "text": "'Upstairs?' Miss Bop said, surprised.",
+      "level": 4
+    },
+    {
+      "id": "12.58",
+      "text": "'Oh, they've completely renovated it. They removed the changing rooms and bedrooms and combined them into a hall. It looks very attractive.'",
+      "level": 4
+    },
+    {
+      "id": "12.59",
+      "text": "'I see. Who was there?'",
+      "level": 1
+    },
+    {
+      "id": "12.60",
+      "text": "'Marina Grey, wearing a gray-green dress, slender, lovely, charming. And her husband, and that woman Ila Jelinsky, I told you, she's their social secretary. Also about eight or ten other people, some I knew, some I didn't. I think a few were from the film industry, two were clergymen and Mrs. Stanford. Dr. Stanford arrived later. There was also Colonel, Mrs. Creterlin, and the Hay Healey family. There was also someone from the press, a young woman taking photos with a camera.'",
+      "level": 1
+    },
+    {
+      "id": "12.61",
+      "text": "Miss Marple nodded.",
+      "level": 2
+    },
+    {
+      "id": "12.62",
+      "text": "'Hetty Babcock and her husband arrived after me. Marina Grey said some polite words to me, then greeted another person. Oh, I remember—the clergyman. Hetty Babcock and her husband arrived then. You know she's the secretary of the John Ambulance Association. Someone seemed to say something, praising her hard work. Marina Grey said something, and then Mrs. Babcock began to ramble on about how she met Marina Grey years ago. I must say she was a very annoying woman, and she spoke without tact. I don't think any movie star likes to have her age mentioned. Of course, I believe she didn't realize it.'",
+      "level": 1
+    },
+    {
+      "id": "12.63",
+      "text": "'You mean she got angry?'",
+      "level": 2
+    },
+    {
+      "id": "12.64",
+      "text": "'No, no, I don't mean that. In fact, I don't think she heard it. She was looking at the wall behind her with an inexplicable expression—'",
+      "level": 3
+    },
+    {
+      "id": "12.65",
+      "text": "'Dally, tell me,' said Miss Marple, 'Perhaps this is important.'",
+      "level": 4
+    },
+    {
+      "id": "12.66",
+      "text": "'It was a frozen expression,' Mrs. Bunty said, racking her brain. 'As if she saw something. Oh, dear, it's hard to describe. Do you remember the poem 'The Lady of Shalott'? 'On the verge of a broken mirror: 'Death has come upon me.'",
+      "level": 1
+    },
+    {
+      "id": "12.67",
+      "text": "'Her expression froze,' Miss Marple thought, and said again. 'And looking at the wall behind Mrs. Babcock, what was on the wall?'",
+      "level": 2
+    },
+    {
+      "id": "12.68",
+      "text": "'Oh! A picture, I think,' said Mrs. Bunty. 'It was Italian. I think it was the Virgin Mary, but I'm not sure. In this picture, Mary is holding a smiling baby.'",
+      "level": 3
+    },
+    {
+      "id": "12.69",
+      "text": "Miss Marple frowned. 'I don't understand why such a picture would give her that expression. Did anyone else go upstairs at that time?'",
+      "level": 1
+    },
+    {
+      "id": "12.70",
+      "text": "'Oh, yes, there were others.'",
+      "level": 2
+    },
+    {
+      "id": "12.71",
+      "text": "'Do you remember who they were?'",
+      "level": 3
+    },
+    {
+      "id": "12.72",
+      "text": "'You mean she might have been looking at guests going upstairs?'",
+      "level": 4
+    },
+    {
+      "id": "12.73",
+      "text": "'Oh, that's possible, isn't it?' said Miss Marple.",
+      "level": 4
+    },
+    {
+      "id": "12.74",
+      "text": "'Yes, of course. Let me think. It was the Mayor and his wife and their well-dressed entourage. One of them had a funny mustache and was quite young. And the girl with the camera, she was taking pictures of the people shaking hands with Marina at the stairs. Two of them I didn't know, I think they were from the film industry. Another was Grace, from Roll Farm. There might have been others, but I don't remember now.'",
+      "level": 1
+    },
+    {
+      "id": "12.75",
+      "text": "'It doesn't sound hopeful,' said Miss Marple. 'What happened next?'",
+      "level": 2
+    },
+    {
+      "id": "12.76",
+      "text": "'I think Jason Luther discreetly touched her elbow, because she suddenly seemed to concentrate, smiled at Mrs. Babcock, and said something irrelevant.'",
+      "level": 1
+    },
+    {
+      "id": "12.77",
+      "text": "'And then?'",
+      "level": 2
+    },
+    {
+      "id": "12.78",
+      "text": "'Then Jason Luther served drinks.'",
+      "level": 3
+    },
+    {
+      "id": "12.79",
+      "text": "'What kind of drinks?'",
+      "level": 4
+    },
+    {
+      "id": "12.80",
+      "text": "'Sherry, I think. He said it was his wife's favorite drink. He gave her a glass, and also a glass to that Babcock woman.'",
+      "level": 4
+    },
+    {
+      "id": "12.81",
+      "text": "'That's interesting,' said Miss Marple. 'Very interesting indeed. What happened next?'",
+      "level": 1
+    },
+    {
+      "id": "12.82",
+      "text": "'I don't know, because I took some chattering women to see the bathroom. Afterwards, all I knew was that the secretary ran over and said someone was sick.'",
+      "level": 2
+    },
+    {
+      "id": "13",
+      "text": "The inquest began, but it was short and disappointing.",
+      "level": 1
+    },
+    {
+      "id": "13.1",
+      "text": "Mr. Babcock testified, and the only other evidence was the medicine.",
+      "level": 2
+    },
+    {
+      "id": "13.2",
+      "text": "Hetty Babcock died of four grams of hr-cthyl-clexyl-barbo-qninde1orytate1, to put it plainly, that's the drug name!",
+      "level": 3
+    },
+    {
+      "id": "13.3",
+      "text": "However, there was no evidence of how the pill was obtained.",
+      "level": 3
+    },
+    {
+      "id": "13.4",
+      "text": "The police investigation stopped for about two weeks.",
+      "level": 1
+    },
+    {
+      "id": "14",
+      "text": "After the inquest ended, Inspector Frank Connaught contacted Arthur Babcock.",
+      "level": 1
+    },
+    {
+      "id": "14.1",
+      "text": "They met in front of a small blue door at number three Arlington Close.",
+      "level": 2
+    },
+    {
+      "id": "14.2",
+      "text": "Arthur Babcock walked ahead, followed by the inspector.",
+      "level": 2
+    },
+    {
+      "id": "14.3",
+      "text": "He took out his key, but before he could insert it, the door opened.",
+      "level": 3
+    },
+    {
+      "id": "14.4",
+      "text": "The woman who opened the door stood there, looking somewhat embarrassed.",
+      "level": 3
+    },
+    {
+      "id": "14.5",
+      "text": "Arthur Babcock looked surprised.",
+      "level": 3
+    },
+    {
+      "id": "14.6",
+      "text": "'Mary,' he said.",
+      "level": 4
+    },
+    {
+      "id": "14.7",
+      "text": "'Arthur, I've already made tea for you. I thought you'd want some after the investigation.'",
+      "level": 1
+    },
+    {
+      "id": "14.8",
+      "text": "'You're very kind. I'd love some tea,' Arthur Babcock said happily. 'This is Inspector Nicholas; this is Mrs. Bonny, my neighbor.'",
+      "level": 2
+    },
+    {
+      "id": "14.9",
+      "text": "Arthur said. 'Mrs. Bonny has only been here for six months. Her son works nearby, and she moved in with him after her husband died.'",
+      "level": 1
+    },
+    {
+      "id": "14.10",
+      "text": "This Mrs. Bonny was dark-skinned, looked enthusiastic, in her forties, with black hair and black eyes with a gypsy-like color.",
+      "level": 2
+    },
+    {
+      "id": "14.11",
+      "text": "Her dark eyes looked strange, always observing people's expressions.",
+      "level": 3
+    },
+    {
+      "id": "14.12",
+      "text": "Connaught's professional instinct made him alert.",
+      "level": 3
+    },
+    {
+      "id": "14.13",
+      "text": "The watchful look of the woman, and the slight tension on Arthur's face when he introduced her, did not escape his notice.",
+      "level": 3
+    },
+    {
+      "id": "14.14",
+      "text": "He felt that Mrs. Bonny must have had some dealings with the police at some point.",
+      "level": 3
+    },
+    {
+      "id": "14.15",
+      "text": "Inspector Connaught said: 'Is she a good friend of your wife?'",
+      "level": 1
+    },
+    {
+      "id": "14.16",
+      "text": "'No, no, I didn't say that. They are neighbors and get along well, nothing more special than that.'",
+      "level": 2
+    },
+    {
+      "id": "14.17",
+      "text": "'I understand. Mr. Babcock, we want to know more from you. I imagine the results of the investigation surprised you, didn't they?'",
+      "level": 1
+    },
+    {
+      "id": "14.18",
+      "text": "'Oh, yes, it's really incredible. What was that thing—bi-ethyl-hex—' then he stopped.",
+      "level": 2
+    },
+    {
+      "id": "14.19",
+      "text": "'There's a simpler name,' the inspector said. 'It's sold as a commodity. It has a brand name called Calmo. Have you seen anything like it?'",
+      "level": 1
+    },
+    {
+      "id": "14.20",
+      "text": "Arthur Babcock shook his head, looking confused.",
+      "level": 2
+    },
+    {
+      "id": "14.21",
+      "text": "'It's used more in America than here,' the inspector said. 'I know it can be prescribed very freely there.'",
+      "level": 1
+    },
+    {
+      "id": "14.22",
+      "text": "'What for?'",
+      "level": 2
+    },
+    {
+      "id": "14.23",
+      "text": "'To stimulate happiness and calm the patient,' Connaught said. 'It's prescribed for nervous patients and is effective for anxiety, depression, insomnia, and a host of other ailments. The proper dosage is not dangerous, but overdose is. Your wife took about six times the normal amount.'",
+      "level": 1
+    },
+    {
+      "id": "14.24",
+      "text": "Babcock was shocked. 'Hetty never took this medicine,' he said. 'I know very well. She's not the type to take medicine regularly, nor did she show signs of depression or sadness. She was the happiest woman.'",
+      "level": 2
+    },
+    {
+      "id": "14.25",
+      "text": "The inspector nodded. 'I understand. Did any doctor prescribe this medicine for her?'",
+      "level": 3
+    },
+    {
+      "id": "14.26",
+      "text": "'No, of course not. I know very well.'",
+      "level": 4
+    },
+    {
+      "id": "14.27",
+      "text": "'Who is her doctor?'",
+      "level": 4
+    },
+    {
+      "id": "14.28",
+      "text": "'She saw Dr. Urm, but I don't think she's seen him since we moved here.'",
+      "level": 1
+    },
+    {
+      "id": "14.29",
+      "text": "Connaught thought for a moment and said, 'So she wasn't the type to need this kind of medicine?'",
+      "level": 2
+    },
+    {
+      "id": "14.30",
+      "text": "'No, I believe she wasn't. She must have taken the wrong medicine.'",
+      "level": 3
+    },
+    {
+      "id": "14.31",
+      "text": "'This is a hard mistake to imagine,' Connaught said. 'What did she eat or drink that afternoon?'",
+      "level": 3
+    },
+    {
+      "id": "14.32",
+      "text": "'Oh, let me think. Noon—'",
+      "level": 4
+    },
+    {
+      "id": "14.33",
+      "text": "'You don't need to go back for lunch,' Connaught said. 'The effect of such a dose must be quick. Tea. You went back for tea, didn't you?'",
+      "level": 1
+    },
+    {
+      "id": "14.34",
+      "text": "'Oh, we went into the main hall. It was very crowded. We finally got a roll and a cup of tea and ate it as quickly as possible because it was very hot.'",
+      "level": 2
+    },
+    {
+      "id": "14.35",
+      "text": "'She ate a roll and a cup of tea?'",
+      "level": 3
+    },
+    {
+      "id": "14.36",
+      "text": "'Yes, sir.'",
+      "level": 4
+    },
+    {
+      "id": "14.37",
+      "text": "'After coming out, you went inside, didn't you?'",
+      "level": 4
+    },
+    {
+      "id": "14.38",
+      "text": "'Yes. A young woman came and said Miss Marina Grey wanted to see my wife, if she wanted to go in. Of course, my wife was delighted. Everyone was excited.'",
+      "level": 1
+    },
+    {
+      "id": "14.39",
+      "text": "Connaught said, 'My wife was also excited. The attendees paid money to see how Costing Manor had changed and to catch a glimpse of Marina Grey.'",
+      "level": 2
+    },
+    {
+      "id": "14.40",
+      "text": "'That young woman took us into the room,' Arthur Babcock said, 'and then led us upstairs. There was a tea party upstairs with tables, chairs, and drinks. About ten to twelve people were there.'",
+      "level": 1
+    },
+    {
+      "id": "14.41",
+      "text": "Connaught nodded. 'Who entertained you?'",
+      "level": 2
+    },
+    {
+      "id": "14.42",
+      "text": "'Miss Marina Grey herself. Her husband was with her, and I've forgotten his name now.'",
+      "level": 3
+    },
+    {
+      "id": "14.43",
+      "text": "'Jason Luther,' Connaught said.",
+      "level": 4
+    },
+    {
+      "id": "14.44",
+      "text": "'Oh, yes. I didn't notice him at first. But anyway, Miss Grey welcomed Hetty warmly. Hetty recalled how she met Miss Grey years ago in the West Indies. Everything seemed to go smoothly.'",
+      "level": 4
+    },
+    {
+      "id": "14.45",
+      "text": "'And then?'",
+      "level": 1
+    },
+    {
+      "id": "14.46",
+      "text": "'Then Miss Grey asked us what we wanted to drink. Miss Grey's husband, Mr. Luther, poured Hetty a cocktail. Sherry or something?'",
+      "level": 2
+    },
+    {
+      "id": "14.47",
+      "text": "'Sherry,'",
+      "level": 3
+    },
+    {
+      "id": "14.48",
+      "text": "'Right, sir. He brought two glasses, one for her and one for Miss Grey.'",
+      "level": 3
+    },
+    {
+      "id": "14.49",
+      "text": "'And you? What did you drink?'",
+      "level": 4
+    },
+    {
+      "id": "14.50",
+      "text": "'I drank sherry.'",
+      "level": 4
+    },
+    {
+      "id": "14.51",
+      "text": "'I see. You three just stood there drinking? And then your wife drank the sherry?'",
+      "level": 1
+    },
+    {
+      "id": "14.52",
+      "text": "'Oh, no, not then.'",
+      "level": 2
+    },
+    {
+      "id": "14.53",
+      "text": "'Oh, if she didn't drink it then, when did she drink it?'",
+      "level": 3
+    },
+    {
+      "id": "14.54",
+      "text": "Arthur Babcock frowned in thought. 'I think—she put it on the table because she saw some friends, one of whom was involved with the John Ambulance Association, driving from Marchingham or somewhere. Then the two of them chatted there.'",
+      "level": 1
+    },
+    {
+      "id": "14.55",
+      "text": "'When did she drink that glass of wine?'",
+      "level": 2
+    },
+    {
+      "id": "14.56",
+      "text": "Arthur Babcock frowned and thought again. 'A little later, it got more crowded. Someone bumped Hetty's elbow, and her wine spilled?'",
+      "level": 1
+    },
+    {
+      "id": "14.57",
+      "text": "'How did that happen?' Connaught looked up sharply. 'Her wine spilled?'",
+      "level": 2
+    },
+    {
+      "id": "14.58",
+      "text": "'Yes, I remember it that way. I think she picked it up and took a small sip, and looked displeased. She didn't like cocktails, but she didn't want to admit it. As she stood there, someone bumped her elbow, and the wine in the glass spilled. It spilled on her clothes, and I think on Miss Grey's clothes too. Miss Grey was very kind and said it wouldn't leave any stains, and handed Hetty a handkerchief to wipe herself, then gave her her own glass and said, 'Drink this, I haven't had a sip of it yet.'",
+      "level": 1
+    },
+    {
+      "id": "14.59",
+      "text": "'She gave her her own glass?' Connaught asked. 'Are you sure?'",
+      "level": 2
+    },
+    {
+      "id": "14.60",
+      "text": "Arthur Babcock paused and thought, 'Yes, I'm sure.'",
+      "level": 3
+    },
+    {
+      "id": "14.61",
+      "text": "'Your wife took the glass, didn't she?'",
+      "level": 4
+    },
+    {
+      "id": "14.62",
+      "text": "'Oh, sir, at first she didn't want it. She said, 'Oh, no, I can't do that.' Miss Grey laughed and said, 'I've already had too much.'",
+      "level": 4
+    },
+    {
+      "id": "14.63",
+      "text": "'So your wife took it, and what did she do with it?'",
+      "level": 1
+    },
+    {
+      "id": "14.64",
+      "text": "'She turned and drank it quickly. Later, we walked down the corridor, admiring some photos and curtains. Then I met my friend, Councilor Oake, and stayed with him. When I looked around, I found Hetty sitting in a chair with a strange expression. I went over and asked her, 'What's wrong?' She said she felt a bit strange.'",
+      "level": 2
+    },
+    {
+      "id": "14.65",
+      "text": "'How strange?'",
+      "level": 3
+    },
+    {
+      "id": "14.66",
+      "text": "'I don't know, sir. Her voice was weak and strange, her head swayed a little, and suddenly she gasped for breath, her head tilted forward, and she died, sir. That's how she died.'",
+      "level": 3
+    },
+    {
+      "id": "15",
+      "text": "A few days after the local police conducted their investigation, the Chief Inspector also met with the Deputy Chief Constable.",
+      "level": 1
+    },
+    {
+      "id": "15.1",
+      "text": "'You said Mary Mead village?' Chief Inspector Dermot looked up sharply.",
+      "level": 1
+    },
+    {
+      "id": "15.2",
+      "text": "The Deputy Chief Constable looked surprised: 'What's wrong? Could it be—?'",
+      "level": 2
+    },
+    {
+      "id": "15.3",
+      "text": "'Nothing,' Kledda said. 'I know it's a very small place, and there's someone there I know, an old lady, who must be very old now.'",
+      "level": 1
+    },
+    {
+      "id": "15.4",
+      "text": "The Deputy Chief Constable accepted his subordinate's opinion. 'That's right,' he said. 'This will give you some leads. One needs to have some local friends. This whole thing looks very strange.'",
+      "level": 2
+    },
+    {
+      "id": "15.5",
+      "text": "County police...",
+      "level": 3
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Miss Jane Marple",
+      "frequency": 29,
+      "context": "The main protagonist, an elderly woman with a sharp mind for solving mysteries."
+    },
+    {
+      "name": "Mary Mead",
+      "frequency": 5,
+      "context": "The village where the story is set, characterized by its changing nature and past glory."
+    },
+    {
+      "name": "Miss Kennett",
+      "frequency": 7,
+      "context": "An acquaintance of Miss Marple, who is suffering from bronchitis."
+    },
+    {
+      "name": "Mrs. Bunty",
+      "frequency": 19,
+      "context": "A former resident of Costing Manor, who provides significant details about the house and its history."
+    },
+    {
+      "name": "Costing Manor",
+      "frequency": 22,
+      "context": "A significant location in the story, previously owned by Mrs. Bunty, now owned by Marina Grey and Jason Luther, and the site of a fundraising event and a murder."
+    },
+    {
+      "name": "Marina Grey",
+      "frequency": 11,
+      "context": "A famous actress who has bought Costing Manor."
+    },
+    {
+      "name": "Jason Luther",
+      "frequency": 14,
+      "context": "Marina Grey's husband, a producer or director."
+    },
+    {
+      "name": "Hetty Babcock",
+      "frequency": 11,
+      "context": "A kind neighbor of Arthur Babcock who dies suddenly at the fundraising event."
+    },
+    {
+      "name": "Arthur Babcock",
+      "frequency": 7,
+      "context": "Hetty Babcock's husband, who provides details about her death."
+    },
+    {
+      "name": "Murder",
+      "frequency": 17,
+      "context": "The central theme and event of the story, occurring at Costing Manor."
+    },
+    {
+      "name": "Investigation",
+      "frequency": 6,
+      "context": "The process of discovering the cause of Hetty Babcock's death."
+    },
+    {
+      "name": "Dr. Haddock",
+      "frequency": 3,
+      "context": "An old friend of Miss Marple and Miss Kennett, who is a doctor."
+    },
+    {
+      "name": "Ila Jelinsky",
+      "frequency": 5,
+      "context": "Jason Luther's secretary."
+    },
+    {
+      "name": "Calmo",
+      "frequency": 2,
+      "context": "A brand name for a drug that caused Hetty Babcock's death."
+    },
+    {
+      "name": "Sherry",
+      "frequency": 4,
+      "context": "A type of alcoholic beverage consumed by characters."
+    },
+    {
+      "name": "Tea",
+      "frequency": 6,
+      "context": "A common beverage offered and consumed by characters."
+    },
+    {
+      "name": "Fundraising event",
+      "frequency": 5,
+      "context": "An event held at Costing Manor for the John Ambulance Association, where the murder occurs."
+    },
+    {
+      "name": "Doctor",
+      "frequency": 6,
+      "context": "Medical professionals involved in the story."
+    },
+    {
+      "name": "Police",
+      "frequency": 3,
+      "context": "Authorities involved in the investigation of the death."
+    },
+    {
+      "name": "Village",
+      "frequency": 4,
+      "context": "The setting of the story, Mary Mead, and its characteristics."
+    }
+  ],
+  "relations": [
+    {
+      "source": "Miss Jane Marple",
+      "target": "Mary Mead",
+      "type": "resides_in"
+    },
+    {
+      "source": "Miss Jane Marple",
+      "target": "Miss Kennett",
+      "type": "acquaintance"
+    },
+    {
+      "source": "Miss Jane Marple",
+      "target": "Mrs. Bunty",
+      "type": "interacts_with"
+    },
+    {
+      "source": "Mrs. Bunty",
+      "target": "Costing Manor",
+      "type": "former_owner"
+    },
+    {
+      "source": "Marina Grey",
+      "target": "Costing Manor",
+      "type": "current_owner"
+    },
+    {
+      "source": "Jason Luther",
+      "target": "Marina Grey",
+      "type": "husband_of"
+    },
+    {
+      "source": "Hetty Babcock",
+      "target": "Arthur Babcock",
+      "type": "wife_of"
+    },
+    {
+      "source": "Hetty Babcock",
+      "target": "Fundraising event",
+      "type": "attended"
+    },
+    {
+      "source": "Hetty Babcock",
+      "target": "Murder",
+      "type": "victim_of"
+    },
+    {
+      "source": "Murder",
+      "target": "Costing Manor",
+      "type": "occurred_at"
+    },
+    {
+      "source": "Investigation",
+      "target": "Murder",
+      "type": "examines"
+    },
+    {
+      "source": "Dr. Haddock",
+      "target": "Miss Jane Marple",
+      "type": "friend_of"
+    },
+    {
+      "source": "Ila Jelinsky",
+      "target": "Jason Luther",
+      "type": "secretary_of"
+    },
+    {
+      "source": "Calmo",
+      "target": "Hetty Babcock",
+      "type": "cause_of_death_of"
+    },
+    {
+      "source": "Sherry",
+      "target": "Arthur Babcock",
+      "type": "consumed_by"
+    },
+    {
+      "source": "Tea",
+      "target": "Characters",
+      "type": "consumed_by"
+    },
+    {
+      "source": "Fundraising event",
+      "target": "John Ambulance Association",
+      "type": "beneficiary"
+    },
+    {
+      "source": "Doctor",
+      "target": "Hetty Babcock",
+      "type": "involved_with_death_of"
+    },
+    {
+      "source": "Police",
+      "target": "Investigation",
+      "type": "conducts"
+    },
+    {
+      "source": "Mary Mead",
+      "target": "Village",
+      "type": "is_a"
+    }
+  ],
+  "hierarchy": {
+    "main_topics": [
+      "Introduction to Miss Marple and Mary Mead",
+      "Characters and their backgrounds",
+      "Costing Manor and its history",
+      "The Fundraising Event and the Murder",
+      "The Investigation and its findings"
+    ],
+    "structure": "The document follows a chronological narrative, beginning with the introduction of the setting and protagonist, then introducing key characters and their connections, detailing the events leading up to the murder, and finally outlining the subsequent investigation. It is structured into chapters, with each chapter advancing the plot and revealing more details about the characters and the mystery."
+  }
+}

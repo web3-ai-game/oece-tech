@@ -1,0 +1,111 @@
+{
+  "propositions": [
+    {
+      "id": "1",
+      "text": "Encounter and companionship form the core narrative of 'Encounter' by Shisan Sheng.",
+      "level": 1
+    },
+    {
+      "id": "1.1",
+      "text": "The initial meeting between the narrator and Xiaoyu occurs in a serene, autumnal setting.",
+      "level": 2
+    },
+    {
+      "id": "1.2",
+      "text": "Xiaoyu, a child in need, chooses to follow the narrator out of curiosity or fear.",
+      "level": 2
+    },
+    {
+      "id": "2",
+      "text": "The journey of companionship unfolds through shared hardships and mutual support.",
+      "level": 1
+    },
+    {
+      "id": "2.1",
+      "text": "The narrator offers Xiaoyu protection and warmth during a cold, difficult journey.",
+      "level": 2
+    },
+    {
+      "id": "2.2",
+      "text": "Challenges such as crossing a dangerous bridge and facing suspicion in a town test their bond.",
+      "level": 2
+    },
+    {
+      "id": "3",
+      "text": "Hope emerges as a central theme towards the end of the narrative.",
+      "level": 1
+    },
+    {
+      "id": "3.1",
+      "text": "A new beginning in a bustling city offers the possibility of stability through work.",
+      "level": 2
+    },
+    {
+      "id": "3.2",
+      "text": "Xiaoyu's growing optimism and smiles reflect a transformation through companionship.",
+      "level": 2
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Encounter",
+      "frequency": 5,
+      "context": "Central theme of meeting and forming connections."
+    },
+    {
+      "name": "Companionship",
+      "frequency": 7,
+      "context": "Mutual support and shared journey between characters."
+    },
+    {
+      "name": "Hope",
+      "frequency": 4,
+      "context": "Emerging optimism and belief in a better future."
+    },
+    {
+      "name": "Hardship",
+      "frequency": 6,
+      "context": "Challenges faced during the journey, both physical and social."
+    },
+    {
+      "name": "Xiaoyu",
+      "frequency": 10,
+      "context": "A young character symbolizing vulnerability and growth."
+    }
+  ],
+  "relations": [
+    {
+      "source": "Encounter",
+      "target": "Companionship",
+      "type": "leads_to"
+    },
+    {
+      "source": "Companionship",
+      "target": "Hope",
+      "type": "generates"
+    },
+    {
+      "source": "Hardship",
+      "target": "Companionship",
+      "type": "tests"
+    },
+    {
+      "source": "Xiaoyu",
+      "target": "Hope",
+      "type": "embodies"
+    },
+    {
+      "source": "Encounter",
+      "target": "Xiaoyu",
+      "type": "involves"
+    }
+  ],
+  "hierarchy": {
+    "main_topics": [
+      "Encounter and Initial Connection",
+      "Journey and Companionship",
+      "Hope and New Beginnings"
+    ],
+    "structure": "The document follows a chronological narrative structure divided into chapters, progressing from an initial meeting to shared struggles and eventual hope."
+  }
+}

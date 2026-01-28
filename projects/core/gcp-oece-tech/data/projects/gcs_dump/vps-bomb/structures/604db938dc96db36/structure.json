@@ -1,0 +1,141 @@
+{
+  "propositions": [
+    {
+      "id": "1",
+      "text": "The protagonist experiences an unexpected穿越 (time travel) to a female-dominated world.",
+      "level": 1
+    },
+    {
+      "id": "1.1",
+      "text": "The societal structure of female dominance and male subservience is shocking and challenging to adapt to.",
+      "level": 2
+    },
+    {
+      "id": "2",
+      "text": "Initial struggles include language barriers and cultural differences.",
+      "level": 1
+    },
+    {
+      "id": "2.1",
+      "text": "The protagonist faces suspicion and alienation from locals.",
+      "level": 2
+    },
+    {
+      "id": "3",
+      "text": "An ally, 欧阳芷 (Ouyang Zhi), provides crucial support and guidance.",
+      "level": 1
+    },
+    {
+      "id": "3.1",
+      "text": "Ouyang Zhi teaches language, customs, and offers shelter.",
+      "level": 2
+    },
+    {
+      "id": "4",
+      "text": "Gradual integration into the new world involves learning and adapting to its ways.",
+      "level": 1
+    },
+    {
+      "id": "4.1",
+      "text": "Discovery of a special ability to foresee future events brings both advantage and suspicion.",
+      "level": 2
+    },
+    {
+      "id": "5",
+      "text": "Involvement in power struggles between Ouyang Zhi’s family and the Lin family creates conflict.",
+      "level": 1
+    },
+    {
+      "id": "5.1",
+      "text": "The protagonist is torn between loyalties to Ouyang Zhi and 林若曦 (Lin Ruoxi).",
+      "level": 2
+    },
+    {
+      "id": "6",
+      "text": "Complex emotional relationships develop with Ouyang Zhi and Lin Ruoxi.",
+      "level": 1
+    },
+    {
+      "id": "7",
+      "text": "Rising status in the world brings increasing dangers and conspiracies.",
+      "level": 1
+    },
+    {
+      "id": "8",
+      "text": "The truth behind the穿越 is revealed as a purposeful act tied to a mysterious mission.",
+      "level": 1
+    },
+    {
+      "id": "9",
+      "text": "A final decision must be made between staying to fulfill the mission or seeking a way home.",
+      "level": 1
+    }
+  ],
+  "concepts": [
+    {
+      "name": "穿越 (Time Travel)",
+      "frequency": 5,
+      "context": "Central theme of the protagonist’s journey to a different era."
+    },
+    {
+      "name": "女尊 (Female Dominance)",
+      "frequency": 8,
+      "context": "Core societal structure where women hold power over men."
+    },
+    {
+      "name": "权力斗争 (Power Struggle)",
+      "frequency": 4,
+      "context": "Conflict between influential families in the female-dominated society."
+    },
+    {
+      "name": "情感纠葛 (Emotional Entanglement)",
+      "frequency": 3,
+      "context": "Complex relationships and feelings between the protagonist and key characters."
+    },
+    {
+      "name": "特殊能力 (Special Ability)",
+      "frequency": 3,
+      "context": "Protagonist’s unique power to foresee future events."
+    }
+  ],
+  "relations": [
+    {
+      "source": "穿越 (Time Travel)",
+      "target": "女尊 (Female Dominance)",
+      "type": "contextualizes"
+    },
+    {
+      "source": "女尊 (Female Dominance)",
+      "target": "权力斗争 (Power Struggle)",
+      "type": "enables"
+    },
+    {
+      "source": "主角 (Protagonist)",
+      "target": "特殊能力 (Special Ability)",
+      "type": "possesses"
+    },
+    {
+      "source": "主角 (Protagonist)",
+      "target": "情感纠葛 (Emotional Entanglement)",
+      "type": "experiences"
+    },
+    {
+      "source": "欧阳芷 (Ouyang Zhi)",
+      "target": "主角 (Protagonist)",
+      "type": "supports"
+    },
+    {
+      "source": "林若曦 (Lin Ruoxi)",
+      "target": "主角 (Protagonist)",
+      "type": "conflicts_with"
+    }
+  ],
+  "hierarchy": {
+    "main_topics": [
+      "穿越 (Time Travel)",
+      "女尊社会 (Female-Dominated Society)",
+      "权力与情感冲突 (Power and Emotional Conflicts)"
+    ],
+    "structure": "The document follows a chronological narrative structure, detailing the protagonist’s journey from arrival and adaptation to involvement in societal conflicts and personal dilemmas in a female-dominated world."
+  }
+}

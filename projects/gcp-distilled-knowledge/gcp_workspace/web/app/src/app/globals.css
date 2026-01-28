@@ -1,0 +1,69 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --foreground-rgb: 255, 255, 255;
+  --background-start-rgb: 15, 23, 42;
+  --background-end-rgb: 30, 41, 59;
+}
+
+body {
+  color: rgb(var(--foreground-rgb));
+  background: linear-gradient(
+    135deg,
+    rgb(var(--background-start-rgb)) 0%,
+    rgb(var(--background-end-rgb)) 100%
+  );
+  min-height: 100vh;
+}
+
+/* 賽博朋克風格 */
+.cyber-border {
+  border: 1px solid rgba(168, 85, 247, 0.3);
+  box-shadow: 0 0 15px rgba(168, 85, 247, 0.1);
+}
+
+.cyber-glow {
+  box-shadow: 0 0 20px rgba(168, 85, 247, 0.3), 0 0 40px rgba(236, 72, 153, 0.2);
+}
+
+.cyber-text {
+  background: linear-gradient(90deg, #a855f7, #ec4899);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+/* 玻璃效果 */
+.glass {
+  background: rgba(255, 255, 255, 0.05);
+  backdrop-filter: blur(10px);
+  border: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+/* 按鈕效果 */
+.btn-primary {
+  @apply bg-gradient-to-r from-purple-500 to-pink-500 text-white font-semibold py-3 px-6 rounded-lg;
+  @apply hover:from-purple-600 hover:to-pink-600 transition-all duration-300;
+  @apply shadow-lg hover:shadow-purple-500/25;
+}
+
+.btn-secondary {
+  @apply bg-slate-700/50 text-white font-semibold py-3 px-6 rounded-lg;
+  @apply hover:bg-slate-600/50 transition-all duration-300;
+  @apply border border-slate-600;
+}
+
+/* 輸入框 */
+.input-cyber {
+  @apply w-full px-4 py-3 bg-slate-800/50 border border-slate-600 rounded-lg;
+  @apply focus:border-purple-500 focus:ring-2 focus:ring-purple-500/20 focus:outline-none;
+  @apply text-white placeholder-slate-400;
+}
+
+/* 卡片 */
+.card-cyber {
+  @apply bg-slate-800/50 rounded-xl p-6 border border-slate-700;
+  @apply hover:border-purple-500/50 transition-all duration-300;
+}

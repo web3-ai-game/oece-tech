@@ -1,0 +1,441 @@
+{
+  "propositions": [
+    {
+      "id": "1",
+      "text": "A man leaves an infant at an old house's doorstep on a winter night.",
+      "level": 1
+    },
+    {
+      "id": "1.1",
+      "text": "The infant is found by an old man named Guo.",
+      "level": 2
+    },
+    {
+      "id": "1.2",
+      "text": "The man who left the infant believes he has found the descendant of the Hedong Guo family.",
+      "level": 2
+    },
+    {
+      "id": "1.3",
+      "text": "The man then walks onto the frozen Yellow River and sinks into an ice hole.",
+      "level": 2
+    },
+    {
+      "id": "2",
+      "text": "Six years later, in Wuyuan, Jiangxi, two men from Pinkerton Private Detective Agency visit Dr. Zhu Hansheng.",
+      "level": 1
+    },
+    {
+      "id": "2.1",
+      "text": "They inform Dr. Zhu that they have concluded their six-year investigation into the disappearance of the Chinese girl, Zu Mo.",
+      "level": 2
+    },
+    {
+      "id": "2.2",
+      "text": "Their investigation led them to Monk Mon Rachawong. Kunpa in the Mandali Mountains of northern Myanmar, who was the last person to see the infant Zu Mo.",
+      "level": 2
+    },
+    {
+      "id": "2.3",
+      "text": "Despite their efforts, they could not find any valuable clues from Monk Mon Rachawong. Kunpa.",
+      "level": 2
+    },
+    {
+      "id": "2.4",
+      "text": "The agency's final conclusion is that the infant Zu Mo likely died six years ago.",
+      "level": 2
+    },
+    {
+      "id": "3",
+      "text": "Dr. Zhu's adopted son, Shen Caihua, believes Zu Mo is still alive.",
+      "level": 1
+    },
+    {
+      "id": "3.1",
+      "text": "Dr. Zhu's father-in-law, Wu Chushanren, suggests that Zu Mo might be hidden in China, a place the Pinkerton agency wouldn't investigate.",
+      "level": 2
+    },
+    {
+      "id": "3.2",
+      "text": "Shen Caihua remembers a peculiar characteristic of Zu Mo: spitting.",
+      "level": 2
+    },
+    {
+      "id": "4",
+      "text": "Shen Caihua decides to find Zu Mo, aided by his intelligent parrot, Dudu.",
+      "level": 1
+    },
+    {
+      "id": "4.1",
+      "text": "Dudu teaches Shen Caihua and provides him with knowledge.",
+      "level": 2
+    },
+    {
+      "id": "4.2",
+      "text": "Dr. Zhu plans to travel to Yunnan to find Zu Mo, but forbids Shen Caihua from accompanying them.",
+      "level": 2
+    },
+    {
+      "id": "5",
+      "text": "Shen Caihua and Dudu secretly set out for Hugkou, Jiangxi, to seek 'Ling Ge', a phenomenon reported to predict the future from within a deceased child's body.",
+      "level": 1
+    },
+    {
+      "id": "5.1",
+      "text": "They travel by hitchhiking on a truck carrying pigs.",
+      "level": 2
+    },
+    {
+      "id": "6",
+      "text": "Upon arrival, Shen Caihua and Dudu find a large gathering of people outside a house where a boy's body lies in an ice coffin.",
+      "level": 1
+    },
+    {
+      "id": "6.1",
+      "text": "Experts are present, debating the nature of 'Ling Ge' as either superstition or a new scientific phenomenon.",
+      "level": 2
+    },
+    {
+      "id": "6.2",
+      "text": "Shen Caihua questions 'Ling Ge' about Zu Mo's whereabouts.",
+      "level": 2
+    },
+    {
+      "id": "6.3",
+      "text": "The scientists prepare to dissect the boy's body to investigate 'Ling Ge'.",
+      "level": 2
+    },
+    {
+      "id": "7",
+      "text": "During the dissection, a small, two-inch-tall human-like figure emerges from a tumor in the boy's abdomen, identifying itself as 'Ling Ge'.",
+      "level": 1
+    },
+    {
+      "id": "7.1",
+      "text": "The appearance of 'Ling Ge' causes a rare medical condition called 'shrinking penis syndrome' (koro) in the men present.",
+      "level": 2
+    },
+    {
+      "id": "7.2",
+      "text": "The 'Ling Ge' escapes.",
+      "level": 2
+    },
+    {
+      "id": "8",
+      "text": "Shen Caihua encounters a blind fortune teller who explains that 'Ling Ge' is a type of 'Fengzi Gui' (maple ghost) or 'Du Xian' (belly immortal), a spirit that inhabits a person's belly.",
+      "level": 1
+    },
+    {
+      "id": "8.1",
+      "text": "The fortune teller reveals he is trying to capture 'Ling Ge' because he has already captured 'Ling Jie' (maple sister), and wishes to unite them.",
+      "level": 2
+    },
+    {
+      "id": "9",
+      "text": "Meanwhile, at the house, the county officials are preparing a feast for the experts, featuring a large fish head.",
+      "level": 1
+    },
+    {
+      "id": "9.1",
+      "text": "The county magistrate explains the significance and culinary aspects of the Poyang Lake wild bream's head.",
+      "level": 2
+    },
+    {
+      "id": "9.2",
+      "text": "The experts discuss the 'Ling Ge' phenomenon and its potential connection to criminal investigations.",
+      "level": 2
+    },
+    {
+      "id": "10",
+      "text": "The county government, with the agreement of the experts, decides to postpone the dissection of the boy's body until late at night when the villagers have dispersed.",
+      "level": 1
+    },
+    {
+      "id": "10.1",
+      "text": "The ritualistic preparation for the dissection, including the chanting of a Daoist scripture and the application of cinnabar, begins.",
+      "level": 2
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Ghost Pot",
+      "frequency": 1,
+      "context": "Title of the document"
+    },
+    {
+      "name": "Lu Ban Ruler",
+      "frequency": 1,
+      "context": "Part of the title indicating a type of ruler used in traditional Chinese architecture and carpentry."
+    },
+    {
+      "name": "TXT Novel Paradise",
+      "frequency": 3,
+      "context": "A website mentioned for accessing novels."
+    },
+    {
+      "name": "Winter Night",
+      "frequency": 1,
+      "context": "Setting for the initial scene."
+    },
+    {
+      "name": "Yellow River",
+      "frequency": 1,
+      "context": "Location of the initial scene in Shanxi."
+    },
+    {
+      "name": "Fenglingdu",
+      "frequency": 1,
+      "context": "A specific location on the Yellow River."
+    },
+    {
+      "name": "Infant",
+      "frequency": 3,
+      "context": "The baby left at the doorstep and the central figure in the early plot."
+    },
+    {
+      "name": "Old Man Guo",
+      "frequency": 1,
+      "context": "The person who finds the infant."
+    },
+    {
+      "name": "Monk Mon Rachawong. Bing",
+      "frequency": 1,
+      "context": "A figure mentioned by the man who left the infant, implying a connection to a past mission."
+    },
+    {
+      "name": "Wuyuan, Jiangxi",
+      "frequency": 1,
+      "context": "Setting for the second chapter."
+    },
+    {
+      "name": "Pinkerton Private Detective Agency",
+      "frequency": 3,
+      "context": "An organization investigating the disappearance of Zu Mo."
+    },
+    {
+      "name": "Dr. Zhu Hansheng",
+      "frequency": 6,
+      "context": "The director of Nanshan Village Hospital, a central character."
+    },
+    {
+      "name": "Zu Mo",
+      "frequency": 8,
+      "context": "The missing Chinese girl whose whereabouts are being sought."
+    },
+    {
+      "name": "Monk Mon Rachawong. Kunpa",
+      "frequency": 1,
+      "context": "A Thai grand master who last saw Zu Mo."
+    },
+    {
+      "name": "Shen Caihua",
+      "frequency": 14,
+      "context": "Dr. Zhu's adopted son, a key protagonist."
+    },
+    {
+      "name": "Dudu (Parrot)",
+      "frequency": 14,
+      "context": "Shen Caihua's intelligent blue-and-gold macaw, a companion and teacher."
+    },
+    {
+      "name": "Wu Chushanren",
+      "frequency": 5,
+      "context": "Dr. Zhu's father-in-law, who offers insights and theories."
+    },
+    {
+      "name": "Ling Ge",
+      "frequency": 21,
+      "context": "A supernatural phenomenon of a voice emanating from a deceased boy's body, believed to predict the future."
+    },
+    {
+      "name": "Hugkou, Jiangxi",
+      "frequency": 3,
+      "context": "The destination Shen Caihua and Dudu travel to."
+    },
+    {
+      "name": "Shizhong Mountain",
+      "frequency": 2,
+      "context": "A location in Hugkou where 'Ling Ge' is reported to be."
+    },
+    {
+      "name": "Experts",
+      "frequency": 12,
+      "context": "Individuals from various fields observing and analyzing the 'Ling Ge' phenomenon."
+    },
+    {
+      "name": "Superstition",
+      "frequency": 2,
+      "context": "One interpretation of the 'Ling Ge' phenomenon, contrasted with scientific explanations."
+    },
+    {
+      "name": "Scientific Phenomenon",
+      "frequency": 2,
+      "context": "An alternative interpretation of 'Ling Ge', debated by the experts."
+    },
+    {
+      "name": "Dissection",
+      "frequency": 4,
+      "context": "The planned procedure to investigate the boy's body and 'Ling Ge'."
+    },
+    {
+      "name": "Shrinking Penis Syndrome (Koro)",
+      "frequency": 3,
+      "context": "A medical condition triggered by the appearance of 'Ling Ge'."
+    },
+    {
+      "name": "Fengzi Gui (Maple Ghost)",
+      "frequency": 4,
+      "context": "A term for 'Ling Ge', described as a spirit inhabiting a person's belly."
+    },
+    {
+      "name": "Du Xian (Belly Immortal)",
+      "frequency": 1,
+      "context": "Another name for 'Fengzi Gui'."
+    },
+    {
+      "name": "Ling Jie (Maple Sister)",
+      "frequency": 1,
+      "context": "A counterpart to 'Ling Ge', captured by the fortune teller."
+    },
+    {
+      "name": "Fortune Teller",
+      "frequency": 3,
+      "context": "A blind old man who claims to be able to capture 'Fengzi Gui'."
+    },
+    {
+      "name": "Poyang Lake",
+      "frequency": 3,
+      "context": "A location known for its fish, particularly the bream head featured in a meal."
+    },
+    {
+      "name": "Fish Head Feast",
+      "frequency": 3,
+      "context": "A meal prepared for the experts, highlighting local cuisine."
+    },
+    {
+      "name": "Remote Sensing",
+      "frequency": 3,
+      "context": "A scientific concept debated in relation to 'Ling Ge's' abilities."
+    },
+    {
+      "name": "Daoist Scripture",
+      "frequency": 1,
+      "context": "A text chanted during the ritualistic preparation for dissection."
+    },
+    {
+      "name": "Cinnabar",
+      "frequency": 1,
+      "context": "A substance used in the ritual."
+    }
+  ],
+  "relations": [
+    {
+      "source": "Infant",
+      "target": "Old Man Guo",
+      "type": "is_found_by"
+    },
+    {
+      "source": "Man (leaving infant)",
+      "target": "Monk Mon Rachawong. Bing",
+      "type": "mentions"
+    },
+    {
+      "source": "Monk Mon Rachawong. Kunpa",
+      "target": "Zu Mo",
+      "type": "last_saw"
+    },
+    {
+      "source": "Pinkerton Private Detective Agency",
+      "target": "Zu Mo",
+      "type": "investigated_disappearance_of"
+    },
+    {
+      "source": "Dr. Zhu Hansheng",
+      "target": "Zu Mo",
+      "type": "seeks_child"
+    },
+    {
+      "source": "Shen Caihua",
+      "target": "Zu Mo",
+      "type": "believes_is_alive"
+    },
+    {
+      "source": "Wu Chushanren",
+      "target": "Zu Mo",
+      "type": "theorizes_hidden_in_China"
+    },
+    {
+      "source": "Shen Caihua",
+      "target": "Dudu (Parrot)",
+      "type": "companion"
+    },
+    {
+      "source": "Shen Caihua",
+      "target": "Ling Ge",
+      "type": "seeks_information_from"
+    },
+    {
+      "source": "Dudu (Parrot)",
+      "target": "Shen Caihua",
+      "type": "teaches"
+    },
+    {
+      "source": "Shen Caihua",
+      "target": "Hugkou, Jiangxi",
+      "type": "travels_to"
+    },
+    {
+      "source": "Ling Ge",
+      "target": "Deceased Boy's Body",
+      "type": "emanates_from"
+    },
+    {
+      "source": "Ling Ge",
+      "target": "Shrinking Penis Syndrome (Koro)",
+      "type": "triggers"
+    },
+    {
+      "source": "Fengzi Gui (Maple Ghost)",
+      "target": "Ling Ge",
+      "type": "is_a_type_of"
+    },
+    {
+      "source": "Fortune Teller",
+      "target": "Fengzi Gui (Maple Ghost)",
+      "type": "attempts_to_capture"
+    },
+    {
+      "source": "Fortune Teller",
+      "target": "Ling Jie (Maple Sister)",
+      "type": "has_captured"
+    },
+    {
+      "source": "Experts",
+      "target": "Ling Ge",
+      "type": "analyzes"
+    },
+    {
+      "source": "County Government",
+      "target": "Dissection",
+      "type": "authorizes"
+    },
+    {
+      "source": "Daoist Scripture",
+      "target": "Dissection",
+      "type": "used_in_preparation_for"
+    },
+    {
+      "source": "Zu Mo",
+      "target": "Spitting",
+      "type": "has_characteristic"
+    }
+  ],
+  "hierarchy": {
+    "main_topics": [
+      "The Mystery of Zu Mo",
+      "The Phenomenon of Ling Ge",
+      "The Journey of Shen Caihua"
+    ],
+    "structure": "The document follows a narrative structure, starting with a prologue, followed by chapters that develop distinct plotlines. The first chapter focuses on the disappearance of Zu Mo and the investigation. The subsequent chapters follow Shen Caihua's independent quest, leading him to the 'Ling Ge' phenomenon, and detailing his journey and the surrounding events. The narrative integrates elements of mystery, supernatural phenomena, and scientific inquiry."
+  }
+}

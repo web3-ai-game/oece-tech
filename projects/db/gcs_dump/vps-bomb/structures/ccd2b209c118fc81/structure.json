@@ -1,0 +1,287 @@
+{
+  "propositions": [
+    {
+      "id": "1",
+      "text": "乔·卡本特在睡梦中醒来，怀念亡妻蜜雪儿。",
+      "level": 1
+    },
+    {
+      "id": "1.1",
+      "text": "他与岳母麦贝丝通话，讨论着悲伤和生活。",
+      "level": 2
+    },
+    {
+      "id": "1.2",
+      "text": "乔的回忆被拉回到飞机失事的一周年忌日。",
+      "level": 2
+    },
+    {
+      "id": "2",
+      "text": "乔在开车时经历了强烈的焦虑和幻觉，重现飞机坠毁的场景。",
+      "level": 1
+    },
+    {
+      "id": "2.1",
+      "text": "他感到自己与家人一同身处即将坠毁的班机上。",
+      "level": 2
+    },
+    {
+      "id": "3",
+      "text": "乔在圣塔莫尼卡海滩上，被神秘人物盯上，并卷入一场打斗。",
+      "level": 1
+    },
+    {
+      "id": "3.1",
+      "text": "他怀疑自己被跟踪，并与两个穿夏威夷衫的男人以及一群赌徒发生冲突。",
+      "level": 2
+    },
+    {
+      "id": "3.2",
+      "text": "乔的愤怒情绪爆发，他对一个赌徒施加了暴力。",
+      "level": 2
+    },
+    {
+      "id": "3.3",
+      "text": "他试图从冰冷的机械世界中寻找平静。",
+      "level": 2
+    },
+    {
+      "id": "4",
+      "text": "乔在海滩上遇到了两个年轻女子，怀疑她们是监视者。",
+      "level": 1
+    },
+    {
+      "id": "5",
+      "text": "乔在货车旁与袭击者发生打斗，并意识到自己内心深处的愤怒。",
+      "level": 1
+    }
+  ],
+  "concepts": [
+    {
+      "name": "乔·卡本特",
+      "frequency": 30,
+      "context": "故事的主角，一位因丧妻丧女而深陷悲痛和焦虑的男人。"
+    },
+    {
+      "name": "蜜雪儿",
+      "frequency": 10,
+      "context": "乔已故的妻子，经常出现在乔的回忆和幻觉中。"
+    },
+    {
+      "name": "飞机失事",
+      "frequency": 8,
+      "context": "导致乔妻女死亡的悲剧事件，是乔内心创伤的根源。"
+    },
+    {
+      "name": "悲痛",
+      "frequency": 15,
+      "context": "乔·卡本特的主要情绪状态，由丧亲之痛引起。"
+    },
+    {
+      "name": "焦虑",
+      "frequency": 12,
+      "context": "乔·卡本特经历的心理状态，表现为生理和心理上的不安。"
+    },
+    {
+      "name": "幻觉",
+      "frequency": 7,
+      "context": "乔在焦虑状态下经历的非现实体验，常重现飞机失事场景。"
+    },
+    {
+      "name": "愤怒",
+      "frequency": 10,
+      "context": "乔·卡本特内心压抑的情绪，在特定情境下爆发。"
+    },
+    {
+      "name": "麦贝丝",
+      "frequency": 5,
+      "context": "乔的岳母，一位坚强且给予乔安慰的女性。"
+    },
+    {
+      "name": "跟踪",
+      "frequency": 6,
+      "context": "乔认为自己被不明身份的人监视和跟踪。"
+    },
+    {
+      "name": "暴力",
+      "frequency": 5,
+      "context": "乔在故事中采取的行动，表达其内心的冲突和愤怒。"
+    },
+    {
+      "name": "寻找平静",
+      "frequency": 4,
+      "context": "乔试图摆脱痛苦和焦虑，寻求内心的安宁。"
+    },
+    {
+      "name": "海滩",
+      "frequency": 7,
+      "context": "故事发生的重要场景，充满人群和潜在的危险。"
+    },
+    {
+      "name": "夏威夷衫",
+      "frequency": 3,
+      "context": "两个神秘人物的穿着，与乔的怀疑有关。"
+    },
+    {
+      "name": "洗手间",
+      "frequency": 4,
+      "context": "乔经历暴力事件和与少年交易的场所。"
+    },
+    {
+      "name": "少年",
+      "frequency": 3,
+      "context": "在洗手间与乔交易的男孩，象征着社会底层和生存的狡黠。"
+    },
+    {
+      "name": "机械世界",
+      "frequency": 2,
+      "context": "乔试图模仿的冷漠无意识的运作模式，以获得平静。"
+    },
+    {
+      "name": "货车",
+      "frequency": 2,
+      "context": "乔与袭击者发生打斗的地点。"
+    },
+    {
+      "name": "罗丝",
+      "frequency": 1,
+      "context": "袭击者询问的人物，暗示着更复杂的阴谋。"
+    },
+    {
+      "name": "圣塔莫尼卡",
+      "frequency": 3,
+      "context": "故事发生的主要地点之一，海滩风景与乔内心的混乱形成对比。"
+    },
+    {
+      "name": "洛杉矶",
+      "frequency": 2,
+      "context": "故事发生的城市背景，被描述为充满焦躁和潜在危险。"
+    }
+  ],
+  "relations": [
+    {
+      "source": "乔·卡本特",
+      "target": "蜜雪儿",
+      "type": "is_spouse_of"
+    },
+    {
+      "source": "乔·卡本特",
+      "target": "飞机失事",
+      "type": "affected_by"
+    },
+    {
+      "source": "蜜雪儿",
+      "target": "飞机失事",
+      "type": "victim_of"
+    },
+    {
+      "source": "悲痛",
+      "target": "乔·卡本特",
+      "type": "experienced_by"
+    },
+    {
+      "source": "焦虑",
+      "target": "乔·卡本特",
+      "type": "experienced_by"
+    },
+    {
+      "source": "幻觉",
+      "target": "飞机失事",
+      "type": "recreates"
+    },
+    {
+      "source": "幻觉",
+      "target": "乔·卡本特",
+      "type": "experienced_by"
+    },
+    {
+      "source": "愤怒",
+      "target": "乔·卡本特",
+      "type": "experienced_by"
+    },
+    {
+      "source": "乔·卡本特",
+      "target": "麦贝丝",
+      "type": "talks_to"
+    },
+    {
+      "source": "麦贝丝",
+      "target": "安慰",
+      "type": "provides"
+    },
+    {
+      "source": "乔·卡本特",
+      "target": "跟踪",
+      "type": "suspects"
+    },
+    {
+      "source": "乔·卡本特",
+      "target": "暴力",
+      "type": "engages_in"
+    },
+    {
+      "source": "暴力",
+      "target": "愤怒",
+      "type": "is_expression_of"
+    },
+    {
+      "source": "乔·卡本特",
+      "target": "寻找平静",
+      "type": "pursues"
+    },
+    {
+      "source": "海滩",
+      "target": "圣塔莫尼卡",
+      "type": "located_in"
+    },
+    {
+      "source": "神秘人物",
+      "target": "乔·卡本特",
+      "type": "observes"
+    },
+    {
+      "source": "夏威夷衫",
+      "target": "神秘人物",
+      "type": "wears"
+    },
+    {
+      "source": "洗手间",
+      "target": "乔·卡本特",
+      "type": "scene_of_event_for"
+    },
+    {
+      "source": "少年",
+      "target": "乔·卡本特",
+      "type": "interacts_with"
+    },
+    {
+      "source": "货车",
+      "target": "乔·卡本特",
+      "type": "scene_of_event_for"
+    },
+    {
+      "source": "袭击者",
+      "target": "货车",
+      "type": "located_near"
+    },
+    {
+      "source": "机械世界",
+      "target": "寻找平静",
+      "type": "is_model_for"
+    },
+    {
+      "source": "洛杉矶",
+      "target": "充满焦躁",
+      "type": "is_characterized_by"
+    }
+  ],
+  "hierarchy": {
+    "main_topics": [
+      "Protagonist's Grief and Trauma",
+      "Psychological Distress and Hallucinations",
+      "Encounter with Mysterious Figures and Violence",
+      "Search for Peace and Coping Mechanisms"
+    ],
+    "structure": "The document is structured into four main sections, each detailing a segment of the protagonist's experience and internal struggle. The narrative progresses chronologically, interwoven with flashbacks and psychological manifestations of trauma. The story begins with internal reflection, moves to intense psychological episodes during travel, then to external encounters on the beach, and finally to physical confrontations, all while exploring the protagonist's emotional state."
+  }
+}

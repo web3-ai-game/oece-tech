@@ -1,0 +1,501 @@
+{
+  "propositions": [
+    {
+      "id": "1",
+      "text": "A manual for killers.",
+      "level": 1
+    },
+    {
+      "id": "1.1",
+      "text": "Author: Tianyu Ditang",
+      "level": 2
+    },
+    {
+      "id": "1.2",
+      "text": "Source: TXT Novel Paradise",
+      "level": 2
+    },
+    {
+      "id": "2",
+      "text": "Chapter 1: Killing you is just for money.",
+      "level": 1
+    },
+    {
+      "id": "2.1",
+      "text": "The protagonist, Zheng Yi, is a twenty-year-old university student and a part-time killer.",
+      "level": 2
+    },
+    {
+      "id": "2.2",
+      "text": "Zheng Yi discovers a new killer in his territory, who uses professional methods (gunshots to the forehead with .38 caliber bullets).",
+      "level": 2
+    },
+    {
+      "id": "2.3",
+      "text": "Zheng Yi's mother is pressuring him to get married and has arranged blind dates.",
+      "level": 2
+    },
+    {
+      "id": "2.4",
+      "text": "Zheng Yi's family is wealthy; his father was a former mayor and now runs a successful leather business.",
+      "level": 2
+    },
+    {
+      "id": "2.5",
+      "text": "Zheng Yi has a younger adopted sister who is academically poor but clever and interested in mystery novels.",
+      "level": 2
+    },
+    {
+      "id": "2.6",
+      "text": "Zheng Yi justifies his killing as a special way of solving problems for others, similar to soldiers in war.",
+      "level": 2
+    },
+    {
+      "id": "3",
+      "text": "Chapter 2: Girl, you're going to kill me like this.",
+      "level": 1
+    },
+    {
+      "id": "3.1",
+      "text": "Zheng Yi is at a park for a blind date, using a comic magazine as a signal.",
+      "level": 2
+    },
+    {
+      "id": "3.2",
+      "text": "Zheng Yi receives a task from his contact, 'Ghost Eye', under his alias 'Mountain Cat'.",
+      "level": 2
+    },
+    {
+      "id": "3.3",
+      "text": "Zheng Yi encounters Lin Fangfang, a classmate he generally dislikes, who is also waiting in the park.",
+      "level": 2
+    },
+    {
+      "id": "3.4",
+      "text": "Zheng Yi realizes Lin Fangfang has the same comic magazine as his signal.",
+      "level": 2
+    },
+    {
+      "id": "4",
+      "text": "Chapter 3: Sorry, I don't want to kill you.",
+      "level": 1
+    },
+    {
+      "id": "4.1",
+      "text": "Zheng Yi flees from the park, forgetting his magazine.",
+      "level": 2
+    },
+    {
+      "id": "4.2",
+      "text": "Zheng Yi goes to an arcade to pass time, as he can't face his mother after leaving his blind date.",
+      "level": 2
+    },
+    {
+      "id": "4.3",
+      "text": "Zheng Yi is beaten badly at a fighting game by an unknown female opponent.",
+      "level": 2
+    },
+    {
+      "id": "4.4",
+      "text": "The female opponent is revealed to be the same girl from the park.",
+      "level": 2
+    },
+    {
+      "id": "4.5",
+      "text": "Zheng Yi tricks the girl into pretending to be his blind date to appease his mother over the phone.",
+      "level": 2
+    },
+    {
+      "id": "5",
+      "text": "Chapter 4: Life, it's cool!",
+      "level": 1
+    },
+    {
+      "id": "5.1",
+      "text": "Zheng Yi's mother is pleased with the call and invites the 'girl' (the arcade opponent) for dinner.",
+      "level": 2
+    },
+    {
+      "id": "5.2",
+      "text": "Zheng Yi's younger sister messes with his computer, preventing him from accessing his email for mission details.",
+      "level": 2
+    },
+    {
+      "id": "6",
+      "text": "Chapter 5: Like me! Like me for what?",
+      "level": 1
+    },
+    {
+      "id": "6.1",
+      "text": "Zheng Yi is late for class and is surprised by how nice the school's facilities are, despite it being a private institution.",
+      "level": 2
+    },
+    {
+      "id": "6.2",
+      "text": "Zheng Yi has a brief, awkward encounter with Lin Fangfang in the elevator; she appears to have been crying.",
+      "level": 2
+    },
+    {
+      "id": "6.3",
+      "text": "Zheng Yi learns from his friend Ren Lei that Lin Fangfang is being pressured to marry a much older man and was publicly shamed by her aunt (a teacher).",
+      "level": 2
+    },
+    {
+      "id": "6.4",
+      "text": "Zheng Yi goes to the computer lab and checks his email, discovering his next target is Lin Fangfang.",
+      "level": 2
+    },
+    {
+      "id": "7",
+      "text": "Chapter 6: Girl, don't cry.",
+      "level": 1
+    },
+    {
+      "id": "7.1",
+      "text": "Lin Fangfang confesses her feelings for Zheng Yi, recalling a past incident where he saved her pet rabbit.",
+      "level": 2
+    },
+    {
+      "id": "7.2",
+      "text": "Zheng Yi feels conflicted about his mission to kill Lin Fangfang, especially after her confession.",
+      "level": 2
+    },
+    {
+      "id": "7.3",
+      "text": "Zheng Yi gives Lin Fangfang a violet, an act she interprets as romantic, and they decide to watch the sunrise at the beach.",
+      "level": 2
+    },
+    {
+      "id": "8",
+      "text": "Chapter 7: Thirst for a real kiss.",
+      "level": 1
+    },
+    {
+      "id": "8.1",
+      "text": "Lin Fangfang returns Zheng Yi's lost comic magazine.",
+      "level": 2
+    },
+    {
+      "id": "8.2",
+      "text": "Lin Fangfang reveals she was supposed to meet Wang Qiangling to tell him she was getting married.",
+      "level": 2
+    },
+    {
+      "id": "8.3",
+      "text": "Lin Fangfang expresses her despair about her forced marriage to an older man.",
+      "level": 2
+    },
+    {
+      "id": "8.4",
+      "text": "Lin Fangfang asks Zheng Yi for a kiss, which he initially hesitates about but eventually initiates.",
+      "level": 2
+    },
+    {
+      "id": "8.5",
+      "text": "During the kiss, Lin Fangfang tastes blood from Zheng Yi's lips and he realizes she is crying.",
+      "level": 2
+    },
+    {
+      "id": "8.6",
+      "text": "Zheng Yi's resolve to kill Lin Fangfang wavers as he witnesses her profound sadness and realizes he cannot go through with it.",
+      "level": 2
+    },
+    {
+      "id": "8.7",
+      "text": "Lin Fangfang falls asleep in Zheng Yi's arms, and he watches her with a mix of regret and affection.",
+      "level": 2
+    },
+    {
+      "id": "8.8",
+      "text": "The sunrise brings a sense of peace to Zheng Yi, but he feels the weight of his unresolved situation.",
+      "level": 2
+    },
+    {
+      "id": "8.9",
+      "text": "Lin Fangfang expresses gratitude for their time together, calling it the happiest of her life.",
+      "level": 2
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Zheng Yi",
+      "frequency": 20,
+      "context": "Protagonist, student, killer, son, brother."
+    },
+    {
+      "name": "Killer",
+      "frequency": 10,
+      "context": "Zheng Yi's profession, other professional killers, professional methods."
+    },
+    {
+      "name": "Lin Fangfang",
+      "frequency": 15,
+      "context": "Classmate, potential blind date, target of assassination, love interest."
+    },
+    {
+      "name": "Blind Date",
+      "frequency": 6,
+      "context": "Arranged by Zheng Yi's mother, source of misunderstanding."
+    },
+    {
+      "name": "Mother",
+      "frequency": 6,
+      "context": "Zheng Yi's mother, concerned about marriage, overbearing."
+    },
+    {
+      "name": "Task/Mission",
+      "frequency": 7,
+      "context": "Assassination jobs, received from 'Ghost Eye', executed by 'Mountain Cat'."
+    },
+    {
+      "name": "Organization",
+      "frequency": 4,
+      "context": "The entity Zheng Yi works for, his contact 'Ghost Eye'."
+    },
+    {
+      "name": "Money",
+      "frequency": 4,
+      "context": "Zheng Yi's primary motivation for killing, family wealth."
+    },
+    {
+      "name": "Family",
+      "frequency": 5,
+      "context": "Zheng Yi's parents, sister, their background and dynamics."
+    },
+    {
+      "name": "University",
+      "frequency": 6,
+      "context": "Zheng Yi's place of study, its nature and students."
+    },
+    {
+      "name": "Arcade",
+      "frequency": 4,
+      "context": "Location where Zheng Yi meets Lin Fangfang again, plays fighting games."
+    },
+    {
+      "name": "Kiss",
+      "frequency": 5,
+      "context": "Lin Fangfang requests a kiss, Zheng Yi initiates, its emotional impact."
+    },
+    {
+      "name": "Sadness/Despair",
+      "frequency": 5,
+      "context": "Lin Fangfang's emotional state due to forced marriage and past experiences."
+    },
+    {
+      "name": "Rabbit",
+      "frequency": 3,
+      "context": "Symbol of past kindness and Lin Fangfang's memory of Zheng Yi."
+    },
+    {
+      "name": "Comic Magazine",
+      "frequency": 3,
+      "context": "Signal for blind date, lost and found, shared interest."
+    },
+    {
+      "name": "Ghost Eye",
+      "frequency": 3,
+      "context": "Zheng Yi's contact person in the organization."
+    },
+    {
+      "name": "Mountain Cat",
+      "frequency": 2,
+      "context": "Zheng Yi's codename in the organization."
+    },
+    {
+      "name": "New Killer",
+      "frequency": 2,
+      "context": "A rival killer operating in Zheng Yi's territory."
+    },
+    {
+      "name": "Sister",
+      "frequency": 4,
+      "context": "Zheng Yi's younger adopted sister, mischievous and intelligent."
+    },
+    {
+      "name": "Ren Lei",
+      "frequency": 3,
+      "context": "Zheng Yi's friend at university, interested in military topics."
+    },
+    {
+      "name": "Forced Marriage",
+      "frequency": 4,
+      "context": "Lin Fangfang's predicament, her despair."
+    }
+  ],
+  "relations": [
+    {
+      "source": "Zheng Yi",
+      "target": "Killer",
+      "type": "is_a"
+    },
+    {
+      "source": "Zheng Yi",
+      "target": "Student",
+      "type": "is_a"
+    },
+    {
+      "source": "Zheng Yi",
+      "target": "Son",
+      "type": "is_a"
+    },
+    {
+      "source": "Zheng Yi",
+      "target": "Brother",
+      "type": "is_a"
+    },
+    {
+      "source": "Lin Fangfang",
+      "target": "Classmate",
+      "type": "is_a"
+    },
+    {
+      "source": "Lin Fangfang",
+      "target": "Target",
+      "type": "is_a"
+    },
+    {
+      "source": "Lin Fangfang",
+      "target": "Love Interest",
+      "type": "is_a"
+    },
+    {
+      "source": "Lin Fangfang",
+      "target": "Rabbit Owner",
+      "type": "is_a"
+    },
+    {
+      "source": "Ghost Eye",
+      "target": "Organization",
+      "type": "part_of"
+    },
+    {
+      "source": "Mountain Cat",
+      "target": "Zheng Yi",
+      "type": "is_an_alias_of"
+    },
+    {
+      "source": "Ghost Eye",
+      "target": "Contact Person",
+      "type": "is_a"
+    },
+    {
+      "source": "Ghost Eye",
+      "target": "Assigns Mission",
+      "type": "performs"
+    },
+    {
+      "source": "Zheng Yi",
+      "target": "Blind Date",
+      "type": "involved_in"
+    },
+    {
+      "source": "Blind Date",
+      "target": "Mother",
+      "type": "arranged_by"
+    },
+    {
+      "source": "Zheng Yi",
+      "target": "Lin Fangfang",
+      "type": "conflicts_with"
+    },
+    {
+      "source": "Lin Fangfang",
+      "target": "Forced Marriage",
+      "type": "experiences"
+    },
+    {
+      "source": "Forced Marriage",
+      "target": "Older Man",
+      "type": "involves"
+    },
+    {
+      "source": "Zheng Yi",
+      "target": "Kiss",
+      "type": "receives"
+    },
+    {
+      "source": "Lin Fangfang",
+      "target": "Kiss",
+      "type": "requests"
+    },
+    {
+      "source": "Zheng Yi",
+      "target": "Sadness",
+      "type": "causes_in"
+    },
+    {
+      "source": "Lin Fangfang",
+      "target": "Sadness",
+      "type": "experiences"
+    },
+    {
+      "source": "Zheng Yi",
+      "target": "Hesitation",
+      "type": "experiences"
+    },
+    {
+      "source": "Zheng Yi",
+      "target": "Cannot Kill",
+      "type": "emotionally_cannot"
+    },
+    {
+      "source": "Zheng Yi",
+      "target": "Rabbit",
+      "type": "saves"
+    },
+    {
+      "source": "Lin Fangfang",
+      "target": "Rabbit",
+      "type": "owns"
+    },
+    {
+      "source": "Comic Magazine",
+      "target": "Blind Date Signal",
+      "type": "used_as"
+    },
+    {
+      "source": "Zheng Yi",
+      "target": "Sister",
+      "type": "has"
+    },
+    {
+      "source": "Sister",
+      "target": "Mischievous",
+      "type": "is_a"
+    },
+    {
+      "source": "Ren Lei",
+      "target": "Friend",
+      "type": "is_a"
+    },
+    {
+      "source": "Ren Lei",
+      "target": "Zheng Yi",
+      "type": "is_friend_of"
+    },
+    {
+      "source": "Zheng Yi",
+      "target": "New Killer",
+      "type": "competitor_of"
+    },
+    {
+      "source": "Lin Fangfang",
+      "target": "Viloet",
+      "type": "receives"
+    },
+    {
+      "source": "Zheng Yi",
+      "target": "Viloet",
+      "type": "gives"
+    }
+  ],
+  "hierarchy": {
+    "main_topics": [
+      "Introduction of Protagonist and Conflict",
+      "Developing Relationship and Moral Dilemma",
+      "Confession and Emotional Climax"
+    ],
+    "structure": "The document is structured chronologically through chapters, detailing the protagonist's daily life, his professional activities, and his evolving relationship with Lin Fangfang, culminating in a moral crisis."
+  }
+}

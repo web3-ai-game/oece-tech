@@ -1,0 +1,908 @@
+{
+  "propositions": [
+    {
+      "id": "1",
+      "text": "《鬼吹灯》是一部小说。",
+      "level": 1
+    },
+    {
+      "id": "1.1",
+      "text": "《鬼吹灯》的专题网址是 [http://www.xiaoshuotxt.com/xuanyi/4416/](http://www.xiaoshuotxt.com/xuanyi/4416/)。",
+      "level": 2
+    },
+    {
+      "id": "1.2",
+      "text": "TXT小说天堂的网址是 [http://www.xiaoshuotxt.com](http://www.xiaoshuotxt.com)。",
+      "level": 2
+    },
+    {
+      "id": "2",
+      "text": "盗墓不是请客吃饭，而是破坏性的技术。",
+      "level": 1
+    },
+    {
+      "id": "2.1",
+      "text": "古代贵族在坟墓中设置机关暗器以防盗。",
+      "level": 2
+    },
+    {
+      "id": "2.1.1",
+      "text": "机关暗器包括巨石、流沙、毒箭、毒虫、陷坑等。",
+      "level": 3
+    },
+    {
+      "id": "2.1.2",
+      "text": "明代大墓使用西洋八宝转心机关。",
+      "level": 3
+    },
+    {
+      "id": "2.1.3",
+      "text": "清代帝陵是数千年防盗技术的杰作。",
+      "level": 3
+    },
+    {
+      "id": "2.2",
+      "text": "盗墓贼的任务是破解机关，进入墓中探宝。",
+      "level": 2
+    },
+    {
+      "id": "2.3",
+      "text": "现代寻找古墓比挖开古墓更困难。",
+      "level": 2
+    },
+    {
+      "id": "2.3.1",
+      "text": "地面上有明显建筑的大墓已被发掘。",
+      "level": 3
+    },
+    {
+      "id": "2.3.2",
+      "text": "寻找地下无标记的古墓需要技术和工具。",
+      "level": 3
+    },
+    {
+      "id": "2.3.2.1",
+      "text": "盗墓工具包括铁钎、洛阳铲、竹钉、钻地龙、探阴爪、黑折子等。",
+      "level": 4
+    },
+    {
+      "id": "2.3.3",
+      "text": "一些高手不依赖工具寻找古墓。",
+      "level": 3
+    },
+    {
+      "id": "2.3.3.1",
+      "text": "通过古代文献线索寻找古墓。",
+      "level": 4
+    },
+    {
+      "id": "2.3.3.2",
+      "text": "通过解读山川河流脉象和看风水找墓穴。",
+      "level": 4
+    },
+    {
+      "id": "3",
+      "text": "故事从祖父留下的残书《十六字阴阳风水秘术》开始。",
+      "level": 1
+    },
+    {
+      "id": "3.1",
+      "text": "残书下半本不知所踪。",
+      "level": 2
+    },
+    {
+      "id": "3.2",
+      "text": "上卷是风水秘术篇，多为解读墓葬风水格局的独门秘术。",
+      "level": 2
+    },
+    {
+      "id": "4",
+      "text": "祖父胡国华曾是大地主。",
+      "level": 1
+    },
+    {
+      "id": "4.1",
+      "text": "胡家祖上辉煌，拥有大量宅院。",
+      "level": 2
+    },
+    {
+      "id": "4.2",
+      "text": "民国年间，胡家家道中落。",
+      "level": 2
+    },
+    {
+      "id": "4.2.1",
+      "text": "胡国华沉迷赌博和抽大烟，败光家财。",
+      "level": 3
+    },
+    {
+      "id": "4.3",
+      "text": "胡国华为了骗钱，找扎纸匠人扎了个白纸糊的纸女人。",
+      "level": 1
+    },
+    {
+      "id": "4.3.1",
+      "text": "纸女人被画上眉眼鼻子，外观逼真。",
+      "level": 2
+    },
+    {
+      "id": "4.3.2",
+      "text": "胡国华用纸人应付来访的舅舅。",
+      "level": 2
+    },
+    {
+      "id": "4.4",
+      "text": "纸女人变成了活人，并留下了舅舅。",
+      "level": 1
+    },
+    {
+      "id": "4.4.1",
+      "text": "舅舅认为纸女人贤惠旺夫，给了胡国华十块大洋。",
+      "level": 2
+    },
+    {
+      "id": "4.4.2",
+      "text": "胡国华感到害怕和恶心。",
+      "level": 2
+    },
+    {
+      "id": "4.5",
+      "text": "白纸人与胡国华对话。",
+      "level": 1
+    },
+    {
+      "id": "4.5.1",
+      "text": "白纸人自称是鬼，附在纸人身上。",
+      "level": 2
+    },
+    {
+      "id": "4.5.2",
+      "text": "白纸人表示生前富有，陪葬金银首饰够胡国华挥霍。",
+      "level": 2
+    },
+    {
+      "id": "4.5.3",
+      "text": "胡国华拒绝了鬼的提议，担心人鬼殊途。",
+      "level": 2
+    },
+    {
+      "id": "4.5.4",
+      "text": "白纸人告知胡国华，若穷困潦倒，可去十三里铺荒坟找她，棺中有财宝。",
+      "level": 2
+    },
+    {
+      "id": "4.6",
+      "text": "胡国华烧毁了白纸人。",
+      "level": 1
+    },
+    {
+      "id": "5",
+      "text": "胡国华的舅舅因生气上火而去世。",
+      "level": 1
+    },
+    {
+      "id": "5.1",
+      "text": "胡国的亲戚朋友都防着胡国华。",
+      "level": 2
+    },
+    {
+      "id": "5.2",
+      "text": "胡国华卖掉母亲的嫁妆买烟土吸食。",
+      "level": 1
+    },
+    {
+      "id": "6",
+      "text": "一只大老鼠与胡国华一起吸食大烟。",
+      "level": 1
+    },
+    {
+      "id": "6.1",
+      "text": "老鼠体型巨大，胡子变白。",
+      "level": 2
+    },
+    {
+      "id": "6.2",
+      "text": "老鼠每天来同胡国华一起吸烟。",
+      "level": 2
+    },
+    {
+      "id": "6.3",
+      "text": "胡国华对老鼠产生好感。",
+      "level": 2
+    },
+    {
+      "id": "7",
+      "text": "老鼠为胡国华带来银元，胡国华得以继续吸烟。",
+      "level": 1
+    },
+    {
+      "id": "7.1",
+      "text": "老鼠每天叼回银元，胡国华衣食无忧。",
+      "level": 2
+    },
+    {
+      "id": "7.2",
+      "text": "胡国华与老鼠结为金兰兄弟，称其为“鼠兄”。",
+      "level": 2
+    },
+    {
+      "id": "8",
+      "text": "王二杠子盯上了胡国华的钱财来源。",
+      "level": 1
+    },
+    {
+      "id": "8.1",
+      "text": "王二杠子是村里的无赖。",
+      "level": 2
+    },
+    {
+      "id": "8.2",
+      "text": "王二杠子翻墙进入胡国华家。",
+      "level": 2
+    },
+    {
+      "id": "8.3",
+      "text": "王二杠子将正在睡觉的老鼠扔进热水壶中烫死。",
+      "level": 1
+    },
+    {
+      "id": "9",
+      "text": "胡国华回家发现被烫死的老鼠，盛怒之下砍伤王二杠子。",
+      "level": 1
+    },
+    {
+      "id": "9.1",
+      "text": "胡国华向保安队长哭诉，请求安葬鼠兄。",
+      "level": 2
+    },
+    {
+      "id": "9.2",
+      "text": "一位军阀头子被胡国华的仁义感动，收其为副官。",
+      "level": 1
+    },
+    {
+      "id": "9.3",
+      "text": "军阀头子惩罚王二杠子，放胡国华回家安葬老鼠。",
+      "level": 2
+    },
+    {
+      "id": "10",
+      "text": "“我”一行知青在内蒙岗岗营子插队。",
+      "level": 1
+    },
+    {
+      "id": "10.1",
+      "text": "当地环境艰苦，是绵延起伏的山脉和原始森林。",
+      "level": 2
+    },
+    {
+      "id": "10.2",
+      "text": "不通公路，不通电。",
+      "level": 2
+    },
+    {
+      "id": "10.3",
+      "text": "山货和河鲜丰富，不愁吃。",
+      "level": 2
+    },
+    {
+      "id": "11",
+      "text": "夜里看庄稼时，“我”误将蹲着拉肚子的胖子当成了白影。",
+      "level": 1
+    },
+    {
+      "id": "12",
+      "text": "胖子提议去捅一个大蜂窝换蜂蜜。",
+      "level": 1
+    },
+    {
+      "id": "12.1",
+      "text": "胖子发现蜂窝在团山子老林靠近小溪的大树上。",
+      "level": 2
+    },
+    {
+      "id": "12.2",
+      "text": "蜂窝巨大，像挂着一头小牛犊子。",
+      "level": 2
+    },
+    {
+      "id": "12.3",
+      "text": "两人做好防护措施，跳入小溪躲避蜂群。",
+      "level": 2
+    },
+    {
+      "id": "12.4",
+      "text": "胖子在溪水中被半个破瓷碗扎伤。",
+      "level": 1
+    },
+    {
+      "id": "12.4.1",
+      "text": "瓷碗款式和花纹像北宋青花瓷。",
+      "level": 2
+    },
+    {
+      "id": "13",
+      "text": "栗子黄叼回一只肥大的灰色野兔。",
+      "level": 1
+    },
+    {
+      "id": "13.1",
+      "text": "两人烤野兔吃，觉得非常美味。",
+      "level": 2
+    },
+    {
+      "id": "14",
+      "text": "燕子家中有许多瓷瓶，称是上游冲下来的。",
+      "level": 1
+    },
+    {
+      "id": "14.1",
+      "text": "燕子说河源头在喇嘛沟的牛心山。",
+      "level": 2
+    },
+    {
+      "id": "14.2",
+      "text": "传说牛心山是辽国金国太后的墓穴。",
+      "level": 2
+    },
+    {
+      "id": "14.3",
+      "text": "喇嘛沟林子密，有野人出没，牛心山闹鬼。",
+      "level": 2
+    },
+    {
+      "id": "15",
+      "text": "女知青田晓萌为给母亲治哮喘，独自去喇嘛沟采菩萨果。",
+      "level": 1
+    },
+    {
+      "id": "15.1",
+      "text": "田晓萌从早晨去，直到天黑未归。",
+      "level": 2
+    },
+    {
+      "id": "16",
+      "text": "“我”、胖子和燕子（带猎犬栗子黄）进喇嘛沟寻找田晓萌。",
+      "level": 1
+    },
+    {
+      "id": "17",
+      "text": "在喇嘛沟，最大的威胁是人熊。",
+      "level": 1
+    },
+    {
+      "id": "18",
+      "text": "一行人走到牛心山脚下，未发现田晓萌踪影。",
+      "level": 1
+    },
+    {
+      "id": "19",
+      "text": "栗子黄狂叫，发现人熊。",
+      "level": 1
+    },
+    {
+      "id": "20",
+      "text": "燕子开枪击中人熊腹部，打瞎其一只眼睛。",
+      "level": 1
+    },
+    {
+      "id": "20.1",
+      "text": "人熊受重伤，攻击燕子。",
+      "level": 2
+    },
+    {
+      "id": "20.2",
+      "text": "“我”开枪击中人熊头部，打瞎其另一只眼睛。",
+      "level": 2
+    },
+    {
+      "id": "20.3",
+      "text": "人熊因受伤疯狂，开始撞击“我”所在的大树。",
+      "level": 2
+    },
+    {
+      "id": "21",
+      "text": "“我”与胖子在树上和人熊对骂。",
+      "level": 1
+    },
+    {
+      "id": "22",
+      "text": "人熊停止撞击大树，坐在地上休息。",
+      "level": 1
+    },
+    {
+      "id": "23",
+      "text": "栗子黄离开去寻找食物。",
+      "level": 1
+    },
+    {
+      "id": "24",
+      "text": "三人商议无果，用裤带将身体缚在树干上等待。",
+      "level": 1
+    }
+  ],
+  "concepts": [
+    {
+      "name": "盗墓",
+      "frequency": 20,
+      "context": "盗墓不是请客吃饭，也不是做文章，不是绘画绣花...盗墓是一门技术，一门进行破坏的技术。"
+    },
+    {
+      "name": "机关",
+      "frequency": 5,
+      "context": "在墓中设置种种机关暗器，消息埋伏，有巨石、流沙、毒箭、毒虫、陷坑等等数不胜数。"
+    },
+    {
+      "name": "古墓",
+      "frequency": 6,
+      "context": "现代，比起如何挖开古墓更困难的是寻找古墓..."
+    },
+    {
+      "name": "技术",
+      "frequency": 4,
+      "context": "盗墓是一门技术，一门进行破坏的技术。"
+    },
+    {
+      "name": "工具",
+      "frequency": 3,
+      "context": "寻找那些年深日久藏于地下，又没有任何地上标记的古墓，就需要一定的技术和特殊工具了..."
+    },
+    {
+      "name": "风水",
+      "frequency": 4,
+      "context": "《十六字阴阳风水秘术》..."
+    },
+    {
+      "name": "胡国华",
+      "frequency": 20,
+      "context": "我的祖父叫胡国华..."
+    },
+    {
+      "name": "大烟",
+      "frequency": 7,
+      "context": "后来又抽上了福寿膏（大烟），把万贯家财败了个精光。"
+    },
+    {
+      "name": "骗钱",
+      "frequency": 4,
+      "context": "胡国华想了个办法，去找舅舅骗点钱。"
+    },
+    {
+      "name": "舅舅",
+      "frequency": 6,
+      "context": "胡国华的舅舅知道他是败家子大烟鬼..."
+    },
+    {
+      "name": "白纸人",
+      "frequency": 9,
+      "context": "他按要求给胡国华扎了个白纸糊裱的纸女人..."
+    },
+    {
+      "name": "鬼",
+      "frequency": 6,
+      "context": "白纸人说我当然是鬼，只是暂时附在这纸人身上..."
+    },
+    {
+      "name": "财宝",
+      "frequency": 4,
+      "context": "白纸人说我当然是鬼...我生前很富有，陪葬的金银首饰够你抽十辈子大烟的..."
+    },
+    {
+      "name": "老鼠",
+      "frequency": 13,
+      "context": "原来是床角上趴着一只大老鼠..."
+    },
+    {
+      "name": "银元",
+      "frequency": 5,
+      "context": "老鼠叼回来一枚银元放在胡国华枕边..."
+    },
+    {
+      "name": "王二杠子",
+      "frequency": 6,
+      "context": "村里有个无赖叫王二杠子..."
+    },
+    {
+      "name": "军阀",
+      "frequency": 3,
+      "context": "保安队的队长是当地一个军阀的亲戚..."
+    },
+    {
+      "name": "知青",
+      "frequency": 10,
+      "context": "我们这一拨知青总共有六个人，四男两女..."
+    },
+    {
+      "name": "山",
+      "frequency": 11,
+      "context": "周围全是绵延起伏的山脉，和一望无际的原始森林..."
+    },
+    {
+      "name": "森林",
+      "frequency": 10,
+      "context": "周围全是绵延起伏的山脉，和一望无际的原始森林..."
+    },
+    {
+      "name": "胖子",
+      "frequency": 21,
+      "context": "这天夜里正赶上我和胖子搭伴..."
+    },
+    {
+      "name": "蜂窝",
+      "frequency": 7,
+      "context": "我昨天在团山子那片老林里见到一个非常大的蜂窝..."
+    },
+    {
+      "name": "蜂蜜",
+      "frequency": 7,
+      "context": "咱们捅了蜂窝，弄点蜂蜜冲水喝..."
+    },
+    {
+      "name": "野兔",
+      "frequency": 4,
+      "context": "栗子黄嘴里还叼了只肥大的灰色野兔..."
+    },
+    {
+      "name": "燕子",
+      "frequency": 15,
+      "context": "燕子是个姑娘的名字，她爹是村里有名的老猎人..."
+    },
+    {
+      "name": "猎犬",
+      "frequency": 6,
+      "context": "我怕迷路就找燕子借了他的猎犬..."
+    },
+    {
+      "name": "团山子",
+      "frequency": 2,
+      "context": "我昨天在团山子那片老林里见到一个非常大的蜂窝..."
+    },
+    {
+      "name": "人熊",
+      "frequency": 9,
+      "context": "村里人曾警告过我们不要进去，说里面有人熊出没..."
+    },
+    {
+      "name": "喇嘛沟",
+      "frequency": 7,
+      "context": "燕子说那山是埋了也不辽国金国的哪个太后的墓穴...牛心山就是喇嘛沟..."
+    },
+    {
+      "name": "牛心山",
+      "frequency": 6,
+      "context": "咱村附近这几条河的源头都在喇嘛沟的牛心山..."
+    },
+    {
+      "name": "田晓萌",
+      "frequency": 6,
+      "context": "女知青田晓萌家里来信..."
+    },
+    {
+      "name": "菩萨果",
+      "frequency": 2,
+      "context": "田晓萌听人说喇嘛沟里长得菩萨果对哮喘有奇效..."
+    },
+    {
+      "name": "猎枪",
+      "frequency": 5,
+      "context": "我们一共有两杆猎枪..."
+    },
+    {
+      "name": "瀑布",
+      "frequency": 4,
+      "context": "九条白练玉龙般的大瀑布从山上奔流而下..."
+    },
+    {
+      "name": "风水宝穴",
+      "frequency": 2,
+      "context": "这种风水宝穴，还有个别称叫做“洛神辇”..."
+    }
+  ],
+  "relations": [
+    {
+      "source": "盗墓",
+      "target": "机关",
+      "type": "requires_overcoming"
+    },
+    {
+      "source": "机关",
+      "target": "古代贵族",
+      "type": "created_by"
+    },
+    {
+      "source": "古墓",
+      "target": "技术",
+      "type": "requires_for_finding"
+    },
+    {
+      "source": "技术",
+      "target": "盗墓",
+      "type": "related_to"
+    },
+    {
+      "source": "技术",
+      "target": "寻找古墓",
+      "type": "applied_to"
+    },
+    {
+      "source": "工具",
+      "target": "寻找古墓",
+      "type": "used_for"
+    },
+    {
+      "source": "风水",
+      "target": "寻找古墓",
+      "type": "used_for"
+    },
+    {
+      "source": "胡国华",
+      "target": "大地主",
+      "type": "was_a"
+    },
+    {
+      "source": "胡国华",
+      "target": "大烟",
+      "type": "addicted_to"
+    },
+    {
+      "source": "胡国华",
+      "target": "骗钱",
+      "type": "action"
+    },
+    {
+      "source": "胡国华",
+      "target": "舅舅",
+      "type": "interacts_with"
+    },
+    {
+      "source": "胡国华",
+      "target": "白纸人",
+      "type": "created"
+    },
+    {
+      "source": "白纸人",
+      "target": "鬼",
+      "type": "is_a"
+    },
+    {
+      "source": "鬼",
+      "target": "财宝",
+      "type": "possesses"
+    },
+    {
+      "source": "胡国华",
+      "target": "财宝",
+      "type": "desired"
+    },
+    {
+      "source": "胡国华",
+      "target": "老鼠",
+      "type": "befriends"
+    },
+    {
+      "source": "老鼠",
+      "target": "银元",
+      "type": "provides"
+    },
+    {
+      "source": "胡国华",
+      "target": "银元",
+      "type": "receives"
+    },
+    {
+      "source": "胡国华",
+      "target": "王二杠子",
+      "type": "antagonizes"
+    },
+    {
+      "source": "王二杠子",
+      "target": "老鼠",
+      "type": "kills"
+    },
+    {
+      "source": "胡国华",
+      "target": "老鼠",
+      "type": "avenges"
+    },
+    {
+      "source": "胡国华",
+      "target": "军阀",
+      "type": "joins"
+    },
+    {
+      "source": "知青",
+      "target": "岗岗营子",
+      "type": "assigned_to"
+    },
+    {
+      "source": "岗岗营子",
+      "target": "山",
+      "type": "characterized_by"
+    },
+    {
+      "source": "岗岗营子",
+      "target": "森林",
+      "type": "characterized_by"
+    },
+    {
+      "source": "知青",
+      "target": "胖子",
+      "type": "part_of"
+    },
+    {
+      "source": "知青",
+      "target": "我",
+      "type": "part_of"
+    },
+    {
+      "source": "胖子",
+      "target": "蜂窝",
+      "type": "discovers"
+    },
+    {
+      "source": "蜂窝",
+      "target": "蜂蜜",
+      "type": "contains"
+    },
+    {
+      "source": "胖子",
+      "target": "蜂蜜",
+      "type": "desires"
+    },
+    {
+      "source": "胖子",
+      "target": "野兔",
+      "type": "obtains"
+    },
+    {
+      "source": "燕子",
+      "target": "猎犬",
+      "type": "owns"
+    },
+    {
+      "source": "燕子",
+      "target": "猎枪",
+      "type": "owns"
+    },
+    {
+      "source": "燕子",
+      "target": "瓷瓶",
+      "type": "possesses"
+    },
+    {
+      "source": "瓷瓶",
+      "target": "牛心山",
+      "type": "originates_from"
+    },
+    {
+      "source": "牛心山",
+      "target": "墓穴",
+      "type": "legendary_location_of"
+    },
+    {
+      "source": "喇嘛沟",
+      "target": "野人",
+      "type": "rumored_inhabitant_of"
+    },
+    {
+      "source": "喇嘛沟",
+      "target": "闹鬼",
+      "type": "rumored_to_be"
+    },
+    {
+      "source": "田晓萌",
+      "target": "菩萨果",
+      "type": "seeks"
+    },
+    {
+      "source": "菩萨果",
+      "target": "哮喘",
+      "type": "remedy_for"
+    },
+    {
+      "source": "田晓萌",
+      "target": "喇嘛沟",
+      "type": "enters"
+    },
+    {
+      "source": "我",
+      "target": "田晓萌",
+      "type": "searches_for"
+    },
+    {
+      "source": "胖子",
+      "target": "田晓萌",
+      "type": "searches_for"
+    },
+    {
+      "source": "燕子",
+      "target": "田晓萌",
+      "type": "searches_for"
+    },
+    {
+      "source": "人熊",
+      "target": "威胁",
+      "type": "poses_direct"
+    },
+    {
+      "source": "人熊",
+      "target": "燕子",
+      "type": "attacks"
+    },
+    {
+      "source": "人熊",
+      "target": "我",
+      "type": "attacks"
+    },
+    {
+      "source": "燕子",
+      "target": "猎枪",
+      "type": "uses"
+    },
+    {
+      "source": "我",
+      "target": "猎枪",
+      "type": "uses"
+    },
+    {
+      "source": "人熊",
+      "target": "大树",
+      "type": "climbs"
+    },
+    {
+      "source": "我",
+      "target": "人熊",
+      "type": "confronts"
+    },
+    {
+      "source": "胖子",
+      "target": "人熊",
+      "type": "observes"
+    },
+    {
+      "source": "燕子",
+      "target": "人熊",
+      "type": "observes"
+    },
+    {
+      "source": "人熊",
+      "target": "树",
+      "type": "collides_with"
+    },
+    {
+      "source": "我",
+      "target": "马克思",
+      "type": "will_meet"
+    },
+    {
+      "source": "人熊",
+      "target": "树",
+      "type": "stays_under"
+    },
+    {
+      "source": "我",
+      "target": "树",
+      "type": "tied_to"
+    },
+    {
+      "source": "胖子",
+      "target": "树",
+      "type": "tied_to"
+    },
+    {
+      "source": "燕子",
+      "target": "树",
+      "type": "tied_to"
+    }
+  ],
+  "hierarchy": {
+    "main_topics": [
+      "《鬼吹灯》简介",
+      "盗墓的艺术",
+      "胡国华的故事",
+      "知青岁月",
+      "山林探险"
+    ],
+    "structure": "The document is structured as a narrative, starting with an introduction to the novel and the concept of tomb raiding, then delving into the backstory of the protagonist's grandfather, followed by the narrator's own experiences as a 'zhiqing' (educated youth sent to the countryside), and culminating in a dangerous adventure in the mountains. Each section builds upon the previous one, often introducing new characters and plot elements that contribute to the overall story."
+  }
+}

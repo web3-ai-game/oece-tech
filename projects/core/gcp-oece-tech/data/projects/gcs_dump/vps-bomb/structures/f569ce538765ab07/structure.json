@@ -1,0 +1,202 @@
+{
+  "propositions": [
+    {
+      "id": "1",
+      "text": "The author's encounter with two strangers on a plane led to a mysterious interrogation.",
+      "level": 2
+    },
+    {
+      "id": "2",
+      "text": "This encounter sparked the author's curiosity and fear about the strangers and their secrets.",
+      "level": 2
+    },
+    {
+      "id": "3",
+      "text": "The author was invited to a meeting with people from a mysterious unit, later revealed as Unit 701.",
+      "level": 2
+    },
+    {
+      "id": "4",
+      "text": "Unit 701 is a special intelligence agency focused on listening, decryption, and espionage.",
+      "level": 2
+    },
+    {
+      "id": "5",
+      "text": "The author's connection to Unit 701 solidified through repeated interactions and the establishment of 'Decryption Day'.",
+      "level": 2
+    },
+    {
+      "id": "6",
+      "text": "'Decryption Day' was established in 1994, allowing for the declassification of information and interviews.",
+      "level": 2
+    },
+    {
+      "id": "7",
+      "text": "The book's completion was made possible by 'Decryption Day' and the author's access to Unit 701 personnel.",
+      "level": 2
+    },
+    {
+      "id": "8",
+      "text": "The story of 'Blind Ah Bing' is recounted by Unit 701's former director, An Yuanzhang.",
+      "level": 3
+    },
+    {
+      "id": "9",
+      "text": "Unit 701 faced a crisis when Soviet radio systems went silent for 52 hours, rendering their intelligence useless.",
+      "level": 3
+    },
+    {
+      "id": "10",
+      "text": "To overcome this, Unit 701 formed a special team to find missing enemy radio frequencies.",
+      "level": 3
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Unit 701",
+      "frequency": 22,
+      "context": "Special intelligence agency"
+    },
+    {
+      "name": "Author",
+      "frequency": 17,
+      "context": "Narrator of the story"
+    },
+    {
+      "name": "An Yuanzhang",
+      "frequency": 12,
+      "context": "Former director of Unit 701"
+    },
+    {
+      "name": "Mysterious encounter",
+      "frequency": 7,
+      "context": "Initial meeting with strangers"
+    },
+    {
+      "name": "Espionage",
+      "frequency": 4,
+      "context": "Core activity of Unit 701"
+    },
+    {
+      "name": "Intelligence agency",
+      "frequency": 4,
+      "context": "Nature of Unit 701"
+    },
+    {
+      "name": "Decryption Day",
+      "frequency": 4,
+      "context": "Special event for information release"
+    },
+    {
+      "name": "Listening",
+      "frequency": 4,
+      "context": "Key function of Unit 701"
+    },
+    {
+      "name": "Blind Ah Bing",
+      "frequency": 3,
+      "context": "Subject of a Unit 701 story"
+    },
+    {
+      "name": "Soviet radio silence",
+      "frequency": 2,
+      "context": "Crisis faced by Unit 701"
+    },
+    {
+      "name": "Interrogation",
+      "frequency": 2,
+      "context": "Author's initial experience"
+    },
+    {
+      "name": "Secret",
+      "frequency": 3,
+      "context": "Pervasive element in the narrative"
+    },
+    {
+      "name": "Narrative",
+      "frequency": 3,
+      "context": "Storytelling within the book"
+    },
+    {
+      "name": "Interview",
+      "frequency": 2,
+      "context": "Method for gathering information"
+    },
+    {
+      "name": "Special unit",
+      "frequency": 2,
+      "context": "Description of Unit 701"
+    }
+  ],
+  "relations": [
+    {
+      "source": "Author",
+      "target": "Mysterious encounter",
+      "type": "experienced"
+    },
+    {
+      "source": "Mysterious encounter",
+      "target": "Unit 701",
+      "type": "led to"
+    },
+    {
+      "source": "Unit 701",
+      "target": "Espionage",
+      "type": "performs"
+    },
+    {
+      "source": "Unit 701",
+      "target": "Intelligence agency",
+      "type": "is a"
+    },
+    {
+      "source": "An Yuanzhang",
+      "target": "Unit 701",
+      "type": "was director of"
+    },
+    {
+      "source": "An Yuanzhang",
+      "target": "Blind Ah Bing",
+      "type": "recounted story of"
+    },
+    {
+      "source": "Unit 701",
+      "target": "Decryption Day",
+      "type": "established"
+    },
+    {
+      "source": "Author",
+      "target": "Decryption Day",
+      "type": "benefited from"
+    },
+    {
+      "source": "Unit 701",
+      "target": "Soviet radio silence",
+      "type": "faced crisis of"
+    },
+    {
+      "source": "Unit 701",
+      "target": "Listening",
+      "type": "specializes in"
+    },
+    {
+      "source": "Author",
+      "target": "Interrogation",
+      "type": "underwent"
+    },
+    {
+      "source": "Unit 701",
+      "target": "Secret",
+      "type": "operates with"
+    }
+  ],
+  "hierarchy": {
+    "main_topics": [
+      "Introduction and the Author's Encounter",
+      "Unit 701: A Special Intelligence Agency",
+      "Decryption Day and its Significance",
+      "The Story of Blind Ah Bing and Unit 701's Crisis"
+    ],
+    "structure": "The document is structured into an introduction, descriptions of Unit 701 and its operations, the significance of 'Decryption Day', and then delves into specific narratives from within Unit 701, starting with the author's personal connection and evolving into a recounting of operational events and personnel stories."
+  }
+}

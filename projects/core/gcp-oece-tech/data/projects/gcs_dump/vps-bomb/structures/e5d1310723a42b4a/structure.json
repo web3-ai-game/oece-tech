@@ -1,0 +1,101 @@
+{
+  "propositions": [
+    {
+      "id": "1",
+      "text": "Thoughts on longing and separation",
+      "level": 1
+    },
+    {
+      "id": "1.1",
+      "text": "Longing can be exhausting when it becomes overwhelming",
+      "level": 2
+    },
+    {
+      "id": "2",
+      "text": "Reflections on life",
+      "level": 1
+    },
+    {
+      "id": "2.1",
+      "text": "Life is a simple concept yet difficult to understand or master",
+      "level": 2
+    },
+    {
+      "id": "2.2",
+      "text": "Life as a journey of experiences, landscapes, and insights",
+      "level": 2
+    },
+    {
+      "id": "2.3",
+      "text": "Life does not demand greatness, only sincere engagement",
+      "level": 2
+    },
+    {
+      "id": "2.4",
+      "text": "Desire to uncover the true essence of life and personal purpose",
+      "level": 2
+    },
+    {
+      "id": "3",
+      "text": "Feelings and insights",
+      "level": 1
+    },
+    {
+      "id": "3.1",
+      "text": "Feelings are real yet intangible, profound yet inexpressible",
+      "level": 2
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Longing",
+      "frequency": 20,
+      "context": "Repeated theme of missing someone or something, often tied to emotional fatigue"
+    },
+    {
+      "name": "Life",
+      "frequency": 15,
+      "context": "Central idea explored as a journey and a concept to be understood"
+    },
+    {
+      "name": "Journey",
+      "frequency": 10,
+      "context": "Metaphor for life, involving experiences and insights"
+    },
+    {
+      "name": "Essence",
+      "frequency": 5,
+      "context": "Search for true meaning or purpose in life"
+    }
+  ],
+  "relations": [
+    {
+      "source": "Longing",
+      "target": "Emotional Fatigue",
+      "type": "causes"
+    },
+    {
+      "source": "Life",
+      "target": "Journey",
+      "type": "is_a"
+    },
+    {
+      "source": "Life",
+      "target": "Essence",
+      "type": "contains"
+    },
+    {
+      "source": "Journey",
+      "target": "Experiences",
+      "type": "part_of"
+    }
+  ],
+  "hierarchy": {
+    "main_topics": [
+      "Longing and Separation",
+      "Life and Its Meaning",
+      "Feelings and Insights"
+    ],
+    "structure": "The document is structured around repetitive reflections on longing and life, with subsections focusing on emotional states and philosophical musings."
+  }
+}

@@ -1,0 +1,242 @@
+{
+  "propositions": [
+    {
+      "id": "1",
+      "text": "A story about a transmigration and a legend of female dominance.",
+      "level": 1
+    },
+    {
+      "id": "1.1",
+      "text": "The protagonist is transported to another world.",
+      "level": 2
+    },
+    {
+      "id": "1.2",
+      "text": "The world has a matriarchal society (female dominance).",
+      "level": 2
+    },
+    {
+      "id": "2",
+      "text": "The protagonist navigates challenges and relationships in this new world.",
+      "level": 1
+    },
+    {
+      "id": "2.1",
+      "text": "She encounters various characters, including potential allies and adversaries.",
+      "level": 2
+    },
+    {
+      "id": "2.2",
+      "text": "She experiences personal growth and development.",
+      "level": 2
+    },
+    {
+      "id": "3",
+      "text": "The story likely involves elements of romance, adventure, and possibly political intrigue.",
+      "level": 1
+    },
+    {
+      "id": "3.1",
+      "text": "The matriarchal structure influences social dynamics and power structures.",
+      "level": 2
+    },
+    {
+      "id": "4",
+      "text": "The protagonist's journey is a central theme.",
+      "level": 1
+    },
+    {
+      "id": "4.1",
+      "text": "Her actions and decisions shape the narrative.",
+      "level": 2
+    },
+    {
+      "id": "5",
+      "text": "The text seems to be a chapter or excerpt from a web novel.",
+      "level": 1
+    },
+    {
+      "id": "5.1",
+      "text": "The content is narrative and descriptive, focusing on character interactions and plot progression.",
+      "level": 2
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Transmigration",
+      "frequency": 1,
+      "context": "The protagonist is transported to another world."
+    },
+    {
+      "name": "Female Dominance",
+      "frequency": 1,
+      "context": "The world has a matriarchal society."
+    },
+    {
+      "name": "Protagonist",
+      "frequency": 5,
+      "context": "The main character of the story."
+    },
+    {
+      "name": "New World",
+      "frequency": 2,
+      "context": "The setting where the protagonist is transported."
+    },
+    {
+      "name": "Characters",
+      "frequency": 2,
+      "context": "Individuals the protagonist interacts with."
+    },
+    {
+      "name": "Challenges",
+      "frequency": 1,
+      "context": "Obstacles faced by the protagonist."
+    },
+    {
+      "name": "Relationships",
+      "frequency": 1,
+      "context": "Connections formed by the protagonist."
+    },
+    {
+      "name": "Romance",
+      "frequency": 1,
+      "context": "A likely genre element involving romantic relationships."
+    },
+    {
+      "name": "Adventure",
+      "frequency": 1,
+      "context": "A likely genre element involving exciting journeys or quests."
+    },
+    {
+      "name": "Political Intrigue",
+      "frequency": 1,
+      "context": "A likely genre element involving power struggles and secrets."
+    },
+    {
+      "name": "Social Dynamics",
+      "frequency": 1,
+      "context": "How individuals and groups interact within the society."
+    },
+    {
+      "name": "Power Structures",
+      "frequency": 1,
+      "context": "The hierarchy of authority and influence in the society."
+    },
+    {
+      "name": "Personal Growth",
+      "frequency": 1,
+      "context": "The development and maturation of the protagonist."
+    },
+    {
+      "name": "Narrative",
+      "frequency": 2,
+      "context": "The unfolding of events in the story."
+    },
+    {
+      "name": "Web Novel",
+      "frequency": 1,
+      "context": "The likely format of the document."
+    },
+    {
+      "name": "Chapter",
+      "frequency": 1,
+      "context": "A section of a larger work."
+    },
+    {
+      "name": "Excerpt",
+      "frequency": 1,
+      "context": "A portion of a larger text."
+    },
+    {
+      "name": "Plot Progression",
+      "frequency": 1,
+      "context": "The advancement of the story's events."
+    },
+    {
+      "name": "Character Interactions",
+      "frequency": 1,
+      "context": "The dialogues and actions between characters."
+    },
+    {
+      "name": "Matriarchal Society",
+      "frequency": 2,
+      "context": "A society where women hold the primary power."
+    }
+  ],
+  "relations": [
+    {
+      "source": "Transmigration",
+      "target": "Protagonist",
+      "type": "involves"
+    },
+    {
+      "source": "Female Dominance",
+      "target": "New World",
+      "type": "characterizes"
+    },
+    {
+      "source": "Protagonist",
+      "target": "Challenges",
+      "type": "faces"
+    },
+    {
+      "source": "Protagonist",
+      "target": "Relationships",
+      "type": "forms"
+    },
+    {
+      "source": "Protagonist",
+      "target": "Personal Growth",
+      "type": "undergoes"
+    },
+    {
+      "source": "Matriarchal Society",
+      "target": "Social Dynamics",
+      "type": "influences"
+    },
+    {
+      "source": "Matriarchal Society",
+      "target": "Power Structures",
+      "type": "shapes"
+    },
+    {
+      "source": "Romance",
+      "target": "Protagonist",
+      "type": "may involve"
+    },
+    {
+      "source": "Adventure",
+      "target": "Protagonist",
+      "type": "may involve"
+    },
+    {
+      "source": "Narrative",
+      "target": "Plot Progression",
+      "type": "driven by"
+    },
+    {
+      "source": "Narrative",
+      "target": "Character Interactions",
+      "type": "features"
+    },
+    {
+      "source": "Web Novel",
+      "target": "Chapter",
+      "type": "consists of"
+    },
+    {
+      "source": "Chapter",
+      "target": "Excerpt",
+      "type": "is an"
+    }
+  ],
+  "hierarchy": {
+    "main_topics": [
+      "Transmigration and Female Dominance",
+      "Protagonist's Journey and Development",
+      "Worldbuilding and Societal Structures",
+      "Narrative Elements"
+    ],
+    "structure": "The document is structured around the protagonist's experience in a transmigration setting characterized by female dominance, detailing her challenges, relationships, and personal growth within this unique society."
+  }
+}

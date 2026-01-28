@@ -1,0 +1,409 @@
+{
+  "propositions": [
+    {
+      "id": "1",
+      "text": "The document explores the theme of enduring hardship with integrity, drawing parallels to ancient sages.",
+      "level": 1
+    },
+    {
+      "id": "1.1",
+      "text": "It contrasts the past with the present, noting a widening gap between the poor and the rich.",
+      "level": 2
+    },
+    {
+      "id": "1.1.1",
+      "text": "The poor are compelled to compromise their principles due to life's pressures.",
+      "level": 3
+    },
+    {
+      "id": "1.1.2",
+      "text": "The rich are driven by desires and lose sight of their true selves.",
+      "level": 3
+    },
+    {
+      "id": "1.2",
+      "text": "The author feels compelled to express these thoughts despite not being a sage.",
+      "level": 2
+    },
+    {
+      "id": "2",
+      "text": "The text discusses facing adversity with inner strength and unwavering resolve.",
+      "level": 1
+    },
+    {
+      "id": "2.1",
+      "text": "Poverty is described as a difficult situation that one should nevertheless try to accept with contentment and maintain one's original intentions.",
+      "level": 2
+    },
+    {
+      "id": "2.1.1",
+      "text": "The author recounts personal experiences of living in poverty while aspiring to govern the world.",
+      "level": 3
+    },
+    {
+      "id": "2.1.1.1",
+      "text": "This aspiration was pursued through constant study and contemplation.",
+      "level": 4
+    },
+    {
+      "id": "2.1.2",
+      "text": "The text quotes Confucius: 'The wise are not perplexed, the benevolent are not anxious, the brave are not afraid.'",
+      "level": 3
+    },
+    {
+      "id": "2.1.3",
+      "text": "The author reflects that poverty can lead to perplexity, anxiety, and fear, but aspires to emulate the qualities of the wise, benevolent, and brave.",
+      "level": 2
+    },
+    {
+      "id": "3",
+      "text": "The document addresses the relationship between aspirations and reality.",
+      "level": 1
+    },
+    {
+      "id": "3.1",
+      "text": "Ideals are presented as guiding lights, and reality as obstacles that can be overcome.",
+      "level": 2
+    },
+    {
+      "id": "3.1.1",
+      "text": "The author expresses a desire to use writing as a tool to combat injustice and darkness.",
+      "level": 3
+    },
+    {
+      "id": "3.1.1.1",
+      "text": "However, reality is harsh, and the impact of these efforts is limited.",
+      "level": 4
+    },
+    {
+      "id": "3.1.2",
+      "text": "The text quotes Qu Yuan: 'The road is long and arduous, I will seek high and low.'",
+      "level": 3
+    },
+    {
+      "id": "3.1.3",
+      "text": "The author acknowledges the difficulty of this path but expresses no regret.",
+      "level": 2
+    },
+    {
+      "id": "4",
+      "text": "The importance of friendship and deep connection is highlighted.",
+      "level": 1
+    },
+    {
+      "id": "4.1",
+      "text": "Having a true friend is considered sufficient for a lifetime.",
+      "level": 2
+    },
+    {
+      "id": "4.1.1",
+      "text": "The author describes a deep bond with a friend, even if they cannot meet often.",
+      "level": 3
+    },
+    {
+      "id": "4.1.1.1",
+      "text": "Friendship is seen as a means to cultivate virtue.",
+      "level": 4
+    },
+    {
+      "id": "4.1.2",
+      "text": "The text quotes a proverb: 'If you have a soulmate at sea, you are neighbors across the sky.'",
+      "level": 3
+    },
+    {
+      "id": "4.1.3",
+      "text": "This emphasizes the closeness of spirit despite physical distance.",
+      "level": 2
+    },
+    {
+      "id": "5",
+      "text": "The conclusion reiterates the commitment to maintaining one's principles and inner peace regardless of external circumstances.",
+      "level": 1
+    },
+    {
+      "id": "5.1",
+      "text": "The author vows to remain steadfast in their original intentions and integrity.",
+      "level": 2
+    },
+    {
+      "id": "5.1.1",
+      "text": "This commitment is to be upheld even amidst societal changes and fluctuating human sentiments.",
+      "level": 3
+    },
+    {
+      "id": "5.2",
+      "text": "The text quotes: 'When poor, cultivate your own virtue; when successful, help the world.'",
+      "level": 2
+    },
+    {
+      "id": "5.2.1",
+      "text": "This is adopted as a motto for continued self-improvement and progress.",
+      "level": 3
+    },
+    {
+      "id": "6",
+      "text": "The document includes a critique or review of a work titled '衡门之下'.",
+      "level": 1
+    },
+    {
+      "id": "6.1",
+      "text": "The work is described as portraying the struggles and resilience of ordinary people in a historical context.",
+      "level": 2
+    },
+    {
+      "id": "6.1.1",
+      "text": "It is seen as a mirror reflecting reality, revealing hidden lives.",
+      "level": 3
+    },
+    {
+      "id": "6.2",
+      "text": "The review identifies several key themes within '衡门之下'.",
+      "level": 2
+    },
+    {
+      "id": "6.2.1",
+      "text": "The theme of 'Echoes of the Era' highlights how characters' fates are tied to historical events, with ordinary dreams crushed and souls forged.",
+      "level": 3
+    },
+    {
+      "id": "6.2.2",
+      "text": "The theme of 'Wisdom of Survival' emphasizes respect for life and tenacious struggle, not cunning tactics.",
+      "level": 3
+    },
+    {
+      "id": "6.2.2.1",
+      "text": "This includes unwavering vitality, simple living, and the shining light of humanity.",
+      "level": 4
+    },
+    {
+      "id": "6.2.3",
+      "text": "The theme of 'Emotional Bonds' points to the importance of family, friendship, and love as sources of warmth and strength.",
+      "level": 3
+    },
+    {
+      "id": "6.2.3.1",
+      "text": "These emotions are likened to starlight in the dark night.",
+      "level": 4
+    },
+    {
+      "id": "6.2.4",
+      "text": "The theme of 'Historical Reflection' suggests the work prompts contemplation on history, individual fate, and future outlook.",
+      "level": 3
+    },
+    {
+      "id": "6.2.4.1",
+      "text": "This involves caring for individual destinies, reflecting on historical lessons, and looking forward with hope.",
+      "level": 4
+    },
+    {
+      "id": "6.3",
+      "text": "The review concludes that '衡门之下' is a work worth rereading, showcasing the great strength within ordinary lives and their songs of life.",
+      "level": 2
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Integrity",
+      "frequency": 3,
+      "context": "Enduring hardship with integrity, not compromising principles, maintaining self."
+    },
+    {
+      "name": "Poverty",
+      "frequency": 5,
+      "context": "Described as a difficult situation, leading to compromise, associated with perplexity, anxiety, and fear."
+    },
+    {
+      "name": "Aspiration",
+      "frequency": 4,
+      "context": "Having high ideals, aspiring to govern the world, the author's aspiration to use writing."
+    },
+    {
+      "name": "Resilience",
+      "frequency": 2,
+      "context": "Enduring hardship, tenacious struggle, unwavering vitality."
+    },
+    {
+      "name": "Reality",
+      "frequency": 3,
+      "context": "Contrasted with ideals, described as harsh, capable of being overcome."
+    },
+    {
+      "name": "Friendship",
+      "frequency": 4,
+      "context": "Deep connection, soulmate, cultivating virtue, overcoming distance."
+    },
+    {
+      "name": "Principles",
+      "frequency": 3,
+      "context": "Not changing principles, maintaining integrity, original intentions."
+    },
+    {
+      "name": "History",
+      "frequency": 3,
+      "context": "Historical context, characters' fates tied to the era, historical reflection, lessons from history."
+    },
+    {
+      "name": "Struggle",
+      "frequency": 3,
+      "context": "Struggles of ordinary people, facing adversity, life's pressures."
+    },
+    {
+      "name": "Ideals",
+      "frequency": 2,
+      "context": "Guiding lights, aspirations, the author's desires."
+    },
+    {
+      "name": "Wisdom",
+      "frequency": 2,
+      "context": "Wisdom of survival, ancient sages, wise are not perplexed."
+    },
+    {
+      "name": "Emotions",
+      "frequency": 2,
+      "context": "Emotional bonds, family, friendship, love, sources of warmth and strength."
+    }
+  ],
+  "relations": [
+    {
+      "source": "Poverty",
+      "target": "Compromise",
+      "type": "leads_to"
+    },
+    {
+      "source": "Poverty",
+      "target": "Perplexity",
+      "type": "can_cause"
+    },
+    {
+      "source": "Aspiration",
+      "target": "Ideals",
+      "type": "is_related_to"
+    },
+    {
+      "source": "Resilience",
+      "target": "Struggle",
+      "type": "is_shown_in"
+    },
+    {
+      "source": "Reality",
+      "target": "Ideals",
+      "type": "contrasts_with"
+    },
+    {
+      "source": "Friendship",
+      "target": "Emotional Bonds",
+      "type": "is_a_type_of"
+    },
+    {
+      "source": "Principles",
+      "target": "Integrity",
+      "type": "is_part_of"
+    },
+    {
+      "source": "History",
+      "target": "Characters' Fates",
+      "type": "influences"
+    },
+    {
+      "source": "Wisdom",
+      "target": "Survival",
+      "type": "related_to"
+    },
+    {
+      "source": "Author",
+      "target": "Express Thoughts",
+      "type": "action"
+    },
+    {
+      "source": "The author",
+      "target": "Ancient Sages",
+      "type": "compares_self_to"
+    },
+    {
+      "source": "The author",
+      "target": "Wide Gap between Poor and Rich",
+      "type": "observes"
+    },
+    {
+      "source": "The author",
+      "target": "Personal Experience of Poverty",
+      "type": "relates"
+    },
+    {
+      "source": "The author",
+      "target": "Using Writing as a Tool",
+      "type": "aspires_to"
+    },
+    {
+      "source": "The author",
+      "target": "No Regret",
+      "type": "expresses"
+    },
+    {
+      "source": "The author",
+      "target": "True Friend",
+      "type": "values"
+    },
+    {
+      "source": "The author",
+      "target": "Original Intentions",
+      "type": "vows_to_maintain"
+    },
+    {
+      "source": "The critique",
+      "target": "'衡门之下'",
+      "type": "analyzes"
+    },
+    {
+      "source": "'衡门之下'",
+      "target": "Ordinary People",
+      "type": "portrays"
+    },
+    {
+      "source": "'衡门之下'",
+      "target": "Historical Context",
+      "type": "is_set_in"
+    },
+    {
+      "source": "'衡门之下'",
+      "target": "Themes",
+      "type": "contains"
+    },
+    {
+      "source": "Themes",
+      "target": "Echoes of the Era",
+      "type": "includes"
+    },
+    {
+      "source": "Themes",
+      "target": "Wisdom of Survival",
+      "type": "includes"
+    },
+    {
+      "source": "Themes",
+      "target": "Emotional Bonds",
+      "type": "includes"
+    },
+    {
+      "source": "Themes",
+      "target": "Historical Reflection",
+      "type": "includes"
+    },
+    {
+      "source": "'衡门之下'",
+      "target": "Work Worth Rereading",
+      "type": "is_considered"
+    }
+  ],
+  "hierarchy": {
+    "main_topics": [
+      "Endurance and Integrity",
+      "Adversity and Inner Strength",
+      "Ideals vs. Reality",
+      "Friendship and Connection",
+      "Commitment to Principles",
+      "Analysis of '衡门之下'"
+    ],
+    "structure": "The document is structured into several sections, each addressing a distinct theme related to personal philosophy and character. It begins with overarching reflections, delves into specific challenges and their emotional and philosophical responses, and concludes with a reaffirmation of core values. The latter part of the document provides an analytical review of a work titled '衡门之下', breaking down its thematic elements."
+  }
+}

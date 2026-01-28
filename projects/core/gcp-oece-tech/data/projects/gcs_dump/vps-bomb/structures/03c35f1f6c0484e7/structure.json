@@ -1,0 +1,341 @@
+{
+  "propositions": [
+    {
+      "id": "1",
+      "text": "故事发生在中国湘西一座古老的小县城，沅水绕城南流。",
+      "level": 1
+    },
+    {
+      "id": "1.1",
+      "text": "北关的城隍庙前每月初一有庙会，其源起已不可考。",
+      "level": 2
+    },
+    {
+      "id": "2",
+      "text": "主人公皇甫小明是一名县文物管理所的文物稽查员。",
+      "level": 1
+    },
+    {
+      "id": "3",
+      "text": "主人公在庙会时从独眼萧老头那里买了一个骨质裸婴雕像。",
+      "level": 1
+    },
+    {
+      "id": "3.1",
+      "text": "雕像的婴儿右手上多了一个小手指，与主人公的六指遗传相同。",
+      "level": 2
+    },
+    {
+      "id": "4",
+      "text": "主人公的父亲皇甫哲人也是六指遗传，母亲缪金娣因难产去世。",
+      "level": 1
+    },
+    {
+      "id": "5",
+      "text": "骨质雕像被鉴定为“石化胎”，一个未出世的胎儿的真身。",
+      "level": 1
+    },
+    {
+      "id": "6",
+      "text": "主人公在医院检查发现腹腔内有一个正在发育的胎儿，而雕像恰巧放在腹部上方口袋。",
+      "level": 1
+    },
+    {
+      "id": "7",
+      "text": "独眼萧老头被发现死亡，死状狰狞，疑似与倒卖墓赃有关。",
+      "level": 1
+    },
+    {
+      "id": "8",
+      "text": "主人公前往萧老头登记的地址“烈烈排”寻找线索。",
+      "level": 1
+    },
+    {
+      "id": "9",
+      "text": "在烈烈排，主人公遇到一位阿婆，得知“烈烈排”意为老鼠多。",
+      "level": 1
+    },
+    {
+      "id": "10",
+      "text": "阿婆的丈夫吴子檀曾是地质勘探队组长，与主人公的父亲皇甫哲人是同事，且亲手埋葬了皇甫哲人。",
+      "level": 1
+    },
+    {
+      "id": "10.1",
+      "text": "照片显示，皇甫哲人当时身体健壮，并非驼背。",
+      "level": 2
+    },
+    {
+      "id": "11",
+      "text": "阿婆的丈夫吴子檀病重，濒死之际提到“帕苏姆”，即照片上的老挝巫婆。",
+      "level": 1
+    },
+    {
+      "id": "12",
+      "text": "吴子檀死于“老鼠”的袭击，脖颈有齿痕，与村子里老鼠的习性相符。",
+      "level": 1
+    },
+    {
+      "id": "13",
+      "text": "风水师岳老道认为照片上的帕苏姆目光邪恶，且皇甫哲人和吴子檀可能不得好死。",
+      "level": 1
+    },
+    {
+      "id": "14",
+      "text": "主人公从梦境中惊醒，发现裸婴雕像似乎有了眼神，且其第六指与主人公的遗传相同。",
+      "level": 1
+    },
+    {
+      "id": "15",
+      "text": "主人公的父亲皇甫哲人三十多年前在老挝因出血性疟疾去世，并被安葬。",
+      "level": 1
+    },
+    {
+      "id": "16",
+      "text": "主人公与一位风水师（岳老道）交流，后者暗示主人公身边“不干净”，并对照片中的老挝巫婆帕苏姆表示警惕。",
+      "level": 1
+    }
+  ],
+  "concepts": [
+    {
+      "name": "湘西",
+      "frequency": 12,
+      "context": "故事发生的地理背景，一座古老的小县城。"
+    },
+    {
+      "name": "六指",
+      "frequency": 15,
+      "context": "主人公皇甫小明及其父亲皇甫哲人的遗传特征，也是裸婴雕像的特征。"
+    },
+    {
+      "name": "皇甫小明",
+      "frequency": 25,
+      "context": "故事的主人公，文物稽查员，六指遗传。"
+    },
+    {
+      "name": "庙会",
+      "frequency": 4,
+      "context": "每月初一在城隍庙前举行的活动，主人公喜欢赶庙会。"
+    },
+    {
+      "name": "臭豆腐",
+      "frequency": 3,
+      "context": "庙会上的特色小吃，主人公童年记忆的一部分。"
+    },
+    {
+      "name": "独眼萧老头",
+      "frequency": 9,
+      "context": "在庙会卖古董的摊主，与盗墓贼有关系，后死亡。"
+    },
+    {
+      "name": "裸婴雕像",
+      "frequency": 19,
+      "context": "主人公在萧老头处买到的骨质雕像，后被认为是“石化胎”。"
+    },
+    {
+      "name": "石化胎",
+      "frequency": 5,
+      "context": "一种未出世的胎儿的真身，被认为是“石化胎”。"
+    },
+    {
+      "name": "皇甫哲人",
+      "frequency": 13,
+      "context": "主人公的父亲，六指遗传，三十多年前在老挝去世。"
+    },
+    {
+      "name": "缪金娣",
+      "frequency": 1,
+      "context": "主人公的母亲，下江人，因难产去世。"
+    },
+    {
+      "name": "烈烈排",
+      "frequency": 8,
+      "context": "吴子檀的老家，苗族土语意为“老鼠坪”。"
+    },
+    {
+      "name": "吴子檀",
+      "frequency": 15,
+      "context": "阿婆的丈夫，勘探队组长，与皇甫哲人是同事，后病重死亡。"
+    },
+    {
+      "name": "帕苏姆",
+      "frequency": 4,
+      "context": "老挝的巫婆，出现在皇甫哲人下葬的场景和照片中。"
+    },
+    {
+      "name": "老鼠",
+      "frequency": 5,
+      "context": "烈烈排的特产，被认为是导致吴子檀死亡的原因。"
+    },
+    {
+      "name": "猫头鹰",
+      "frequency": 4,
+      "context": "出现在烈烈排的坟地，被认为是捉鼠的。"
+    },
+    {
+      "name": "风水师",
+      "frequency": 7,
+      "context": "岳老道，对主人公进行指点，被认为是“相宅的”。"
+    },
+    {
+      "name": "照片",
+      "frequency": 7,
+      "context": "皇甫哲人、吴子檀和帕苏姆的合影，是解开谜团的关键线索。"
+    }
+  ],
+  "relations": [
+    {
+      "source": "湘西",
+      "target": "古老的小县城",
+      "type": "is_a"
+    },
+    {
+      "source": "皇甫小明",
+      "target": "文物稽查员",
+      "type": "is_a"
+    },
+    {
+      "source": "皇甫小明",
+      "target": "六指",
+      "type": "has_genetic_trait"
+    },
+    {
+      "source": "皇甫哲人",
+      "target": "六指",
+      "type": "has_genetic_trait"
+    },
+    {
+      "source": "裸婴雕像",
+      "target": "六指",
+      "type": "has_feature"
+    },
+    {
+      "source": "皇甫小明",
+      "target": "皇甫哲人",
+      "type": "is_son_of"
+    },
+    {
+      "source": "皇甫哲人",
+      "target": "缪金娣",
+      "type": "is_husband_of"
+    },
+    {
+      "source": "独眼萧老头",
+      "target": "倒卖假古董",
+      "type": "is_a"
+    },
+    {
+      "source": "独眼萧老头",
+      "target": "死亡",
+      "type": "undergoes"
+    },
+    {
+      "source": "裸婴雕像",
+      "target": "石化胎",
+      "type": "is_a"
+    },
+    {
+      "source": "石化胎",
+      "target": "真身",
+      "type": "is_a"
+    },
+    {
+      "source": "皇甫小明",
+      "target": "腹腔内胎儿",
+      "type": "has_within"
+    },
+    {
+      "source": "吴子檀",
+      "target": "皇甫哲人",
+      "type": "is_colleague_of"
+    },
+    {
+      "source": "吴子檀",
+      "target": "埋葬皇甫哲人",
+      "type": "performed"
+    },
+    {
+      "source": "吴子檀",
+      "target": "死亡",
+      "type": "undergoes"
+    },
+    {
+      "source": "老鼠",
+      "target": "吴子檀的死亡",
+      "type": "causes"
+    },
+    {
+      "source": "帕苏姆",
+      "target": "巫婆",
+      "type": "is_a"
+    },
+    {
+      "source": "帕苏姆",
+      "target": "邪恶",
+      "type": "has_quality"
+    },
+    {
+      "source": "照片",
+      "target": "帕苏姆",
+      "type": "depicts"
+    },
+    {
+      "source": "照片",
+      "target": "皇甫哲人",
+      "type": "depicts"
+    },
+    {
+      "source": "照片",
+      "target": "吴子檀",
+      "type": "depicts"
+    },
+    {
+      "source": "岳老道",
+      "target": "风水师",
+      "type": "is_a"
+    },
+    {
+      "source": "岳老道",
+      "target": "指点迷津",
+      "type": "performs"
+    },
+    {
+      "source": "裸婴雕像",
+      "target": "眼神",
+      "type": "appears_to_have"
+    },
+    {
+      "source": "皇甫哲人",
+      "target": "疟疾",
+      "type": "succumbs_to"
+    },
+    {
+      "source": "皇甫哲人",
+      "target": "死亡",
+      "type": "undergoes"
+    },
+    {
+      "source": "皇甫小明",
+      "target": "父亲",
+      "type": "has_parent"
+    },
+    {
+      "source": "父亲",
+      "target": "驼背",
+      "type": "has_feature"
+    },
+    {
+      "source": "皇甫哲人",
+      "target": "健壮",
+      "type": "has_quality"
+    }
+  ],
+  "hierarchy": {
+    "main_topics": [
+      "The Mystery of the Six-Fingered Infant Statue",
+      "Family Secrets and Identity",
+      "Supernatural and Unexplained Phenomena in Xiangxi"
+    ],
+    "structure": "The document follows a linear narrative structure, beginning with an introduction to the setting and protagonist, then introducing a mysterious object that drives the plot forward. The narrative progresses through investigations, revelations, and encounters with enigmatic characters, building towards a resolution of the central mystery. It can be broadly divided into chapters that represent stages of the investigation and discovery."
+  }
+}

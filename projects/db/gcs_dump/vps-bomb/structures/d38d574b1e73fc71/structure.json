@@ -1,0 +1,288 @@
+{
+  "propositions": [
+    {
+      "id": "1",
+      "text": "This document is a narrative exploring the concept of '解体' (dismantling/dissection) through various perspectives, primarily focusing on crime and human psychology.",
+      "level": 1
+    },
+    {
+      "id": "1.1",
+      "text": "The narrative begins with a writer being invited to give a lecture on the 'source of dismantling' to the police.",
+      "level": 2
+    },
+    {
+      "id": "1.2",
+      "text": "The writer defines '解体之因' as the benefits derived from dismemberment, which are not understandable to ordinary people.",
+      "level": 2
+    },
+    {
+      "id": "1.3",
+      "text": "The writer's interest in dismemberment stems from his reading of crime novels, particularly those involving dismemberment cases.",
+      "level": 2
+    },
+    {
+      "id": "1.4",
+      "text": "The writer is deeply influenced by the novel '解体诸因' by Nisizawa Yasuhiko, which presents dismantling stories with a humorous and witty tone.",
+      "level": 2
+    },
+    {
+      "id": "1.5",
+      "text": "The narrative then transitions into a fictionalized case study presented as a film, featuring characters Yuusuke and Yoshiko.",
+      "level": 2
+    },
+    {
+      "id": "1.6",
+      "text": "This case involves the dismemberment of a man named Tsuchiya Kiyoshi, with peculiar details such as dismemberment according to pi and removal of internal organs.",
+      "level": 2
+    },
+    {
+      "id": "1.7",
+      "text": "Yoshiko, through her deduction, proposes a radical explanation: the dog, perceived as a friend by Tsuchiya Masaki, caused Tsuchiya Kiyoshi's death due to his fear of dogs, and Masaki dismembered the body to protect his dog.",
+      "level": 2
+    },
+    {
+      "id": "1.8",
+      "text": "The narrative shifts again to a new chapter, '解体人格(2)', introducing characters Su Mengxiao and Cheng Xi, and posing a philosophical question about numbers.",
+      "level": 2
+    },
+    {
+      "id": "1.9",
+      "text": "The document discusses the concept of '解体' in the context of dismemberment and its underlying motivations.",
+      "level": 1
+    },
+    {
+      "id": "1.10",
+      "text": "The narrative explores the psychological aspects of dismemberment, suggesting it can be driven by hatred, a desire for a specific outcome, or even a warped sense of protection.",
+      "level": 2
+    },
+    {
+      "id": "1.11",
+      "text": "The document highlights the importance of logic and reasoning in solving mysteries, especially those involving unusual dismemberment methods.",
+      "level": 1
+    },
+    {
+      "id": "1.12",
+      "text": "The concept of '解体' is also extended to personality and human behavior.",
+      "level": 2
+    },
+    {
+      "id": "1.13",
+      "text": "The story of Tsuchiya Masaki and the dog serves as an example of how extreme actions can be motivated by a desire to protect loved ones, even if those loved ones are animals.",
+      "level": 3
+    },
+    {
+      "id": "1.14",
+      "text": "The philosophical question posed by Su Mengxiao at the end suggests a deeper exploration of patterns and distinctions in the abstract.",
+      "level": 2
+    }
+  ],
+  "concepts": [
+    {
+      "name": "解体 (Dismantling/Dissection)",
+      "frequency": 25,
+      "context": "The central theme of the document, explored in the context of crime, physical dismemberment, and psychological breakdown."
+    },
+    {
+      "name": "解体之源 (Source of Dismantling)",
+      "frequency": 2,
+      "context": "The title of the work and the initial lecture topic, referring to the origins or reasons behind dismemberment."
+    },
+    {
+      "name": "解体之因 (Reason for Dismantling)",
+      "frequency": 4,
+      "context": "The specific motivations or benefits that drive the act of dismemberment, a key focus for the police and the narrator."
+    },
+    {
+      "name": "分尸 (Dismemberment/Body Dismantling)",
+      "frequency": 17,
+      "context": "A specific type of '解体' that is frequently discussed and forms the basis of the crime narratives."
+    },
+    {
+      "name": "逻辑 (Logic)",
+      "frequency": 5,
+      "context": "Emphasized as a tool for deduction and understanding complex motivations behind crimes."
+    },
+    {
+      "name": "推理 (Deduction/Reasoning)",
+      "frequency": 7,
+      "context": "The process of using logic to solve mysteries, central to the narrator's profession and the discussions in the document."
+    },
+    {
+      "name": "案件 (Case)",
+      "frequency": 10,
+      "context": "Refers to the crime cases, particularly dismemberment cases, that are analyzed in the document."
+    },
+    {
+      "name": "动机 (Motive)",
+      "frequency": 4,
+      "context": "The driving force behind criminal actions, especially the 'why' behind dismemberment."
+    },
+    {
+      "name": "小说 (Novel/Fiction)",
+      "frequency": 6,
+      "context": "The genre the narrator writes in and a source of inspiration and reference for understanding crime."
+    },
+    {
+      "name": "心理 (Psychology)",
+      "frequency": 3,
+      "context": "The underlying mental states and motivations of individuals involved in the dismemberment cases."
+    },
+    {
+      "name": "变态 (Pervert/Aberrant)",
+      "frequency": 4,
+      "context": "A descriptor for individuals who engage in extreme or unusual behaviors, often associated with dismemberment."
+    },
+    {
+      "name": "朋友 (Friend)",
+      "frequency": 5,
+      "context": "Plays a crucial role in the case of Tsuchiya Masaki, highlighting the unconventional nature of friendship and loyalty."
+    },
+    {
+      "name": "圆周率 (Pi)",
+      "frequency": 4,
+      "context": "A peculiar detail in the dismemberment case, suggesting a symbolic or deliberate method."
+    },
+    {
+      "name": "内脏 (Internal Organs)",
+      "frequency": 3,
+      "context": "Another unusual element in the dismemberment case, indicating extreme actions beyond simple dismemberment."
+    },
+    {
+      "name": "心脏病 (Heart Disease)",
+      "frequency": 4,
+      "context": "A medical condition that becomes a central element in Yoshiko's deduction of Tsuchiya Kiyoshi's death."
+    },
+    {
+      "name": "狗 (Dog)",
+      "frequency": 6,
+      "context": "A significant 'friend' to Tsuchiya Masaki, whose perceived role in the crime is central to Yoshiko's theory."
+    },
+    {
+      "name": "数字 (Number)",
+      "frequency": 4,
+      "context": "Introduced at the end, hinting at a shift towards more abstract or philosophical themes."
+    }
+  ],
+  "relations": [
+    {
+      "source": "解体之源",
+      "target": "分尸",
+      "type": "includes"
+    },
+    {
+      "source": "解体之源",
+      "target": "逻辑",
+      "type": "requires"
+    },
+    {
+      "source": "解体之因",
+      "target": "动机",
+      "type": "is_a_type_of"
+    },
+    {
+      "source": "分尸",
+      "target": "变态",
+      "type": "can_be_driven_by"
+    },
+    {
+      "source": "分尸",
+      "target": "逻辑",
+      "type": "can_be_analyzed_by"
+    },
+    {
+      "source": "推理",
+      "target": "逻辑",
+      "type": "is_based_on"
+    },
+    {
+      "source": "案件",
+      "target": "分尸",
+      "type": "often_involves"
+    },
+    {
+      "source": "小说",
+      "target": "推理",
+      "type": "provides_examples_of"
+    },
+    {
+      "source": "圆周率",
+      "target": "分尸",
+      "type": "method_of"
+    },
+    {
+      "source": "内脏",
+      "target": "分尸",
+      "type": "removed_during"
+    },
+    {
+      "source": "心脏病",
+      "target": "死亡",
+      "type": "can_cause"
+    },
+    {
+      "source": "朋友",
+      "target": "保护",
+      "type": "motivates"
+    },
+    {
+      "source": "狗",
+      "target": "朋友",
+      "type": "can_be_a"
+    },
+    {
+      "source": "土屋正树",
+      "target": "狗",
+      "type": "cares_for"
+    },
+    {
+      "source": "土屋正树",
+      "target": "分尸",
+      "type": "performed"
+    },
+    {
+      "source": "土屋清",
+      "target": "心脏病",
+      "type": "had"
+    },
+    {
+      "source": "土屋清",
+      "target": "狗",
+      "type": "feared"
+    },
+    {
+      "source": "土屋清",
+      "target": "死亡",
+      "type": "experienced"
+    },
+    {
+      "source": "佳子",
+      "target": "推理",
+      "type": "excels_at"
+    },
+    {
+      "source": "佑辅",
+      "target": "小说",
+      "type": "writes"
+    },
+    {
+      "source": "佑辅",
+      "target": "逻辑",
+      "type": "values"
+    },
+    {
+      "source": "数字",
+      "target": "区别",
+      "type": "can_be_analyzed_for"
+    }
+  ],
+  "hierarchy": {
+    "main_topics": [
+      "The Nature of Dismantling (解体)",
+      "Psychological Motivations Behind Dismantling",
+      "The Role of Logic and Deduction in Crime Solving",
+      "Case Studies of Dismemberment",
+      "Philosophical Exploration of Abstract Concepts"
+    ],
+    "structure": "The document begins with a meta-narrative of a writer lecturing on the concept of '解体,' then delves into a fictional crime case study illustrating the concept, and concludes with a philosophical inquiry that broadens the scope of '解体' to abstract ideas. It alternates between narrative and analytical discussions."
+  }
+}

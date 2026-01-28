@@ -1,0 +1,56 @@
+# =====================================================
+# 🌐 Gemini路由器Docker镜像
+# 轻量级Python环境
+# =====================================================
+
+FROM python:3.11-alpine
+
+# 设置工作目录
+WORKDIR /app
+
+# 安装系统依赖
+RUN apk add --no-cache \
+    gcc \
+    musl-dev \
+    libffi-dev \
+    openssl-dev \
+    && rm -rf /var/cache/apk/*
+
+# 创建requirements
+RUN echo "aiohttp==3.9.1" > requirements.txt && \
+    echo "redis==5.0.1" >> requirements.txt && \
+    echo "python-dotenv==1.0.0" >> requirements.txt && \
+    echo "prometheus-client==0.19.0" >> requirements.txt
+
+# 安装Python依赖
+RUN pip install --no-cache-dir -r requirements.txt && \
+    pip cache purge
+
+# 复制路由器代码
+COPY gemini_router.py .
+
+# 安装Doppler
+RUN apk add --no-cache curl && \
+    curl -Ls --tlsv1.2 --proto "=https" --retry 3 https://cli.doppler.com/install.sh | sh && \
+    apk del curl
+
+# 创建非root用户
+RUN addgroup -g 1000 router && \
+    adduser -D -u 1000 -G router router && \
+    chown -R router:router /app
+
+USER router
+
+# 环境变量
+ENV PYTHONUNBUFFERED=1 \
+    PYTHONDONTWRITEBYTECODE=1
+
+# 健康检查
+HEALTHCHECK --interval=30s --timeout=5s --retries=3 \
+    CMD python -c "import aiohttp; import sys; sys.exit(0)"
+
+# 暴露Prometheus指标端口
+EXPOSE 8000
+
+# 启动命令
+CMD ["python", "-u", "gemini_router.py"]

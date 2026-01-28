@@ -1,0 +1,183 @@
+{
+  "propositions": [
+    {
+      "id": "1",
+      "text": "Protagonist is transported to a foreign world through mysterious forces",
+      "level": 1
+    },
+    {
+      "id": "1.1",
+      "text": "Protagonist awakens in a desolate area with no memory and physical weakness",
+      "level": 2
+    },
+    {
+      "id": "1.2",
+      "text": "Protagonist encounters danger in the form of distant roars",
+      "level": 2
+    },
+    {
+      "id": "2",
+      "text": "Protagonist meets Qianxue, a mysterious mage, during escape",
+      "level": 1
+    },
+    {
+      "id": "2.1",
+      "text": "Qianxue saves protagonist and warns of dangers in the Demon Realm",
+      "level": 2
+    },
+    {
+      "id": "3",
+      "text": "Protagonist and Qianxue face multiple dangers in the Demon Realm",
+      "level": 1
+    },
+    {
+      "id": "3.1",
+      "text": "They survive a beast attack and enter a forbidden area",
+      "level": 2
+    },
+    {
+      "id": "4",
+      "text": "Protagonist uncovers fragments of past memories in a forbidden area",
+      "level": 1
+    },
+    {
+      "id": "4.1",
+      "text": "Memories suggest a deep connection to the Demon Realm and Qianxue",
+      "level": 2
+    },
+    {
+      "id": "5",
+      "text": "Protagonist and Qianxue escape the forbidden area but face new threats",
+      "level": 1
+    },
+    {
+      "id": "5.1",
+      "text": "Qianxue is injured; protagonist awakens hidden power",
+      "level": 2
+    },
+    {
+      "id": "6",
+      "text": "Protagonist finds temporary refuge at Ye Manor",
+      "level": 1
+    },
+    {
+      "id": "6.1",
+      "text": "Manor is filled with intrigue and hidden tensions",
+      "level": 2
+    },
+    {
+      "id": "7",
+      "text": "Protagonist begins to understand and awaken inner power at Ye Manor",
+      "level": 1
+    },
+    {
+      "id": "7.1",
+      "text": "Power is both a gift and a curse, requiring control",
+      "level": 2
+    },
+    {
+      "id": "8",
+      "text": "A conspiracy targeting the protagonist emerges at Ye Manor",
+      "level": 1
+    },
+    {
+      "id": "8.1",
+      "text": "Tensions between Qianxue and the Manor Lord surface",
+      "level": 2
+    },
+    {
+      "id": "9",
+      "text": "Betrayal and separation occur as trust collapses",
+      "level": 1
+    },
+    {
+      "id": "9.1",
+      "text": "Protagonist and Qianxue are forced apart after an attack",
+      "level": 2
+    },
+    {
+      "id": "10",
+      "text": "Protagonist faces challenges alone after losing Qianxue's protection",
+      "level": 1
+    },
+    {
+      "id": "10.1",
+      "text": "New allies and enemies emerge; more memories are triggered",
+      "level": 2
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Protagonist",
+      "frequency": 10,
+      "context": "Central character experiencing memory loss and power awakening"
+    },
+    {
+      "name": "Qianxue",
+      "frequency": 9,
+      "context": "Mysterious mage aiding protagonist, holds secrets"
+    },
+    {
+      "name": "Demon Realm",
+      "frequency": 5,
+      "context": "Dangerous setting filled with threats"
+    },
+    {
+      "name": "Ye Manor",
+      "frequency": 4,
+      "context": "Temporary refuge with hidden intrigues"
+    },
+    {
+      "name": "Hidden Power",
+      "frequency": 4,
+      "context": "Uncontrolled force within protagonist"
+    },
+    {
+      "name": "Conspiracy",
+      "frequency": 3,
+      "context": "Plot against protagonist involving multiple parties"
+    }
+  ],
+  "relations": [
+    {
+      "source": "Protagonist",
+      "target": "Qianxue",
+      "type": "allied_with"
+    },
+    {
+      "source": "Protagonist",
+      "target": "Demon Realm",
+      "type": "connected_to"
+    },
+    {
+      "source": "Protagonist",
+      "target": "Hidden Power",
+      "type": "possesses"
+    },
+    {
+      "source": "Qianxue",
+      "target": "Ye Manor",
+      "type": "has_history_with"
+    },
+    {
+      "source": "Ye Manor",
+      "target": "Conspiracy",
+      "type": "harbors"
+    },
+    {
+      "source": "Demon Realm",
+      "target": "Hidden Power",
+      "type": "origin_of"
+    }
+  ],
+  "hierarchy": {
+    "main_topics": [
+      "Protagonist's Journey",
+      "Demon Realm Challenges",
+      "Ye Manor Intrigues",
+      "Power Awakening",
+      "Conspiracy and Betrayal"
+    ],
+    "structure": "Linear narrative following protagonist's journey through danger, refuge, and self-discovery across multiple chapters"
+  }
+}

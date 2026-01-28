@@ -1,0 +1,491 @@
+{
+  "propositions": [
+    {
+      "id": "1",
+      "text": "The narrator is haunted by the death of Wang Quansheng, especially the fact that Wang Quansheng's corpse did not decay and appeared at the entrance of Nangong.",
+      "level": 1
+    },
+    {
+      "id": "1.1",
+      "text": "Wang Quansheng's death occurred in the narrator's room, and the narrator disposed of the body using a tricycle.",
+      "level": 2
+    },
+    {
+      "id": "1.2",
+      "text": "The narrator fears the police will investigate the circumstances of Wang Quansheng's death and implicate him.",
+      "level": 2
+    },
+    {
+      "id": "2",
+      "text": "The narrator experiences recurring nightmares and sleep disturbances after returning from the Guangchuan Royal Tomb.",
+      "level": 1
+    },
+    {
+      "id": "3",
+      "text": "The narrator wakes up to find a figure squatting in the corner of his room.",
+      "level": 1
+    },
+    {
+      "id": "3.1",
+      "text": "The figure turns out to be Wang Quansheng, appearing as a corpse with a distorted neck and long fingernails.",
+      "level": 2
+    },
+    {
+      "id": "3.2",
+      "text": "The narrator experiences a terrifying encounter and attempts to escape.",
+      "level": 2
+    },
+    {
+      "id": "4",
+      "text": "The narrator realizes the encounter was a nightmare, but the fear and anxiety persist.",
+      "level": 1
+    },
+    {
+      "id": "4.1",
+      "text": "The narrator finds his blanket soaked in sweat.",
+      "level": 2
+    },
+    {
+      "id": "5",
+      "text": "Upon waking again, the narrator sees a figure in the corner, which turns out to be his companion, 'Shaoye'.",
+      "level": 1
+    },
+    {
+      "id": "5.1",
+      "text": "Shaoye explains he was in the room to catch mice.",
+      "level": 2
+    },
+    {
+      "id": "5.2",
+      "text": "The narrator recounts his nightmare about Wang Quansheng to Shaoye.",
+      "level": 2
+    },
+    {
+      "id": "6",
+      "text": "The narrator and Shaoye join other companions for breakfast.",
+      "level": 1
+    },
+    {
+      "id": "6.1",
+      "text": "They learn that the treasures they recovered from the Guangchuan Royal Tomb are now in police custody.",
+      "level": 2
+    },
+    {
+      "id": "7",
+      "text": "Huang Zhihua, a police official, urgently approaches the narrator and his companions.",
+      "level": 1
+    },
+    {
+      "id": "7.1",
+      "text": "Huang Zhihua informs them that Wang Quansheng's corpse has gone missing from the morgue.",
+      "level": 2
+    },
+    {
+      "id": "7.2",
+      "text": "This news intensifies the narrator's fear and anxiety, linking it to his nightmares.",
+      "level": 2
+    },
+    {
+      "id": "8",
+      "text": "Huang Zhihua reveals that a murder has occurred at the guesthouse owned by Shaoye's family, and Wang Quansheng's corpse was found at the crime scene.",
+      "level": 1
+    },
+    {
+      "id": "8.1",
+      "text": "The narrator deduces that Wang Quansheng might have gone to the guesthouse to confront him.",
+      "level": 2
+    },
+    {
+      "id": "9",
+      "text": "The narrator, Shaoye, and Yatou accompany Huang Zhihua to the guesthouse.",
+      "level": 1
+    },
+    {
+      "id": "9.1",
+      "text": "The guesthouse room where Wang Quansheng died previously is now the scene of a new murder.",
+      "level": 2
+    },
+    {
+      "id": "9.2",
+      "text": "The new victim's death is described as peculiar, with a smile on his face and bruises on his neck, resembling the death of another acquaintance, Dan Jun.",
+      "level": 2
+    },
+    {
+      "id": "10",
+      "text": "Huang Zhihua examines Wang Quansheng's corpse and notes it doesn't appear fresh.",
+      "level": 1
+    },
+    {
+      "id": "10.1",
+      "text": "The narrator internally curses the police for not handling the case of Wang Quansheng's corpse properly.",
+      "level": 2
+    },
+    {
+      "id": "11",
+      "text": "The investigation at the crime scene yields no signs of forced entry.",
+      "level": 1
+    },
+    {
+      "id": "12",
+      "text": "Huang Zhihua convenes a meeting with the narrator, Shaoye, and Yatou.",
+      "level": 1
+    },
+    {
+      "id": "12.1",
+      "text": "Huang Zhihua asks about Wang Quansheng's prior visit to Taiyuan and his interaction with them.",
+      "level": 2
+    },
+    {
+      "id": "12.2",
+      "text": "An old man, referred to as 'Nanpazi', states that Wang Quansheng has been dead for at least six months and that the recently deceased victim was a local.",
+      "level": 2
+    },
+    {
+      "id": "13",
+      "text": "The old man reveals that 'Zhong Shi' (Middle Corpse) has come alive.",
+      "level": 1
+    },
+    {
+      "id": "13.1",
+      "text": "This statement causes the narrator to fall off his chair in shock.",
+      "level": 2
+    },
+    {
+      "id": "14",
+      "text": "The narrator confesses to disposing of Wang Quansheng's body six months prior, admitting to buying bronze artifacts from him.",
+      "level": 1
+    },
+    {
+      "id": "15",
+      "text": "Huang Zhihua proposes that the narrator, Shaoye, and Yatou assist in the investigation.",
+      "level": 1
+    },
+    {
+      "id": "15.1",
+      "text": "Huang Zhihua offers the narrator leniency in exchange for their cooperation.",
+      "level": 2
+    },
+    {
+      "id": "15.2",
+      "text": "Yatou and Shaoye agree to cooperate.",
+      "level": 2
+    },
+    {
+      "id": "16",
+      "text": "The narrator reflects on the curse of the dragon coffin and the phenomenon of corpses exhibiting 'Shi Bian' (corpse transformation).",
+      "level": 1
+    },
+    {
+      "id": "16.1",
+      "text": "He considers the activation of 'Zhong Shi' and 'Xia Shi' (Lower Corpse).",
+      "level": 2
+    },
+    {
+      "id": "17",
+      "text": "The old man suggests that the newly deceased victim's body must be cremated quickly to prevent further issues.",
+      "level": 1
+    },
+    {
+      "id": "17.1",
+      "text": "He also proposes a plan to deal with Wang Quansheng's corpse.",
+      "level": 2
+    },
+    {
+      "id": "18",
+      "text": "The narrator, Shaoye, and Yatou discuss their predicament.",
+      "level": 1
+    },
+    {
+      "id": "19",
+      "text": "The old man visits the narrator's room and hints at a connection to the 'Dragon Coffin' in the Yellow River.",
+      "level": 1
+    },
+    {
+      "id": "19.1",
+      "text": "He proposes that the narrator must go to the 'Wind Eye of Yingkunlun' to find 'Jinlou Sunu' to break the curse.",
+      "level": 2
+    },
+    {
+      "id": "19.2",
+      "text": "The old man suggests that treasure might be found there, offering the narrator a chance to keep some of it.",
+      "level": 2
+    },
+    {
+      "id": "19.3",
+      "text": "Yatou agrees to accompany the narrator to Yingkunlun.",
+      "level": 2
+    },
+    {
+      "id": "19.4",
+      "text": "The old man gives Yatou a 'Xiangsi Jade Bracelet' as a gift.",
+      "level": 2
+    },
+    {
+      "id": "20",
+      "text": "Hu Lai, the old man's apprentice, rushes in with news of an emergency involving a 'God of Wealth' that nearly injured 'Uncle Luo'.",
+      "level": 1
+    },
+    {
+      "id": "20.1",
+      "text": "The narrator realizes 'God of Wealth' refers to a zombie, and Hu Lai reveals it is Wang Quansheng.",
+      "level": 2
+    },
+    {
+      "id": "20.2",
+      "text": "The old man is angry, blaming the narrator for the situation with Wang Quansheng's corpse retaining a soul and spirit, which could lead to it becoming a ghost if cremated.",
+      "level": 2
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Wang Quansheng",
+      "frequency": 19,
+      "context": "The deceased individual whose corpse is central to the plot, appearing as a disturbing figure and a source of fear and mystery."
+    },
+    {
+      "name": "Narrator (Xu Sanqing)",
+      "frequency": 17,
+      "context": "The protagonist, recounting the events and experiencing nightmares and fear related to Wang Quansheng's death and the supernatural occurrences."
+    },
+    {
+      "name": "Shaoye",
+      "frequency": 14,
+      "context": "The narrator's companion, who provides support and humor, and is involved in the unfolding mystery."
+    },
+    {
+      "name": "Yatou",
+      "frequency": 12,
+      "context": "A female companion who is also involved in the investigation and shows loyalty to the narrator."
+    },
+    {
+      "name": "Huang Zhihua",
+      "frequency": 10,
+      "context": "A police official investigating the cases, who enlists the narrator and his friends for help."
+    },
+    {
+      "name": "Old Man (Nanpazi)",
+      "frequency": 16,
+      "context": "A mysterious elder, likely an archaeologist or grave robber, who possesses knowledge of ancient lore and supernatural phenomena."
+    },
+    {
+      "name": "Dragon Coffin",
+      "frequency": 7,
+      "context": "A significant artifact associated with a curse that affects those who come into contact with it."
+    },
+    {
+      "name": "Guangchuan Royal Tomb",
+      "frequency": 5,
+      "context": "A location the characters visited, from which they recovered artifacts and which seems connected to the supernatural events."
+    },
+    {
+      "name": "Corpse Transformation (Shi Bian)",
+      "frequency": 4,
+      "context": "The phenomenon where a dead body exhibits unnatural movement or behavior, a recurring theme."
+    },
+    {
+      "name": "Zhong Shi (Middle Corpse)",
+      "frequency": 3,
+      "context": "A supernatural state of a corpse, seemingly activated in Wang Quansheng's case."
+    },
+    {
+      "name": "Yingkunlun",
+      "frequency": 4,
+      "context": "A location mentioned as a potential place to find a solution to the Dragon Coffin curse."
+    },
+    {
+      "name": "Jinlou Sunu",
+      "frequency": 2,
+      "context": "A legendary entity or object believed to be buried in Yingkunlun, potentially key to breaking the curse."
+    },
+    {
+      "name": "Hu Lai",
+      "frequency": 3,
+      "context": "The old man's apprentice, who brings urgent news."
+    },
+    {
+      "name": "Uncle Luo",
+      "frequency": 2,
+      "context": "A person mentioned in relation to an incident with a zombie."
+    },
+    {
+      "name": "Zombie",
+      "frequency": 4,
+      "context": "Referred to as 'God of Wealth' and 'Cai Shen', a reanimated corpse."
+    },
+    {
+      "name": "Ghost",
+      "frequency": 2,
+      "context": "A potential outcome for Wang Quansheng's soul if his corpse is mishandled."
+    },
+    {
+      "name": "Bronze Artifacts",
+      "frequency": 2,
+      "context": "Items purchased from Wang Quansheng, linking the narrator to him."
+    },
+    {
+      "name": "Guesthouse",
+      "frequency": 3,
+      "context": "A location owned by Shaoye's family, where a murder occurs."
+    },
+    {
+      "name": "Dan Jun",
+      "frequency": 1,
+      "context": "An acquaintance whose death is compared to the new victim's death."
+    },
+    {
+      "name": "Xiangsi Jade Bracelet",
+      "frequency": 1,
+      "context": "A gift from the old man to Yatou, described as valuable."
+    },
+    {
+      "name": "Liu Qu",
+      "frequency": 1,
+      "context": "The previous owner of the Guangchuan Royal Tomb, whose epitaph is mentioned."
+    },
+    {
+      "name": "Three Emperors and Five Emperors",
+      "frequency": 1,
+      "context": "Ancient Chinese mythological figures, mentioned in relation to 'Jinlou Sunu'."
+    }
+  ],
+  "relations": [
+    {
+      "source": "Wang Quansheng",
+      "target": "Narrator",
+      "type": "fear_of"
+    },
+    {
+      "source": "Wang Quansheng",
+      "target": "Corpse Transformation",
+      "type": "undergoes"
+    },
+    {
+      "source": "Narrator",
+      "target": "Guangchuan Royal Tomb",
+      "type": "visited"
+    },
+    {
+      "source": "Narrator",
+      "target": "Dragon Coffin",
+      "type": "affected_by"
+    },
+    {
+      "source": "Narrator",
+      "target": "Shaoye",
+      "type": "companion"
+    },
+    {
+      "source": "Narrator",
+      "target": "Yatou",
+      "type": "companion"
+    },
+    {
+      "source": "Narrator",
+      "target": "Huang Zhihua",
+      "type": "assisted_by"
+    },
+    {
+      "source": "Narrator",
+      "target": "Old Man (Nanpazi)",
+      "type": "guided_by"
+    },
+    {
+      "source": "Shaoye",
+      "target": "Guesthouse",
+      "type": "owner_of"
+    },
+    {
+      "source": "Huang Zhihua",
+      "target": "Police",
+      "type": "member_of"
+    },
+    {
+      "source": "Old Man (Nanpazi)",
+      "target": "Yingkunlun",
+      "type": "plans_to_go_to"
+    },
+    {
+      "source": "Old Man (Nanpazi)",
+      "target": "Jinlou Sunu",
+      "type": "seeks"
+    },
+    {
+      "source": "Old Man (Nanpazi)",
+      "target": "Zombie",
+      "type": "identifies"
+    },
+    {
+      "source": "Dragon Coffin",
+      "target": "Curse",
+      "type": "causes"
+    },
+    {
+      "source": "Corpse Transformation",
+      "target": "Wang Quansheng",
+      "type": "affects"
+    },
+    {
+      "source": "Corpse Transformation",
+      "target": "Zombie",
+      "type": "related_to"
+    },
+    {
+      "source": "Zombie",
+      "target": "Wang Quansheng",
+      "type": "is"
+    },
+    {
+      "source": "Zombie",
+      "target": "Hu Lai",
+      "type": "involved_with"
+    },
+    {
+      "source": "Yingkunlun",
+      "target": "Jinlou Sunu",
+      "type": "location_of"
+    },
+    {
+      "source": "Yingkunlun",
+      "target": "Narrator",
+      "type": "tasked_to_explore"
+    },
+    {
+      "source": "Yingkunlun",
+      "target": "Shaoye",
+      "type": "tasked_to_explore"
+    },
+    {
+      "source": "Yingkunlun",
+      "target": "Yatou",
+      "type": "tasked_to_explore"
+    },
+    {
+      "source": "Guesthouse",
+      "target": "Murder",
+      "type": "scene_of"
+    },
+    {
+      "source": "Xiangsi Jade Bracelet",
+      "target": "Yatou",
+      "type": "gifted_to"
+    },
+    {
+      "source": "Liu Qu",
+      "target": "Guangchuan Royal Tomb",
+      "type": "built"
+    },
+    {
+      "source": "Three Emperors and Five Emperors",
+      "target": "Jinlou Sunu",
+      "type": "possibly_related_to"
+    }
+  ],
+  "hierarchy": {
+    "main_topics": [
+      "Supernatural Events and Fear",
+      "Investigation and Mystery",
+      "Ancient Lore and Curses"
+    ],
+    "structure": "The document follows a chronological narrative, beginning with the protagonist's nightmares and anxieties, escalating to the discovery of a murder and the disappearance of a corpse, and culminating in the proposal of a dangerous expedition to resolve the supernatural curse. It is structured as a first-person account of unfolding events and the protagonist's internal struggles."
+  }
+}

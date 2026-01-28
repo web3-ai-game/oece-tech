@@ -1,0 +1,132 @@
+{
+  "propositions": [
+    {
+      "id": "1",
+      "text": "The wind continues to blow, symbolizing ongoing uncertainty and change.",
+      "level": 1
+    },
+    {
+      "id": "1.1",
+      "text": "Initial encounter with the unknown future brings both anxiety and anticipation.",
+      "level": 2
+    },
+    {
+      "id": "1.2",
+      "text": "The protagonist decides to leave familiarity in search of personal freedom.",
+      "level": 2
+    },
+    {
+      "id": "2",
+      "text": "Emotional turmoil and loneliness dominate the protagonist's journey.",
+      "level": 1
+    },
+    {
+      "id": "2.1",
+      "text": "Interactions with strangers on the street evoke mixed feelings of familiarity and unease.",
+      "level": 2
+    },
+    {
+      "id": "3",
+      "text": "Family provides a source of comfort amidst personal struggles.",
+      "level": 1
+    },
+    {
+      "id": "3.1",
+      "text": "Mother's concern and encouragement contrast with the protagonist's self-doubt.",
+      "level": 2
+    },
+    {
+      "id": "4",
+      "text": "A mysterious threat emerges, heightening the protagonist's fear.",
+      "level": 1
+    },
+    {
+      "id": "4.1",
+      "text": "An anonymous warning note suggests someone is watching the protagonist.",
+      "level": 2
+    },
+    {
+      "id": "4.2",
+      "text": "Suspicious encounters increase paranoia and caution.",
+      "level": 2
+    },
+    {
+      "id": "5",
+      "text": "The protagonist takes active steps to uncover the truth behind the threats.",
+      "level": 1
+    },
+    {
+      "id": "5.1",
+      "text": "Collaboration with a friend to investigate suspicious individuals.",
+      "level": 2
+    },
+    {
+      "id": "6",
+      "text": "Determination to face future challenges despite ongoing uncertainty.",
+      "level": 1
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Wind",
+      "frequency": 6,
+      "context": "Symbol of change, uncertainty, and continuity throughout the narrative."
+    },
+    {
+      "name": "Uncertainty",
+      "frequency": 8,
+      "context": "Central theme reflecting the protagonist's fears and unknown future."
+    },
+    {
+      "name": "Loneliness",
+      "frequency": 5,
+      "context": "Emotional state of the protagonist during her journey."
+    },
+    {
+      "name": "Threat",
+      "frequency": 7,
+      "context": "Emerging danger indicated by warnings and suspicious encounters."
+    },
+    {
+      "name": "Freedom",
+      "frequency": 3,
+      "context": "Protagonist's goal in leaving familiarity behind."
+    }
+  ],
+  "relations": [
+    {
+      "source": "Wind",
+      "target": "Uncertainty",
+      "type": "symbolizes"
+    },
+    {
+      "source": "Uncertainty",
+      "target": "Loneliness",
+      "type": "causes"
+    },
+    {
+      "source": "Threat",
+      "target": "Uncertainty",
+      "type": "amplifies"
+    },
+    {
+      "source": "Freedom",
+      "target": "Uncertainty",
+      "type": "leads_to"
+    },
+    {
+      "source": "Loneliness",
+      "target": "Freedom",
+      "type": "motivates"
+    }
+  ],
+  "hierarchy": {
+    "main_topics": [
+      "Personal Journey",
+      "Emerging Threats",
+      "Emotional Struggles",
+      "Search for Truth"
+    ],
+    "structure": "The document is structured as a narrative with six chapters, progressing from personal introspection and emotional conflict to external threats and proactive investigation, maintaining a thematic focus on uncertainty and resilience symbolized by the wind."
+  }
+}

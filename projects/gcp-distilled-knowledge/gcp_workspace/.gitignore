@@ -1,0 +1,91 @@
+# 🔒 GCP 开发环境 - Git 忽略文件
+
+# ━━━ 环境变量和密钥 ━━━
+.env
+.env.local
+.env.*.local
+*.env
+.env.doppler
+.cli-env
+.env.vector-jet
+*_key.txt
+*_keys.txt
+*_token.txt
+
+# ━━━ 日志文件 ━━━
+logs/
+*.log
+*.log.*
+*.log.gz
+*.tar.gz
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# ━━━ Next.js ━━━
+.next/
+out/
+
+# ━━━ Node.js ━━━
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+package-lock.json
+yarn.lock
+
+# ━━━ PM2 ━━━
+.pm2/
+pm2-*.json
+ecosystem.config.js.backup
+
+# ━━━ 备份文件 ━━━
+*.backup
+*.bak
+*.old
+*.orig
+*~
+.DS_Store
+
+# ━━━ IDE ━━━
+.vscode/
+.idea/
+*.swp
+*.swo
+*.swn
+.windsurf/
+
+# ━━━ 临时文件 ━━━
+tmp/
+temp/
+*.tmp
+*.cache
+
+# ━━━ 成本和使用数据 ━━━
+costs.json
+api-usage.json
+usage-*.json
+
+# ━━━ 敏感数据 ━━━
+*.pem
+*.key
+*.crt
+*.p12
+*.pfx
+id_rsa*
+id_ed25519*
+
+# ━━━ 系统文件 ━━━
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# ━━━ 允许的文件 ━━━
+!.gitkeep
+!README.md
+!package.json
+!*.example
+
+# Firebase Admin SDK (contains private key)
+firebase-admin-sdk.json

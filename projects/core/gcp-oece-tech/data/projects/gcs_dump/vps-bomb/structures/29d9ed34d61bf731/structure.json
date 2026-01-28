@@ -1,0 +1,127 @@
+{
+  "propositions": [
+    {
+      "id": "1",
+      "text": "Unexpected time travel occurs on a Christmas night.",
+      "level": 1
+    },
+    {
+      "id": "1.1",
+      "text": "Protagonist experiences a sudden headache and finds themselves in an unfamiliar wilderness.",
+      "level": 2
+    },
+    {
+      "id": "2",
+      "text": "Protagonist assesses their situation in a strange new world.",
+      "level": 1
+    },
+    {
+      "id": "2.1",
+      "text": "They are in an unknown wilderness with no resources or modern traces.",
+      "level": 2
+    },
+    {
+      "id": "3",
+      "text": "Survival becomes the primary goal in the wilderness.",
+      "level": 1
+    },
+    {
+      "id": "3.1",
+      "text": "Protagonist encounters strange events and meets a local who reveals the setting as ancient times.",
+      "level": 2
+    },
+    {
+      "id": "4",
+      "text": "Integration into the new environment is necessary for survival.",
+      "level": 1
+    },
+    {
+      "id": "4.1",
+      "text": "Protagonist learns local language and customs, makes friends, and uses modern knowledge for sustenance.",
+      "level": 2
+    },
+    {
+      "id": "5",
+      "text": "Challenges arise from survival needs and complex interpersonal dynamics.",
+      "level": 1
+    },
+    {
+      "id": "5.1",
+      "text": "Protagonist faces hostility and exploitation while discovering inner strength.",
+      "level": 2
+    },
+    {
+      "id": "6",
+      "text": "Search for a way back to the modern world continues.",
+      "level": 1
+    },
+    {
+      "id": "6.1",
+      "text": "Protagonist collects clues about time travel while contemplating a permanent stay in the new world.",
+      "level": 2
+    },
+    {
+      "id": "7",
+      "text": "Personal growth and resilience are achieved through the journey.",
+      "level": 1
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Time Travel",
+      "frequency": 6,
+      "context": "Central theme of protagonist's unexpected journey to an ancient world."
+    },
+    {
+      "name": "Survival",
+      "frequency": 5,
+      "context": "Key focus as protagonist navigates wilderness and societal integration."
+    },
+    {
+      "name": "Adaptation",
+      "frequency": 4,
+      "context": "Process of learning local customs and using modern knowledge in an ancient setting."
+    },
+    {
+      "name": "Strength",
+      "frequency": 3,
+      "context": "Inner resilience developed through challenges and conflicts."
+    },
+    {
+      "name": "Return",
+      "frequency": 3,
+      "context": "Protagonist's ongoing quest to find a way back to the modern world."
+    }
+  ],
+  "relations": [
+    {
+      "source": "Time Travel",
+      "target": "Survival",
+      "type": "implies"
+    },
+    {
+      "source": "Survival",
+      "target": "Adaptation",
+      "type": "requires"
+    },
+    {
+      "source": "Adaptation",
+      "target": "Strength",
+      "type": "builds"
+    },
+    {
+      "source": "Strength",
+      "target": "Return",
+      "type": "supports"
+    }
+  ],
+  "hierarchy": {
+    "main_topics": [
+      "Time Travel",
+      "Survival and Adaptation",
+      "Personal Growth",
+      "Search for Return"
+    ],
+    "structure": "The document follows a chronological narrative structure, detailing the protagonist's journey from unexpected time travel to survival, adaptation, facing challenges, and searching for a way back, with personal growth as a recurring theme."
+  }
+}

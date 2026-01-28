@@ -1,0 +1,223 @@
+{
+  "propositions": [
+    {
+      "id": "1",
+      "text": "TXT小说天堂是一个提供文学作品在线阅读和下载的文学网站。",
+      "level": 1
+    },
+    {
+      "id": "1.1",
+      "text": "它提供经典的文学名著、武侠小说、言情小说、人文社科类书籍。",
+      "level": 2
+    },
+    {
+      "id": "1.2",
+      "text": "所有TXT电子书均可手机免费下载阅读。",
+      "level": 2
+    },
+    {
+      "id": "2",
+      "text": "故事以“我”的视角展开，描述了一个与猫“雪儿”和邻居“老娘儿们”相关的事件。",
+      "level": 1
+    },
+    {
+      "id": "2.1",
+      "text": "“我”经常受到胸口疼痛的困扰，并怀疑是邻居“老娘儿们”造成的。",
+      "level": 2
+    },
+    {
+      "id": "2.2",
+      "text": "“我”对一只名为“雪儿”的波斯猫有极深的感情，将其视为“女神”和“妻子”。",
+      "level": 2
+    },
+    {
+      "id": "2.3",
+      "text": "“老娘儿们”经常骚扰“我”和“雪儿”，并最终杀害了“雪儿”。",
+      "level": 2
+    },
+    {
+      "id": "2.4",
+      "text": "为了报复“雪儿”的死，“我”杀害了“老娘儿们”。",
+      "level": 2
+    },
+    {
+      "id": "2.5",
+      "text": "“我”将“老娘儿们”的尸体藏匿起来，并经历了警察的问询。",
+      "level": 2
+    },
+    {
+      "id": "2.6",
+      "text": "在极度痛苦和绝望中，“我”萌生了自杀的念头，但被“雪儿”的出现所打断。",
+      "level": 2
+    },
+    {
+      "id": "3",
+      "text": "“我”邂逅了风铃，并认为她就是“雪儿”的转世。",
+      "level": 1
+    },
+    {
+      "id": "3.1",
+      "text": "风铃是一名快餐店的外卖员，患有聋哑症。",
+      "level": 2
+    },
+    {
+      "id": "3.2",
+      "text": "“我”对风铃产生了爱意，并决定向她求婚。",
+      "level": 2
+    }
+  ],
+  "concepts": [
+    {
+      "name": "TXT小说天堂",
+      "frequency": 1,
+      "context": "网站名称，提供文学作品阅读和下载。"
+    },
+    {
+      "name": "血族天使",
+      "frequency": 1,
+      "context": "小说的标题。"
+    },
+    {
+      "name": "我",
+      "frequency": 10,
+      "context": "小说的叙述者和主角，经历着情感的起伏和复仇。"
+    },
+    {
+      "name": "老娘儿们",
+      "frequency": 8,
+      "context": "叙述者的邻居，一个暴躁、对他人造成困扰的角色，最终被叙述者杀害。"
+    },
+    {
+      "name": "雪儿",
+      "frequency": 14,
+      "context": "叙述者饲养的波斯猫，是叙述者情感寄托的中心，其死亡引发了叙述者的复仇。"
+    },
+    {
+      "name": "胸口疼痛",
+      "frequency": 3,
+      "context": "叙述者身体上的病症，与“老娘儿们”的存在产生关联。"
+    },
+    {
+      "name": "复仇",
+      "frequency": 3,
+      "context": "叙述者因“雪儿”的死而对“老娘儿们”实施的行为。"
+    },
+    {
+      "name": "杀戮",
+      "frequency": 2,
+      "context": "叙述者杀害“老娘儿们”的行为。"
+    },
+    {
+      "name": "风铃",
+      "frequency": 3,
+      "context": "叙述者在“雪儿”死后遇到的女性，被叙述者视为“雪儿”的转世。"
+    },
+    {
+      "name": "聋哑",
+      "frequency": 2,
+      "context": "风铃的生理特征，但并未影响叙述者对她的爱。"
+    },
+    {
+      "name": "爱",
+      "frequency": 4,
+      "context": "叙述者对“雪儿”和风铃的情感，以及与“老娘儿们”的对比。"
+    },
+    {
+      "name": "信仰",
+      "frequency": 1,
+      "context": "在“雪儿”死后，叙述者认为自己的信仰崩塌了。"
+    },
+    {
+      "name": "宿命",
+      "frequency": 1,
+      "context": "在“新生与宿命”章节标题中出现，暗示了故事的走向。"
+    }
+  ],
+  "relations": [
+    {
+      "source": "TXT小说天堂",
+      "target": "文学网站",
+      "type": "is_a"
+    },
+    {
+      "source": "我",
+      "target": "雪儿",
+      "type": "owns"
+    },
+    {
+      "source": "我",
+      "target": "雪儿",
+      "type": "loves"
+    },
+    {
+      "source": "我",
+      "target": "老娘儿们",
+      "type": "neighbor_of"
+    },
+    {
+      "source": "我",
+      "target": "胸口疼痛",
+      "type": "experiences"
+    },
+    {
+      "source": "胸口疼痛",
+      "target": "老娘儿们",
+      "type": "caused_by (suspected)"
+    },
+    {
+      "source": "老娘儿们",
+      "target": "雪儿",
+      "type": "kills"
+    },
+    {
+      "source": "我",
+      "target": "老娘儿们",
+      "type": "kills (revenge)"
+    },
+    {
+      "source": "我",
+      "target": "复仇",
+      "type": "performs"
+    },
+    {
+      "source": "我",
+      "target": "风铃",
+      "type": "meets"
+    },
+    {
+      "source": "风铃",
+      "target": "雪儿",
+      "type": "reincarnation_of (believed by narrator)"
+    },
+    {
+      "source": "我",
+      "target": "风铃",
+      "type": "loves"
+    },
+    {
+      "source": "风铃",
+      "target": "聋哑",
+      "type": "has_condition"
+    },
+    {
+      "source": "我",
+      "target": "信仰",
+      "type": "loses (after snow's death)"
+    },
+    {
+      "source": "我",
+      "target": "宿命",
+      "type": "faces"
+    }
+  ],
+  "hierarchy": {
+    "main_topics": [
+      "Introduction and Setting",
+      "The Protagonist and Xue Er",
+      "Conflict with the Neighbor",
+      "Revenge and its Aftermath",
+      "Rebirth and New Love"
+    ],
+    "structure": "The document is structured into sections: '《血族天使》' (Title), '楔子' (Prologue), '杀戮的开端' (The Beginning of Slaughter), and '新生与宿命' (Rebirth and Destiny). Each section presents narrative developments, character interactions, and thematic explorations. The prologue introduces the protagonist's anxieties and his relationship with Xue Er, and the conflict with the neighbor. The middle section details the tragic death of Xue Er and the protagonist's subsequent revenge. The final section introduces a new character, Feng Ling, who is seen as a reincarnation of Xue Er, leading to a new phase of the protagonist's life."
+  }
+}

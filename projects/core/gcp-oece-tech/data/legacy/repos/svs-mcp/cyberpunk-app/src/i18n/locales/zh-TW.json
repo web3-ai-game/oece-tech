@@ -1,0 +1,98 @@
+{
+  "nav": {
+    "home": "首頁",
+    "map": "地圖",
+    "nodes": "節點",
+    "database": "數據庫",
+    "forum": "論壇",
+    "signIn": "登入"
+  },
+  "hero": {
+    "title": "OECE.TECH",
+    "subtitle": "東南亞數字遊民網絡",
+    "description": "地理套利計算器 × Web3影子節點社群 × AI驅動的極客硬件指南",
+    "exploreMap": "探索地圖",
+    "viewNodes": "查看節點",
+    "stats": {
+      "nodes": "活躍節點",
+      "countries": "國家",
+      "community": "社群成員",
+      "support": "全天支持"
+    }
+  },
+  "features": {
+    "title": "您需要的一切",
+    "subtitle": "為東南亞數字遊民提供全面的工具和資源",
+    "calculator": {
+      "title": "套利計算器",
+      "description": "AI驅動的東南亞城市生活成本對比。為您的下一個目的地做出明智決策。"
+    },
+    "map": {
+      "title": "互動地圖",
+      "description": "探索數字遊民熱點，實時查看簽證政策、網速和社群規模數據。"
+    },
+    "hardware": {
+      "title": "硬件指南",
+      "description": "精選移動工作站推薦，從筆記本電腦到便攜顯示器和電源解決方案。"
+    },
+    "nodes": {
+      "title": "Web3節點",
+      "description": "加入我們的去中心化社群網絡。運行節點、賺取獎勵並為生態系統做出貢獻。"
+    },
+    "updates": {
+      "title": "實時更新",
+      "description": "通過簽證變化、成本波動和社群活動的實時更新保持消息靈通。"
+    },
+    "forum": {
+      "title": "社群論壇",
+      "description": "與其他遊民聯繫，分享經驗，並從有經驗的人那裡獲得建議。"
+    }
+  },
+  "products": {
+    "title": "我們的產品",
+    "subtitle": "為現代數字遊民設計的強大工具",
+    "learnMore": "了解更多"
+  },
+  "useCases": {
+    "title": "為所有人而建",
+    "subtitle": "無論您是開發者、創業者、學生還是旅行者，我們都能滿足您的需求",
+    "developers": {
+      "title": "開發者",
+      "description": "尋找最適合遠程軟件開發的城市，擁有可靠的互聯網和充滿活力的科技社群。",
+      "stats": "2,500+ 開發者"
+    },
+    "entrepreneurs": {
+      "title": "創業者",
+      "description": "發現東南亞低成本且能接觸到人才的創業友好環境。",
+      "stats": "800+ 創業公司"
+    },
+    "students": {
+      "title": "學生",
+      "description": "在探索新文化的同時遠程學習。尋找擁有優質共享辦公空間的經濟實惠城市。",
+      "stats": "1,200+ 學生"
+    },
+    "travelers": {
+      "title": "旅行者",
+      "description": "通過簽證要求、交通和當地體驗的詳細指南規劃您的旅程。",
+      "stats": "5,000+ 旅行者"
+    }
+  },
+  "cta": {
+    "title": "準備開始您的旅程了嗎？",
+    "description": "加入數千名探索東南亞的數字遊民。獲取獨家工具、社群洞察和實時數據。",
+    "getStarted": "免費開始",
+    "exploreMap": "探索地圖",
+    "noCreditCard": "無需信用卡",
+    "freeForever": "永久免費"
+  },
+  "footer": {
+    "description": "東南亞數字遊民網絡。通過AI驅動的套利計算器、Web3社群節點和移動硬件指南，賦能遠程工作者。",
+    "location": "東南亞",
+    "product": "產品",
+    "resources": "資源",
+    "company": "公司",
+    "copyright": "版權所有。",
+    "privacy": "隱私政策",
+    "terms": "服務條款"
+  }
+}

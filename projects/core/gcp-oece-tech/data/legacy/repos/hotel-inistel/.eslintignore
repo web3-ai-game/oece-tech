@@ -1,0 +1,10 @@
+node_modules/
+dist/
+build/
+coverage/
+public/
+*.config.js
+*.config.ts
+.eslintrc.js
+*.min.js
+*.min.css

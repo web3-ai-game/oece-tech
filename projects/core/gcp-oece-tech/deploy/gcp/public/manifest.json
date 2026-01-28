@@ -1,0 +1,22 @@
+{
+  "name": "DeepWeay 賽博玄學社區",
+  "short_name": "DeepWeay",
+  "description": "地球Online × 賽博朋克算命 × 前後五百年 × AI內心元宇宙",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0f0f23",
+  "theme_color": "#ff6b35",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}

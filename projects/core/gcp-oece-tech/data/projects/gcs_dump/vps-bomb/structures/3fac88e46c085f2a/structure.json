@@ -1,0 +1,158 @@
+{
+  "propositions": [
+    {
+      "id": "1",
+      "text": "The story of '帝女花开' unfolds in江南, introducing the main characters and their initial encounters.",
+      "level": 1
+    },
+    {
+      "id": "1.1",
+      "text": "雪儿, a young woman from a fallen noble family, seeks to uncover the truth and revive her family’s honor.",
+      "level": 2
+    },
+    {
+      "id": "1.2",
+      "text": "凌风, a mysterious young man with exceptional martial skills, joins 雪儿 on her journey, showing care despite his cold demeanor.",
+      "level": 2
+    },
+    {
+      "id": "2",
+      "text": "The journey of 雪儿 and 凌风 is fraught with danger and crises, testing their resilience and bond.",
+      "level": 1
+    },
+    {
+      "id": "2.1",
+      "text": "They face ambushes and injuries, revealing 凌风’s protective nature and 雪儿’s determination.",
+      "level": 2
+    },
+    {
+      "id": "2.2",
+      "text": "凌风 reveals his past as a royal descendant with a vendetta, linking his goals to 雪儿’s mission.",
+      "level": 2
+    },
+    {
+      "id": "3",
+      "text": "The investigation leads to deeper political conspiracies involving palace intrigues and hidden identities.",
+      "level": 1
+    },
+    {
+      "id": "3.1",
+      "text": "雪儿 is revealed to be a princess of the former dynasty, burdened with the duty of restoration.",
+      "level": 2
+    },
+    {
+      "id": "3.2",
+      "text": "Their relationship is strained by conflicting identities and goals, highlighting love and duty’s tension.",
+      "level": 2
+    },
+    {
+      "id": "4",
+      "text": "Critical choices and sacrifices define their path as they face life-and-death situations.",
+      "level": 1
+    },
+    {
+      "id": "4.1",
+      "text": "In a desperate situation, 凌风 is gravely injured, and 雪儿 refuses to abandon him, showing mutual loyalty.",
+      "level": 2
+    },
+    {
+      "id": "4.2",
+      "text": "雪儿 sacrifices part of her mission to save 凌风, illustrating her prioritization of personal bonds over duty.",
+      "level": 2
+    },
+    {
+      "id": "5",
+      "text": "The climax and resolution see 雪儿 and 凌风 confronting the ultimate enemy and choosing their future.",
+      "level": 1
+    },
+    {
+      "id": "5.1",
+      "text": "In the final battle, 雪儿 emerges as a powerful figure, avenging her family and achieving justice.",
+      "level": 2
+    },
+    {
+      "id": "5.2",
+      "text": "Post-conflict, they choose a peaceful life in seclusion, prioritizing love over power or revenge.",
+      "level": 2
+    }
+  ],
+  "concepts": [
+    {
+      "name": "雪儿",
+      "frequency": 15,
+      "context": "Protagonist, a determined young woman from a fallen family, later revealed as a former princess."
+    },
+    {
+      "name": "凌风",
+      "frequency": 14,
+      "context": "Mysterious companion of 雪儿, a skilled martial artist with royal lineage and a personal vendetta."
+    },
+    {
+      "name": "江南",
+      "frequency": 3,
+      "context": "Setting of the initial story, a picturesque and symbolic region of beauty and hidden turmoil."
+    },
+    {
+      "name": "家族复兴",
+      "frequency": 4,
+      "context": "Central goal of 雪儿, tied to uncovering truths and restoring honor."
+    },
+    {
+      "name": "宫廷权谋",
+      "frequency": 3,
+      "context": "Underlying conspiracy involving political intrigue and power struggles in the court."
+    },
+    {
+      "name": "爱恨交织",
+      "frequency": 2,
+      "context": "Emotional conflict between 雪儿 and 凌风 due to their opposing duties and identities."
+    }
+  ],
+  "relations": [
+    {
+      "source": "雪儿",
+      "target": "凌风",
+      "type": "allied_with"
+    },
+    {
+      "source": "雪儿",
+      "target": "家族复兴",
+      "type": "driven_by"
+    },
+    {
+      "source": "凌风",
+      "target": "家族复兴",
+      "type": "connected_to"
+    },
+    {
+      "source": "雪儿",
+      "target": "宫廷权谋",
+      "type": "opposed_to"
+    },
+    {
+      "source": "凌风",
+      "target": "宫廷权谋",
+      "type": "opposed_to"
+    },
+    {
+      "source": "雪儿",
+      "target": "爱恨交织",
+      "type": "experiences"
+    },
+    {
+      "source": "凌风",
+      "target": "爱恨交织",
+      "type": "experiences"
+    }
+  ],
+  "hierarchy": {
+    "main_topics": [
+      "Character Development and Relationships",
+      "Quest for Truth and Justice",
+      "Political Intrigue and Conflict",
+      "Emotional and Moral Dilemmas",
+      "Resolution and Sacrifice"
+    ],
+    "structure": "The document is structured as a linear narrative divided into five chapters, each focusing on progressive stages of the protagonists’ journey from initial meeting to ultimate resolution, with sub-sections detailing specific events and emotional conflicts."
+  }
+}

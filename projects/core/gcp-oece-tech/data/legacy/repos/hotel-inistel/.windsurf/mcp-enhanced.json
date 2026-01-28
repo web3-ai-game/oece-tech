@@ -1,0 +1,398 @@
+{
+  "mcpServers": {
+    "sequential-thinking": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@modelcontextprotocol/server-sequential-thinking"
+      ],
+      "env": {},
+      "disabled": false,
+      "description": "顺序思考服务器 - 帮助进行逻辑推理和步骤分解"
+    },
+    "memory": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@modelcontextprotocol/server-memory"
+      ],
+      "env": {
+        "MEMORY_FILE_PATH": "/Users/svs.loline/Documents/xiangmu/hotel-inistel/.windsurf/memory.json"
+      },
+      "disabled": false,
+      "description": "记忆服务器 - 存储项目相关的重要信息"
+    },
+    "puppeteer": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@modelcontextprotocol/server-puppeteer"
+      ],
+      "env": {},
+      "disabled": false,
+      "description": "浏览器自动化 - 用于测试和网页抓取"
+    },
+    "filesystem": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@modelcontextprotocol/server-filesystem",
+        "/Users/svs.loline/Documents/xiangmu/hotel-inistel/"
+      ],
+      "env": {},
+      "disabled": false,
+      "description": "文件系统访问 - 读写项目文件"
+    },
+    "notion": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@notionhq/notion-mcp-server"
+      ],
+      "env": {
+        "NOTION_API_KEY": "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"
+      },
+      "disabled": false,
+      "description": "Notion集成 - 同步文档和任务"
+    },
+    "git": {
+      "command": "uvx",
+      "args": [
+        "mcp-server-git",
+        "--repository",
+        "/Users/svs.loline/Documents/xiangmu/hotel-inistel"
+      ],
+      "env": {},
+      "disabled": false,
+      "description": "Git版本控制 - 管理代码提交和分支"
+    },
+    "sqlite": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@modelcontextprotocol/server-sqlite",
+        "--db-path",
+        "/Users/svs.loline/Documents/xiangmu/hotel-inistel/database/hotel.db"
+      ],
+      "env": {},
+      "disabled": false,
+      "description": "SQLite数据库 - 本地数据库管理"
+    },
+    "postgres": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@modelcontextprotocol/server-postgres"
+      ],
+      "env": {
+        "DATABASE_URL": "postgresql://localhost:5432/hotel_db"
+      },
+      "disabled": true,
+      "description": "PostgreSQL数据库 - 生产环境数据库"
+    },
+    "fetch": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@modelcontextprotocol/server-fetch"
+      ],
+      "env": {},
+      "disabled": false,
+      "description": "HTTP请求 - API测试和数据获取"
+    },
+    "github": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@modelcontextprotocol/server-github"
+      ],
+      "env": {
+        "GITHUB_PERSONAL_ACCESS_TOKEN": ""
+      },
+      "disabled": true,
+      "description": "GitHub集成 - 仓库和Issues管理"
+    },
+    "slack": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@modelcontextprotocol/server-slack"
+      ],
+      "env": {
+        "SLACK_BOT_TOKEN": "",
+        "SLACK_TEAM_ID": ""
+      },
+      "disabled": true,
+      "description": "Slack通知 - 团队协作通知"
+    },
+    "google-maps": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@modelcontextprotocol/server-google-maps"
+      ],
+      "env": {
+        "GOOGLE_MAPS_API_KEY": ""
+      },
+      "disabled": true,
+      "description": "Google地图 - 酒店位置服务"
+    },
+    "everything": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@modelcontextprotocol/server-everything"
+      ],
+      "env": {},
+      "disabled": false,
+      "description": "全能服务器 - 各种实用工具"
+    },
+    "brave-search": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@modelcontextprotocol/server-brave-search"
+      ],
+      "env": {
+        "BRAVE_API_KEY": ""
+      },
+      "disabled": true,
+      "description": "Brave搜索 - 网络搜索能力"
+    },
+    "playwright": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@modelcontextprotocol/server-playwright"
+      ],
+      "env": {},
+      "disabled": false,
+      "description": "Playwright测试 - 端到端测试"
+    },
+    "docker": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@modelcontextprotocol/server-docker"
+      ],
+      "env": {},
+      "disabled": false,
+      "description": "Docker容器管理 - 部署和容器化"
+    },
+    "kubernetes": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@modelcontextprotocol/server-kubernetes"
+      ],
+      "env": {
+        "KUBECONFIG": "~/.kube/config"
+      },
+      "disabled": true,
+      "description": "Kubernetes编排 - 容器编排管理"
+    },
+    "stripe": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@modelcontextprotocol/server-stripe"
+      ],
+      "env": {
+        "STRIPE_API_KEY": ""
+      },
+      "disabled": true,
+      "description": "Stripe支付 - 酒店支付系统"
+    },
+    "sendgrid": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@modelcontextprotocol/server-sendgrid"
+      ],
+      "env": {
+        "SENDGRID_API_KEY": ""
+      },
+      "disabled": true,
+      "description": "SendGrid邮件 - 预订确认邮件"
+    },
+    "twilio": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@modelcontextprotocol/server-twilio"
+      ],
+      "env": {
+        "TWILIO_ACCOUNT_SID": "",
+        "TWILIO_AUTH_TOKEN": ""
+      },
+      "disabled": true,
+      "description": "Twilio短信 - 预订短信通知"
+    },
+    "redis": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@modelcontextprotocol/server-redis"
+      ],
+      "env": {
+        "REDIS_URL": "redis://localhost:6379"
+      },
+      "disabled": true,
+      "description": "Redis缓存 - 性能优化缓存"
+    },
+    "mongodb": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@modelcontextprotocol/server-mongodb"
+      ],
+      "env": {
+        "MONGODB_URI": "mongodb://localhost:27017/hotel_db"
+      },
+      "disabled": true,
+      "description": "MongoDB数据库 - NoSQL数据存储"
+    },
+    "elasticsearch": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@modelcontextprotocol/server-elasticsearch"
+      ],
+      "env": {
+        "ELASTICSEARCH_URL": "http://localhost:9200"
+      },
+      "disabled": true,
+      "description": "ElasticSearch - 酒店搜索功能"
+    },
+    "aws": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@modelcontextprotocol/server-aws"
+      ],
+      "env": {
+        "AWS_ACCESS_KEY_ID": "",
+        "AWS_SECRET_ACCESS_KEY": "",
+        "AWS_REGION": "us-west-2"
+      },
+      "disabled": true,
+      "description": "AWS云服务 - 云端部署和存储"
+    },
+    "firebase": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@modelcontextprotocol/server-firebase"
+      ],
+      "env": {
+        "FIREBASE_PROJECT_ID": "hotel-inistel",
+        "FIREBASE_PRIVATE_KEY": "",
+        "FIREBASE_CLIENT_EMAIL": ""
+      },
+      "disabled": false,
+      "description": "Firebase服务 - 实时数据库和认证"
+    },
+    "supabase": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@modelcontextprotocol/server-supabase"
+      ],
+      "env": {
+        "SUPABASE_URL": "",
+        "SUPABASE_ANON_KEY": ""
+      },
+      "disabled": true,
+      "description": "Supabase后端 - 开源Firebase替代"
+    },
+    "netlify": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@modelcontextprotocol/server-netlify"
+      ],
+      "env": {
+        "NETLIFY_AUTH_TOKEN": ""
+      },
+      "disabled": true,
+      "description": "Netlify部署 - 静态站点部署"
+    },
+    "sentry": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@modelcontextprotocol/server-sentry"
+      ],
+      "env": {
+        "SENTRY_DSN": ""
+      },
+      "disabled": true,
+      "description": "Sentry监控 - 错误追踪和性能监控"
+    },
+    "datadog": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@modelcontextprotocol/server-datadog"
+      ],
+      "env": {
+        "DATADOG_API_KEY": "",
+        "DATADOG_APP_KEY": ""
+      },
+      "disabled": true,
+      "description": "Datadog监控 - APM和日志管理"
+    },
+    "jira": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@modelcontextprotocol/server-jira"
+      ],
+      "env": {
+        "JIRA_HOST": "",
+        "JIRA_EMAIL": "",
+        "JIRA_API_TOKEN": ""
+      },
+      "disabled": true,
+      "description": "Jira项目管理 - 任务跟踪"
+    },
+    "confluence": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@modelcontextprotocol/server-confluence"
+      ],
+      "env": {
+        "CONFLUENCE_HOST": "",
+        "CONFLUENCE_EMAIL": "",
+        "CONFLUENCE_API_TOKEN": ""
+      },
+      "disabled": true,
+      "description": "Confluence文档 - 知识库管理"
+    },
+    "openai": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@modelcontextprotocol/server-openai"
+      ],
+      "env": {
+        "OPENAI_API_KEY": ""
+      },
+      "disabled": true,
+      "description": "OpenAI API - AI功能集成"
+    },
+    "anthropic": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@modelcontextprotocol/server-anthropic"
+      ],
+      "env": {
+        "ANTHROPIC_API_KEY": ""
+      },
+      "disabled": true,
+      "description": "Anthropic Claude - AI助手功能"
+    }
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "object": "page",
+    "id": "2b291acc-4dd5-8121-b1c4-c3ce5cbf917a",
+    "created_time": "2025-11-21T16:08:00.000Z",
+    "last_edited_time": "2025-11-21T16:08:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "269d872b-594c-81d1-9fe1-00029c482d4b"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "269d872b-594c-81d1-9fe1-00029c482d4b"
+    },
+    "cover": null,
+    "icon": null,
+    "parent": {
+      "type": "database_id",
+      "database_id": "2b291acc-4dd5-81f4-bb7b-fc4bea0fd5f6"
+    },
+    "archived": false,
+    "in_trash": false,
+    "is_locked": false,
+    "properties": {
+      "Amount": {
+        "id": "Fsvp",
+        "type": "number",
+        "number": 65
+      },
+      "Expense Item": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Dinner with Rachel",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Dinner with Rachel",
+            "href": null
+          }
+        ]
+      }
+    },
+    "url": "https://www.notion.so/Dinner-with-Rachel-2b291acc4dd58121b1c4c3ce5cbf917a",
+    "public_url": null,
+    "request_id": "d9a38306-7f4f-488d-afc2-6b3b914764ab"
+  },
+  "blocks": [],
+  "fetched_at": "2025-11-26T13:32:13.247Z"
+}

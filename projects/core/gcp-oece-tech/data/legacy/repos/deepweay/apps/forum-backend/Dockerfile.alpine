@@ -1,0 +1,54 @@
+# =====================================================
+# 🍄 SVS Telegram Bot - Alpine轻量版
+# 优化内存占用，适合2v4g环境
+# =====================================================
+
+FROM python:3.11-alpine
+
+# 设置工作目录
+WORKDIR /app
+
+# 安装系统依赖（最小化）
+RUN apk add --no-cache \
+    gcc \
+    musl-dev \
+    libffi-dev \
+    openssl-dev \
+    && rm -rf /var/cache/apk/*
+
+# 复制依赖文件
+COPY requirements.txt .
+
+# 安装Python依赖（优化版）
+RUN pip install --no-cache-dir \
+    python-telegram-bot==20.7 \
+    aiohttp==3.9.1 \
+    redis==5.0.1 \
+    psycopg2-binary==2.9.9 \
+    python-dotenv==1.0.0 \
+    && pip cache purge
+
+# 复制应用代码
+COPY . .
+
+# 创建数据目录
+RUN mkdir -p /app/data /app/logs
+
+# 设置非root用户
+RUN addgroup -g 1000 svs && \
+    adduser -D -u 1000 -G svs svs && \
+    chown -R svs:svs /app
+
+USER svs
+
+# 环境变量
+ENV PYTHONUNBUFFERED=1 \
+    PYTHONDONTWRITEBYTECODE=1 \
+    PYTHONPATH=/app
+
+# 健康检查
+HEALTHCHECK --interval=30s --timeout=10s --start-period=5s --retries=3 \
+    CMD python -c "import sys; sys.exit(0)"
+
+# 启动命令
+CMD ["python", "-u", "xiaoa_bot.py"]

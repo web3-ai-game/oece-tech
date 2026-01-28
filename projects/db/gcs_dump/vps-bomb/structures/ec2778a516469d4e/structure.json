@@ -1,0 +1,107 @@
+{
+  "propositions": [
+    {
+      "id": "1",
+      "text": "The document is titled '媚公卿'.",
+      "level": 1
+    },
+    {
+      "id": "2",
+      "text": "The author of '媚公卿' is 張煌言.",
+      "level": 1
+    },
+    {
+      "id": "3",
+      "text": "The work '媚公卿' is attributed to the Ming Dynasty.",
+      "level": 1
+    },
+    {
+      "id": "4",
+      "text": "The document's structure consists of a main title and repeated occurrences of the title and author information.",
+      "level": 1
+    }
+  ],
+  "concepts": [
+    {
+      "name": "媚公卿",
+      "frequency": 200,
+      "context": "This is the main title and repeatedly appears throughout the document."
+    },
+    {
+      "name": "張煌言",
+      "frequency": 200,
+      "context": "This is the author's name, repeatedly associated with the title '媚公卿'."
+    },
+    {
+      "name": "明",
+      "frequency": 200,
+      "context": "This indicates the dynasty (Ming) to which the author and work belong."
+    },
+    {
+      "name": "Title",
+      "frequency": 1,
+      "context": "The primary heading of the document."
+    },
+    {
+      "name": "Author",
+      "frequency": 1,
+      "context": "The attributed writer of the document."
+    },
+    {
+      "name": "Dynasty",
+      "frequency": 1,
+      "context": "The historical period of the author/work."
+    },
+    {
+      "name": "Structure",
+      "frequency": 1,
+      "context": "The arrangement and repetition of elements in the document."
+    }
+  ],
+  "relations": [
+    {
+      "source": "媚公卿",
+      "target": "Title",
+      "type": "is_a"
+    },
+    {
+      "source": "媚公卿",
+      "target": "張煌言",
+      "type": "authored_by"
+    },
+    {
+      "source": "張煌言",
+      "target": "明",
+      "type": "belongs_to_dynasty"
+    },
+    {
+      "source": "媚公卿",
+      "target": "明",
+      "type": "from_dynasty"
+    },
+    {
+      "source": "Title",
+      "target": "Structure",
+      "type": "part_of"
+    },
+    {
+      "source": "Author",
+      "target": "Structure",
+      "type": "part_of"
+    },
+    {
+      "source": "Dynasty",
+      "target": "Structure",
+      "type": "part_of"
+    }
+  ],
+  "hierarchy": {
+    "main_topics": [
+      "Document Title",
+      "Author",
+      "Dynasty",
+      "Document Structure"
+    ],
+    "structure": "The document begins with a main title ('# 媚公卿'), followed by repeated sections that include a title ('## 媚公卿' or '### 媚公卿'), the author's name ('（明）张煌言'), and horizontal rules. This indicates a highly repetitive structure with the core information (title, author, dynasty) being emphasized through repetition."
+  }
+}

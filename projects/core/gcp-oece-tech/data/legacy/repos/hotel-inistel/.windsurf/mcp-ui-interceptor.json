@@ -1,0 +1,28 @@
+{
+  "version": "2.0",
+  "name": "UI资源库自动推荐系统",
+  "description": "拦截Windsurf对话，自动识别UI需求并推荐资源",
+  "interceptor": {
+    "enabled": true,
+    "trigger_patterns": [
+      "美化", "界面", "UI", "组件", "按钮", "卡片", "设计", "样式",
+      "酒店", "仪表板", "图表", "游戏", "Web3", "布局", "主题"
+    ],
+    "confidence_threshold": 30,
+    "auto_suggest": true,
+    "inline_recommendations": true
+  },
+  "resources": {
+    "ui_assets_path": "./hotel-ui/",
+    "total_assets": 324,
+    "categories": [
+      "components", "react", "assets", "games", "web3"
+    ]
+  },
+  "response_format": {
+    "show_confidence": true,
+    "show_usage_examples": true,
+    "max_recommendations": 5,
+    "include_integration_code": true
+  }
+}

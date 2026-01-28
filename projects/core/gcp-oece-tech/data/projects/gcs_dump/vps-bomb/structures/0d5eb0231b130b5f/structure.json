@@ -1,0 +1,116 @@
+{
+  "propositions": [
+    {
+      "id": "1",
+      "text": "The document is titled '杀手也穿越系列之媚者无情'.",
+      "level": 1
+    },
+    {
+      "id": "2",
+      "text": "The document contains a numbered list of sections.",
+      "level": 1
+    },
+    {
+      "id": "2.1",
+      "text": "The first numbered section is '1. 杀手1'.",
+      "level": 2
+    },
+    {
+      "id": "2.2",
+      "text": "Following '1. 杀手1' are repeated instances of '“你……”'.",
+      "level": 2
+    },
+    {
+      "id": "3",
+      "text": "The document also contains a list of chapter titles.",
+      "level": 1
+    },
+    {
+      "id": "3.1",
+      "text": "The chapter titles are structured as 'N. [Title]'.",
+      "level": 2
+    },
+    {
+      "id": "3.2",
+      "text": "The first chapter title is '1. 凤舞九天'.",
+      "level": 2
+    },
+    {
+      "id": "3.3",
+      "text": "Subsequent chapter titles follow a pattern of '凤凰涅槃', '凤凰展翅', and '凤凰归来', repeating this sequence.",
+      "level": 2
+    }
+  ],
+  "concepts": [
+    {
+      "name": "杀手也穿越系列之媚者无情",
+      "frequency": 1,
+      "context": "The main title of the document."
+    },
+    {
+      "name": "杀手1",
+      "frequency": 1,
+      "context": "The first numbered section within the document."
+    },
+    {
+      "name": "你……",
+      "frequency": 100,
+      "context": "Repeated dialogue or utterance following the '杀手1' section."
+    },
+    {
+      "name": "凤舞九天",
+      "frequency": 1,
+      "context": "The title of the first chapter."
+    },
+    {
+      "name": "凤凰涅槃",
+      "frequency": 1,
+      "context": "The title of the second chapter."
+    },
+    {
+      "name": "凤凰展翅",
+      "frequency": 35,
+      "context": "A recurring chapter title."
+    },
+    {
+      "name": "凤凰归来",
+      "frequency": 35,
+      "context": "A recurring chapter title."
+    }
+  ],
+  "relations": [
+    {
+      "source": "杀手也穿越系列之媚者无情",
+      "target": "1. 杀手1",
+      "type": "contains"
+    },
+    {
+      "source": "杀手也穿越系列之媚者无情",
+      "target": "1. 凤舞九天",
+      "type": "contains chapter"
+    },
+    {
+      "source": "1. 杀手1",
+      "target": "你……",
+      "type": "followed by"
+    },
+    {
+      "source": "凤凰展翅",
+      "target": "凤凰归来",
+      "type": "precedes"
+    },
+    {
+      "source": "凤凰归来",
+      "target": "凤凰展翅",
+      "type": "precedes"
+    }
+  ],
+  "hierarchy": {
+    "main_topics": [
+      "Title",
+      "Numbered Sections",
+      "Chapter List"
+    ],
+    "structure": "The document begins with a main title, followed by a section '1. 杀手1' with repetitive dialogue. Subsequently, it presents a structured list of chapter titles, starting with specific titles and then entering a repeating sequence of '凤凰展翅' and '凤凰归来'."
+  }
+}

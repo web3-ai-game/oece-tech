@@ -1,0 +1,1271 @@
+{
+  "propositions": [
+    {
+      "id": "1",
+      "text": "The story is titled 'The 26th Night: Ship Lice'.",
+      "level": 1
+    },
+    {
+      "id": "1.1",
+      "text": "This is the twenty-sixth night's story.",
+      "level": 2
+    },
+    {
+      "id": "2",
+      "text": "Strange phenomena are observed on the ship.",
+      "level": 1
+    },
+    {
+      "id": "2.1",
+      "text": "Several pale, half-round human heads emerged from the stern, staring at the narrator and the ship.",
+      "level": 2
+    },
+    {
+      "id": "2.2",
+      "text": "The light reflected off their smooth heads, shining white.",
+      "level": 2
+    },
+    {
+      "id": "3",
+      "text": "The narrator inquires about mysterious sayings and the sealing of an 'ear seal'.",
+      "level": 1
+    },
+    {
+      "id": "3.1",
+      "text": "The narrator asks Ji Yan the meaning of Li Lian's last words.",
+      "level": 2
+    },
+    {
+      "id": "3.2",
+      "text": "The narrator asks why Li Duo should not have her 'ear seal' removed.",
+      "level": 2
+    },
+    {
+      "id": "3.3",
+      "text": "Ji Yan has no information about the Li clan or the 'Thirteen Ear Studs'.",
+      "level": 2
+    },
+    {
+      "id": "4",
+      "text": "Ji Yan is recovering from an injury.",
+      "level": 1
+    },
+    {
+      "id": "4.1",
+      "text": "Ji Yan's injury is not severe.",
+      "level": 2
+    },
+    {
+      "id": "4.2",
+      "text": "His limbs can move, but he cannot bathe due to his wounds.",
+      "level": 2
+    },
+    {
+      "id": "5",
+      "text": "The concept of 'ship lice' is introduced through conversation.",
+      "level": 1
+    },
+    {
+      "id": "5.1",
+      "text": "Luo Lei jokingly mentions having lice if Ji Yan doesn't bathe.",
+      "level": 2
+    },
+    {
+      "id": "5.2",
+      "text": "Ji Yan states that ships can have 'ship lice'.",
+      "level": 2
+    },
+    {
+      "id": "5.3",
+      "text": "Ji Yan begins to tell a story about ship lice.",
+      "level": 2
+    },
+    {
+      "id": "6",
+      "text": "The narrator recounts a journey from Dalian to Yantai.",
+      "level": 1
+    },
+    {
+      "id": "6.1",
+      "text": "The narrator boarded a mixed passenger and cargo ship.",
+      "level": 2
+    },
+    {
+      "id": "6.2",
+      "text": "The ship carried hundreds of people and dozens of cars.",
+      "level": 2
+    },
+    {
+      "id": "7",
+      "text": "The narrator meets Liu Wei, the ship's first mate.",
+      "level": 1
+    },
+    {
+      "id": "7.1",
+      "text": "Liu Wei is described as a burly man with a beard.",
+      "level": 2
+    },
+    {
+      "id": "7.2",
+      "text": "Liu Wei is described as having weathered skin and a crooked nose.",
+      "level": 2
+    },
+    {
+      "id": "7.3",
+      "text": "Liu Wei recounts an injury from a mast during a storm.",
+      "level": 2
+    },
+    {
+      "id": "8",
+      "text": "Liu Wei explains the purpose of cleaning the ship.",
+      "level": 1
+    },
+    {
+      "id": "8.1",
+      "text": "The cleaning is not for ordinary dirt, but for 'ship lice'.",
+      "level": 2
+    },
+    {
+      "id": "8.2",
+      "text": "Liu Wei uses remoras (suckerfish) as an analogy for harmless marine life attached to larger creatures.",
+      "level": 2
+    },
+    {
+      "id": "8.3",
+      "text": "He introduces a more dangerous 'dirty thing' in the sea.",
+      "level": 2
+    },
+    {
+      "id": "9",
+      "text": "Liu Wei explains the concept of 'ship lice' as vengeful spirits.",
+      "level": 1
+    },
+    {
+      "id": "9.1",
+      "text": "'Ship lice' are described as the vengeful spirits of those who died in sea accidents.",
+      "level": 2
+    },
+    {
+      "id": "9.2",
+      "text": "These spirits are said to cling to ships, wanting to drag everyone down into the sea.",
+      "level": 2
+    },
+    {
+      "id": "9.3",
+      "text": "Liu Wei dismisses this as a legend and that they are cleaning shellfish.",
+      "level": 2
+    },
+    {
+      "id": "10",
+      "text": "The narrator boards the 'Tianshun' and feels a sense of unease.",
+      "level": 1
+    },
+    {
+      "id": "10.1",
+      "text": "The 'Tianshun' has been in service for 5 years.",
+      "level": 2
+    },
+    {
+      "id": "10.2",
+      "text": "The narrator enters the entertainment room due to the cold.",
+      "level": 2
+    },
+    {
+      "id": "10.3",
+      "text": "As the ship departs, the narrator feels a lack of security.",
+      "level": 2
+    },
+    {
+      "id": "11",
+      "text": "In the entertainment room, the narrator meets Zhao Weidong.",
+      "level": 1
+    },
+    {
+      "id": "11.1",
+      "text": "Zhao Weidong is a cargo hauler, described as a typical boss.",
+      "level": 2
+    },
+    {
+      "id": "11.2",
+      "text": "He expresses concern about the large number of cars on board and the risk of them falling into the sea.",
+      "level": 2
+    },
+    {
+      "id": "11.3",
+      "text": "Zhao Weidong recounts an incident where a car fell and a crew member died trying to fix it.",
+      "level": 2
+    },
+    {
+      "id": "11.4",
+      "text": "He mentions that the spirits of the dead crew members are said to be seen on the cars in the lower cargo hold.",
+      "level": 2
+    },
+    {
+      "id": "12",
+      "text": "The narrator seeks out Liu Wei.",
+      "level": 1
+    },
+    {
+      "id": "12.1",
+      "text": "The narrator goes to the crew lounge, located below the power distribution room.",
+      "level": 2
+    },
+    {
+      "id": "13",
+      "text": "The narrator encounters an arrogant crew member.",
+      "level": 1
+    },
+    {
+      "id": "13.1",
+      "text": "The crew member is tall, wearing a silk shirt and uniform pants.",
+      "level": 2
+    },
+    {
+      "id": "13.2",
+      "text": "He rudely expects the narrator to move out of his way.",
+      "level": 2
+    },
+    {
+      "id": "14",
+      "text": "Liu Wei invites the narrator to eat in the kitchen.",
+      "level": 1
+    },
+    {
+      "id": "14.1",
+      "text": "Liu Wei recognizes the narrator and offers food.",
+      "level": 2
+    },
+    {
+      "id": "14.2",
+      "text": "Liu Wei instructs a chef named 'Big Mouth' to prepare food.",
+      "level": 2
+    },
+    {
+      "id": "15",
+      "text": "The chef, Big Mouth, expresses concern about the captain's criticism of the kitchen's performance.",
+      "level": 1
+    },
+    {
+      "id": "15.1",
+      "text": "The captain had recently reprimanded the chef.",
+      "level": 2
+    },
+    {
+      "id": "16",
+      "text": "The narrator learns more about the captain's appearance.",
+      "level": 1
+    },
+    {
+      "id": "16.1",
+      "text": "Liu Wei describes the captain as tall, pale, and with an annoying chin.",
+      "level": 2
+    },
+    {
+      "id": "17",
+      "text": "The narrator enjoys a meal of seafood.",
+      "level": 1
+    },
+    {
+      "id": "17.1",
+      "text": "The narrator tries sea cucumber, squid, abalone, and sea urchin.",
+      "level": 2
+    },
+    {
+      "id": "17.2",
+      "text": "The narrator drinks beer and is satisfied with the meal.",
+      "level": 2
+    },
+    {
+      "id": "18",
+      "text": "As night falls, the narrator again sees the strange heads.",
+      "level": 1
+    },
+    {
+      "id": "18.1",
+      "text": "The narrator and Liu Wei are standing on deck.",
+      "level": 2
+    },
+    {
+      "id": "18.2",
+      "text": "The narrator sees pale, half-round heads near the stern.",
+      "level": 2
+    },
+    {
+      "id": "18.3",
+      "text": "When they look again, the heads are gone.",
+      "level": 2
+    },
+    {
+      "id": "18.4",
+      "text": "Liu Wei attributes it to the narrator's eyes playing tricks in the dark.",
+      "level": 2
+    },
+    {
+      "id": "19",
+      "text": "The captain, Tang Luofei, approaches the narrator.",
+      "level": 1
+    },
+    {
+      "id": "19.1",
+      "text": "The captain apologizes for his earlier rude behavior, explaining he was dealing with passenger complaints about the food.",
+      "level": 2
+    },
+    {
+      "id": "19.2",
+      "text": "The captain seems uneasy and has something to say.",
+      "level": 2
+    },
+    {
+      "id": "20",
+      "text": "The captain reveals a serious problem.",
+      "level": 1
+    },
+    {
+      "id": "20.1",
+      "text": "The radar has detected many unidentified objects surrounding the ship, and their number is increasing.",
+      "level": 2
+    },
+    {
+      "id": "20.2",
+      "text": "Divers sent to investigate reported seeing nothing.",
+      "level": 2
+    },
+    {
+      "id": "20.3",
+      "text": "The captain is terrified and fears a repeat of a past maritime disaster.",
+      "level": 2
+    },
+    {
+      "id": "21",
+      "text": "The narrator agrees to investigate.",
+      "level": 1
+    },
+    {
+      "id": "21.1",
+      "text": "The narrator is unsure if he can solve the problem, as he has little experience with the sea.",
+      "level": 2
+    },
+    {
+      "id": "22",
+      "text": "In the command center, the radar shows an increasing number of white dots surrounding the ship.",
+      "level": 1
+    },
+    {
+      "id": "22.1",
+      "text": "The objects seem to be following the ship and stopping when the ship stops.",
+      "level": 2
+    },
+    {
+      "id": "23",
+      "text": "A disheveled crew member enters the command center in a panic.",
+      "level": 1
+    },
+    {
+      "id": "23.1",
+      "text": "He claims 'they' have returned and are here to claim lives.",
+      "level": 2
+    },
+    {
+      "id": "23.2",
+      "text": "He specifically mentions that the current location is the site of a past maritime disaster.",
+      "level": 2
+    },
+    {
+      "id": "23.3",
+      "text": "The captain orders him to be removed, calling him crazy.",
+      "level": 2
+    },
+    {
+      "id": "24",
+      "text": "The narrator demands the captain reveal the truth.",
+      "level": 1
+    },
+    {
+      "id": "25",
+      "text": "The captain confesses a past incident.",
+      "level": 1
+    },
+    {
+      "id": "25.1",
+      "text": "A year ago, while vice-captain, he was responsible for cargo safety.",
+      "level": 2
+    },
+    {
+      "id": "25.2",
+      "text": "During a storm on the anniversary of a maritime disaster, the ship encountered difficulties.",
+      "level": 2
+    },
+    {
+      "id": "25.3",
+      "text": "He was forced to send six crew members to secure the cargo due to the risk of it falling overboard and causing the ship to capsize.",
+      "level": 2
+    },
+    {
+      "id": "26",
+      "text": "The captain describes encountering the 'creatures'.",
+      "level": 1
+    },
+    {
+      "id": "26.1",
+      "text": "During the storm, white, humanoid creatures the size of puppies crawled out and attacked the ropes securing the cargo.",
+      "level": 2
+    },
+    {
+      "id": "26.2",
+      "text": "He fled to safety, while the six crew members were dragged into the sea.",
+      "level": 2
+    },
+    {
+      "id": "26.3",
+      "text": "No bodies were found, and the creatures disappeared.",
+      "level": 2
+    },
+    {
+      "id": "26.4",
+      "text": "The incident was covered up by the company to protect its image.",
+      "level": 2
+    },
+    {
+      "id": "26.5",
+      "text": "A crew member identified the creatures as 'ship lice', spirits of the drowned.",
+      "level": 2
+    },
+    {
+      "id": "27",
+      "text": "Liu Wei is identified as the crew member who warned the captain.",
+      "level": 1
+    },
+    {
+      "id": "27.1",
+      "text": "Liu Wei is currently the first mate and insisted on being on this voyage.",
+      "level": 2
+    },
+    {
+      "id": "28",
+      "text": "Chaos erupts among the passengers.",
+      "level": 1
+    },
+    {
+      "id": "28.1",
+      "text": "Passengers are terrified and crying out that they will all die.",
+      "level": 2
+    },
+    {
+      "id": "28.2",
+      "text": "They repeatedly mention the term 'ship lice' and its deadly implications.",
+      "level": 2
+    },
+    {
+      "id": "29",
+      "text": "The captain tries to reassure the passengers.",
+      "level": 1
+    },
+    {
+      "id": "29.1",
+      "text": "He acknowledges the existence of 'ship lice' but dismisses them as common insects (sea cockroaches).",
+      "level": 2
+    },
+    {
+      "id": "29.2",
+      "text": "He urges them to not be swayed by rumors and to trust the crew.",
+      "level": 2
+    },
+    {
+      "id": "30",
+      "text": "The narrator seeks out Liu Wei, suspecting his involvement in inciting the passengers.",
+      "level": 1
+    },
+    {
+      "id": "30.1",
+      "text": "The narrator finds Liu Wei playing cards in the entertainment room.",
+      "level": 2
+    },
+    {
+      "id": "31",
+      "text": "The narrator confronts Liu Wei.",
+      "level": 1
+    },
+    {
+      "id": "31.1",
+      "text": "The narrator accuses Liu Wei of inciting passengers and instilling fear in Captain Tang Luofei.",
+      "level": 2
+    },
+    {
+      "id": "32",
+      "text": "Liu Wei reveals his motive: revenge for his brother's death.",
+      "level": 1
+    },
+    {
+      "id": "32.1",
+      "text": "His mother died in the past maritime disaster.",
+      "level": 2
+    },
+    {
+      "id": "32.2",
+      "text": "His brother, one of the six crew members, died trying to secure the cargo.",
+      "level": 2
+    },
+    {
+      "id": "32.3",
+      "text": "Liu Wei claims Captain Tang Luofei was a coward who fled instead of helping, and that the 'creatures' (ship lice) attacked and dragged his brother and others to their deaths.",
+      "level": 2
+    },
+    {
+      "id": "32.4",
+      "text": "Liu Wei believes the ship is destined to sink, as the ship lice have been waiting for a year.",
+      "level": 2
+    },
+    {
+      "id": "33",
+      "text": "Liu Wei offers the narrator a chance to escape.",
+      "level": 1
+    },
+    {
+      "id": "33.1",
+      "text": "He tells the narrator to go to the stern and take a lifeboat and life jacket.",
+      "level": 2
+    },
+    {
+      "id": "34",
+      "text": "The narrator confronts Liu Wei about his cruel plan.",
+      "level": 1
+    },
+    {
+      "id": "34.1",
+      "text": "The narrator accuses Liu Wei of using the entire ship to avenge his brother.",
+      "level": 2
+    },
+    {
+      "id": "34.2",
+      "text": "Liu Wei states that everyone on board, except the narrator, was also on the ship a year ago.",
+      "level": 2
+    },
+    {
+      "id": "35",
+      "text": "The ship suddenly stops.",
+      "level": 1
+    },
+    {
+      "id": "35.1",
+      "text": "Liu Wei's demeanor changes, realizing 'they' have arrived.",
+      "level": 2
+    },
+    {
+      "id": "36",
+      "text": "Liu Wei reveals the key to survival: 'belief'.",
+      "level": 1
+    },
+    {
+      "id": "36.1",
+      "text": "He explains that ship lice are attracted to fear and despair.",
+      "level": 2
+    },
+    {
+      "id": "36.2",
+      "text": "A strong belief in survival can lead to escape.",
+      "level": 2
+    },
+    {
+      "id": "37",
+      "text": "Liu Wei confesses his role in creating panic.",
+      "level": 1
+    },
+    {
+      "id": "37.1",
+      "text": "He wanted to create enough fear to make the ship turn back.",
+      "level": 2
+    },
+    {
+      "id": "38",
+      "text": "The narrator encourages Liu Wei to try and survive.",
+      "level": 1
+    },
+    {
+      "id": "39",
+      "text": "They head to the command center.",
+      "level": 1
+    },
+    {
+      "id": "39.1",
+      "text": "The corridors are filled with panicked passengers preparing to abandon ship.",
+      "level": 2
+    },
+    {
+      "id": "40",
+      "text": "The captain, Tang Luofei, has fled.",
+      "level": 1
+    },
+    {
+      "id": "40.1",
+      "text": "A crew member informs them that the captain has escaped and they should also abandon ship.",
+      "level": 2
+    },
+    {
+      "id": "41",
+      "text": "Liu Wei takes charge as the acting captain.",
+      "level": 1
+    },
+    {
+      "id": "41.1",
+      "text": "He declares himself the temporary captain of the 'Tianshun'.",
+      "level": 2
+    },
+    {
+      "id": "41.2",
+      "text": "He orders the crew to remain at their posts and reassure the passengers.",
+      "level": 2
+    },
+    {
+      "id": "42",
+      "text": "The narrator finds Captain Tang Luofei attempting to escape.",
+      "level": 1
+    },
+    {
+      "id": "42.1",
+      "text": "Tang Luofei is in a lifeboat, claiming he doesn't want to die because he has a two-year-old son.",
+      "level": 2
+    },
+    {
+      "id": "43",
+      "text": "Tang Luofei is attacked and dragged into the sea by ship lice.",
+      "level": 1
+    },
+    {
+      "id": "43.1",
+      "text": "The narrator mocks him for abandoning the ship.",
+      "level": 2
+    },
+    {
+      "id": "43.2",
+      "text": "The ship lice surround the ship, like predators watching their prey.",
+      "level": 2
+    },
+    {
+      "id": "44",
+      "text": "The ship continues to shake violently.",
+      "level": 1
+    },
+    {
+      "id": "44.1",
+      "text": "The radar is completely filled with white dots, indicating an overwhelming number of ship lice.",
+      "level": 2
+    },
+    {
+      "id": "45",
+      "text": "Passengers who attempt to jump overboard are immediately dragged down by the ship lice.",
+      "level": 1
+    },
+    {
+      "id": "46",
+      "text": "Liu Wei proposes jettisoning all lower deck cargo to reduce weight and give the ship a chance.",
+      "level": 1
+    },
+    {
+      "id": "46.1",
+      "text": "Zhao Weidong vehemently opposes this, as it would mean losing his cargo and incurring massive debt.",
+      "level": 2
+    },
+    {
+      "id": "47",
+      "text": "Liu Wei and others go to the lower deck to discard the cargo.",
+      "level": 1
+    },
+    {
+      "id": "47.1",
+      "text": "Liu Wei thanks the narrator for the support and expresses his pain from the past year.",
+      "level": 2
+    },
+    {
+      "id": "48",
+      "text": "Zhao Weidong interferes with the cargo removal.",
+      "level": 1
+    },
+    {
+      "id": "48.1",
+      "text": "He pleads for them to leave some cars.",
+      "level": 2
+    },
+    {
+      "id": "49",
+      "text": "Zhao Weidong is attacked and dragged into the sea by ship lice.",
+      "level": 1
+    },
+    {
+      "id": "49.1",
+      "text": "He is pulled down with a car, along with several ship lice.",
+      "level": 2
+    },
+    {
+      "id": "50",
+      "text": "The remaining cargo is quickly jettisoned.",
+      "level": 1
+    },
+    {
+      "id": "50.1",
+      "text": "They continue to push cargo overboard while fending off ship lice.",
+      "level": 2
+    },
+    {
+      "id": "51",
+      "text": "The ship still cannot move at maximum power.",
+      "level": 1
+    },
+    {
+      "id": "51.1",
+      "text": "Passengers erupt in despair and curses.",
+      "level": 2
+    },
+    {
+      "id": "52",
+      "text": "The ship finally moves.",
+      "level": 1
+    },
+    {
+      "id": "52.1",
+      "text": "The white dots on the radar begin to disappear.",
+      "level": 2
+    },
+    {
+      "id": "52.2",
+      "text": "Celebrations erupt in the command center and outside.",
+      "level": 2
+    },
+    {
+      "id": "53",
+      "text": "The ship returns to port.",
+      "level": 1
+    },
+    {
+      "id": "53.1",
+      "text": "Twelve people, including the captain, were lost.",
+      "level": 2
+    },
+    {
+      "id": "53.2",
+      "text": "All cargo was lost, but most passengers and crew survived.",
+      "level": 2
+    },
+    {
+      "id": "54",
+      "text": "The narrator is afraid of ships after the experience.",
+      "level": 1
+    },
+    {
+      "id": "54.1",
+      "text": "Liu Wei sends the narrator greeting cards with the word 'Belief' each year.",
+      "level": 2
+    },
+    {
+      "id": "55",
+      "text": "The narrator and others reflect on the power of belief.",
+      "level": 1
+    },
+    {
+      "id": "55.1",
+      "text": "The narrator, Ji Yan, and Luo Lei agree that belief is a powerful force.",
+      "level": 2
+    },
+    {
+      "id": "55.2",
+      "text": "Li Duo is focused on a music score, preparing for a performance.",
+      "level": 2
+    },
+    {
+      "id": "56",
+      "text": "The story shifts to 'The 27th Night: Choir'.",
+      "level": 1
+    },
+    {
+      "id": "56.1",
+      "text": "A girl is in distress, struggling like a fish caught by a hook.",
+      "level": 2
+    },
+    {
+      "id": "56.2",
+      "text": "Her throat is bleeding, and she is unable to speak.",
+      "level": 2
+    },
+    {
+      "id": "57",
+      "text": "The narrator, Ji Yan, and Luo Lei visit a university campus.",
+      "level": 1
+    },
+    {
+      "id": "57.1",
+      "text": "They are going to see Li Duo's performance.",
+      "level": 2
+    },
+    {
+      "id": "58",
+      "text": "Li Duo is participating in a choir.",
+      "level": 1
+    },
+    {
+      "id": "58.1",
+      "text": "The narrator was unaware of her singing talent.",
+      "level": 2
+    },
+    {
+      "id": "59",
+      "text": "While walking on campus, the narrator is bumped into by a girl.",
+      "level": 1
+    },
+    {
+      "id": "59.1",
+      "text": "The girl drops books and sheet music and apologizes profusely.",
+      "level": 2
+    },
+    {
+      "id": "60",
+      "text": "Li Duo appears and introduces the girl as her friend, Lü Lü.",
+      "level": 1
+    },
+    {
+      "id": "60.1",
+      "text": "Lü Lü is a member of the choir.",
+      "level": 2
+    },
+    {
+      "id": "60.2",
+      "text": "They are all going to the rehearsal theater.",
+      "level": 2
+    },
+    {
+      "id": "61",
+      "text": "Li Duo explains the difference between a choir and casual group singing.",
+      "level": 1
+    },
+    {
+      "id": "61.1",
+      "text": "A choir involves artistic pursuit and mastery of vocal techniques.",
+      "level": 2
+    },
+    {
+      "id": "61.2",
+      "text": "Choirs are structured by voice parts: soprano, tenor, alto, and basso.",
+      "level": 2
+    },
+    {
+      "id": "62",
+      "text": "The theater is described as an old, Gothic-style building.",
+      "level": 1
+    },
+    {
+      "id": "62.1",
+      "text": "It has high spires, a semicircular entrance, and tall, narrow windows.",
+      "level": 2
+    },
+    {
+      "id": "62.2",
+      "text": "The interior is largely made of wood.",
+      "level": 2
+    },
+    {
+      "id": "63",
+      "text": "They encounter a tall girl named Ling Feng.",
+      "level": 1
+    },
+    {
+      "id": "63.1",
+      "text": "Ling Feng is wearing a red sweater and has an arrogant and flirtatious demeanor.",
+      "level": 2
+    },
+    {
+      "id": "63.2",
+      "text": "She tells Li Duo that the teacher is looking for her and that she's brought a 'fan club'.",
+      "level": 2
+    },
+    {
+      "id": "64",
+      "text": "Li Duo dismisses Ling Feng, stating she's only a substitute and that the best members will perform for school leadership.",
+      "level": 1
+    },
+    {
+      "id": "65",
+      "text": "Ling Feng is revealed to be the daughter of a wealthy man who donated money to the school.",
+      "level": 1
+    },
+    {
+      "id": "65.1",
+      "text": "She's criticized for her singing being off-key.",
+      "level": 2
+    },
+    {
+      "id": "66",
+      "text": "The narrator asks about the difficulty of joining the choir.",
+      "level": 1
+    },
+    {
+      "id": "66.1",
+      "text": "Lü Lü explains that the choir is strictly selected by their teacher, Mr. Gu, and consists only of girls.",
+      "level": 2
+    },
+    {
+      "id": "66.2",
+      "text": "Lü Lü expresses her fear of not being good enough.",
+      "level": 2
+    },
+    {
+      "id": "67",
+      "text": "The narrator and Ji Yan decide to explore the campus while Luo Lei stays for rehearsal.",
+      "level": 1
+    },
+    {
+      "id": "67.1",
+      "text": "The narrator feels an unusual coldness on campus, despite the sunny weather.",
+      "level": 2
+    },
+    {
+      "id": "68",
+      "text": "Ji Yan discusses campus legends and the danger of rumors.",
+      "level": 1
+    },
+    {
+      "id": "68.1",
+      "text": "He mentions a legend about the chemistry lab being permanently closed due to a teacher's suicide.",
+      "level": 2
+    },
+    {
+      "id": "68.2",
+      "text": "Ji Yan believes that rumors can evolve into reality if people constantly worry about them.",
+      "level": 2
+    },
+    {
+      "id": "69",
+      "text": "They meet Mr. Gu, the choir director.",
+      "level": 1
+    },
+    {
+      "id": "69.1",
+      "text": "Mr. Gu, a fair-skinned man in his thirties, has a delicate voice.",
+      "level": 2
+    },
+    {
+      "id": "69.2",
+      "text": "He praises Li Duo's potential but notes her tendency to be overly expressive and not always in sync with the group.",
+      "level": 2
+    },
+    {
+      "id": "69.3",
+      "text": "He explains the importance of harmony, unified breathing, and pure intonation in a choir.",
+      "level": 2
+    },
+    {
+      "id": "70",
+      "text": "A scream is heard from the rehearsal room.",
+      "level": 1
+    },
+    {
+      "id": "70.1",
+      "text": "Ji Yan, excited, rushes to investigate with the narrator.",
+      "level": 2
+    },
+    {
+      "id": "71",
+      "text": "A girl is found on the floor, clutching her throat.",
+      "level": 1
+    },
+    {
+      "id": "71.1",
+      "text": "Her throat is swollen and dark blue.",
+      "level": 2
+    },
+    {
+      "id": "72",
+      "text": "Ji Yan treats the girl with acupuncture needles.",
+      "level": 1
+    },
+    {
+      "id": "72.1",
+      "text": "He inserts needles into her neck, causing dark, foul-smelling blood to drain.",
+      "level": 2
+    },
+    {
+      "id": "72.2",
+      "text": "The girl's condition improves, but she will be unable to sing for a while.",
+      "level": 2
+    },
+    {
+      "id": "73",
+      "text": "Ji Yan's actions draw the attention of the other girls.",
+      "level": 1
+    },
+    {
+      "id": "73.1",
+      "text": "Li Duo introduces Ji Yan, and they escape the ensuing crowd.",
+      "level": 2
+    },
+    {
+      "id": "74",
+      "text": "The girl who fell ill is identified as Wei Xiaoxue.",
+      "level": 1
+    },
+    {
+      "id": "74.1",
+      "text": "Ling Feng will temporarily take her place in the performance.",
+      "level": 2
+    },
+    {
+      "id": "75",
+      "text": "The other girls speculate that Ling Feng poisoned Wei Xiaoxue.",
+      "level": 1
+    },
+    {
+      "id": "75.1",
+      "text": "They mention Ling Feng's wealthy family and the possibility of police involvement.",
+      "level": 2
+    },
+    {
+      "id": "75.2",
+      "text": "Ling Feng overhears them and dismisses their accusations as jealousy.",
+      "level": 2
+    },
+    {
+      "id": "76",
+      "text": "The choir has a total of ten members performing.",
+      "level": 1
+    },
+    {
+      "id": "76.1",
+      "text": "The selected songs are 'My Motherland', 'Love My China', and 'Drinking Song'.",
+      "level": 2
+    },
+    {
+      "id": "76.2",
+      "text": "The narrator and Ji Yan listen to their practice.",
+      "level": 2
+    }
+  ],
+  "concepts": [
+    {
+      "name": "ship lice",
+      "frequency": 26,
+      "context": "The central supernatural entity/phenomenon in the story, depicted as vengeful spirits of those who died in sea accidents, capable of attacking ships and dragging people into the sea. Also referred to as 'dirty thing', 'sea cockroaches', and the collective of drowned souls."
+    },
+    {
+      "name": "belief",
+      "frequency": 5,
+      "context": "Presented as the key to survival against the ship lice, emphasizing inner strength and the refusal to succumb to fear and despair."
+    },
+    {
+      "name": "Liu Wei",
+      "frequency": 11,
+      "context": "The first mate of the ship 'Tianshun', who knows the truth about the ship lice from a past incident involving his brother's death. He becomes the acting captain and orchestrates the escape plan."
+    },
+    {
+      "name": "Captain Tang Luofei",
+      "frequency": 9,
+      "context": "The captain of the 'Tianshun', who experienced a traumatic encounter with ship lice a year prior and is terrified of them. He ultimately flees the ship when the danger becomes imminent."
+    },
+    {
+      "name": "narrator",
+      "frequency": 22,
+      "context": "The protagonist and storyteller, referred to as 'I' and 'Ji Yan' at various points. He is an investigator of strange phenomena and plays a crucial role in the ship's survival."
+    },
+    {
+      "name": "choir",
+      "frequency": 13,
+      "context": "A group of female singers at a university, central to the second part of the story. The narrator and his companions attend their performance."
+    },
+    {
+      "name": "Li Duo",
+      "frequency": 10,
+      "context": "A character who is part of the choir. The narrator and his friends are attending her performance. She is also involved in the initial mysterious conversations."
+    },
+    {
+      "name": "fear",
+      "frequency": 5,
+      "context": "A key emotion that the ship lice exploit. The story emphasizes overcoming fear through belief."
+    },
+    {
+      "name": "survival",
+      "frequency": 5,
+      "context": "The central theme of the 'ship lice' narrative, focusing on the efforts to escape the creatures and the importance of belief in achieving it."
+    },
+    {
+      "name": "revenge",
+      "frequency": 2,
+      "context": "Liu Wei's primary motivation for his actions, stemming from the death of his brother."
+    },
+    {
+      "name": "rumors",
+      "frequency": 3,
+      "context": "The concept that rumors and widespread belief can manifest into reality, as discussed by Ji Yan."
+    },
+    {
+      "name": "harmony",
+      "frequency": 3,
+      "context": "A key concept in choir singing, referring to the unified sound and cooperation of the singers. Also a thematic element related to the narrator's interactions."
+    },
+    {
+      "name": "cargo",
+      "frequency": 6,
+      "context": "The goods being transported on the ship, particularly the cars, which become a focal point of the danger and the solution to the ship's predicament."
+    },
+    {
+      "name": "Zhao Weidong",
+      "frequency": 6,
+      "context": "A passenger who is a cargo hauler. He is initially concerned about his cargo and later tragically becomes a victim of the ship lice."
+    },
+    {
+      "name": "Lü Lü",
+      "frequency": 3,
+      "context": "A member of the choir and a friend of Li Duo. She is introduced as a shy and kind character."
+    },
+    {
+      "name": "Ling Feng",
+      "frequency": 4,
+      "context": "A member of the choir who is portrayed as arrogant and potentially malicious, suspected of poisoning another choir member."
+    },
+    {
+      "name": "Mr. Gu (Gu Peng)",
+      "frequency": 3,
+      "context": "The choir director, who is knowledgeable about singing and harmony. He is also briefly encountered by the narrator and Ji Yan."
+    },
+    {
+      "name": "Wei Xiaoxue",
+      "frequency": 2,
+      "context": "A choir member who falls ill during rehearsal, suspected of being poisoned by Ling Feng."
+    },
+    {
+      "name": "university",
+      "frequency": 5,
+      "context": "The setting for the second part of the story, where Li Duo's choir performance takes place."
+    },
+    {
+      "name": "legend",
+      "frequency": 3,
+      "context": "The concept of stories and myths that may hold some truth, as discussed in relation to campus legends and the ship lice."
+    }
+  ],
+  "relations": [
+    {
+      "source": "ship lice",
+      "target": "vengeful spirits",
+      "type": "is_a"
+    },
+    {
+      "source": "ship lice",
+      "target": "sea accidents",
+      "type": "related_to"
+    },
+    {
+      "source": "ship lice",
+      "target": "fear",
+      "type": "exploits"
+    },
+    {
+      "source": "belief",
+      "target": "survival",
+      "type": "enables"
+    },
+    {
+      "source": "Liu Wei",
+      "target": "acting captain",
+      "type": "becomes"
+    },
+    {
+      "source": "Liu Wei",
+      "target": "revenge",
+      "type": "motivated_by"
+    },
+    {
+      "source": "Captain Tang Luofei",
+      "target": "fear",
+      "type": "experiences"
+    },
+    {
+      "source": "Captain Tang Luofei",
+      "target": "fled",
+      "type": "action"
+    },
+    {
+      "source": "narrator",
+      "target": "investigator",
+      "type": "role"
+    },
+    {
+      "source": "narrator",
+      "target": "Ji Yan",
+      "type": "identity"
+    },
+    {
+      "source": "choir",
+      "target": "university",
+      "type": "located_at"
+    },
+    {
+      "source": "Li Duo",
+      "target": "choir",
+      "type": "member_of"
+    },
+    {
+      "source": "rumors",
+      "target": "reality",
+      "type": "can_manifest_into"
+    },
+    {
+      "source": "harmony",
+      "target": "choir singing",
+      "type": "essential_for"
+    },
+    {
+      "source": "cargo",
+      "target": "ship",
+      "type": "transported_on"
+    },
+    {
+      "source": "Zhao Weidong",
+      "target": "cargo hauler",
+      "type": "occupation"
+    },
+    {
+      "source": "Zhao Weidong",
+      "target": "ship lice",
+      "type": "victim_of"
+    },
+    {
+      "source": "Lü Lü",
+      "target": "choir",
+      "type": "member_of"
+    },
+    {
+      "source": "Ling Feng",
+      "target": "choir",
+      "type": "member_of"
+    },
+    {
+      "source": "Ling Feng",
+      "target": "poisoned",
+      "type": "suspected_of"
+    },
+    {
+      "source": "Mr. Gu (Gu Peng)",
+      "target": "choir director",
+      "type": "role"
+    },
+    {
+      "source": "Wei Xiaoxue",
+      "target": "choir",
+      "type": "member_of"
+    },
+    {
+      "source": "Wei Xiaoxue",
+      "target": "illness",
+      "type": "experienced"
+    },
+    {
+      "source": "legend",
+      "target": "truth",
+      "type": "may_contain"
+    }
+  ],
+  "hierarchy": {
+    "main_topics": [
+      "Ship lice and maritime disaster",
+      "The power of belief",
+      "Choir performance and interpersonal conflicts"
+    ],
+    "structure": "The document is divided into two main narrative arcs. The first arc details a harrowing experience on a ship haunted by 'ship lice', culminating in a desperate struggle for survival. The second arc shifts to a university setting, focusing on a choir performance and a mysterious poisoning incident. Both arcs explore themes of fear, belief, and the supernatural."
+  }
+}

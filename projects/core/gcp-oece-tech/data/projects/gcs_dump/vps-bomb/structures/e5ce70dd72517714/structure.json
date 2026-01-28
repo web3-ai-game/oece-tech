@@ -1,0 +1,366 @@
+{
+  "propositions": [
+    {
+      "id": "1",
+      "text": "她是一名高材生，即将毕业。",
+      "level": 1
+    },
+    {
+      "id": "1.1",
+      "text": "然而，在她人生的顶峰，命运却给了她一个巨大的打击。",
+      "level": 2
+    },
+    {
+      "id": "1.2",
+      "text": "一场意外，让她的人生跌入了谷底。",
+      "level": 2
+    },
+    {
+      "id": "2",
+      "text": "她无法接受这一切。",
+      "level": 1
+    },
+    {
+      "id": "3",
+      "text": "她不甘心。",
+      "level": 1
+    },
+    {
+      "id": "4",
+      "text": "她要让那些伤害她的人付出代价。",
+      "level": 1
+    },
+    {
+      "id": "5",
+      "text": "她是一个女人，一个坚强的女人。",
+      "level": 1
+    },
+    {
+      "id": "5.1",
+      "text": "她会用自己的方式，让那些伤害她的人付出代价。",
+      "level": 2
+    },
+    {
+      "id": "6",
+      "text": "39摄氏度。",
+      "level": 1
+    },
+    {
+      "id": "7",
+      "text": "她觉得自己快要炸了。",
+      "level": 1
+    },
+    {
+      "id": "8",
+      "text": "然而，她依然在坚持。",
+      "level": 1
+    },
+    {
+      "id": "9",
+      "text": "她身高155厘米，体重155斤。",
+      "level": 1
+    },
+    {
+      "id": "9.1",
+      "text": "这对于她来说，简直是天大的耻辱。",
+      "level": 2
+    },
+    {
+      "id": "10",
+      "text": "她曾经是一名模特，身材傲人。",
+      "level": 1
+    },
+    {
+      "id": "10.1",
+      "text": "然而，一场意外，却让她变得肥胖不堪。",
+      "level": 2
+    },
+    {
+      "id": "11",
+      "text": "她不甘心。",
+      "level": 1
+    },
+    {
+      "id": "12",
+      "text": "她要减肥，她要变美。",
+      "level": 1
+    },
+    {
+      "id": "13",
+      "text": "她要让那些伤害她的人，看到她现在的样子。",
+      "level": 1
+    },
+    {
+      "id": "14",
+      "text": "她要让他们后悔。",
+      "level": 1
+    },
+    {
+      "id": "15",
+      "text": "她是一名女人，一个不屈的女人。",
+      "level": 1
+    },
+    {
+      "id": "15.1",
+      "text": "她会用自己的方式，让他们后悔。",
+      "level": 2
+    },
+    {
+      "id": "16",
+      "text": "她知道，她有很多事情要做。",
+      "level": 1
+    },
+    {
+      "id": "17",
+      "text": "她要变美。",
+      "level": 1
+    },
+    {
+      "id": "18",
+      "text": "她要变强。",
+      "level": 1
+    },
+    {
+      "id": "19",
+      "text": "她要让他们后悔。",
+      "level": 1
+    },
+    {
+      "id": "20",
+      "text": "她是一名女人，一个坚强的女人。",
+      "level": 1
+    },
+    {
+      "id": "20.1",
+      "text": "她会用自己的方式，让他们后悔。",
+      "level": 2
+    },
+    {
+      "id": "21",
+      "text": "她还有很多事情要做。",
+      "level": 1
+    },
+    {
+      "id": "22",
+      "text": "她要做的事情，还有很多。",
+      "level": 1
+    },
+    {
+      "id": "23",
+      "text": "她要变美。",
+      "level": 1
+    },
+    {
+      "id": "24",
+      "text": "她要变强。",
+      "level": 1
+    },
+    {
+      "id": "25",
+      "text": "她要让他们后悔。",
+      "level": 1
+    },
+    {
+      "id": "26",
+      "text": "她知道，她不能倒下。",
+      "level": 1
+    },
+    {
+      "id": "27",
+      "text": "她要活着，她要变美。",
+      "level": 1
+    },
+    {
+      "id": "28",
+      "text": "她要让他们后悔。",
+      "level": 1
+    },
+    {
+      "id": "29",
+      "text": "她是一名女人，一个坚强的女人。",
+      "level": 1
+    },
+    {
+      "id": "29.1",
+      "text": "她会用自己的方式，让他们后悔。",
+      "level": 2
+    }
+  ],
+  "concepts": [
+    {
+      "name": "她",
+      "frequency": 38,
+      "context": "The central protagonist of the narrative."
+    },
+    {
+      "name": "变美",
+      "frequency": 14,
+      "context": "A key aspiration and goal of the protagonist."
+    },
+    {
+      "name": "后悔",
+      "frequency": 14,
+      "context": "The desired outcome for those who have wronged the protagonist."
+    },
+    {
+      "name": "坚强",
+      "frequency": 10,
+      "context": "A descriptor of the protagonist's character."
+    },
+    {
+      "name": "女人",
+      "frequency": 9,
+      "context": "The protagonist's identity and self-perception."
+    },
+    {
+      "name": "变强",
+      "frequency": 7,
+      "context": "Another important goal for the protagonist."
+    },
+    {
+      "name": "不甘心",
+      "frequency": 2,
+      "context": "The protagonist's emotional state regarding her circumstances."
+    },
+    {
+      "name": "付出代价",
+      "frequency": 2,
+      "context": "The protagonist's intention for her enemies."
+    },
+    {
+      "name": "意外",
+      "frequency": 2,
+      "context": "The cause of the protagonist's current misfortune."
+    },
+    {
+      "name": "高材生",
+      "frequency": 1,
+      "context": "The protagonist's former status as a student."
+    },
+    {
+      "name": "模特",
+      "frequency": 1,
+      "context": "The protagonist's former profession and former physical state."
+    },
+    {
+      "name": "减肥",
+      "frequency": 1,
+      "context": "A specific action the protagonist intends to take."
+    },
+    {
+      "name": "活着",
+      "frequency": 7,
+      "context": "A fundamental desire and prerequisite for the protagonist's other goals."
+    },
+    {
+      "name": "不能倒下",
+      "frequency": 7,
+      "context": "The protagonist's determination to persevere."
+    },
+    {
+      "name": "事情要做",
+      "frequency": 6,
+      "context": "The protagonist's acknowledgment of future tasks."
+    }
+  ],
+  "relations": [
+    {
+      "source": "她",
+      "target": "坚强",
+      "type": "is_a"
+    },
+    {
+      "source": "她",
+      "target": "女人",
+      "type": "is_a"
+    },
+    {
+      "source": "她",
+      "target": "变美",
+      "type": "desires"
+    },
+    {
+      "source": "她",
+      "target": "变强",
+      "type": "desires"
+    },
+    {
+      "source": "她",
+      "target": "后悔",
+      "type": "wants_others_to_experience"
+    },
+    {
+      "source": "她",
+      "target": "活着",
+      "type": "desires"
+    },
+    {
+      "source": "她",
+      "target": "不能倒下",
+      "type": "is_determined_to"
+    },
+    {
+      "source": "意外",
+      "target": "人生跌入谷底",
+      "type": "causes"
+    },
+    {
+      "source": "意外",
+      "target": "变得肥胖不堪",
+      "type": "causes"
+    },
+    {
+      "source": "不甘心",
+      "target": "付出代价",
+      "type": "motivates"
+    },
+    {
+      "name": "不甘心",
+      "frequency": 2,
+      "context": "The protagonist's emotional state regarding her circumstances."
+    },
+    {
+      "name": "付出代价",
+      "frequency": 2,
+      "context": "The protagonist's intention for her enemies."
+    },
+    {
+      "name": "高材生",
+      "frequency": 1,
+      "context": "The protagonist's former status as a student."
+    },
+    {
+      "name": "模特",
+      "frequency": 1,
+      "context": "The protagonist's former profession and former physical state."
+    },
+    {
+      "name": "减肥",
+      "frequency": 1,
+      "context": "A specific action the protagonist intends to take."
+    },
+    {
+      "name": "活着",
+      "frequency": 7,
+      "context": "A fundamental desire and prerequisite for the protagonist's other goals."
+    },
+    {
+      "name": "不能倒下",
+      "frequency": 7,
+      "context": "The protagonist's determination to persevere."
+    },
+    {
+      "name": "事情要做",
+      "frequency": 6,
+      "context": "The protagonist's acknowledgment of future tasks."
+    }
+  ],
+  "hierarchy": {
+    "main_topics": [
+      "Protagonist's Current State and Feelings",
+      "Protagonist's Past and The Incident",
+      "Protagonist's Goals and Determination"
+    ],
+    "structure": "The document follows a thematic structure. It begins by describing the protagonist's immediate physical and emotional state after an incident, then delves into her past and the cause of her suffering. Finally, it emphasizes her strong resolve and future aspirations."
+  }
+}

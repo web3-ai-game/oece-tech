@@ -1,0 +1,85 @@
+{
+  "propositions": [
+    {
+      "id": "1",
+      "text": "The narrative revolves around themes of fear, darkness, and inner conflict.",
+      "level": 1
+    },
+    {
+      "id": "1.1",
+      "text": "The protagonist experiences intense fear and encounters mysterious figures in a dark, eerie setting.",
+      "level": 2
+    },
+    {
+      "id": "1.2",
+      "text": "The concept of 'Phoenix's Cry' symbolizes inner pain and the unlocking of suppressed emotions or memories.",
+      "level": 2
+    },
+    {
+      "id": "2",
+      "text": "The story progresses through a journey of discovery and confrontation with past traumas.",
+      "level": 1
+    },
+    {
+      "id": "2.1",
+      "text": "The protagonist uncovers clues about the 'Phoenix's Cry' through ancient letters and encounters with shadowy figures.",
+      "level": 2
+    },
+    {
+      "id": "2.2",
+      "text": "The resolution involves a final act of self-sacrifice to achieve inner peace.",
+      "level": 2
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Phoenix's Cry",
+      "frequency": 5,
+      "context": "A central metaphor for inner pain and liberation through suffering."
+    },
+    {
+      "name": "Fear",
+      "frequency": 10,
+      "context": "A pervasive emotion driving the protagonist's actions and perceptions."
+    },
+    {
+      "name": "Darkness",
+      "frequency": 8,
+      "context": "Represents both literal and metaphorical settings of danger and mystery."
+    },
+    {
+      "name": "Blood",
+      "frequency": 6,
+      "context": "Symbolizes violence, sacrifice, and the protagonist's internal struggle."
+    }
+  ],
+  "relations": [
+    {
+      "source": "Phoenix's Cry",
+      "target": "Fear",
+      "type": "implies"
+    },
+    {
+      "source": "Phoenix's Cry",
+      "target": "Blood",
+      "type": "part_of"
+    },
+    {
+      "source": "Darkness",
+      "target": "Fear",
+      "type": "causes"
+    },
+    {
+      "source": "Blood",
+      "target": "Darkness",
+      "type": "associated_with"
+    }
+  ],
+  "hierarchy": {
+    "main_topics": [
+      "Fear and Darkness",
+      "Phoenix's Cry and Liberation"
+    ],
+    "structure": "The document is structured into five chapters, each escalating the protagonist's confrontation with fear and culminating in a resolution through self-sacrifice, followed by author notes and acknowledgments."
+  }
+}

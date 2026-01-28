@@ -1,0 +1,614 @@
+{
+  "propositions": [
+    {
+      "id": "1",
+      "text": "The story is about \"Ghost Doesn't Speak\" by Tianxia Chang",
+      "level": 1
+    },
+    {
+      "id": "1.1",
+      "text": "The text is a TXT novel from \"TXT Novel Heaven\"",
+      "level": 2
+    },
+    {
+      "id": "2",
+      "text": "Chapter 1: Old Blind Yi's Ghost Market Ear Record",
+      "level": 1
+    },
+    {
+      "id": "2.1",
+      "text": "Old Beijingers referred to \"ghost markets\" as places where people with questionable goods set up stalls in the dark.",
+      "level": 2
+    },
+    {
+      "id": "2.2",
+      "text": "Old Blind Yi lived in Gangfang Hutong and made a living by grave robbing before liberation.",
+      "level": 2
+    },
+    {
+      "id": "2.3",
+      "text": "Old Blind Yi's poor eyesight led to humorous misunderstandings.",
+      "level": 2
+    },
+    {
+      "id": "2.4",
+      "text": "Due to his eyesight, Old Blind Yi could no longer be a grave robber and set up a stall in the ghost market selling firecrackers (取灯儿).",
+      "level": 2
+    },
+    {
+      "id": "2.5",
+      "text": "Old Blind Yi recounts a strange experience in a dilapidated temple where he encountered a six-eyed woman.",
+      "level": 2
+    },
+    {
+      "id": "2.6",
+      "text": "During a lightning strike, Old Blind Yi's eyes were injured, and he discovered a giant spider with luminous stones inside that caused the mountain to glow.",
+      "level": 2
+    },
+    {
+      "id": "3",
+      "text": "Chapter 2: Man-eating Murals in the Ancient Tomb",
+      "level": 1
+    },
+    {
+      "id": "3.1",
+      "text": "The narrator's father accidentally killed a snake, and a child warned him that someone from his family (born in the year of the snake) would pay with their life.",
+      "level": 2
+    },
+    {
+      "id": "3.2",
+      "text": "The narrator fell gravely ill, and Old Blind Yi advised changing the narrator's name and hiding in the countryside to ward off the snake spirit.",
+      "level": 2
+    },
+    {
+      "id": "3.3",
+      "text": "Old Blind Yi had a unique way of eating grilled lamb, and the narrator often helped him roast it.",
+      "level": 2
+    },
+    {
+      "id": "3.4",
+      "text": "During these meals, Old Blind Yi would tell stories of his grave-robbing adventures.",
+      "level": 2
+    },
+    {
+      "id": "3.5",
+      "text": "The narrator learned martial arts from Master Han, a bricklayer, but Old Blind Yi warned him against it.",
+      "level": 2
+    },
+    {
+      "id": "3.6",
+      "text": "The narrator got into trouble by intervening in an altercation, hitting a wealthy person's son, and then hid at Old Blind Yi's house.",
+      "level": 2
+    },
+    {
+      "id": "3.7",
+      "text": "While hiding, the narrator was startled by what appeared to be a large tail under Old Blind Yi's blanket.",
+      "level": 2
+    },
+    {
+      "id": "4",
+      "text": "Chapter 3: Thousand-Year Nightmare",
+      "level": 1
+    },
+    {
+      "id": "4.1",
+      "text": "The narrator fled to Inner Mongolia after a violent incident.",
+      "level": 2
+    },
+    {
+      "id": "4.2",
+      "text": "He stayed with Old Blind Yi's sworn brother, referred to as \"Landlord\" (土地爷), in the Xing'an Mountains.",
+      "level": 2
+    },
+    {
+      "id": "4.3",
+      "text": "The narrator planned to mine for gold with \"Landlord\" and his granddaughter, Suoni'er.",
+      "level": 2
+    },
+    {
+      "id": "4.4",
+      "text": "They sold furs at a riverside market, where the narrator learned about the local dining customs based on the number of restaurant banners.",
+      "level": 2
+    },
+    {
+      "id": "4.5",
+      "text": "They ate stewed fish, and two men asked about the way to \"Old Gully\" (老沟).",
+      "level": 2
+    },
+    {
+      "id": "5",
+      "text": "Chapter 4: Me and Big Smoke Dish (大烟碟儿)",
+      "level": 1
+    },
+    {
+      "id": "5.1",
+      "text": "The innkeeper mentioned that few people return alive from Old Gully, and \"Landlord's\" grandfather had gone there to dig for gold.",
+      "level": 2
+    },
+    {
+      "id": "5.2",
+      "text": "The two men were interested in Old Gully and offered Suoni'er a large sum to guide them.",
+      "level": 2
+    },
+    {
+      "id": "5.3",
+      "text": "Old Gully is described as a dangerous wetland with deep mud and treacherous terrain, rumored to have ancient caves and \"earth ghosts\" that consume people.",
+      "level": 2
+    },
+    {
+      "id": "5.4",
+      "text": "One of the men, a \"second Daoist priest\" (二老道), claimed to be going to Old Gully to deal with a powerful zombie, but later admitted he was looking for an ancient tomb with murals.",
+      "level": 2
+    },
+    {
+      "id": "5.5",
+      "text": "His companion, Zhang Juwa, was an orphan raised by the military, strong and simple-minded.",
+      "level": 2
+    },
+    {
+      "id": "5.6",
+      "text": "Suoni'er agreed to be their guide, but insisted on thorough preparation.",
+      "level": 2
+    },
+    {
+      "id": "5.7",
+      "text": "She warned the narrator not to let \"Landlord\" know, as she wanted to earn money to stop him from going into the mountains.",
+      "level": 2
+    },
+    {
+      "id": "6",
+      "text": "Chapter 5: Strange Encounter in the Rat Cave (乌鼠洞)",
+      "level": 1
+    },
+    {
+      "id": "6.1",
+      "text": "The dangers of Old Gully are described, including unpredictable weather, getting lost, wolf packs, and treacherous frozen or half-frozen bogs.",
+      "level": 2
+    },
+    {
+      "id": "6.2",
+      "text": "The narrator, Suoni'er, the \"second Daoist priest,\" and Zhang Juwa met for the expedition.",
+      "level": 2
+    },
+    {
+      "id": "6.3",
+      "text": "The \"second Daoist priest\" questioned the lack of hunting dogs, and Suoni'er explained the shotgun was sufficient for defense against birds and snakes.",
+      "level": 2
+    },
+    {
+      "id": "6.4",
+      "text": "The narrator expressed concern about Zhang Juwa's weight carrying a pot through the swamp.",
+      "level": 2
+    },
+    {
+      "id": "6.5",
+      "text": "Suoni'er suggested using a camping mess kit for boiling water and emphasized bringing plenty of mugwort (艾草).",
+      "level": 2
+    },
+    {
+      "id": "6.6",
+      "text": "The group entered the vast, swampy grasslands, a dangerous terrain with deep mud and rapidly changing weather.",
+      "level": 2
+    },
+    {
+      "id": "6.7",
+      "text": "The \"second Daoist priest\" bragged about his grave-robbing experiences.",
+      "level": 2
+    },
+    {
+      "id": "6.8",
+      "text": "As they traveled, dark mists rose from the grass, which the \"second Daoist priest\" identified as \"demon energy\" (妖气).",
+      "level": 2
+    },
+    {
+      "id": "7",
+      "text": "Chapter 6: The Cave Army (窟子军) and Flying Immortal Village (飞仙村)",
+      "level": 1
+    },
+    {
+      "id": "7.1",
+      "text": "The narrator and Suoni'er re-enter the dangerous grasslands, facing challenges similar to those in Chapter 5.",
+      "level": 2
+    },
+    {
+      "id": "7.2",
+      "text": "The \"second Daoist priest\" asks for his \"demon-slaying sword,\" which turns out to be a peach wood stick.",
+      "level": 2
+    },
+    {
+      "id": "7.3",
+      "text": "Suoni'er identifies the black mist as \"deadly cows\" (叮死牛) and advises using mugwort smoke to repel them.",
+      "level": 2
+    },
+    {
+      "id": "8",
+      "text": "Chapter 7: Earth Dragon (土龙) under Tongtian Ridge (通天岭)",
+      "level": 1
+    },
+    {
+      "id": "8.1",
+      "text": "This chapter largely repeats descriptions and dialogue from Chapters 5 and 6 regarding the dangers of the grasslands and the characters' preparations.",
+      "level": 2
+    },
+    {
+      "id": "9",
+      "text": "Chapter 8: Ancient Tomb in Luoyang (洛阳古冢)",
+      "level": 1
+    },
+    {
+      "id": "9.1",
+      "text": "The story introduces Cui Laodao, a fortune teller in Tianjin who was known for his inaccurate predictions but skill in storytelling.",
+      "level": 2
+    },
+    {
+      "id": "9.2",
+      "text": "The three Du brothers, all with lame right legs, sought Cui Laodao's help to propose to the three daughters of a wealthy man, Mr. Gao.",
+      "level": 2
+    },
+    {
+      "id": "9.3",
+      "text": "Cui Laodao, despite his usual unreliability in such matters, promised success after being paid.",
+      "level": 2
+    },
+    {
+      "id": "9.4",
+      "text": "Cui Laodao's matchmaking was successful, but the brothers' deception was revealed during the wedding festivities, angering Mr. Gao.",
+      "level": 2
+    },
+    {
+      "id": "9.5",
+      "text": "Cui Laodao, fearing retribution, fled and decided to resort to grave robbing to make money.",
+      "level": 2
+    },
+    {
+      "id": "10",
+      "text": "Chapter 9: Monster in the Yellow River (黄河里的妖怪)",
+      "level": 1
+    },
+    {
+      "id": "10.1",
+      "text": "Cui Laodao planned to team up with his sworn brother, Yang Fang, nicknamed \"God-Whipping Whip Yang Fang\" (打神鞭杨方) and \"Sai Limiao\" (赛狸猫), a skilled grave robber.",
+      "level": 2
+    },
+    {
+      "id": "10.2",
+      "text": "Yang Fang inherited a special seven-section steel whip, the \"corpse-whipping whip,\" used for grave robbing and suppressing ghosts.",
+      "level": 2
+    },
+    {
+      "id": "10.3",
+      "text": "Yang Fang encountered the devastating aftermath of a Yellow River flood caused by the warlord Tu Heihu.",
+      "level": 2
+    },
+    {
+      "id": "10.4",
+      "text": "Yang Fang recognized Tu Heihu as a ruthless warlord and considered killing him but was stopped by Cui Laodao.",
+      "level": 2
+    },
+    {
+      "id": "10.5",
+      "text": "Cui Laodao proposed a plan to dig up Tu Heihu's ancestral grave in Luoyang's Mangshan to disrupt his fortune.",
+      "level": 2
+    },
+    {
+      "id": "10.6",
+      "text": "They decided to enlist the help of two more sworn brothers: Meng Ben, a strongman in the military, and Feng Dianchen, a skilled thief known for his speed and knowledge of traps.",
+      "level": 2
+    },
+    {
+      "id": "10.7",
+      "text": "The four brothers met in Luoyang to plan the grave-robbing operation.",
+      "level": 2
+    }
+  ],
+  "concepts": [
+    {
+      "name": "鬼市 (Ghost Market)",
+      "frequency": 3,
+      "context": "Places where questionable goods were sold, often at night."
+    },
+    {
+      "name": "瞎老义 (Old Blind Yi)",
+      "frequency": 13,
+      "context": "A character who was a grave robber, known for his poor eyesight, and later a merchant in the ghost market."
+    },
+    {
+      "name": "盗墓 (Grave Robbing)",
+      "frequency": 10,
+      "context": "The act of illegally excavating ancient tombs for treasure."
+    },
+    {
+      "name": "眼神不好 (Poor Eyesight)",
+      "frequency": 4,
+      "context": "A defining characteristic of Old Blind Yi, leading to humorous situations."
+    },
+    {
+      "name": "取灯儿 (Firecrackers)",
+      "frequency": 1,
+      "context": "Old term for firecrackers, which Old Blind Yi sold in the ghost market."
+    },
+    {
+      "name": "蛇仙 (Snake Spirit)",
+      "frequency": 2,
+      "context": "A supernatural entity believed to be a snake seeking retribution."
+    },
+    {
+      "name": "烤羊肉 (Grilled Lamb)",
+      "frequency": 2,
+      "context": "A specific dish with a unique preparation method associated with Old Blind Yi."
+    },
+    {
+      "id": "10",
+      "name": "关外 (Beyond the Pass)",
+      "frequency": 1,
+      "context": "Refers to regions outside of China's traditional Great Wall, often associated with a rougher lifestyle."
+    },
+    {
+      "name": "疯子 (Madman)",
+      "frequency": 1,
+      "context": "A character with mental health issues, whose father was a high-ranking official."
+    },
+    {
+      "name": "狼皮褥子 (Wolf Skin Mat)",
+      "frequency": 1,
+      "context": "A comfort item used by Old Blind Yi, suggesting a connection to the wild or a specific type of protection."
+    },
+    {
+      "name": "土地爷 (Landlord)",
+      "frequency": 2,
+      "context": "A sworn brother of Old Blind Yi, living in Inner Mongolia and involved in mining."
+    },
+    {
+      "name": "索妮儿 (Suoni'er)",
+      "frequency": 8,
+      "context": "The granddaughter of \"Landlord,\" who acts as a guide and has practical knowledge of the wilderness."
+    },
+    {
+      "name": "集市 (Market)",
+      "frequency": 3,
+      "context": "Riverside markets where goods like furs were traded."
+    },
+    {
+      "name": "幌儿 (Restaurant Banners)",
+      "frequency": 4,
+      "context": "A system of colorful banners used to indicate a restaurant's offerings and quality in Northeast China."
+    },
+    {
+      "name": "老沟 (Old Gully)",
+      "frequency": 6,
+      "context": "A dangerous, remote wetland area rumored to contain ancient treasures and \"earth ghosts.\""
+    },
+    {
+      "name": "二老道 (Second Daoist Priest)",
+      "frequency": 12,
+      "context": "A character who practices folk Daoism, engaging in fortune-telling, and later grave robbing."
+    },
+    {
+      "name": "张巨娃 (Zhang Juwa)",
+      "frequency": 7,
+      "context": "A strong and simple-minded companion of the \"second Daoist priest.\""
+    },
+    {
+      "name": "沼泽 (Swamp)",
+      "frequency": 7,
+      "context": "The treacherous environment of Old Gully, characterized by mud and water."
+    },
+    {
+      "name": "艾草 (Mugwort)",
+      "frequency": 4,
+      "context": "A plant used for its repellent properties, particularly against insects and \"demon energy.\""
+    },
+    {
+      "name": "妖气 (Demon Energy)",
+      "frequency": 3,
+      "context": "A supernatural force described as dark mists rising from the swamp."
+    },
+    {
+      "name": "崔老道 (Cui Laodao)",
+      "frequency": 11,
+      "context": "A fortune teller and storyteller, known for his cunning and involvement in schemes."
+    },
+    {
+      "name": "高财主 (Mr. Gao)",
+      "frequency": 2,
+      "context": "A wealthy man whose daughters were involved in a deceptive marriage arrangement."
+    },
+    {
+      "name": "媒婆 (Matchmaker)",
+      "frequency": 1,
+      "context": "A traditional intermediary for marriage proposals."
+    },
+    {
+      "name": "祖坟 (Ancestral Grave)",
+      "frequency": 3,
+      "context": "The burial site of ancestors, considered significant for fortune and lineage."
+    },
+    {
+      "name": "打神鞭杨方 (God-Whipping Whip Yang Fang)",
+      "frequency": 5,
+      "context": "A skilled grave robber and sworn brother of Cui Laodao."
+    },
+    {
+      "name": "四楞七节打尸鞭 (Seven-Section Corpse-Whipping Whip)",
+      "frequency": 2,
+      "context": "A specialized weapon used by Yang Fang for grave robbing and subduing the dead."
+    },
+    {
+      "name": "军阀 (Warlord)",
+      "frequency": 4,
+      "context": "A powerful military leader who controls a territory, often engaging in illicit activities."
+    },
+    {
+      "name": "屠黑虎 (Tu Heihu)",
+      "frequency": 4,
+      "context": "A ruthless warlord responsible for a devastating flood."
+    },
+    {
+      "name": "洛阳 (Luoyang)",
+      "frequency": 4,
+      "context": "An ancient capital city, the setting for the planned grave-robbing expedition."
+    },
+    {
+      "name": "邙山 (Mangshan)",
+      "frequency": 2,
+      "context": "A mountain range near Luoyang, where Tu Heihu's ancestral grave is located."
+    },
+    {
+      "name": "孟奔 (Meng Ben)",
+      "frequency": 2,
+      "context": "A sworn brother of Cui Laodao and Yang Fang, known for his strength."
+    },
+    {
+      "name": "冯殿臣 (Feng Dianchen)",
+      "frequency": 2,
+      "context": "A sworn brother of Cui Laodao and Yang Fang, a skilled thief known for his speed."
+    }
+  ],
+  "relations": [
+    {
+      "source": "Old Blind Yi",
+      "target": "Ghost Market",
+      "type": "operates_in"
+    },
+    {
+      "source": "Old Blind Yi",
+      "target": "Grave Robbing",
+      "type": "was_a"
+    },
+    {
+      "source": "Old Blind Yi",
+      "target": "Poor Eyesight",
+      "type": "has_characteristic"
+    },
+    {
+      "source": "Snake Spirit",
+      "target": "Narrator's family",
+      "type": "threatens"
+    },
+    {
+      "source": "Old Blind Yi",
+      "target": "Snake Spirit",
+      "type": "advises_on"
+    },
+    {
+      "source": "Narrator",
+      "target": "Master Han",
+      "type": "learned_from"
+    },
+    {
+      "source": "Old Blind Yi",
+      "target": "Master Han's martial arts",
+      "type": "warns_against"
+    },
+    {
+      "source": "Narrator",
+      "target": "Old Blind Yi",
+      "type": "hides_at"
+    },
+    {
+      "source": "Old Blind Yi",
+      "target": "Landlord",
+      "type": "sworn_brother_of"
+    },
+    {
+      "source": "Landlord",
+      "target": "Suoni'er",
+      "type": "grandparent_of"
+    },
+    {
+      "source": "Suoni'er",
+      "target": "Old Gully",
+      "type": "guides_through"
+    },
+    {
+      "source": "Second Daoist Priest",
+      "target": "Old Gully",
+      "type": "seeks_in"
+    },
+    {
+      "source": "Zhang Juwa",
+      "target": "Second Daoist Priest",
+      "type": "disciple_of"
+    },
+    {
+      "source": "Suoni'er",
+      "target": "Landlord",
+      "type": "wants_to_stop_from_entering_mountains"
+    },
+    {
+      "source": "Mugwort",
+      "target": "Demon Energy",
+      "type": "repels"
+    },
+    {
+      "source": "Cui Laodao",
+      "target": "Du Brothers",
+      "type": "assists_in_proposal"
+    },
+    {
+      "source": "Mr. Gao",
+      "target": "Cui Laodao",
+      "type": "angry_at"
+    },
+    {
+      "source": "Cui Laodao",
+      "target": "Grave Robbing",
+      "type": "resorts_to"
+    },
+    {
+      "source": "Cui Laodao",
+      "target": "Yang Fang",
+      "type": "sworn_brother_of"
+    },
+    {
+      "source": "Yang Fang",
+      "target": "Corpse-Whipping Whip",
+      "type": "wields"
+    },
+    {
+      "source": "Tu Heihu",
+      "target": "Yellow River Flood",
+      "type": "caused"
+    },
+    {
+      "source": "Yang Fang",
+      "target": "Tu Heihu",
+      "type": "considers_killing"
+    },
+    {
+      "source": "Cui Laodao",
+      "target": "Tu Heihu's Ancestral Grave",
+      "type": "plans_to_rob"
+    },
+    {
+      "source": "Cui Laodao",
+      "target": "Meng Ben",
+      "type": "recruits"
+    },
+    {
+      "source": "Cui Laodao",
+      "target": "Feng Dianchen",
+      "type": "recruits"
+    },
+    {
+      "source": "Meng Ben",
+      "target": "Military",
+      "type": "serves_in"
+    },
+    {
+      "source": "Feng Dianchen",
+      "target": "Theft",
+      "type": "skilled_in"
+    }
+  ],
+  "hierarchy": {
+    "main_topics": [
+      "Characters and their backgrounds",
+      "Supernatural and mystical elements",
+      "Adventures and expeditions",
+      "Folk customs and beliefs",
+      "Historical and social context (pre-revolution China)"
+    ],
+    "structure": "The document is structured as a novel with titled chapters. Each chapter introduces new characters, plot developments, and explores various fantastical or dangerous scenarios. The narrative progresses chronologically, following the protagonist's experiences and encounters."
+  }
+}

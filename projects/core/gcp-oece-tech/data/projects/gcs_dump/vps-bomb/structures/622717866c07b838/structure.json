@@ -1,0 +1,196 @@
+{
+  "propositions": [
+    {
+      "id": "1",
+      "text": "琅嬛府主 as the central theme",
+      "level": 1
+    },
+    {
+      "id": "1.1",
+      "text": "序言 (Preface) as introduction",
+      "level": 2
+    },
+    {
+      "id": "1.2",
+      "text": "探寻 (Exploration) as initial journey",
+      "level": 2
+    },
+    {
+      "id": "1.3",
+      "text": "追忆 (Reminiscence) as reflection on past",
+      "level": 2
+    },
+    {
+      "id": "1.4",
+      "text": "沉思 (Meditation) as deep thought",
+      "level": 2
+    },
+    {
+      "id": "1.5",
+      "text": "感悟 (Insight) as realization",
+      "level": 2
+    },
+    {
+      "id": "1.6",
+      "text": "追逐 (Pursuit) as active seeking",
+      "level": 2
+    },
+    {
+      "id": "1.7",
+      "text": "缘起 (Origin) as beginning of connections",
+      "level": 2
+    },
+    {
+      "id": "1.8",
+      "text": "追寻 (Quest) as continued search",
+      "level": 2
+    },
+    {
+      "id": "1.9",
+      "text": "启示 (Revelation) as enlightenment",
+      "level": 2
+    },
+    {
+      "id": "1.10",
+      "text": "悟道 (Understanding the Way) as profound realization",
+      "level": 2
+    },
+    {
+      "id": "1.11",
+      "text": "顿悟 (Sudden Enlightenment) as abrupt clarity",
+      "level": 2
+    },
+    {
+      "id": "1.12",
+      "text": "升华 (Sublimation) as elevation of spirit",
+      "level": 2
+    },
+    {
+      "id": "1.13",
+      "text": "归途 (Return Journey) as coming back",
+      "level": 2
+    },
+    {
+      "id": "1.14",
+      "text": "传承 (Inheritance) as passing on wisdom",
+      "level": 2
+    },
+    {
+      "id": "1.15",
+      "text": "轮回 (Reincarnation) as cyclical existence",
+      "level": 2
+    },
+    {
+      "id": "1.16",
+      "text": "涅槃 (Nirvana) as ultimate liberation",
+      "level": 2
+    },
+    {
+      "id": "1.17",
+      "text": "永恒 (Eternity) as timeless state",
+      "level": 2
+    }
+  ],
+  "concepts": [
+    {
+      "name": "追寻 (Quest)",
+      "frequency": 200,
+      "context": "Repeated theme of searching for meaning or truth"
+    },
+    {
+      "name": "启示 (Revelation)",
+      "frequency": 200,
+      "context": "Moments of enlightenment or discovery"
+    },
+    {
+      "name": "感悟 (Insight)",
+      "frequency": 200,
+      "context": "Personal realizations and understanding"
+    },
+    {
+      "name": "追逐 (Pursuit)",
+      "frequency": 150,
+      "context": "Active chasing of goals or ideals"
+    },
+    {
+      "name": "缘起 (Origin)",
+      "frequency": 150,
+      "context": "Beginnings or causes of events and connections"
+    },
+    {
+      "name": "涅槃 (Nirvana)",
+      "frequency": 5,
+      "context": "State of ultimate liberation"
+    },
+    {
+      "name": "永恒 (Eternity)",
+      "frequency": 5,
+      "context": "Concept of timeless existence"
+    },
+    {
+      "name": "轮回 (Reincarnation)",
+      "frequency": 3,
+      "context": "Cyclical nature of life and death"
+    },
+    {
+      "name": "传承 (Inheritance)",
+      "frequency": 3,
+      "context": "Passing down of knowledge or tradition"
+    },
+    {
+      "name": "升华 (Sublimation)",
+      "frequency": 3,
+      "context": "Elevation of mind or spirit"
+    }
+  ],
+  "relations": [
+    {
+      "source": "追寻 (Quest)",
+      "target": "启示 (Revelation)",
+      "type": "leads_to"
+    },
+    {
+      "source": "启示 (Revelation)",
+      "target": "感悟 (Insight)",
+      "type": "results_in"
+    },
+    {
+      "source": "感悟 (Insight)",
+      "target": "升华 (Sublimation)",
+      "type": "culminates_in"
+    },
+    {
+      "source": "追逐 (Pursuit)",
+      "target": "缘起 (Origin)",
+      "type": "originates_from"
+    },
+    {
+      "source": "升华 (Sublimation)",
+      "target": "涅槃 (Nirvana)",
+      "type": "leads_to"
+    },
+    {
+      "source": "涅槃 (Nirvana)",
+      "target": "永恒 (Eternity)",
+      "type": "achieves"
+    },
+    {
+      "source": "轮回 (Reincarnation)",
+      "target": "归途 (Return Journey)",
+      "type": "cycles_through"
+    },
+    {
+      "source": "传承 (Inheritance)",
+      "target": "永恒 (Eternity)",
+      "type": "contributes_to"
+    }
+  ],
+  "hierarchy": {
+    "main_topics": [
+      "琅嬛府主 (Langhuan Master)",
+      "Spiritual Journey",
+      "Enlightenment Cycle"
+    ],
+    "structure": "The document is structured as a long sequence of thematic sections, each representing a stage in a spiritual or philosophical journey, with recurring themes of quest, insight, and transcendence."
+  }
+}

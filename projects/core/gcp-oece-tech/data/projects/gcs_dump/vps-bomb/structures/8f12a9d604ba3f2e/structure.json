@@ -1,0 +1,66 @@
+{
+  "propositions": [
+    {
+      "id": "1",
+      "text": "The document is titled \"太平 (出书版)\".",
+      "level": 1
+    },
+    {
+      "id": "1.1",
+      "text": "The main section is titled \"太平\".",
+      "level": 2
+    },
+    {
+      "id": "1.1.1",
+      "text": "Within the main section, there is a sub-section titled \"太平（出书版）\".",
+      "level": 3
+    },
+    {
+      "id": "1.1.2",
+      "text": "The sub-section \"太平（出书版）\" is repeated multiple times.",
+      "level": 3
+    }
+  ],
+  "concepts": [
+    {
+      "name": "太平",
+      "frequency": 102,
+      "context": "Appears as the main title, main section title, and sub-section title."
+    },
+    {
+      "name": "出书版",
+      "frequency": 101,
+      "context": "Appears as part of the main title and sub-section titles."
+    }
+  ],
+  "relations": [
+    {
+      "source": "太平 (出书版)",
+      "target": "太平",
+      "type": "is_part_of_title"
+    },
+    {
+      "source": "太平 (出书版)",
+      "target": "出书版",
+      "type": "is_part_of_title"
+    },
+    {
+      "source": "太平",
+      "target": "太平（出书版）",
+      "type": "contains"
+    },
+    {
+      "source": "太平（出书版）",
+      "target": "太平",
+      "type": "is_a_repetition_of"
+    }
+  ],
+  "hierarchy": {
+    "main_topics": [
+      "Document Title: 太平 (出书版)",
+      "Main Section: 太平",
+      "Sub-section: 太平（出书版）"
+    ],
+    "structure": "The document has a main title, followed by a main section, which contains a repeated sub-section."
+  }
+}

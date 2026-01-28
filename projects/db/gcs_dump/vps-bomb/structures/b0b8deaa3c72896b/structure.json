@@ -1,0 +1,204 @@
+{
+  "propositions": [
+    {
+      "id": "1",
+      "text": "我笑",
+      "level": 1
+    },
+    {
+      "id": "1.1",
+      "text": "‘一’ ‘这’ ‘一切’ ‘都’ ‘很好’",
+      "level": 2
+    },
+    {
+      "id": "1.1.1",
+      "text": "‘你’ ‘放心’",
+      "level": 3
+    },
+    {
+      "id": "1.1.2",
+      "text": "‘你’ ‘这’ ‘一切’ ‘都’ ‘很好’",
+      "level": 3
+    },
+    {
+      "id": "1.1.3",
+      "text": "‘你’ ‘不必’ ‘太’ ‘担心’",
+      "level": 3
+    },
+    {
+      "id": "1.1.4",
+      "text": "‘你’ ‘不用’ ‘担心’",
+      "level": 3
+    },
+    {
+      "id": "1.1.5",
+      "text": "‘你’ ‘就’ ‘知道’",
+      "level": 3
+    },
+    {
+      "id": "1.1.6",
+      "text": "‘你’ ‘知道’ ‘什么’",
+      "level": 3
+    },
+    {
+      "id": "2",
+      "text": "的",
+      "level": 1
+    }
+  ],
+  "concepts": [
+    {
+      "name": "我",
+      "frequency": 1,
+      "context": "Speaker/narrator in the first sentence."
+    },
+    {
+      "name": "笑",
+      "frequency": 1,
+      "context": "Action performed by '我'."
+    },
+    {
+      "name": "一",
+      "frequency": 1,
+      "context": "Possibly a placeholder or a specific entity being referred to."
+    },
+    {
+      "name": "这",
+      "frequency": 1,
+      "context": "Indicates proximity or current state."
+    },
+    {
+      "name": "一切",
+      "frequency": 2,
+      "context": "Refers to the entirety of a situation or set of things."
+    },
+    {
+      "name": "都",
+      "frequency": 1,
+      "context": "Emphasizes totality or completeness."
+    },
+    {
+      "name": "很好",
+      "frequency": 2,
+      "context": "A state of being good or positive."
+    },
+    {
+      "name": "你",
+      "frequency": 4,
+      "context": "The person being addressed or spoken to."
+    },
+    {
+      "name": "放心",
+      "frequency": 1,
+      "context": "An action of being relieved or not worried."
+    },
+    {
+      "name": "不必",
+      "frequency": 1,
+      "context": "Indicates lack of necessity."
+    },
+    {
+      "name": "太",
+      "frequency": 1,
+      "context": "Adverb indicating excess."
+    },
+    {
+      "name": "担心",
+      "frequency": 2,
+      "context": "A state of anxiety or worry."
+    },
+    {
+      "name": "不用",
+      "frequency": 1,
+      "context": "Indicates lack of need."
+    },
+    {
+      "name": "就",
+      "frequency": 1,
+      "context": "Connective word, often indicating immediacy or consequence."
+    },
+    {
+      "name": "知道",
+      "frequency": 2,
+      "context": "The act of possessing knowledge or understanding."
+    },
+    {
+      "name": "什么",
+      "frequency": 1,
+      "context": "Interrogative pronoun asking for identity or nature."
+    },
+    {
+      "name": "的",
+      "frequency": 63,
+      "context": "A common Chinese grammatical particle, often indicating possession, modification, or sentence finality. Its high frequency suggests its role as a filler or stylistic element in this context."
+    }
+  ],
+  "relations": [
+    {
+      "source": "我",
+      "target": "笑",
+      "type": "performs"
+    },
+    {
+      "source": "一切",
+      "target": "很好",
+      "type": "is_a"
+    },
+    {
+      "source": "你",
+      "target": "放心",
+      "type": "is_instructed_to"
+    },
+    {
+      "source": "你",
+      "target": "担心",
+      "type": "is_advised_not_to"
+    },
+    {
+      "source": "你",
+      "target": "知道",
+      "type": "is_instructed_to"
+    },
+    {
+      "source": "你",
+      "target": "知道",
+      "type": "asked_about"
+    },
+    {
+      "source": "的",
+      "target": "一切",
+      "type": "grammatical_modifier"
+    },
+    {
+      "source": "的",
+      "target": "很好",
+      "type": "grammatical_modifier"
+    },
+    {
+      "source": "的",
+      "target": "放心",
+      "type": "grammatical_modifier"
+    },
+    {
+      "source": "的",
+      "target": "担心",
+      "type": "grammatical_modifier"
+    },
+    {
+      "source": "的",
+      "target": "知道",
+      "type": "grammatical_modifier"
+    },
+    {
+      "source": "的",
+      "target": "什么",
+      "type": "grammatical_modifier"
+    }
+  ],
+  "hierarchy": {
+    "main_topics": [
+      "流光夜雪"
+    ],
+    "structure": "The document starts with a main title '# 流光夜雪', followed by a numbered section '## 1.'. The content under section 1 is a series of short, declarative or imperative statements, possibly dialogue, with heavy repetition of the particle '的'."
+  }
+}

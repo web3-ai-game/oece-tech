@@ -1,0 +1,347 @@
+{
+  "propositions": [
+    {
+      "id": "1",
+      "text": "This world may or may not have ghosts.",
+      "level": 1
+    },
+    {
+      "id": "1.1",
+      "text": "People in this line of work face a dilemma: believing in ghosts leads to fear and potential health issues, while disbelief offers no alternative but death.",
+      "level": 2
+    },
+    {
+      "id": "2",
+      "text": "The narrator is a 'folk art worker' making a living through an inherited skill.",
+      "level": 1
+    },
+    {
+      "id": "2.1",
+      "text": "This profession has become increasingly difficult in recent decades.",
+      "level": 2
+    },
+    {
+      "id": "3",
+      "text": "The narrator frequents Panjiayuan, looking for work.",
+      "level": 1
+    },
+    {
+      "id": "3.1",
+      "text": "Genuine antiques are rare in Panjiayuan, and fakes are priced exorbitantly.",
+      "level": 2
+    },
+    {
+      "id": "3.2",
+      "text": "The value of an antique is not solely determined by its age.",
+      "level": 2
+    },
+    {
+      "id": "4",
+      "text": "A middle-aged man, 'Big Golden Tooth,' approaches the narrator, stating that 'Mr. Cao wants to treat guests.'",
+      "level": 1
+    },
+    {
+      "id": "5",
+      "text": "The narrator reacts with shock, recognizing this as a summons for a major problem.",
+      "level": 1
+    },
+    {
+      "id": "6",
+      "text": "Big Golden Tooth admits the matter concerns him 'just a little bit.'",
+      "level": 1
+    },
+    {
+      "id": "7",
+      "text": "Big Golden Tooth requests the narrator to accompany him as a 'guest attendant.'",
+      "level": 1
+    },
+    {
+      "id": "7.1",
+      "text": "The narrator is shocked by this request, reminding Big Golden Tooth of his reputation as 'the top Duanwu in the tomb raiding world.'",
+      "level": 2
+    },
+    {
+      "id": "8",
+      "text": "Big Golden Tooth clarifies that the 'guests' are to be hosted in an 'empty house' (a tomb that has already been looted).",
+      "level": 1
+    },
+    {
+      "id": "9",
+      "text": "The narrator agrees to go but states he will not be responsible for any ensuing issues.",
+      "level": 1
+    },
+    {
+      "id": "10",
+      "text": "The narrator and Big Golden Tooth arrive at a desolate graveyard in the western suburbs at midnight.",
+      "level": 1
+    },
+    {
+      "id": "11",
+      "text": "The narrator asserts he is not telling ghost stories, as tomb raiders generally dislike them.",
+      "level": 1
+    },
+    {
+      "id": "12",
+      "text": "The narrator clarifies that he is indeed a tomb raider, not just a 'folk art worker.'",
+      "level": 1
+    },
+    {
+      "id": "12.1",
+      "text": "Tomb raiding is considered a profound, albeit destructive, art form that requires dealing with both the living and the dead.",
+      "level": 2
+    },
+    {
+      "id": "13",
+      "text": "The narrator is a 'Mojin Xiaowei' (摸金校尉), a lineage with over 3,000 years of history.",
+      "level": 1
+    },
+    {
+      "id": "13.1",
+      "text": "Historically, Mojin Xiaowei were a military unit under Cao Cao, tasked with excavating ancient tombs for military funds.",
+      "level": 2
+    },
+    {
+      "id": "13.2",
+      "text": "Mojin Xiaowei typically operate independently or with a fixed partner, adhering to a principle of individual responsibility for troubles they cause.",
+      "level": 2
+    },
+    {
+      "id": "14",
+      "text": "'Mr. Cao wants to treat guests' is a code phrase indicating a grave danger that threatens all Mojin Xiaowei or the country itself.",
+      "level": 1
+    },
+    {
+      "id": "14.1",
+      "text": "Such a threat necessitates a gathering of all Mojin Xiaowei to devise a solution.",
+      "level": 2
+    },
+    {
+      "id": "14.2",
+      "text": "The 'Mr. Cao' in the phrase refers to Cao Cao, due to the origin of the Mojin Xiaowei title.",
+      "level": 2
+    },
+    {
+      "id": "15",
+      "text": "A strict rule among Mojin Xiaowei is that a tomb cannot be entered twice.",
+      "level": 1
+    },
+    {
+      "id": "16",
+      "text": "A 'treatment' (请客) session, as opposed to regular work, requires an 'empty house' (a tomb already looted).",
+      "level": 1
+    },
+    {
+      "id": "17",
+      "text": "Even empty tombs are not places ordinary people dare to visit.",
+      "level": 1
+    },
+    {
+      "id": "18",
+      "text": "The conventional process of tomb raiding involves using a shovel, finding a path, and entering the tomb.",
+      "level": 1
+    },
+    {
+      "id": "19",
+      "text": "Big Golden Tooth expresses nervousness about being in the wrong location.",
+      "level": 1
+    },
+    {
+      "id": "20",
+      "text": "The narrator dismisses his concern, reminding him that Big Golden Tooth was the one who specified the location.",
+      "level": 1
+    },
+    {
+      "id": "21",
+      "text": "Big Golden Tooth explains his anxiety stems from being with the narrator, as any mistake might provoke the 'owner' of the tomb.",
+      "level": 1
+    },
+    {
+      "id": "22",
+      "text": "The tomb passage is silent, with occasional small noises underfoot.",
+      "level": 1
+    },
+    {
+      "id": "23",
+      "text": "Pairs of faint green lights, identified as rats, are visible in the darkness.",
+      "level": 1
+    },
+    {
+      "id": "24",
+      "text": "Big Golden Tooth is startled by a drop of water on his neck, mistaking it for something more sinister.",
+      "level": 1
+    },
+    {
+      "id": "25",
+      "text": "The narrator questions Big Golden Tooth's timidity, given his supposed experience in tomb raiding.",
+      "level": 1
+    },
+    {
+      "id": "26",
+      "text": "Big Golden Tooth attributes his nervousness to being with the narrator and observes that no 'other guests' have arrived.",
+      "level": 1
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Ghosts",
+      "frequency": 2,
+      "context": "Belief in ghosts and its implications for the narrator's profession."
+    },
+    {
+      "name": "Folk Art Worker",
+      "frequency": 1,
+      "context": "The narrator's self-proclaimed profession, which is later revealed to be a cover for tomb raiding."
+    },
+    {
+      "name": "Inherited Skill",
+      "frequency": 1,
+      "context": "The basis of the narrator's livelihood as a 'folk art worker'."
+    },
+    {
+      "name": "Panjiayuan",
+      "frequency": 1,
+      "context": "A place where the narrator seeks work, characterized by a lack of genuine antiques."
+    },
+    {
+      "name": "Antiques",
+      "frequency": 2,
+      "context": "Discussed in terms of value, authenticity, and rarity in the context of Panjiayuan."
+    },
+    {
+      "name": "Big Golden Tooth",
+      "frequency": 7,
+      "context": "A middle-aged man who recruits the narrator for a dangerous task."
+    },
+    {
+      "name": "Mr. Cao",
+      "frequency": 2,
+      "context": "The mysterious figure who 'wants to treat guests,' a code for a significant problem."
+    },
+    {
+      "name": "Guests",
+      "frequency": 3,
+      "context": "The individuals being summoned for a meeting or task, implying a serious situation."
+    },
+    {
+      "name": "Tomb Raiding",
+      "frequency": 5,
+      "context": "The narrator's true profession, described as a profound and destructive art."
+    },
+    {
+      "name": "Mojin Xiaowei",
+      "frequency": 4,
+      "context": "A specific lineage of tomb raiders with a long history, originating from Cao Cao's era."
+    },
+    {
+      "name": "Cao Cao",
+      "frequency": 2,
+      "context": "Historical figure associated with the origin of the Mojin Xiaowei."
+    },
+    {
+      "name": "Empty House",
+      "frequency": 3,
+      "context": "A code term for an already looted tomb, used for 'guest' gatherings."
+    },
+    {
+      "name": "Rules",
+      "frequency": 2,
+      "context": "Refers to the strict protocols of Mojin Xiaowei, including not entering a tomb twice."
+    },
+    {
+      "name": "Tomb Passage",
+      "frequency": 1,
+      "context": "The environment the narrator and Big Golden Tooth navigate, characterized by silence and darkness."
+    },
+    {
+      "name": "Rats",
+      "frequency": 1,
+      "context": "Small creatures observed in the darkness of the tomb passage."
+    }
+  ],
+  "relations": [
+    {
+      "source": "Mojin Xiaowei",
+      "target": "Tomb Raiding",
+      "type": "is_a"
+    },
+    {
+      "source": "Mojin Xiaowei",
+      "target": "Cao Cao",
+      "type": "derived_from"
+    },
+    {
+      "source": "Mr. Cao",
+      "target": "Cao Cao",
+      "type": "reference_to"
+    },
+    {
+      "source": "'Mr. Cao wants to treat guests'",
+      "target": "Mojin Xiaowei",
+      "type": "affects"
+    },
+    {
+      "source": "'Mr. Cao wants to treat guests'",
+      "target": "Danger",
+      "type": "indicates"
+    },
+    {
+      "source": "Big Golden Tooth",
+      "target": "Narrator",
+      "type": "recruits"
+    },
+    {
+      "source": "Narrator",
+      "target": "Tomb Raiding",
+      "type": "practices"
+    },
+    {
+      "source": "Tomb Raiding",
+      "target": "Destruction",
+      "type": "involves"
+    },
+    {
+      "source": "Tomb Raiding",
+      "target": "Living",
+      "type": "involves_conflict_with"
+    },
+    {
+      "source": "Tomb Raiding",
+      "target": "Dead",
+      "type": "involves_conflict_with"
+    },
+    {
+      "source": "'Empty House'",
+      "target": "Tomb",
+      "type": "is_a_type_of"
+    },
+    {
+      "source": "'Empty House'",
+      "target": "Looted",
+      "type": "description"
+    },
+    {
+      "source": "Rules",
+      "target": "Mojin Xiaowei",
+      "type": "governs"
+    },
+    {
+      "source": "Tomb Passage",
+      "target": "Tomb",
+      "type": "part_of"
+    },
+    {
+      "source": "Rats",
+      "target": "Tomb Passage",
+      "type": "inhabits"
+    }
+  ],
+  "hierarchy": {
+    "main_topics": [
+      "Introduction to the narrator and his profession",
+      "The summons and the mission",
+      "The nature of tomb raiding and Mojin Xiaowei",
+      "The journey into the tomb"
+    ],
+    "structure": "The document begins with a philosophical musing on ghosts and introduces the narrator's difficult profession. It then shifts to a specific event: an unexpected summons involving a coded message. The narrative delves into the history and rules of the narrator's true profession, tomb raiding, and specifically the Mojin Xiaowei. Finally, it depicts the initial stages of the mission as the narrator and his associate enter a tomb."
+  }
+}

@@ -1,0 +1,391 @@
+{
+  "propositions": [
+    {
+      "id": "1",
+      "text": "一个关于决战曹操疑冢的神秘故事。",
+      "level": 1
+    },
+    {
+      "id": "1.1",
+      "text": "故事以“恶咒”开篇，描述了天气突变以及工地上的不祥之兆。",
+      "level": 2
+    },
+    {
+      "id": "1.2",
+      "text": "主人公孟楼，一位风水先生的后人，对不祥的云气感到不安。",
+      "level": 2
+    },
+    {
+      "id": "1.3",
+      "text": "孟楼重逢了多年未见的老友胡海，胡海是一名推土机手。",
+      "level": 2
+    },
+    {
+      "id": "1.4",
+      "text": "在工地，推土机意外推平了一个古墓封土。",
+      "level": 2
+    },
+    {
+      "id": "1.5",
+      "text": "古墓被意外挖开，引发了哄抢陪葬品的工人之间的厮打。",
+      "level": 2
+    },
+    {
+      "id": "1.6",
+      "text": "孟楼发现了一个疑似“六壬盘”的古物。",
+      "level": 2
+    },
+    {
+      "id": "1.7",
+      "text": "哄抢者随后陷入疯狂，自残而死，似乎应验了墓主人的诅咒。",
+      "level": 2
+    },
+    {
+      "id": "1.8",
+      "text": "孟楼和胡海为了躲避危险，迅速离开了工地。",
+      "level": 2
+    },
+    {
+      "id": "1.9",
+      "text": "在乡招待所，孟楼向胡海解释了自己对六壬盘和诅咒的猜测。",
+      "level": 2
+    },
+    {
+      "id": "1.10",
+      "text": "新闻报道了工地发生的“不知名病毒感染事件”。",
+      "level": 2
+    },
+    {
+      "id": "1.11",
+      "text": "孟楼通过网络论坛得知，他们发现的古物可能名为“金匮六壬盘”。",
+      "level": 2
+    },
+    {
+      "id": "1.12",
+      "text": "“金匮六壬盘”被描述为堪舆镇邪至宝，但起之必有大厄。",
+      "level": 2
+    },
+    {
+      "id": "1.13",
+      "text": "孟楼和胡海在旅馆中经历了怪异的噩梦，梦境与现实中的危险呼应。",
+      "level": 2
+    },
+    {
+      "id": "1.14",
+      "text": "之后，一位推土机手被杀害，死亡方式仍然与“诅咒”相关。",
+      "level": 2
+    },
+    {
+      "id": "1.15",
+      "text": "孟楼和胡海继续研究“金匮六壬盘”，试图解开诅咒的秘密。",
+      "level": 2
+    },
+    {
+      "id": "2",
+      "text": "“六壬盘”是故事的核心线索之一。",
+      "level": 1
+    },
+    {
+      "id": "2.1",
+      "text": "孟楼在古墓中发现了一个疑似六壬盘的棋盘状物品。",
+      "level": 2
+    },
+    {
+      "id": "2.2",
+      "text": "胡海将这个物品随手捡起并扔给了孟楼。",
+      "level": 2
+    },
+    {
+      "id": "2.3",
+      "text": "孟楼认为这东西是古代堪舆术士用来观气的东西。",
+      "level": 2
+    },
+    {
+      "id": "2.4",
+      "text": "通过网络论坛，孟楼得知这个物品可能名为“金匮六壬盘”。",
+      "level": 2
+    },
+    {
+      "id": "2.5",
+      "text": "“金匮六壬盘”比普通六壬盘多一层“人盘”，并带有特殊的饰纹。",
+      "level": 2
+    },
+    {
+      "id": "2.6",
+      "text": "“金匮六壬盘”被认为是堪舆镇邪至宝，但取出会带来大厄。",
+      "level": 2
+    },
+    {
+      "id": "3",
+      "text": "曹操疑冢和相关诅咒是故事的另一条核心线索。",
+      "level": 1
+    },
+    {
+      "id": "3.1",
+      "text": "工地意外挖开了一个古墓，推测可能与曹操有关。",
+      "level": 2
+    },
+    {
+      "id": "3.2",
+      "text": "墓碑上的文字显示墓主人陈香姬是曹操的小妾，并带有恶毒的诅咒：“后世有发丘者沮之必狂悖而死”。",
+      "level": 2
+    },
+    {
+      "id": "3.3",
+      "text": "哄抢墓穴的工人们随后陷入疯狂，自残死亡，印证了诅咒。",
+      "level": 2
+    },
+    {
+      "id": "3.4",
+      "text": "专家组辟谣，推测死者死于“未知病毒”，但孟楼对此持怀疑态度。",
+      "level": 2
+    },
+    {
+      "id": "3.5",
+      "text": "推土机手邱海强的死亡，同样与事件的邪恶力量有关。",
+      "level": 2
+    },
+    {
+      "id": "4",
+      "text": "人物关系和性格特点。",
+      "level": 1
+    },
+    {
+      "id": "4.1",
+      "text": "孟楼：风水先生后人，对玄学有研究，谨慎，经历过过去的创伤。",
+      "level": 2
+    },
+    {
+      "id": "4.2",
+      "text": "胡海：孟楼的老友，粗犷，胆大，富有正义感，对专家持鄙视态度，但内心也因过去的经历而有所改变。",
+      "level": 2
+    },
+    {
+      "id": "4.3",
+      "text": "楚秋（提及）：孟楼和胡海过去的挚友，女性，因意外失踪，是两人心中挥之不去的阴影。",
+      "level": 2
+    },
+    {
+      "id": "5",
+      "text": "故事的叙事结构。",
+      "level": 1
+    },
+    {
+      "id": "5.1",
+      "text": "故事分为“恶咒”、“六壬盘”、“梦魇”三个部分，逐步揭示谜团。",
+      "level": 2
+    },
+    {
+      "id": "5.2",
+      "text": "叙事中穿插了回忆和现实的交织。",
+      "level": 2
+    },
+    {
+      "id": "5.3",
+      "text": "故事以悬念和对未知危险的警示结束。",
+      "level": 2
+    }
+  ],
+  "concepts": [
+    {
+      "name": "六壬盘",
+      "frequency": 11,
+      "context": "一种古代的观气、堪舆工具，故事的核心物品，主角发现的“金匮六壬盘”更是关键。"
+    },
+    {
+      "name": "诅咒",
+      "frequency": 8,
+      "context": "古墓中存在的恶毒诅咒，导致哄抢者发狂死亡，是故事的核心冲突之一。"
+    },
+    {
+      "name": "古墓",
+      "frequency": 7,
+      "context": "工地意外发现的古墓，引发了事件的开端，可能与曹操有关。"
+    },
+    {
+      "name": "孟楼",
+      "frequency": 16,
+      "context": "故事的主人公，风水先生后人，对玄学有研究，谨慎，是故事的推动者。"
+    },
+    {
+      "name": "胡海",
+      "frequency": 17,
+      "context": "孟楼的老友，工地推土机手，粗犷，胆大，有正义感，是孟楼的伙伴。"
+    },
+    {
+      "name": "曹操",
+      "frequency": 3,
+      "context": "被提及为古墓墓主人的联系人，暗示了古墓的历史背景。"
+    },
+    {
+      "name": "风水",
+      "frequency": 2,
+      "context": "孟楼的家族传承，影响他对事件的判断和理解。"
+    },
+    {
+      "name": "梦魇",
+      "frequency": 3,
+      "context": "孟楼和胡海经历的反复出现的噩梦，与现实中的危险有预示性。"
+    },
+    {
+      "name": "病毒",
+      "frequency": 3,
+      "context": "专家提出的解释，用来安抚人心，但被孟楼怀疑。"
+    },
+    {
+      "name": "工地",
+      "frequency": 9,
+      "context": "事件发生的地点，南水北调工程工地，是故事发生的背景。"
+    },
+    {
+      "name": "观气",
+      "frequency": 3,
+      "context": "孟楼祖传的技艺，用来解读不祥之兆。"
+    },
+    {
+      "name": "黄金",
+      "frequency": 0,
+      "context": "未在文本中出现"
+    },
+    {
+      "name": "金匮",
+      "frequency": 2,
+      "context": "与“六壬盘”结合，形成“金匮六壬盘”，是故事的关键道具。"
+    }
+  ],
+  "relations": [
+    {
+      "source": "六壬盘",
+      "target": "金匮",
+      "type": "part_of"
+    },
+    {
+      "source": "金匮六壬盘",
+      "target": "堪舆",
+      "type": "used_for"
+    },
+    {
+      "source": "金匮六壬盘",
+      "target": "镇邪",
+      "type": "used_for"
+    },
+    {
+      "source": "金匮六壬盘",
+      "target": "大厄",
+      "type": "implies"
+    },
+    {
+      "source": "诅咒",
+      "target": "古墓",
+      "type": "originates_from"
+    },
+    {
+      "source": "诅咒",
+      "target": "发狂",
+      "type": "causes"
+    },
+    {
+      "source": "诅咒",
+      "target": "死亡",
+      "type": "causes"
+    },
+    {
+      "source": "古墓",
+      "target": "曹操",
+      "type": "related_to"
+    },
+    {
+      "source": "古墓",
+      "target": "哄抢",
+      "type": "causes"
+    },
+    {
+      "source": "古墓",
+      "target": "诅咒",
+      "type": "contains"
+    },
+    {
+      "source": "孟楼",
+      "target": "风水",
+      "type": "inherits_from"
+    },
+    {
+      "source": "孟楼",
+      "target": "胡海",
+      "type": "friend_of"
+    },
+    {
+      "source": "孟楼",
+      "target": "六壬盘",
+      "type": "discovers"
+    },
+    {
+      "source": "孟楼",
+      "target": "谨慎",
+      "type": "trait"
+    },
+    {
+      "source": "胡海",
+      "target": "孟楼",
+      "type": "friend_of"
+    },
+    {
+      "source": "胡海",
+      "target": "推土机手",
+      "type": "occupation"
+    },
+    {
+      "source": "胡海",
+      "target": "粗犷",
+      "type": "trait"
+    },
+    {
+      "source": "胡海",
+      "target": "正义感",
+      "type": "trait"
+    },
+    {
+      "source": "病毒",
+      "target": "专家",
+      "type": "proposed_by"
+    },
+    {
+      "source": "梦魇",
+      "target": "孟楼",
+      "type": "experiences"
+    },
+    {
+      "source": "梦魇",
+      "target": "胡海",
+      "type": "experiences"
+    },
+    {
+      "source": "梦魇",
+      "target": "预示",
+      "type": "has_function"
+    },
+    {
+      "source": "工地",
+      "target": "安阳",
+      "type": "location"
+    },
+    {
+      "source": "工地",
+      "target": "南水北调",
+      "type": "project"
+    },
+    {
+      "source": "观气",
+      "target": "孟楼",
+      "type": "practiced_by"
+    }
+  ],
+  "hierarchy": {
+    "main_topics": [
+      "The Discovery of the Golden Gui Liu Ren Pan",
+      "The Curse of Cao Cao's Tomb",
+      "Mysterious Events and Investigations"
+    ],
+    "structure": "The document is structured into three main sections: \"Evil Curse\", \"Liu Ren Pan\", and \"Nightmare\". It follows a chronological narrative with elements of mystery, historical speculation, and supernatural phenomena. The narrative progresses from the discovery of the tomb and the initial curse, to the investigation of the artifact, and finally to the escalating supernatural events and personal nightmares."
+  }
+}

@@ -1,0 +1,497 @@
+{
+  "propositions": [
+    {
+      "id": "1",
+      "text": "《上海日报》报道了一起发生在雨花石公寓的凶杀案。",
+      "level": 1
+    },
+    {
+      "id": "1.1",
+      "text": "被害人是26岁的李今，身中三十余刀，舌头被割去。",
+      "level": 2
+    },
+    {
+      "id": "1.2",
+      "text": "物业管理员杨某最先发现尸体。",
+      "level": 2
+    },
+    {
+      "id": "1.3",
+      "text": "警方初步判断死者可能死于仇杀，但邻居反映被害人生前人缘好。",
+      "level": 2
+    },
+    {
+      "id": "2",
+      "text": "《上海日报》报道了公寓女郎割舌案的疑凶畏罪自杀。",
+      "level": 1
+    },
+    {
+      "id": "2.1",
+      "text": "警方基本确定902室的男性租住者陈剑河有重大作案嫌疑。",
+      "level": 2
+    },
+    {
+      "id": "2.2",
+      "text": "陈剑河在旅馆服毒身亡，警方初步估计死因是服食剧毒药物，现场留有遗书。",
+      "level": 2
+    },
+    {
+      "id": "2.3",
+      "text": "陈剑河是该公寓的租住者之一，26岁，是私营翻译公司职员。",
+      "level": 2
+    },
+    {
+      "id": "2.4",
+      "text": "陈剑河与被害人李今曾是大学同学，但案发前关系一般，无深交迹象。",
+      "level": 2
+    },
+    {
+      "id": "2.5",
+      "text": "关于陈剑河的杀人动机，有经济纠葛、精神错乱、因爱生恨等猜测，但最终成为谜团。",
+      "level": 2
+    },
+    {
+      "id": "3",
+      "text": "简东平收到一封来自陈剑河的信，信中陈述了一件烦心事。",
+      "level": 1
+    },
+    {
+      "id": "3.1",
+      "text": "简东平是一位记者，休假在家，心情抑郁。",
+      "level": 2
+    },
+    {
+      "id": "3.2",
+      "text": "保姆萍姐为简东平送来早餐。",
+      "level": 2
+    },
+    {
+      "id": "3.3",
+      "text": "简东平的父亲对一封信表现出兴趣，认为寄信人是“特别的人”。",
+      "level": 2
+    },
+    {
+      "id": "3.4",
+      "text": "这封信的落款是陈剑河。",
+      "level": 2
+    },
+    {
+      "id": "3.5",
+      "text": "李今是简东平的大学同学，也是凶杀案的被害人。",
+      "level": 2
+    },
+    {
+      "id": "3.6",
+      "text": "简东平回忆起大学时与李今的交往，以及她毕业后的生活。",
+      "level": 2
+    },
+    {
+      "id": "3.7",
+      "text": "简东平的父亲告知他李今被杀的消息，他对此感到震惊。",
+      "level": 2
+    },
+    {
+      "id": "3.8",
+      "text": "陈剑河也是简东平的大学同学，简东平回忆起陈剑河的性格和一些言行。",
+      "level": 2
+    },
+    {
+      "id": "3.9",
+      "text": "陈剑河在信中提到，他从姐姐家搬出，开始独自生活。",
+      "level": 3
+    },
+    {
+      "id": "3.10",
+      "text": "陈剑河通过张兆勇得知房源信息，并与张兆勇、袁桥合租了雨花石公寓902室。",
+      "level": 3
+    },
+    {
+      "id": "3.11",
+      "text": "三个女同学李今、郁洁、王盛佳搬到了隔壁904室。",
+      "level": 3
+    },
+    {
+      "id": "3.12",
+      "text": "在一次聚会中，屋子里发生停电，随后传来尖叫声和笑声。",
+      "level": 3
+    },
+    {
+      "id": "3.13",
+      "text": "聚会结束后，陈剑河发现房间里的物品被翻动，一件重要物品不翼而飞。",
+      "level": 3
+    },
+    {
+      "id": "3.14",
+      "text": "陈剑河询问合租者，得知几乎每个人都进入过他的房间。",
+      "level": 3
+    },
+    {
+      "id": "3.15",
+      "text": "几天后，陈剑河在小巷垃圾桶里发现了丢失的物品，但已残缺不全。",
+      "level": 3
+    },
+    {
+      "id": "3.16",
+      "text": "陈剑河请求简东平帮忙，希望他能给出合理的答案。",
+      "level": 2
+    },
+    {
+      "id": "4",
+      "text": "陈剑蓉（陈剑河的姐姐）寄给简东平一封信，解释了陈剑河未寄出信件的原因。",
+      "level": 1
+    },
+    {
+      "id": "4.1",
+      "text": "陈剑蓉认为弟弟是遇到了大麻烦，很希望简东平能提供帮助。",
+      "level": 2
+    },
+    {
+      "id": "4.2",
+      "text": "陈剑蓉不相信弟弟是杀人犯，认为警方冤枉了他。",
+      "level": 2
+    },
+    {
+      "id": "5",
+      "text": "简东平拜访了陈剑蓉。",
+      "level": 1
+    },
+    {
+      "id": "5.1",
+      "text": "陈剑蓉的住所杂乱，她本人显得苍白憔悴。",
+      "level": 2
+    },
+    {
+      "id": "5.2",
+      "text": "简东平注意到陈剑蓉的家中陈设老旧，照片显示她与陈剑河以及前夫、女儿的关系。",
+      "level": 2
+    },
+    {
+      "id": "5.3",
+      "text": "陈剑蓉表示弟弟不喜欢拍照，她认为弟弟很看重简东平。",
+      "level": 2
+    },
+    {
+      "id": "5.4",
+      "text": "陈剑蓉坚信弟弟没有杀人，认为警方冤枉他，找他当替死鬼。",
+      "level": 2
+    },
+    {
+      "id": "5.5",
+      "text": "陈剑蓉认为陈剑河被人耍了，被人搞鬼，完全被蒙在鼓里，并且这与李今的死有关。",
+      "level": 2
+    },
+    {
+      "id": "5.6",
+      "text": "陈剑蓉提及弟弟有“明显对自己没什么好处的事”，例如选择普通中学、走偏僻小路等，形容他“脑袋里少根筋”。",
+      "level": 2
+    },
+    {
+      "id": "5.7",
+      "text": "陈剑蓉表示陈剑河什么都不跟她说，尤其在她出事后，他只反复说“他不该打那个女孩”。",
+      "level": 2
+    },
+    {
+      "id": "6",
+      "text": "陈剑蓉回忆起陈剑河出事前的一晚。",
+      "level": 1
+    },
+    {
+      "id": "6.1",
+      "text": "陈剑河打电话给姐姐，说与一个同学发生摩擦，对方不省人事，希望找律师咨询。",
+      "level": 2
+    },
+    {
+      "id": "6.2",
+      "text": "陈剑蓉与陈剑河见面，他显得沮丧，称是因为女孩“太可恶”，不断朝他吼叫，他生气打了女孩一记耳光，导致女孩昏过去。",
+      "level": 2
+    },
+    {
+      "id": "6.3",
+      "text": "陈剑蓉随后去雨花石公寓，发现那里已被警方封锁，得知有人被杀了。",
+      "level": 2
+    },
+    {
+      "id": "6.4",
+      "text": "陈剑蓉再次询问陈剑河，他沉默后只说“是的”，并且知道他向姐姐隐瞒了事情。",
+      "level": 2
+    },
+    {
+      "id": "6.5",
+      "text": "陈剑蓉安排陈剑河去朋友空着的公寓暂住，并寻求律师的意见。",
+      "level": 2
+    },
+    {
+      "id": "7",
+      "text": "陈剑蓉认为陈剑河不可能杀人，并提到他有晕血症。",
+      "level": 1
+    },
+    {
+      "id": "7.1",
+      "text": "陈剑蓉反驳了陈剑河因追求被拒而杀人的说法，认为这不符合他的性格。",
+      "level": 2
+    },
+    {
+      "id": "7.2",
+      "text": "陈剑蓉提及陈剑河有晕血症，不可能用刀杀人。",
+      "level": 2
+    },
+    {
+      "id": "7.3",
+      "text": "简东平回忆起陈剑河大学时晕血的经历。",
+      "level": 2
+    },
+    {
+      "id": "7.4",
+      "text": "陈剑蓉表示向警方提过晕血症，但他们不重视，一心想结案。",
+      "level": 2
+    },
+    {
+      "id": "7.5",
+      "text": "陈剑蓉称陈剑河曾跟律师见面，但仍坚持只打了女孩，后又改口称可能是出手太重错杀了女孩。",
+      "level": 2
+    },
+    {
+      "id": "7.6",
+      "text": "陈剑河至始至终未说清楚动机，只说事情变这样是他做错了。",
+      "level": 2
+    }
+  ],
+  "concepts": [
+    {
+      "name": "暮眼蝶",
+      "frequency": 1,
+      "context": "Title of the document."
+    },
+    {
+      "name": "鬼马星",
+      "frequency": 1,
+      "context": "Author's name, likely pseudonym."
+    },
+    {
+      "name": "TXT小说天堂",
+      "frequency": 1,
+      "context": "Source of the text, a website."
+    },
+    {
+      "name": "上海日报",
+      "frequency": 2,
+      "context": "Newspaper that reported on the murder case."
+    },
+    {
+      "name": "凶杀案",
+      "frequency": 4,
+      "context": "The central event of the story, the murder of Li Jin."
+    },
+    {
+      "name": "雨花石公寓",
+      "frequency": 4,
+      "context": "Location where the murder took place and where Chen Jianhe and others lived."
+    },
+    {
+      "name": "李今",
+      "frequency": 8,
+      "context": "The victim of the murder, a former classmate of Jian Dongping and Chen Jianhe."
+    },
+    {
+      "name": "陈剑河",
+      "frequency": 23,
+      "context": "The main suspect in the murder case, a former classmate of Jian Dongping and Li Jin."
+    },
+    {
+      "name": "简东平",
+      "frequency": 19,
+      "context": "The protagonist, a journalist, who investigates the case."
+    },
+    {
+      "name": "剪报",
+      "frequency": 2,
+      "context": "Newspaper clippings detailing the murder and its aftermath."
+    },
+    {
+      "name": "记者",
+      "frequency": 4,
+      "context": "Jian Dongping's profession."
+    },
+    {
+      "name": "大学同学",
+      "frequency": 6,
+      "context": "The relationship between Jian Dongping, Li Jin, and Chen Jianhe."
+    },
+    {
+      "name": "信",
+      "frequency": 6,
+      "context": "Correspondence between characters, driving the plot."
+    },
+    {
+      "name": "陈剑蓉",
+      "frequency": 16,
+      "context": "Chen Jianhe's sister, who believes in his innocence and seeks Jian Dongping's help."
+    },
+    {
+      "name": "动机",
+      "frequency": 6,
+      "context": "The reason behind the murder, a central mystery."
+    },
+    {
+      "name": "警方",
+      "frequency": 10,
+      "context": "The authorities investigating the case."
+    },
+    {
+      "name": "遗书",
+      "frequency": 2,
+      "context": "A suicide note left by Chen Jianhe."
+    },
+    {
+      "name": "晕血症",
+      "frequency": 3,
+      "context": "A medical condition of Chen Jianhe, used as evidence of his innocence."
+    },
+    {
+      "name": "聚会",
+      "frequency": 5,
+      "context": "Social gatherings that played a role in the events."
+    },
+    {
+      "name": "证据",
+      "frequency": 6,
+      "context": "Information used to support or refute claims about the case."
+    }
+  ],
+  "relations": [
+    {
+      "source": "《上海日报》",
+      "target": "凶杀案",
+      "type": "reported_on"
+    },
+    {
+      "source": "凶杀案",
+      "target": "李今",
+      "type": "victim_of"
+    },
+    {
+      "source": "凶杀案",
+      "target": "雨花石公寓",
+      "type": "occurred_at"
+    },
+    {
+      "source": "陈剑河",
+      "target": "雨花石公寓",
+      "type": "resided_in"
+    },
+    {
+      "source": "陈剑河",
+      "target": "李今",
+      "type": "university_classmate_of"
+    },
+    {
+      "source": "简东平",
+      "target": "李今",
+      "type": "university_classmate_of"
+    },
+    {
+      "source": "简东平",
+      "target": "陈剑河",
+      "type": "university_classmate_of"
+    },
+    {
+      "source": "简东平",
+      "target": "信",
+      "type": "received"
+    },
+    {
+      "source": "陈剑河",
+      "target": "信",
+      "type": "wrote"
+    },
+    {
+      "source": "陈剑蓉",
+      "target": "信",
+      "type": "sent"
+    },
+    {
+      "source": "陈剑河",
+      "target": "陈剑蓉",
+      "type": "sibling_of"
+    },
+    {
+      "source": "陈剑蓉",
+      "target": "简东平",
+      "type": "contacted_for_help"
+    },
+    {
+      "source": "警方",
+      "target": "陈剑河",
+      "type": "suspects"
+    },
+    {
+      "source": "陈剑河",
+      "target": "遗书",
+      "type": "wrote"
+    },
+    {
+      "source": "陈剑蓉",
+      "target": "陈剑河",
+      "type": "believes_innocent"
+    },
+    {
+      "source": "简东平",
+      "target": "记者",
+      "type": "is_a"
+    },
+    {
+      "source": "李今",
+      "target": "被害人",
+      "type": "is_a"
+    },
+    {
+      "source": "陈剑河",
+      "target": "疑凶",
+      "type": "is_a"
+    },
+    {
+      "source": "陈剑河",
+      "target": "晕血症",
+      "type": "has"
+    },
+    {
+      "source": "陈剑河",
+      "target": "攻击",
+      "type": "unlikely_to_commit"
+    },
+    {
+      "source": "陈剑河",
+      "target": "谋杀",
+      "type": "unlikely_to_commit"
+    },
+    {
+      "source": "陈剑蓉",
+      "target": "陈剑河",
+      "type": "protects"
+    },
+    {
+      "source": "陈剑河",
+      "target": "李今",
+      "type": "allegedly_murdered"
+    },
+    {
+      "source": "陈剑河",
+      "target": "耳光",
+      "type": "admitted_to_giving"
+    },
+    {
+      "source": "陈剑蓉",
+      "target": "陈剑河",
+      "type": "believes_manipulated"
+    }
+  ],
+  "hierarchy": {
+    "main_topics": [
+      "The Murder of Li Jin",
+      "The Investigation and Suspect Chen Jianhe",
+      "Jian Dongping's Investigation and Chen Jianhe's Sister's Plea",
+      "Chen Jianhe's Character and Potential Motives"
+    ],
+    "structure": "The document is structured as a narrative investigation. It begins with news reports of a murder and the subsequent suicide of a suspect. The story then shifts to the protagonist, Jian Dongping, who receives a letter from the suspect, leading him to investigate further by meeting the suspect's sister. The narrative gradually reveals details and conflicting accounts of the events, building suspense and questioning the initial conclusions."
+  }
+}

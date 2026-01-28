@@ -1,0 +1,805 @@
+{
+  "propositions": [
+    {
+      "id": "1",
+      "text": "A group of individuals, including the narrator (referred to as 'I', 'Lao Xu', or 'Xu Sanqing'), 'Shaoye' (young master), and 'Yatou' (a girl), are exploring a tomb or ancient site.",
+      "level": 1
+    },
+    {
+      "id": "1.1",
+      "text": "They find themselves in a tomb with a jade platform and an empty suit of armor.",
+      "level": 2
+    },
+    {
+      "id": "1.1.1",
+      "text": "The armor is empty and appears to absorb all light.",
+      "level": 3
+    },
+    {
+      "id": "1.2",
+      "text": "Strange sounds are heard, initially dismissed as hallucinations.",
+      "level": 2
+    },
+    {
+      "id": "1.2.1",
+      "text": "A 'shasha' sound, resembling human footsteps, is heard.",
+      "level": 3
+    },
+    {
+      "id": "1.3",
+      "text": "Shaoye touches a 'Zhenhe Seal' on the armor, triggering a mechanism.",
+      "level": 2
+    },
+    {
+      "id": "1.3.1",
+      "text": "A sound of chains striking is heard.",
+      "level": 3
+    },
+    {
+      "id": "1.4",
+      "text": "A new door opens in the tomb, revealing four approaching figures bound by chains.",
+      "level": 2
+    },
+    {
+      "id": "1.4.1",
+      "text": "These figures are described as 'black shadows' or 'black corpses' with chains.",
+      "level": 3
+    },
+    {
+      "id": "1.4.1.1",
+      "text": "They move with a 'shasha' sound of their chains on the ground.",
+      "level": 4
+    },
+    {
+      "id": "1.5",
+      "text": "The characters are terrified and uncertain about the nature of these approaching figures.",
+      "level": 2
+    },
+    {
+      "id": "1.5.1",
+      "text": "The narrator curses, stating he doesn't know what they are.",
+      "level": 3
+    },
+    {
+      "id": "1.5.2",
+      "text": "Yatou asks what they are, her speech stuttering from fear.",
+      "level": 3
+    },
+    {
+      "id": "1.6",
+      "text": "Shaoye attempts to attack one of the figures with a crossbow, but it is ineffective.",
+      "level": 2
+    },
+    {
+      "id": "1.6.1",
+      "text": "A bamboo arrow pierces the head of a black corpse but causes no visible effect.",
+      "level": 3
+    },
+    {
+      "id": "1.7",
+      "text": "The narrator encourages Shaoye and Yatou to fight, emphasizing survival.",
+      "level": 2
+    },
+    {
+      "id": "1.7.1",
+      "text": "He argues that fighting offers a chance of survival, while not fighting guarantees death.",
+      "level": 3
+    },
+    {
+      "id": "1.8",
+      "text": "Shaoye, spurred by the narrator's words, charges at the black corpses with a bamboo arrow.",
+      "level": 2
+    },
+    {
+      "id": "1.9",
+      "text": "The narrator, despite his fear, follows Shaoye to support him.",
+      "level": 2
+    },
+    {
+      "id": "1.10",
+      "text": "In close combat, the narrator observes the physical characteristics of the black corpses.",
+      "level": 2
+    },
+    {
+      "id": "1.10.1",
+      "text": "Their skin is dark, and their features are severely decayed, but their eyes are blood-red and appear alive.",
+      "level": 3
+    },
+    {
+      "id": "1.10.2",
+      "text": "The corpses have chains on their feet but not on their backs.",
+      "level": 3
+    },
+    {
+      "id": "1.10.3",
+      "text": "Their bodies are a deep red-black, appearing desiccated.",
+      "level": 3
+    },
+    {
+      "id": "1.10.4",
+      "text": "The corpses emit a foul smell of decay.",
+      "level": 3
+    },
+    {
+      "id": "1.11",
+      "text": "The black corpses attack the group, displaying surprising agility and strength.",
+      "level": 2
+    },
+    {
+      "id": "1.11.1",
+      "text": "A corpse grabs the narrator's waist, and he narrowly escapes its bite.",
+      "level": 3
+    },
+    {
+      "id": "1.11.2",
+      "text": "Shaoye is entangled by two corpses, with numerous arrows stuck in them, yet they remain unharmed.",
+      "level": 3
+    },
+    {
+      "id": "1.12",
+      "text": "The narrator rescues Shaoye from the entangled corpses.",
+      "level": 2
+    },
+    {
+      "id": "1.13",
+      "text": "Shaoye expresses fear and suggests giving up, but the narrator rebukes him.",
+      "level": 2
+    },
+    {
+      "id": "1.14",
+      "text": "Yatou is being pursued by a black corpse and is in danger.",
+      "level": 2
+    },
+    {
+      "id": "1.15",
+      "text": "Shaoye, motivated by Yatou's distress, charges to her rescue.",
+      "level": 2
+    },
+    {
+      "id": "1.16",
+      "text": "The narrator is then attacked by three black corpses simultaneously.",
+      "level": 2
+    },
+    {
+      "id": "1.17",
+      "text": "The narrator questions how the corpses, seemingly without sensation, can still see and move.",
+      "level": 2
+    },
+    {
+      "id": "1.18",
+      "text": "Yatou experiences stomach pain and needs to relieve herself.",
+      "level": 2
+    },
+    {
+      "id": "1.19",
+      "text": "While Yatou is indisposed behind a white jade coffin bed, one of the black corpses pursues her.",
+      "level": 2
+    },
+    {
+      "id": "1.20",
+      "text": "In desperation, Yatou uses a used sanitary napkin to attack the pursuing corpse.",
+      "level": 2
+    },
+    {
+      "id": "1.20.1",
+      "text": "The sanitary napkin proves unexpectedly effective against the undead creature.",
+      "level": 3
+    },
+    {
+      "id": "1.20.2",
+      "text": "The corpse collapses and begins to rot.",
+      "level": 3
+    },
+    {
+      "id": "1.21",
+      "text": "Yatou, realizing the effectiveness of the sanitary napkin, uses it to defeat the other pursuing corpses.",
+      "level": 2
+    },
+    {
+      "id": "1.22",
+      "text": "The narrator speculates that the corpses might be susceptible to 'filth' and potentially 'virgin menstrual blood'.",
+      "level": 2
+    },
+    {
+      "id": "1.23",
+      "text": "The rotted corpses turn into black liquid.",
+      "level": 2
+    },
+    {
+      "id": "1.24",
+      "text": "The iron chains remain and appear enhanced by the black liquid.",
+      "level": 2
+    },
+    {
+      "id": "1.25",
+      "text": "A bamboo arrow touching the chains quickly decays, indicating potent 'corpse poison'.",
+      "level": 2
+    },
+    {
+      "id": "1.26",
+      "text": "The narrator and Shaoye notice a 'shasha' sound again, similar to footsteps.",
+      "level": 2
+    },
+    {
+      "id": "1.27",
+      "text": "They decide to hide on the beams of the tomb.",
+      "level": 2
+    },
+    {
+      "id": "1.28",
+      "text": "The narrator suspects the sound is a 'sound wall' or an architectural trick to deter intruders.",
+      "level": 2
+    },
+    {
+      "id": "1.29",
+      "text": "They observe a small opening, described as a 'dog hole', where a black shadow is seen.",
+      "level": 2
+    },
+    {
+      "id": "1.30",
+      "text": "A figure, identified as 'Old Bian' (a deceased acquaintance), emerges from the entrance and walks towards the 'Huanguan River' (coffin river).",
+      "level": 2
+    },
+    {
+      "id": "1.30.1",
+      "text": "Old Bian appears to be a reanimated corpse.",
+      "level": 3
+    },
+    {
+      "id": "1.31",
+      "text": "Shaoye accidentally falls into the Huanguan River.",
+      "level": 2
+    },
+    {
+      "id": "1.32",
+      "text": "The Huanguan River is filled with strange, writhing tentacles.",
+      "level": 2
+    },
+    {
+      "id": "1.33",
+      "text": "The narrator and Yatou rescue Shaoye from the river.",
+      "level": 2
+    },
+    {
+      "id": "1.34",
+      "text": "Shaoye reports that there is something strange beneath the Huanguan River.",
+      "level": 2
+    },
+    {
+      "id": "1.35",
+      "text": "Old Bian has disappeared.",
+      "level": 2
+    },
+    {
+      "id": "1.36",
+      "text": "The narrator realizes that the Professor's body, which was previously by the small opening, is also missing.",
+      "level": 2
+    },
+    {
+      "id": "1.37",
+      "text": "They discover Old Bian consuming the Professor's corpse near the small opening.",
+      "level": 2
+    },
+    {
+      "id": "1.38",
+      "text": "Old Bian escapes into the small opening, and the opening closes.",
+      "level": 2
+    },
+    {
+      "id": "1.39",
+      "text": "The narrator realizes he is alone in the tomb; Shaoye and Yatou have disappeared.",
+      "level": 2
+    },
+    {
+      "id": "1.40",
+      "text": "Shaoye and Yatou are found near the Huanguan River; Yatou needs to relieve herself again.",
+      "level": 2
+    },
+    {
+      "id": "1.41",
+      "text": "Yatou disappears from the ground where she was relieving herself.",
+      "level": 2
+    },
+    {
+      "id": "1.42",
+      "text": "A heavy object falls from above, and the narrator suspects Yatou is in trouble.",
+      "level": 2
+    },
+    {
+      "id": "1.43",
+      "text": "The narrator climbs up a rope to the beams and looks down.",
+      "level": 2
+    },
+    {
+      "id": "1.44",
+      "text": "The Professor's corpse is missing again, and the small opening has closed.",
+      "level": 2
+    },
+    {
+      "id": "1.45",
+      "text": "Yatou is found lying on a white jade coffin.",
+      "level": 2
+    },
+    {
+      "id": "1.46",
+      "text": "Yatou wakes up and slaps Shaoye, mistaking his attempt at CPR for molestation.",
+      "level": 2
+    },
+    {
+      "id": "1.47",
+      "text": "Yatou explains she felt dizzy after relieving herself and doesn't know how she ended up on the coffin.",
+      "level": 2
+    },
+    {
+      "id": "1.48",
+      "text": "The narrator urges them to focus on finding Liu Qu's epitaph to break the curse.",
+      "level": 2
+    },
+    {
+      "id": "1.49",
+      "text": "Shaoye wants to examine an empty suit of armor.",
+      "level": 2
+    },
+    {
+      "id": "1.50",
+      "text": "Yatou notices a black shadow in a small palace-like structure within the tomb.",
+      "level": 2
+    }
+  ],
+  "concepts": [
+    {
+      "name": "黄河鬼棺",
+      "frequency": 1,
+      "context": "Title of the document."
+    },
+    {
+      "name": "尸变九龙坑",
+      "frequency": 1,
+      "context": "Subtitle of the document."
+    },
+    {
+      "name": "南派三叔",
+      "frequency": 1,
+      "context": "Author's name."
+    },
+    {
+      "name": "TXT小说天堂",
+      "frequency": 2,
+      "context": "Website where the document was found or published."
+    },
+    {
+      "name": "我",
+      "frequency": 35,
+      "context": "The narrator, also referred to as 'Lao Xu' or 'Xu Sanqing'."
+    },
+    {
+      "name": "少爷",
+      "frequency": 41,
+      "context": "A companion of the narrator, referred to as 'young master'."
+    },
+    {
+      "name": "丫头",
+      "frequency": 44,
+      "context": "A female companion of the narrator and Shaoye, an archaeologist."
+    },
+    {
+      "name": "玉台",
+      "frequency": 2,
+      "context": "A jade platform found in the tomb."
+    },
+    {
+      "name": "手电光",
+      "frequency": 2,
+      "context": "Light from flashlights, illuminating the scene."
+    },
+    {
+      "name": "盔甲",
+      "frequency": 7,
+      "context": "An empty suit of armor found in the tomb."
+    },
+    {
+      "name": "尸体",
+      "frequency": 12,
+      "context": "Refers to various types of corpses encountered, including black corpses and the Professor's corpse."
+    },
+    {
+      "name": "鬼魂",
+      "frequency": 1,
+      "context": "A spectral entity, mentioned metaphorically in relation to the armor."
+    },
+    {
+      "name": "幻觉",
+      "frequency": 2,
+      "context": "The narrator initially suspects auditory hallucinations."
+    },
+    {
+      "name": "恐怖",
+      "frequency": 3,
+      "context": "A pervasive feeling of fear experienced by the characters."
+    },
+    {
+      "name": "少爷",
+      "frequency": 41,
+      "context": "A companion of the narrator."
+    },
+    {
+      "name": "镇河印",
+      "frequency": 1,
+      "context": "A small object on the armor that Shaoye touches, triggering a mechanism."
+    },
+    {
+      "name": "铁链",
+      "frequency": 10,
+      "context": "Chains attached to the black corpses and found in the tomb."
+    },
+    {
+      "name": "机关",
+      "frequency": 1,
+      "context": "A mechanism triggered by touching the Zhenhe Seal."
+    },
+    {
+      "name": "墓室",
+      "frequency": 9,
+      "context": "The setting of the narrative, a tomb or underground chamber."
+    },
+    {
+      "name": "门",
+      "frequency": 3,
+      "context": "A door that opens in the tomb, revealing the black corpses."
+    },
+    {
+      "name": "鬼影",
+      "frequency": 1,
+      "context": "The figures of the black corpses approaching."
+    },
+    {
+      "name": "脚步声",
+      "frequency": 5,
+      "context": "The distinctive sound made by the black corpses and later by another unknown entity."
+    },
+    {
+      "name": "黑色尸体",
+      "frequency": 15,
+      "context": "The primary antagonists encountered in the first chapter; reanimated corpses."
+    },
+    {
+      "name": "石壁",
+      "frequency": 2,
+      "context": "The walls of the tomb."
+    },
+    {
+      "name": "弩弓",
+      "frequency": 3,
+      "context": "A weapon used by Shaoye."
+    },
+    {
+      "name": "竹箭",
+      "frequency": 6,
+      "context": "Arrows used by Shaoye."
+    },
+    {
+      "name": "利器",
+      "frequency": 1,
+      "context": "The narrator refers to the crossbow as their only effective weapon."
+    },
+    {
+      "name": "一线生机",
+      "frequency": 1,
+      "context": "A sliver of hope for survival."
+    },
+    {
+      "name": "地宫",
+      "frequency": 2,
+      "context": "Refers to the magnificent underground palace or tomb."
+    },
+    {
+      "name": "鲁莽",
+      "frequency": 2,
+      "context": "Describing Shaoye's impulsive actions."
+    },
+    {
+      "name": "外表",
+      "frequency": 1,
+      "context": "Referring to the physical appearance of the black corpses."
+    },
+    {
+      "name": "眼睛",
+      "frequency": 4,
+      "context": "The blood-red eyes of the black corpses are a notable feature."
+    },
+    {
+      "name": "腐烂",
+      "frequency": 6,
+      "context": "Describing the state of decay of the black corpses and other entities."
+    },
+    {
+      "name": "腥风",
+      "frequency": 1,
+      "context": "A foul-smelling wind associated with the corpses."
+    },
+    {
+      "name": "求生本能",
+      "frequency": 2,
+      "context": "The instinct to survive driving the characters' actions."
+    },
+    {
+      "name": "攻击",
+      "frequency": 3,
+      "context": "The attacks launched by the black corpses."
+    },
+    {
+      "name": "眼窝",
+      "frequency": 1,
+      "context": "The eye socket of a black corpse."
+    },
+    {
+      "name": "嘴巴",
+      "frequency": 1,
+      "context": "The mouth of a black corpse, revealing black teeth."
+    },
+    {
+      "name": "牙齿",
+      "frequency": 1,
+      "context": "The teeth of a black corpse, described as black."
+    },
+    {
+      "name": "鬼爪",
+      "frequency": 1,
+      "context": "The grasping hand of a black corpse."
+    },
+    {
+      "name": "咽喉",
+      "frequency": 1,
+      "context": "The throat of a black corpse."
+    },
+    {
+      "name": "尸毒",
+      "frequency": 2,
+      "context": "Poison from the corpses, suspected to be a threat."
+    },
+    {
+      "name": "印子",
+      "frequency": 2,
+      "context": "Marks left by the corpses' grips, particularly on Shaoye's neck."
+    },
+    {
+      "name": "黑水",
+      "frequency": 3,
+      "context": "The liquid residue left by the decomposed black corpses."
+    },
+    {
+      "name": "卫生巾",
+      "frequency": 7,
+      "context": "A used sanitary napkin, surprisingly effective against the black corpses."
+    },
+    {
+      "name": "秽污",
+      "frequency": 1,
+      "context": "Filth or impurity, which the corpses are said to fear."
+    },
+    {
+      "name": "处子月经",
+      "frequency": 1,
+      "context": "Virgin menstrual blood, speculated to have special properties."
+    },
+    {
+      "name": "横梁",
+      "frequency": 5,
+      "context": "The beams of the tomb, used for hiding."
+    },
+    {
+      "name": "回声墙",
+      "frequency": 1,
+      "context": "A suspected architectural feature creating illusory sounds."
+    },
+    {
+      "name": "狗洞",
+      "frequency": 2,
+      "context": "A small opening in the tomb, referred to as a 'dog hole'."
+    },
+    {
+      "name": "老卞",
+      "frequency": 8,
+      "context": "A deceased acquaintance who appears to be reanimated."
+    },
+    {
+      "name": "护棺河",
+      "frequency": 6,
+      "context": "A river surrounding the coffin, filled with tentacles."
+    },
+    {
+      "name": "触手",
+      "frequency": 3,
+      "context": "Tentacles found in the Huanguan River."
+    },
+    {
+      "name": "教授",
+      "frequency": 7,
+      "context": "Another deceased acquaintance who appears to be reanimated and is later found partially eaten."
+    },
+    {
+      "name": "盗墓",
+      "frequency": 1,
+      "context": "The act of grave robbing, implied as a possible motive for Old Bian and the Professor."
+    },
+    {
+      "name": "诅咒",
+      "frequency": 3,
+      "context": "A curse associated with the tomb, which the characters are trying to break."
+    },
+    {
+      "name": "金属",
+      "frequency": 1,
+      "context": "A metallic glint observed on the Professor's corpse."
+    },
+    {
+      "name": "活人",
+      "frequency": 6,
+      "context": "Living beings, contrasted with the reanimated corpses."
+    },
+    {
+      "name": "大便",
+      "frequency": 1,
+      "context": "Feces left by Yatou."
+    },
+    {
+      "name": "白狐",
+      "frequency": 1,
+      "context": "Title of the second chapter."
+    },
+    {
+      "name": "盔甲壳",
+      "frequency": 2,
+      "context": "The empty armor shell."
+    },
+    {
+      "name": "白玉棺",
+      "frequency": 2,
+      "context": "A white jade coffin."
+    },
+    {
+      "name": "冥殿",
+      "frequency": 1,
+      "context": "A burial hall."
+    },
+    {
+      "name": "楼台飞檐",
+      "frequency": 1,
+      "context": "Architectural elements of the tomb."
+    },
+    {
+      "name": "宫殿",
+      "frequency": 1,
+      "context": "Palace-like structures within the tomb."
+    }
+  ],
+  "relations": [
+    {
+      "source": "少爷",
+      "target": "我",
+      "type": "companion"
+    },
+    {
+      "source": "丫头",
+      "target": "我",
+      "type": "companion"
+    },
+    {
+      "source": "少爷",
+      "target": "丫头",
+      "type": "companion"
+    },
+    {
+      "source": "盔甲",
+      "target": "玉台",
+      "type": "is_on"
+    },
+    {
+      "source": "镇河印",
+      "target": "盔甲",
+      "type": "part_of"
+    },
+    {
+      "source": "铁链",
+      "target": "黑色尸体",
+      "type": "attached_to"
+    },
+    {
+      "source": "黑色尸体",
+      "target": "门",
+      "type": "emerged_from"
+    },
+    {
+      "source": "弩弓",
+      "target": "黑色尸体",
+      "type": "used_against"
+    },
+    {
+      "source": "竹箭",
+      "target": "黑色尸体",
+      "type": "fired_at"
+    },
+    {
+      "source": "卫生巾",
+      "target": "黑色尸体",
+      "type": "used_against"
+    },
+    {
+      "source": "黑色尸体",
+      "target": "黑水",
+      "type": "decomposes_into"
+    },
+    {
+      "source": "铁链",
+      "target": "黑水",
+      "type": "stained_by"
+    },
+    {
+      "source": "竹箭",
+      "target": "黑色铁链",
+      "type": "corrodes"
+    },
+    {
+      "source": "脚步声",
+      "target": "墓室",
+      "type": "heard_in"
+    },
+    {
+      "source": "老卞",
+      "target": "护棺河",
+      "type": "walks_towards"
+    },
+    {
+      "source": "护棺河",
+      "target": "触手",
+      "type": "contains"
+    },
+    {
+      "source": "老卞",
+      "target": "教授",
+      "type": "consumes"
+    },
+    {
+      "source": "老卞",
+      "target": "小洞",
+      "type": "enters"
+    },
+    {
+      "source": "教授",
+      "target": "小洞",
+      "type": "was_near"
+    },
+    {
+      "source": "丫头",
+      "target": "白玉棺",
+      "type": "found_on"
+    },
+    {
+      "source": "少爷",
+      "target": "丫头",
+      "type": "attempts_CPR_on"
+    },
+    {
+      "source": "丫头",
+      "target": "少爷",
+      "type": "slaps"
+    },
+    {
+      "source": "盔甲壳",
+      "target": "黑色尸体",
+      "type": "attracts"
+    },
+    {
+      "source": "丫头",
+      "target": "黑色的影子",
+      "type": "observes_in_palace"
+    }
+  ],
+  "hierarchy": {
+    "main_topics": [
+      "Chapter 1: Battle of the Ghost Corpse",
+      "Chapter 2: Fake Person White Fox"
+    ],
+    "structure": "The document is structured as a narrative, divided into chapters. Chapter 1 details the initial encounter with reanimated corpses and the group's struggle for survival, culminating in Yatou's unexpected victory using a sanitary napkin. Chapter 2 describes the escalating supernatural events, the disappearance and reappearance of individuals and corpses, and the protagonists' increasing bewilderment and danger within the tomb."
+  }
+}

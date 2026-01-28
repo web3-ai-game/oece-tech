@@ -1,0 +1,181 @@
+{
+  "entities": {
+    "Article": {
+      "$schema": "http://json-schema.org/draft-07/schema#",
+      "title": "Article",
+      "type": "object",
+      "description": "Represents a blog post or article within the Digital Nomad Compass application.",
+      "properties": {
+        "id": {
+          "type": "string",
+          "description": "Unique identifier for the Article entity."
+        },
+        "title": {
+          "type": "string",
+          "description": "The title of the article."
+        },
+        "content": {
+          "type": "string",
+          "description": "The main text content of the article."
+        },
+        "author": {
+          "type": "string",
+          "description": "The author of the article."
+        },
+        "publicationDate": {
+          "type": "string",
+          "description": "The date and time when the article was published.",
+          "format": "date-time"
+        },
+        "category": {
+          "type": "string",
+          "description": "The category of the article (e.g., 'Tech', 'Travel')."
+        },
+        "tags": {
+          "type": "array",
+          "description": "Tags associated with the article to improve searchability.",
+          "items": {
+            "type": "string"
+          }
+        },
+        "imageUrl": {
+          "type": "string",
+          "description": "URL of the main image associated with the article.",
+          "format": "uri"
+        },
+        "isPro": {
+          "type": "boolean",
+          "description": "Whether this article is exclusive to PRO members."
+        }
+      },
+      "required": [
+        "id",
+        "title",
+        "content",
+        "author",
+        "publicationDate",
+        "category"
+      ]
+    },
+    "User": {
+      "$schema": "http://json-schema.org/draft-07/schema#",
+      "title": "User",
+      "type": "object",
+      "description": "Represents a user of the Digital Nomad Compass application.",
+      "properties": {
+        "id": {
+          "type": "string",
+          "description": "Unique identifier for the User entity."
+        },
+        "username": {
+          "type": "string",
+          "description": "The username of the user."
+        },
+        "email": {
+          "type": "string",
+          "description": "The email address of the user.",
+          "format": "email"
+        },
+        "role": {
+          "type": "string",
+          "enum": ["free", "pro", "admin"],
+          "description": "The role of the user, determining their access level."
+        },
+        "invites": {
+          "type": "number",
+          "description": "Number of invitation codes this user has available to give out."
+        }
+      },
+      "required": [
+        "id",
+        "email",
+        "role",
+        "invites"
+      ]
+    },
+    "InviteCode": {
+      "$schema": "http://json-schema.org/draft-07/schema#",
+      "title": "InviteCode",
+      "type": "object",
+      "description": "Represents an invitation code for new user registration.",
+      "properties": {
+        "id": {
+          "type": "string",
+          "description": "The unique invitation code string."
+        },
+        "createdBy": {
+          "type": "string",
+          "description": "The UID of the user who generated this code."
+        },
+        "isUsed": {
+          "type": "boolean",
+          "description": "Whether this invitation code has been used."
+        },
+        "usedBy": {
+          "type": "string",
+          "description": "The UID of the user who used this code."
+        }
+      },
+      "required": ["id", "createdBy", "isUsed"]
+    }
+  },
+  "auth": {
+    "providers": [
+      "password",
+      "anonymous",
+      "google.com"
+    ]
+  },
+  "firestore": {
+    "structure": [
+      {
+        "path": "/users/{userId}",
+        "definition": {
+          "entityName": "User",
+          "schema": {
+            "$ref": "#/backend/entities/User"
+          },
+          "description": "Stores user profiles, roles, and invite counts. Access is restricted to the user themselves, but roles are publicly readable for rules.",
+          "params": [
+            {
+              "name": "userId",
+              "description": "The unique identifier of the user."
+            }
+          ]
+        }
+      },
+      {
+        "path": "/invites/{inviteCode}",
+        "definition": {
+            "entityName": "InviteCode",
+            "schema": {
+                "$ref": "#/backend/entities/InviteCode"
+            },
+            "description": "Stores all invitation codes. Codes can be read to check validity before use.",
+            "params": [
+                {
+                    "name": "inviteCode",
+                    "description": "The unique invitation code."
+                }
+            ]
+        }
+      },
+      {
+        "path": "/articles/{articleId}",
+        "definition": {
+          "entityName": "Article",
+          "schema": {
+            "$ref": "#/backend/entities/Article"
+          },
+          "description": "Stores all articles. All users can read non-PRO articles. Write access is restricted to admins.",
+          "params": [
+            {
+              "name": "articleId",
+              "description": "The unique identifier of the article."
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

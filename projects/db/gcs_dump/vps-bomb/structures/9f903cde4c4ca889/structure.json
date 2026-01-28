@@ -1,0 +1,176 @@
+{
+  "propositions": [
+    {
+      "id": "1",
+      "text": "A female voice calls out, ordering all of the Empress's male consorts to enter.",
+      "level": 1
+    },
+    {
+      "id": "1.1",
+      "text": "The speaker indicates satisfaction with the first male consort, finding him to be very pleasing.",
+      "level": 2
+    },
+    {
+      "id": "1.2",
+      "text": "Another speaker questions the first speaker's assessment, asking if something was done to the consort.",
+      "level": 2
+    },
+    {
+      "id": "1.3",
+      "text": "The first speaker reveals that they showed the consort a video.",
+      "level": 2
+    },
+    {
+      "id": "1.4",
+      "text": "The second speaker inquires about the video's content, specifically if it relates to seeing future events.",
+      "level": 2
+    },
+    {
+      "id": "1.5",
+      "text": "The first speaker confirms the video's nature and notes the consort's reaction of crying.",
+      "level": 2
+    },
+    {
+      "id": "1.6",
+      "text": "The second speaker finds the first speaker's amusement at the consort's crying to be boring.",
+      "level": 2
+    },
+    {
+      "id": "1.7",
+      "text": "The first speaker expresses curiosity about why the consort is crying so intensely.",
+      "level": 2
+    },
+    {
+      "id": "1.8",
+      "text": "The first speaker admits to liking the consort's reaction.",
+      "level": 2
+    },
+    {
+      "id": "1.9",
+      "text": "They decide to move on to the next consort since the first one cried.",
+      "level": 2
+    },
+    {
+      "id": "1.10",
+      "text": "The first speaker expresses a desire to see the next consort's reaction.",
+      "level": 2
+    },
+    {
+      "id": "1.11",
+      "text": "The second speaker calls the first speaker a pervert.",
+      "level": 2
+    },
+    {
+      "id": "1.12",
+      "text": "The second speaker observes that the first speaker seemed excited and asks if something bad is about to happen.",
+      "level": 2
+    },
+    {
+      "id": "1.13",
+      "text": "The first speaker playfully deflects the question, expressing anticipation.",
+      "level": 2
+    },
+    {
+      "id": "1.14",
+      "text": "The second speaker describes the first speaker as incomprehensible.",
+      "level": 2
+    },
+    {
+      "id": "1.15",
+      "text": "The first speaker states they are ready and curious about who the next consort will be.",
+      "level": 2
+    },
+    {
+      "id": "1.16",
+      "text": "The first speaker declares they are waiting to see how long the next person can endure.",
+      "level": 2
+    },
+    {
+      "id": "1.17",
+      "text": "The first speaker expresses a desire to know who will ultimately prevail.",
+      "level": 2
+    },
+    {
+      "id": "1.18",
+      "text": "The phrase 'I wonder who will last the longest' is repeated multiple times.",
+      "level": 2
+    }
+  ],
+  "concepts": [
+    {
+      "name": "女皇 (Empress)",
+      "frequency": 1,
+      "context": "Referred to in the title and in the first proposition as the owner of the male consorts."
+    },
+    {
+      "name": "男宠 (Male consort)",
+      "frequency": 1,
+      "context": "Called for by the Empress and are the subjects of the interaction and experimentation."
+    },
+    {
+      "name": "视频 (Video)",
+      "frequency": 1,
+      "context": "Used as a tool to elicit reactions from the male consorts."
+    },
+    {
+      "name": "反应 (Reaction)",
+      "frequency": 3,
+      "context": "The focus of the speakers' interest, particularly the crying of the consort."
+    },
+    {
+      "name": "哭 (Cry)",
+      "frequency": 2,
+      "context": "The specific reaction of the first male consort after watching the video."
+    },
+    {
+      "name": "好奇 (Curiosity)",
+      "frequency": 2,
+      "context": "Expressed by the speakers regarding the consorts' reactions and identities."
+    },
+    {
+      "name": "坚持 (Endure/Last)",
+      "frequency": 12,
+      "context": "The concept of how long someone can withstand a situation or challenge, repeated frequently."
+    },
+    {
+      "name": "笑到最后 (Laugh to the end)",
+      "frequency": 1,
+      "context": "Implies a final victor or outcome in the presented scenario."
+    }
+  ],
+  "relations": [
+    {
+      "source": "女皇 (Empress)",
+      "target": "男宠 (Male consort)",
+      "type": "owns"
+    },
+    {
+      "source": "视频 (Video)",
+      "target": "反应 (Reaction)",
+      "type": "elicits"
+    },
+    {
+      "source": "男宠 (Male consort)",
+      "target": "哭 (Cry)",
+      "type": "exhibits"
+    },
+    {
+      "source": "女声 (Female voice)",
+      "target": "指令 (Command)",
+      "type": "issues"
+    },
+    {
+      "source": "坚持 (Endure/Last)",
+      "target": "时间 (Time)",
+      "type": "measured_by"
+    }
+  ],
+  "hierarchy": {
+    "main_topics": [
+      "Introduction of the scene and characters",
+      "Experimentation with a male consort",
+      "Anticipation of future events"
+    ],
+    "structure": "The document begins with a title and chapter designation, followed by a reference. The main body is a dialogue between two speakers discussing their actions and anticipating the reactions of others, heavily emphasizing the concept of endurance and who will ultimately succeed."
+  }
+}

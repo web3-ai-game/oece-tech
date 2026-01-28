@@ -1,0 +1,630 @@
+{
+  "propositions": [
+    {
+      "id": "1",
+      "text": "惊悚悬疑小说结合了多种类型小说的元素，具有广泛的读者群。",
+      "level": 1
+    },
+    {
+      "id": "1.1",
+      "text": "悬疑是惊悚小说的最大特点，表现为读者对后续情节的迫切关注。",
+      "level": 2
+    },
+    {
+      "id": "1.1.1",
+      "text": "判断惊悚小说优秀与否的标准之一是能否促使读者一口气读完整本书。",
+      "level": 3
+    },
+    {
+      "id": "1.2",
+      "text": "惊悚小说为现代人提供了一个体验紧张、神秘、惊险、恐惧的幻想空间。",
+      "level": 2
+    },
+    {
+      "id": "2",
+      "text": "《伯恩的身份》是“惊险小说之王”鲁德伦的代表作，1980年在美国出版，曾连续畅销40周。",
+      "level": 1
+    },
+    {
+      "id": "2.1",
+      "text": "小说讲述了一个头部受枪伤失忆的美国人在情侣帮助下，在国际恐怖组织追击下，逐渐查明自己身份的故事。",
+      "level": 2
+    },
+    {
+      "id": "2.1.1",
+      "text": "主人公的真实身份是美国特工，曾被设计用作诱捕恐怖组织头目卡洛斯的诱饵。",
+      "level": 3
+    },
+    {
+      "id": "2.1.2",
+      "text": "主人公因中了卡洛斯的离间计，被误认为叛变而遭到美国特工机关的追杀。",
+      "level": 3
+    },
+    {
+      "id": "2.2",
+      "text": "小说情节紧张，故事发展速度极快。",
+      "level": 2
+    },
+    {
+      "id": "3",
+      "text": "罗伯特·鲁德伦是一位“写娱乐性作品的作家”，其小说具有戏剧性结构的特点。",
+      "level": 1
+    },
+    {
+      "id": "3.1",
+      "text": "惊险小说的功能主要是娱乐读者。",
+      "level": 2
+    },
+    {
+      "id": "3.1.1",
+      "text": "西方惊险小说的内容多样，包括间谍、政治、犯罪等类型。",
+      "level": 3
+    },
+    {
+      "id": "3.2",
+      "text": "鲁德伦的小说具有情节曲折离奇但合乎情理、故事发展迅速、悬念迭起等特点。",
+      "level": 2
+    },
+    {
+      "id": "3.3",
+      "text": "鲁德伦的作品常描写一对男女在险恶环境中共同奋斗，在共患难中滋长爱情。",
+      "level": 2
+    },
+    {
+      "id": "3.4",
+      "text": "鲁德伦创作时怀有忿懑，不满某些狂热分子利用权力干坏事。",
+      "level": 2
+    },
+    {
+      "id": "4",
+      "text": "《七十一号街幽灵》即《伯恩的身份》，出版于1980年，是鲁德伦的代表作。",
+      "level": 1
+    },
+    {
+      "id": "4.1",
+      "text": "主人公是美国特工，化名贾森·伯恩，曾参加侵越特种部队，后因伤失忆。",
+      "level": 2
+    },
+    {
+      "id": "4.2",
+      "text": "主人公被误认为叛变，遭到通缉并被下令处决。",
+      "level": 2
+    },
+    {
+      "id": "4.3",
+      "text": "小说淋漓尽致地描写了西方社会政治暗杀、特务横行、恐怖犯罪的黑暗面。",
+      "level": 2
+    },
+    {
+      "id": "5",
+      "text": "1975年7月11日，《纽约时报》报道称被逐外交官与恐怖分子卡洛斯有关。",
+      "level": 1
+    },
+    {
+      "id": "5.1",
+      "text": "法国驱逐三名古巴高级外交官，此举与侦缉卡洛斯有关。",
+      "level": 2
+    },
+    {
+      "id": "5.2",
+      "text": "卡洛斯真名为伊里奇·兰米雷士·桑切斯，被怀疑是某国际恐怖分子网重要人物。",
+      "level": 2
+    },
+    {
+      "id": "5.3",
+      "text": "卡洛斯被怀疑与巴黎某公寓内两名法国反谍报人员和一名黎巴嫩告密者被杀案有关。",
+      "level": 2
+    },
+    {
+      "id": "5.4",
+      "text": "卡洛斯与西德恐怖活动团伙有关，并怀疑与欧洲多起恐怖活动有联系。",
+      "level": 2
+    },
+    {
+      "id": "6",
+      "text": "1975年7月7日，美联社报道为缉捕凶手布下天罗地网。",
+      "level": 1
+    },
+    {
+      "id": "6.1",
+      "text": "侦缉行动始于巴黎，凶手枪杀两名法国情报人员和一名黎巴嫩告密者后逃逸。",
+      "level": 2
+    },
+    {
+      "id": "6.2",
+      "text": "凶手被称为喷气机时代刺客，据称受过高等教育，用钱阔绰，衣着入时。",
+      "level": 2
+    },
+    {
+      "id": "6.3",
+      "text": "与凶手同伙的男女被认为是世界上最危险的亡命徒。",
+      "level": 2
+    },
+    {
+      "id": "6.4",
+      "text": "凶手据称与日本赤军、阿拉伯武装斗争组织、西德巴德尔—曼因霍夫帮等多个恐怖组织有联系。",
+      "level": 2
+    },
+    {
+      "id": "6.5",
+      "text": "凶手所到之处，爆炸、射击、绑架事件频发。",
+      "level": 2
+    },
+    {
+      "id": "6.6",
+      "text": "警方在搜查凶手巴黎公寓时发现了四份护照，其中一份姓名栏为伊里奇·兰米雷士·桑切斯。",
+      "level": 2
+    },
+    {
+      "id": "6.7",
+      "text": "伊里奇·兰米雷士·桑切斯是委内瑞拉共产党一位律师的儿子。",
+      "level": 2
+    },
+    {
+      "id": "7",
+      "text": "一陌生男子在海中被渔民救起，头部受枪伤，失忆。",
+      "level": 1
+    },
+    {
+      "id": "7.1",
+      "text": "男子头部伤口疑似枪伤，但船长认为更像剃刀切割。",
+      "level": 2
+    },
+    {
+      "id": "7.2",
+      "text": "男子被送往诺阿港岛医生沃士伯处治疗。",
+      "level": 2
+    },
+    {
+      "id": "8",
+      "text": "医生杰弗里·沃士伯是一位有酗酒问题的医生。",
+      "level": 1
+    },
+    {
+      "id": "8.1",
+      "text": "沃士伯因为酗酒在伦敦麦克林医院被开除。",
+      "level": 2
+    },
+    {
+      "id": "8.2",
+      "text": "沃士伯在治疗失忆男子时，通过观察和交流，逐渐推断出男子可能经过整容，并具备多种技能。",
+      "level": 2
+    },
+    {
+      "id": "8.3",
+      "text": "沃士伯发现男子在昏迷时会说英语、法语和一种东方语言。",
+      "level": 2
+    },
+    {
+      "id": "8.4",
+      "text": "沃士伯通过幻灯片展示了男子身上的负片，上面是苏黎世一家银行的地址和账户信息。",
+      "level": 2
+    },
+    {
+      "id": "9",
+      "text": "失忆男子在沃士伯的帮助下，通过医学书籍和观察，试图恢复记忆。",
+      "level": 1
+    },
+    {
+      "id": "9.1",
+      "text": "医学书籍论述了头部和精神创伤可能导致的健忘症。",
+      "level": 2
+    },
+    {
+      "id": "9.2",
+      "text": "沃士伯认为男子的失忆是生理和心理双重压力所致。",
+      "level": 2
+    },
+    {
+      "id": "9.3",
+      "text": "沃士伯通过观察男子的反应，发现他对火器有渊博知识。",
+      "level": 2
+    },
+    {
+      "id": "9.4",
+      "text": "沃士伯认为男子的生理结构已被改变，导致他无法将恢复的技能与过去的经历联系起来。",
+      "level": 2
+    },
+    {
+      "id": "9.5",
+      "text": "男子认为“答案在苏黎世”。",
+      "level": 2
+    },
+    {
+      "id": "10",
+      "text": "在沃士伯的安排下，失忆男子（让·彼埃尔）获得了一份工作，以锻炼其生存能力。",
+      "level": 1
+    },
+    {
+      "id": "10.1",
+      "text": "这份工作是顶替一位腿部受伤的病人，环境严酷，充满敌意和怀疑。",
+      "level": 2
+    },
+    {
+      "id": "10.2",
+      "text": "沃士伯认为这次经历是对男子的一次测验，旨在重现最初的压力环境。",
+      "level": 2
+    }
+  ],
+  "concepts": [
+    {
+      "name": "惊悚悬疑小说",
+      "frequency": 3,
+      "context": "定义了小说的类型及其特点。"
+    },
+    {
+      "name": "悬疑",
+      "frequency": 4,
+      "context": "是惊悚小说的核心元素，指读者对情节的迫切关注。"
+    },
+    {
+      "name": "罗伯特·陆德伦",
+      "frequency": 5,
+      "context": "本书作者，被誉为“惊险小说之王”。"
+    },
+    {
+      "name": "《伯恩的身份》",
+      "frequency": 5,
+      "context": "本书的书名，被认为是陆德伦的代表作。"
+    },
+    {
+      "name": "失忆",
+      "frequency": 7,
+      "context": "小说主人公的核心问题，导致其身份不明。"
+    },
+    {
+      "name": "身份",
+      "frequency": 4,
+      "context": "小说的主题之一，主人公试图找回自己的身份。"
+    },
+    {
+      "name": "美国特工",
+      "frequency": 3,
+      "context": "主人公的真实身份。"
+    },
+    {
+      "name": "卡洛斯",
+      "frequency": 4,
+      "context": "小说中的反派人物，国际恐怖组织头目。"
+    },
+    {
+      "name": "恐怖组织",
+      "frequency": 3,
+      "context": "小说中涉及的犯罪团伙。"
+    },
+    {
+      "name": "情节",
+      "frequency": 3,
+      "context": "描述小说的叙事特点，如曲折、迅速、悬念。"
+    },
+    {
+      "name": "娱乐性",
+      "frequency": 3,
+      "context": "描述惊险小说的主要功能和作者的创作定位。"
+    },
+    {
+      "name": "戏剧工作",
+      "frequency": 2,
+      "context": "陆德伦的背景，对其创作的影响。"
+    },
+    {
+      "name": "结构",
+      "frequency": 2,
+      "context": "戏剧工作对小说创作的重要性，强调事件的连贯性。"
+    },
+    {
+      "name": "政治暗杀",
+      "frequency": 1,
+      "context": "小说反映的社会现实黑暗面。"
+    },
+    {
+      "name": "特务",
+      "frequency": 1,
+      "context": "小说反映的社会现实黑暗面。"
+    },
+    {
+      "name": "恐怖犯罪",
+      "frequency": 1,
+      "context": "小说反映的社会现实黑暗面。"
+    },
+    {
+      "name": "伊里奇·兰米雷士·桑切斯",
+      "frequency": 2,
+      "context": "卡洛斯的全名。"
+    },
+    {
+      "name": "渔民",
+      "frequency": 4,
+      "context": "发现并救起失忆男子的重要角色。"
+    },
+    {
+      "name": "枪伤",
+      "frequency": 4,
+      "context": "主人公的致命伤，也是导致其失忆的原因之一。"
+    },
+    {
+      "name": "医生",
+      "frequency": 7,
+      "context": "小说中的重要职业，如沃士伯和主人公可能曾是医生。"
+    },
+    {
+      "name": "沃士伯",
+      "frequency": 13,
+      "context": "诺阿港岛的医生，治疗了失忆男子。"
+    },
+    {
+      "name": "整容",
+      "frequency": 3,
+      "context": "沃士伯推断主人公可能做过手术改变面貌。"
+    },
+    {
+      "name": "技能",
+      "frequency": 3,
+      "context": "主人公恢复的多种能力，如语言、火器知识。"
+    },
+    {
+      "name": "心理学",
+      "frequency": 3,
+      "context": "与头部创伤和记忆丧失相关的学科。"
+    },
+    {
+      "name": "记忆",
+      "frequency": 5,
+      "context": "主人公失忆的核心问题，其恢复是小说的重要线索。"
+    },
+    {
+      "name": "苏黎世",
+      "frequency": 3,
+      "context": "小说中提及的重要地点，与银行账户相关。"
+    },
+    {
+      "name": "银行账户",
+      "frequency": 3,
+      "context": "主人公身上发现的线索，指向其潜在身份。"
+    },
+    {
+      "name": "负片",
+      "frequency": 2,
+      "context": "植入主人公体内的线索载体。"
+    },
+    {
+      "name": "语言",
+      "frequency": 4,
+      "context": "主人公会说的语言，是其身份线索之一。"
+    },
+    {
+      "name": "火器",
+      "frequency": 2,
+      "context": "主人公拥有的技能，暗示其过往经历。"
+    },
+    {
+      "name": "压力",
+      "frequency": 3,
+      "context": "导致主人公失忆的心理因素。"
+    },
+    {
+      "name": "测验",
+      "frequency": 3,
+      "context": "沃士伯用来帮助主人公恢复和检验其能力的方式。"
+    }
+  ],
+  "relations": [
+    {
+      "source": "惊悚悬疑小说",
+      "target": "悬疑",
+      "type": "has_feature"
+    },
+    {
+      "source": "惊悚悬疑小说",
+      "target": "侦探小说",
+      "type": "combines_elements_of"
+    },
+    {
+      "source": "惊悚悬疑小说",
+      "target": "间谍小说",
+      "type": "combines_elements_of"
+    },
+    {
+      "source": "罗伯特·陆德伦",
+      "target": "《伯恩的身份》",
+      "type": "author_of"
+    },
+    {
+      "source": "《伯恩的身份》",
+      "target": "失忆",
+      "type": "features_protagonist_with"
+    },
+    {
+      "source": "《伯恩的身份》",
+      "target": "身份",
+      "type": "explores_theme_of"
+    },
+    {
+      "source": "《伯恩的身份》",
+      "target": "美国特工",
+      "type": "protagonist_is_a"
+    },
+    {
+      "source": "《伯恩的身份》",
+      "target": "卡洛斯",
+      "type": "features_antagonist_named"
+    },
+    {
+      "source": "《伯恩的身份》",
+      "target": "恐怖组织",
+      "type": "involves"
+    },
+    {
+      "source": "罗伯特·陆德伦",
+      "target": "娱乐性",
+      "type": "describes_work_as"
+    },
+    {
+      "source": "罗伯特·陆德伦",
+      "target": "戏剧工作",
+      "type": "has_background_in"
+    },
+    {
+      "source": "罗伯特·陆德伦",
+      "target": "结构",
+      "type": "emphasizes_importance_of"
+    },
+    {
+      "source": "《伯恩的身份》",
+      "target": "政治暗杀",
+      "type": "depicts_dark_side_of_society"
+    },
+    {
+      "source": "《伯恩的身份》",
+      "target": "特务",
+      "type": "depicts_dark_side_of_society"
+    },
+    {
+      "source": "《伯恩的身份》",
+      "target": "恐怖犯罪",
+      "type": "depicts_dark_side_of_society"
+    },
+    {
+      "source": "卡洛斯",
+      "target": "伊里奇·兰米雷士·桑切斯",
+      "type": "has_real_name"
+    },
+    {
+      "source": "渔民",
+      "target": "失忆",
+      "type": "rescues_person_with"
+    },
+    {
+      "source": "失忆",
+      "target": "枪伤",
+      "type": "caused_by"
+    },
+    {
+      "source": "失忆",
+      "target": "沃士伯",
+      "type": "treated_by"
+    },
+    {
+      "source": "沃士伯",
+      "target": "医生",
+      "type": "is_a"
+    },
+    {
+      "source": "沃士伯",
+      "target": "酗酒",
+      "type": "suffers_from"
+    },
+    {
+      "source": "沃士伯",
+      "target": "整容",
+      "type": "suspects_protagonist_of"
+    },
+    {
+      "source": "沃士伯",
+      "target": "技能",
+      "type": "discovers_protagonist_has"
+    },
+    {
+      "source": "沃士伯",
+      "target": "语言",
+      "type": "observes_protagonist_uses"
+    },
+    {
+      "source": "沃士伯",
+      "target": "银行账户",
+      "type": "discovers_information_about"
+    },
+    {
+      "source": "沃士伯",
+      "target": "负片",
+      "type": "finds_on_protagonist"
+    },
+    {
+      "source": "失忆",
+      "target": "记忆",
+      "type": "is_lack_of"
+    },
+    {
+      "source": "记忆",
+      "target": "心理学",
+      "type": "studied_in"
+    },
+    {
+      "source": "沃士伯",
+      "target": "压力",
+      "type": "believes_causes_memory_loss"
+    },
+    {
+      "source": "沃士伯",
+      "target": "火器",
+      "type": "observes_protagonist_skill_with"
+    },
+    {
+      "source": "沃士伯",
+      "target": "技能",
+      "type": "analyzes_protagonist's"
+    },
+    {
+      "source": "沃士伯",
+      "target": "苏黎世",
+      "type": "associates_with_bank_account"
+    },
+    {
+      "source": "失忆",
+      "target": "苏黎世",
+      "type": "protagonist_associates_with"
+    },
+    {
+      "source": "失忆",
+      "target": "测验",
+      "type": "is_subject_of"
+    },
+    {
+      "source": "测验",
+      "target": "压力",
+      "type": "aims_to_recreate"
+    },
+    {
+      "source": "测验",
+      "target": "技能",
+      "type": "tests_protagonist's"
+    },
+    {
+      "source": "失忆",
+      "target": "沃士伯",
+      "type": "is_analyzed_by"
+    },
+    {
+      "source": "失忆",
+      "target": "记忆",
+      "type": "is_the_problem_of"
+    },
+    {
+      "source": "《伯恩的身份》",
+      "target": "失忆",
+      "type": "central_theme_of"
+    },
+    {
+      "source": "《伯恩的身份》",
+      "target": "身份",
+      "type": "central_theme_of"
+    },
+    {
+      "source": "《伯恩的身份》",
+      "target": "罗伯特·陆德伦",
+      "type": "written_by"
+    }
+  ],
+  "hierarchy": {
+    "main_topics": [
+      "Introduction to Thriller Novels",
+      "Overview of \"The Bourne Identity\"",
+      "Author's Background and Style",
+      "Historical Context and News Reports",
+      "The Protagonist's Awakening and Treatment",
+      "The Mystery of the Protagonist's Identity",
+      "The Protagonist's Recovery and Training"
+    ],
+    "structure": "The document is structured with an introduction to the genre, a synopsis of the book, background on the author, news reports setting the historical context, and then delves into the narrative of the protagonist's amnesia, medical treatment, and the investigative process to uncover his past."
+  }
+}

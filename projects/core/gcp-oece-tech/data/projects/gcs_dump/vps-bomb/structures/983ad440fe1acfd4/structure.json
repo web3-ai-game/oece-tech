@@ -1,0 +1,602 @@
+{
+  "propositions": [
+    {
+      "id": "1",
+      "text": "赫邱里·波罗注意到李蒙小姐的信件中有三个错误。",
+      "level": 1
+    },
+    {
+      "id": "1.1",
+      "text": "李蒙小姐通常不会犯错，她的效率极高，如同机器。",
+      "level": 2
+    },
+    {
+      "id": "1.2",
+      "text": "李蒙小姐承认错误是因为她姐姐。",
+      "level": 2
+    },
+    {
+      "id": "2",
+      "text": "李蒙小姐的姐姐休巴德太太在新加坡生活，其丈夫曾从事橡胶生意。",
+      "level": 1
+    },
+    {
+      "id": "2.1",
+      "text": "休巴德太太四年前守寡，没有儿女。",
+      "level": 2
+    },
+    {
+      "id": "3",
+      "text": "休巴德太太约六个月前开始在一家国际学舍担任看守（女舍监）。",
+      "level": 1
+    },
+    {
+      "id": "3.1",
+      "text": "这家学舍由一位希腊血统的女人尼可蒂丝太太开设。",
+      "level": 2
+    },
+    {
+      "id": "3.2",
+      "text": "休巴德太太负责管理餐饮和照料一切。",
+      "level": 2
+    },
+    {
+      "id": "3.3",
+      "text": "休巴德太太获得很好的食宿供应。",
+      "level": 2
+    },
+    {
+      "id": "3.4",
+      "text": "休巴德太太喜欢年轻人，并了解种族差异和人的敏感性。",
+      "level": 2
+    },
+    {
+      "id": "4",
+      "text": "休巴德太太和尼可蒂丝太太相处不睦，尼可蒂丝太太脾气不稳定。",
+      "level": 1
+    },
+    {
+      "id": "5",
+      "text": "最近，休巴德太太对学舍发生的一些事情感到非常担忧。",
+      "level": 1
+    },
+    {
+      "id": "5.1",
+      "text": "学舍里发生了一些物品失窃的古怪事件。",
+      "level": 2
+    },
+    {
+      "id": "5.2",
+      "text": "休巴德太太希望自己弄明白，不希望报警。",
+      "level": 2
+    },
+    {
+      "id": "6",
+      "text": "波罗推断李蒙小姐的顾虑反映了她姐姐的顾虑。",
+      "level": 1
+    },
+    {
+      "id": "7",
+      "text": "李蒙小姐不相信“偷窃狂”的解释，并查阅了相关资料。",
+      "level": 1
+    },
+    {
+      "id": "8",
+      "text": "波罗同意帮助休巴德太太调查。",
+      "level": 1
+    },
+    {
+      "id": "9",
+      "text": "休巴德太太向波罗列举了失窃的物品清单。",
+      "level": 1
+    },
+    {
+      "id": "9.1",
+      "text": "失窃物品包括：晚礼鞋、手镯、钻戒、粉盒、唇膏、听诊器、耳环、打火机、旧法兰绒裤子、电灯泡、一盒巧克力糖、丝巾、背囊、硼素粉、浴盐、烹饪书。",
+      "level": 2
+    },
+    {
+      "id": "10",
+      "text": "波罗认为这些失窃物品的特点是缺乏连贯性和不相关联。",
+      "level": 1
+    },
+    {
+      "id": "10.1",
+      "text": "这让他联想到一种记忆游戏“三角小姐”。",
+      "level": 2
+    },
+    {
+      "id": "11",
+      "text": "波罗分析失窃物品，注意到除了听诊器和钻戒，大部分物品不值钱。",
+      "level": 1
+    },
+    {
+      "id": "11.1",
+      "text": "钻戒是兰恩小姐母亲的订婚戒指，在汤盘里找到。",
+      "level": 2
+    },
+    {
+      "id": "11.2",
+      "text": "波罗认为钻戒的失而复得意味深长，可能避免了报警。",
+      "level": 2
+    },
+    {
+      "id": "11.3",
+      "text": "听诊器是贝特先生的，医学院学生。",
+      "level": 2
+    },
+    {
+      "id": "11.4",
+      "text": "其他失窃物品包括：粉盒、唇膏、耳环、打火机、旧法兰绒裤子（马克那先生）、电灯泡、巧克力糖、硼素粉、浴盐、烹饪书、晚礼鞋（莎莉·芬奇）、丝巾（瓦丽瑞·何皓丝）、背囊（雷恩·贝特生或柯林·马克那）。",
+      "level": 2
+    },
+    {
+      "id": "12",
+      "text": "波罗询问了相关学生的背景和性格。",
+      "level": 1
+    },
+    {
+      "id": "12.1",
+      "text": "兰恩小姐：肤色黑白居中，无精打采，一本正经的女孩。",
+      "level": 2
+    },
+    {
+      "id": "12.2",
+      "text": "瓦丽瑞·何皓丝：聪明的女孩，皮肤微黑，讲话带嘲讽意味，在美容院工作。",
+      "level": 2
+    },
+    {
+      "id": "12.3",
+      "text": "贝特先生：魁梧友善的年轻人，医学院学生，脾气暴躁。",
+      "level": 2
+    },
+    {
+      "id": "12.4",
+      "text": "哥波·兰姆先生：印度来的学生，凡事一笑置之。",
+      "level": 2
+    },
+    {
+      "id": "12.5",
+      "text": "马克那先生：非常留恋旧衣服。",
+      "level": 2
+    },
+    {
+      "id": "12.6",
+      "text": "莎莉·芬奇：美国交换生，傅尔布赖特法案基金会资助。",
+      "level": 2
+    },
+    {
+      "id": "13",
+      "text": "波罗指示李蒙小姐去贝克街车站的失物招领处寻找莎莉·芬奇丢失的另一只晚礼鞋。",
+      "level": 1
+    },
+    {
+      "id": "14",
+      "text": "波罗强调需要了解学生之间的感情互动，如争吵、嫉妒、友情、怨恨等。",
+      "level": 1
+    },
+    {
+      "id": "15",
+      "text": "休巴德太太担心某个她喜欢的人可能与失窃事件有关。",
+      "level": 1
+    },
+    {
+      "id": "16",
+      "text": "割碎的丝巾和背囊被认为是蓄意的、怀恨的举动。",
+      "level": 1
+    },
+    {
+      "id": "17",
+      "text": "雷恩·贝特生称呼休巴德太太为“妈”。",
+      "level": 1
+    },
+    {
+      "id": "18",
+      "text": "尼吉尔·夏普曼是一个长发年轻人，言语尖刻。",
+      "level": 1
+    },
+    {
+      "id": "19",
+      "text": "一个高个子、黑皮肤的女孩瓦丽瑞·何皓丝透露学舍像疯人院。",
+      "level": 1
+    },
+    {
+      "id": "20",
+      "text": "山胡桃路二十六号是两幢相连的房子。",
+      "level": 1
+    },
+    {
+      "id": "21",
+      "text": "尼可蒂丝太太对休巴德太太的账目表示不满，指责其剥削她。",
+      "level": 1
+    },
+    {
+      "id": "21.1",
+      "text": "尼可蒂丝太太认为学生们胃口大，花费过高。",
+      "level": 2
+    },
+    {
+      "id": "21.2",
+      "text": "休巴德太太辩解说学生饮食得当，并且她购买了打折物品。",
+      "level": 2
+    },
+    {
+      "id": "22",
+      "text": "尼可蒂丝太太希望莎莉·芬奇留下，因为她会带来其他傅尔布赖特奖学金学生。",
+      "level": 1
+    },
+    {
+      "id": "22.1",
+      "text": "尼可蒂丝太太暗示莎莉·芬奇离开可能是因为黑人学生或共产主义者（尼吉尔·夏普曼）。",
+      "level": 2
+    },
+    {
+      "id": "23",
+      "text": "伊丽莎白·琼斯顿（来自西印度群岛，研习法律）的研究笔记被墨水毁坏，墨水是绿色的。",
+      "level": 1
+    },
+    {
+      "id": "23.1",
+      "text": "伊丽莎白·琼斯顿怀疑是尼吉尔·夏普曼所为，因为他使用绿色墨水。",
+      "level": 2
+    },
+    {
+      "id": "24",
+      "text": "莎莉·芬奇表示她要离开学舍，原因是不喜欢发生的事情，包括一双鞋子丢失、丝巾被割碎、背囊被损坏等，她认为这些事情不正常。",
+      "level": 1
+    },
+    {
+      "id": "24.1",
+      "text": "莎莉·芬奇提到阿金邦伯被“吓着了”，并怀疑屋子里有人“不普通”。",
+      "level": 2
+    },
+    {
+      "id": "25",
+      "text": "学生们在交谊厅里讨论。",
+      "level": 1
+    },
+    {
+      "id": "25.1",
+      "text": "瓦丽瑞·何皓丝、尼吉尔·夏普曼、派翠西亚·兰恩和西莉亚·（名字未定）在场。",
+      "level": 2
+    },
+    {
+      "id": "26",
+      "text": "尼吉尔·夏普曼的绿色墨水瓶是空的，他被怀疑是毁坏伊丽莎白笔记的人。",
+      "level": 1
+    },
+    {
+      "id": "26.1",
+      "text": "西莉亚·（名字未定）否认是她做的，并表示一整天都在医院。",
+      "level": 2
+    },
+    {
+      "id": "26.2",
+      "text": "派翠西亚·兰恩为尼吉尔辩护。",
+      "level": 2
+    },
+    {
+      "id": "27",
+      "text": "晚礼鞋在贝克街找到，证实了波罗的某些想法。",
+      "level": 1
+    },
+    {
+      "id": "28",
+      "text": "波罗提议在当晚的演讲会后，休巴德太太说服尼可蒂丝太太让学生们听波罗谈论一些有趣案件。",
+      "level": 1
+    },
+    {
+      "id": "29",
+      "text": "晚餐时，波罗观察了在座的几位学生。",
+      "level": 1
+    },
+    {
+      "id": "29.1",
+      "text": "席丽儿·奥斯丁：圣凯瑟琳医院的配药员，漂亮、忧心、反应不太快、害怕。",
+      "level": 2
+    },
+    {
+      "id": "29.2",
+      "text": "尼吉尔·夏普曼：伦敦大学修习中世纪和意大利历史，喜欢招惹人。",
+      "level": 2
+    },
+    {
+      "id": "29.3",
+      "text": "派翠西亚·兰恩：修习考古学学位，戴眼镜，似乎恋爱了。",
+      "level": 2
+    },
+    {
+      "id": "29.4",
+      "text": "雷恩·贝特生：医学院学生，魁梧，红发，生气时非常激动。",
+      "level": 2
+    },
+    {
+      "id": "29.5",
+      "text": "瓦丽瑞·何皓丝：美容院工作，黑皮肤，有吸引力。",
+      "level": 2
+    },
+    {
+      "id": "29.6",
+      "text": "柯林·马克那：修习精神病学硕士学位，只会扬扬眉头。",
+      "level": 2
+    },
+    {
+      "id": "29.7",
+      "text": "莎莉·芬奇：美国学生，傅尔布赖特奖学金。",
+      "level": 2
+    },
+    {
+      "id": "29.8",
+      "text": "吉妮维芙·马瑞柯德：修习英文，法国人，有过敏情绪。",
+      "level": 2
+    },
+    {
+      "id": "29.9",
+      "text": "雷妮·贺尔：修习英文。",
+      "level": 2
+    },
+    {
+      "id": "29.10",
+      "text": "珍·汤琳生：圣凯瑟琳医院理疗医生，娇小金发。",
+      "level": 2
+    },
+    {
+      "id": "29.11",
+      "text": "阿金邦伯：来自西非，人好。",
+      "level": 2
+    },
+    {
+      "id": "29.12",
+      "text": "伊丽莎白·琼斯顿：来自牙买加，研习法律。",
+      "level": 2
+    },
+    {
+      "id": "29.13",
+      "text": "两个土耳其学生，不懂英文。",
+      "level": 2
+    },
+    {
+      "id": "30",
+      "text": "波罗在演讲中提到一个为了和金发秘书结婚而毒害妻子的肥皂厂老板，并告诫他预防胜于治疗。",
+      "level": 1
+    },
+    {
+      "id": "31",
+      "text": "柯林·马克那直接询问波罗来此的真正目的。",
+      "level": 1
+    },
+    {
+      "id": "32",
+      "text": "休巴德太太承认请波罗来是为了征求他对最近发生的一些事情的意见。",
+      "level": 1
+    },
+    {
+      "id": "33",
+      "text": "一场激烈的争论在学生中爆发，关于是否应该报警。",
+      "level": 1
+    },
+    {
+      "id": "34",
+      "text": "波罗拿出找到的晚礼鞋，递给莎莉·芬奇。",
+      "level": 1
+    }
+  ],
+  "concepts": [
+    {
+      "name": "赫邱里·波罗",
+      "frequency": 24,
+      "context": "侦探，故事主角，负责调查案件。"
+    },
+    {
+      "name": "李蒙小姐",
+      "frequency": 10,
+      "context": "波罗的秘书，高效能干，但因姐姐的事情出现失误。"
+    },
+    {
+      "name": "休巴德太太",
+      "frequency": 38,
+      "context": "李蒙小姐的姐姐，国际学舍的女舍监，担忧学舍的失窃事件。"
+    },
+    {
+      "name": "国际学舍",
+      "frequency": 10,
+      "context": "故事发生的主要地点，学生们居住和学习的地方。"
+    },
+    {
+      "name": "尼可蒂丝太太",
+      "frequency": 12,
+      "context": "国际学舍的女主人，脾气不稳定，与休巴德太太相处不睦。"
+    },
+    {
+      "name": "失窃",
+      "frequency": 21,
+      "context": "学舍内发生的神秘事件，涉及多件古怪物品。"
+    },
+    {
+      "name": "学生",
+      "frequency": 33,
+      "context": "住在学舍里的年轻人，来自不同国家和专业。"
+    },
+    {
+      "name": "钻戒",
+      "frequency": 4,
+      "context": "一件贵重失窃物品，属于兰恩小姐，后在汤盘里找到。"
+    },
+    {
+      "name": "晚礼鞋",
+      "frequency": 6,
+      "context": "莎莉·芬奇丢失的一只鞋子，成为调查的重要线索。"
+    },
+    {
+      "name": "绿色墨水",
+      "frequency": 4,
+      "context": "尼吉尔·夏普曼使用的墨水，与伊丽莎白·琼斯顿笔记被毁事件相关。"
+    },
+    {
+      "name": "尼吉尔·夏普曼",
+      "frequency": 12,
+      "context": "学舍里的学生，修习历史，言语尖刻，使用绿色墨水。"
+    },
+    {
+      "name": "莎莉·芬奇",
+      "frequency": 7,
+      "context": "美国交换生，傅尔布赖特奖学金获得者，决定离开学舍。"
+    },
+    {
+      "name": "报警",
+      "frequency": 5,
+      "context": "关于是否应向警方报案的讨论，休巴德太太和学生们对此有不同看法。"
+    },
+    {
+      "name": "伊丽莎白·琼斯顿",
+      "frequency": 5,
+      "context": "学舍里的学生，来自西印度群岛，研习法律，笔记被毁。"
+    },
+    {
+      "name": "瓦丽瑞·何皓丝",
+      "frequency": 6,
+      "context": "学舍里的学生，美容院工作，皮肤微黑，讲话带嘲讽意味。"
+    },
+    {
+      "name": "雷恩·贝特生",
+      "frequency": 6,
+      "context": "学舍里的学生，医学院学生，魁梧，红发，脾气暴躁。"
+    },
+    {
+      "name": "派翠西亚·兰恩",
+      "frequency": 6,
+      "context": "学舍里的学生，修习考古学，戴眼镜，似乎恋爱了。"
+    },
+    {
+      "name": "柯林·马克那",
+      "frequency": 5,
+      "context": "学舍里的学生，修习精神病学，直接询问波罗的目的。"
+    }
+  ],
+  "relations": [
+    {
+      "source": "李蒙小姐",
+      "target": "赫邱里·波罗",
+      "type": "works_for"
+    },
+    {
+      "source": "休巴德太太",
+      "target": "李蒙小姐",
+      "type": "sister_of"
+    },
+    {
+      "source": "休巴德太太",
+      "target": "国际学舍",
+      "type": "manages"
+    },
+    {
+      "source": "尼可蒂丝太太",
+      "target": "国际学舍",
+      "type": "owns"
+    },
+    {
+      "source": "休巴德太太",
+      "target": "尼可蒂丝太太",
+      "type": "conflict_with"
+    },
+    {
+      "source": "失窃",
+      "target": "国际学舍",
+      "type": "occurs_in"
+    },
+    {
+      "source": "学生",
+      "target": "国际学舍",
+      "type": "resides_in"
+    },
+    {
+      "source": "赫邱里·波罗",
+      "target": "休巴德太太",
+      "type": "investigates_for"
+    },
+    {
+      "source": "钻戒",
+      "target": "兰恩小姐",
+      "type": "belongs_to"
+    },
+    {
+      "source": "晚礼鞋",
+      "target": "莎莉·芬奇",
+      "type": "belongs_to"
+    },
+    {
+      "source": "绿色墨水",
+      "target": "尼吉尔·夏普曼",
+      "type": "used_by"
+    },
+    {
+      "source": "莎莉·芬奇",
+      "target": "国际学舍",
+      "type": "student_at"
+    },
+    {
+      "source": "伊丽莎白·琼斯顿",
+      "target": "国际学舍",
+      "type": "student_at"
+    },
+    {
+      "source": "瓦丽瑞·何皓丝",
+      "target": "国际学舍",
+      "type": "student_at"
+    },
+    {
+      "source": "雷恩·贝特生",
+      "target": "国际学舍",
+      "type": "student_at"
+    },
+    {
+      "source": "派翠西亚·兰恩",
+      "target": "国际学舍",
+      "type": "student_at"
+    },
+    {
+      "source": "柯林·马克那",
+      "target": "国际学舍",
+      "type": "student_at"
+    },
+    {
+      "source": "休巴德太太",
+      "target": "学生",
+      "type": "cares_for"
+    },
+    {
+      "source": "尼吉尔·夏普曼",
+      "target": "伊丽莎白·琼斯顿",
+      "type": "suspected_by"
+    },
+    {
+      "source": "尼吉尔·夏普曼",
+      "target": "绿色墨水",
+      "type": "possesses"
+    },
+    {
+      "source": "休巴德太太",
+      "target": "报警",
+      "type": "discusses"
+    },
+    {
+      "source": "学生",
+      "target": "报警",
+      "type": "discusses"
+    },
+    {
+      "source": "赫邱里·波罗",
+      "target": "失窃",
+      "type": "investigates"
+    }
+  ],
+  "hierarchy": {
+    "main_topics": [
+      "The Mysterious Disappearances at the International Hostel",
+      "Hercule Poirot's Investigation",
+      "Student Life and Personalities",
+      "The Hostel Management and Conflicts"
+    ],
+    "structure": "The document follows a typical detective narrative structure. It begins with the introduction of the mystery through a seemingly minor error by a capable secretary, which leads to the revelation of the larger problem at the international hostel. The narrative then introduces the detective, Hercule Poirot, who gathers information by interviewing key figures, particularly the hostel's directress, Mrs. Hubbard. The core of the document involves the detailed listing and analysis of the stolen items, profiling of various students, and uncovering of interpersonal dynamics. The story progresses through distinct sections, marked by (一), (二), (三), and (四), indicating a chronological unfolding of events and investigations, culminating in a gathering where Poirot presents his findings and the students confront the reality of the investigation."
+  }
+}

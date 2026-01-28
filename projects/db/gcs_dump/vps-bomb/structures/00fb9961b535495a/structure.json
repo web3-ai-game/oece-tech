@@ -1,0 +1,2923 @@
+{
+  "propositions": [
+    {
+      "id": "1",
+      "text": "Chapter 1: Blood Corpse",
+      "level": 1
+    },
+    {
+      "id": "1.1",
+      "text": "50 years ago, Changsha Biaozi Ridge.",
+      "level": 2
+    },
+    {
+      "id": "1.2",
+      "text": "Four tomb robbers were squatting on a mound, none of them speaking, staring intently at the Luoyang shovel on the ground.",
+      "level": 2
+    },
+    {
+      "id": "1.3",
+      "text": "The shovel head was covered with old soil brought up from underground.",
+      "level": 3
+    },
+    {
+      "id": "1.4",
+      "text": "Strangely, this clod of soil was constantly exuding bright red liquid, as if it had just been dipped in blood.",
+      "level": 3
+    },
+    {
+      "id": "1.5",
+      "text": "'This is going to be a big problem,' said Old Cigarette, tapping his pipe on the ground.",
+      "level": 2
+    },
+    {
+      "id": "1.6",
+      "text": "'It's a blood corpse down there. If we're not careful, we might all end up down there.'",
+      "level": 3
+    },
+    {
+      "id": "1.7",
+      "text": "'Are we going down or not? Just say yes or no, don't beat around the bush!' said the one-eyed young man.",
+      "level": 2
+    },
+    {
+      "id": "1.8",
+      "text": "'You old man, your legs aren't good, so don't go down. My brother and I will go. Whatever it is, we'll just give it a burst.'",
+      "level": 3
+    },
+    {
+      "id": "1.9",
+      "text": "'Old Man Cigarette chuckled, not angry, and said to a bearded man beside him, 'Your second son is talking big. Who knows when he'll get himself killed. You need to educate him. This business isn't just about having a pistol to boss everyone around.'",
+      "level": 2
+    },
+    {
+      "id": "1.10",
+      "text": "The bearded man glared at the young man: 'You brat, how can you talk to the elder like that? When the elder was digging soil, you were still eating shit in your mother's womb.'",
+      "level": 3
+    },
+    {
+      "id": "1.11",
+      "text": "'What was I saying... I said it wrong. Ancestor said blood corpses are good things. There must be a lot of treasures below. If we don't go, we'll miss a good opportunity.'",
+      "level": 3
+    },
+    {
+      "id": "1.12",
+      "text": "'You dare to talk back!' The bearded man raised his hand to hit him, but Old Cigarette blocked it with his pipe.",
+      "level": 3
+    },
+    {
+      "id": "1.13",
+      "text": "'You can't hit him. Weren't you the same when you were young? This is called 'the upper beam is not straight, the lower beam is crooked!'",
+      "level": 3
+    },
+    {
+      "id": "1.14",
+      "text": "The one-eyed young man saw his father being lectured and lowered his head to snicker.",
+      "level": 2
+    },
+    {
+      "id": "1.15",
+      "text": "Old Cigarette coughed and hit the one-eyed youth again with his pipe: 'What are you laughing at? encountering a blood corpse can be a big or small matter. Last time your second uncle dug up this thing in Luoyang, and now he's crazy, who knows what happened. I'll go down first, you follow me, second son, you take the dirt rat to cover the rear, third son, you don't go down. If all four of us go down, there's no room to retreat. You just hold the tail of the dirt rat. When we shout inside, you pull it out.'",
+      "level": 2
+    },
+    {
+      "id": "1.16",
+      "text": "The youngest boy was indignant: 'I don't agree, you're biased, I'm telling Mom!'",
+      "level": 2
+    },
+    {
+      "id": "1.17",
+      "text": "Old Cigarette laughed heartily: 'Look, look, third son is still scared. Don't make a fuss, I'll let you touch a golden knife later.'",
+      "level": 3
+    },
+    {
+      "id": "1.18",
+      "text": "'I don't want you to touch it, I can touch it myself.'",
+      "level": 3
+    },
+    {
+      "id": "1.19",
+      "text": "The one-eyed second son got angry and grabbed the third son's ear: 'You little brat, are you looking for trouble with me? Do you want me to get excited about treasure?'",
+      "level": 2
+    },
+    {
+      "id": "1.20",
+      "text": "The youngest boy looked like he usually got beaten a lot. Seeing his second brother really angry, he was scared and didn't dare to make a sound, looking at his father for help.",
+      "level": 2
+    },
+    {
+      "id": "1.21",
+      "text": "Unexpectedly, his father had already gone to pack the tools.",
+      "level": 3
+    },
+    {
+      "id": "1.22",
+      "text": "His second brother was now smug: 'Why are you so pathetic? This time the old man won't help you. If you keep making noise, I'll twist you like a kite!'",
+      "level": 3
+    },
+    {
+      "id": "1.23",
+      "text": "Old Cigarette patted the second son's shoulder and shouted: 'Boys, grab your tools!' With that, he swung his whirlwind shovel.",
+      "level": 2
+    },
+    {
+      "id": "1.24",
+      "text": "Half an hour later, the tomb tunnel was dug so deep that it was impossible to see the bottom.",
+      "level": 2
+    },
+    {
+      "id": "1.25",
+      "text": "Except for the second son who occasionally came up for air, the sounds from inside the tunnel were unclear.",
+      "level": 3
+    },
+    {
+      "id": "1.26",
+      "text": "The third son, impatient, shouted into the tunnel: 'Great Grandfather, is it dug through yet?'",
+      "level": 2
+    },
+    {
+      "id": "1.27",
+      "text": "After several seconds, a muffled voice came from inside: 'I... I don't know. You... stay up there, hold the... rope tight!'",
+      "level": 2
+    },
+    {
+      "id": "1.28",
+      "text": "It was his second brother's voice, then he heard Old Cigarette cough: 'Keep your voice down... Listen! There's movement!'",
+      "level": 3
+    },
+    {
+      "id": "1.29",
+      "text": "Then there was dead silence.",
+      "level": 2
+    },
+    {
+      "id": "1.30",
+      "text": "The third son knew something had happened below and was too scared to speak.",
+      "level": 2
+    },
+    {
+      "id": "1.31",
+      "text": "Suddenly, he heard a chilling cackling sound, like a toad croaking, coming from the tunnel.",
+      "level": 3
+    },
+    {
+      "id": "1.32",
+      "text": "Then his second brother roared from below: 'Third son, pull!'",
+      "level": 2
+    },
+    {
+      "id": "1.33",
+      "text": "He didn't dare to delay, stomped his feet, and fiercely grabbed the tail of the dirt rat, pulling it out.",
+      "level": 2
+    },
+    {
+      "id": "1.34",
+      "text": "After a few pulls, something seemed to bite it, and there was a counter-force pulling the rope back into the tunnel.",
+      "level": 3
+    },
+    {
+      "id": "1.35",
+      "text": "The third son had never expected such a situation and was almost pulled into the tunnel.",
+      "level": 3
+    },
+    {
+      "id": "1.36",
+      "text": "In a moment of desperation, he tied the tail around his waist and fell backward, his back almost at a 30-degree angle to the ground.",
+      "level": 3
+    },
+    {
+      "id": "1.37",
+      "text": "This was a move he used when playing tug-of-war with other boys in the village. This way, all his weight was on the rope, and he could hold even a mule.",
+      "level": 3
+    },
+    {
+      "id": "1.38",
+      "text": "Indeed, this allowed him to stalemate with the thing in the tunnel, both exerting force but neither able to move the other.",
+      "level": 3
+    },
+    {
+      "id": "1.39",
+      "text": "After a stalemate of about ten seconds, a pistol shot was heard from the tunnel, followed by his father's shout: 'Third son, run!!!!!'",
+      "level": 3
+    },
+    {
+      "id": "1.40",
+      "text": "He felt the rope go slack, and the dirt rat shot out of the tunnel, as if something was hanging from it!",
+      "level": 3
+    },
+    {
+      "id": "1.41",
+      "text": "The third son couldn't care less at that moment, knowing that something had definitely happened below. He grabbed the dirt rat and ran!",
+      "level": 3
+    },
+    {
+      "id": "1.42",
+      "text": "He ran for more than two li before daring to stop.",
+      "level": 2
+    },
+    {
+      "id": "1.43",
+      "text": "He took out the dirt rat from his chest and cried out in shock.",
+      "level": 3
+    },
+    {
+      "id": "1.44",
+      "text": "On the dirt rat was a bloody severed hand.",
+      "level": 3
+    },
+    {
+      "id": "1.45",
+      "text": "He recognized the hand and couldn't help but cry.",
+      "level": 3
+    },
+    {
+      "id": "1.46",
+      "text": "This hand clearly belonged to his second brother.",
+      "level": 3
+    },
+    {
+      "id": "1.47",
+      "text": "It looked like his second brother was either dead or disabled.",
+      "level": 3
+    },
+    {
+      "id": "1.48",
+      "text": "Thinking of this, he gritted his teeth and wanted to go back to save his second brother and his father.",
+      "level": 3
+    },
+    {
+      "id": "1.49",
+      "text": "As soon as he turned around, he saw a blood-red thing squatting behind him, staring at him intently.",
+      "level": 3
+    },
+    {
+      "id": "1.50",
+      "text": "This third son was no ordinary person.",
+      "level": 2
+    },
+    {
+      "id": "1.51",
+      "text": "He had seen many strange things following his father.",
+      "level": 3
+    },
+    {
+      "id": "1.52",
+      "text": "He knew that anything could happen underground.",
+      "level": 3
+    },
+    {
+      "id": "1.53",
+      "text": "The most important thing was to react quickly.",
+      "level": 3
+    },
+    {
+      "id": "1.54",
+      "text": "He knew that even the fiercest ghosts were no match for a living person.",
+      "level": 3
+    },
+    {
+      "id": "1.55",
+      "text": "No matter how fierce or terrifying, they still had to obey the laws of physics.",
+      "level": 3
+    },
+    {
+      "id": "1.56",
+      "text": "A burst of bullets would shatter them, and there would be nothing to fear.",
+      "level": 3
+    },
+    {
+      "id": "1.57",
+      "text": "Thinking of this, he hardened his heart, backing away while drawing a pistol from his waist.",
+      "level": 2
+    },
+    {
+      "id": "1.58",
+      "text": "He fired in bursts, ready to unleash a storm of bullets if the blood-red thing made any move.",
+      "level": 3
+    },
+    {
+      "id": "1.59",
+      "text": "Unexpectedly, the blood-red thing stood up.",
+      "level": 2
+    },
+    {
+      "id": "1.60",
+      "text": "The third son looked closely and felt his scalp tingle, his stomach churn.",
+      "level": 3
+    },
+    {
+      "id": "1.61",
+      "text": "It was clearly a person who had been skinned!",
+      "level": 3
+    },
+    {
+      "id": "1.62",
+      "text": "His whole body was bloody, as if he had squeezed himself out of his own skin.",
+      "level": 3
+    },
+    {
+      "id": "1.63",
+      "text": "But such a person could still move, which was a miracle.",
+      "level": 3
+    },
+    {
+      "id": "1.64",
+      "text": "Could this be the true face of a blood corpse?",
+      "level": 3
+    },
+    {
+      "id": "1.65",
+      "text": "Thinking this, the blood corpse crouched and suddenly lunged at him.",
+      "level": 2
+    },
+    {
+      "id": "1.66",
+      "text": "The third son met its gaze. The bloody face was right in front of his nose, and a sour smell hit him.",
+      "level": 3
+    },
+    {
+      "id": "1.67",
+      "text": "The third son leaned back with the momentum and fired a full magazine of bullets at the thing's chest at close range.",
+      "level": 3
+    },
+    {
+      "id": "1.68",
+      "text": "The bullets all passed through due to the close range, causing the thing to spurt blood and stagger back several steps.",
+      "level": 3
+    },
+    {
+      "id": "1.69",
+      "text": "The third son secretly rejoiced, then turned and aimed at the thing's head and pulled the trigger.",
+      "level": 3
+    },
+    {
+      "id": "1.70",
+      "text": "There was a click, and the gun jammed!",
+      "level": 3
+    },
+    {
+      "id": "1.71",
+      "text": "This old pistol was dug up by his second great-uncle from a warlord's tomb.",
+      "level": 2
+    },
+    {
+      "id": "1.72",
+      "text": "It hadn't been used much over the years.",
+      "level": 3
+    },
+    {
+      "id": "1.73",
+      "text": "It was a shame that in recent years, he had been running around with his father and didn't have time to maintain it.",
+      "level": 3
+    },
+    {
+      "id": "1.74",
+      "text": "He rarely had the chance to fire it, and who knew it would jam at this critical moment.",
+      "level": 3
+    },
+    {
+      "id": "1.75",
+      "text": "The third son was truly remarkable. Seeing the gun useless, he swung it with all his might and smashed it forward.",
+      "level": 2
+    },
+    {
+      "id": "1.76",
+      "text": "Whether he hit it or not, he turned and ran.",
+      "level": 3
+    },
+    {
+      "id": "1.77",
+      "text": "This time, he didn't even dare to look back, his eyes fixed on a large tree ahead, thinking it wouldn't climb trees.",
+      "level": 2
+    },
+    {
+      "id": "1.78",
+      "text": "Suddenly, he tripped and fell face-first onto a tree stump, his nose and mouth instantly bleeding.",
+      "level": 3
+    },
+    {
+      "id": "1.79",
+      "text": "The third son slapped the ground fiercely, filled with anger.",
+      "level": 2
+    },
+    {
+      "id": "1.80",
+      "text": "'Damn, why is my luck so bad.'",
+      "level": 3
+    },
+    {
+      "id": "1.81",
+      "text": "At this moment, he heard the sound of wind from behind and knew that the King of Hell was calling for him.",
+      "level": 2
+    },
+    {
+      "id": "1.82",
+      "text": "He hardened his heart and decided to just lie on the ground and not get up.",
+      "level": 3
+    },
+    {
+      "id": "1.83",
+      "text": "Unexpectedly, the blood corpse seemed not to see him and stepped over him.",
+      "level": 2
+    },
+    {
+      "id": "1.84",
+      "text": "The bloody sole left an imprint on his back.",
+      "level": 3
+    },
+    {
+      "id": "1.85",
+      "text": "The blood corpse was surprisingly heavy.",
+      "level": 3
+    },
+    {
+      "id": "1.86",
+      "text": "With one step, the third son felt a sweetness in his throat, as if his bile was being coughed out.",
+      "level": 3
+    },
+    {
+      "id": "1.87",
+      "text": "Moreover, the spot on his back that was stepped on immediately became intensely itchy, and his vision blurred.",
+      "level": 3
+    },
+    {
+      "id": "1.88",
+      "text": "He immediately realized he might have been poisoned, and the poison was very potent.",
+      "level": 3
+    },
+    {
+      "id": "1.89",
+      "text": "In a daze, he saw his second brother's hand in the distance, still holding something.",
+      "level": 2
+    },
+    {
+      "id": "1.90",
+      "text": "He blinked hard and looked closely. It was a piece of ancient silk fragment.",
+      "level": 2
+    },
+    {
+      "id": "1.91",
+      "text": "He thought, his second brother risked his life to bring this out, it must be something extraordinary.",
+      "level": 3
+    },
+    {
+      "id": "1.92",
+      "text": "Now, he didn't know how they were doing, he had to keep the thing safe.",
+      "level": 3
+    },
+    {
+      "id": "1.93",
+      "text": "If he died, and they found his body, they could find it on him.",
+      "level": 3
+    },
+    {
+      "id": "1.94",
+      "text": "Then his second brother's severed hand wouldn't be in vain, and he wouldn't have died for nothing.",
+      "level": 3
+    },
+    {
+      "id": "1.95",
+      "text": "Thinking this, he struggled to crawl over, pried open his second brother's tightly clenched hand, took out the silk fragment, and put it into his sleeve.",
+      "level": 2
+    },
+    {
+      "id": "1.96",
+      "text": "At this time, his ears began to buzz, his eyes were covered with a veil, and his hands and feet began to grow cold.",
+      "level": 2
+    },
+    {
+      "id": "1.97",
+      "text": "Based on his past experience, he would now have soiled his pants.",
+      "level": 3
+    },
+    {
+      "id": "1.98",
+      "text": "People poisoned by corpses died miserably.",
+      "level": 3
+    },
+    {
+      "id": "1.99",
+      "text": "His greatest hope now was that Er Yatou from the neighboring village wouldn't see him like this.",
+      "level": 3
+    },
+    {
+      "id": "1.100",
+      "text": "He wandered like this, his mind no longer under his control.",
+      "level": 2
+    },
+    {
+      "id": "1.101",
+      "text": "At this time, he began to faintly hear the same cackling sound he had heard at the tomb entrance.",
+      "level": 3
+    },
+    {
+      "id": "1.102",
+      "text": "The third son vaguely felt something was wrong.",
+      "level": 2
+    },
+    {
+      "id": "1.103",
+      "text": "He had been fighting with the blood corpse for so long and hadn't heard it make a sound.",
+      "level": 3
+    },
+    {
+      "id": "1.104",
+      "text": "Why was it cackling again now?",
+      "level": 3
+    },
+    {
+      "id": "1.105",
+      "text": "Was the one just now not a blood corpse?",
+      "level": 3
+    },
+    {
+      "id": "1.106",
+      "text": "Then what was it he saw?",
+      "level": 3
+    },
+    {
+      "id": "1.107",
+      "text": "Unfortunately, he was already unable to think.",
+      "level": 3
+    },
+    {
+      "id": "1.108",
+      "text": "He reflexively looked up and saw a gigantic strange face looming over him.",
+      "level": 2
+    },
+    {
+      "id": "1.109",
+      "text": "Its pupil-less eyes were empty and lifeless.",
+      "level": 3
+    },
+    {
+      "id": "2",
+      "text": "Chapter 2: Fifty Years Later",
+      "level": 1
+    },
+    {
+      "id": "2.1",
+      "text": "50 years later, Xiling Seal Society in Hangzhou, my thoughts were interrupted by an old man.",
+      "level": 2
+    },
+    {
+      "id": "2.2",
+      "text": "I closed my grandfather's notebook and looked at the other person.",
+      "level": 2
+    },
+    {
+      "id": "2.3",
+      "text": "'Do you buy rubbings here?' he asked, seemingly casually.",
+      "level": 2
+    },
+    {
+      "id": "2.4",
+      "text": "I am naturally talented in this line of work, so I replied perfunctorily: 'Yes, but I don't pay much.'",
+      "level": 3
+    },
+    {
+      "id": "2.5",
+      "text": "Meaning, if you don't have anything good, get lost and don't waste my reading time.",
+      "level": 3
+    },
+    {
+      "id": "2.6",
+      "text": "In our line of work, it's 'three years without opening, but when you open, you eat for three years.'",
+      "level": 2
+    },
+    {
+      "id": "2.7",
+      "text": "We are usually leisurely and hate to serve ignorant customers.",
+      "level": 3
+    },
+    {
+      "id": "2.8",
+      "text": "Over time, whenever we saw passersby, we would play funeral music and chase them away.",
+      "level": 3
+    },
+    {
+      "id": "2.9",
+      "text": "However, it had been too idle lately.",
+      "level": 2
+    },
+    {
+      "id": "2.10",
+      "text": "With the peak season approaching, there were no good items coming in, so I was getting a little impatient.",
+      "level": 3
+    },
+    {
+      "id": "2.11",
+      "text": "'Then I'd like to inquire, do you have any rubbings of Warring States period silk manuscripts? The one dug up by those tomb robbers in Changsha 50 years ago, and then tricked away by an American?'",
+      "level": 2
+    },
+    {
+      "id": "2.12",
+      "text": "The person asked while looking at the collection in my counter.",
+      "level": 3
+    },
+    {
+      "id": "2.13",
+      "text": "'You said it was tricked away by an American, so where would it be?' I said angrily.",
+      "level": 2
+    },
+    {
+      "id": "2.14",
+      "text": "'To find rubbings, you go to the market to search, not to ask for a specific one. How could you possibly find it?'",
+      "level": 3
+    },
+    {
+      "id": "2.15",
+      "text": "He lowered his voice: 'I heard you have connections. Old Yang introduced me.'",
+      "level": 2
+    },
+    {
+      "id": "2.16",
+      "text": "I became vigilant, my heart sinking.",
+      "level": 2
+    },
+    {
+      "id": "2.17",
+      "text": "Old Yang was jailed two years ago. Did he give me away?",
+      "level": 3
+    },
+    {
+      "id": "2.18",
+      "text": "My heart raced, and cold sweat broke out on my back.",
+      "level": 3
+    },
+    {
+      "id": "2.19",
+      "text": "'Which... which Old Yang? I don't know him.'",
+      "level": 3
+    },
+    {
+      "id": "2.20",
+      "text": "'I understand, I understand,' he chuckled and took out a watch from his pocket.",
+      "level": 2
+    },
+    {
+      "id": "2.21",
+      "text": "'Look, Old Yang said you'll understand when you see this.'",
+      "level": 3
+    },
+    {
+      "id": "2.22",
+      "text": "That watch was given to Old Yang by his first love when he was in the Northeast.",
+      "level": 2
+    },
+    {
+      "id": "2.23",
+      "text": "He cherished that watch like his life, and when he was drunk, he would take it out, look at it, and call out 'Juan ah, Li ah'.",
+      "level": 3
+    },
+    {
+      "id": "2.24",
+      "text": "I asked him what his woman's name was, and after thinking for a long time, he cried and said, 'I forgot.'",
+      "level": 3
+    },
+    {
+      "id": "2.25",
+      "text": "The fact that Old Yang was willing to give this watch to this person shows that this person indeed has some background.",
+      "level": 2
+    },
+    {
+      "id": "2.26",
+      "text": "But no matter how I looked at him, I found him repulsive.",
+      "level": 2
+    },
+    {
+      "id": "2.27",
+      "text": "Since he came to my door, I might as well speak frankly.",
+      "level": 3
+    },
+    {
+      "id": "2.28",
+      "text": "So I directly raised my hand: 'Then consider you Old Yang's friend. What do you need me for?'",
+      "level": 3
+    },
+    {
+      "id": "2.29",
+      "text": "He bared his teeth and smiled, revealing a large gold tooth: 'A friend of mine brought some things back from Shanxi and wants me to take a look to see if they are real.'",
+      "level": 2
+    },
+    {
+      "id": "2.30",
+      "text": "'With your Beijing accent, you, a big shot from Beijing, come to the South to consult me? You flatter me too much!",
+      "level": 2
+    },
+    {
+      "id": "2.31",
+      "text": "There are so many skilled people in Beijing. I suspect your true intention is not just to ask about this!'",
+      "level": 3
+    },
+    {
+      "id": "2.32",
+      "text": "He chuckled: 'They say Southerners are shrewd, and it's true. You're young, but you see things very clearly. To be honest, I'm not really here to see you. I want to meet your grandfather.'",
+      "level": 2
+    },
+    {
+      "id": "2.33",
+      "text": "My face changed instantly: 'Looking for my grandfather? What are your intentions?'",
+      "level": 2
+    },
+    {
+      "id": "2.34",
+      "text": "'After your grandfather dug up the Warring States silk manuscript at Biaozi Ridge in Changsha, did he keep one or two rubbings? My friend just wants to know if it's the same as the one we have?'",
+      "level": 2
+    },
+    {
+      "id": "2.35",
+      "text": "Before he could finish speaking, I roared at the napping shop assistant: 'Wang Meng, show the guest out!'",
+      "level": 2
+    },
+    {
+      "id": "2.36",
+      "text": "The old man with the gold tooth was anxious: 'Why are you kicking me out when we're just talking?'",
+      "level": 2
+    },
+    {
+      "id": "2.37",
+      "text": "'You're right, but you're too late. My grandfather passed away last year. If you want to find him, go cut your wrists!'",
+      "level": 2
+    },
+    {
+      "id": "2.38",
+      "text": "I thought to myself: 'That incident back then even alerted the central government. It was a major event. How could I let you dig up old accounts? Would my family be alright?'",
+      "level": 3
+    },
+    {
+      "id": "2.39",
+      "text": "'I say, you little brat, why are your words so unpleasant to hear?' The old man with the gold tooth had a sly smile.",
+      "level": 2
+    },
+    {
+      "id": "2.40",
+      "text": "'It doesn't matter if the old man is gone. I didn't say anything specific. At least, you should take a look at what my friend brought. Won't you do it for Old Yang's sake?'",
+      "level": 3
+    },
+    {
+      "id": "2.41",
+      "text": "I glanced at him, his smile not reaching his eyes. It seemed he wouldn't leave without me looking.",
+      "level": 2
+    },
+    {
+      "id": "2.42",
+      "text": "I thought, I'll do it as a favor to Old Yang, and he won't blame me when he gets out. So I nodded: 'I'll take a look, but I can't guarantee what I say.'",
+      "level": 3
+    },
+    {
+      "id": "2.43",
+      "text": "Actually, there were over 20 scrolls of Warring States silk manuscripts, each different.",
+      "level": 2
+    },
+    {
+      "id": "2.44",
+      "text": "The one my grandfather had rubbed was only a very short part of it, but it was extremely important.",
+      "level": 3
+    },
+    {
+      "id": "2.45",
+      "text": "Now, I had a few rubbings hidden away as treasures, which couldn't be bought with money on the market.",
+      "level": 3
+    },
+    {
+      "id": "2.46",
+      "text": "I saw the old man with the gold tooth take out a white paper from his pocket.",
+      "level": 2
+    },
+    {
+      "id": "2.47",
+      "text": "As soon as I saw it, I got angry. Damn, it was just a photocopy.",
+      "level": 3
+    },
+    {
+      "id": "2.48",
+      "text": "'Of course, how can such a treasure be carried around? It would break if you shook it,' he said, lowering his voice mysteriously.",
+      "level": 2
+    },
+    {
+      "id": "2.49",
+      "text": "'If I didn't have wide connections, this thing would have gone abroad long ago. It's also a service to the people.'",
+      "level": 3
+    },
+    {
+      "id": "2.50",
+      "text": "I chuckled: 'Looking at you, you're just a tomb robber. I see you're afraid to act. This is a national treasure. Don't you want your head?'",
+      "level": 2
+    },
+    {
+      "id": "2.51",
+      "text": "My words exposed him, and his face turned green.",
+      "level": 2
+    },
+    {
+      "id": "2.52",
+      "text": "But he needed my help, so he had to endure it. He said: 'You can't say that. Every profession has its own ways. Your grandfather, when he was a tomb robber in Changsha, was famous...'",
+      "level": 3
+    },
+    {
+      "id": "2.53",
+      "text": "My face was certainly not good. Gritting my teeth: 'If you mention my grandfather again, I won't look!'",
+      "level": 2
+    },
+    {
+      "id": "2.54",
+      "text": "'Okay, okay, let's stop. Hurry up and let me see, so I can leave quickly.'",
+      "level": 2
+    },
+    {
+      "id": "2.55",
+      "text": "I unfolded the white paper and immediately knew it was a well-preserved Warring States period silk manuscript.",
+      "level": 2
+    },
+    {
+      "id": "2.56",
+      "text": "However, it was not the one my grandfather had dug up.",
+      "level": 3
+    },
+    {
+      "id": "2.57",
+      "text": "Although this one was also ancient, it was likely a later dynasty's replica, meaning it was an ancient imitation.",
+      "level": 3
+    },
+    {
+      "id": "2.58",
+      "text": "It was an awkward item to identify.",
+      "level": 3
+    },
+    {
+      "id": "2.59",
+      "text": "So I smiled: 'This should be a Han Dynasty replica. How should I put it? If you say it's fake, it's not fake. If you say it's real, it's not real. Who knows if it was copied from a template or made up? So I don't know what to say.'",
+      "level": 2
+    },
+    {
+      "id": "2.60",
+      "text": "'Then is this the one your grandfather dug up?'",
+      "level": 2
+    },
+    {
+      "id": "2.61",
+      "text": "'Honestly, my grandfather didn't even get to see the one he dug up before the American tricked him away. I really can't answer your question.'",
+      "level": 2
+    },
+    {
+      "id": "2.62",
+      "text": "I thought, how easy it is to fool you. I put on a very sincere expression.",
+      "level": 3
+    },
+    {
+      "id": "2.63",
+      "text": "The old man with the gold tooth actually believed me and sighed: 'That's really unfortunate. It seems that if we don't find that American, there's probably no hope.'",
+      "level": 2
+    },
+    {
+      "id": "2.64",
+      "text": "'Why are you so insistent on this scroll?' I asked.",
+      "level": 2
+    },
+    {
+      "id": "2.65",
+      "text": "This was too strange. Collecting ancient books depends on fate. To find a complete set of 20 scrolls from the Warring States period would be too greedy.",
+      "level": 3
+    },
+    {
+      "id": "2.66",
+      "text": "'Young man, honestly, I'm not a tomb robber. Look at my physique, how could I handle such hardship?",
+      "level": 2
+    },
+    {
+      "id": "2.67",
+      "text": "But my friend is an expert. I don't know what his game is, but he has his reasons.'",
+      "level": 3
+    },
+    {
+      "id": "2.68",
+      "text": "He chuckled and shook his head. 'I shouldn't ask too much, right? I'll be going now.' With that, he left without looking back.",
+      "level": 3
+    },
+    {
+      "id": "2.69",
+      "text": "I looked down, and the photocopy was still in my hand.",
+      "level": 2
+    },
+    {
+      "id": "2.70",
+      "text": "Suddenly, I noticed a pattern on the paper.",
+      "level": 3
+    },
+    {
+      "id": "2.71",
+      "text": "It was a fox-like human face, with pupil-less eyes that had a strong sense of depth, as if they were sunken into the paper.",
+      "level": 3
+    },
+    {
+      "id": "2.72",
+      "text": "It sent a shiver down my spine.",
+      "level": 3
+    },
+    {
+      "id": "2.73",
+      "text": "I had never seen this silk manuscript before. It should be a treasure.",
+      "level": 3
+    },
+    {
+      "id": "2.74",
+      "text": "I figured that when Old Yang got out, I could make some fake rubbings from this photocopy and have fun.",
+      "level": 2
+    },
+    {
+      "id": "2.75",
+      "text": "I rushed to the door and glanced out, only to see the old man with the gold tooth hurrying back.",
+      "level": 2
+    },
+    {
+      "id": "2.76",
+      "text": "I thought he must have come back to get this thing. I quickly ran back, picked up my digital camera, and took a picture of it.",
+      "level": 2
+    },
+    {
+      "id": "2.77",
+      "text": "Then I picked up the paper and walked out the door.",
+      "level": 3
+    },
+    {
+      "id": "2.78",
+      "text": "I bumped into the old man with the gold tooth's nose: 'You forgot your thing.' I said.",
+      "level": 3
+    },
+    {
+      "id": "2.79",
+      "text": "My grandfather was a tomb robber in Changsha, also known as a 'grave robber.'",
+      "level": 2
+    },
+    {
+      "id": "2.80",
+      "text": "The reason my grandfather entered this line of work was not unusual; in today's terms, it was hereditary.",
+      "level": 2
+    },
+    {
+      "id": "2.81",
+      "text": "When my great-great-grandfather was 13, there was a drought in the Central Plains.",
+      "level": 3
+    },
+    {
+      "id": "2.82",
+      "text": "In those years, a drought always led to famine. Even if you had money, you couldn't buy food.",
+      "level": 3
+    },
+    {
+      "id": "2.83",
+      "text": "At that time, there was nothing in the remote corners of Changsha except for many ancient tombs.",
+      "level": 3
+    },
+    {
+      "id": "2.84",
+      "text": "So they relied on the mountains and relied on the tombs. The whole village dug up tombs together.",
+      "level": 3
+    },
+    {
+      "id": "2.85",
+      "text": "In those few years, it's unknown how many people died of starvation in Changsha, but not a single person in their village died.",
+      "level": 3
+    },
+    {
+      "id": "2.86",
+      "text": "Instead, they all became plump and well-fed, all thanks to exchanging what they dug up for grain with foreigners.",
+      "level": 3
+    },
+    {
+      "id": "2.87",
+      "text": "Later, over time, tomb robbing, like other things, accumulated culture.",
+      "level": 2
+    },
+    {
+      "id": "2.88",
+      "text": "By my grandfather's generation, there were already rules and schools.",
+      "level": 3
+    },
+    {
+      "id": "2.89",
+      "text": "At that time, tomb robbers were divided into Southern and Northern schools.",
+      "level": 3
+    },
+    {
+      "id": "2.90",
+      "text": "The Southern school was my grandfather's faction, skilled in using the Luoyang shovel to probe the soil.",
+      "level": 3
+    },
+    {
+      "id": "2.91",
+      "text": "Experts could determine depth and dynasty just by their nose.",
+      "level": 3
+    },
+    {
+      "id": "2.92",
+      "text": "Now, many novels describe the Luoyang shovel constantly, but in fact, the Northern school does not use the Luoyang shovel.",
+      "level": 3
+    },
+    {
+      "id": "2.93",
+      "text": "They were skilled in accurately judging the location and structure of tombs, which is the so-called 'finding dragons and pointing to acupoints.'",
+      "level": 3
+    },
+    {
+      "id": "2.94",
+      "text": "However, people from the Northern school were a bit strange. How should I put it? According to my grandfather, they were not straightforward, with too many tricks.",
+      "level": 3
+    },
+    {
+      "id": "2.95",
+      "text": "They would take the goods and leave, but they had to make a fuss about it, which is called bureaucratic now.",
+      "level": 3
+    },
+    {
+      "id": "2.96",
+      "text": "The Southern school had fewer rules and never avoided dead people.",
+      "level": 2
+    },
+    {
+      "id": "2.97",
+      "text": "The Northern school called the Southern school 'dirt dogs' for ruining cultural relics, saying that none of the tombs they dug did not collapse, and they even sold dead people.",
+      "level": 3
+    },
+    {
+      "id": "2.98",
+      "text": "The Southern school called the Northern school hypocrites, saying that even though they were thieves, they acted like saints.",
+      "level": 3
+    },
+    {
+      "id": "2.99",
+      "text": "Later, it escalated to the point of fighting, and even things like 'fighting corpses' occurred.",
+      "level": 3
+    },
+    {
+      "id": "2.100",
+      "text": "Finally, the two schools divided at the Yangtze River. The Northern school was called 'daodou' (tomb robbing), and the Southern school was called 'taosha' or 'taotu' (sand sifting or soil sifting).",
+      "level": 3
+    },
+    {
+      "id": "2.101",
+      "text": "The Luoyang shovel was invented after the division, and people from the Northern school disdained to use it.",
+      "level": 3
+    },
+    {
+      "id": "2.102",
+      "text": "My grandfather was illiterate and later attended a literacy class.",
+      "level": 2
+    },
+    {
+      "id": "2.103",
+      "text": "At that time, he only knew how to sift sand. Learning to read almost killed him.",
+      "level": 3
+    },
+    {
+      "id": "2.104",
+      "text": "Fortunately, with his education, he was able to record some of his experiences.",
+      "level": 3
+    },
+    {
+      "id": "2.105",
+      "text": "The Old Third at Biaozi Ridge in Changsha was my grandfather.",
+      "level": 3
+    },
+    {
+      "id": "2.106",
+      "text": "He recorded these events word for word in his old notebook.",
+      "level": 3
+    },
+    {
+      "id": "2.107",
+      "text": "My grandmother was educated and from a good family, and she was attracted by his stories.",
+      "level": 2
+    },
+    {
+      "id": "2.108",
+      "text": "Eventually, my grandfather moved into her family in Hangzhou and settled there.",
+      "level": 3
+    },
+    {
+      "id": "2.109",
+      "text": "That notebook is a family heirloom.",
+      "level": 2
+    },
+    {
+      "id": "2.110",
+      "text": "My grandfather's nose was completely ruined after that incident.",
+      "level": 3
+    },
+    {
+      "id": "2.111",
+      "text": "Later, he trained a dog to smell soil and was nicknamed 'Dog King.'",
+      "level": 3
+    },
+    {
+      "id": "2.112",
+      "text": "This is a true story.",
+      "level": 3
+    },
+    {
+      "id": "2.113",
+      "text": "Anyone who was a tomb robber in Changsha in the older generation knows this name.",
+      "level": 3
+    },
+    {
+      "id": "2.114",
+      "text": "As for how my grandfather survived later, what happened to my second uncle, great-grandfather, and great-great-grandfather, my grandfather refused to tell me.",
+      "level": 2
+    },
+    {
+      "id": "2.115",
+      "text": "In my memory, I never saw a one-eyed, one-armed second uncle.",
+      "level": 3
+    },
+    {
+      "id": "2.116",
+      "text": "It is likely that they met a grim fate.",
+      "level": 3
+    },
+    {
+      "id": "2.117",
+      "text": "Whenever this matter was mentioned, my grandfather would cry and say: 'That's not a story for children.'",
+      "level": 3
+    },
+    {
+      "id": "2.118",
+      "text": "No matter how we asked or pleaded, he refused to reveal a single word.",
+      "level": 3
+    },
+    {
+      "id": "2.119",
+      "text": "Finally, as we grew older, we gradually lost our childhood curiosity.",
+      "level": 2
+    },
+    {
+      "id": "2.120",
+      "text": "In the evening, the shop closed, another boring day passed, and no good items were acquired.",
+      "level": 2
+    },
+    {
+      "id": "2.121",
+      "text": "I sent away the shop assistant, and at this moment, a text message arrived.",
+      "level": 3
+    },
+    {
+      "id": "2.122",
+      "text": "'9 o'clock chicken eye yellow sand.'",
+      "level": 3
+    },
+    {
+      "id": "2.123",
+      "text": "It was from my uncle at home. This was code for new goods arriving.",
+      "level": 2
+    },
+    {
+      "id": "2.124",
+      "text": "Immediately, another message arrived: 'Dragon's Back, come quickly.'",
+      "level": 2
+    },
+    {
+      "id": "2.125",
+      "text": "My eyes lit up. My uncle had exceptionally high standards. 'Dragon's Back' meant something good.",
+      "level": 2
+    },
+    {
+      "id": "2.126",
+      "text": "Even he considered it good, so I really wanted to see it.",
+      "level": 3
+    },
+    {
+      "id": "2.127",
+      "text": "I locked the shop door and drove my old Jinbei van straight to my uncle's place.",
+      "level": 2
+    },
+    {
+      "id": "2.128",
+      "text": "On one hand, I wanted to see what he considered a good item.",
+      "level": 3
+    },
+    {
+      "id": "2.129",
+      "text": "On the other hand, I wanted to show him the pattern on the silk manuscript I photographed today.",
+      "level": 3
+    },
+    {
+      "id": "2.130",
+      "text": "He was the only one of our generation who still had contact with tomb robbers.",
+      "level": 3
+    },
+    {
+      "id": "2.131",
+      "text": "As soon as I drove to his building, I heard him shouting from upstairs: 'You brat, I told you to hurry, and you're taking forever. What's the use of coming now?'",
+      "level": 2
+    },
+    {
+      "id": "2.132",
+      "text": "'Damn, don't tell me you sold the good stuff without leaving any for me.'",
+      "level": 3
+    },
+    {
+      "id": "2.133",
+      "text": "Just then, I saw a young man come out of his front door, carrying a long object on his back, tightly wrapped in cloth.",
+      "level": 2
+    },
+    {
+      "id": "2.134",
+      "text": "It was clearly an ancient weapon. Such things were indeed valuable.",
+      "level": 3
+    },
+    {
+      "id": "2.135",
+      "text": "If sold well, the price could be more than ten times higher.",
+      "level": 3
+    },
+    {
+      "id": "2.136",
+      "text": "I pointed to the young man, and my uncle nodded, making a gesture of helplessness.",
+      "level": 2
+    },
+    {
+      "id": "2.137",
+      "text": "I felt a pang of sadness, thinking, is my little stall really going to go bankrupt this year?",
+      "level": 3
+    },
+    {
+      "id": "2.138",
+      "text": "I went upstairs, made myself a cup of coffee, and told him about the old man with the gold tooth coming to probe for information today.",
+      "level": 2
+    },
+    {
+      "id": "2.139",
+      "text": "I thought he would be on my side, but he seemed like a different person, silent.",
+      "level": 3
+    },
+    {
+      "id": "2.140",
+      "text": "He directly printed out the pictures from my digital camera and put them under the light.",
+      "level": 3
+    },
+    {
+      "id": "2.141",
+      "text": "I immediately saw my uncle's expression change.",
+      "level": 3
+    },
+    {
+      "id": "2.142",
+      "text": "'What's wrong?' I asked. 'Is there something strange about this thing?'",
+      "level": 2
+    },
+    {
+      "id": "2.143",
+      "text": "He frowned and said: 'No way, this looks like a tomb map!'",
+      "level": 2
+    },
+    {
+      "id": "3",
+      "text": "Chapter 3: Guazi Temple",
+      "level": 1
+    },
+    {
+      "id": "3.1",
+      "text": "I looked at the printed silk manuscript covered in text and then at my uncle's expression.",
+      "level": 2
+    },
+    {
+      "id": "3.2",
+      "text": "It didn't look like he was joking.",
+      "level": 3
+    },
+    {
+      "id": "3.3",
+      "text": "How could this usually debauched and irresponsible person have any immortal roots?",
+      "level": 3
+    },
+    {
+      "id": "3.4",
+      "text": "My uncle trembled with excitement, muttering to himself: 'Where did these people get such good things? How come I never find them? This is truly a stroke of luck.",
+      "level": 2
+    },
+    {
+      "id": "3.5",
+      "text": "It seems they don't understand what this is yet. We can get ahead of them and sift this sand.'",
+      "level": 3
+    },
+    {
+      "id": "3.6",
+      "text": "I was very confused: 'Uncle, maybe I'm a bit slow, but can you really see a map from such small characters?'",
+      "level": 2
+    },
+    {
+      "id": "3.7",
+      "text": "'You don't understand. This is called 'zi hua' (character painting), which uses text to describe the detailed geographical location.",
+      "level": 2
+    },
+    {
+      "id": "3.8",
+      "text": "If it were someone else, they really wouldn't understand. Fortunately, you have your uncle, who has some experience.",
+      "level": 3
+    },
+    {
+      "id": "3.9",
+      "text": "In the world, there are probably no more than 10 people who can understand this besides me.'",
+      "level": 3
+    },
+    {
+      "id": "3.10",
+      "text": "My uncle doesn't have many other skills, but since childhood, he has been very knowledgeable about rare and unorthodox ancient scripts and secret codes.",
+      "level": 2
+    },
+    {
+      "id": "3.11",
+      "text": "In short, he studies whatever is obscure.",
+      "level": 3
+    },
+    {
+      "id": "3.12",
+      "text": "For example, he can explain the Wumu Tuyue of Western Xia and the earliest Jira script of Jurchen.",
+      "level": 3
+    },
+    {
+      "id": "3.13",
+      "text": "So I'm not surprised he can understand this so-called 'zi hua.'",
+      "level": 3
+    },
+    {
+      "id": "3.14",
+      "text": "However, this person is the type to take credit for luck. In front of him, you have to pretend to be stupid, otherwise, he'll dismiss you with a single sentence.",
+      "level": 2
+    },
+    {
+      "id": "3.15",
+      "text": "So I pretended to be simple-minded and asked: 'Oh, does it say to go left then right, turn right when you see a big tree ahead, and then drill down when you see a well? Like this?'",
+      "level": 3
+    },
+    {
+      "id": "3.16",
+      "text": "My uncle sighed: 'You can't teach a child. Your comprehension is so poor. It looks like our family will be finished with your generation.'",
+      "level": 2
+    },
+    {
+      "id": "3.17",
+      "text": "Seeing him sigh so sincerely, as if from the bottom of his heart, I couldn't help but smile: 'Then tell me, how is it? My father doesn't teach me, and this thing isn't innate.'",
+      "level": 2
+    },
+    {
+      "id": "3.18",
+      "text": "He smirked proudly: 'This kind of zi hua is actually a code. It has a strict format. As long as you draw out what's written inside according to its format, it becomes a complete map.'",
+      "level": 2
+    },
+    {
+      "id": "3.19",
+      "text": "'So don't underestimate these few words on the silk manuscript. You don't know how complex the information inside is. It might even indicate exactly how many bricks were used.'",
+      "level": 3
+    },
+    {
+      "id": "3.20",
+      "text": "I became interested. I thought, since childhood, my family never let me go out and do real tomb robbing. This time, I must let Uncle take me to see it, and maybe find a few treasures to get through my financial crisis.",
+      "level": 2
+    },
+    {
+      "id": "3.21",
+      "text": "Thinking this, I asked him: 'Then can you tell whose tomb it is, or if it belongs to someone important?'",
+      "level": 2
+    },
+    {
+      "id": "3.22",
+      "text": "My uncle smiled proudly: 'I can't fully understand it yet, but this tomb should belong to a noble of the State of Lu during the Warring States period.",
+      "level": 2
+    },
+    {
+      "id": "3.23",
+      "text": "Judging by the fact that the location of his tomb is recorded on this silk manuscript in such a secret zi hua way, it indicates that this person's status must have been quite high, and this tomb must be very hidden and worth exploring.'",
+      "level": 3
+    },
+    {
+      "id": "3.24",
+      "text": "Seeing his eyes gleaming, I found it strange. This old guy usually doesn't even bother to step out the door.",
+      "level": 2
+    },
+    {
+      "id": "3.25",
+      "text": "Is he really planning to go digging this time? That would be a miracle.",
+      "level": 3
+    },
+    {
+      "id": "3.26",
+      "text": "I quickly asked him: 'What? Uncle, are you really planning to personally go sand sifting?'",
+      "level": 2
+    },
+    {
+      "id": "3.27",
+      "text": "He patted my shoulder: 'You don't understand. Let me tell you, in the Tang, Song, Yuan, Ming, and Qing dynasties, there were treasures in tombs, but that's at most exquisite craftsmanship.",
+      "level": 2
+    },
+    {
+      "id": "3.28",
+      "text": "But during the Warring States period, the imperial tombs of that era were too ancient. You can never estimate what's inside.",
+      "level": 3
+    },
+    {
+      "id": "3.29",
+      "text": "Warring States tombs are places where divine artifacts come from! Those are things not found in the human world!",
+      "level": 3
+    },
+    {
+      "id": "3.30",
+      "text": "Don't you think I want to see it?'",
+      "level": 3
+    },
+    {
+      "id": "3.31",
+      "text": "'Are you so sure? Maybe there's nothing inside?'",
+      "level": 2
+    },
+    {
+      "id": "3.32",
+      "text": "'No. Didn't you see this pattern?' He pointed to the strange fox face.",
+      "level": 2
+    },
+    {
+      "id": "3.33",
+      "text": "'This is the mask worn during the earliest human sacrifices in the State of Lu. Someone of very special status must be buried in this tomb, possibly even more honored than the emperor at the time.'",
+      "level": 3
+    },
+    {
+      "id": "3.34",
+      "text": "I blurted out: 'The Emperor's father.'",
+      "level": 2
+    },
+    {
+      "id": "3.35",
+      "text": "My uncle glared at me and was about to put away the printed paper.",
+      "level": 2
+    },
+    {
+      "id": "3.36",
+      "text": "I grabbed it and smiled at him: 'Uncle, don't be in such a hurry to put it away. After all, this thing was found by me. This time, you have to take me to see it.'",
+      "level": 2
+    },
+    {
+      "id": "3.37",
+      "text": "He shouted: 'No, sand sifting like this is not that simple. There's no air conditioning there, and it's full of traps. You could die at any moment.",
+      "level": 2
+    },
+    {
+      "id": "3.38",
+      "text": "You are your father's only son. If anything happens to you, your father will skin me alive!'",
+      "level": 3
+    },
+    {
+      "id": "3.39",
+      "text": "I also shouted: 'Then forget it! I'll pretend I never came!'",
+      "level": 2
+    },
+    {
+      "id": "3.40",
+      "text": "With that, I snatched the paper from his hand and turned to leave.",
+      "level": 3
+    },
+    {
+      "id": "3.41",
+      "text": "I knew this uncle of mine had no principles when he encountered something he liked. He was the same with antiques and women. I played on this point, and sure enough, after a few steps, he surrendered.",
+      "level": 2
+    },
+    {
+      "id": "3.42",
+      "text": "He rushed up and grabbed the paper from my hand: 'Alright, alright, you win. But we're agreed, you have to stay on top when we go down the tomb tunnel. Is that okay?'",
+      "level": 3
+    },
+    {
+      "id": "3.43",
+      "text": "I was overjoyed, thinking: 'Can you stop me when the time comes? I'll go down anyway!'",
+      "level": 2
+    },
+    {
+      "id": "3.44",
+      "text": "I nodded: 'It's a deal! When we're out, I'll listen to you completely. I'll do whatever you tell me!'",
+      "level": 3
+    },
+    {
+      "id": "3.45",
+      "text": "My uncle sighed helplessly and said: 'The two of us are not enough. I'll call a few more experienced workers tomorrow. I'll decipher this zi hua these few days, and you need to help me get some things ready.'",
+      "level": 2
+    },
+    {
+      "id": "3.46",
+      "text": "He quickly wrote a list for me and said: 'Don't buy fakes. Also, prepare some travel gear, otherwise, we'll be detained before we even get there.'",
+      "level": 3
+    },
+    {
+      "id": "3.47",
+      "text": "I agreed and we parted ways to get busy.",
+      "level": 2
+    },
+    {
+      "id": "3.48",
+      "text": "The things my uncle asked for were quite tricky. I thought he was deliberately making things difficult for me because such items are generally not available in stores.",
+      "level": 2
+    },
+    {
+      "id": "3.49",
+      "text": "For example, split waterproof mining lamps, threaded steel pipes, soil shovels, multi-purpose knives, folding shovels, short-handled hammers, bandages, nylon ropes, etc.",
+      "level": 3
+    },
+    {
+      "id": "3.50",
+      "text": "I had only bought half of them and already spent nearly ten thousand yuan. I felt heartbroken and cursed that old fox, 'Damn, he's so rich but so stingy.'",
+      "level": 2
+    },
+    {
+      "id": "3.51",
+      "text": "Three days later, my uncle and I, along with two experienced sand sifters, and the young man who bought my uncle's 'Dragon's Back' goods that day, a total of five people, arrived at a place about 100 kilometers west of Guazi Temple in Shandong.",
+      "level": 2
+    },
+    {
+      "id": "3.52",
+      "text": "Speaking of this place, how should I put it? It's just a place. There's nothing there.",
+      "level": 2
+    },
+    {
+      "id": "3.53",
+      "text": "We took a long-distance bus, then a long-distance minivan, then a long-distance motorcycle, then a cow.",
+      "level": 3
+    },
+    {
+      "id": "3.54",
+      "text": "When we got off the ox cart, we looked forward and backward, left and right, and there was still nothing.",
+      "level": 3
+    },
+    {
+      "id": "3.55",
+      "text": "Then we saw a dog running towards us.",
+      "level": 3
+    },
+    {
+      "id": "3.56",
+      "text": "My uncle patted the hired guide: 'Old man, are we riding this dog for the next leg? I'm afraid this dog can't handle it!'",
+      "level": 2
+    },
+    {
+      "id": "3.57",
+      "text": "'No,' the old man laughed heartily, 'this dog is for sending messages. For this last leg, there are no vehicles, we have to take a boat. That dog will bring the boat over.'",
+      "level": 2
+    },
+    {
+      "id": "3.58",
+      "text": "'Can this dog swim?'",
+      "level": 2
+    },
+    {
+      "id": "3.59",
+      "text": "'It swims very well, it swims very well,' the old man looked at the dog. 'Lü Dandan, go swim a lap and show us.'",
+      "level": 3
+    },
+    {
+      "id": "3.60",
+      "text": "The dog was indeed intelligent and jumped into the river and swam a lap.",
+      "level": 2
+    },
+    {
+      "id": "3.61",
+      "text": "It came up, shook off its fur, and lay down, panting.",
+      "level": 3
+    },
+    {
+      "id": "3.62",
+      "text": "'It's still too early. The boatman probably hasn't started work yet. Let's rest and have a smoke.'",
+      "level": 2
+    },
+    {
+      "id": "3.63",
+      "text": "I looked at my watch: 'It's 2 PM and he hasn't started work yet. What kind of working hours does this boatman have?'",
+      "level": 2
+    },
+    {
+      "id": "3.64",
+      "text": "'He's the only boatman here. He's the most capable. He starts work when he wakes up, sometimes he doesn't work at all in a day, which can drive people crazy,' the old man laughed.",
+      "level": 2
+    },
+    {
+      "id": "3.65",
+      "text": "'There's no way. The river god only respects him. Anyone else, as soon as they enter that cave, they definitely won't come out. Only he is safe.",
+      "level": 3
+    },
+    {
+      "id": "3.66",
+      "text": "If you could ride a mule, we could cross the mountain and arrive in another day. But look at how much stuff you have, all the mules in our village wouldn't be enough for you.'",
+      "level": 3
+    },
+    {
+      "id": "3.67",
+      "text": "'Oh,' my uncle's ears perked up as soon as he heard about the mountain cave.",
+      "level": 2
+    },
+    {
+      "id": "3.68",
+      "text": "He took out the translated map, which he guarded like a treasure and wouldn't let me look at.",
+      "level": 3
+    },
+    {
+      "id": "3.69",
+      "text": "As soon as he took it out, we all crowded around to look. Only the young man still sat aside, not saying a word.",
+      "level": 3
+    },
+    {
+      "id": "3.70",
+      "text": "Honestly, my uncle's two companions were easy to get along with, both honest people.",
+      "level": 2
+    },
+    {
+      "id": "3.71",
+      "text": "This one was like a mute, he hadn't made a sound all the way, just stared blankly at the sky, as if he was worried the sky would fall, which was very annoying!",
+      "level": 3
+    },
+    {
+      "id": "3.72",
+      "text": "At first, I tried to talk to him, but later I simply gave up. I really don't understand why my uncle brought him.",
+      "level": 3
+    },
+    {
+      "id": "3.73",
+      "text": "'There's a mountain cave, and it's really a river cave, behind this mountain,' my uncle said.",
+      "level": 2
+    },
+    {
+      "id": "3.74",
+      "text": "'Old man, can this mountain cave eat people?'",
+      "level": 3
+    },
+    {
+      "id": "3.75",
+      "text": "The old man chuckled: 'These are old stories passed down from previous generations. I don't remember them clearly.",
+      "level": 2
+    },
+    {
+      "id": "3.76",
+      "text": "When the river was not connected, the village said there was a snake spirit inside, and no one who entered ever came out.",
+      "level": 3
+    },
+    {
+      "id": "3.77",
+      "text": "Then one day, the boatman's great-grandfather came out of that cave in a small boat, saying he was a peddler from outside.",
+      "level": 3
+    },
+    {
+      "id": "3.78",
+      "text": "How could a peddler carry a boat around? Everyone said he was a snake spirit in disguise.",
+      "level": 3
+    },
+    {
+      "id": "3.79",
+      "text": "His great-grandfather laughed and said the boat was bought from the neighboring village. If you don't believe me, go ask the neighboring village. They went to ask, and it was true.",
+      "level": 3
+    },
+    {
+      "id": "3.80",
+      "text": "Then people believed him and thought the monster in the cave was gone.",
+      "level": 3
+    },
+    {
+      "id": "3.81",
+      "text": "But then a few brave young people went to explore the cave and never came out.",
+      "level": 3
+    },
+    {
+      "id": "3.82",
+      "text": "Since then, only people from his family could enter and exit freely. Isn't that strange?",
+      "level": 3
+    },
+    {
+      "id": "3.83",
+      "text": "Later, their family has always been in this business, up to now.",
+      "level": 3
+    },
+    {
+      "id": "3.84",
+      "text": "'What about the dog? Is it okay?' I asked strangely. 'Isn't it used for sending messages?'",
+      "level": 2
+    },
+    {
+      "id": "3.85",
+      "text": "'This dog is also raised by his family. Other people's dogs, let alone dogs, even oxen can't get out.'",
+      "level": 2
+    },
+    {
+      "id": "3.86",
+      "text": "'With such strange things happening, doesn't the government do anything?'",
+      "level": 2
+    },
+    {
+      "id": "3.87",
+      "text": "'That would require people to believe it if it got out,' the old man tapped his dry pipe on the ground.",
+      "level": 2
+    },
+    {
+      "id": "3.88",
+      "text": "My uncle frowned and clapped his hands: 'Lü Dandan, come here.'",
+      "level": 2
+    },
+    {
+      "id": "3.89",
+      "text": "The dog actually obeyed and ran over obediently.",
+      "level": 2
+    },
+    {
+      "id": "3.90",
+      "text": "My uncle picked it up and sniffed it, his face changing: 'No way, could there be this thing in the cave?'",
+      "level": 2
+    },
+    {
+      "id": "3.91",
+      "text": "I also picked it up and sniffed it. The doggy smell made me cough. This dog's owner was really lazy; how long hadn't he washed the dog?",
+      "level": 2
+    },
+    {
+      "id": "3.92",
+      "text": "One of the companions, named Pan Zi, laughed heartily: 'You want to learn from your uncle? You're still too young.'",
+      "level": 2
+    },
+    {
+      "id": "3.93",
+      "text": "'This damn dog, why does it stink so much!' I grimaced in disgust.",
+      "level": 2
+    },
+    {
+      "id": "3.94",
+      "text": "'This dog grew up eating dead people's flesh when it was young,' my uncle said.",
+      "level": 2
+    },
+    {
+      "id": "3.95",
+      "text": "'That's a corpse cave. No wonder we have to wait for the right time to go in. That boatman, when he was young, probably...'",
+      "level": 3
+    },
+    {
+      "id": "3.96",
+      "text": "'No way!' I was so scared my hair stood on end. As soon as he said that, even the expression of the silent young man changed.",
+      "level": 2
+    },
+    {
+      "id": "3.97",
+      "text": "My uncle's other companion was a big guy, we called him Ah Kui. He was as big as the ox pulling the cart, but he was very timid.",
+      "level": 2
+    },
+    {
+      "id": "3.98",
+      "text": "He whispered: 'What exactly is a corpse cave? Will something happen if we go in?'",
+      "level": 3
+    },
+    {
+      "id": "3.99",
+      "text": "'I don't know. A few years ago, I found such a cave in Taiyuan, Shanxi. That was a place where the Japanese massacred people and piled their bodies.",
+      "level": 2
+    },
+    {
+      "id": "3.100",
+      "text": "Wherever there are corpse caves, there are massacres. This is certain.",
+      "level": 3
+    },
+    {
+      "id": "3.101",
+      "text": "At that time, it looked fun, so I conducted experiments. I put dogs and ducks on bamboo rafts and then set up cameras, pushing them in.",
+      "level": 3
+    },
+    {
+      "id": "3.102",
+      "text": "The cave was at most a little over a kilometer long. I prepared a sufficiently long cable, but by the time the cable ran out, the bamboo raft hadn't come out.",
+      "level": 3
+    },
+    {
+      "id": "3.103",
+      "text": "It was pitch black inside. I didn't know where it had drifted to.",
+      "level": 3
+    },
+    {
+      "id": "3.104",
+      "text": "Later, I tried to pull the bamboo raft out. After pulling for a few seconds, the bamboo raft suddenly overturned, and then...",
+      "level": 3
+    },
+    {
+      "id": "3.105",
+      "text": "My uncle spread his hands: 'In the end, I only saw half a face. It was too close to the screen to tell if it was a dog or something else.'",
+      "level": 3
+    },
+    {
+      "id": "3.106",
+      "text": "'To pass through such caves, in ancient times, a row of dead and living people would go together.",
+      "level": 2
+    },
+    {
+      "id": "3.107",
+      "text": "If it's a living thing, it won't come out!",
+      "level": 3
+    },
+    {
+      "id": "3.108",
+      "text": "But I heard that people from the Shanxi area feed their children dead people's flesh from a young age, accumulating corpse energy in their bodies.",
+      "level": 3
+    },
+    {
+      "id": "3.109",
+      "text": "By the time they grow up, they are no different from the dead, and even ghosts can't see them.",
+      "level": 3
+    },
+    {
+      "id": "3.110",
+      "text": "Old man, is your boatman from Shanxi?'",
+      "level": 3
+    },
+    {
+      "id": "3.111",
+      "text": "The old man's expression changed slightly and he shook his head: 'I don't know. That was from his great-grandfather's time. They weren't even from the same era.'",
+      "level": 2
+    },
+    {
+      "id": "3.112",
+      "text": "He looked at the sky and called out to the dog: 'Lü Dandan, go get your boat!'",
+      "level": 3
+    },
+    {
+      "id": "3.113",
+      "text": "The dog whimpered and jumped into the water, swimming towards the back of the mountain.",
+      "level": 3
+    },
+    {
+      "id": "3.114",
+      "text": "At this time, I saw my uncle wink at Pan Zi. Pan Zi secretly took a backpack from his luggage and put it on his back.",
+      "level": 2
+    },
+    {
+      "id": "3.115",
+      "text": "The young man who had been sitting aside also stood up and took his bag from the pile of luggage.",
+      "level": 3
+    },
+    {
+      "id": "3.116",
+      "text": "As Pan Zi walked past me, he quietly said in the Hangzhou dialect: 'There's something wrong with this old man. Be careful.'",
+      "level": 3
+    },
+    {
+      "id": "4",
+      "text": "Chapter 4: Corpse Cave",
+      "level": 1
+    },
+    {
+      "id": "4.1",
+      "text": "We encountered many dangerous situations on this journey.",
+      "level": 2
+    },
+    {
+      "id": "4.2",
+      "text": "These companions are very capable. I trust them completely.",
+      "level": 3
+    },
+    {
+      "id": "4.3",
+      "text": "So, when Pan Zi said this, I knew what was going on.",
+      "level": 3
+    },
+    {
+      "id": "4.4",
+      "text": "Big guy Ah Kui also gave me a wink, meaning 'you stay in the back, don't peek at anything.'",
+      "level": 2
+    },
+    {
+      "id": "4.5",
+      "text": "I couldn't help but smile bitterly. Why would I peek?",
+      "level": 3
+    },
+    {
+      "id": "4.6",
+      "text": "You, Ah Kui, can knock out a cow with one punch. Pan Zi doesn't need to be mentioned; he's a veteran with scars all over his body.",
+      "level": 3
+    },
+    {
+      "id": "4.7",
+      "text": "Our Uncle has been fighting desperately since he was young.",
+      "level": 3
+    },
+    {
+      "id": "4.8",
+      "text": "And that silent burden-carrier, by all accounts, doesn't seem like an easy person.",
+      "level": 3
+    },
+    {
+      "id": "4.9",
+      "text": "As for me, ever since ancient times, scholars have been useless. The military knife my uncle forced on me feels too heavy in my hand; I don't know how to use it.",
+      "level": 3
+    },
+    {
+      "id": "4.10",
+      "text": "As I was thinking about what to carry for self-defense, Lü Dandan came back with a splash.",
+      "level": 2
+    },
+    {
+      "id": "4.11",
+      "text": "The old man patted his pipe against his pants: 'Let's go! The boat is here.'",
+      "level": 3
+    },
+    {
+      "id": "4.12",
+      "text": "Indeed, two flat boats appeared one after another from behind the mountain.",
+      "level": 2
+    },
+    {
+      "id": "4.13",
+      "text": "A middle-aged man stood on the front boat, poling and shouting at us.",
+      "level": 3
+    },
+    {
+      "id": "4.14",
+      "text": "The boat was quite large; it seemed more than enough to carry us and our equipment.",
+      "level": 3
+    },
+    {
+      "id": "4.15",
+      "text": "The old man patted the cow's neck: 'Everyone, don't take your luggage off. I'll load the cow and cart onto the second boat, and we'll sit in the first boat. Save some effort.'",
+      "level": 2
+    },
+    {
+      "id": "4.16",
+      "text": "Pan Zi smiled: 'Some things can't get wet, so it's better to carry them with you. If the cow jumps into the water later, we'll be in trouble.'",
+      "level": 2
+    },
+    {
+      "id": "4.17",
+      "text": "The old man smiled and nodded: 'You're right, but my cow isn't a water buffalo, it won't jump into the water.",
+      "level": 3
+    },
+    {
+      "id": "4.18",
+      "text": "If it jumps in, I, this old man, will help you all retrieve it, and not a single item will be missing.'",
+      "level": 3
+    },
+    {
+      "id": "4.19",
+      "text": "With that, he led the cow to the dock. We each carried our personal luggage and followed behind.",
+      "level": 2
+    },
+    {
+      "id": "4.20",
+      "text": "The middle-aged man poled the boat very skillfully, and in a few strokes, we reached the shore.",
+      "level": 2
+    },
+    {
+      "id": "4.21",
+      "text": "While the old man was herding the cow onto the second boat, I observed the middle-aged boatman.",
+      "level": 2
+    },
+    {
+      "id": "4.22",
+      "text": "His skin was very dark, extremely ordinary, but for some reason, whether it was psychological or not, I felt he looked sinister.",
+      "level": 3
+    },
+    {
+      "id": "4.23",
+      "text": "Recalling what my uncle had said about eating dead people's flesh, I suddenly felt that the more I looked at him, the more terrifying he became.",
+      "level": 3
+    },
+    {
+      "id": "4.24",
+      "text": "'When you enter the cave later, please speak softly and do not disturb the river god,' the man said.",
+      "level": 2
+    },
+    {
+      "id": "4.25",
+      "text": "'Especially do not speak ill of the river god.'",
+      "level": 3
+    },
+    {
+      "id": "4.26",
+      "text": "'Roughly how long will it take to pass through that cave?' my uncle asked him.",
+      "level": 2
+    },
+    {
+      "id": "4.27",
+      "text": "'If it's fast, it'll take 5 minutes. The current inside is very strong. It's best to go quickly.'",
+      "level": 2
+    },
+    {
+      "id": "4.28",
+      "text": "'Why would it be slow?'",
+      "level": 2
+    },
+    {
+      "id": "4.29",
+      "text": "'Yes, sometimes the current is against us. You see, I came out with the current. Now we'll go against the current, so it'll take longer, about 15 minutes. Some bends are quite dangerous.'",
+      "level": 3
+    },
+    {
+      "id": "4.30",
+      "text": "'Is it bright inside?'",
+      "level": 2
+    },
+    {
+      "id": "4.31",
+      "text": "The man chuckled: 'Pitch black. How could it be bright?'",
+      "level": 2
+    },
+    {
+      "id": "4.32",
+      "text": "But he pointed to his ear: 'I've been poling this boat for over ten years. These few poles, I use my ears.'",
+      "level": 3
+    },
+    {
+      "id": "4.33",
+      "text": "'Can we use a flashlight then?' Pan Zi raised his mining lamp. 'It won't bother, right?'",
+      "level": 2
+    },
+    {
+      "id": "4.34",
+      "text": "'It doesn't bother,' the man said. 'But absolutely do not shine it into the water. It will scare you to death!'",
+      "level": 2
+    },
+    {
+      "id": "4.35",
+      "text": "'Why?' my uncle chuckled. 'Are there water ghosts?'",
+      "level": 2
+    },
+    {
+      "id": "4.36",
+      "text": "'What are water ghosts? The things in this water, I wouldn't dare say what they are. If you're really brave, take a look later. Remember, just one look. If you're lucky, you'll see a mass of black water. If you're unlucky, you'll see something that will scare you crazy.'",
+      "level": 3
+    },
+    {
+      "id": "4.37",
+      "text": "With that, we could already see the cave.",
+      "level": 2
+    },
+    {
+      "id": "4.38",
+      "text": "The cave was hidden behind the mountain wall. We couldn't see it from the shore, and we imagined it to be a large cave.",
+      "level": 3
+    },
+    {
+      "id": "4.39",
+      "text": "But when we actually saw it, we couldn't help but cry out in dismay. We never expected the cave to be so small.",
+      "level": 3
+    },
+    {
+      "id": "4.40",
+      "text": "It was only about ten centimeters wider than the boat.",
+      "level": 3
+    },
+    {
+      "id": "4.41",
+      "text": "The most terrifying thing was its height. A person sitting down couldn't even get in; you had to duck your head to barely squeeze in.",
+      "level": 3
+    },
+    {
+      "id": "4.42",
+      "text": "With such a small space, if someone inside wanted to ambush us, we wouldn't have room to move our hands and feet.",
+      "level": 3
+    },
+    {
+      "id": "4.43",
+      "text": "Pan Zi exclaimed: 'Damn, this cave is too shabby!'",
+      "level": 2
+    },
+    {
+      "id": "4.44",
+      "text": "'This is still considered large. There's a section inside that's even lower,' said the old man behind.",
+      "level": 3
+    },
+    {
+      "id": "4.45",
+      "text": "My uncle glanced at Pan Zi. Pan Zi put on an act and smiled: 'Ah, such a small cave. If someone inside robs us, won't we have no escape?'",
+      "level": 2
+    },
+    {
+      "id": "4.46",
+      "text": "As soon as he said this, I saw the middle-aged boatman make a very subtle gesture, and the old man's face changed.",
+      "level": 2
+    },
+    {
+      "id": "4.47",
+      "text": "I thought, there really is a problem. Just then, we heard a whistling sound, and the boat entered the cave.",
+      "level": 2
+    },
+    {
+      "id": "4.48",
+      "text": "Pan Zi turned on the mining lamp. The cave was still bright for a short distance after entering, but soon all the light came from this mining lamp.",
+      "level": 2
+    },
+    {
+      "id": "4.49",
+      "text": "'Third Master, this cave is not simple,' said Ah Kui.",
+      "level": 2
+    },
+    {
+      "id": "4.50",
+      "text": "'It's a water tomb tunnel, ancient round and near square. Look at these marks. This cave is old, and it looks like there's something else inside.'",
+      "level": 3
+    },
+    {
+      "id": "4.51",
+      "text": "'Oh, this gentleman seems to have some background. You're quite right,' said the middle-aged man, bending over and kneeling on one knee at the bow of the boat, poling with one hand.",
+      "level": 2
+    },
+    {
+      "id": "4.52",
+      "text": "Strangely, his pole didn't touch the water, and he didn't even seem to be breathing heavily.",
+      "level": 3
+    },
+    {
+      "id": "4.53",
+      "text": "He continued: 'I heard that this entire mountain is an ancient tomb, and there are quite a few such large and small water tomb tunnels nearby.",
+      "level": 3
+    },
+    {
+      "id": "4.54",
+      "text": "This one is the largest and deepest. As you can see, the water probably wasn't this high back then. It was likely a dry cave then.'",
+      "level": 3
+    },
+    {
+      "id": "4.55",
+      "text": "'Oh, it looks like you're an expert too.' My uncle politely offered him a cigarette.",
+      "level": 2
+    },
+    {
+      "id": "4.56",
+      "text": "He shook his head and said: 'What expert? I just heard it from those who came here before. The more I hear, the more I can say a few words, and I only know these superficial things. You absolutely mustn't call me an expert.'",
+      "level": 3
+    },
+    {
+      "id": "4.57",
+      "text": "Pan Zi and Da Kui had their hands on their knives, chatting and laughing with the others.",
+      "level": 2
+    },
+    {
+      "id": "4.58",
+      "text": "The atmosphere seemed very harmonious, but in fact, everyone was extremely nervous.",
+      "level": 3
+    },
+    {
+      "id": "4.59",
+      "text": "I thought, there are five of us, and only two of them. If a fight really broke out, we wouldn't necessarily lose.",
+      "level": 2
+    },
+    {
+      "id": "4.60",
+      "text": "But since they dared to act, they must have made thorough preparations.",
+      "level": 3
+    },
+    {
+      "id": "4.61",
+      "text": "Just as I was thinking this, the mute suddenly raised his hand and said: 'Shh, listen! Someone is talking!'",
+      "level": 2
+    },
+    {
+      "id": "4.62",
+      "text": "We immediately held our breath and heard rustling sounds coming from deep within the cave.",
+      "level": 3
+    },
+    {
+      "id": "4.63",
+      "text": "I tried hard to make out what they were saying, but I felt like I could understand yet not understand.",
+      "level": 3
+    },
+    {
+      "id": "4.64",
+      "text": "After listening for a while, I turned to ask the middle-aged boatman if this sound was common in the cave, only to find that he had disappeared!",
+      "level": 2
+    },
+    {
+      "id": "4.65",
+      "text": "I turned back again, damn, the old man was gone too.",
+      "level": 3
+    },
+    {
+      "id": "4.66",
+      "text": "'Pan Zi, where did they go?' My uncle shouted anxiously.",
+      "level": 2
+    },
+    {
+      "id": "4.67",
+      "text": "'I don't know. I didn't hear them jump into the water,' Pan Zi also panicked.",
+      "level": 2
+    },
+    {
+      "id": "4.68",
+      "text": "'I was distracted for a moment when I heard the noise just now.'",
+      "level": 3
+    },
+    {
+      "id": "4.69",
+      "text": "'It's bad, we don't have any corpse energy on us. I don't know what will happen!' My uncle said regretfully.",
+      "level": 2
+    },
+    {
+      "id": "4.70",
+      "text": "'Pan Zi, you fought in Vietnam. Have you ever eaten human flesh?'",
+      "level": 3
+    },
+    {
+      "id": "4.71",
+      "text": "'Are you kidding me, Third Master? I was in the mess hall every day, washing dishes!' Pan Zi pointed at Ah Kui. 'Fat Kui, didn't you say your family sold human meat buns long ago? You must have eaten a lot when you were young.'",
+      "level": 2
+    },
+    {
+      "id": "4.72",
+      "text": "'Nonsense, I was talking nonsense. Besides, human meat buns are sold to others. Have you ever seen someone sell human meat buns and eat them themselves?'",
+      "level": 3
+    },
+    {
+      "id": "4.73",
+      "text": "I quickly made a stop gesture: 'You three combined are over 150 years old. Aren't you ashamed?'",
+      "level": 2
+    },
+    {
+      "id": "4.74",
+      "text": "As soon as I finished speaking, the boat suddenly jolted.",
+      "level": 2
+    },
+    {
+      "id": "4.75",
+      "text": "Pan Zi quickly grabbed the mining lamp and shone it into the water. With the light, we saw a huge shadow swimming past in the water.",
+      "level": 3
+    },
+    {
+      "id": "4.76",
+      "text": "Fat Kui's face turned pale with fright. He pointed at the water, his jaw rattling, but he couldn't utter a word.",
+      "level": 2
+    },
+    {
+      "id": "4.77",
+      "text": "My uncle, afraid he would pass out, slapped him hard and cursed: 'Useless! What are you rattling about? Those two kids haven't said a word. What have you been doing for so many years? Eating shit?'",
+      "level": 2
+    },
+    {
+      "id": "4.78",
+      "text": "'My heavens, Third Master, this thing is too big! We probably wouldn't be enough for it to eat.' Fat Kui looked at the water with lingering fear.",
+      "level": 3
+    },
+    {
+      "id": "4.79",
+      "text": "He was originally sitting on the edge of the boat, but now his butt had moved to the middle, as if afraid something in the water would suddenly jump out and snatch him away.",
+      "level": 3
+    },
+    {
+      "id": "4.80",
+      "text": "'Bah!' My uncle glared at him fiercely. 'We have the tools and the people here. I, Wu Jia Laosan, have sifted sand for so long, what kind of monsters and ghosts haven't I seen? Stop talking nonsense.'",
+      "level": 3
+    },
+    {
+      "id": "4.81",
+      "text": "Pan Zi was also quite scared, but for him, it was less fear and more shock.",
+      "level": 2
+    },
+    {
+      "id": "4.82",
+      "text": "In such a narrow space, such a huge thing was swimming past in the water, and everyone's mind went blank for a moment. It was not surprising.",
+      "level": 3
+    },
+    {
+      "id": "4.83",
+      "text": "Pan Zi looked around and said: 'Third Master, this cave is strange. I'm getting creeped out. Let's talk about things after we get out, shall we?'",
+      "level": 2
+    },
+    {
+      "id": "4.84",
+      "text": "Fat Kui immediately agreed. In fact, I also desperately wanted to get out, but I was, after all, a relative of my uncle. I had to wait for him to express his opinion before speaking.",
+      "level": 2
+    },
+    {
+      "id": "4.85",
+      "text": "At this moment, my uncle actually looked at the mute, as if seeking his opinion.",
+      "level": 2
+    },
+    {
+      "id": "4.86",
+      "text": "Given my uncle's personality, he wouldn't care about anyone in the world, but now he seemed to be very wary of this young man.",
+      "level": 3
+    },
+    {
+      "id": "4.87",
+      "text": "I couldn't help but wonder and turned to see how he would respond, only to find that he wasn't listening to us at all.",
+      "level": 2
+    },
+    {
+      "id": "4.88",
+      "text": "His originally blank, stone-like expression was gone. His eyes were fixed on the water, as if he were intently searching for something.",
+      "level": 3
+    },
+    {
+      "id": "4.89",
+      "text": "I wanted to ask my uncle what this person's background was, but it wasn't appropriate at the moment, so I secretly asked Pan Zi.",
+      "level": 2
+    },
+    {
+      "id": "4.90",
+      "text": "Pan Zi also shook his head and said he didn't know, only that this person had some skills. He particularly pointed to the man's hand with his chin and said, 'Look at this hand. How many years does it take to train it like this?'",
+      "level": 3
+    },
+    {
+      "id": "4.91",
+      "text": "Before this, I hadn't really noticed the man's hand, but when I looked, I found it truly unusual.",
+      "level": 2
+    },
+    {
+      "id": "4.92",
+      "text": "His middle and index fingers were particularly long. I immediately thought of the ancient 'Fa Qiao Zhong Lang Jiang' (an imperial title for tomb raiders) skill of probing holes with two fingers.",
+      "level": 3
+    },
+    {
+      "id": "4.93",
+      "text": "I had seen related records in my grandfather's notebook.",
+      "level": 3
+    },
+    {
+      "id": "4.94",
+      "text": "The masters in the 'Fa Qiao Zhong Lang Jiang' had fingers as steady as a mountain and immense strength, capable of easily disarming the subtle mechanisms in tombs.",
+      "level": 3
+    },
+    {
+      "id": "4.95",
+      "text": "To achieve such a skill required starting from childhood, and the process must have been incredibly arduous.",
+      "level": 3
+    },
+    {
+      "id": "4.96",
+      "text": "While I was still thinking about what his hands were capable of, I saw him raise his right hand and dart it into the water like lightning.",
+      "level": 2
+    },
+    {
+      "id": "4.97",
+      "text": "The movement was so fast that it was almost a flash of white light, and his hand was already back, with a black, grubby insect held between his two unusually long fingers.",
+      "level": 3
+    },
+    {
+      "id": "4.98",
+      "text": "He threw the insect onto the deck and said: 'This was it just now.'",
+      "level": 3
+    },
+    {
+      "id": "4.99",
+      "text": "I looked down and couldn't help but breathe a sigh of relief: 'Isn't this just a water beetle? So, that large shadow just now was just a swarm of water lice swimming past?'",
+      "level": 2
+    },
+    {
+      "id": "4.100",
+      "text": "'Yes,' the man said, wiping his hands with his clothes.",
+      "level": 3
+    },
+    {
+      "id": "4.101",
+      "text": "Although I still wasn't entirely convinced, we were all relieved.",
+      "level": 2
+    },
+    {
+      "id": "4.102",
+      "text": "Fat Kui suddenly stomped on the insect, crushing it. 'Damn, it scared me to death.'",
+      "level": 2
+    },
+    {
+      "id": "4.103",
+      "text": "But then I thought, something's not right. How could so many water beetles be active at the same time?",
+      "level": 2
+    },
+    {
+      "id": "4.104",
+      "text": "And these water lice were too big!",
+      "level": 3
+    },
+    {
+      "id": "4.105",
+      "text": "The mute also didn't seem completely relieved, looking like he was also pondering the problem.",
+      "level": 3
+    },
+    {
+      "id": "4.106",
+      "text": "Fat Kui was still stomping on the insect's corpse, which was already crushed, probably trying to regain some face after his earlier loss of composure.",
+      "level": 2
+    },
+    {
+      "id": "4.107",
+      "text": "My uncle picked up a severed leg, sniffed it, and was horrified: 'This is not a water beetle, this is a corpse beetle.'",
+      "level": 2
+    },
+    {
+      "id": "4.108",
+      "text": "We were stunned, all feeling uneasy. The name itself sounded ominous.",
+      "level": 3
+    },
+    {
+      "id": "4.109",
+      "text": "'My grandmother, this thing eats decaying flesh and is particularly abundant where there are dead things. If it grows well, it becomes big. It seems there must be a place upstream that is a corpse accumulation area. And a very significant one.' My uncle looked at the dark cave.",
+      "level": 2
+    },
+    {
+      "id": "4.110",
+      "text": "'So, does this thing bite living people?' Da Kui asked timidly.",
+      "level": 2
+    },
+    {
+      "id": "4.111",
+      "text": "'If it were of normal size, it certainly wouldn't bite people. But look at the size of this one, I can't be sure if it bites or not.' My uncle looked perplexed.",
+      "level": 3
+    },
+    {
+      "id": "4.112",
+      "text": "'This thing usually stays in places with many dead people and doesn't swim around often. Why are so many migrating together now?'",
+      "level": 3
+    },
+    {
+      "id": "4.113",
+      "text": "The mute suddenly turned his head towards the depths of the cave: 'I think they were probably fleeing just now.'",
+      "level": 2
+    },
+    {
+      "id": "4.114",
+      "text": "'What? Fleeing?' Fatzi shivered. 'Then inside this cave...'",
+      "level": 2
+    },
+    {
+      "id": "4.115",
+      "text": "The mute nodded: 'I have a feeling something is coming towards us inside, and it's quite large.'",
+      "level": 2
+    }
+  ],
+  "concepts": [
+    {
+      "name": "盗墓笔记",
+      "frequency": 1,
+      "context": "Title of the document."
+    },
+    {
+      "name": "七星鲁王宫",
+      "frequency": 1,
+      "context": "Subtitle of the document."
+    },
+    {
+      "name": "洛阳铲",
+      "frequency": 3,
+      "context": "A tool used by tomb robbers, specifically mentioned as being used by 'tu fuzi' (tomb robbers) and related to the Southern school of tomb robbing."
+    },
+    {
+      "name": "血尸",
+      "frequency": 3,
+      "context": "A dangerous entity encountered in the tomb, described as a corpse exuding red liquid and capable of movement."
+    },
+    {
+      "name": "土夫子",
+      "frequency": 3,
+      "context": "A term for tomb robbers, used to describe the group in chapter 1 and historically in relation to the narrator's grandfather."
+    },
+    {
+      "name": "老烟头",
+      "frequency": 2,
+      "context": "A character, an older tomb robber, described as experienced and authoritative."
+    },
+    {
+      "name": "独眼",
+      "frequency": 2,
+      "context": "A character, a young tomb robber with one eye, son of the bearded man."
+    },
+    {
+      "name": "大胡子",
+      "frequency": 2,
+      "context": "A character, a tomb robber, father of the one-eyed youth, who gets into arguments with his son."
+    },
+    {
+      "name": "匣子炮",
+      "frequency": 2,
+      "context": "A type of pistol, used by the tomb robbers."
+    },
+    {
+      "name": "土耗子",
+      "frequency": 2,
+      "context": "A dirt rat, used as a tool to pull items from the tomb tunnel."
+    },
+    {
+      "name": "断手",
+      "frequency": 1,
+      "context": "A severed hand, found on the dirt rat, identified as belonging to the second brother."
+    },
+    {
+      "name": "古帛片",
+      "frequency": 2,
+      "context": "Ancient silk fragment, retrieved from the hand of the second brother, considered important."
+    },
+    {
+      "name": "中毒",
+      "frequency": 1,
+      "context": "Poisoning, experienced by the third son after being stepped on by the blood corpse."
+    },
+    {
+      "name": "战国帛书",
+      "frequency": 3,
+      "context": "Warring States period silk manuscript, a key item sought after by various characters, originating from a tomb robbery in Changsha."
+    },
+    {
+      "name": "拓本",
+      "frequency": 3,
+      "context": "Rubbing, a copy of ancient texts or inscriptions, important for collectors and researchers."
+    },
+    {
+      "name": "老痒",
+      "frequency": 3,
+      "context": "A character who introduces the narrator to the gold-toothed man, mentioned as being in prison."
+    },
+    {
+      "name": "手表",
+      "frequency": 2,
+      "context": "A watch, used as a token of identification by Old Yang."
+    },
+    {
+      "name": "金牙老头",
+      "frequency": 5,
+      "context": "A character, the gold-toothed old man, who seeks the narrator's grandfather and information about the silk manuscript."
+    },
+    {
+      "name": "爷爷",
+      "frequency": 5,
+      "context": "Grandfather, the narrator's grandfather, a former tomb robber who recorded his experiences."
+    },
+    {
+      "name": "南派",
+      "frequency": 2,
+      "context": "Southern school of tomb robbing, associated with the narrator's grandfather's methods."
+    },
+    {
+      "name": "北派",
+      "frequency": 2,
+      "context": "Northern school of tomb robbing, contrasted with the Southern school, known for 'finding dragons and pointing to acupoints.'"
+    },
+    {
+      "name": "淘沙",
+      "frequency": 2,
+      "context": "Sand sifting, a term for the Southern school's tomb robbing activities."
+    },
+    {
+      "name": "淘土",
+      "frequency": 1,
+      "context": "Soil sifting, another term for the Southern school's activities."
+    },
+    {
+      "name": "笔记",
+      "frequency": 2,
+      "context": "Notebook, the narrator's grandfather's record of his experiences."
+    },
+    {
+      "name": "狗王",
+      "frequency": 1,
+      "context": "Nickname of the narrator's grandfather after his nose was ruined and he trained a dog to smell soil."
+    },
+    {
+      "name": "三叔",
+      "frequency": 8,
+      "context": "Third uncle, who contacts the narrator with coded messages and is knowledgeable about ancient texts and tomb robbing."
+    },
+    {
+      "name": "龙脊背",
+      "frequency": 2,
+      "context": "Code word meaning something good or valuable."
+    },
+    {
+      "name": "古兵器",
+      "frequency": 1,
+      "context": "Ancient weapon, carried by a young man meeting the narrator's uncle."
+    },
+    {
+      "name": "字画",
+      "frequency": 3,
+      "context": "Character painting, described as a coded map on the silk manuscript, understood by the narrator's uncle."
+    },
+    {
+      "name": "战国时期鲁国",
+      "frequency": 1,
+      "context": "State of Lu during the Warring States period, where the tomb is believed to be located."
+    },
+    {
+      "name": "人牲",
+      "frequency": 1,
+      "context": "Human sacrifice, associated with the mask found on the silk manuscript."
+    },
+    {
+      "name": "瓜子庙",
+      "frequency": 1,
+      "context": "Location in Shandong where the group arrives."
+    },
+    {
+      "name": "矿灯",
+      "frequency": 2,
+      "context": "Mining lamp, used for illumination in the cave."
+    },
+    {
+      "name": "盗洞",
+      "frequency": 2,
+      "context": "Tomb tunnel, a passage dug into a tomb."
+    },
+    {
+      "name": "水盗洞",
+      "frequency": 2,
+      "context": "Water tomb tunnel, a passage containing water."
+    },
+    {
+      "name": "潘子",
+      "frequency": 5,
+      "context": "A character, a companion of the narrator's uncle, a veteran, and appears to be skilled in combat."
+    },
+    {
+      "name": "阿奎",
+      "frequency": 4,
+      "context": "A character, a large and strong companion of the narrator's uncle, but timid."
+    },
+    {
+      "name": "闷油瓶",
+      "frequency": 4,
+      "context": "A silent, enigmatic young man who is part of the group and exhibits unusual skills."
+    },
+    {
+      "name": "驴蛋蛋",
+      "frequency": 3,
+      "context": "A dog, intelligent and used for sending messages and swimming."
+    },
+    {
+      "name": "船工",
+      "frequency": 3,
+      "context": "Boatman, a mysterious figure who operates the boat in the cave."
+    },
+    {
+      "name": "河神",
+      "frequency": 2,
+      "context": "River god, a superstitious belief associated with the cave and the boatman."
+    },
+    {
+      "name": "尸洞",
+      "frequency": 3,
+      "context": "Corpse cave, a cave associated with death and decay."
+    },
+    {
+      "name": "尸气",
+      "frequency": 1,
+      "context": "Corpse energy, a mystical concept related to the dangers within the cave."
+    },
+    {
+      "name": "龙虱",
+      "frequency": 1,
+      "context": "Water beetle, initially mistaken for the cause of the shadow in the water."
+    },
+    {
+      "name": "尸蹩",
+      "frequency": 2,
+      "context": "Corpse beetle, a more ominous insect found in the cave, indicating the presence of a corpse accumulation area."
+    },
+    {
+      "name": "积尸地",
+      "frequency": 1,
+      "context": "Corpse accumulation area, a place with a large amount of decaying bodies."
+    }
+  ],
+  "relations": [
+    {
+      "source": "洛阳铲",
+      "target": "土夫子",
+      "type": "is_used_by"
+    },
+    {
+      "source": "血尸",
+      "target": "土丘",
+      "type": "located_in"
+    },
+    {
+      "source": "老烟头",
+      "target": "血尸",
+      "type": "warns_about"
+    },
+    {
+      "source": "独眼",
+      "target": "老烟头",
+      "type": "argues_with"
+    },
+    {
+      "name": "大胡子",
+      "target": "独眼",
+      "type": "is_father_of"
+    },
+    {
+      "name": "大胡子",
+      "target": "老烟头",
+      "type": "argues_with"
+    },
+    {
+      "name": "匣子炮",
+      "target": "土夫子",
+      "type": "is_owned_by"
+    },
+    {
+      "name": "土耗子",
+      "target": "盗洞",
+      "type": "used_to_extract_from"
+    },
+    {
+      "name": "断手",
+      "target": "土耗子",
+      "type": "is_attached_to"
+    },
+    {
+      "name": "断手",
+      "target": "二哥",
+      "type": "belongs_to"
+    },
+    {
+      "name": "古帛片",
+      "target": "二哥",
+      "type": "retrieved_from"
+    },
+    {
+      "name": "古帛片",
+      "target": "血尸",
+      "type": "encountered_near"
+    },
+    {
+      "name": "中毒",
+      "target": "三伢子",
+      "type": "affects"
+    },
+    {
+      "name": "战国帛书",
+      "target": "长沙",
+      "type": "originated_from"
+    },
+    {
+      "name": "战国帛书",
+      "target": "美国人",
+      "type": "tricked_away_by"
+    },
+    {
+      "name": "拓本",
+      "target": "战国帛书",
+      "type": "is_a_copy_of"
+    },
+    {
+      "name": "老痒",
+      "target": "金牙老头",
+      "type": "introduces"
+    },
+    {
+      "name": "手表",
+      "target": "老痒",
+      "type": "given_by"
+    },
+    {
+      "name": "金牙老头",
+      "target": "爷爷",
+      "type": "seeks_information_from"
+    },
+    {
+      "name": "爷爷",
+      "target": "南派",
+      "type": "belongs_to"
+    },
+    {
+      "name": "南派",
+      "target": "洛阳铲",
+      "type": "uses"
+    },
+    {
+      "name": "北派",
+      "target": "洛阳铲",
+      "type": "does_not_use"
+    },
+    {
+      "name": "南派",
+      "target": "淘沙",
+      "type": "synonymous_with"
+    },
+    {
+      "name": "笔记",
+      "target": "爷爷",
+      "type": "written_by"
+    },
+    {
+      "name": "狗王",
+      "target": "爷爷",
+      "type": "is_nickname_of"
+    },
+    {
+      "name": "三叔",
+      "target": " narrator",
+      "type": "contacts"
+    },
+    {
+      "name": "龙脊背",
+      "target": "好东西",
+      "type": "means"
+    },
+    {
+      "name": "字画",
+      "target": "帛书",
+      "type": "is_on"
+    },
+    {
+      "name": "字画",
+      "target": "地图",
+      "type": "represents"
+    },
+    {
+      "name": "三叔",
+      "target": "字画",
+      "type": "can_understand"
+    },
+    {
+      "name": "战国时期鲁国",
+      "target": "贵族",
+      "type": "ruled_by"
+    },
+    {
+      "name": "人牲",
+      "target": "面具",
+      "type": "associated_with"
+    },
+    {
+      "name": "瓜子庙",
+      "target": "山东",
+      "type": "is_in"
+    },
+    {
+      "name": "矿灯",
+      "target": "洞",
+      "type": "used_in"
+    },
+    {
+      "name": "盗洞",
+      "target": "古墓",
+      "type": "is_part_of"
+    },
+    {
+      "name": "水盗洞",
+      "target": "山",
+      "type": "located_in"
+    },
+    {
+      "name": "潘子",
+      "target": "老头子",
+      "type": "is_suspicious_of"
+    },
+    {
+      "name": "闷油瓶",
+      "target": "声音",
+      "type": "hears"
+    },
+    {
+      "name": "船工",
+      "target": "不见了",
+      "type": "disappears"
+    },
+    {
+      "name": "老头子",
+      "target": "不见了",
+      "type": "disappears"
+    },
+    {
+      "name": "尸气",
+      "target": "人",
+      "type": "is_lacking_on"
+    },
+    {
+      "name": "尸洞",
+      "target": "死人",
+      "type": "associated_with"
+    },
+    {
+      "name": "尸蹩",
+      "target": "腐肉",
+      "type": "eats"
+    },
+    {
+      "name": "尸蹩",
+      "target": "积尸地",
+      "type": "indicates_presence_of"
+    },
+    {
+      "name": "闷油瓶",
+      "target": "虫子",
+      "type": "identifies"
+    },
+    {
+      "name": "龙虱",
+      "target": "水",
+      "type": "inhabits"
+    },
+    {
+      "name": "尸蹩",
+      "target": "龙虱",
+      "type": "is_mistaken_for"
+    },
+    {
+      "name": "闷油瓶",
+      "target": "东西",
+      "type": "senses_approaching"
+    }
+  ],
+  "hierarchy": {
+    "main_topics": [
+      "Introduction to Tomb Robbing",
+      "Encounter with a Blood Corpse",
+      "Seeking Ancient Artifacts",
+      "The Mystery of the Warring States Silk Manuscript",
+      "Journey into a Dangerous Cave"
+    ],
+    "structure": "The document is structured into four chapters, each detailing a distinct part of the narrative. Chapter 1 introduces the setting and a dangerous encounter with a 'blood corpse'. Chapter 2 shifts to a later time, introducing the narrator and his involvement in the world of antique collecting and tomb robbing, driven by inquiries about a specific silk manuscript. Chapter 3 details the journey to a new location and the discovery of a cryptic map on the silk manuscript. Chapter 4 describes the perilous entry into a mysterious cave, highlighting supernatural elements and the presence of dangerous creatures."
+  }
+}

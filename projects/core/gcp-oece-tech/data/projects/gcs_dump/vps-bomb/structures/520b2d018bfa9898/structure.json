@@ -1,0 +1,339 @@
+{
+  "propositions": [
+    {
+      "id": "1",
+      "text": "平安朝生活记(女尊)",
+      "level": 1
+    },
+    {
+      "id": "2",
+      "text": "绪论",
+      "level": 2
+    },
+    {
+      "id": "3",
+      "text": "平安朝生活记",
+      "level": 2
+    },
+    {
+      "id": "3.1",
+      "text": "序幕",
+      "level": 3
+    },
+    {
+      "id": "4",
+      "text": "章节",
+      "level": 2
+    },
+    {
+      "id": "4.1",
+      "text": "章节一",
+      "level": 3
+    },
+    {
+      "id": "5",
+      "text": "尾声",
+      "level": 2
+    },
+    {
+      "id": "6",
+      "text": "附录",
+      "level": 2
+    },
+    {
+      "id": "6.1",
+      "text": "参考文献",
+      "level": 3
+    },
+    {
+      "id": "6.2",
+      "text": "引用",
+      "level": 3
+    },
+    {
+      "id": "6.2.1",
+      "text": "学术引用是至关重要的，它能支持你的论点并体现研究的严谨性。",
+      "level": 4
+    },
+    {
+      "id": "6.3",
+      "text": "脚注",
+      "level": 3
+    },
+    {
+      "id": "6.3.1",
+      "text": "脚注内容。",
+      "level": 4
+    },
+    {
+      "id": "7",
+      "text": "代码示例",
+      "level": 2
+    },
+    {
+      "id": "7.1",
+      "text": "def hello_world():",
+      "level": 3
+    },
+    {
+      "id": "7.1.1",
+      "text": "print(\"Hello, World!\")",
+      "level": 4
+    },
+    {
+      "id": "7.1.2",
+      "text": "hello_world()",
+      "level": 4
+    },
+    {
+      "id": "8",
+      "text": "列表",
+      "level": 2
+    },
+    {
+      "id": "8.1",
+      "text": "项目符号列表",
+      "level": 3
+    },
+    {
+      "id": "8.1.1",
+      "text": "第一项",
+      "level": 4
+    },
+    {
+      "id": "8.1.2",
+      "text": "第二项",
+      "level": 4
+    },
+    {
+      "id": "8.1.2.1",
+      "text": "子项 2.1",
+      "level": 5
+    },
+    {
+      "id": "8.1.2.2",
+      "text": "子项 2.2",
+      "level": 5
+    },
+    {
+      "id": "8.1.3",
+      "text": "第三项",
+      "level": 4
+    },
+    {
+      "id": "8.2",
+      "text": "数字列表",
+      "level": 3
+    },
+    {
+      "id": "8.2.1",
+      "text": "第一项",
+      "level": 4
+    },
+    {
+      "id": "8.2.2",
+      "text": "第二项",
+      "level": 4
+    },
+    {
+      "id": "8.2.2.1",
+      "text": "子项 2.1",
+      "level": 5
+    },
+    {
+      "id": "8.2.2.2",
+      "text": "子项 2.2",
+      "level": 5
+    },
+    {
+      "id": "8.2.3",
+      "text": "第三项...",
+      "level": 4
+    }
+  ],
+  "concepts": [
+    {
+      "name": "平安朝",
+      "frequency": 1,
+      "context": "Title and Section 3"
+    },
+    {
+      "name": "生活记",
+      "frequency": 1,
+      "context": "Title and Section 3"
+    },
+    {
+      "name": "女尊",
+      "frequency": 1,
+      "context": "Title"
+    },
+    {
+      "name": "绪论",
+      "frequency": 1,
+      "context": "Section 2"
+    },
+    {
+      "name": "序幕",
+      "frequency": 1,
+      "context": "Section 3.1"
+    },
+    {
+      "name": "章节",
+      "frequency": 1,
+      "context": "Section 4"
+    },
+    {
+      "name": "章节一",
+      "frequency": 1,
+      "context": "Section 4.1"
+    },
+    {
+      "name": "尾声",
+      "frequency": 1,
+      "context": "Section 5"
+    },
+    {
+      "name": "附录",
+      "frequency": 1,
+      "context": "Section 6"
+    },
+    {
+      "name": "参考文献",
+      "frequency": 1,
+      "context": "Section 6.1"
+    },
+    {
+      "name": "引用",
+      "frequency": 1,
+      "context": "Section 6.2"
+    },
+    {
+      "name": "学术引用",
+      "frequency": 1,
+      "context": "Quoted text"
+    },
+    {
+      "name": "论点",
+      "frequency": 1,
+      "context": "Quoted text"
+    },
+    {
+      "name": "严谨性",
+      "frequency": 1,
+      "context": "Quoted text"
+    },
+    {
+      "name": "脚注",
+      "frequency": 1,
+      "context": "Section 6.3"
+    },
+    {
+      "name": "代码示例",
+      "frequency": 1,
+      "context": "Section 7"
+    },
+    {
+      "name": "列表",
+      "frequency": 1,
+      "context": "Section 8"
+    },
+    {
+      "name": "项目符号列表",
+      "frequency": 1,
+      "context": "Section 8.1"
+    },
+    {
+      "name": "数字列表",
+      "frequency": 1,
+      "context": "Section 8.2"
+    }
+  ],
+  "relations": [
+    {
+      "source": "绪论",
+      "target": "平安朝生活记(女尊)",
+      "type": "part_of"
+    },
+    {
+      "source": "平安朝生活记",
+      "target": "平安朝生活记(女尊)",
+      "type": "part_of"
+    },
+    {
+      "source": "序幕",
+      "target": "平安朝生活记",
+      "type": "part_of"
+    },
+    {
+      "source": "章节",
+      "target": "平安朝生活记(女尊)",
+      "type": "part_of"
+    },
+    {
+      "source": "章节一",
+      "target": "章节",
+      "type": "part_of"
+    },
+    {
+      "source": "尾声",
+      "target": "平安朝生活记(女尊)",
+      "type": "part_of"
+    },
+    {
+      "source": "附录",
+      "target": "平安朝生活记(女尊)",
+      "type": "part_of"
+    },
+    {
+      "source": "参考文献",
+      "target": "附录",
+      "type": "part_of"
+    },
+    {
+      "source": "引用",
+      "target": "附录",
+      "type": "part_of"
+    },
+    {
+      "source": "脚注",
+      "target": "附录",
+      "type": "part_of"
+    },
+    {
+      "source": "学术引用",
+      "target": "论点",
+      "type": "supports"
+    },
+    {
+      "source": "学术引用",
+      "target": "严谨性",
+      "type": "demonstrates"
+    },
+    {
+      "source": "代码示例",
+      "target": "平安朝生活记(女尊)",
+      "type": "part_of"
+    },
+    {
+      "source": "列表",
+      "target": "平安朝生活记(女尊)",
+      "type": "part_of"
+    },
+    {
+      "source": "项目符号列表",
+      "target": "列表",
+      "type": "is_a"
+    },
+    {
+      "source": "数字列表",
+      "target": "列表",
+      "type": "is_a"
+    }
+  ],
+  "hierarchy": {
+    "main_topics": [
+      "平安朝生活记(女尊)"
+    ],
+    "structure": "Hierarchical structure with main sections and subsections, including specific content types like code and lists."
+  }
+}

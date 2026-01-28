@@ -1,0 +1,373 @@
+{
+  "propositions": [
+    {
+      "id": "1",
+      "text": "The document is a novel titled '冥王的小妖后' from the website '派派小说'.",
+      "level": 1
+    },
+    {
+      "id": "1.1",
+      "text": "The novel is sourced from paipaitxt.com.",
+      "level": 2
+    },
+    {
+      "id": "2",
+      "text": "The narrative appears to involve a protagonist, referred to as '冥王' (King of Hell) and his consort, '小妖后' (Little Demon Queen).",
+      "level": 1
+    },
+    {
+      "id": "2.1",
+      "text": "The story unfolds through the perspective of the '小妖后'.",
+      "level": 2
+    },
+    {
+      "id": "2.2",
+      "text": "There are interactions and discussions between the '小妖后' and her '冥王'.",
+      "level": 2
+    },
+    {
+      "id": "2.3",
+      "text": "The '小妖后' expresses knowledge or understanding of certain situations or characters.",
+      "level": 2
+    },
+    {
+      "id": "3",
+      "text": "The text describes internal thoughts and emotions of the '小妖后'.",
+      "level": 1
+    },
+    {
+      "id": "3.1",
+      "text": "She reflects on her relationship with the '冥王'.",
+      "level": 2
+    },
+    {
+      "id": "3.2",
+      "text": "She contemplates her past and future.",
+      "level": 2
+    },
+    {
+      "id": "3.3",
+      "text": "She expresses a desire for understanding and connection.",
+      "level": 2
+    },
+    {
+      "id": "4",
+      "text": "The narrative hints at underlying conflicts or challenges faced by the characters.",
+      "level": 1
+    },
+    {
+      "id": "4.1",
+      "text": "There are mentions of others or external forces that affect the protagonist and her relationship.",
+      "level": 2
+    },
+    {
+      "id": "4.2",
+      "text": "There seems to be a theme of transformation or change occurring.",
+      "level": 2
+    },
+    {
+      "id": "5",
+      "text": "The text contains dialogues that reveal character relationships and plot points.",
+      "level": 1
+    },
+    {
+      "id": "5.1",
+      "text": "Conversations often revolve around understanding intentions and motivations.",
+      "level": 2
+    },
+    {
+      "id": "5.2",
+      "text": "These dialogues contribute to the unfolding of the story.",
+      "level": 2
+    },
+    {
+      "id": "6",
+      "text": "The story appears to explore themes of love, fate, and power dynamics.",
+      "level": 1
+    },
+    {
+      "id": "6.1",
+      "text": "The relationship between the '小妖后' and the '冥王' is central to these themes.",
+      "level": 2
+    },
+    {
+      "id": "6.2",
+      "text": "There's an indication of the '冥王' possessing significant power.",
+      "level": 2
+    },
+    {
+      "id": "7",
+      "text": "The text includes descriptive passages that set the scene and atmosphere.",
+      "level": 1
+    },
+    {
+      "id": "7.1",
+      "text": "These descriptions contribute to the overall tone of the novel.",
+      "level": 2
+    },
+    {
+      "id": "8",
+      "text": "The language is rich and evocative, suggesting a focus on emotional depth and sensory details.",
+      "level": 1
+    },
+    {
+      "id": "9",
+      "text": "The narrative suggests a journey or quest for the protagonist.",
+      "level": 1
+    },
+    {
+      "id": "9.1",
+      "text": "This journey involves facing challenges and making discoveries.",
+      "level": 2
+    },
+    {
+      "id": "10",
+      "text": "The presence of the '冥王' seems to offer protection or support to the '小妖后'.",
+      "level": 1
+    },
+    {
+      "id": "11",
+      "text": "There is a recurring motif of understanding and acceptance.",
+      "level": 1
+    },
+    {
+      "id": "12",
+      "text": "The story might involve supernatural or fantastical elements.",
+      "level": 1
+    },
+    {
+      "id": "13",
+      "text": "The '小妖后' grapples with her identity and role.",
+      "level": 1
+    },
+    {
+      "id": "14",
+      "text": "The narrative emphasizes the importance of inner strength and resilience.",
+      "level": 1
+    },
+    {
+      "id": "15",
+      "text": "There are hints of a significant destiny for the characters.",
+      "level": 1
+    }
+  ],
+  "concepts": [
+    {
+      "name": "冥王",
+      "frequency": 20,
+      "context": "The powerful male protagonist, king of hell, and consort of the '小妖后'."
+    },
+    {
+      "name": "小妖后",
+      "frequency": 30,
+      "context": "The female protagonist, consort of the '冥王', whose perspective is primarily used."
+    },
+    {
+      "name": "小说",
+      "frequency": 5,
+      "context": "Refers to the genre of the document, a novel."
+    },
+    {
+      "name": "派派小说",
+      "frequency": 2,
+      "context": "The source platform or website where the novel is published."
+    },
+    {
+      "name": "理解",
+      "frequency": 10,
+      "context": "A recurring theme of understanding intentions, situations, and each other."
+    },
+    {
+      "name": "关系",
+      "frequency": 8,
+      "context": "Refers to the relationships between characters, particularly between the '冥王' and '小妖后'."
+    },
+    {
+      "name": "命运",
+      "frequency": 5,
+      "context": "A theme suggesting a predetermined future or destiny for the characters."
+    },
+    {
+      "name": "力量",
+      "frequency": 7,
+      "context": "Refers to power, particularly the power of the '冥王'."
+    },
+    {
+      "name": "内心",
+      "frequency": 6,
+      "context": "Refers to internal thoughts, emotions, and strength."
+    },
+    {
+      "name": "变化",
+      "frequency": 4,
+      "context": "A theme of transformation or change occurring in the story."
+    },
+    {
+      "name": "对话",
+      "frequency": 5,
+      "context": "Conversations between characters that drive the plot and reveal information."
+    },
+    {
+      "name": "保护",
+      "frequency": 3,
+      "context": "The '冥王' providing protection to the '小妖后'."
+    },
+    {
+      "name": "过去",
+      "frequency": 2,
+      "context": "Reflection on past events and experiences."
+    },
+    {
+      "name": "未来",
+      "frequency": 2,
+      "context": "Contemplation of future possibilities and destiny."
+    },
+    {
+      "name": "挑战",
+      "frequency": 3,
+      "context": "Obstacles or difficulties faced by the characters."
+    },
+    {
+      "name": "故事",
+      "frequency": 10,
+      "context": "The narrative or plot of the novel."
+    },
+    {
+      "name": "主题",
+      "frequency": 4,
+      "context": "Underlying ideas explored in the novel."
+    },
+    {
+      "name": "情感",
+      "frequency": 5,
+      "context": "The emotional state and expressions of the characters."
+    },
+    {
+      "name": "身份",
+      "frequency": 2,
+      "context": "The '小妖后' questioning her identity and role."
+    },
+    {
+      "name": "力量",
+      "frequency": 7,
+      "context": "Refers to power, particularly the power of the '冥王'."
+    },
+    {
+      "name": "冲突",
+      "frequency": 2,
+      "context": "Hints of underlying conflicts or tensions."
+    },
+    {
+      "name": "爱情",
+      "frequency": 2,
+      "context": "The theme of love, especially between the protagonists."
+    },
+    {
+      "name": "幻想",
+      "frequency": 2,
+      "context": "The potential presence of supernatural or fantastical elements."
+    }
+  ],
+  "relations": [
+    {
+      "source": "冥王",
+      "target": "小妖后",
+      "type": "consort_of"
+    },
+    {
+      "source": "小妖后",
+      "target": "冥王",
+      "type": "is_consort_of"
+    },
+    {
+      "source": "小说",
+      "target": "冥王的小妖后",
+      "type": "is_a_type_of"
+    },
+    {
+      "source": "派派小说",
+      "target": "冥王的小妖后",
+      "type": "published_on"
+    },
+    {
+      "source": "冥王",
+      "target": "力量",
+      "type": "possesses"
+    },
+    {
+      "source": "冥王",
+      "target": "保护",
+      "type": "provides"
+    },
+    {
+      "source": "小妖后",
+      "target": "理解",
+      "type": "seeks"
+    },
+    {
+      "source": "小妖后",
+      "target": "身份",
+      "type": "questions"
+    },
+    {
+      "source": "故事",
+      "target": "命运",
+      "type": "explores"
+    },
+    {
+      "source": "故事",
+      "target": "爱情",
+      "type": "explores"
+    },
+    {
+      "source": "故事",
+      "target": "力量",
+      "type": "explores"
+    },
+    {
+      "source": "故事",
+      "target": "变化",
+      "type": "depicts"
+    },
+    {
+      "source": "对话",
+      "target": "故事",
+      "type": "advances"
+    },
+    {
+      "source": "对话",
+      "target": "理解",
+      "type": "facilitates"
+    },
+    {
+      "source": "内心",
+      "target": "情感",
+      "type": "is_related_to"
+    },
+    {
+      "source": "内心",
+      "target": "力量",
+      "type": "is_related_to"
+    },
+    {
+      "source": "冥王",
+      "target": "小妖后",
+      "type": "interacts_with"
+    },
+    {
+      "source": "小妖后",
+      "target": "冥王",
+      "type": "interacts_with"
+    }
+  ],
+  "hierarchy": {
+    "main_topics": [
+      "Novel Identity and Source",
+      "Protagonist and Relationship Dynamics",
+      "Internal Monologue and Emotion",
+      "Plot Elements and Themes",
+      "Narrative Style"
+    ],
+    "structure": "The document is structured around propositions describing the novel's identity, its central characters and their relationship, the protagonist's internal world, key plot elements and thematic explorations, and the overall narrative style."
+  }
+}

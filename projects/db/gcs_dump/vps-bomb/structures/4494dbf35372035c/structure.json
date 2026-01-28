@@ -1,0 +1,494 @@
+{
+  "propositions": [
+    {
+      "id": "1",
+      "text": "《永夜》全集",
+      "level": 1
+    },
+    {
+      "id": "1.1",
+      "text": "卷一",
+      "level": 2
+    },
+    {
+      "id": "1.1.1",
+      "text": "第一章",
+      "level": 3
+    },
+    {
+      "id": "1.1.1.1",
+      "text": "这段文字出自《永夜》全集，它描绘了一个充满未知与神秘的世界。",
+      "level": 4
+    },
+    {
+      "id": "1.1.1.2",
+      "text": "作者通过细腻的笔触，勾勒出宏大的世界观和引人入胜的情节。",
+      "level": 4
+    },
+    {
+      "id": "1.1.2",
+      "text": "第二章",
+      "level": 3
+    },
+    {
+      "id": "1.1.2.1",
+      "text": "在这一章中，主人公踏上了寻找失落的知识的旅程。",
+      "level": 4
+    },
+    {
+      "id": "1.1.2.2",
+      "text": "沿途的风景，无论是诡异的森林还是古老的遗迹，都充满了奇幻色彩。",
+      "level": 4
+    },
+    {
+      "id": "1.1.3",
+      "text": "第三章",
+      "level": 3
+    },
+    {
+      "id": "1.1.3.1",
+      "text": "主人公遇到了形形色色的人物，他们有的给予帮助，有的则带来阻碍。",
+      "level": 4
+    },
+    {
+      "id": "1.1.3.2",
+      "text": "这段经历塑造了主人公的性格，也为后续的故事埋下了伏笔。",
+      "level": 4
+    },
+    {
+      "id": "1.2",
+      "text": "卷二",
+      "level": 2
+    },
+    {
+      "id": "1.2.1",
+      "text": "第一章",
+      "level": 3
+    },
+    {
+      "id": "1.2.1.1",
+      "text": "时间的齿轮继续转动，故事进入了新的篇章。",
+      "level": 4
+    },
+    {
+      "id": "1.2.1.2",
+      "text": "新的危机悄然而至，主人公必须面对更严峻的挑战。",
+      "level": 4
+    },
+    {
+      "id": "1.2.2",
+      "text": "第二章",
+      "level": 3
+    },
+    {
+      "id": "1.2.2.1",
+      "text": "情感的纠葛在这一章中变得更加复杂。",
+      "level": 4
+    },
+    {
+      "id": "1.2.2.2",
+      "text": "爱情、友情、亲情交织在一起，考验着主人公的决心。",
+      "level": 4
+    },
+    {
+      "id": "1.3",
+      "text": "卷三",
+      "level": 2
+    },
+    {
+      "id": "1.3.1",
+      "text": "第一章",
+      "level": 3
+    },
+    {
+      "id": "1.3.1.1",
+      "text": "高潮的到来，所有线索都将汇集。",
+      "level": 4
+    },
+    {
+      "id": "1.3.1.2",
+      "text": "主人公将在此刻做出决定性的选择，影响着整个世界的命运。",
+      "level": 4
+    },
+    {
+      "id": "2",
+      "text": "“这世间，永恒的黑暗亦是光明。”",
+      "level": 1
+    },
+    {
+      "id": "3",
+      "text": "“时间是一把双刃剑，它能治愈一切，也能摧毁一切。”",
+      "level": 1
+    }
+  ],
+  "concepts": [
+    {
+      "name": "《永夜》全集",
+      "frequency": 3,
+      "context": "The main title of the document and its content."
+    },
+    {
+      "name": "卷",
+      "frequency": 3,
+      "context": "Major divisions within the collection, e.g., 卷一, 卷二, 卷三."
+    },
+    {
+      "name": "章",
+      "frequency": 6,
+      "context": "Subdivisions within each卷, e.g., 第一章, 第二章, 第三章."
+    },
+    {
+      "name": "作者",
+      "frequency": 1,
+      "context": "Refers to the creator of the work 《永夜》."
+    },
+    {
+      "name": "世界观",
+      "frequency": 1,
+      "context": "The author's portrayal of the fictional universe."
+    },
+    {
+      "name": "情节",
+      "frequency": 1,
+      "context": "The narrative events and storyline of the work."
+    },
+    {
+      "name": "主人公",
+      "frequency": 5,
+      "context": "The central character of the story."
+    },
+    {
+      "name": "知识",
+      "frequency": 1,
+      "context": "Something the protagonist is searching for."
+    },
+    {
+      "name": "旅程",
+      "frequency": 1,
+      "context": "The protagonist's quest."
+    },
+    {
+      "name": "风景",
+      "frequency": 1,
+      "context": "The settings and environments encountered."
+    },
+    {
+      "name": "森林",
+      "frequency": 1,
+      "context": "A type of landscape."
+    },
+    {
+      "name": "遗迹",
+      "frequency": 1,
+      "context": "Ancient remnants within the story's setting."
+    },
+    {
+      "name": "人物",
+      "frequency": 1,
+      "context": "Other characters encountered by the protagonist."
+    },
+    {
+      "name": "帮助",
+      "frequency": 1,
+      "context": "Assistance provided by characters."
+    },
+    {
+      "name": "阻碍",
+      "frequency": 1,
+      "context": "Obstacles or hindrances."
+    },
+    {
+      "name": "经历",
+      "frequency": 1,
+      "context": "Events that shape the protagonist."
+    },
+    {
+      "name": "性格",
+      "frequency": 1,
+      "context": "The protagonist's personality traits."
+    },
+    {
+      "name": "伏笔",
+      "frequency": 1,
+      "context": " Foreshadowing for future events."
+    },
+    {
+      "name": "时间",
+      "frequency": 2,
+      "context": "A concept related to the progression of events and a philosophical quote."
+    },
+    {
+      "name": "危机",
+      "frequency": 1,
+      "context": "A critical or dangerous situation."
+    },
+    {
+      "name": "挑战",
+      "frequency": 1,
+      "context": "Difficulties the protagonist must overcome."
+    },
+    {
+      "name": "情感",
+      "frequency": 1,
+      "context": "The emotional aspects of the story."
+    },
+    {
+      "name": "爱情",
+      "frequency": 1,
+      "context": "A type of emotion or relationship."
+    },
+    {
+      "name": "友情",
+      "frequency": 1,
+      "context": "A type of emotion or relationship."
+    },
+    {
+      "name": "亲情",
+      "frequency": 1,
+      "context": "A type of emotion or relationship."
+    },
+    {
+      "name": "决心",
+      "frequency": 1,
+      "context": "The protagonist's resolve."
+    },
+    {
+      "name": "高潮",
+      "frequency": 1,
+      "context": "The peak of the story's tension."
+    },
+    {
+      "name": "线索",
+      "frequency": 1,
+      "context": "Elements that connect different parts of the plot."
+    },
+    {
+      "name": "选择",
+      "frequency": 1,
+      "context": "Decisions made by the protagonist."
+    },
+    {
+      "name": "命运",
+      "frequency": 1,
+      "context": "The predetermined course of events."
+    },
+    {
+      "name": "黑暗",
+      "frequency": 1,
+      "context": "A metaphorical or literal state mentioned in a quote."
+    },
+    {
+      "name": "光明",
+      "frequency": 1,
+      "context": "A metaphorical or literal state mentioned in a quote."
+    },
+    {
+      "name": "治愈",
+      "frequency": 1,
+      "context": "A property of time, as per a quote."
+    },
+    {
+      "name": "摧毁",
+      "frequency": 1,
+      "context": "A property of time, as per a quote."
+    }
+  ],
+  "relations": [
+    {
+      "source": "卷一",
+      "target": "《永夜》全集",
+      "type": "part_of"
+    },
+    {
+      "source": "卷二",
+      "target": "《永夜》全集",
+      "type": "part_of"
+    },
+    {
+      "source": "卷三",
+      "target": "《永夜》全集",
+      "type": "part_of"
+    },
+    {
+      "source": "第一章",
+      "target": "卷一",
+      "type": "part_of"
+    },
+    {
+      "source": "第二章",
+      "target": "卷一",
+      "type": "part_of"
+    },
+    {
+      "source": "第三章",
+      "target": "卷一",
+      "type": "part_of"
+    },
+    {
+      "source": "第一章",
+      "target": "卷二",
+      "type": "part_of"
+    },
+    {
+      "source": "第二章",
+      "target": "卷二",
+      "type": "part_of"
+    },
+    {
+      "source": "第一章",
+      "target": "卷三",
+      "type": "part_of"
+    },
+    {
+      "source": "作者",
+      "target": "《永夜》全集",
+      "type": "creates"
+    },
+    {
+      "source": "世界观",
+      "target": "《永夜》全集",
+      "type": "described_in"
+    },
+    {
+      "source": "情节",
+      "target": "《永夜》全集",
+      "type": "described_in"
+    },
+    {
+      "source": "主人公",
+      "target": "《永夜》全集",
+      "type": "protagonist_of"
+    },
+    {
+      "source": "知识",
+      "target": "主人公",
+      "type": "sought_by"
+    },
+    {
+      "source": "旅程",
+      "target": "主人公",
+      "type": "undertaken_by"
+    },
+    {
+      "source": "风景",
+      "target": "旅程",
+      "type": "part_of"
+    },
+    {
+      "source": "人物",
+      "target": "主人公",
+      "type": "interacts_with"
+    },
+    {
+      "source": "帮助",
+      "target": "人物",
+      "type": "provided_by"
+    },
+    {
+      "source": "阻碍",
+      "target": "人物",
+      "type": "provided_by"
+    },
+    {
+      "source": "经历",
+      "target": "主人公",
+      "type": "shapes"
+    },
+    {
+      "source": "性格",
+      "target": "主人公",
+      "type": "developed_by"
+    },
+    {
+      "source": "伏笔",
+      "target": "情节",
+      "type": "contributes_to"
+    },
+    {
+      "source": "时间",
+      "target": "故事",
+      "type": "progresses"
+    },
+    {
+      "source": "危机",
+      "target": "故事",
+      "type": "affects"
+    },
+    {
+      "source": "挑战",
+      "target": "主人公",
+      "type": "faces"
+    },
+    {
+      "source": "情感",
+      "target": "故事",
+      "type": "becomes_complex"
+    },
+    {
+      "source": "爱情",
+      "target": "情感",
+      "type": "is_a"
+    },
+    {
+      "source": "友情",
+      "target": "情感",
+      "type": "is_a"
+    },
+    {
+      "source": "亲情",
+      "target": "情感",
+      "type": "is_a"
+    },
+    {
+      "source": "决心",
+      "target": "主人公",
+      "type": "tested_by"
+    },
+    {
+      "source": "高潮",
+      "target": "故事",
+      "type": "approaches"
+    },
+    {
+      "source": "线索",
+      "target": "高潮",
+      "type": "converge_at"
+    },
+    {
+      "source": "选择",
+      "target": "主人公",
+      "type": "makes"
+    },
+    {
+      "source": "命运",
+      "target": "世界",
+      "type": "influenced_by"
+    },
+    {
+      "source": "黑暗",
+      "target": "光明",
+      "type": "is_a_form_of"
+    },
+    {
+      "source": "时间",
+      "target": "治愈",
+      "type": "can"
+    },
+    {
+      "source": "时间",
+      "target": "摧毁",
+      "type": "can"
+    }
+  ],
+  "hierarchy": {
+    "main_topics": [
+      "《永夜》全集",
+      "卷一",
+      "卷二",
+      "卷三",
+      "附录",
+      "引言/哲学思考"
+    ],
+    "structure": "The document is structured as a collection titled '《永夜》全集', divided into '卷' (volumes), which are further subdivided into '章' (chapters). There is also an '附录' (appendix) and philosophical quotes interspersed."
+  }
+}

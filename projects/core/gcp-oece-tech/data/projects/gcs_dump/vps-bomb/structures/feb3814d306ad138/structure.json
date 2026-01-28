@@ -1,0 +1,131 @@
+{
+  "propositions": [
+    {
+      "id": "1",
+      "text": "当玄学大佬穿成入狱女配",
+      "level": 1
+    },
+    {
+      "id": "1.1",
+      "text": "陆晚晚，陆家失散多年的亲女儿",
+      "level": 2
+    },
+    {
+      "id": "1.2",
+      "text": "18岁那年，和陆家现有的女儿陆晚晚的身份互换",
+      "level": 2
+    },
+    {
+      "id": "1.3",
+      "text": "陆晚晚，成了人人唾弃的恶毒女配",
+      "level": 2
+    },
+    {
+      "id": "1.4",
+      "text": "陆晚欣，成了备受瞩目的陆家小姐",
+      "level": 2
+    },
+    {
+      "id": "1.5",
+      "text": "陆晚晚，她真的恨透了陆晚欣",
+      "level": 2
+    },
+    {
+      "id": "1.6",
+      "text": "陆晚欣，她真的恨透了陆晚晚",
+      "level": 2
+    }
+  ],
+  "concepts": [
+    {
+      "name": "玄学大佬",
+      "frequency": 1,
+      "context": "The protagonist is described as a '玄学大佬' (metaphysical master)."
+    },
+    {
+      "name": "入狱女配",
+      "frequency": 1,
+      "context": "The protagonist transmigrates into the role of a '入狱女配' (imprisoned female supporting character)."
+    },
+    {
+      "name": "陆晚晚",
+      "frequency": 3,
+      "context": "Mentioned as the lost daughter of the Lu family, who becomes the '恶毒女配' and hates '陆晚欣'."
+    },
+    {
+      "name": "陆家",
+      "frequency": 3,
+      "context": "The family from which '陆晚晚' is lost and where '陆晚欣' is the prominent daughter."
+    },
+    {
+      "name": "身份互换",
+      "frequency": 1,
+      "context": "Describes the event where '陆晚晚' and the existing daughter '陆晚晚' swap identities."
+    },
+    {
+      "name": "恶毒女配",
+      "frequency": 1,
+      "context": "The role '陆晚晚' takes on after the identity swap."
+    },
+    {
+      "name": "陆晚欣",
+      "frequency": 28,
+      "context": "Described as the existing daughter of the '陆家', who becomes the prominent '陆家小姐' and is hated by '陆晚晚'."
+    },
+    {
+      "name": "陆家小姐",
+      "frequency": 1,
+      "context": "The prominent position '陆晚欣' holds in the '陆家'."
+    },
+    {
+      "name": "恨",
+      "frequency": 28,
+      "context": "The emotion expressed by '陆晚晚' towards '陆晚欣' and vice-versa, with a significant repetition for '陆晚欣' hating '陆晚晚'."
+    }
+  ],
+  "relations": [
+    {
+      "source": "玄学大佬",
+      "target": "入狱女配",
+      "type": "is_a"
+    },
+    {
+      "source": "陆晚晚",
+      "target": "陆家",
+      "type": "part_of"
+    },
+    {
+      "source": "陆晚晚",
+      "target": "身份互换",
+      "type": "undergoes"
+    },
+    {
+      "source": "陆晚晚",
+      "target": "恶毒女配",
+      "type": "becomes"
+    },
+    {
+      "source": "陆晚欣",
+      "target": "陆家小姐",
+      "type": "becomes"
+    },
+    {
+      "source": "陆晚晚",
+      "target": "陆晚欣",
+      "type": "hates"
+    },
+    {
+      "source": "陆晚欣",
+      "target": "陆晚晚",
+      "type": "hates"
+    }
+  ],
+  "hierarchy": {
+    "main_topics": [
+      "Title",
+      "Prologue",
+      "Characters and Conflict"
+    ],
+    "structure": "The document starts with a title, followed by a 'Prologue' (楔子). Within the prologue, it introduces the main characters, the core conflict of identity swap, and the resulting animosity between them."
+  }
+}

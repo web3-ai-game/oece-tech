@@ -1,0 +1,362 @@
+{
+  "propositions": [
+    {
+      "id": "1",
+      "text": "The story is titled \"死亡通知单之宿命\".",
+      "level": 1
+    },
+    {
+      "id": "1.1",
+      "text": "The author is Zhou Haohui.",
+      "level": 2
+    },
+    {
+      "id": "2",
+      "text": "The '引子' (Prologue) describes a meeting between a younger person and an older, monstrous figure.",
+      "level": 1
+    },
+    {
+      "id": "2.1",
+      "text": "The meeting takes place in a foul-smelling, garbage-filled area under a bridge.",
+      "level": 2
+    },
+    {
+      "id": "2.1.1",
+      "text": "This location is chosen because they don't want to be disturbed.",
+      "level": 3
+    },
+    {
+      "id": "2.2",
+      "text": "The atmosphere of this meeting is different from previous ones.",
+      "level": 2
+    },
+    {
+      "id": "2.2.1",
+      "text": "The younger person is overly excited.",
+      "level": 3
+    },
+    {
+      "id": "2.2.2",
+      "text": "The older person tries to calm the younger person down.",
+      "level": 3
+    },
+    {
+      "id": "2.3",
+      "text": "The older figure has a monstrous, disfigured face.",
+      "level": 2
+    },
+    {
+      "id": "2.4",
+      "text": "The younger person asks about their next meeting.",
+      "level": 2
+    },
+    {
+      "id": "2.4.1",
+      "text": "The older figure states there will be no next meeting.",
+      "level": 3
+    },
+    {
+      "id": "2.5",
+      "text": "The older figure tells the younger person they are strong enough and no longer need guidance.",
+      "level": 2
+    },
+    {
+      "id": "2.6",
+      "text": "The younger person expresses uncertainty about the path ahead.",
+      "level": 2
+    },
+    {
+      "id": "2.7",
+      "text": "The older figure reveals that the younger person's destiny was set eighteen years prior.",
+      "level": 2
+    },
+    {
+      "id": "2.8",
+      "text": "The older figure then leaves, his shadow stretching out, conveying loneliness and sorrow.",
+      "level": 2
+    },
+    {
+      "id": "3",
+      "text": "A scene is described on October 26, 2002, at 9:25 AM at the site of the Bifang Garden Hotel on Xingcheng Road.",
+      "level": 1
+    },
+    {
+      "id": "3.1",
+      "text": "It is an explosion site with a long cordon.",
+      "level": 2
+    },
+    {
+      "id": "3.1.1",
+      "text": "Onlookers are kept outside the cordon, craning their necks.",
+      "level": 3
+    },
+    {
+      "id": "3.2",
+      "text": "The center of the cordon is a ruin.",
+      "level": 2
+    },
+    {
+      "id": "3.2.1",
+      "text": "The air smells of gunpowder and death.",
+      "level": 3
+    },
+    {
+      "id": "3.3",
+      "text": "Firefighters are clearing debris.",
+      "level": 2
+    },
+    {
+      "id": "3.4",
+      "text": "Men in white, identified as forensic doctors from the provincial police, are collecting items.",
+      "level": 2
+    },
+    {
+      "id": "3.4.1",
+      "text": "These items are human remains, collected in large black plastic bags.",
+      "level": 3
+    },
+    {
+      "id": "3.5",
+      "text": "The onlookers react with murmurs when something is found.",
+      "level": 2
+    },
+    {
+      "id": "3.6",
+      "text": "The younger person, referred to as '年轻人', is observing the scene from a high vantage point in a nearby office building using binoculars.",
+      "level": 2
+    },
+    {
+      "id": "3.6.1",
+      "text": "He mutters '老师...' (Teacher...).",
+      "level": 3
+    },
+    {
+      "id": "3.6.2",
+      "text": "His expression is complex, showing sadness, reluctance, and deep confusion.",
+      "level": 3
+    },
+    {
+      "id": "3.7",
+      "text": "He ponders the mysterious questions that have troubled him for years.",
+      "level": 2
+    },
+    {
+      "id": "3.7.1",
+      "text": "He questions his own origins ('我？我从哪里来？').",
+      "level": 3
+    },
+    {
+      "id": "3.7.2",
+      "text": "He believes only his teacher can answer these questions.",
+      "level": 3
+    },
+    {
+      "id": "3.8",
+      "text": "He finds solace in the teacher's words: 'You will definitely keep going.'",
+      "level": 2
+    },
+    {
+      "id": "3.8.1",
+      "text": "He resolves to keep going.",
+      "level": 3
+    },
+    {
+      "id": "4",
+      "text": "A scene is described on the same day at 3:17 PM at the five-star Wanfeng Hotel.",
+      "level": 1
+    },
+    {
+      "id": "4.1",
+      "text": "The hotel is located in the most prosperous area of the provincial city and has top-notch decor.",
+      "level": 2
+    },
+    {
+      "id": "4.2",
+      "text": "The suite is on the top floor, offering an unobstructed view of the city.",
+      "level": 2
+    },
+    {
+      "id": "4.3",
+      "text": "The suite is expensive, costing over a thousand yuan per day even in the off-season.",
+      "level": 2
+    },
+    {
+      "id": "4.4",
+      "text": "Wu Yinwu, an almost sixty-year-old man, is in the suite.",
+      "level": 2
+    },
+    {
+      "id": "4.4.1",
+      "text": "This is his first time in such a high-class place.",
+      "level": 3
+    },
+    {
+      "id": "4.4.2",
+      "text": "He feels overwhelmed and sits stiffly on the sofa.",
+      "level": 3
+    },
+    {
+      "id": "4.5",
+      "text": "Three young people are also in the suite, exhibiting a contrasting demeanor.",
+      "level": 2
+    },
+    {
+      "id": "4.5.1",
+      "text": "They are not reserved and roam around, fiddling with expensive items.",
+      "level": 3
+    },
+    {
+      "id": "4.6",
+      "text": "These three young people consist of two boys and one girl.",
+      "level": 2
+    },
+    {
+      "id": "4.6.1",
+      "text": "Their attire is eccentric, suggesting they are 'delinquents' among their peers.",
+      "level": 3
+    },
+    {
+      "id": "4.6.2",
+      "text": "They are actually only sixteen or seventeen years old.",
+      "level": 3
+    },
+    {
+      "id": "4.7",
+      "text": "One of the boys wears a large yellow earring.",
+      "level": 2
+    },
+    {
+      "id": "4.7.1",
+      "text": "He throws himself onto a sofa, causing the elder man to jolt.",
+      "level": 3
+    }
+  ],
+  "concepts": [
+    {
+      "name": "死亡通知单之宿命",
+      "frequency": 1,
+      "context": "Title of the document."
+    },
+    {
+      "name": "周浩晖",
+      "frequency": 1,
+      "context": "Author of the document."
+    },
+    {
+      "name": "引子",
+      "frequency": 1,
+      "context": "Section title for the prologue."
+    },
+    {
+      "name": "年轻人",
+      "frequency": 5,
+      "context": "Refers to the protagonist, observed in various settings."
+    },
+    {
+      "name": "怪物",
+      "frequency": 3,
+      "context": "Refers to the older, disfigured figure met in the prologue."
+    },
+    {
+      "name": "宿命",
+      "frequency": 2,
+      "context": "Fate or destiny, central theme mentioned for the protagonist."
+    },
+    {
+      "name": "老师",
+      "frequency": 3,
+      "context": "Referred to by the protagonist, implying a guiding figure."
+    },
+    {
+      "name": "爆炸现场",
+      "frequency": 1,
+      "context": "Described location on October 26, 2002."
+    },
+    {
+      "name": "法医",
+      "frequency": 1,
+      "context": "Professionals collecting human remains at the explosion site."
+    },
+    {
+      "name": "人体遗骸",
+      "frequency": 1,
+      "context": "Human remains found at the explosion site."
+    },
+    {
+      "name": "迷茫",
+      "frequency": 2,
+      "context": "The protagonist's feeling of confusion and uncertainty."
+    },
+    {
+      "name": "吴寅午",
+      "frequency": 1,
+      "context": "An older man in a high-class hotel suite."
+    },
+    {
+      "name": "高档场所",
+      "frequency": 2,
+      "context": "Describes luxurious settings like the hotel suite."
+    },
+    {
+      "name": "年轻人",
+      "frequency": 3,
+      "context": "Used to describe the three young individuals in the hotel suite."
+    }
+  ],
+  "relations": [
+    {
+      "source": "死亡通知单之宿命",
+      "target": "周浩晖",
+      "type": "authored_by"
+    },
+    {
+      "source": "年轻人",
+      "target": "怪物",
+      "type": "meets"
+    },
+    {
+      "source": "年轻人",
+      "target": "宿命",
+      "type": "is_subject_to"
+    },
+    {
+      "source": "年轻人",
+      "target": "老师",
+      "type": "seeks_guidance_from"
+    },
+    {
+      "source": "年轻人",
+      "target": "迷茫",
+      "type": "experiences"
+    },
+    {
+      "source": "爆炸现场",
+      "target": "法医",
+      "type": "involves"
+    },
+    {
+      "source": "法医",
+      "target": "人体遗骸",
+      "type": "collects"
+    },
+    {
+      "source": "吴寅午",
+      "target": "高档场所",
+      "type": "is_in"
+    },
+    {
+      "source": "年轻人",
+      "target": "高档场所",
+      "type": "is_in"
+    }
+  ],
+  "hierarchy": {
+    "main_topics": [
+      "Title and Author",
+      "Prologue (Introduction)",
+      "Explosion Site Investigation",
+      "Hotel Suite Encounter"
+    ],
+    "structure": "The document begins with a title and author, followed by a prologue that introduces key characters and themes. It then transitions to a scene describing a crime investigation, and finally to a scene in a luxurious setting with different characters."
+  }
+}

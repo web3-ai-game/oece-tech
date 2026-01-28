@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "object": "page",
+    "id": "2b291acc-4dd5-813e-8a8d-dde5b13ec3bb",
+    "created_time": "2025-11-21T16:08:00.000Z",
+    "last_edited_time": "2025-11-21T16:08:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "269d872b-594c-81d1-9fe1-00029c482d4b"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "269d872b-594c-81d1-9fe1-00029c482d4b"
+    },
+    "cover": null,
+    "icon": null,
+    "parent": {
+      "type": "database_id",
+      "database_id": "2b291acc-4dd5-8117-ba88-c9145b0025c8"
+    },
+    "archived": false,
+    "in_trash": false,
+    "is_locked": false,
+    "properties": {
+      "Amount": {
+        "id": "Md%5BK",
+        "type": "number",
+        "number": 3500
+      },
+      "Income Item": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Salary",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Salary",
+            "href": null
+          }
+        ]
+      }
+    },
+    "url": "https://www.notion.so/Salary-2b291acc4dd5813e8a8ddde5b13ec3bb",
+    "public_url": null,
+    "request_id": "e6329f8d-0ca6-45a5-ba73-5bc48d8717d7"
+  },
+  "blocks": [],
+  "fetched_at": "2025-11-26T13:32:12.799Z"
+}

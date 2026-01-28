@@ -1,0 +1,101 @@
+{
+  "propositions": [
+    {
+      "id": "1",
+      "text": "The narrative centers on the life and struggles of a woman in a harsh, oppressive environment",
+      "level": 1
+    },
+    {
+      "id": "1.1",
+      "text": "The woman faces societal and personal challenges, including servitude and emotional turmoil",
+      "level": 2
+    },
+    {
+      "id": "1.2",
+      "text": "Her interactions with other characters reveal themes of power, control, and resistance",
+      "level": 2
+    },
+    {
+      "id": "2",
+      "text": "The setting is a bleak, desolate landscape symbolizing isolation and hardship",
+      "level": 1
+    },
+    {
+      "id": "2.1",
+      "text": "Environmental descriptions emphasize desolation and the struggle for survival",
+      "level": 2
+    },
+    {
+      "id": "3",
+      "text": "Emotional and psychological states of characters drive the narrative",
+      "level": 1
+    },
+    {
+      "id": "3.1",
+      "text": "Feelings of despair, longing, and defiance shape character decisions and interactions",
+      "level": 2
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Oppression",
+      "frequency": 15,
+      "context": "Recurring theme of societal and personal control over the protagonist"
+    },
+    {
+      "name": "Isolation",
+      "frequency": 10,
+      "context": "Physical and emotional separation from others in a harsh environment"
+    },
+    {
+      "name": "Resistance",
+      "frequency": 8,
+      "context": "Protagonist's subtle defiance against oppressive forces"
+    },
+    {
+      "name": "Despair",
+      "frequency": 7,
+      "context": "Emotional state reflecting hopelessness and suffering"
+    },
+    {
+      "name": "Power",
+      "frequency": 6,
+      "context": "Dynamics of control and dominance in interpersonal relationships"
+    }
+  ],
+  "relations": [
+    {
+      "source": "Oppression",
+      "target": "Resistance",
+      "type": "implies"
+    },
+    {
+      "source": "Isolation",
+      "target": "Despair",
+      "type": "causes"
+    },
+    {
+      "source": "Power",
+      "target": "Oppression",
+      "type": "part_of"
+    },
+    {
+      "source": "Resistance",
+      "target": "Power",
+      "type": "challenges"
+    },
+    {
+      "source": "Despair",
+      "target": "Isolation",
+      "type": "reinforces"
+    }
+  ],
+  "hierarchy": {
+    "main_topics": [
+      "Protagonist's Struggle",
+      "Environmental Hardship",
+      "Emotional Conflict"
+    ],
+    "structure": "The document is a narrative with a focus on a central female character, structured around her personal and societal challenges, set in a bleak environment, with recurring emotional and psychological themes."
+  }
+}

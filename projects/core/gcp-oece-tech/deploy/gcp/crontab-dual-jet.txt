@@ -1,0 +1,23 @@
+# 🔥 雙群聊噴射系統 - Crontab 配置
+# 每小時執行一次大噴射
+
+# 格式: 分 時 日 月 星期 命令
+
+# 每小時的第0分鐘執行 (00:00, 01:00, 02:00...)
+0 * * * * cd /home/svs-main-key/GCP && /usr/bin/node dual-chat-jet-system.js >> logs/cron-dual-jet.log 2>&1
+
+# 每天凌晨4點清理日誌（保留最近7天）
+0 4 * * * find /home/svs-main-key/GCP/logs -name "*.log" -mtime +7 -delete
+
+# 每天早上8點生成統計報告
+0 8 * * * cd /home/svs-main-key/GCP && /usr/bin/node dual-chat-jet-system.js --report >> logs/daily-report.log 2>&1
+
+# 監控系統資源（每15分鐘）
+*/15 * * * * /home/svs-main-key/GCP/monitor.sh >> logs/monitor.log 2>&1
+
+# ===== 安裝說明 =====
+# 1. 查看當前crontab: crontab -l
+# 2. 編輯crontab: crontab -e
+# 3. 導入此配置: crontab crontab-dual-jet.txt
+# 4. 驗證: crontab -l
+# 5. 查看日誌: tail -f logs/cron-dual-jet.log

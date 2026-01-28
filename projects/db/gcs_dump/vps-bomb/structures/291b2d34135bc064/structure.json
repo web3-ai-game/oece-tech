@@ -1,0 +1,211 @@
+{
+  "propositions": [
+    {
+      "id": "1",
+      "text": "Novel \"The Sky of History\" tells a story of revolution and growth.",
+      "level": 1
+    },
+    {
+      "id": "2",
+      "text": "Liang Daya is a loyal apprentice who faces forced marriage.",
+      "level": 2
+    },
+    {
+      "id": "3",
+      "text": "Han Qiuyun, a cultivated woman, despises Liang Daya.",
+      "level": 2
+    },
+    {
+      "id": "4",
+      "text": "Blue Bridge Town has a unique and liberal local custom.",
+      "level": 2
+    },
+    {
+      "id": "5",
+      "text": "The Japanese invasion disrupts life and forces difficult choices.",
+      "level": 2
+    },
+    {
+      "id": "6",
+      "text": "Han Qiuyun attempts suicide to avoid marriage.",
+      "level": 3
+    },
+    {
+      "id": "7",
+      "text": "Liang Daya is skilled in combat and protected by his patron.",
+      "level": 3
+    },
+    {
+      "id": "8",
+      "text": "Han Qiuyun is caught between undesirable marriage and foreign invasion.",
+      "level": 3
+    },
+    {
+      "id": "9",
+      "text": "Chen Mohan and Zhu Yidao join Liang Daya and Han Qiuyun.",
+      "level": 3
+    },
+    {
+      "id": "10",
+      "text": "The group decides to seek the Eighth Route Army in the Outu Mountains.",
+      "level": 3
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Liang Daya",
+      "frequency": 12,
+      "context": "Protagonist, apprentice, forced marriage"
+    },
+    {
+      "name": "Han Qiuyun",
+      "frequency": 12,
+      "context": "Female lead, despises Liang Daya, suicide attempt"
+    },
+    {
+      "name": "Blue Bridge Town",
+      "frequency": 7,
+      "context": "Setting, liberal local customs"
+    },
+    {
+      "name": "Japanese invasion",
+      "frequency": 6,
+      "context": "Historical event, threat"
+    },
+    {
+      "name": "Zhu Erye",
+      "frequency": 5,
+      "context": "Liang Daya's patron, wealthy"
+    },
+    {
+      "name": "Chen Mohan",
+      "frequency": 5,
+      "context": "Character, student, joined resistance"
+    },
+    {
+      "name": "Outu Mountains",
+      "frequency": 4,
+      "context": "Location, base for Eighth Route Army"
+    },
+    {
+      "name": "Eighth Route Army",
+      "frequency": 3,
+      "context": "Military force, resistance"
+    },
+    {
+      "name": "Mao Dun Literature Prize",
+      "frequency": 1,
+      "context": "Award for the novel"
+    },
+    {
+      "name": "Imperial Japanese Army",
+      "frequency": 4,
+      "context": "Antagonists"
+    },
+    {
+      "name": "Suicide attempt",
+      "frequency": 3,
+      "context": "Han Qiuyun's action"
+    },
+    {
+      "name": "Local customs",
+      "frequency": 2,
+      "context": "Blue Bridge Town's social norms"
+    },
+    {
+      "name": "Forced marriage",
+      "frequency": 2,
+      "context": "Conflict for Han Qiuyun"
+    },
+    {
+      "name": "Rural life",
+      "frequency": 2,
+      "context": "Setting details"
+    },
+    {
+      "name": "Resistance",
+      "frequency": 2,
+      "context": "Response to invasion"
+    }
+  ],
+  "relations": [
+    {
+      "source": "Liang Daya",
+      "target": "Han Qiuyun",
+      "type": "arranged marriage to"
+    },
+    {
+      "source": "Han Qiuyun",
+      "target": "Liang Daya",
+      "type": "despises"
+    },
+    {
+      "source": "Liang Daya",
+      "target": "Zhu Erye",
+      "type": "apprentice of"
+    },
+    {
+      "source": "Zhu Erye",
+      "target": "Han Qiuyun",
+      "type": "wants Liang Daya to marry"
+    },
+    {
+      "source": "Han Qiuyun",
+      "target": "Japanese invasion",
+      "type": "fears"
+    },
+    {
+      "source": "Liang Daya",
+      "target": "Japanese invasion",
+      "type": "fights against"
+    },
+    {
+      "source": "Chen Mohan",
+      "target": "Eighth Route Army",
+      "type": "seeks"
+    },
+    {
+      "source": "Liang Daya",
+      "target": "Chen Mohan",
+      "type": "joins forces with"
+    },
+    {
+      "source": "Han Qiuyun",
+      "target": "Chen Mohan",
+      "type": "joins forces with"
+    },
+    {
+      "source": "Liang Daya",
+      "target": "Outu Mountains",
+      "type": "heads towards"
+    },
+    {
+      "source": "Han Qiuyun",
+      "target": "Outu Mountains",
+      "type": "heads towards"
+    },
+    {
+      "source": "Chen Mohan",
+      "target": "Outu Mountains",
+      "type": "heads towards"
+    },
+    {
+      "source": "Zhu Yidao",
+      "target": "Liang Daya",
+      "type": "friend of"
+    },
+    {
+      "source": "Zhu Yidao",
+      "target": "Outu Mountains",
+      "type": "heads towards"
+    }
+  ],
+  "hierarchy": {
+    "main_topics": [
+      "The Novel \"The Sky of History\"",
+      "Characters and Conflicts",
+      "The Japanese Invasion and Resistance"
+    ],
+    "structure": "The document outlines the novel's premise and awards, then delves into Chapter 1, focusing on characters like Liang Daya and Han Qiuyun, their personal conflicts and the unique local customs of Blue Bridge Town. It details Han Qiuyun's suicide attempt and the ensuing Japanese invasion, leading to the characters' flight and decision to join the Eighth Route Army in the Outu Mountains."
+  }
+}

@@ -1,0 +1,314 @@
+{
+  "propositions": [
+    {
+      "id": "1",
+      "text": "The narrator was born on August 20, 1986, which was the 15th day of the seventh lunar month.",
+      "level": 1
+    },
+    {
+      "id": "1.1",
+      "text": "The 15th day of the seventh lunar month is considered a 'ghost festival' in China.",
+      "level": 2
+    },
+    {
+      "id": "1.2",
+      "text": "The narrator started working in 2002 and drifted for seven years, working various jobs and experiencing different places.",
+      "level": 2
+    },
+    {
+      "id": "1.3",
+      "text": "The narrator's life took a turn when his grandmother fell seriously ill in late August 2007.",
+      "level": 2
+    },
+    {
+      "id": "2",
+      "text": "The narrator's hometown is in a minority region in the southwest, near the border of Xiangxi.",
+      "level": 1
+    },
+    {
+      "id": "2.1",
+      "text": "The region is associated with the culture and folklore of Xiangxi, including banditry and蛊毒 (gu poison).",
+      "level": 2
+    },
+    {
+      "id": "2.2",
+      "text": "The narrator's grandmother was a 'god-woman' (神婆) in their Miao village and practiced gu.",
+      "level": 2
+    },
+    {
+      "id": "2.3",
+      "text": "The narrator's grandmother was diagnosed with late-stage stomach cancer.",
+      "level": 2
+    },
+    {
+      "id": "3",
+      "text": "Upon returning to his hometown, the narrator found his grandmother in a critical state.",
+      "level": 1
+    },
+    {
+      "id": "3.1",
+      "text": "During a moment of lucidity, the grandmother revealed the narrator's birth date and time.",
+      "level": 2
+    },
+    {
+      "id": "3.2",
+      "text": "The grandmother then performed a ritual, revealing a golden silkworm pupa (金蚕蛊).",
+      "level": 2
+    },
+    {
+      "id": "3.3",
+      "text": "The golden silkworm pupa, described as the 'king of gu', entered the narrator's mouth and stomach, causing him to lose consciousness.",
+      "level": 2
+    },
+    {
+      "id": "4",
+      "text": "The narrator's grandmother passed away peacefully the day after the ritual.",
+      "level": 1
+    },
+    {
+      "id": "4.1",
+      "text": "She revealed that the golden silkworm gu was intended to extend his life and strengthen him, but it was toxic and would cause pain monthly.",
+      "level": 2
+    },
+    {
+      "id": "4.2",
+      "text": "She also left him a handwritten book titled 'The Twelve Methods of Suppressing Mountains' (镇压山峦十二法门).",
+      "level": 2
+    },
+    {
+      "id": "4.3",
+      "text": "She warned that if he couldn't subdue the gu within a year, he would die.",
+      "level": 2
+    },
+    {
+      "id": "5",
+      "text": "The narrator experienced severe pain on the first day of the lunar month, confirming his grandmother's words.",
+      "level": 1
+    },
+    {
+      "id": "5.1",
+      "text": "His parents, aware of his grandmother's practices, had prepared the house with protective items.",
+      "level": 2
+    },
+    {
+      "id": "5.2",
+      "text": "His mother recounted stories of his grandmother's youth, highlighting her influence and abilities as a shaman.",
+      "level": 2
+    },
+    {
+      "id": "6",
+      "text": "Seeking a cure, the narrator visited a hospital but received no scientific explanation for his condition.",
+      "level": 1
+    },
+    {
+      "id": "6.1",
+      "text": "A doctor suggested the possibility of psychological or supernatural causes.",
+      "level": 2
+    },
+    {
+      "id": "6.2",
+      "text": "He was advised to seek out someone knowledgeable in local folklore, specifically a shaman named Long Laolan (龙老兰) in Jinping County.",
+      "level": 2
+    },
+    {
+      "id": "6.3",
+      "text": "The narrator realized that Long Laolan was his grandmother's name.",
+      "level": 2
+    },
+    {
+      "id": "7",
+      "text": "The narrator decided to study his grandmother's book and learn about the gu.",
+      "level": 1
+    },
+    {
+      "id": "7.1",
+      "text": "He learned that the golden silkworm gu was created through a brutal process of animal cannibalism.",
+      "level": 2
+    },
+    {
+      "id": "7.2",
+      "text": "To subdue its ferocity, he needed to consume Dragon Fern grass (龙蕨草) worn by 'short ones' (矮骡子).",
+      "level": 2
+    },
+    {
+      "id": "8",
+      "text": "The narrator traveled to the remote Qing Shan Jie forest area to find the 'short ones' (矮骡子).",
+      "level": 1
+    },
+    {
+      "id": "8.1",
+      "text": "He was joined by his uncle, a forest ranger, and his colleague, Li Decai.",
+      "level": 2
+    },
+    {
+      "id": "8.2",
+      "text": "The book described 'short ones' as mountain spirits (山魈) that were mischievous but not inherently malevolent.",
+      "level": 2
+    },
+    {
+      "id": "8.3",
+      "text": "He prepared offerings of pine nuts, sweet potato vines, and sticky rice mixed with egg whites and incense ash, as these were said to repel 'short ones'.",
+      "level": 2
+    },
+    {
+      "id": "9",
+      "text": "The narrator successfully captured a 'short one' using a net and the prepared sticky rice.",
+      "level": 1
+    },
+    {
+      "id": "9.1",
+      "text": "The captured 'short one' wore a red grass hat, which the narrator took.",
+      "level": 2
+    },
+    {
+      "id": "9.2",
+      "text": "The next morning, Li Decai, seemingly possessed or influenced, released the 'short one' and fled, injuring the narrator's uncle in the process.",
+      "level": 2
+    },
+    {
+      "id": "10",
+      "text": "The narrator returned home and followed the book's instructions to create a potent herbal concoction to counteract the gu.",
+      "level": 1
+    },
+    {
+      "id": "10.1",
+      "text": "The process was arduous and resulted in severe physical distress for the narrator.",
+      "level": 2
+    },
+    {
+      "id": "10.2",
+      "text": "Shortly after recovering, the police arrived to investigate his involvement in a dismemberment case, which had occurred in the same area where he encountered the 'short ones'.",
+      "level": 2
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Ghost Festival",
+      "frequency": 2,
+      "context": "Used to describe the cultural significance of the 15th day of the seventh lunar month."
+    },
+    {
+      "name": "Gu",
+      "frequency": 13,
+      "context": "A central concept representing a form of poison or witchcraft prevalent in the story, with the golden silkworm gu being a key element."
+    },
+    {
+      "name": "Grandmother",
+      "frequency": 10,
+      "context": "The narrator's maternal grandmother, who was a practitioner of gu and a significant influence on his life."
+    },
+    {
+      "name": "Golden Silkworm Gu",
+      "frequency": 6,
+      "context": "A potent and dangerous form of gu, considered the 'king of gu', bestowed upon the narrator by his grandmother."
+    },
+    {
+      "name": "The Twelve Methods of Suppressing Mountains",
+      "frequency": 5,
+      "context": "A handwritten book left by the narrator's grandmother, containing esoteric knowledge about various mystical practices."
+    },
+    {
+      "name": "Short Ones (矮骡子)",
+      "frequency": 7,
+      "context": "Mysterious mountain spirits or sprites described in folklore, which are said to be mischievous and have an aversion to certain offerings."
+    },
+    {
+      "name": "Dragon Fern Grass",
+      "frequency": 3,
+      "context": "A specific type of grass mentioned as a necessary component to subdue the golden silkworm gu."
+    },
+    {
+      "name": "Shaman/God-woman (神婆)",
+      "frequency": 4,
+      "context": "A spiritual practitioner, specifically the narrator's grandmother, who dealt with supernatural matters and healing."
+    },
+    {
+      "name": "Miao Village",
+      "frequency": 5,
+      "context": "The ancestral village of the narrator's grandmother, described as a traditional and somewhat isolated community."
+    },
+    {
+      "name": "Xiangxi Folklore",
+      "frequency": 2,
+      "context": "The cultural backdrop influencing the story, known for its associations with bandits, witchcraft, and supernatural phenomena."
+    },
+    {
+      "name": "Dismemberment Case",
+      "frequency": 2,
+      "context": "A criminal event that occurs in the vicinity of the narrator's activities, leading to police investigation and his involvement."
+    }
+  ],
+  "relations": [
+    {
+      "source": "Grandmother",
+      "target": "Golden Silkworm Gu",
+      "type": "bestowed"
+    },
+    {
+      "source": "Golden Silkworm Gu",
+      "target": "Narrator",
+      "type": "inhabits"
+    },
+    {
+      "source": "The Twelve Methods of Suppressing Mountains",
+      "target": "Golden Silkworm Gu",
+      "type": "contains information about"
+    },
+    {
+      "source": "The Twelve Methods of Suppressing Mountains",
+      "target": "Short Ones (矮骡子)",
+      "type": "contains information about"
+    },
+    {
+      "source": "Short Ones (矮骡子)",
+      "target": "Dragon Fern Grass",
+      "type": "associated with"
+    },
+    {
+      "source": "Grandmother",
+      "target": "Shaman/God-woman (神婆)",
+      "type": "is_a"
+    },
+    {
+      "source": "Narrator",
+      "target": "Grandmother",
+      "type": "related_to"
+    },
+    {
+      "source": "Narrator",
+      "target": "Gu",
+      "type": "affected_by"
+    },
+    {
+      "source": "Narrator",
+      "target": "Dismemberment Case",
+      "type": "investigated_for_involvement_in"
+    },
+    {
+      "source": "Grandmother",
+      "target": "Miao Village",
+      "type": "resides_in"
+    },
+    {
+      "source": "Narrator",
+      "target": "Miao Village",
+      "type": "hometown_of_grandmother"
+    },
+    {
+      "source": "Gu",
+      "target": "Xiangxi Folklore",
+      "type": "part_of"
+    }
+  ],
+  "hierarchy": {
+    "main_topics": [
+      "Narrator's Background and Personal History",
+      "The Introduction of Gu and Supernatural Elements",
+      "The Grandmother's Legacy and the Golden Silkworm Gu",
+      "Seeking a Cure and Understanding the Supernatural",
+      "The Quest for the 'Short Ones'",
+      "Confrontation with the Supernatural and the Law"
+    ],
+    "structure": "The document follows a chronological narrative, beginning with the narrator's personal history and birth, then detailing the pivotal event of his grandmother's illness and the bestowal of the golden silkworm gu. It progresses through the narrator's attempts to understand and combat the gu, his journey into the supernatural realm of 'short ones', and concludes with his entanglement in a criminal investigation, all while unraveling the mysteries of his heritage and the esoteric knowledge passed down to him."
+  }
+}

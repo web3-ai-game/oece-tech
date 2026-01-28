@@ -1,0 +1,302 @@
+{
+  "propositions": [
+    {
+      "id": "1",
+      "text": "This is the beginning of the document.",
+      "level": 1
+    },
+    {
+      "id": "1.1",
+      "text": "The document contains a lot of garbled text.",
+      "level": 2
+    },
+    {
+      "id": "2",
+      "text": "The document appears to be a novel titled '妻心如故' by '雾矢翊'.",
+      "level": 1
+    },
+    {
+      "id": "3",
+      "text": "The content is heavily encoded or corrupted.",
+      "level": 1
+    },
+    {
+      "id": "4",
+      "text": "Key characters and plot points are difficult to discern due to the corruption.",
+      "level": 1
+    },
+    {
+      "id": "5",
+      "text": "There are repeated patterns and sections of text.",
+      "level": 1
+    },
+    {
+      "id": "6",
+      "text": "The text seems to describe interpersonal relationships and emotions.",
+      "level": 1
+    },
+    {
+      "id": "7",
+      "text": "There are mentions of various concepts and actions related to social interaction.",
+      "level": 1
+    },
+    {
+      "id": "8",
+      "text": "The document's structure is fragmented and non-linear.",
+      "level": 1
+    },
+    {
+      "id": "9",
+      "text": "The content is not interpretable in its current state.",
+      "level": 1
+    },
+    {
+      "id": "10",
+      "text": "The document might contain elements of a story or narrative.",
+      "level": 1
+    },
+    {
+      "id": "11",
+      "text": "There are recurring themes of longing, memory, and change.",
+      "level": 1
+    },
+    {
+      "id": "12",
+      "text": "The ending of the provided text is still unclear due to corruption.",
+      "level": 1
+    }
+  ],
+  "concepts": [
+    {
+      "name": "妻心如故",
+      "frequency": 1,
+      "context": "Title of the document."
+    },
+    {
+      "name": "雾矢翊",
+      "frequency": 1,
+      "context": "Author of the document."
+    },
+    {
+      "name": "garbled text",
+      "frequency": 1,
+      "context": "Description of the document's content."
+    },
+    {
+      "name": "novel",
+      "frequency": 1,
+      "context": "Inferred genre of the document."
+    },
+    {
+      "name": "encoded",
+      "frequency": 1,
+      "context": "Description of the document's content."
+    },
+    {
+      "name": "corrupted",
+      "frequency": 2,
+      "context": "Description of the document's content."
+    },
+    {
+      "name": "characters",
+      "frequency": 1,
+      "context": "Inferred element of a narrative."
+    },
+    {
+      "name": "plot points",
+      "frequency": 1,
+      "context": "Inferred element of a narrative."
+    },
+    {
+      "name": "relationships",
+      "frequency": 1,
+      "context": "Inferred theme of the content."
+    },
+    {
+      "name": "emotions",
+      "frequency": 1,
+      "context": "Inferred theme of the content."
+    },
+    {
+      "name": "social interaction",
+      "frequency": 1,
+      "context": "Inferred theme of the content."
+    },
+    {
+      "name": "story",
+      "frequency": 1,
+      "context": "Inferred genre of the document."
+    },
+    {
+      "name": "narrative",
+      "frequency": 1,
+      "context": "Inferred genre of the document."
+    },
+    {
+      "name": "themes",
+      "frequency": 1,
+      "context": "Description of recurring elements."
+    },
+    {
+      "name": "longing",
+      "frequency": 1,
+      "context": "Inferred theme."
+    },
+    {
+      "name": "memory",
+      "frequency": 1,
+      "context": "Inferred theme."
+    },
+    {
+      "name": "change",
+      "frequency": 1,
+      "context": "Inferred theme."
+    },
+    {
+      "name": "fragmented",
+      "frequency": 1,
+      "context": "Description of document structure."
+    },
+    {
+      "name": "non-linear",
+      "frequency": 1,
+      "context": "Description of document structure."
+    },
+    {
+      "name": "interpretable",
+      "frequency": 1,
+      "context": "Regarding the document's understandability."
+    },
+    {
+      "name": "patterns",
+      "frequency": 1,
+      "context": "Observation about the text."
+    },
+    {
+      "name": "sections",
+      "frequency": 1,
+      "context": "Observation about the text."
+    }
+  ],
+  "relations": [
+    {
+      "source": "妻心如故",
+      "target": "novel",
+      "type": "is_a"
+    },
+    {
+      "source": "雾矢翊",
+      "target": "author",
+      "type": "is_a"
+    },
+    {
+      "source": "document",
+      "target": "garbled text",
+      "type": "has_content"
+    },
+    {
+      "source": "document",
+      "target": "encoded",
+      "type": "has_content"
+    },
+    {
+      "source": "document",
+      "target": "corrupted",
+      "type": "has_content"
+    },
+    {
+      "source": "corrupted",
+      "target": "characters",
+      "type": "hinders_understanding_of"
+    },
+    {
+      "source": "corrupted",
+      "target": "plot points",
+      "type": "hinders_understanding_of"
+    },
+    {
+      "source": "content",
+      "target": "relationships",
+      "type": "describes"
+    },
+    {
+      "source": "content",
+      "target": "emotions",
+      "type": "describes"
+    },
+    {
+      "source": "content",
+      "target": "social interaction",
+      "type": "mentions"
+    },
+    {
+      "source": "document structure",
+      "target": "fragmented",
+      "type": "is"
+    },
+    {
+      "source": "document structure",
+      "target": "non-linear",
+      "type": "is"
+    },
+    {
+      "source": "document",
+      "target": "interpretable",
+      "type": "is_not"
+    },
+    {
+      "source": "text",
+      "target": "patterns",
+      "type": "contains"
+    },
+    {
+      "source": "text",
+      "target": "sections",
+      "type": "contains"
+    },
+    {
+      "source": "document",
+      "target": "story",
+      "type": "might_contain"
+    },
+    {
+      "source": "document",
+      "target": "narrative",
+      "type": "might_contain"
+    },
+    {
+      "source": "themes",
+      "target": "longing",
+      "type": "includes"
+    },
+    {
+      "source": "themes",
+      "target": "memory",
+      "type": "includes"
+    },
+    {
+      "source": "themes",
+      "target": "change",
+      "type": "includes"
+    },
+    {
+      "source": "ending",
+      "target": "unclear",
+      "type": "is"
+    },
+    {
+      "source": "corrupted",
+      "target": "ending",
+      "type": "affects"
+    }
+  ],
+  "hierarchy": {
+    "main_topics": [
+      "Document Identification",
+      "Content Analysis",
+      "Structural Analysis",
+      "Thematic Analysis"
+    ],
+    "structure": "The document begins with identifying information, followed by an analysis of its corrupted content, structure, and inferred themes. The lack of coherent meaning due to extensive corruption is a recurring point."
+  }
+}

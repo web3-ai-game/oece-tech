@@ -1,0 +1,232 @@
+{
+  "propositions": [
+    {
+      "id": "1",
+      "text": "《沙海》是一部由南派三叔创作的小说。",
+      "level": 1
+    },
+    {
+      "id": "1.1",
+      "text": "小说通过一个媒体采访和两个引子来展开叙述。",
+      "level": 2
+    },
+    {
+      "id": "1.1.1",
+      "text": "媒体采访记录了出版商关根与作者蓝庭的相识经历。",
+      "level": 3
+    },
+    {
+      "id": "1.1.2",
+      "text": "第一个引子以关根的视角，讲述了蓝庭失踪又回归，并寄回《沙海》手稿的故事。",
+      "level": 3
+    },
+    {
+      "id": "1.1.3",
+      "text": "第二个引子以蓝庭的视角，描绘了一次关于沙漠新书的策划聚会，以及她遇到的奇异经历。",
+      "level": 3
+    },
+    {
+      "id": "1.2",
+      "text": "引子“照片”中，关根（摄影师）应蓝庭的请求，查看了她从古潼京带回的照片，并发现了异常。",
+      "level": 2
+    },
+    {
+      "id": "1.2.1",
+      "text": "蓝庭的照片显示，她最好的朋友“叨叨”在她从古潼京回来后拍摄的照片中消失了。",
+      "level": 3
+    },
+    {
+      "id": "1.3",
+      "text": "引子“晦涩之地”中，关根对蓝庭的说法提出质疑，认为从物理学上不可能。",
+      "level": 2
+    },
+    {
+      "id": "1.3.1",
+      "text": "关根建议蓝庭去看心理医生，认为她可能因写作而“入魔”。",
+      "level": 3
+    },
+    {
+      "id": "1.3.2",
+      "text": "关根得知蓝庭的朋友“叨叨”一周前自杀了，并在新闻现场照片中看到了异常。",
+      "level": 3
+    },
+    {
+      "id": "1.3.3",
+      "text": "关根试图寻找古潼京的异常信息，但未果。",
+      "level": 3
+    },
+    {
+      "id": "1.3.4",
+      "text": "蓝庭匆忙离开，前往内蒙。",
+      "level": 3
+    },
+    {
+      "id": "1.4",
+      "text": "第一章“十王走马势”引入了主要角色黎簇，他因惹事被班主任叫家长，并从学校逃离。",
+      "level": 2
+    },
+    {
+      "id": "1.4.1",
+      "text": "黎簇被一位满头是血的男人拖进巷子，并遭受了袭击。",
+      "level": 3
+    },
+    {
+      "id": "2",
+      "text": "沙漠是小说《沙海》的核心场景和主题。",
+      "level": 1
+    },
+    {
+      "id": "3",
+      "text": "蓝庭是一位作者，她的失踪与她的写作经历紧密相关。",
+      "level": 1
+    },
+    {
+      "id": "4",
+      "text": "关根是一名摄影师，他的职业视角和对摄影的理解是分析照片异常的关键。",
+      "level": 1
+    },
+    {
+      "id": "5",
+      "text": "古潼京是一个神秘且可能存在异常现象的地方。",
+      "level": 1
+    },
+    {
+      "id": "6",
+      "text": "黎簇是小说故事的开端人物，他的遭遇预示着故事的走向。",
+      "level": 1
+    }
+  ],
+  "concepts": [
+    {
+      "name": "沙海",
+      "frequency": 5,
+      "context": "小说名称，与沙漠相关的主题。"
+    },
+    {
+      "name": "蓝庭",
+      "frequency": 10,
+      "context": "作者，失踪后寄回小说，经历离奇事件。"
+    },
+    {
+      "name": "关根",
+      "frequency": 15,
+      "context": "媒体采访对象，摄影师，分析照片异常。"
+    },
+    {
+      "name": "沙漠",
+      "frequency": 10,
+      "context": "故事的主要发生地，具有神秘色彩。"
+    },
+    {
+      "name": "古潼京",
+      "frequency": 6,
+      "context": "沙漠中的神秘地点，与蓝庭的异常经历有关。"
+    },
+    {
+      "name": "照片",
+      "frequency": 10,
+      "context": "作为证据，揭示了人影消失的异常现象。"
+    },
+    {
+      "name": "失踪",
+      "frequency": 2,
+      "context": "蓝庭的经历，为故事增添悬念。"
+    },
+    {
+      "name": "写作",
+      "frequency": 4,
+      "context": "蓝庭的职业，可能与她的经历有关。"
+    },
+    {
+      "name": "摄影",
+      "frequency": 10,
+      "context": "关根的职业，用于分析照片中的异常。"
+    },
+    {
+      "name": "黎簇",
+      "frequency": 5,
+      "context": "第一章登场人物，遭遇袭击，故事的开端。"
+    },
+    {
+      "name": "叨叨",
+      "frequency": 4,
+      "context": "蓝庭的朋友，插画家，在照片中消失，后自杀。"
+    }
+  ],
+  "relations": [
+    {
+      "source": "沙海",
+      "target": "沙漠",
+      "type": "is_about"
+    },
+    {
+      "source": "蓝庭",
+      "target": "写作",
+      "type": "is_a"
+    },
+    {
+      "source": "蓝庭",
+      "target": "失踪",
+      "type": "experienced"
+    },
+    {
+      "source": "蓝庭",
+      "target": "古潼京",
+      "type": "visited"
+    },
+    {
+      "source": "关根",
+      "target": "摄影",
+      "type": "is_a"
+    },
+    {
+      "source": "关根",
+      "target": "照片",
+      "type": "analyzes"
+    },
+    {
+      "source": "照片",
+      "target": "古潼京",
+      "type": "taken_at"
+    },
+    {
+      "source": "照片",
+      "target": "叨叨",
+      "type": "shows_absence_of"
+    },
+    {
+      "source": "叨叨",
+      "target": "蓝庭",
+      "type": "is_friend_of"
+    },
+    {
+      "source": "叨叨",
+      "target": "自杀",
+      "type": "experienced"
+    },
+    {
+      "source": "黎簇",
+      "target": "袭击",
+      "type": "experienced"
+    },
+    {
+      "source": "黎簇",
+      "target": "沙漠",
+      "type": "will_be_involved_in"
+    },
+    {
+      "source": "古潼京",
+      "target": "神秘",
+      "type": "has_property"
+    }
+  ],
+  "hierarchy": {
+    "main_topics": [
+      "Novel Introduction",
+      "Characters and their Roles",
+      "Key Locations and Events",
+      "Unexplained Phenomena"
+    ],
+    "structure": "The document is structured into an introductory section (media interview, two '引子' sections) and the first chapter. The '引子' sections introduce characters, establish the mysterious atmosphere, and hint at supernatural or unexplained events. The first chapter shifts focus to a new protagonist and a violent encounter, suggesting the beginning of the main narrative."
+  }
+}

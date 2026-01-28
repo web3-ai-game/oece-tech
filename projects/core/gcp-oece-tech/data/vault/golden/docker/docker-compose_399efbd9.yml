@@ -1,0 +1,69 @@
+version: '3.8'
+
+services:
+  distiller-wave1:
+    build: .
+    container_name: distiller-wave1
+    environment:
+      - API_KEY=${API_KEY_1}
+      - WAVE_ID=1
+      - MODEL_NAME=gemini-3-pro-preview
+      - BUDGET_LIMIT=10
+    volumes:
+      - ../input/wave1:/app/input:ro
+      - ../output/wave1:/app/output
+      - ../checkpoints/wave1:/app/checkpoints
+    restart: unless-stopped
+    mem_limit: 2g
+    cpus: 1.0
+    logging:
+      driver: "json-file"
+      options:
+        max-size: "10m"
+        max-file: "3"
+
+  distiller-wave2:
+    build: .
+    container_name: distiller-wave2
+    environment:
+      - API_KEY=${API_KEY_2}
+      - WAVE_ID=2
+      - MODEL_NAME=gemini-3-pro-preview
+      - BUDGET_LIMIT=10
+    volumes:
+      - ../input/wave2:/app/input:ro
+      - ../output/wave2:/app/output
+      - ../checkpoints/wave2:/app/checkpoints
+    restart: unless-stopped
+    mem_limit: 2g
+    cpus: 1.0
+    logging:
+      driver: "json-file"
+      options:
+        max-size: "10m"
+        max-file: "3"
+
+  distiller-wave3:
+    build: .
+    container_name: distiller-wave3
+    environment:
+      - API_KEY=${API_KEY_3}
+      - WAVE_ID=3
+      - MODEL_NAME=gemini-3-pro-preview
+      - BUDGET_LIMIT=10
+    volumes:
+      - ../input/wave3:/app/input:ro
+      - ../output/wave3:/app/output
+      - ../checkpoints/wave3:/app/checkpoints
+    restart: unless-stopped
+    mem_limit: 2g
+    cpus: 1.0
+    logging:
+      driver: "json-file"
+      options:
+        max-size: "10m"
+        max-file: "3"
+
+networks:
+  default:
+    name: distiller-network

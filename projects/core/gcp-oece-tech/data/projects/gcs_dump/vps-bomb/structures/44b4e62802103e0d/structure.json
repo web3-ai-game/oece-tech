@@ -1,0 +1,2461 @@
+{
+  "propositions": [
+    {
+      "id": "1",
+      "text": "Fangtasia nightclub will be open tonight.",
+      "level": 1
+    },
+    {
+      "id": "1.1",
+      "text": "I was late and naturally went to the front door.",
+      "level": 2
+    },
+    {
+      "id": "1.2",
+      "text": "I was stopped by a neat sign.",
+      "level": 2
+    },
+    {
+      "id": "1.2.1",
+      "text": "The sign was written in red gothic script on white cardboard.",
+      "level": 3
+    },
+    {
+      "id": "1.2.2",
+      "text": "It read: 'We will give you a bite greeting at 8 p.m. tonight. Please excuse our delayed opening.'",
+      "level": 3
+    },
+    {
+      "id": "1.2.3",
+      "text": "The sign was signed 'Fangtasia Staff.'",
+      "level": 3
+    },
+    {
+      "id": "2",
+      "text": "It is the third week of September, and the red Fangtasia neon sign is already lit.",
+      "level": 1
+    },
+    {
+      "id": "2.1",
+      "text": "The sky is almost black.",
+      "level": 2
+    },
+    {
+      "id": "2.2",
+      "text": "I stood for a minute, one foot still in the car, enjoying the mild evening and the faint, dry smell of vampires swirling outside the bar.",
+      "level": 2
+    },
+    {
+      "id": "3",
+      "text": "Then I drove to the back of the bar and parked near the other cars already lined up at the employee entrance.",
+      "level": 1
+    },
+    {
+      "id": "3.1",
+      "text": "I was only five minutes late, but it looked as if everyone else had beaten me to the meeting.",
+      "level": 2
+    },
+    {
+      "id": "3.2",
+      "text": "I knocked lightly and waited.",
+      "level": 2
+    },
+    {
+      "id": "4",
+      "text": "Just as I was about to raise my hand to knock again, Pam, Eric's second-in-command, opened the door.",
+      "level": 1
+    },
+    {
+      "id": "4.1",
+      "text": "Pam's main job was at the bar, but she also helped Eric with his varied businesses.",
+      "level": 2
+    },
+    {
+      "id": "4.2",
+      "text": "Even though the vampires had publicly revealed themselves five years ago and done their best to put on a good face, they largely kept their means of livelihood secret.",
+      "level": 2
+    },
+    {
+      "id": "4.2.1",
+      "text": "Sometimes I wondered how large a portion of the United States was owned by these undead.",
+      "level": 3
+    },
+    {
+      "id": "4.3",
+      "text": "Eric, the owner of Fangtasia, was a true vampire when it came to keeping secrets.",
+      "level": 2
+    },
+    {
+      "id": "4.3.1",
+      "text": "Of course, he had lived so long that he had to.",
+      "level": 3
+    },
+    {
+      "id": "5",
+      "text": "'Come in, my telepathic friend,' Pam said, striking a dramatic pose.",
+      "level": 1
+    },
+    {
+      "id": "5.1",
+      "text": "She was wearing her work clothes: a thin, floor-length black dress that was just the sort of outfit a vampire would wear to the bar.",
+      "level": 2
+    },
+    {
+      "id": "5.1.1",
+      "text": "(When Pam could wear what she pleased, she preferred a comfortable two-piece sweatsuit.)",
+      "level": 3
+    },
+    {
+      "id": "5.2",
+      "text": "Pam had the palest, straightest blonde hair you ever saw; in fact, she was as airy and delightful as air itself, but with a deadly edge.",
+      "level": 2
+    },
+    {
+      "id": "5.2.1",
+      "text": "That deadly edge was not something one should forget.",
+      "level": 3
+    },
+    {
+      "id": "6",
+      "text": "'Are you well?' I asked politely.",
+      "level": 1
+    },
+    {
+      "id": "7",
+      "text": "'Surprisingly well,' she said. 'Eric is delighted, too.'",
+      "level": 1
+    },
+    {
+      "id": "8",
+      "text": "Eric Northman, sheriff of the Fifth District, was Pam's maker, and Pam had to obey his commands.",
+      "level": 1
+    },
+    {
+      "id": "8.1",
+      "text": "That was one of the conditions of being an undead: you had to obey your maker.",
+      "level": 2
+    },
+    {
+      "id": "8.2",
+      "text": "But Pam had also told me more than once that Eric was a good boss and would give her her freedom if she wanted it.",
+      "level": 2
+    },
+    {
+      "id": "8.2.1",
+      "text": "In fact, she had lived in Minnesota until Eric bought Fangtasia and asked her to help him run it.",
+      "level": 3
+    },
+    {
+      "id": "9",
+      "text": "The Fifth District covered most of northwestern Louisiana and had, until a month ago, been the poorest region in the state.",
+      "level": 1
+    },
+    {
+      "id": "9.1",
+      "text": "Since Hurricane Katrina, Louisiana's economic balance had shifted dramatically, especially in the vampire community.",
+      "level": 2
+    },
+    {
+      "id": "10",
+      "text": "'And how is your delectable brother, Sookie? And your shapeshifter boss?' Pam said.",
+      "level": 1
+    },
+    {
+      "id": "11",
+      "text": "'My delectable brother is clamoring to get married, as are the rest of the people in Bon Temps,' I said.",
+      "level": 1
+    },
+    {
+      "id": "12",
+      "text": "'You sound a little glum,' Pam tilted her head to one side, regarding me as a sparrow might regard a worm.",
+      "level": 1
+    },
+    {
+      "id": "13",
+      "text": "'Well, perhaps a tiny bit,' I said.",
+      "level": 1
+    },
+    {
+      "id": "14",
+      "text": "'You must keep busy,' Pam said. 'Then you won't have time to brood.'",
+      "level": 1
+    },
+    {
+      "id": "15",
+      "text": "Pam liked 'Dear Abby.' Many vampires liked advice columns.",
+      "level": 1
+    },
+    {
+      "id": "15.1",
+      "text": "The solutions they offered the columnists to their problems could make you scream.",
+      "level": 2
+    },
+    {
+      "id": "15.2",
+      "text": "Pam had advised me that no one could influence me unless I wanted them to; and that I should choose my friends more carefully.",
+      "level": 2
+    },
+    {
+      "id": "15.3",
+      "text": "I was getting advice on emotional well-being from a vampire.",
+      "level": 2
+    },
+    {
+      "id": "16",
+      "text": "'I am,' I said. 'I'm keeping busy. I work every day, I have roommates from New Orleans, and tomorrow I'm going to a wedding shower.",
+      "level": 1
+    },
+    {
+      "id": "16.1",
+      "text": "Not for Jason and Crystal, though. For another couple.'",
+      "level": 2
+    },
+    {
+      "id": "17",
+      "text": "Pam paused, her hand on the doorknob to Eric's office. She considered my words and frowned.",
+      "level": 1
+    },
+    {
+      "id": "17.1",
+      "text": "'I can't think what a wedding shower is, though I've heard of it,' she said, her tone rising perceptibly. 'Are they going to get married in the bathroom? No, I've heard the term, I'm sure of it. A woman wrote to Abby saying she had not received thank-you notes for the shower gifts she had sent. Will they get... gifts?'",
+      "level": 2
+    },
+    {
+      "id": "18",
+      "text": "'Yes,' I said. 'A shower is a party for people about to be married.",
+      "level": 1
+    },
+    {
+      "id": "18.1",
+      "text": "Sometimes showers are given for couples, and both parties attend. But usually only the bride is the guest of honor, and the other guests are women, and each guest brings a gift.",
+      "level": 2
+    },
+    {
+      "id": "18.1.1",
+      "text": "The idea is that in this way the couple will start their new life with everything they need.",
+      "level": 3
+    },
+    {
+      "id": "18.2",
+      "text": "We have similar parties when a baby is born.",
+      "level": 2
+    },
+    {
+      "id": "18.2.1",
+      "text": "That's a baby shower, of course.",
+      "level": 3
+    },
+    {
+      "id": "19",
+      "text": "'Baby shower,' Pam repeated. She gave a cold smile. The upward curve of her lips was enough to frost a pumpkin.",
+      "level": 1
+    },
+    {
+      "id": "19.1",
+      "text": "'I like that term,' she said. Pam knocked on Eric's office door, then opened it.",
+      "level": 2
+    },
+    {
+      "id": "19.2",
+      "text": "'Eric,' she said, 'perhaps one day a waitress will get pregnant, and we can have a baby shower!'",
+      "level": 2
+    },
+    {
+      "id": "20",
+      "text": "'That would be a sight,' Eric said, lifting his golden head from the files on his desk.",
+      "level": 1
+    },
+    {
+      "id": "20.1",
+      "text": "The sheriff gave me a stony expression on seeing me there and decided to ignore me.",
+      "level": 2
+    },
+    {
+      "id": "20.2",
+      "text": "Eric and I had our problems.",
+      "level": 2
+    },
+    {
+      "id": "21",
+      "text": "Although the room was filled with people waiting for his attention, Eric put down his pen and stood up to stretch his tall, muscular body, perhaps for my benefit.",
+      "level": 1
+    },
+    {
+      "id": "21.1",
+      "text": "As usual, Eric was wearing tight jeans and a Fangtasia T-shirt, which was black with white fangs, the bar's trademark.",
+      "level": 2
+    },
+    {
+      "id": "21.1.1",
+      "text": "The letters 'Fangtasia' were in red, splashy letters over the white fangs, in the same style as the neon sign outside.",
+      "level": 3
+    },
+    {
+      "id": "21.2",
+      "text": "If Eric had turned around, you would have seen 'The Bar With A Bite' printed on the back of the T-shirt.",
+      "level": 2
+    },
+    {
+      "id": "21.2.1",
+      "text": "Pam had given me one of those T-shirts when Fangtasia first started selling merchandise.",
+      "level": 3
+    },
+    {
+      "id": "22",
+      "text": "The shirt looked good on Eric, and I remembered the body underneath far too well.",
+      "level": 1
+    },
+    {
+      "id": "23",
+      "text": "I pulled my eyes away from Eric's stretching and began to look around the room.",
+      "level": 1
+    },
+    {
+      "id": "23.1",
+      "text": "Many other vampires were crammed into the small room, but you wouldn't notice they were there until you saw them, because they were so quiet.",
+      "level": 2
+    },
+    {
+      "id": "24",
+      "text": "Clancy, the bar manager, was already seated at the table.",
+      "level": 1
+    },
+    {
+      "id": "24.1",
+      "text": "Clancy had just escaped the witch wars of the previous year, but he had not escaped unscathed.",
+      "level": 2
+    },
+    {
+      "id": "24.1.1",
+      "text": "The witches had nearly drained Clancy dry, and by the time Eric found him and followed his scent to the Shreveport cemetery, Clancy had been as good as dead.",
+      "level": 3
+    },
+    {
+      "id": "24.1.2",
+      "text": "During his long recovery, the red-haired vampire had become bitter and impatient.",
+      "level": 3
+    },
+    {
+      "id": "24.2",
+      "text": "Now he grinned at me, his fangs showing a little.",
+      "level": 2
+    },
+    {
+      "id": "24.2.1",
+      "text": "'You can sit on my lap, Sookie,' he said, patting his thigh.",
+      "level": 3
+    },
+    {
+      "id": "25",
+      "text": "I gave him a smile back, but it wasn't genuine.",
+      "level": 1
+    },
+    {
+      "id": "25.1",
+      "text": "'No, thank you, Clancy,' I said politely.",
+      "level": 2
+    },
+    {
+      "id": "25.2",
+      "text": "Clancy's flirtations always had an edge, and now that edge was as sharp as a razor.",
+      "level": 2
+    },
+    {
+      "id": "25.3",
+      "text": "He was one of the vampires I did not want to be alone with.",
+      "level": 2
+    },
+    {
+      "id": "25.3.1",
+      "text": "Though he managed the bar well and had never done anything untoward to me, I was wary of him.",
+      "level": 3
+    },
+    {
+      "id": "25.3.2",
+      "text": "I could not read vampires' minds, which was why I liked being around them, but once I felt even a hint of wariness, I found myself wishing I could delve into Clancy's brain and find out what he was up to.",
+      "level": 3
+    },
+    {
+      "id": "26",
+      "text": "Felicia, the newest barmaid, sat on the sofa with Indira and Maxwell Lee.",
+      "level": 1
+    },
+    {
+      "id": "26.1",
+      "text": "It was like a convention of the Vampire Rainbow Coalition (?).",
+      "level": 2
+    },
+    {
+      "id": "26.2",
+      "text": "Felicia was of African and Caucasian descent; she was cheerful and almost six feet tall, which gave her more of her to admire.",
+      "level": 2
+    },
+    {
+      "id": "26.3",
+      "text": "Maxwell Lee was one of the blackest men I had ever seen.",
+      "level": 2
+    },
+    {
+      "id": "26.4",
+      "text": "Little Indira was of Indian descent.",
+      "level": 2
+    },
+    {
+      "id": "27",
+      "text": "There were four other people in the room (if you use the broad definition of 'people'), each of whom made me uneasy, to varying degrees.",
+      "level": 1
+    },
+    {
+      "id": "28",
+      "text": "There was one person I did not want to acknowledge.",
+      "level": 1
+    },
+    {
+      "id": "28.1",
+      "text": "I avoided him.",
+      "level": 2
+    },
+    {
+      "id": "28.2",
+      "text": "I did not call him by name, I did not speak to him, and I did not acknowledge his presence.",
+      "level": 2
+    },
+    {
+      "id": "28.2.1",
+      "text": "(Of course, this was my ex-boyfriend, Bill Compton—who I discovered was in the room, brooding in a corner by himself.)",
+      "level": 3
+    },
+    {
+      "id": "29",
+      "text": "Standing by the wall next to him was ancient Thalia, who was probably older than Eric.",
+      "level": 1
+    },
+    {
+      "id": "29.1",
+      "text": "She was as petite as Indira, very pale, with her black hair pulled back tightly—and she was exceedingly rude.",
+      "level": 2
+    },
+    {
+      "id": "30",
+      "text": "To my surprise, some humans found this exciting.",
+      "level": 1
+    },
+    {
+      "id": "30.1",
+      "text": "Thalia actually had a very loyal following, and her fans seemed to tremble with excitement when Thalia told them to buzz off in her affected English.",
+      "level": 2
+    },
+    {
+      "id": "30.2",
+      "text": "I even found that she had a Web site, started and maintained by fans.",
+      "level": 2
+    },
+    {
+      "id": "30.3",
+      "text": "Pam said that when Eric agreed to let Thalia live in Shreveport, it was like keeping a wild, ill-tempered bull in the yard.",
+      "level": 2
+    },
+    {
+      "id": "30.3.1",
+      "text": "Pam did not approve of the decision.",
+      "level": 3
+    },
+    {
+      "id": "31",
+      "text": "These undead citizens lived in the Fifth District.",
+      "level": 1
+    },
+    {
+      "id": "31.1",
+      "text": "To live and work under Eric's protection, they had all sworn fealty to him, so they were required to contribute some of their time to carrying out Eric's commands, even if they did not work at the bar.",
+      "level": 2
+    },
+    {
+      "id": "31.1.1",
+      "text": "Since Hurricane Katrina, more vampires had appeared in Shreveport; like humans, they had had to flee to a place of safety.",
+      "level": 3
+    },
+    {
+      "id": "31.1.2",
+      "text": "Eric had not yet decided what to do with these undead refugees, and they had not been invited to this meeting.",
+      "level": 3
+    },
+    {
+      "id": "32",
+      "text": "There were two visitors at Fangtasia tonight, one of whom outranked Eric.",
+      "level": 1
+    },
+    {
+      "id": "32.1",
+      "text": "Andre was the personal bodyguard of Queen Sophie-Anne LeClerc of Louisiana.",
+      "level": 2
+    },
+    {
+      "id": "32.1.1",
+      "text": "The Queen was currently an evacuee in Baton Rouge.",
+      "level": 3
+    },
+    {
+      "id": "32.2",
+      "text": "Andre looked very young, perhaps sixteen; his face was baby-smooth, and his pale hair was thick and abundant.",
+      "level": 2
+    },
+    {
+      "id": "32.3",
+      "text": "Andre had spent a long time in Sophie-Anne's sole care; she was his maker and his savior.",
+      "level": 2
+    },
+    {
+      "id": "32.3.1",
+      "text": "He was not wearing a saber tonight, as he was not acting as the Queen's bodyguard, but I was sure Andre was armed with something—a knife or a gun.",
+      "level": 3
+    },
+    {
+      "id": "32.3.2",
+      "text": "Andre himself was a deadly weapon, with or without assistance.",
+      "level": 3
+    },
+    {
+      "id": "33",
+      "text": "Just as Andre was about to speak to me, a deep voice came from outside his chair.",
+      "level": 1
+    },
+    {
+      "id": "33.1",
+      "text": "'Hey, Sookie.' The voice belonged to our second visitor, Jake Purifoy.",
+      "level": 2
+    },
+    {
+      "id": "34",
+      "text": "I fought the desperate urge to leave the office immediately and forced myself to remain still.",
+      "level": 1
+    },
+    {
+      "id": "34.1",
+      "text": "What a fool I was.",
+      "level": 2
+    },
+    {
+      "id": "34.2",
+      "text": "If seeing Andre hadn't made me gasp, Jake shouldn't have made me want to bolt.",
+      "level": 2
+    },
+    {
+      "id": "34.3",
+      "text": "I forced myself to nod at the attractive young man who still looked vital; I knew my greeting was awkward.",
+      "level": 2
+    },
+    {
+      "id": "34.4",
+      "text": "He inspired pity and fear in me.",
+      "level": 2
+    },
+    {
+      "id": "35",
+      "text": "Jake, born a mutant, had been attacked by a vampire and was near death from blood loss.",
+      "level": 1
+    },
+    {
+      "id": "35.1",
+      "text": "Out of what may have been a misguided act of mercy, my cousin Hadley (another vampire) had found Jake near death and turned him.",
+      "level": 2
+    },
+    {
+      "id": "35.1.1",
+      "text": "This might have been considered a good deed; but as it turned out, no one truly appreciated Hadley's kindness... not even Jake himself.",
+      "level": 3
+    },
+    {
+      "id": "35.1.2",
+      "text": "No one had ever heard of a mutant being turned into a vampire: mutants disliked and distrusted vampires, and the feeling was mutual.",
+      "level": 3
+    },
+    {
+      "id": "35.1.3",
+      "text": "This situation had been quite difficult for Jake, leaving him in no-man's-land by himself.",
+      "level": 3
+    },
+    {
+      "id": "35.1.4",
+      "text": "Since no one else stepped forward to take him in, the Queen had given Jake a position serving her.",
+      "level": 3
+    },
+    {
+      "id": "36",
+      "text": "Jake, blinded by his need for blood, had tried to make me his first meal as a vampire.",
+      "level": 1
+    },
+    {
+      "id": "36.1",
+      "text": "The result was a red scar on my arm that remains to this day.",
+      "level": 2
+    },
+    {
+      "id": "37",
+      "text": "It was going to be a truly wonderful evening.",
+      "level": 1
+    },
+    {
+      "id": "38",
+      "text": "'Miss Stackhouse,' Andre said, rising from Eric's guest chair and bowing.",
+      "level": 1
+    },
+    {
+      "id": "38.1",
+      "text": "This was a truly solicitous gesture, and my spirits lifted a little.",
+      "level": 2
+    },
+    {
+      "id": "39",
+      "text": "'Mr. Andre,' I said, bowing in return.",
+      "level": 1
+    },
+    {
+      "id": "39.1",
+      "text": "Andre waved a hand, politely indicating his vacated seat, and as this resolved my seating problem, I accepted.",
+      "level": 2
+    },
+    {
+      "id": "40",
+      "text": "Clancy looked annoyed.",
+      "level": 1
+    },
+    {
+      "id": "40.1",
+      "text": "He was supposed to offer me his seat, as he was the lesser-ranked vampire.",
+      "level": 2
+    },
+    {
+      "id": "40.2",
+      "text": "Andre's action had pointed this out as clearly as a flashing neon arrow.",
+      "level": 2
+    },
+    {
+      "id": "40.3",
+      "text": "I tried not to laugh.",
+      "level": 2
+    },
+    {
+      "id": "41",
+      "text": "'And how is Her Majesty the Queen?' I asked, trying to be as polite as Andre.",
+      "level": 1
+    },
+    {
+      "id": "41.1",
+      "text": "If I liked Sophie-Anne, it would have been an exaggeration, but I certainly respected her.",
+      "level": 2
+    },
+    {
+      "id": "42",
+      "text": "'That is one of the reasons I am here tonight,' he said. 'Eric, can we begin now?'",
+      "level": 1
+    },
+    {
+      "id": "42.1",
+      "text": "This was a gentle accusation of Eric's delaying tactics, I thought.",
+      "level": 2
+    },
+    {
+      "id": "42.2",
+      "text": "Pam sat on the floor by my chair, her feet tucked neatly under her.",
+      "level": 2
+    },
+    {
+      "id": "43",
+      "text": "'All right, we are all here. Begin, Andre. You have the floor,' Eric said with a small smile as he spoke his modern vocabulary.",
+      "level": 1
+    },
+    {
+      "id": "43.1",
+      "text": "He settled back into his chair, stretching his long legs so that his feet rested on a corner of the desk.",
+      "level": 2
+    },
+    {
+      "id": "44",
+      "text": "'Your Queen is now staying in the home of the Fourth District sheriff in Baton Rouge,' Andre said to the small gathering.",
+      "level": 1
+    },
+    {
+      "id": "44.1",
+      "text": "'Gervaise is very gracious and hospitable.'",
+      "level": 2
+    },
+    {
+      "id": "45",
+      "text": "Pam raised an eyebrow at me. If Gervaise were not hospitable, his head would have rolled by now.",
+      "level": 1
+    },
+    {
+      "id": "46",
+      "text": "'But staying in Gervaise's home is only a temporary solution,' Andre continued.",
+      "level": 1
+    },
+    {
+      "id": "46.1",
+      "text": "'We have been to New Orleans several times since the disaster.",
+      "level": 2
+    },
+    {
+      "id": "46.2",
+      "text": "Here is the report of our property condition.'",
+      "level": 2
+    },
+    {
+      "id": "47",
+      "text": "Not one vampire moved, but I could feel their attention drawn to him.",
+      "level": 1
+    },
+    {
+      "id": "48",
+      "text": "'The Queen's headquarters lost most of its roof, so there are spreading water stains on the second floor and the attic area.",
+      "level": 1
+    },
+    {
+      "id": "48.1",
+      "text": "Also, a large piece of someone else's roof fell into the Queen's headquarters, creating piles of debris and holes in the walls—that sort of thing.",
+      "level": 2
+    },
+    {
+      "id": "48.2",
+      "text": "The roof was covered with blue plastic while we dried out the interiors.",
+      "level": 2
+    },
+    {
+      "id": "48.3",
+      "text": "One of the reasons I came was to find a contractor who could start reroofing immediately.",
+      "level": 2
+    },
+    {
+      "id": "48.4",
+      "text": "So far, I have not found one, so if any of you know such a human, I will need your help.",
+      "level": 2
+    },
+    {
+      "id": "48.5",
+      "text": "A lot of cosmetics on the first floor were ruined, water flowed into the rooms, and we had some looters.",
+      "level": 2
+    },
+    {
+      "id": "49",
+      "text": "'Perhaps the Queen should stay in Baton Rouge,' Clancy said, his tone hostile.",
+      "level": 1
+    },
+    {
+      "id": "49.1",
+      "text": "'I'm sure Gervaise would be delighted to host the Queen long-term.'",
+      "level": 2
+    },
+    {
+      "id": "50",
+      "text": "Clancy was such an idiot, digging his own grave.",
+      "level": 1
+    },
+    {
+      "id": "51",
+      "text": "'A delegation from New Orleans came to Baton Rouge to visit our Queen and asked her to return to the city,' Andre said, completely ignoring Clancy.",
+      "level": 1
+    },
+    {
+      "id": "51.1",
+      "text": "'The human leaders believe that if the vampires return to New Orleans, tourism will flourish again.'",
+      "level": 2
+    },
+    {
+      "id": "51.2",
+      "text": "Andre gave Eric a cool stare. 'In the meantime, the Queen has spoken with four other sheriffs about the financial aspects of rebuilding the buildings in New Orleans.'",
+      "level": 2
+    },
+    {
+      "id": "51.2.1",
+      "text": "Eric's head moved almost imperceptibly.",
+      "level": 3
+    },
+    {
+      "id": "51.2.2",
+      "text": "It was impossible to tell his attitude toward taxing to raise funds for the Queen's reconstruction.",
+      "level": 3
+    },
+    {
+      "id": "52",
+      "text": "Ever since Anne Rice's theories about vampires had been proven true, New Orleans had been the place to go for vampires and humans who wanted to orbit them.",
+      "level": 1
+    },
+    {
+      "id": "52.1",
+      "text": "For vampires, the city was like Disneyland.",
+      "level": 2
+    },
+    {
+      "id": "52.2",
+      "text": "But since Hurricane Katrina, everything had gone to hell.",
+      "level": 2
+    },
+    {
+      "id": "52.3",
+      "text": "Even Bon Temps had felt the hurricane's impact and was still experiencing its aftereffects.",
+      "level": 2
+    },
+    {
+      "id": "52.4",
+      "text": "Our little town was now full of people fleeing from the South.",
+      "level": 2
+    },
+    {
+      "id": "53",
+      "text": "'And how are the Queen's entertainment properties?' Eric asked.",
+      "level": 1
+    },
+    {
+      "id": "53.1",
+      "text": "The Queen had previously bought a convent on the edge of a prime area to entertain large numbers of people, vampires and non-vampires alike.",
+      "level": 2
+    },
+    {
+      "id": "53.1.1",
+      "text": "Although the property was walled, it was still not easily defensible (as it was a listed building, historic, and could not be boarded up, nor could the windows be sealed), so the Queen did not live there.",
+      "level": 3
+    },
+    {
+      "id": "53.1.2",
+      "text": "I figured it was just her party house.",
+      "level": 3
+    },
+    {
+      "id": "54",
+      "text": "'It was not greatly damaged,' Andre said. 'But there were looters there as well.",
+      "level": 1
+    },
+    {
+      "id": "54.1",
+      "text": "Of course, they could not help but leave their scent behind.'",
+      "level": 2
+    },
+    {
+      "id": "54.1.1",
+      "text": "In their ability to track people by scent, vampires were second only to mutants.",
+      "level": 3
+    },
+    {
+      "id": "54.2",
+      "text": "'One of them shot that lion.'",
+      "level": 2
+    },
+    {
+      "id": "55",
+      "text": "I felt sad; I had rather liked that lion.",
+      "level": 1
+    },
+    {
+      "id": "56",
+      "text": "'Do you need our help apprehending him?' Eric asked.",
+      "level": 1
+    },
+    {
+      "id": "57",
+      "text": "Andre raised an eyebrow.",
+      "level": 1
+    },
+    {
+      "id": "58",
+      "text": "'I ask because your staff is limited now,' Eric said.",
+      "level": 1
+    },
+    {
+      "id": "59",
+      "text": "'No, we have him,' Andre said, smiling slightly.",
+      "level": 1
+    },
+    {
+      "id": "60",
+      "text": "I tried not to think about it.",
+      "level": 1
+    },
+    {
+      "id": "61",
+      "text": "'Aside from the lion and the looters, how did the property fare?' Eric returned to the topic of hurricane damage.",
+      "level": 1
+    },
+    {
+      "id": "62",
+      "text": "'When the Queen inspects other properties, she can stay there first,' Andre continued.",
+      "level": 1
+    },
+    {
+      "id": "62.1",
+      "text": "'But for a night or two at most.'",
+      "level": 2
+    },
+    {
+      "id": "63",
+      "text": "The people around nodded slightly.",
+      "level": 1
+    },
+    {
+      "id": "64",
+      "text": "'We lost personnel,' Andre said, moving to his next topic, and all the vampires became tense, even the new arrival Jake.",
+      "level": 1
+    },
+    {
+      "id": "64.1",
+      "text": "'Our initial estimate was too conservative, as you know.",
+      "level": 2
+    },
+    {
+      "id": "64.2",
+      "text": "We assumed more people would reappear after the hurricane had passed.",
+      "level": 2
+    },
+    {
+      "id": "64.3",
+      "text": "But only ten have emerged so far: five are here, three are in Baton Rouge, and two are in Monroe.",
+      "level": 2
+    },
+    {
+      "id": "64.4",
+      "text": "It looks as though we lost thirty people in Louisiana alone.",
+      "level": 2
+    },
+    {
+      "id": "64.5",
+      "text": "Mississippi lost at least ten.'",
+      "level": 2
+    },
+    {
+      "id": "65",
+      "text": "Low murmurs rippled through the room as the vampires reacted to the news.",
+      "level": 1
+    },
+    {
+      "id": "65.1",
+      "text": "In New Orleans, the density of vampires (whether permanent residents or just visitors) had always been high.",
+      "level": 2
+    },
+    {
+      "id": "65.2",
+      "text": "If Hurricane Katrina had swept through Tampa with the same intensity, the death and missing toll would have been far lower.",
+      "level": 2
+    },
+    {
+      "id": "66",
+      "text": "I raised my hand to speak.",
+      "level": 1
+    },
+    {
+      "id": "66.1",
+      "text": "'What about Bubba?' I asked, and Andre nodded at me.",
+      "level": 2
+    },
+    {
+      "id": "66.2",
+      "text": "I had not seen or heard from Bubba since the hurricane.",
+      "level": 2
+    },
+    {
+      "id": "66.3",
+      "text": "You would recognize him if you saw him.",
+      "level": 2
+    },
+    {
+      "id": "66.4",
+      "text": "Everyone on this earth knew him, at least those who had reached a certain age.",
+      "level": 2
+    },
+    {
+      "id": "66.5",
+      "text": "He had not died on the bathroom floor in Memphis.",
+      "level": 2
+    },
+    {
+      "id": "66.5.1",
+      "text": "He had not.",
+      "level": 3
+    },
+    {
+      "id": "66.6",
+      "text": "But his brain had been damaged before he was turned, and he was not a very good vampire.",
+      "level": 2
+    },
+    {
+      "id": "67",
+      "text": "'Bubba is alive,' Andre said. 'He is hiding in a crypt and subsisting on small mammals.",
+      "level": 1
+    },
+    {
+      "id": "67.1",
+      "text": "Bubba is still mentally challenged, so the Queen sent him to Tennessee to stay with a community in Nashville.'",
+      "level": 2
+    },
+    {
+      "id": "68",
+      "text": "'Andre has given me a list of missing persons,' Eric said. 'I will post it after the meeting.'",
+      "level": 1
+    },
+    {
+      "id": "69",
+      "text": "I knew some of the Queen's bodyguards and wondered how they were doing.",
+      "level": 1
+    },
+    {
+      "id": "70",
+      "text": "I had one more question and raised my hand.",
+      "level": 1
+    },
+    {
+      "id": "71",
+      "text": "'Yes, Sookie?' Andre asked.",
+      "level": 1
+    },
+    {
+      "id": "71.1",
+      "text": "His expressionless gaze fixed on me, and I began to regret speaking.",
+      "level": 2
+    },
+    {
+      "id": "72",
+      "text": "'I'm curious, if the King or Queen attends this summit, or whatever you call it, is there a—like a weather forecaster, or someone like that?'",
+      "level": 1
+    },
+    {
+      "id": "73",
+      "text": "Though Andre appeared interested, many others gave me blank stares.",
+      "level": 1
+    },
+    {
+      "id": "74",
+      "text": "'Because, you see, this summit, or meeting, or whatever it is, was supposed to be held last spring.",
+      "level": 1
+    },
+    {
+      "id": "74.1",
+      "text": "But it was postponed repeatedly, wasn't it?",
+      "level": 2
+    },
+    {
+      "id": "74.2",
+      "text": "Then Hurricane Katrina came.",
+      "level": 2
+    },
+    {
+      "id": "74.3",
+      "text": "If the summit had been held on its original date, the Queen would have already been firmly in power.",
+      "level": 2
+    },
+    {
+      "id": "74.3.1",
+      "text": "She would have had a large treasury and a large following of vampires, and perhaps they would not have been so quick to accuse her of responsibility for the King's death.",
+      "level": 3
+    },
+    {
+      "id": "74.3.2",
+      "text": "Perhaps the Queen would have already had everything she wanted.",
+      "level": 3
+    },
+    {
+      "id": "74.4",
+      "text": "However, she is now—' I was going to say 'a beggar,' but I thought better of it because of Andre's presence—'less powerful than she was.'",
+      "level": 2
+    },
+    {
+      "id": "75",
+      "text": "I had been afraid they would laugh or mock me, but instead there was thoughtful silence.",
+      "level": 1
+    },
+    {
+      "id": "76",
+      "text": "'That is one of the things you will look for at the summit,' Andre said. 'Now that you remind me, it looks miraculously possible again.",
+      "level": 1
+    },
+    {
+      "id": "76.1",
+      "text": "Eric?'",
+      "level": 2
+    },
+    {
+      "id": "77",
+      "text": "'Yes, I think it's possible,' Eric said, looking at me. 'Sookie's thinking is always creative.'",
+      "level": 1
+    },
+    {
+      "id": "78",
+      "text": "Under my elbow, Pam looked up and smiled at me.",
+      "level": 1
+    },
+    {
+      "id": "79",
+      "text": "'And what about the accusation by Jennifer Cater?' Clancy asked Andre.",
+      "level": 1
+    },
+    {
+      "id": "79.1",
+      "text": "He sat in his chair looking uncomfortable, perhaps thinking he had been clever to bring it up.",
+      "level": 2
+    },
+    {
+      "id": "80",
+      "text": "You could hear a pin drop now.",
+      "level": 1
+    },
+    {
+      "id": "80.1",
+      "text": "I didn't know what the red-haired vampire was talking about, but I figured I could glean information from their conversation rather than ask.",
+      "level": 2
+    },
+    {
+      "id": "81",
+      "text": "'The accusation is still valid,' Andre said.",
+      "level": 1
+    },
+    {
+      "id": "82",
+      "text": "Pam whispered, 'Jennifer Cater was in training to be Peter Threadgill's lieutenant.",
+      "level": 1
+    },
+    {
+      "id": "82.1",
+      "text": "She was handling his affairs in Arkansas when the riots broke out.'",
+      "level": 2
+    },
+    {
+      "id": "83",
+      "text": "I nodded, thanking Pam for the information.",
+      "level": 1
+    },
+    {
+      "id": "83.1",
+      "text": "Those Arkansas vampires, though they had not experienced the hurricane, had also experienced a precipitous drop in rank, thanks to these Louisiana vampires.",
+      "level": 2
+    },
+    {
+      "id": "84",
+      "text": "'The Queen has responded to his accusation, testifying that she had to kill Peter to save her own life,' Andre said.",
+      "level": 1
+    },
+    {
+      "id": "84.1",
+      "text": "'Of course, she has also offered to make proper compensation to the public fund.'",
+      "level": 2
+    },
+    {
+      "id": "85",
+      "text": "'Why not compensate Arkansas?' I whispered to Pam.",
+      "level": 1
+    },
+    {
+      "id": "86",
+      "text": "'Because the Queen considers that under their marriage contract, Arkansas was to fall into her sphere of influence once Peter was dead,' Pam whispered.",
+      "level": 1
+    },
+    {
+      "id": "86.1",
+      "text": "'She cannot compensate herself.",
+      "level": 2
+    },
+    {
+      "id": "86.2",
+      "text": "If Jennifer Cater wins the accusation, the Queen will not only lose Arkansas, but will have to pay a fine to Arkansas.",
+      "level": 2
+    },
+    {
+      "id": "86.3",
+      "text": "That is a very large fine.",
+      "level": 2
+    },
+    {
+      "id": "86.4",
+      "text": "She will have to return other things as well.'",
+      "level": 2
+    },
+    {
+      "id": "87",
+      "text": "Andre began to move silently around the room, indicating his displeasure with the topic.",
+      "level": 1
+    },
+    {
+      "id": "88",
+      "text": "'Do we still have that much money after the disaster?' Clancy said.",
+      "level": 1
+    },
+    {
+      "id": "88.1",
+      "text": "What an unwise question.",
+      "level": 2
+    },
+    {
+      "id": "89",
+      "text": "'The Queen hopes the accusation will be dropped,' Andre said, once again ignoring Clancy.",
+      "level": 1
+    },
+    {
+      "id": "89.1",
+      "text": "There was no expression on Andre's permanently youthful face.",
+      "level": 2
+    },
+    {
+      "id": "89.2",
+      "text": "'But clearly, the court is prepared to go to trial on this case.",
+      "level": 2
+    },
+    {
+      "id": "89.3",
+      "text": "Jennifer is suing our Queen for luring Threadgill to New Orleans, away from his own territory; and for having planned to start a war and assassinate the King.",
+      "level": 2
+    },
+    {
+      "id": "89.4",
+      "text": "This time Andre's voice came from behind me.",
+      "level": 2
+    },
+    {
+      "id": "90",
+      "text": "'But that is not true,' I said.",
+      "level": 1
+    },
+    {
+      "id": "90.1",
+      "text": "Sophie-Anne did not kill the King.",
+      "level": 2
+    },
+    {
+      "id": "90.2",
+      "text": "I was present when he died.",
+      "level": 2
+    },
+    {
+      "id": "90.3",
+      "text": "The vampire standing behind me now was the killer of Threadgill, and I wished he would step forward and say it.",
+      "level": 2
+    },
+    {
+      "id": "91",
+      "text": "I felt Andre's cold fingers brush against my neck.",
+      "level": 1
+    },
+    {
+      "id": "91.1",
+      "text": "I could not say how I knew the fingers were Andre's, but at the instant of their slight touch, I realized with a horrible certainty: that other than Andre and Sophie-Anne, I was the only witness to the King's death.",
+      "level": 2
+    },
+    {
+      "id": "92",
+      "text": "I had never thought of it before, I swear, and for a moment, my heart stopped beating.",
+      "level": 1
+    },
+    {
+      "id": "92.1",
+      "text": "At that moment, I glanced at least half the vampires in the room staring at me.",
+      "level": 2
+    },
+    {
+      "id": "92.2",
+      "text": "Eric's eyes were wide.",
+      "level": 2
+    },
+    {
+      "id": "92.3",
+      "text": "Then my heart resumed beating, and the moment ended, as if it had never happened.",
+      "level": 2
+    },
+    {
+      "id": "92.4",
+      "text": "But Eric's hand gave a violent jerk on the table, and I knew he would not forget that moment easily; he would want the truth.",
+      "level": 2
+    },
+    {
+      "id": "93",
+      "text": "'So you think there will be a trial?' Eric asked Andre.",
+      "level": 1
+    },
+    {
+      "id": "94",
+      "text": "'If the Queen attends the summit as the ruler of New Orleans, I believe the court will mediate some sort of agreement between the Queen and Jennifer.",
+      "level": 1
+    },
+    {
+      "id": "94.1",
+      "text": "Perhaps the agreement will include Jennifer's promotion to deputy Queen with a substantial bonus, or that sort of thing.",
+      "level": 2
+    },
+    {
+      "id": "94.2",
+      "text": "But at this time—' There was a long silence. After all, New Orleans was not what it used to be, and perhaps never would be again.",
+      "level": 2
+    },
+    {
+      "id": "94.3",
+      "text": "Sophie-Anne was a nonentity now.",
+      "level": 2
+    },
+    {
+      "id": "94.4",
+      "text": "'Now, because of Jennifer's persistence, I think the court will try the case,' Andre said, and then fell silent again.",
+      "level": 2
+    },
+    {
+      "id": "95",
+      "text": "'We all know that what they are claiming is not the truth,' a clear, calm voice said from a corner.",
+      "level": 1
+    },
+    {
+      "id": "95.1",
+      "text": "I had been trying my best to ignore my ex-boyfriend Bill's presence, but it was not easy.",
+      "level": 2
+    },
+    {
+      "id": "95.2",
+      "text": "'Eric was there, and I was there, and Sookie was there.'",
+      "level": 2
+    },
+    {
+      "id": "95.3",
+      "text": "The vampire (Nameless, I told myself) continued.",
+      "level": 2
+    },
+    {
+      "id": "96",
+      "text": "It was true.",
+      "level": 1
+    },
+    {
+      "id": "96.1",
+      "text": "Jennifer Cater's claim—that the Queen lured the King to her party house with plans to murder him—was utter nonsense.",
+      "level": 2
+    },
+    {
+      "id": "96.2",
+      "text": "The massacre had been caused by the King's henchmen having a Queen's subordinate fired.",
+      "level": 2
+    },
+    {
+      "id": "97",
+      "text": "Eric smiled as he remembered.",
+      "level": 1
+    },
+    {
+      "id": "97.1",
+      "text": "He was enjoying the fight.",
+      "level": 2
+    },
+    {
+      "id": "97.2",
+      "text": "'I'll explain who started the war,' he said. 'The King had done his best to set a trap for the Queen, but thanks to our Sookie, he had failed.",
+      "level": 2
+    },
+    {
+      "id": "97.3",
+      "text": "When his plot had not gone as planned, he had simply gone to direct attack.'",
+      "level": 2
+    },
+    {
+      "id": "97.4",
+      "text": "Eric continued, 'I haven't seen Jennifer in twenty years.",
+      "level": 2
+    },
+    {
+      "id": "97.5",
+      "text": "She rose quickly and must be very arrogant now.'",
+      "level": 2
+    },
+    {
+      "id": "98",
+      "text": "Andre paced to my right, and I could see him, which was a relief.",
+      "level": 1
+    },
+    {
+      "id": "98.1",
+      "text": "He nodded. Again, all the vampires in the room shifted collectively, not too neatly, but close.",
+      "level": 2
+    },
+    {
+      "id": "98.2",
+      "text": "Rarely had I felt like such an outsider: in this room full of living dead, I was the only one with warm blood.",
+      "level": 2
+    },
+    {
+      "id": "99",
+      "text": "'Yes,' Andre said. 'The Queen wanted the entire contingent to accompany her at first.",
+      "level": 1
+    },
+    {
+      "id": "99.1",
+      "text": "But since we were forced to begin cutting back, the number has been reduced.'",
+      "level": 2
+    },
+    {
+      "id": "99.2",
+      "text": "Andre moved close enough to touch me again, a breath away from my face.",
+      "level": 2
+    },
+    {
+      "id": "100",
+      "text": "This idea inspired a mini-epiphany: this was what it felt like to be a normal person.",
+      "level": 1
+    },
+    {
+      "id": "100.1",
+      "text": "I could not know the true intentions and plans of the companions around me.",
+      "level": 2
+    },
+    {
+      "id": "100.2",
+      "text": "This was how real people lived.",
+      "level": 2
+    },
+    {
+      "id": "100.3",
+      "text": "It was terrifying and exhilarating, much like walking through a crowded room blindfolded.",
+      "level": 2
+    },
+    {
+      "id": "100.4",
+      "text": "How did normal people endure the uncertainties of everyday life?",
+      "level": 2
+    },
+    {
+      "id": "101",
+      "text": "'Since other humans will be attending the summit, the Queen wants this lady to accompany her,' Andre continued.",
+      "level": 1
+    },
+    {
+      "id": "101.1",
+      "text": "He was speaking strictly to Eric, as if the others in the room did not exist.",
+      "level": 2
+    },
+    {
+      "id": "101.2",
+      "text": "'She wants to know their true thoughts.",
+      "level": 2
+    },
+    {
+      "id": "101.3",
+      "text": "Stan will also bring his telepath.",
+      "level": 2
+    },
+    {
+      "id": "101.4",
+      "text": "Do you know that person?'",
+      "level": 2
+    },
+    {
+      "id": "102",
+      "text": "'I'm sitting right here,' I mumbled, and only Pam noticed, giving me a sunny smile.",
+      "level": 1
+    },
+    {
+      "id": "102.1",
+      "text": "Then, seeing all those cold eyes fixed on me, I realized they were all waiting for me, and that Andre was speaking directly to me.",
+      "level": 2
+    },
+    {
+      "id": "102.2",
+      "text": "I was accustomed to vampires talking among themselves and ignoring my presence, so I was surprised.",
+      "level": 2
+    },
+    {
+      "id": "102.3",
+      "text": "I replayed Andre's words in my mind and then realized he had asked me a question.",
+      "level": 2
+    },
+    {
+      "id": "103",
+      "text": "'I have met only one other telepath in my life, and he lives in Dallas, so I assume it is the same person—the waiter Barry.",
+      "level": 1
+    },
+    {
+      "id": "103.1",
+      "text": "When I discovered his talent, he was working at a vampire hotel in Dallas.'",
+      "level": 2
+    },
+    {
+      "id": "104",
+      "text": "'What information do you have about him?'",
+      "level": 1
+    },
+    {
+      "id": "105",
+      "text": "'He was younger than I, and he was weaker—at least when I knew him.",
+      "level": 1
+    },
+    {
+      "id": "105.1",
+      "text": "He didn't want to accept what he was, the way I accepted myself.'",
+      "level": 2
+    },
+    {
+      "id": "105.2",
+      "text": "I shrugged; that was all I knew.",
+      "level": 2
+    },
+    {
+      "id": "106",
+      "text": "'Sookie will go,' Eric said to Andre. 'She is always best at these things.'",
+      "level": 1
+    },
+    {
+      "id": "107",
+      "text": "This was delightful flattery, although I dimly recalled Eric saying he had only encountered one other telepath before.",
+      "level": 1
+    },
+    {
+      "id": "107.1",
+      "text": "It was also infuriating, because he was implying to Andre that my merits were due to him, not to myself.",
+      "level": 2
+    },
+    {
+      "id": "108",
+      "text": "Although I had always looked forward to seeing the world outside my small town, I still hoped to find a way to avoid going to Rhodes.",
+      "level": 1
+    },
+    {
+      "id": "108.1",
+      "text": "But I had promised months ago to attend the summit as one of the Queen's paid employees.",
+      "level": 2
+    },
+    {
+      "id": "108.2",
+      "text": "For the past month, I had been working long hours at Merlotte's, just to work enough hours so that the other waitresses would not mind covering for me for a week.",
+      "level": 2
+    },
+    {
+      "id": "108.3",
+      "text": "My boss, Sam, had made me a little chart to track my overtime hours.",
+      "level": 2
+    },
+    {
+      "id": "109",
+      "text": "'Clancy will remain to run the bar,' Eric said.",
+      "level": 1
+    },
+    {
+      "id": "110",
+      "text": "'This human gets to go, and I have to stay?' the red-haired manager said, not pleased with Eric's decision.",
+      "level": 1
+    },
+    {
+      "id": "110.1",
+      "text": "'That's the way it is,' Eric said cheerfully. 'Felicia will stay to help you. Bill, you stay too.'",
+      "level": 2
+    },
+    {
+      "id": "111",
+      "text": "'No,' came the steady, calm voice from the corner.",
+      "level": 1
+    },
+    {
+      "id": "111.1",
+      "text": "'The Queen needs me.",
+      "level": 2
+    },
+    {
+      "id": "111.2",
+      "text": "I spent a lot of time on that database, and she has me push it to market at the summit to offset her losses.'",
+      "level": 2
+    },
+    {
+      "id": "112",
+      "text": "Eric froze like a statue for a minute, then he moved, his eyebrows lifting slightly.",
+      "level": 1
+    },
+    {
+      "id": "112.1",
+      "text": "'Yes, I had almost forgotten your computer skills,' he said.",
+      "level": 2
+    },
+    {
+      "id": "112.1.1",
+      "text": "But his tone, judging by the interest or respect he showed, was as if he were saying, 'Oh, I had almost forgotten you could spell cat too.'",
+      "level": 3
+    },
+    {
+      "id": "112.2",
+      "text": "'Then I suppose you must come with us. Maxwell?'",
+      "level": 2
+    },
+    {
+      "id": "113",
+      "text": "'I will stay if you wish me to,' Maxwell Lee tried to show he knew how to be a good subordinate.",
+      "level": 1
+    },
+    {
+      "id": "113.1",
+      "text": "He glanced around the room to emphasize the point.",
+      "level": 2
+    },
+    {
+      "id": "114",
+      "text": "Eric nodded.",
+      "level": 1
+    },
+    {
+      "id": "114.1",
+      "text": "I guessed Maxwell would receive a nice toy for Christmas, and Bill—whoops, no—Nameless—would get a pile of dust.",
+      "level": 2
+    },
+    {
+      "id": "114.2",
+      "text": "'Then you will stay here.",
+      "level": 2
+    },
+    {
+      "id": "114.3",
+      "text": "You too, Thalia. But you must promise me to behave yourself at the bar.'",
+      "level": 2
+    },
+    {
+      "id": "114.3.1",
+      "text": "Thalia was asked to do her duty at the bar, which was to sit around and do nothing for a few nights, just play mysterious and vampy, but even so, there was no telling what might happen.",
+      "level": 3
+    },
+    {
+      "id": "115",
+      "text": "Thalia, who always looked morose and pretentious, gave a brief nod.",
+      "level": 1
+    },
+    {
+      "id": "115.1",
+      "text": "'I didn't want to go anyway,' she muttered.",
+      "level": 2
+    },
+    {
+      "id": "115.2",
+      "text": "Her round, black eyes held only contempt for the world.",
+      "level": 2
+    },
+    {
+      "id": "115.3",
+      "text": "She had seen too much in her long life, and had not seemed to have a very good time over the centuries, in my opinion.",
+      "level": 2
+    },
+    {
+      "id": "115.4",
+      "text": "I did my best to avoid Thalia.",
+      "level": 2
+    },
+    {
+      "id": "115.5",
+      "text": "I was surprised she could even be around the other vampires; she struck me as a reprobate.",
+      "level": 2
+    },
+    {
+      "id": "116",
+      "text": "'She is not in the mood to lead,' Pam whispered in my ear.",
+      "level": 1
+    },
+    {
+      "id": "116.1",
+      "text": "'She just wants peace.",
+      "level": 2
+    },
+    {
+      "id": "116.2",
+      "text": "She was thrown out of Illinois because she was too pugnacious after the Great Revelation.'",
+      "level": 2
+    },
+    {
+      "id": "116.2.1",
+      "text": "'The Great Revelation' was vampire jargon for the night they came out on television and announced their existence to the world, and their desire to step out of the shadows and into human society.",
+      "level": 3
+    },
+    {
+      "id": "117",
+      "text": "'Eric allows Thalia to do as she pleases as long as she follows the rules and shows up when she is supposed to be at the bar,' Pam continued whispering.",
+      "level": 1
+    },
+    {
+      "id": "117.1",
+      "text": "Eric was the ruler of this little world, and no one would forget it.",
+      "level": 2
+    },
+    {
+      "id": "117.2",
+      "text": "'She knows what the punishment is if she steps out of line.",
+      "level": 2
+    },
+    {
+      "id": "117.3",
+      "text": "Sometimes she seems to forget how much she dislikes that punishment.",
+      "level": 2
+    },
+    {
+      "id": "117.4",
+      "text": "She should read Abby and get some ideas.",
+      "level": 2
+    },
+    {
+      "id": "118",
+      "text": "If you're not getting anything out of your life, you need to Oh, do something for others, or get a new hobby, or something, right?",
+      "level": 1
+    },
+    {
+      "id": "118.1",
+      "text": "Isn't that the usual advice?",
+      "level": 2
+    },
+    {
+      "id": "118.2",
+      "text": "I imagined Thalia volunteering to work the night shift at a soup kitchen, and I shuddered.",
+      "level": 2
+    },
+    {
+      "id": "118.3",
+      "text": "The mere thought of Thalia knitting with two long, sharp needles made me tremble with fear.",
+      "level": 2
+    },
+    {
+      "id": "118.4",
+      "text": "To hell with therapy.",
+      "level": 2
+    },
+    {
+      "id": "119",
+      "text": "'So, attending the summit are Andre, our Queen, Sookie, myself, Bill, and Pam,' Eric said.",
+      "level": 1
+    },
+    {
+      "id": "119.1",
+      "text": "'Lawyer Cataliades and his errand boy nephew.",
+      "level": 2
+    },
+    {
+      "id": "119.2",
+      "text": "Oh, yes, Gervaise of the Fourth District and his human companion, since Gervaise was so generous in hosting the Queen, we'll make a concession.",
+      "level": 2
+    },
+    {
+      "id": "119.3",
+      "text": "Rasul, the driver. And Sigebert.",
+      "level": 2
+    },
+    {
+      "id": "119.4",
+      "text": "That's our contingent.",
+      "level": 2
+    },
+    {
+      "id": "119.5",
+      "text": "I know some of you are disappointed, and I can only hope that Louisiana will be better next year.",
+      "level": 2
+    },
+    {
+      "id": "119.6",
+      "text": "Arkansas too, since it is now part of our territory.'",
+      "level": 2
+    },
+    {
+      "id": "120",
+      "text": "'I think that is all that needs to be said for all of us who will be attending,' Andre said.",
+      "level": 1
+    },
+    {
+      "id": "120.1",
+      "text": "Other matters he and Eric would discuss privately.",
+      "level": 2
+    },
+    {
+      "id": "120.2",
+      "text": "Andre did not touch me again, which was good.",
+      "level": 2
+    },
+    {
+      "id": "120.3",
+      "text": "Andre scared me, and even my pink-polished toenails felt the fear.",
+      "level": 2
+    },
+    {
+      "id": "120.4",
+      "text": "Of course, I felt the same way about everyone in the room.",
+      "level": 2
+    },
+    {
+      "id": "120.5",
+      "text": "If I had any sense, I would move to Wyoming, where the vampire population was minimal.",
+      "level": 2
+    },
+    {
+      "id": "120.6",
+      "text": "Some times I really, really wanted to do that.",
+      "level": 2
+    },
+    {
+      "id": "121",
+      "text": "I tore a page from my notepad in my purse and wrote down the dates Eric had notified us of our departure and return, the time our chartered Anubis flight would arrive in Baton Rouge to pick up the Shreveport contingent, and a list of clothing required.",
+      "level": 1
+    },
+    {
+      "id": "121.1",
+      "text": "With a sense of dismay, I realized I would have to borrow clothes from my friends again.",
+      "level": 2
+    },
+    {
+      "id": "121.2",
+      "text": "Eric added, 'Sookie, you would not need these clothes except for this trip.",
+      "level": 2
+    },
+    {
+      "id": "121.3",
+      "text": "I have already called your friends' shop, and you have cash credits there, so use them.'",
+      "level": 2
+    },
+    {
+      "id": "122",
+      "text": "I felt my face flush.",
+      "level": 1
+    },
+    {
+      "id": "122.1",
+      "text": "I felt like a pauper.",
+      "level": 2
+    },
+    {
+      "id": "122.2",
+      "text": "Eric continued to the others, 'Staff members have accounts at some stores in Shreveport, but that would be too inconvenient for you.'",
+      "level": 2
+    },
+    {
+      "id": "122.3",
+      "text": "My shoulders relaxed, and I hoped he was telling the truth.",
+      "level": 2
+    },
+    {
+      "id": "122.4",
+      "text": "He was impassive.",
+      "level": 2
+    },
+    {
+      "id": "123",
+      "text": "'We may have suffered a natural disaster, but we cannot go out dressed shabbily,' Eric said, giving me only a careful glance.",
+      "level": 1
+    },
+    {
+      "id": "124",
+      "text": "'Cannot look shabbily,' I wrote down.",
+      "level": 1
+    },
+    {
+      "id": "125",
+      "text": "'Is everyone clear on the purpose of our attendance at this meeting: to support our Queen, especially as she tries to rid herself of these absurd accusations; and also to let everyone know that Louisiana is still a prestigious state.",
+      "level": 1
+    },
+    {
+      "id": "125.1",
+      "text": "None of the survivors from Arkansas who accompanied their King to Louisiana could tell the story.'",
+      "level": 2
+    },
+    {
+      "id": "125.2",
+      "text": "Eric smiled, and it was not a pleasant smile.",
+      "level": 2
+    },
+    {
+      "id": "126",
+      "text": "And I had not known that until tonight.",
+      "level": 1
+    },
+    {
+      "id": "127",
+      "text": "My God, that was convenient.",
+      "level": 1
+    },
+    {
+      "id": "128",
+      "text": "Halleigh, since you're marrying a cop, I thought perhaps you'd like to know how big a cop's nightstick is.",
+      "level": 1
+    },
+    {
+      "id": "128.1",
+      "text": "Elmer Calvaudry asked.",
+      "level": 2
+    },
+    {
+      "id": "128.2",
+      "text": "I sat next to the bride-to-be, Halleigh Robinson, because I had been assigned an important task.",
+      "level": 2
+    },
+    {
+      "id": "128.3",
+      "text": "When Halleigh opened all the silver-wrapped boxes and floral gift wraps, I was to record each wedding gift and its giver.",
+      "level": 2
+    },
+    {
+      "id": "129",
+      "text": "When Vaudry, the teacher in her late thirties, asked an obscene question at the bride's solemn middle-class wedding shower, no one seemed to register the slightest surprise.",
+      "level": 1
+    },
+    {
+      "id": "129.1",
+      "text": "'Elmer Claire, how come I don't know?' Halleigh said, and undoubtedly there were giggles and whispers.",
+      "level": 2
+    },
+    {
+      "id": "130",
+      "text": "'And handcuffs?' Elmer Claire asked.",
+      "level": 1
+    },
+    {
+      "id": "130.1",
+      "text": "'Have you ever used those handcuffs?'",
+      "level": 2
+    },
+    {
+      "id": "131",
+      "text": "The voices of Southern women rose from Marcia Albanese's living room, the hostess who had willingly made herself a sacrificial lamb: offering her home as a site for the shower.",
+      "level": 1
+    },
+    {
+      "id": "131.1",
+      "text": "Other hostesses brought their own food.",
+      "level": 2
+    },
+    {
+      "id": "132",
+      "text": "'Elmer Claire, you are something else!' Marcia said, sitting at the dining table.",
+      "level": 1
+    },
+    {
+      "id": "132.1",
+      "text": "But she was laughing.",
+      "level": 2
+    },
+    {
+      "id": "132.2",
+      "text": "Elmer Claire played the role of the dearest one, and the others were simply happy to let her wallow in it.",
+      "level": 2
+    },
+    {
+      "id": "132.3",
+      "text": "If Caroline Bellefleur had been at the shower, Elmer Claire would not have been so crass.",
+      "level": 2
+    },
+    {
+      "id": "132.4",
+      "text": "Caroline was the ruling official of Bon Temps.",
+      "level": 2
+    },
+    {
+      "id": "132.5",
+      "text": "Miss Caroline was a million years old.",
+      "level": 2
+    },
+    {
+      "id": "132.6",
+      "text": "Only something of extreme importance would keep Miss Caroline from such a significant family occasion, and something critical had indeed occurred.",
+      "level": 2
+    },
+    {
+      "id": "133",
+      "text": "To the shock of everyone in Bontemps, Caroline Bellefleur had suffered a heart attack, but to her family, this was not a matter of particular surprise.",
+      "level": 1
+    },
+    {
+      "id": "133.1",
+      "text": "The grand Bellefleur family's double wedding (Halleigh and Andy's, Portia and her teller's) had been set for early spring.",
+      "level": 2
+    },
+    {
+      "id": "133.2",
+      "text": "Caroline Bellefleur's sudden decline in health had made the wedding arrangements a bit hasty.",
+      "level": 2
+    },
+    {
+      "id": "133.3",
+      "text": "Miss Caroline had fallen ill with a heart condition just before the wedding, followed by depression.",
+      "level": 2
+    },
+    {
+      "id": "133.4",
+      "text": "It was agreed by Andy's sister Portia and her new husband, and by Andy and Halleigh, that the wedding would be postponed until the end of October.",
+      "level": 2
+    },
+    {
+      "id": "133.5",
+      "text": "But I had heard that Miss Caroline would not recover as her grandchildren had hoped, and it seemed she would not be able to return to her former physical condition.",
+      "level": 2
+    },
+    {
+      "id": "134",
+      "text": "Halleigh blushed and struggled mightily with the ribbon that held the box tightly closed.",
+      "level": 1
+    },
+    {
+      "id": "134.1",
+      "text": "I handed her a pair of scissors; tradition dictated that the ribbon not be cut.",
+      "level": 2
+    },
+    {
+      "id": "134.2",
+      "text": "This tradition of tying the ribbon to the box predicted the number of children the newlyweds would have, but I bet Halleigh had a quick solution.",
+      "level": 2
+    },
+    {
+      "id": "134.3",
+      "text": "She cut the ribbon at the knot, so no one noticed her defiance of tradition.",
+      "level": 2
+    },
+    {
+      "id": "134.4",
+      "text": "She gave me a grateful look.",
+      "level": 2
+    },
+    {
+      "id": "134.5",
+      "text": "We always did our best at our parties, and in matching pale blue tops and pants with pink rose-print jackets over them, Halleigh looked so cute and young.",
+      "level": 2
+    },
+    {
+      "id": "135",
+      "text": "I felt as if I were observing an interesting tribe in another country, a tribe that spoke my language.",
+      "level": 1
+    },
+    {
+      "id": "135.1",
+      "text": "I was a barmaid, and I was telepathic, but my appearance was so normal that people found it hard to believe; they had to forget that point.",
+      "level": 2
+    },
+    {
+      "id": "135.2",
+      "text": "But I was on the guest list, so I had made an effort with my outfit.",
+      "level": 2
+    },
+    {
+      "id": "135.3",
+      "text": "I was sure I had made myself look pretty.",
+      "level": 2
+    },
+    {
+      "id": "135.4",
+      "text": "I wore a sleeveless white blouse, yellow sweatpants, and orange sandals.",
+      "level": 2
+    },
+    {
+      "id": "135.5",
+      "text": "I let my hair down, so it fell loosely over my shoulders.",
+      "level": 2
+    },
+    {
+      "id": "135.6",
+      "text": "I wore yellow earrings and a gold necklace, and it all looked very nice.",
+      "level": 2
+    },
+    {
+      "id": "136",
+      "text": "It was the end of September, but it was still hot.",
+      "level": 1
+    },
+    {
+      "id": "136.1",
+      "text": "All the ladies wore clothes suitable for hot weather, but some, not fearing the heat, wore autumn clothes.",
+      "level": 2
+    },
+    {
+      "id": "136.2",
+      "text": "I knew everyone at the shower, of course.",
+      "level": 2
+    },
+    {
+      "id": "136.3",
+      "text": "Bon Temps was not a big place, and my family had lived here for over two hundred years.",
+      "level": 2
+    },
+    {
+      "id": "136.4",
+      "text": "Knowing the people here was different from interacting with them, and I was happy to do the gift-recording task.",
+      "level": 2
+    },
+    {
+      "id": "136.5",
+      "text": "I thought Marcia Albanese was even more cutting than I had described.",
+      "level": 2
+    },
+    {
+      "id": "136.6",
+      "text": "I had actually heard her thoughts, though I tried my best not to listen.",
+      "level": 2
+    },
+    {
+      "id": "136.7",
+      "text": "My little task helped me a lot; I received much mental overflow.",
+      "level": 2
+    },
+    {
+      "id": "136.8",
+      "text": "Halleigh was in heaven, receiving gifts, being the center of attention, and about to marry a good man.",
+      "level": 2
+    },
+    {
+      "id": "136.9",
+      "text": "I did not believe she knew her future husband very well, but I was sure Andy Bellefleur had many fine sides I had never heard of or seen.",
+      "level": 2
+    },
+    {
+      "id": "136.10",
+      "text": "I knew Andy was a fine, upstanding middle-class man in town, and I knew he had buried his fears and desires very deep.",
+      "level": 2
+    },
+    {
+      "id": "136.11",
+      "text": "Halleigh's mother had come from Mandeville for the shower, and of course she was doing her best to support her daughter.",
+      "level": 2
+    },
+    {
+      "id": "136.12",
+      "text": "I thought I was the only one who realized this in the minority that disliked her.",
+      "level": 2
+    },
+    {
+      "id": "136.13",
+      "text": "Because Linette Robinson, every minute she sat in Marcia's living room, was uncomfortable.",
+      "level": 2
+    },
+    {
+      "id": "136.14",
+      "text": "At this crucial time, while she was laughing at another joke made by Elmer Claire, she was fantasizing about sitting at home drinking ice tea and reading a good book.",
+      "level": 2
+    },
+    {
+      "id": "136.15",
+      "text": "I glanced at my watch and whispered to her that the shower would be over in an hour, and I remembered how I had startled her.",
+      "level": 2
+    },
+    {
+      "id": "136.16",
+      "text": "I scribbled 'Selah Pumphrey—Dish Towel' and went on to the next gift.",
+      "level": 2
+    },
+    {
+      "id": "136.17",
+      "text": "When Selah Pumphrey swaggered through the door, she expected a big reaction from me, because Selah had been dating the vampire I dumped for weeks.",
+      "level": 2
+    },
+    {
+      "id": "136.18",
+      "text": "Selah had been fantasizing that I would jump on her and beat her head off.",
+      "level": 2
+    },
+    {
+      "id": "136.19",
+      "text": "She had no idea of me, so she naturally had no idea that vampire had ceased to be of any interest to me.",
+      "level": 2
+    },
+    {
+      "id": "136.20",
+      "text": "I guessed she was invited as the real estate agent for Andy and Halleigh's little house.",
+      "level": 2
+    },
+    {
+      "id": "136.21",
+      "text": "I wrote 'Tara Thornton—Lace Teddy' and smiled at my good friend Tara, who had picked out Halleigh's wedding gift from her store's inventory.",
+      "level": 2
+    },
+    {
+      "id": "136.22",
+      "text": "Of course, Elmer Claire would have had a lot to say about that teddy, and at least the atmosphere was fun at this time.",
+      "level": 2
+    },
+    {
+      "id": "136.23",
+      "text": "A group of women could not stand Elmer Claire's humor, some of them wondering how her husband could stand her.",
+      "level": 2
+    },
+    {
+      "id": "136.24",
+      "text": "Including me, Linette Robinson, Halleigh..."
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Fangtasia",
+      "frequency": 10,
+      "context": "A vampire nightclub in Shreveport."
+    },
+    {
+      "name": "Vampire",
+      "frequency": 25,
+      "context": "Undead beings with supernatural powers, living in secret or publicly."
+    },
+    {
+      "name": "Eric",
+      "frequency": 12,
+      "context": "Owner of Fangtasia, sheriff of the Fifth District, Pam's maker."
+    },
+    {
+      "name": "Pam",
+      "frequency": 10,
+      "context": "Eric's second-in-command, works at Fangtasia, Eric's maker."
+    },
+    {
+      "name": "Shreveport",
+      "frequency": 4,
+      "context": "A city in Louisiana, where Fangtasia is located."
+    },
+    {
+      "name": "Hurricane Katrina",
+      "frequency": 4,
+      "context": "A major hurricane that significantly impacted Louisiana and the vampire community."
+    },
+    {
+      "name": "Queen Sophie-Anne LeClerc",
+      "frequency": 7,
+      "context": "The Queen of Louisiana vampires."
+    },
+    {
+      "name": "Andre",
+      "frequency": 8,
+      "context": "Queen Sophie-Anne's personal bodyguard."
+    },
+    {
+      "name": "Sookie",
+      "frequency": 15,
+      "context": "The narrator, a telepathic barmaid."
+    },
+    {
+      "name": "Fifth District",
+      "frequency": 3,
+      "context": "A region in Louisiana, covering northwestern Louisiana, where Eric is sheriff."
+    },
+    {
+      "name": "Bon Temps",
+      "frequency": 3,
+      "context": "A small town where some of the characters live."
+    },
+    {
+      "name": "Meeting/Summit",
+      "frequency": 8,
+      "context": "A gathering of vampires to discuss important matters, often related to the Queen or regional issues."
+    },
+    {
+      "name": "Clancy",
+      "frequency": 6,
+      "context": "The bar manager of Fangtasia."
+    },
+    {
+      "name": "Jake Purifoy",
+      "frequency": 4,
+      "context": "A mutant turned vampire, previously attacked Sookie."
+    },
+    {
+      "name": "Bill Compton",
+      "frequency": 3,
+      "context": "Sookie's ex-boyfriend, a vampire."
+    },
+    {
+      "name": "Thalia",
+      "frequency": 4,
+      "context": "An ancient and rude vampire living in Shreveport."
+    },
+    {
+      "name": "Jennifer Cater",
+      "frequency": 3,
+      "context": "A vampire suing Queen Sophie-Anne."
+    },
+    {
+      "name": "Peter Threadgill",
+      "frequency": 3,
+      "context": "Deceased individual, subject of a legal accusation against the Queen."
+    },
+    {
+      "name": "New Orleans",
+      "frequency": 5,
+      "context": "A city in Louisiana, important for vampires and tourism, heavily impacted by Hurricane Katrina."
+    },
+    {
+      "name": "Halleigh Robinson",
+      "frequency": 4,
+      "context": "A bride-to-be at a wedding shower."
+    },
+    {
+      "name": "Wedding Shower",
+      "frequency": 3,
+      "context": "A party for a bride-to-be."
+    },
+    {
+      "name": "Elmer Calvaudry",
+      "frequency": 3,
+      "context": "A teacher who makes crude jokes at a wedding shower."
+    },
+    {
+      "name": "Caroline Bellefleur",
+      "frequency": 3,
+      "context": "The ruling official of Bon Temps, who fell ill."
+    },
+    {
+      "name": "Mutant",
+      "frequency": 3,
+      "context": "Individuals with supernatural abilities, distinct from vampires."
+    },
+    {
+      "name": "Telepath",
+      "frequency": 4,
+      "context": "Individuals with the ability to read minds."
+    }
+  ],
+  "relations": [
+    {
+      "source": "Fangtasia",
+      "target": "Vampire",
+      "type": "is_a_type_of_place_for"
+    },
+    {
+      "source": "Eric",
+      "target": "Fangtasia",
+      "type": "owns"
+    },
+    {
+      "source": "Eric",
+      "target": "Sheriff",
+      "type": "is_a"
+    },
+    {
+      "source": "Eric",
+      "target": "Pam",
+      "type": "is_maker_of"
+    },
+    {
+      "source": "Pam",
+      "target": "Eric",
+      "type": "works_for"
+    },
+    {
+      "source": "Pam",
+      "target": "Vampire",
+      "type": "is_a"
+    },
+    {
+      "source": "Vampire",
+      "target": "Undead",
+      "type": "is_a"
+    },
+    {
+      "source": "Queen Sophie-Anne LeClerc",
+      "target": "Vampire",
+      "type": "is_a"
+    },
+    {
+      "source": "Queen Sophie-Anne LeClerc",
+      "target": "Louisiana",
+      "type": "rules"
+    },
+    {
+      "source": "Andre",
+      "target": "Queen Sophie-Anne LeClerc",
+      "type": "is_bodyguard_of"
+    },
+    {
+      "source": "Sookie",
+      "target": "Telepath",
+      "type": "is_a"
+    },
+    {
+      "source": "Sookie",
+      "target": "Barmaid",
+      "type": "is_a"
+    },
+    {
+      "source": "Hurricane Katrina",
+      "target": "Louisiana",
+      "type": "impacted"
+    },
+    {
+      "source": "Vampire",
+      "target": "Hurricane Katrina",
+      "type": "affected_by"
+    },
+    {
+      "source": "Clancy",
+      "target": "Fangtasia",
+      "type": "manages"
+    },
+    {
+      "source": "Jake Purifoy",
+      "target": "Mutant",
+      "type": "was_a"
+    },
+    {
+      "source": "Jake Purifoy",
+      "target": "Vampire",
+      "type": "is_a"
+    },
+    {
+      "source": "Jake Purifoy",
+      "target": "Sookie",
+      "type": "attacked"
+    },
+    {
+      "source": "Bill Compton",
+      "target": "Vampire",
+      "type": "is_a"
+    },
+    {
+      "source": "Bill Compton",
+      "target": "Sookie",
+      "type": "ex_boyfriend_of"
+    },
+    {
+      "source": "Thalia",
+      "target": "Vampire",
+      "type": "is_a"
+    },
+    {
+      "source": "Jennifer Cater",
+      "target": "Queen Sophie-Anne LeClerc",
+      "type": "is_suing"
+    },
+    {
+      "source": "Peter Threadgill",
+      "target": "King",
+      "type": "was_a"
+    },
+    {
+      "source": "New Orleans",
+      "target": "Vampire",
+      "type": "is_important_for"
+    },
+    {
+      "source": "Halleigh Robinson",
+      "target": "Wedding Shower",
+      "type": "attends"
+    },
+    {
+      "source": "Elmer Calvaudry",
+      "target": "Teacher",
+      "type": "is_a"
+    },
+    {
+      "source": "Caroline Bellefleur",
+      "target": "Bon Temps",
+      "type": "rules"
+    },
+    {
+      "source": "Caroline Bellefleur",
+      "target": "Ill",
+      "type": "became"
+    },
+    {
+      "source": "Mutant",
+      "target": "Vampire",
+      "type": "distrusts"
+    },
+    {
+      "source": "Telepath",
+      "target": "Mind",
+      "type": "reads"
+    },
+    {
+      "source": "Meeting/Summit",
+      "target": "Queen Sophie-Anne LeClerc",
+      "type": "involves"
+    },
+    {
+      "source": "Meeting/Summit",
+      "target": "Louisiana",
+      "type": "discusses_status_of"
+    }
+  ],
+  "hierarchy": {
+    "main_topics": [
+      "Meeting of Vampires",
+      "Legal and Political Issues",
+      "Personal Lives and Relationships",
+      "Social Gatherings"
+    ],
+    "structure": "The document is structured around a meeting of vampires discussing various issues, interwoven with flashbacks and descriptions of social events like wedding showers."
+  }
+}

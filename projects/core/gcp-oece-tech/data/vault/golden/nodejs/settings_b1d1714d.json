@@ -1,0 +1,168 @@
+{
+  // === 編輯器基礎配置 ===
+  "editor.formatOnSave": true,
+  "editor.codeActionsOnSave": {
+    "source.fixAll": true
+  },
+  "editor.rulers": [80, 120],
+  "editor.wordWrap": "on",
+  
+  // === 文件配置 ===
+  "files.autoSave": "afterDelay",
+  "files.autoSaveDelay": 1000,
+  "files.trimTrailingWhitespace": true,
+  "files.insertFinalNewline": true,
+  "files.exclude": {
+    "**/.git": true,
+    "**/node_modules": true,
+    "**/__pycache__": true,
+    "**/.pytest_cache": true
+  },
+  
+  // === Markdown 配置 ===
+  "markdown.preview.fontSize": 16,
+  "markdown.preview.lineHeight": 1.6,
+  "[markdown]": {
+    "editor.defaultFormatter": "yzhang.markdown-all-in-one",
+    "editor.wordWrap": "on",
+    "editor.quickSuggestions": {
+      "comments": "on",
+      "strings": "on",
+      "other": "on"
+    }
+  },
+  
+  // === JSON/YAML 配置 ===
+  "[json]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[jsonc]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[yaml]": {
+    "editor.defaultFormatter": "redhat.vscode-yaml"
+  },
+  
+  // === JavaScript/TypeScript 配置 ===
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  
+  // === Python 配置 ===
+  "[python]": {
+    "editor.formatOnSave": true,
+    "editor.codeActionsOnSave": {
+      "source.organizeImports": true
+    }
+  },
+  
+  // === Git 配置 ===
+  "git.autofetch": true,
+  "git.confirmSync": false,
+  "git.enableSmartCommit": true,
+  "gitlens.hovers.currentLine.over": "line",
+  "gitlens.codeLens.enabled": true,
+  
+  // === 終端配置 ===
+  "terminal.integrated.defaultProfile.linux": "bash",
+  "terminal.integrated.fontSize": 14,
+  "terminal.integrated.scrollback": 10000,
+  "terminal.integrated.copyOnSelection": true,
+  
+  // === 任務配置 ===
+  "task.autoDetect": "on",
+  "task.quickOpen.detail": true,
+  
+  // === Notion 配置 ===
+  "notion.database.defaultProperties": ["Name", "Status", "Tags"],
+  
+  // === Docker 配置 ===
+  "docker.explorerRefreshInterval": 5000,
+  
+  // === GitHub Copilot 配置 ===
+  "github.copilot.enable": {
+    "*": true,
+    "yaml": true,
+    "plaintext": true,
+    "markdown": true
+  },
+  "github.copilot.advanced": {
+    "debug.overrideEngine": "claude-sonnet-4.5",
+    "debug.testOverrideProxyUrl": "",
+    "debug.overrideProxyUrl": ""
+  },
+  
+  // === 代碼拼寫檢查 ===
+  "cSpell.language": "en,zh-CN",
+  "cSpell.words": [
+    "deepweay",
+    "gemini",
+    "doppler",
+    "supabase",
+    "mongodb",
+    "redis",
+    "openrouter",
+    "zhuge",
+    "liang",
+    "notion",
+    "mcp",
+    "vps",
+    "gcp",
+    "async",
+    "windsurf"
+  ],
+  
+  // === 項目特定配置 ===
+  "search.exclude": {
+    "**/node_modules": true,
+    "**/bower_components": true,
+    "**/*.code-search": true,
+    "**/notion_export": false,
+    "**/docs": false
+  },
+  
+  // === Todo 高亮 ===
+  "todohighlight.keywords": [
+    {
+      "text": "TODO:",
+      "color": "#ff0000",
+      "backgroundColor": "yellow"
+    },
+    {
+      "text": "FIXME:",
+      "color": "#ffffff",
+      "backgroundColor": "red"
+    },
+    {
+      "text": "NOTE:",
+      "color": "#ffffff",
+      "backgroundColor": "blue"
+    }
+  ],
+  
+  // === 熱擴容優化（GCP 相關）===
+  "files.watcherExclude": {
+    "**/.git/objects/**": true,
+    "**/.git/subtree-cache/**": true,
+    "**/node_modules/**": true,
+    "**/tmp/**": true
+  },
+  
+  // === 遠程開發優化 ===
+  "remote.SSH.connectTimeout": 60,
+  "remote.SSH.remoteServerListenOnSocket": true,
+  "remote.SSH.enableRemoteCommand": true,
+  
+  // === 性能優化 ===
+  "files.watcherInclude": [
+    "**/*.md",
+    "**/*.json",
+    "**/*.js",
+    "**/*.ts",
+    "**/*.py",
+    "**/*.sh"
+  ]
+}

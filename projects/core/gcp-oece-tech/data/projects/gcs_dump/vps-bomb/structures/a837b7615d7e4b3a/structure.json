@@ -1,0 +1,412 @@
+{
+  "propositions": [
+    {
+      "id": "1",
+      "text": "《门上血字》是一篇故事。",
+      "level": 1
+    },
+    {
+      "id": "1.1",
+      "text": "故事发生在一个大学。",
+      "level": 2
+    },
+    {
+      "id": "1.2",
+      "text": "故事中包含超自然事件。",
+      "level": 2
+    },
+    {
+      "id": "2",
+      "text": "故事的叙述者是大学毕业生。",
+      "level": 1
+    },
+    {
+      "id": "2.1",
+      "text": "叙述者回忆起大学时期的经历。",
+      "level": 2
+    },
+    {
+      "id": "3",
+      "text": "故事围绕着“门上血字”这一异象展开。",
+      "level": 1
+    },
+    {
+      "id": "4",
+      "text": "“黑色纵影”事件发生在商培楼。",
+      "level": 1
+    },
+    {
+      "id": "4.1",
+      "text": "故事中描述了商培楼的结构和位置。",
+      "level": 2
+    },
+    {
+      "id": "4.2",
+      "text": "商培楼发生过一个关于“黑色纵影”的离奇故事。",
+      "level": 2
+    },
+    {
+      "id": "4.2.1",
+      "text": "故事涉及灯光突然熄灭，一个非人影子出现，以及老大爷追逐的经历。",
+      "level": 3
+    },
+    {
+      "id": "4.2.2",
+      "text": "该事件引发了关于影子身份和断电原因的疑问。",
+      "level": 3
+    },
+    {
+      "id": "4.3",
+      "text": "商培楼的供电系统引发了对断电事件的讨论。",
+      "level": 2
+    },
+    {
+      "id": "4.4",
+      "text": "该事件被学校初步判定为盗窃未遂。",
+      "level": 2
+    },
+    {
+      "id": "5",
+      "text": "“凶形初现”事件涉及主角的室友大龙和小茜。",
+      "level": 1
+    },
+    {
+      "id": "5.1",
+      "text": "大龙和小茜在四楼厕所附近遭遇了异常。",
+      "level": 2
+    },
+    {
+      "id": "5.2",
+      "text": "大龙形容遭遇为“不是人”。",
+      "level": 2
+    },
+    {
+      "id": "5.3",
+      "text": "小茜的精神受到严重惊吓。",
+      "level": 2
+    },
+    {
+      "id": "5.4",
+      "text": "大龙和小茜都声称看到了“不像人”的东西。",
+      "level": 2
+    },
+    {
+      "id": "6",
+      "text": "“白纹黑头”事件进一步描述了恐怖遭遇。",
+      "level": 1
+    },
+    {
+      "id": "6.1",
+      "text": "大龙描述自己看到一个没有五官、有白色条纹的黑色头颅。",
+      "level": 2
+    },
+    {
+      "id": "6.2",
+      "text": "事件与前一晚的灌木异常活动有关。",
+      "level": 2
+    },
+    {
+      "id": "6.3",
+      "text": "寝室电话和手机的铃声增加了紧张气氛。",
+      "level": 2
+    },
+    {
+      "id": "6.4",
+      "text": "大龙的拖鞋的出现和消失是一个谜团。",
+      "level": 2
+    },
+    {
+      "id": "6.5",
+      "text": "门上出现了由血迹组成的“口”字形图案。",
+      "level": 2
+    },
+    {
+      "id": "6.6",
+      "text": "大龙的手指因不明原因出血。",
+      "level": 2
+    },
+    {
+      "id": "7",
+      "text": "“一现血字”事件揭示了门上的血字含义。",
+      "level": 1
+    },
+    {
+      "id": "7.1",
+      "text": "大亮在窗台上刻画了一个“口”字，外面一个“门”字，组成“问”字。",
+      "level": 2
+    },
+    {
+      "id": "7.2",
+      "text": "血字图案的含义引人深思，但线索中断。",
+      "level": 2
+    },
+    {
+      "id": "8",
+      "text": "“逆意诅咒”事件强调了沉默和恐惧。",
+      "level": 1
+    },
+    {
+      "id": "8.1",
+      "text": "大龙强烈要求所有人对昨晚的事件保密，认为“门里有口”意味着“口关在门里”。",
+      "level": 2
+    },
+    {
+      "id": "8.2",
+      "text": "大龙的情绪失控，表现出极度的恐惧和痛苦。",
+      "level": 2
+    },
+    {
+      "id": "8.3",
+      "text": "大龙和小茜都出现了发烧的症状。",
+      "level": 2
+    },
+    {
+      "id": "8.4",
+      "text": "主角和朋友们带着大龙和小茜去医院输液。",
+      "level": 2
+    },
+    {
+      "id": "8.5",
+      "text": "大龙劝告不要再去四楼厕所。",
+      "level": 2
+    },
+    {
+      "id": "9",
+      "text": "“灌木离土”事件是故事的一个高潮。",
+      "level": 1
+    },
+    {
+      "id": "9.1",
+      "text": "大龙在灌木丛中挖出了那棵灌木。",
+      "level": 2
+    },
+    {
+      "id": "9.2",
+      "text": "大龙在四楼厕所呕吐出绿色的、像灌木叶子的东西。",
+      "level": 2
+    },
+    {
+      "id": "9.3",
+      "text": "主角目睹了绿色物质的异常滑动和消失。",
+      "level": 2
+    },
+    {
+      "id": "9.4",
+      "text": "大龙的异常行为导致他窒息，并经历了痛苦的呕吐。",
+      "level": 2
+    },
+    {
+      "id": "10",
+      "text": "“神秘师傅”事件引出了新的希望和线索。",
+      "level": 1
+    },
+    {
+      "id": "10.1",
+      "text": "主角因为目睹了绿色物质而身体发寒，主角的恐惧影响了他的身体。",
+      "level": 2
+    },
+    {
+      "id": "10.2",
+      "text": "主角向大亮讲述了自己看到的景象，大亮对此表示担忧。",
+      "level": 2
+    },
+    {
+      "id": "10.3",
+      "text": "大亮讲述了盗墓者折断坟头树后死亡的传说，暗示大龙的行为可能带来灾祸。",
+      "level": 2
+    },
+    {
+      "id": "10.4",
+      "text": "大亮决定带主角去见一位“神秘师傅”，希望能挽救大龙。",
+      "level": 2
+    },
+    {
+      "id": "10.5",
+      "text": "“神秘师傅”被描述为一个看起来像女杰的女性，她住在一栋偏僻的楼房里。",
+      "level": 2
+    }
+  ],
+  "concepts": [
+    {
+      "name": "门上血字",
+      "frequency": 1,
+      "context": "故事的核心事件和标题。"
+    },
+    {
+      "name": "商培楼",
+      "frequency": 8,
+      "context": "故事发生的主要地点，一栋具有特殊结构的教学楼。"
+    },
+    {
+      "name": "黑色纵影",
+      "frequency": 1,
+      "context": "商培楼发生的一个早期灵异事件。"
+    },
+    {
+      "name": "大龙",
+      "frequency": 13,
+      "context": "故事的主要人物之一，主角的室友，他卷入了与超自然事件的直接冲突。"
+    },
+    {
+      "name": "小茜",
+      "frequency": 7,
+      "context": "故事中的女性角色，与大龙一同遭遇了“凶形初现”事件。"
+    },
+    {
+      "name": "灌木",
+      "frequency": 7,
+      "context": "贯穿故事的关键元素，与黑色纵影、血字以及大龙的行为有关。"
+    },
+    {
+      "name": "血字",
+      "frequency": 4,
+      "context": "出现在门上的神秘文字，暗示着诅咒或警告。"
+    },
+    {
+      "name": "厕所",
+      "frequency": 6,
+      "context": "多个恐怖事件发生的场所，特别是四楼厕所。"
+    },
+    {
+      "name": "拖鞋",
+      "frequency": 5,
+      "context": "在大龙遭遇事件中反复出现，具有神秘象征意义的物品。"
+    },
+    {
+      "name": "大亮",
+      "frequency": 11,
+      "context": "主角的室友，性格沉稳，是故事中少数保持冷静并寻求解决方案的角色。"
+    },
+    {
+      "name": "绿色东西",
+      "frequency": 3,
+      "context": "大龙呕吐出的物质，与灌木叶子相似，暗示了诅咒的具象化。"
+    },
+    {
+      "name": "神秘师傅",
+      "frequency": 2,
+      "context": "一位拥有神秘力量的女性，被寄予解决事件的希望。"
+    },
+    {
+      "name": "诅咒",
+      "frequency": 2,
+      "context": "故事中暗含的主题，可能是大龙挖灌木行为引发的后果。"
+    },
+    {
+      "name": "恐惧",
+      "frequency": 8,
+      "context": "故事中反复出现的情绪，影响着角色的行为和心理。"
+    }
+  ],
+  "relations": [
+    {
+      "source": "商培楼",
+      "target": "黑色纵影",
+      "type": "location_of"
+    },
+    {
+      "source": "商培楼",
+      "target": "凶形初现",
+      "type": "location_of"
+    },
+    {
+      "source": "大龙",
+      "target": "不是人",
+      "type": "description"
+    },
+    {
+      "source": "小茜",
+      "target": "不是人",
+      "type": "description"
+    },
+    {
+      "source": "大龙",
+      "target": "白纹黑头",
+      "type": "witnessed"
+    },
+    {
+      "source": "门",
+      "target": "血字",
+      "type": "has_inscription"
+    },
+    {
+      "source": "血字",
+      "target": "口字",
+      "type": "forms"
+    },
+    {
+      "source": "门",
+      "target": "口",
+      "type": "encloses"
+    },
+    {
+      "source": "门",
+      "target": "口",
+      "type": "forms_word"
+    },
+    {
+      "source": "口",
+      "target": "问",
+      "type": "implies"
+    },
+    {
+      "source": "大龙",
+      "target": "灌木",
+      "type": "dug_up"
+    },
+    {
+      "source": "大龙",
+      "target": "绿色东西",
+      "type": "vomited"
+    },
+    {
+      "source": "绿色东西",
+      "target": "灌木叶子",
+      "type": "resembles"
+    },
+    {
+      "source": "大亮",
+      "target": "神秘师傅",
+      "type": "seeks_help_from"
+    },
+    {
+      "source": "神秘师傅",
+      "target": "解决",
+      "type": "can_help_with"
+    },
+    {
+      "source": "大龙",
+      "target": "诅咒",
+      "type": "suspected_victim"
+    },
+    {
+      "source": "灌木",
+      "target": "黑色纵影",
+      "type": "associated_with"
+    },
+    {
+      "source": "门上血字",
+      "target": "故事",
+      "type": "is_a"
+    }
+  ],
+  "hierarchy": {
+    "main_topics": [
+      "Introduction",
+      "The Dark Shadow",
+      "The Form Appears (1)",
+      "The Form Appears (2)",
+      "Black and White Markings (1)",
+      "Black and White Markings (2)",
+      "Blood Writing Appears (1)",
+      "Blood Writing Appears (2)",
+      "Inverse Curse (1)",
+      "Inverse Curse (2)",
+      "Shrub Removed (1)",
+      "Shrub Removed (2)",
+      "Mysterious Master (1)",
+      "Mysterious Master (2)"
+    ],
+    "structure": "The document is structured into chapters or sections, each describing a specific event or aspect of the unfolding mystery. It follows a chronological narrative progression with elements of suspense and horror. The introduction sets the tone and context, followed by a series of escalating supernatural occurrences that center around specific characters and locations. The latter parts introduce potential solutions or explanations, leading to a climactic event involving the removal of a shrub and a disturbing revelation about the nature of the curse."
+  }
+}

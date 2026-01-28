@@ -1,0 +1,668 @@
+{
+  "propositions": [
+    {
+      "id": "1",
+      "text": "The narrative begins with the protagonist listening to a tape recording, which contains a horn sound preceding the opening of a bronze gate.",
+      "level": 1
+    },
+    {
+      "id": "1.1",
+      "text": "The protagonist recognizes the horn sound from a previous traumatic experience.",
+      "level": 2
+    },
+    {
+      "id": "1.2",
+      "text": "He speculates that the tape was recorded by Wen Jin's team at the site of the bronze gate in Changbai Mountain.",
+      "level": 2
+    },
+    {
+      "id": "1.3",
+      "text": "The tape seems to indicate they were moving towards the end of a \"underground canyon\" or had already entered the bronze gate.",
+      "level": 2
+    },
+    {
+      "id": "1.4",
+      "text": "He infers that the horn sound likely led to the appearance of \"horse-faced monsters.\"",
+      "level": 2
+    },
+    {
+      "id": "1.5",
+      "text": "The people on the tape seemed to avoid these creatures and had encountered them before.",
+      "level": 2
+    },
+    {
+      "id": "1.6",
+      "text": "This tape provides a fragmented clue, suggesting the protagonist and Fatty's experiences were not isolated incidents or hallucinations.",
+      "level": 2
+    },
+    {
+      "id": "1.7",
+      "text": "The tape ends with water sounds and a blank screen, offering no further visual information.",
+      "level": 2
+    },
+    {
+      "id": "1.8",
+      "text": "The protagonist concludes that the tape is unlikely to yield direct clues and may not have been intended for easy interpretation.",
+      "level": 2
+    },
+    {
+      "id": "2",
+      "text": "San Shu returns covered in mud and smelling of urine, reporting that a companion found something interesting in a \"channel opening.\"",
+      "level": 1
+    },
+    {
+      "id": "2.1",
+      "text": "The \"channel opening\" was being used as a makeshift urinal due to its depth.",
+      "level": 2
+    },
+    {
+      "id": "2.2",
+      "text": "The channel walls were damaged by a collapse, revealing a deep, almost vertical crack in the sand and soil.",
+      "level": 2
+    },
+    {
+      "id": "2.3",
+      "text": "The crack was approximately one person wide and too narrow for light to penetrate.",
+      "level": 2
+    },
+    {
+      "id": "2.4",
+      "text": "A companion explains that the crack was only revealed after his urine washed away a layer of sand and mud.",
+      "level": 2
+    },
+    {
+      "id": "2.5",
+      "text": "San Shu, along with Hei Yanjing, decides to descend into the crack.",
+      "level": 2
+    },
+    {
+      "id": "2.6",
+      "text": "The protagonist expresses concern about the narrowness of the crack and the potential presence of snakes.",
+      "level": 2
+    },
+    {
+      "id": "2.7",
+      "text": "San Shu dismisses his concerns, and they descend using a rope after throwing a sulfur smoke bomb into the crack.",
+      "level": 2
+    },
+    {
+      "id": "3",
+      "text": "San Shu and Hei Yanjing signal from below, indicating they need to descend further.",
+      "level": 1
+    },
+    {
+      "id": "3.1",
+      "text": "The rope is lowered again, and they move into the sand crack.",
+      "level": 2
+    },
+    {
+      "id": "3.2",
+      "text": "After about an hour, Hei Yanjing is pulled up, but San Shu remains below.",
+      "level": 2
+    },
+    {
+      "id": "3.3",
+      "text": "Hei Yanjing relays San Shu's message for the protagonist to descend immediately.",
+      "level": 2
+    },
+    {
+      "id": "4",
+      "text": "The protagonist descends into the crack, finding it extremely narrow and filled with a strong smell of urine.",
+      "level": 1
+    },
+    {
+      "id": "4.1",
+      "text": "He slips and gets covered in mud and moss.",
+      "level": 2
+    },
+    {
+      "id": "4.2",
+      "text": "Hei Yanjing reassures him that urine is good for the skin.",
+      "level": 2
+    },
+    {
+      "id": "4.3",
+      "text": "They reach a sand crack that opens into a deep, narrow passage resembling a \"knife's cut\" in a mountain.",
+      "level": 2
+    },
+    {
+      "id": "4.4",
+      "text": "The walls of the passage are lined with \"Buddha niche-like pits\" containing dry mud cocoons.",
+      "level": 2
+    },
+    {
+      "id": "4.5",
+      "text": "Hei Yanjing explains that these are primitive burial sites, likely for slaves who died during construction, using a \"curved bone burial\" method.",
+      "level": 2
+    },
+    {
+      "id": "4.6",
+      "text": "They reach a point where San Shu is visible further inside a narrower, low-ceilinged crack.",
+      "level": 2
+    },
+    {
+      "id": "4.7",
+      "text": "Inside this crack, the protagonist finds a carving that matches the marker left by \"Xiao Ge\" (the \"Mute Prince\") in Changbai Mountain.",
+      "level": 2
+    },
+    {
+      "id": "4.8",
+      "text": "San Shu believes this confirms Xiao Ge's previous presence and that the mark is old, indicating he was there on a past visit.",
+      "level": 2
+    },
+    {
+      "id": "4.9",
+      "text": "San Shu instructs Hei Yanjing to have everyone descend, as they have found an entrance.",
+      "level": 2
+    },
+    {
+      "id": "5",
+      "text": "San Shu expresses frustration with the protagonist for following him, citing the danger posed by the untrustworthy crew.",
+      "level": 1
+    },
+    {
+      "id": "5.1",
+      "text": "He identifies two main factions among the crew: Hei Yanjing's group and another led by someone named \"Tuo Ba.\"",
+      "level": 2
+    },
+    {
+      "id": "5.2",
+      "text": "He warns the protagonist to be cautious and not to speak freely with them.",
+      "level": 2
+    },
+    {
+      "id": "5.3",
+      "text": "Fatty and \"Tuo Ba\" are brought down, both reeking of urine.",
+      "level": 2
+    },
+    {
+      "id": "5.4",
+      "text": "The protagonist notes the artificial politeness of some crew members, suspecting underlying tension.",
+      "level": 2
+    },
+    {
+      "id": "5.5",
+      "text": "After several hours, everyone is in the lower shaft, and they begin following Xiao Ge's markings.",
+      "level": 2
+    },
+    {
+      "id": "5.6",
+      "text": "The protagonist receives a double-barreled hunting shotgun.",
+      "level": 2
+    },
+    {
+      "id": "5.7",
+      "text": "They discuss the possibility of \"cock's comb snakes\" being present and the protective function of the tunnels for these creatures.",
+      "level": 2
+    },
+    {
+      "id": "5.8",
+      "text": "The tunnel structure resembles that of the \"Seven Star Lu Wang Palace,\" leading to speculation about its purpose.",
+      "level": 2
+    },
+    {
+      "id": "5.9",
+      "text": "They encounter a fork in the tunnel, and Xiao Ge's mark is found on the downward path.",
+      "level": 2
+    },
+    {
+      "id": "5.10",
+      "text": "The journey through the tunnels is monotonous, characterized by repeating junctions and storage pools.",
+      "level": 2
+    },
+    {
+      "id": "5.11",
+      "text": "As they descend, the storage pools become larger, and an unusual silence prevails, with no signs of snakes.",
+      "level": 2
+    },
+    {
+      "id": "6",
+      "text": "The group rests for the night, and Fatty wakes up, showing signs of recovery from snake venom.",
+      "level": 1
+    },
+    {
+      "id": "6.1",
+      "text": "Fatty recounts his encounter with the snakes and Xiao Ge, mentioning Xiao Ge's speed and the snakes' mysterious nature.",
+      "level": 2
+    },
+    {
+      "id": "6.2",
+      "text": "He expresses frustration with San Shu's management of the expedition and the associated pay.",
+      "level": 2
+    },
+    {
+      "id": "6.3",
+      "text": "Fatty's recovery is rapid, and he is able to move with assistance.",
+      "level": 2
+    },
+    {
+      "id": "6.4",
+      "text": "They continue their descent through a network of tunnels and increasingly large storage pools.",
+      "level": 2
+    },
+    {
+      "id": "6.5",
+      "text": "They reach a massive, dry storage pool with a central stone pillar and are blocked by thick, dried root-like fungal growth.",
+      "level": 2
+    },
+    {
+      "id": "6.6",
+      "text": "The growth is identified as fungal mycelia, and they begin to cut it to search for Xiao Ge's markings.",
+      "level": 2
+    },
+    {
+      "id": "6.7",
+      "text": "Cutting the mycelia reveals carved stone faces on the wall, which are actually formations of moths.",
+      "level": 2
+    },
+    {
+      "id": "6.8",
+      "text": "They discover a large, freshly shed snakeskin, indicating the presence of a very large, recently molted snake.",
+      "level": 2
+    },
+    {
+      "id": "6.9",
+      "text": "San Shu urges everyone to prepare their weapons, recognizing the danger.",
+      "level": 2
+    },
+    {
+      "id": "6.10",
+      "text": "While searching for the next tunnel opening, they discover multiple markings, suggesting more than one route.",
+      "level": 2
+    },
+    {
+      "id": "7",
+      "text": "A red light flashes, and a crew member is violently dragged into a tunnel opening and then thrown out, attacked by a massive, blood-red python.",
+      "level": 1
+    },
+    {
+      "id": "7.1",
+      "text": "The python, having just molted, is wounded by gunfire.",
+      "level": 2
+    },
+    {
+      "id": "7.2",
+      "text": "Panic ensues, and several crew members flee into other tunnels.",
+      "level": 2
+    },
+    {
+      "id": "7.3",
+      "text": "The protagonist and San Shu retreat into a tunnel, only to find it rapidly filling with dozens of thick, red \"cock's comb snakes.\"",
+      "level": 2
+    },
+    {
+      "id": "7.4",
+      "text": "Hei Yanjing provides covering fire while San Shu and the protagonist are forced to retreat.",
+      "level": 2
+    },
+    {
+      "id": "7.5",
+      "text": "The protagonist finds a crack filled with sand and mud, containing numerous \"mud cocoons\" and skeletal remains.",
+      "level": 2
+    },
+    {
+      "id": "7.6",
+      "text": "He applies mud from a cocoon to himself to camouflage from the snakes.",
+      "level": 2
+    },
+    {
+      "id": "7.7",
+      "text": "Several snakes enter the crack and begin to search for him.",
+      "level": 2
+    },
+    {
+      "id": "7.8",
+      "text": "He realizes he forgot to cover his neck, and a snake begins to approach.",
+      "level": 2
+    },
+    {
+      "id": "7.9",
+      "text": "Suddenly, a skeletal hand emerges from a cocoon and covers his exposed neck, preventing the snake from detecting him.",
+      "level": 2
+    },
+    {
+      "id": "7.10",
+      "text": "He discovers another person hiding behind the skeletal remains, also covered in mud.",
+      "level": 2
+    },
+    {
+      "id": "7.11",
+      "text": "The snakes eventually leave, drawn by something outside.",
+      "level": 2
+    },
+    {
+      "id": "7.12",
+      "text": "The hidden person, revealed to be Chen Wenjin, instructs the protagonist to remove his shirt, and she dons his clothes.",
+      "level": 2
+    }
+  ],
+  "concepts": [
+    {
+      "name": "盗墓笔记之5：谜海归巢",
+      "frequency": 2,
+      "context": "Title of the document and a key element of the narrative."
+    },
+    {
+      "name": "青铜门",
+      "frequency": 1,
+      "context": "A significant artifact or location in the story, associated with a horn sound."
+    },
+    {
+      "name": "号角声",
+      "frequency": 2,
+      "context": "A sound that signifies the opening of the bronze gate and evokes fear."
+    },
+    {
+      "name": "录像带",
+      "frequency": 5,
+      "context": "A crucial piece of evidence providing fragmented clues about past events."
+    },
+    {
+      "name": "文锦",
+      "frequency": 3,
+      "context": "A person associated with the recording of the tape and past expeditions."
+    },
+    {
+      "name": "长白山",
+      "frequency": 1,
+      "context": "A location where the tape was possibly recorded and where a marker was found."
+    },
+    {
+      "name": "马脸的怪物",
+      "frequency": 1,
+      "context": "Creatures that appeared after the horn sound."
+    },
+    {
+      "name": "线索",
+      "frequency": 5,
+      "context": "Fragments of information that the protagonist is trying to piece together."
+    },
+    {
+      "name": "胖子",
+      "frequency": 10,
+      "context": "A companion of the protagonist, involved in earlier experiences and later rescued."
+    },
+    {
+      "name": "三叔",
+      "frequency": 22,
+      "context": "A key character, leader of the expedition, and a source of guidance and concern."
+    },
+    {
+      "name": "黑眼镜",
+      "frequency": 14,
+      "context": "A capable and enigmatic companion who assists San Shu and the protagonist."
+    },
+    {
+      "name": "渠口",
+      "frequency": 3,
+      "context": "A channel opening where something was discovered, associated with a strong smell."
+    },
+    {
+      "name": "缝隙",
+      "frequency": 10,
+      "context": "Narrow passages, particularly a sand crack, that are central to the exploration."
+    },
+    {
+      "name": "蛇",
+      "frequency": 10,
+      "context": "A recurring danger, especially \"cock's comb snakes,\" within the underground tunnels."
+    },
+    {
+      "name": "泥茧",
+      "frequency": 8,
+      "context": "Cocoons made of mud, found in the passages, some containing skeletal remains."
+    },
+    {
+      "name": "曲肢葬",
+      "frequency": 1,
+      "context": "A primitive burial method observed in the mud cocoons."
+    },
+    {
+      "name": "先民",
+      "frequency": 1,
+      "context": "The ancient people who constructed the underground passages and used them as burial sites."
+    },
+    {
+      "name": "墓穴",
+      "frequency": 2,
+      "context": "The function of the passages as burial sites for those who died during construction."
+    },
+    {
+      "name": "小哥",
+      "frequency": 8,
+      "context": "A mysterious individual whose markings guide the expedition and whose past is a significant enigma."
+    },
+    {
+      "name": "记号",
+      "frequency": 11,
+      "context": "Markings left by Xiao Ge, used to navigate the tunnels and find the entrance."
+    },
+    {
+      "name": "入口",
+      "frequency": 2,
+      "context": "A point of entry into a deeper part of the underground system, found via Xiao Ge's markings."
+    },
+    {
+      "name": "伙计",
+      "frequency": 7,
+      "context": "The members of the expedition crew, some of whom are untrustworthy."
+    },
+    {
+      "name": "拖把",
+      "frequency": 3,
+      "context": "A leader among the untrustworthy crew members."
+    },
+    {
+      "name": "井道",
+      "frequency": 13,
+      "context": "Underground passages or shafts used for water or as thoroughfares."
+    },
+    {
+      "name": "鸡冠蛇",
+      "frequency": 6,
+      "context": "A specific type of venomous snake encountered in the tunnels."
+    },
+    {
+      "name": "蓄水池",
+      "frequency": 6,
+      "context": "Large pools within the tunnels, potentially for water storage or other purposes."
+    },
+    {
+      "name": "菌丝",
+      "frequency": 3,
+      "context": "Fungal growths that obstruct passages and resemble tree roots."
+    },
+    {
+      "name": "石雕的人脸",
+      "frequency": 1,
+      "context": "Apparent stone carvings that turn out to be formations of moths."
+    },
+    {
+      "name": "蛇蜕",
+      "frequency": 2,
+      "context": "Shed skin of a snake, indicating its recent presence and size."
+    },
+    {
+      "name": "巨蟒",
+      "frequency": 3,
+      "context": "A very large python encountered in the tunnels, capable of causing significant damage."
+    },
+    {
+      "name": "淤泥",
+      "frequency": 3,
+      "context": "Mud used for camouflage against snakes."
+    },
+    {
+      "name": "陈文锦",
+      "frequency": 1,
+      "context": "A woman found alive and well, disguised in the protagonist's clothes."
+    }
+  ],
+  "relations": [
+    {
+      "source": "青铜门",
+      "target": "号角声",
+      "type": "precedes"
+    },
+    {
+      "source": "号角声",
+      "target": "马脸的怪物",
+      "type": "causes_appearance_of"
+    },
+    {
+      "source": "录像带",
+      "target": "线索",
+      "type": "provides"
+    },
+    {
+      "source": "录像带",
+      "target": "文锦",
+      "type": "recorded_by"
+    },
+    {
+      "source": "文锦",
+      "target": "长白山",
+      "type": "associated_with"
+    },
+    {
+      "source": "三叔",
+      "target": "胖子",
+      "type": "companion_of"
+    },
+    {
+      "source": "三叔",
+      "target": "黑眼镜",
+      "type": "companion_of"
+    },
+    {
+      "source": "三叔",
+      "target": "渠口",
+      "type": "investigates"
+    },
+    {
+      "source": "渠口",
+      "target": "缝隙",
+      "type": "contains"
+    },
+    {
+      "source": "缝隙",
+      "target": "蛇",
+      "type": "potential_habitat"
+    },
+    {
+      "source": "三叔",
+      "target": "缝隙",
+      "type": "descends_into"
+    },
+    {
+      "source": "黑眼镜",
+      "target": "缝隙",
+      "type": "descends_into"
+    },
+    {
+      "source": "缝隙",
+      "target": "泥茧",
+      "type": "contains"
+    },
+    {
+      "source": "泥茧",
+      "target": "曲肢葬",
+      "type": "associated_with"
+    },
+    {
+      "source": "泥茧",
+      "target": "先民",
+      "type": "created_by"
+    },
+    {
+      "source": "缝隙",
+      "target": "小哥",
+      "type": "leaves_marker_in"
+    },
+    {
+      "source": "记号",
+      "target": "入口",
+      "type": "leads_to"
+    },
+    {
+      "source": "三叔",
+      "target": "伙计",
+      "type": "leads"
+    },
+    {
+      "source": "拖把",
+      "target": "伙计",
+      "type": "leads"
+    },
+    {
+      "source": "井道",
+      "target": "鸡冠蛇",
+      "type": "habitat"
+    },
+    {
+      "source": "井道",
+      "target": "蓄水池",
+      "type": "contains"
+    },
+    {
+      "source": "蓄水池",
+      "target": "菌丝",
+      "type": "obstructed_by"
+    },
+    {
+      "source": "菌丝",
+      "target": "石雕的人脸",
+      "type": "reveals"
+    },
+    {
+      "source": "石雕的人脸",
+      "target": "蛾子",
+      "type": "is_made_of"
+    },
+    {
+      "source": "蓄水池",
+      "target": "蛇蜕",
+      "type": "found_in"
+    },
+    {
+      "source": "蛇蜕",
+      "target": "巨蟒",
+      "type": "indicates_presence_of"
+    },
+    {
+      "source": "巨蟒",
+      "target": "淤泥",
+      "type": "evaded_by"
+    },
+    {
+      "source": "淤泥",
+      "target": "蛇",
+      "type": "camouflage_from"
+    },
+    {
+      "source": "淤泥",
+      "target": "陈文锦",
+      "type": "applied_by"
+    },
+    {
+      "source": "陈文锦",
+      "target": "主人公",
+      "type": "disguises_as"
+    },
+    {
+      "source": "主人公",
+      "target": "陈文锦",
+      "type": "discovers"
+    }
+  ],
+  "hierarchy": {
+    "main_topics": [
+      "The Tape Recording and Initial Clues",
+      "Discovery in the Channel and Descent",
+      "Exploration of the Underground Passages",
+      "Encounter with the Python and Snakes",
+      "Revelation of Chen Wenjin"
+    ],
+    "structure": "The document follows a chronological narrative, beginning with the protagonist's investigation of a tape, leading to a perilous underground exploration driven by discovered clues and the pursuit of a mysterious individual. The narrative progresses through stages of discovery, danger, and eventual surprising encounters."
+  }
+}

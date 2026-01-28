@@ -1,0 +1,437 @@
+{
+  "propositions": [
+    {
+      "id": "1",
+      "text": "《蓝色特快上的秘密》是一部小说。",
+      "level": 1
+    },
+    {
+      "id": "1.1",
+      "text": "该小说作者是阿加莎·克里斯蒂。",
+      "level": 2
+    },
+    {
+      "id": "2",
+      "text": "故事发生在巴黎。",
+      "level": 1
+    },
+    {
+      "id": "3",
+      "text": "第一章描绘了一个名为鲍里斯·伊万诺维奇（Boris Ivanovich）的白发男人。",
+      "level": 1
+    },
+    {
+      "id": "3.1",
+      "text": "鲍里斯·伊万诺维奇看起来体弱多病且穷困潦倒，但他却在世界某处发挥着作用。",
+      "level": 2
+    },
+    {
+      "id": "3.2",
+      "text": "他与一位名叫奥尔加·德米罗夫娜（Olga Demirovna）的俄国女人进行了一笔交易。",
+      "level": 2
+    },
+    {
+      "id": "3.3",
+      "text": "交易涉及一个宝石包裹。",
+      "level": 3
+    },
+    {
+      "id": "3.4",
+      "text": "鲍里斯·伊万诺维奇怀疑有人在监视他。",
+      "level": 3
+    },
+    {
+      "id": "3.5",
+      "text": "一位白发男人在街上出现，引起了鲍里斯·伊万诺维奇的注意。",
+      "level": 3
+    },
+    {
+      "id": "4",
+      "text": "一位名叫克雷斯内（Kresne）的先生（很可能与鲍里斯·伊万诺维奇是同一人）与一位美国人进行交易。",
+      "level": 1
+    },
+    {
+      "id": "4.1",
+      "text": "交易的物品是一个装有宝石的蓝色纸包。",
+      "level": 2
+    },
+    {
+      "id": "4.2",
+      "text": "交易的货币是现金。",
+      "level": 2
+    },
+    {
+      "id": "4.3",
+      "text": "美国人在交易后被跟踪。",
+      "level": 3
+    },
+    {
+      "id": "5",
+      "text": "奥尔加·德米罗夫娜对宝石的价值和未来感到好奇。",
+      "level": 1
+    },
+    {
+      "id": "6",
+      "text": "第二章引入了“侯爵先生”（Marquis）的身份。",
+      "level": 1
+    },
+    {
+      "id": "6.1",
+      "text": "“侯爵先生”拜访了一位名叫帕波波鲁斯博士（Dr. Pappopolo）的著名古玩商人。",
+      "level": 2
+    },
+    {
+      "id": "6.2",
+      "text": "“侯爵先生”声称袭击未能成功，但有一个新计划。",
+      "level": 3
+    },
+    {
+      "id": "6.3",
+      "text": "帕波波鲁斯博士的女儿齐娅（Zia）偷听了他们的谈话，并对“侯爵先生”的身份和法语口音提出了疑问。",
+      "level": 3
+    },
+    {
+      "id": "7",
+      "text": "第三章介绍了鲁夫斯·冯·阿尔丁（Rufus von Aldin），一位百万富翁。",
+      "level": 1
+    },
+    {
+      "id": "7.1",
+      "text": "他刚从巴黎回到伦敦，住在萨活旅馆。",
+      "level": 2
+    },
+    {
+      "id": "7.2",
+      "text": "他收到一封来自凯特林女士（Mrs. Ketling）的信，并表现出极大的兴趣。",
+      "level": 2
+    },
+    {
+      "id": "7.3",
+      "text": "他的私人秘书是奈顿（Niton），一位因战争受伤的年轻人。",
+      "level": 2
+    },
+    {
+      "id": "7.4",
+      "text": "冯·阿尔丁收到一封关于他女儿露丝·凯特林（Ruth Ketling）的信。",
+      "level": 3
+    },
+    {
+      "id": "7.5",
+      "text": "这封信让他非常愤怒，并决定去看望女儿。",
+      "level": 3
+    },
+    {
+      "id": "7.6",
+      "text": "他向奈顿展示了一个装有珍贵宝石的蓝色纸包，其中包括“火心宝石”（Fire Heart）。",
+      "level": 3
+    },
+    {
+      "id": "7.7",
+      "text": "“火心宝石”据估计价值四十万到五十万美元。",
+      "level": 4
+    },
+    {
+      "id": "7.8",
+      "text": "冯·阿尔丁计划将宝石送给露丝，但担心她婚姻不幸。",
+      "level": 4
+    },
+    {
+      "id": "8",
+      "text": "第四章聚焦于露丝·凯特林。",
+      "level": 1
+    },
+    {
+      "id": "8.1",
+      "text": "露丝·凯特林住在古尔松大街。",
+      "level": 2
+    },
+    {
+      "id": "8.2",
+      "text": "她与丈夫德里克·凯特林（Derek Ketling）关系不睦。",
+      "level": 2
+    },
+    {
+      "id": "8.3",
+      "text": "她和父亲冯·阿尔丁讨论离婚的可能性。",
+      "level": 3
+    },
+    {
+      "id": "8.4",
+      "text": "冯·阿尔丁建议露丝以一种不招摇的方式进行离婚。",
+      "level": 4
+    },
+    {
+      "id": "8.5",
+      "text": "冯·阿尔丁送给露丝“火心宝石”，她非常喜欢。",
+      "level": 4
+    },
+    {
+      "id": "8.6",
+      "text": "冯·阿尔丁提醒露丝将宝石存入银行，以防万一。",
+      "level": 5
+    },
+    {
+      "id": "9",
+      "text": "第五章引入了戈比（Gobi），一位专门从事情报工作的“有用先生”。",
+      "level": 1
+    },
+    {
+      "id": "9.1",
+      "text": "冯·阿尔丁雇佣戈比收集德里克·凯特林的相关情报。",
+      "level": 2
+    },
+    {
+      "id": "9.2",
+      "text": "戈比提供了德里克·凯特林财务困境的详细信息，表明他已经被牢牢掌握住。",
+      "level": 3
+    },
+    {
+      "id": "9.3",
+      "text": "冯·阿尔丁再次与德里克·凯特林会面。",
+      "level": 3
+    },
+    {
+      "id": "9.4",
+      "text": "德里克·凯特林暗示露丝有其他情人，并表示不愿意离婚。",
+      "level": 4
+    },
+    {
+      "id": "9.5",
+      "text": "冯·阿尔丁对德里克·凯特林的言论感到疑惑和愤怒。",
+      "level": 5
+    },
+    {
+      "id": "10",
+      "text": "戈比的情报揭示了德里克·凯特林财务上的困境，使得离婚对他不利。",
+      "level": 1
+    },
+    {
+      "id": "11",
+      "text": "故事的整体结构围绕着一场潜在的宝石交易、一段不幸的婚姻以及围绕离婚事件展开的阴谋。",
+      "level": 1
+    }
+  ],
+  "concepts": [
+    {
+      "name": "蓝色特快上的秘密",
+      "frequency": 1,
+      "context": "书名"
+    },
+    {
+      "name": "阿加莎·克里斯蒂",
+      "frequency": 1,
+      "context": "作者名"
+    },
+    {
+      "name": "巴黎",
+      "frequency": 3,
+      "context": "故事发生的地点"
+    },
+    {
+      "name": "鲍里斯·伊万诺维奇",
+      "frequency": 3,
+      "context": "第一章出现的人物，进行交易，可能就是克雷斯内先生"
+    },
+    {
+      "name": "奥尔加·德米罗夫娜",
+      "frequency": 3,
+      "context": "与鲍里斯·伊万诺维奇进行交易的俄国女人"
+    },
+    {
+      "name": "宝石",
+      "frequency": 12,
+      "context": "交易和情节的核心物品"
+    },
+    {
+      "name": "交易",
+      "frequency": 7,
+      "context": "情节中的重要活动，涉及人物和物品"
+    },
+    {
+      "name": "克雷斯内先生",
+      "frequency": 3,
+      "context": "与美国人进行交易的人物，可能与鲍里斯·伊万诺维奇是同一人"
+    },
+    {
+      "name": "美国人",
+      "frequency": 4,
+      "context": "与克雷斯内先生进行交易的买家"
+    },
+    {
+      "name": "白发男人",
+      "frequency": 4,
+      "context": "在第一章和第二章出现，身份神秘"
+    },
+    {
+      "name": "侯爵先生",
+      "frequency": 4,
+      "context": "第二章出现的人物，拜访古玩商人"
+    },
+    {
+      "name": "帕波波鲁斯博士",
+      "frequency": 3,
+      "context": "古玩商人，与侯爵先生有交集"
+    },
+    {
+      "name": "齐娅",
+      "frequency": 3,
+      "context": "帕波波鲁斯博士的女儿"
+    },
+    {
+      "name": "鲁夫斯·冯·阿尔丁",
+      "frequency": 14,
+      "context": "百万富翁，故事的核心人物之一，露丝的父亲"
+    },
+    {
+      "name": "伦敦",
+      "frequency": 5,
+      "context": "故事发生的重要地点"
+    },
+    {
+      "name": "奈顿",
+      "frequency": 10,
+      "context": "冯·阿尔丁的私人秘书"
+    },
+    {
+      "name": "凯特林女士",
+      "frequency": 4,
+      "context": "与冯·阿尔丁通信，后来证实是露丝·凯特林"
+    },
+    {
+      "name": "露丝·凯特林",
+      "frequency": 16,
+      "context": "冯·阿尔丁的女儿，婚姻不幸"
+    },
+    {
+      "name": "火心宝石",
+      "frequency": 7,
+      "context": "珍贵的宝石，情节的重要道具"
+    },
+    {
+      "name": "德里克·凯特林",
+      "frequency": 14,
+      "context": "露丝·凯特林的丈夫，婚姻关系紧张"
+    },
+    {
+      "name": "离婚",
+      "frequency": 10,
+      "context": "露丝·凯特林和德里克·凯特林之间面临的问题"
+    },
+    {
+      "name": "戈比",
+      "frequency": 7,
+      "context": "情报专家，受冯·阿尔丁雇佣"
+    },
+    {
+      "name": "情报",
+      "frequency": 4,
+      "context": "戈比的工作内容，对情节发展至关重要"
+    }
+  ],
+  "relations": [
+    {
+      "source": "蓝色特快上的秘密",
+      "target": "阿加莎·克里斯蒂",
+      "type": "authored_by"
+    },
+    {
+      "source": "鲍里斯·伊万诺维奇",
+      "target": "奥尔加·德米罗夫娜",
+      "type": "involved_in_transaction_with"
+    },
+    {
+      "source": "克雷斯内先生",
+      "target": "美国人",
+      "type": "involved_in_transaction_with"
+    },
+    {
+      "source": "宝石",
+      "target": "交易",
+      "type": "object_of"
+    },
+    {
+      "source": "侯爵先生",
+      "target": "帕波波鲁斯博士",
+      "type": "visits"
+    },
+    {
+      "source": "齐娅",
+      "target": "帕波波鲁斯博士",
+      "type": "daughter_of"
+    },
+    {
+      "source": "鲁夫斯·冯·阿尔丁",
+      "target": "露丝·凯特林",
+      "type": "father_of"
+    },
+    {
+      "source": "露丝·凯特林",
+      "target": "德里克·凯特林",
+      "type": "married_to"
+    },
+    {
+      "source": "鲁夫斯·冯·阿尔丁",
+      "target": "奈顿",
+      "type": "employer_of"
+    },
+    {
+      "source": "鲁夫斯·冯·阿尔丁",
+      "target": "火心宝石",
+      "type": "possesses"
+    },
+    {
+      "source": "鲁夫斯·冯·阿尔丁",
+      "target": "离婚",
+      "type": "initiates_discussion_on"
+    },
+    {
+      "source": "露丝·凯特林",
+      "target": "离婚",
+      "type": "considering"
+    },
+    {
+      "source": "德里克·凯特林",
+      "target": "离婚",
+      "type": "opposing"
+    },
+    {
+      "source": "鲁夫斯·冯·阿尔丁",
+      "target": "戈比",
+      "type": "employs"
+    },
+    {
+      "source": "戈比",
+      "target": "德里克·凯特林",
+      "type": "gathers_intelligence_on"
+    },
+    {
+      "source": "德里克·凯特林",
+      "target": "财务困境",
+      "type": "experiencing"
+    },
+    {
+      "source": "火心宝石",
+      "target": "露丝·凯特林",
+      "type": "gifted_to"
+    },
+    {
+      "source": "德里克·凯特林",
+      "target": "情人",
+      "type": "has"
+    },
+    {
+      "source": "德里克·凯特林",
+      "target": "父女之间应该开诚相见",
+      "type": "suggests"
+    }
+  ],
+  "hierarchy": {
+    "main_topics": [
+      "Plot",
+      "Characters",
+      "Themes",
+      "Setting"
+    ],
+    "structure": "The document is structured into chapters, each introducing new characters and advancing the plot. The narrative moves between different locations (Paris, London) and perspectives, gradually revealing connections between characters and events. The core plot revolves around a mysterious transaction involving valuable gems and the marital issues of a prominent family."
+  }
+}

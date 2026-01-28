@@ -1,0 +1,478 @@
+/* GitHub-style Markdown with Cyberpunk Touch */
+
+.tutorial-article {
+  max-width: 900px;
+  margin: 0 auto;
+}
+
+.tutorial-meta {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 2rem;
+  flex-wrap: wrap;
+  gap: 1rem;
+}
+
+.back-link {
+  color: var(--accent-cyan);
+  text-decoration: none;
+  font-size: 0.9rem;
+  transition: all 0.3s ease;
+}
+
+.back-link:hover {
+  text-shadow: var(--glow-cyan);
+}
+
+.meta-info {
+  display: flex;
+  gap: 1rem;
+  align-items: center;
+}
+
+.category-badge,
+.date-badge {
+  padding: 0.25rem 0.75rem;
+  border: 1px solid var(--border-color);
+  border-radius: 4px;
+  font-size: 0.85rem;
+  color: var(--text-secondary);
+}
+
+.category-badge {
+  background: var(--bg-tertiary);
+  color: var(--accent-cyan);
+  border-color: var(--accent-cyan);
+}
+
+.article-header {
+  margin-bottom: 3rem;
+  padding-bottom: 2rem;
+  border-bottom: 2px solid var(--border-color);
+}
+
+.article-title {
+  font-family: 'Press Start 2P', cursive;
+  font-size: clamp(1.5rem, 4vw, 2.5rem);
+  color: var(--accent-cyan);
+  margin-bottom: 1rem;
+  line-height: 1.4;
+  word-wrap: break-word;
+}
+
+.article-description {
+  font-size: 1.1rem;
+  color: var(--text-secondary);
+  line-height: 1.6;
+}
+
+/* Markdown Content Styling */
+.markdown-content {
+  line-height: 1.8;
+  color: var(--text-primary);
+}
+
+.markdown-content h1,
+.markdown-content h2,
+.markdown-content h3,
+.markdown-content h4,
+.markdown-content h5,
+.markdown-content h6 {
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+  font-weight: 600;
+  line-height: 1.3;
+  color: var(--accent-cyan);
+}
+
+.markdown-content h1 {
+  font-size: 2rem;
+  border-bottom: 2px solid var(--border-color);
+  padding-bottom: 0.5rem;
+}
+
+.markdown-content h2 {
+  font-size: 1.75rem;
+  border-bottom: 1px solid var(--border-color);
+  padding-bottom: 0.5rem;
+}
+
+.markdown-content h3 {
+  font-size: 1.5rem;
+}
+
+.markdown-content h4 {
+  font-size: 1.25rem;
+}
+
+.markdown-content p {
+  margin-bottom: 1rem;
+}
+
+.markdown-content a {
+  color: var(--accent-cyan);
+  text-decoration: none;
+  border-bottom: 1px solid transparent;
+  transition: all 0.3s ease;
+}
+
+.markdown-content a:hover {
+  border-bottom-color: var(--accent-cyan);
+  text-shadow: var(--glow-cyan);
+}
+
+/* Lists */
+.markdown-content ul,
+.markdown-content ol {
+  margin-bottom: 1rem;
+  padding-left: 2rem;
+}
+
+.markdown-content li {
+  margin-bottom: 0.5rem;
+}
+
+.markdown-content ul li::marker {
+  color: var(--accent-pink);
+}
+
+.markdown-content ol li::marker {
+  color: var(--accent-cyan);
+}
+
+/* Code Blocks - 行内代码 */
+.markdown-content code {
+  background: var(--bg-tertiary);
+  padding: 0.2rem 0.4rem;
+  border-radius: 4px;
+  font-family: 'IBM Plex Mono', monospace;
+  font-size: 0.9em;
+  color: var(--accent-pink);
+  border: 1px solid var(--border-color);
+}
+
+/* 普通pre标签（不在code-block-wrapper中） */
+.markdown-content pre:not(.code-block-wrapper pre) {
+  background: var(--bg-secondary);
+  border: 2px solid var(--accent-cyan);
+  border-radius: 8px;
+  padding: 1.5rem;
+  margin: 1.5rem 0;
+  overflow-x: auto;
+  box-shadow: var(--glow-cyan);
+}
+
+.markdown-content pre code {
+  background: none;
+  padding: 0;
+  border: none;
+  color: var(--text-primary);
+  font-size: 0.9rem;
+  line-height: 1.6;
+}
+
+/* Blockquotes */
+.markdown-content blockquote {
+  border-left: 4px solid var(--accent-pink);
+  padding-left: 1.5rem;
+  margin: 1.5rem 0;
+  color: var(--text-secondary);
+  font-style: italic;
+  background: var(--bg-secondary);
+  padding: 1rem 1.5rem;
+  border-radius: 0 8px 8px 0;
+}
+
+/* Tables */
+.markdown-content table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 1.5rem 0;
+  background: var(--bg-secondary);
+  border: 2px solid var(--border-color);
+  border-radius: 8px;
+  overflow: hidden;
+}
+
+.markdown-content th,
+.markdown-content td {
+  padding: 0.75rem 1rem;
+  border: 1px solid var(--border-color);
+  text-align: left;
+}
+
+.markdown-content th {
+  background: var(--bg-tertiary);
+  color: var(--accent-cyan);
+  font-weight: 600;
+}
+
+.markdown-content tr:hover {
+  background: var(--bg-tertiary);
+}
+
+/* Images */
+.markdown-content img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 8px;
+  margin: 1.5rem 0;
+  border: 2px solid var(--border-color);
+}
+
+/* Horizontal Rule */
+.markdown-content hr {
+  border: none;
+  border-top: 2px solid var(--border-color);
+  margin: 2rem 0;
+}
+
+/* Checkboxes (Task Lists) */
+.markdown-content input[type="checkbox"] {
+  margin-right: 0.5rem;
+  accent-color: var(--accent-cyan);
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+  .tutorial-meta {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+
+  .article-title {
+    font-size: 1.5rem;
+  }
+
+  .markdown-content h1 {
+    font-size: 1.75rem;
+  }
+
+  .markdown-content h2 {
+    font-size: 1.5rem;
+  }
+
+  .markdown-content h3 {
+    font-size: 1.25rem;
+  }
+
+  .markdown-content pre {
+    padding: 1rem;
+    font-size: 0.85rem;
+  }
+
+  .markdown-content table {
+    font-size: 0.9rem;
+  }
+}
+
+/* Tutorials Grid (for listing page) */
+.page-header {
+  text-align: center;
+  margin-bottom: 3rem;
+  padding: 2rem;
+}
+
+.page-title {
+  font-family: 'Press Start 2P', cursive;
+  font-size: clamp(1.5rem, 4vw, 2.5rem);
+  color: var(--accent-cyan);
+  text-shadow: var(--glow-cyan);
+  margin-bottom: 1rem;
+}
+
+.page-subtitle {
+  color: var(--text-secondary);
+  font-size: 1.1rem;
+}
+
+.tutorials-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  gap: 2rem;
+  margin-bottom: 3rem;
+}
+
+.tutorial-card {
+  background: var(--bg-secondary);
+  border: 2px solid var(--border-color);
+  border-radius: 8px;
+  padding: 2rem;
+  text-decoration: none;
+  color: inherit;
+  transition: all 0.3s ease;
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+
+.tutorial-card:hover {
+  border-color: var(--accent-cyan);
+  box-shadow: var(--glow-cyan);
+  transform: translateY(-5px);
+}
+
+.tutorial-category {
+  display: inline-block;
+  padding: 0.25rem 0.75rem;
+  background: var(--bg-tertiary);
+  color: var(--accent-cyan);
+  border: 1px solid var(--accent-cyan);
+  border-radius: 4px;
+  font-size: 0.85rem;
+  width: fit-content;
+}
+
+.tutorial-title {
+  font-family: 'Press Start 2P', cursive;
+  font-size: 1rem;
+  color: var(--accent-cyan);
+  line-height: 1.6;
+  margin: 0;
+}
+
+.tutorial-description {
+  color: var(--text-secondary);
+  line-height: 1.6;
+  flex-grow: 1;
+}
+
+.tutorial-footer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: auto;
+  padding-top: 1rem;
+  border-top: 1px solid var(--border-color);
+}
+
+.tutorial-date {
+  color: var(--text-secondary);
+  font-size: 0.9rem;
+}
+
+.tutorial-arrow {
+  color: var(--accent-pink);
+  font-size: 1.5rem;
+}
+
+.empty-state {
+  max-width: 600px;
+  margin: 3rem auto;
+}
+
+.error-message {
+  text-align: center;
+  padding: 4rem 2rem;
+}
+
+.error-message h1 {
+  font-family: 'Press Start 2P', cursive;
+  color: var(--accent-pink);
+  margin-bottom: 2rem;
+}
+
+.error-message a {
+  color: var(--accent-cyan);
+  text-decoration: none;
+  font-size: 1.1rem;
+}
+
+.error-message a:hover {
+  text-shadow: var(--glow-cyan);
+}
+
+/* 代码块复制功能 */
+.code-block-wrapper {
+  position: relative;
+  margin: 1.5rem 0;
+  border-radius: 8px;
+  background: var(--bg-secondary);
+  border: 2px solid var(--accent-cyan);
+  overflow: hidden;
+  box-shadow: var(--glow-cyan);
+}
+
+.code-block-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0.75rem 1rem;
+  background: var(--bg-tertiary);
+  border-bottom: 1px solid var(--border-color);
+}
+
+.code-language {
+  font-size: 0.85rem;
+  color: var(--accent-pink);
+  font-family: 'IBM Plex Mono', monospace;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  font-weight: 600;
+}
+
+.copy-button {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  padding: 0.4rem 0.8rem;
+  font-size: 0.85rem;
+  background: transparent;
+  border: 1px solid var(--border-color);
+  border-radius: 6px;
+  color: var(--text-primary);
+  cursor: pointer;
+  transition: all 0.2s ease;
+  font-family: inherit;
+}
+
+.copy-button:hover {
+  background: var(--bg-secondary);
+  border-color: var(--accent-cyan);
+  color: var(--accent-cyan);
+  box-shadow: 0 0 10px rgba(0, 255, 249, 0.3);
+}
+
+.copy-button.copied {
+  background: var(--accent-cyan);
+  border-color: var(--accent-cyan);
+  color: var(--bg-primary);
+}
+
+.copy-button svg {
+  stroke-width: 2.5;
+  width: 16px;
+  height: 16px;
+}
+
+.code-block-wrapper code {
+  display: block;
+  padding: 1.5rem;
+  overflow-x: auto;
+  font-family: 'IBM Plex Mono', monospace;
+  color: var(--text-primary);
+  background: var(--bg-secondary);
+  margin: 0;
+  border: none;
+  white-space: pre;
+  line-height: 1.6;
+}
+
+/* 滚动条样式 */
+.code-block-wrapper code::-webkit-scrollbar {
+  height: 8px;
+}
+
+.code-block-wrapper code::-webkit-scrollbar-track {
+  background: var(--bg-tertiary);
+}
+
+.code-block-wrapper code::-webkit-scrollbar-thumb {
+  background: var(--border-color);
+  border-radius: 4px;
+}
+
+.code-block-wrapper code::-webkit-scrollbar-thumb:hover {
+  background: var(--accent-cyan);
+}

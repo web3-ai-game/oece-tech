@@ -1,0 +1,137 @@
+{
+  "propositions": [
+    {
+      "id": "1",
+      "text": "The protagonist struggles with existential questions about their purpose and identity.",
+      "level": 1
+    },
+    {
+      "id": "1.1",
+      "text": "The protagonist feels unnatural and different, created for a higher purpose yet lost in confusion.",
+      "level": 2
+    },
+    {
+      "id": "1.2",
+      "text": "Parental figures reinforce the protagonist's uniqueness, with sacrifices made to a devil for their existence.",
+      "level": 2
+    },
+    {
+      "id": "2",
+      "text": "The protagonist's origin is tied to a laboratory experiment in a futuristic setting.",
+      "level": 1
+    },
+    {
+      "id": "2.1",
+      "text": "Born in a lab in 2082, the protagonist is treated as an experimental subject rather than a child.",
+      "level": 2
+    },
+    {
+      "id": "2.2",
+      "text": "Emotional detachment and loneliness define the protagonist's early life due to parental neglect.",
+      "level": 2
+    },
+    {
+      "id": "3",
+      "text": "Conflict arises with the father, revealing deep familial dysfunction and betrayal.",
+      "level": 1
+    },
+    {
+      "id": "3.1",
+      "text": "The father's coldness and view of the protagonist as an experiment cause emotional turmoil.",
+      "level": 2
+    },
+    {
+      "id": "3.2",
+      "text": "The mother's anguish and rejection label the protagonist as a 'devil's child'.",
+      "level": 2
+    },
+    {
+      "id": "4",
+      "text": "A new chapter begins as the protagonist leaves the past behind for a new life in a research institute.",
+      "level": 1
+    },
+    {
+      "id": "4.1",
+      "text": "Interactions with new figures and the revelation of being an experimental series (0079) shape their journey.",
+      "level": 2
+    },
+    {
+      "id": "4.2",
+      "text": "The protagonist grapples with the weight of being an experiment while forming fleeting connections.",
+      "level": 2
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Loneliness",
+      "frequency": 10,
+      "context": "Central theme of protagonist's emotional state and isolation from others."
+    },
+    {
+      "name": "Experiment",
+      "frequency": 15,
+      "context": "Protagonist's origin as a lab creation and ongoing identity as a test subject."
+    },
+    {
+      "name": "Devil",
+      "frequency": 8,
+      "context": "Symbol of sacrifice and unnatural origin tied to parental actions."
+    },
+    {
+      "name": "Father",
+      "frequency": 20,
+      "context": "Complex figure of authority, creator, and source of emotional conflict."
+    },
+    {
+      "name": "Mother",
+      "frequency": 12,
+      "context": "Figure of love and pain, ultimately rejecting the protagonist."
+    },
+    {
+      "name": "Identity",
+      "frequency": 7,
+      "context": "Protagonist's struggle to understand their purpose and self."
+    }
+  ],
+  "relations": [
+    {
+      "source": "Protagonist",
+      "target": "Experiment",
+      "type": "is_a"
+    },
+    {
+      "source": "Protagonist",
+      "target": "Loneliness",
+      "type": "experiences"
+    },
+    {
+      "source": "Father",
+      "target": "Experiment",
+      "type": "creates"
+    },
+    {
+      "source": "Mother",
+      "target": "Devil",
+      "type": "sacrifices_to"
+    },
+    {
+      "source": "Protagonist",
+      "target": "Identity",
+      "type": "seeks"
+    },
+    {
+      "source": "Father",
+      "target": "Protagonist",
+      "type": "rejects_as_human"
+    }
+  ],
+  "hierarchy": {
+    "main_topics": [
+      "Existential Struggle",
+      "Laboratory Origin",
+      "Familial Conflict",
+      "New Beginnings"
+    ],
+    "structure": "The document is divided into four chapters, each focusing on a different phase of the protagonist's life, from existential questioning and origin revelation to familial conflict and a forced new start."
+  }
+}

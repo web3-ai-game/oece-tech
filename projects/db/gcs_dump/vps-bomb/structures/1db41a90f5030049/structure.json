@@ -1,0 +1,447 @@
+{
+  "propositions": [
+    {
+      "id": "1",
+      "text": "The narrator is standing with a very handsome man named Claude.",
+      "level": 1
+    },
+    {
+      "id": "1.1",
+      "text": "The narrator compares Claude to Brad Pitt, Charles Bronson, and Edward James Olmos.",
+      "level": 2
+    },
+    {
+      "id": "2",
+      "text": "Claude's ideal type is strong, rough, dark, and potentially stubbled, not curvy and blonde.",
+      "level": 1
+    },
+    {
+      "id": "3",
+      "text": "Alfred Cumberland, the photographer, instructs Maria-Star Cooper to fix the narrator's hair.",
+      "level": 1
+    },
+    {
+      "id": "3.1",
+      "text": "Maria-Star Cooper is a young assistant who previously worked with the narrator during a shifter leader election.",
+      "level": 2
+    },
+    {
+      "id": "4",
+      "text": "The narrator describes her outfit and the studio environment.",
+      "level": 1
+    },
+    {
+      "id": "5",
+      "text": "Life has been oppressive for the narrator in the past few weeks.",
+      "level": 1
+    },
+    {
+      "id": "6",
+      "text": "Maria-Star Cooper, who had been injured by a car, is now fully recovered thanks to werewolf healing abilities.",
+      "level": 1
+    },
+    {
+      "id": "7",
+      "text": "Maria-Star recognizes the narrator, and the narrator feels relieved.",
+      "level": 1
+    },
+    {
+      "id": "7.1",
+      "text": "The narrator was not entirely willing to participate in the shifter leader election.",
+      "level": 2
+    },
+    {
+      "id": "7.2",
+      "text": "Alcide Herveaux, son of a failed competitor, feels let down by the narrator.",
+      "level": 2
+    },
+    {
+      "id": "7.3",
+      "text": "The new pack leader, Patrick Furnan, is aware of the narrator's connection to the Herveaux family.",
+      "level": 2
+    },
+    {
+      "id": "7.4",
+      "text": "Maria-Star applies a lot of makeup to the narrator, making her look great but not like Sookie Stackhouse.",
+      "level": 2
+    },
+    {
+      "id": "8",
+      "text": "Claude is gay, and if he were not, he would impress the narrator.",
+      "level": 1
+    },
+    {
+      "id": "8.1",
+      "text": "Claude is described as tall, with long black hair, brown eyes, and perfect features.",
+      "level": 2
+    },
+    {
+      "id": "8.2",
+      "text": "Claude has had ear surgery to make them look human, indicating he is an elf.",
+      "level": 2
+    },
+    {
+      "id": "9",
+      "text": "Alfred uses a wind machine to create a dramatic effect for the photoshoot.",
+      "level": 1
+    },
+    {
+      "id": "10",
+      "text": "Claude asks for juice, showing his inexperience.",
+      "level": 1
+    },
+    {
+      "id": "11",
+      "text": "Maria-Star sighs after learning about Claude, indicating women often regret his sexual orientation.",
+      "level": 1
+    },
+    {
+      "id": "12",
+      "text": "Maria-Star seems to have something to say to the narrator but hesitates.",
+      "level": 1
+    },
+    {
+      "id": "13",
+      "text": "The narrator finds telepathy painful and makes dating difficult.",
+      "level": 1
+    },
+    {
+      "id": "14",
+      "text": "Maria-Star mentions Alcide has been having a hard time since his father was defeated.",
+      "level": 1
+    },
+    {
+      "id": "14.1",
+      "text": "The narrator sent a letter to the ASPCA, knowing they would inform Alcide and Janice about their father's death.",
+      "level": 2
+    },
+    {
+      "id": "14.2",
+      "text": "The narrator acknowledges she received only a thank you letter from the funeral home.",
+      "level": 2
+    },
+    {
+      "id": "15",
+      "text": "The narrator experiences pain but has learned to push it away.",
+      "level": 1
+    },
+    {
+      "id": "16",
+      "text": "The narrator looks through Alfred's sample albums, finding them uncomfortable.",
+      "level": 1
+    },
+    {
+      "id": "17",
+      "text": "The narrator tells Maria-Star that she and Alcide are not a couple.",
+      "level": 1
+    },
+    {
+      "id": "18",
+      "text": "Maria-Star expresses awe and possibly fear, saying she heard the narrator can do things.",
+      "level": 1
+    },
+    {
+      "id": "19",
+      "text": "The narrator reassures Maria-Star she is happy she is dating Alcide.",
+      "level": 1
+    },
+    {
+      "id": "20",
+      "text": "The narrator realizes Alcide no longer has feelings for her after he didn't mention his father's death.",
+      "level": 1
+    },
+    {
+      "id": "20.1",
+      "text": "The narrator admits she liked Alcide and it hurts to be replaced by someone else.",
+      "level": 2
+    },
+    {
+      "id": "20.2",
+      "text": "Alcide had previously suggested they live together but is now with a younger werewolf and planning a puppy.",
+      "level": 2
+    },
+    {
+      "id": "21",
+      "text": "The narrator feels ashamed for her thoughts about Alcide and Maria-Star.",
+      "level": 1
+    },
+    {
+      "id": "22",
+      "text": "The narrator wishes Maria-Star happiness.",
+      "level": 1
+    },
+    {
+      "id": "23",
+      "text": "The narrator views a special album containing pictures of supernatural beings, including a vampire couple and a young werewolf transforming.",
+      "level": 1
+    },
+    {
+      "id": "23.1",
+      "text": "Alfred gave Claude a chance to be on the cover of a magazine.",
+      "level": 2
+    },
+    {
+      "id": "24",
+      "text": "Alfred instructs the narrator and Claude to pose intimately for the next set of photos.",
+      "level": 1
+    },
+    {
+      "id": "24.1",
+      "text": "The narrator is instructed to lift her skirt to show her legs, which are smooth and tanned.",
+      "level": 2
+    },
+    {
+      "id": "24.2",
+      "text": "Claude is instructed to look as if he is about to remove his pants.",
+      "level": 2
+    },
+    {
+      "id": "25",
+      "text": "Claude's photos are often chosen for the cover of Romantic Times Book Reviews.",
+      "level": 1
+    },
+    {
+      "id": "26",
+      "text": "Alfred suggested to Claude that women would be interested in romance novel covers and that Claude's eyes would pair well with a blonde.",
+      "level": 1
+    },
+    {
+      "id": "27",
+      "text": "The narrator agrees to help Claude for free, unlike paid strippers.",
+      "level": 1
+    },
+    {
+      "id": "28",
+      "text": "Claude removes his shirt, revealing a muscular physique, which the narrator is no longer impressed by.",
+      "level": 1
+    },
+    {
+      "id": "29",
+      "text": "The narrator feels the act of lifting her skirt is too intimate, even though she is not blushing.",
+      "level": 1
+    },
+    {
+      "id": "30",
+      "text": "Alfred is displeased with the narrator's expression, wanting her to look like she desires Claude.",
+      "level": 1
+    },
+    {
+      "id": "31",
+      "text": "The narrator tries to convey desire by lifting her leg and looking at Claude.",
+      "level": 1
+    },
+    {
+      "id": "32",
+      "text": "Alfred instructs Maria-Star to make the narrator look more eager and to pull down her top.",
+      "level": 1
+    },
+    {
+      "id": "33",
+      "text": "The narrator is not interested in Claude, finding him temperamental and unresponsive.",
+      "level": 1
+    },
+    {
+      "id": "34",
+      "text": "The narrator resorts to fantasy.",
+      "level": 1
+    },
+    {
+      "id": "35",
+      "text": "The narrator's thoughts turn to Vampire Bill, her first love, who is now dating someone else.",
+      "level": 1
+    },
+    {
+      "id": "36",
+      "text": "The narrator considers Eric, Bill's boss, but dismisses the idea as dangerous.",
+      "level": 1
+    },
+    {
+      "id": "37",
+      "text": "The narrator also considers her boss, Sam Merlotte, and Alcide Herveaux, but dismisses them.",
+      "level": 1
+    },
+    {
+      "id": "38",
+      "text": "The narrator recalls a disturbing but titillating past sexual experience involving her bleeding leg being licked by Quinn.",
+      "level": 1
+    },
+    {
+      "id": "39",
+      "text": "Alfred declares the shot is perfect as Claude's hand touches the narrator's trembling leg.",
+      "level": 1
+    },
+    {
+      "id": "40",
+      "text": "Alfred suggests a bed scene, but both the narrator and Claude refuse.",
+      "level": 1
+    },
+    {
+      "id": "41",
+      "text": "The narrator suggests shooting Claude standing in water instead, which Alfred agrees to.",
+      "level": 1
+    },
+    {
+      "id": "42",
+      "text": "The narrator leaves the dressing room and heads back to work.",
+      "level": 1
+    },
+    {
+      "id": "43",
+      "text": "Claude thanks the narrator.",
+      "level": 1
+    },
+    {
+      "id": "44",
+      "text": "The narrator wishes Claude luck with his modeling contract.",
+      "level": 1
+    },
+    {
+      "id": "45",
+      "text": "Maria-Star says goodbye to the narrator.",
+      "level": 1
+    },
+    {
+      "id": "46",
+      "text": "The narrator lies about being happy to see Maria-Star.",
+      "level": 1
+    },
+    {
+      "id": "47",
+      "text": "The narrator questions why Maria-Star doesn't understand her feelings for Alcide, considering his attractive qualities and current success.",
+      "level": 1
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Claude",
+      "frequency": 18,
+      "context": "The handsome man the narrator is with for a photoshoot, described as an elf, gay, and aspiring model."
+    },
+    {
+      "name": "Narrator",
+      "frequency": 25,
+      "context": "The first-person perspective of the story, involved in a photoshoot and reflecting on relationships and supernatural elements."
+    },
+    {
+      "name": "Alfred Cumberland",
+      "frequency": 10,
+      "context": "The photographer who directs the photoshoot and is knowledgeable about the supernatural world."
+    },
+    {
+      "name": "Maria-Star Cooper",
+      "frequency": 11,
+      "context": "The assistant to the photographer, a werewolf who seems to have unexpressed feelings for Alcide."
+    },
+    {
+      "name": "Alcide Herveaux",
+      "frequency": 10,
+      "context": "A werewolf whose father was recently killed; the narrator has unrequited feelings for him, and he is now with Maria-Star."
+    },
+    {
+      "name": "Supernatural beings",
+      "frequency": 8,
+      "context": "Elves, werewolves, vampires, and shifters, who inhabit the world of the story."
+    },
+    {
+      "name": "Photoshoot",
+      "frequency": 11,
+      "context": "The main event where the narrator and Claude are participating, involving posing and various instructions from the photographer."
+    },
+    {
+      "name": "Relationships",
+      "frequency": 10,
+      "context": "The narrator's reflections on her romantic interests, past and present, including Claude, Bill, Eric, Sam, and Alcide."
+    },
+    {
+      "name": "Shifter leader election",
+      "frequency": 3,
+      "context": "A past event where the narrator was involved and which led to conflict and violence."
+    },
+    {
+      "name": "Fantasy",
+      "frequency": 4,
+      "context": "The narrator's use of imagination to cope with the uninspiring photoshoot and her romantic disappointments."
+    }
+  ],
+  "relations": [
+    {
+      "source": "Claude",
+      "target": "Elf",
+      "type": "is_a"
+    },
+    {
+      "source": "Claude",
+      "target": "Aspiring model",
+      "type": "is_a"
+    },
+    {
+      "source": "Maria-Star Cooper",
+      "target": "Werewolf",
+      "type": "is_a"
+    },
+    {
+      "source": "Alcide Herveaux",
+      "target": "Werewolf",
+      "type": "is_a"
+    },
+    {
+      "source": "Narrator",
+      "target": "Sookie Stackhouse",
+      "type": "is_a"
+    },
+    {
+      "source": "Alfred Cumberland",
+      "target": "Photographer",
+      "type": "is_a"
+    },
+    {
+      "source": "Alfred Cumberland",
+      "target": "Supernatural beings",
+      "type": "interacts_with"
+    },
+    {
+      "source": "Narrator",
+      "target": "Claude",
+      "type": "poses_with"
+    },
+    {
+      "source": "Narrator",
+      "target": "Maria-Star Cooper",
+      "type": "interacts_with"
+    },
+    {
+      "source": "Narrator",
+      "target": "Alcide Herveaux",
+      "type": "has_unrequited_feelings_for"
+    },
+    {
+      "source": "Maria-Star Cooper",
+      "target": "Alcide Herveaux",
+      "type": "dating"
+    },
+    {
+      "source": "Claude",
+      "target": "Magazine cover",
+      "type": "aims_for"
+    },
+    {
+      "source": "Vampire Bill",
+      "target": "Narrator",
+      "type": "ex_lover_of"
+    },
+    {
+      "source": "Eric",
+      "target": "Vampire Bill",
+      "type": "boss_of"
+    }
+  ],
+  "hierarchy": {
+    "main_topics": [
+      "Photoshoot",
+      "Characters and Relationships",
+      "Supernatural Elements",
+      "Narrator's Inner Thoughts"
+    ],
+    "structure": "The document begins with the narrator in a photoshoot, introduces various characters and their relationships, delves into the narrator's personal reflections and fantasies, and concludes with the resolution of the photoshoot scene."
+  }
+}

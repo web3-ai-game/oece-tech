@@ -1,0 +1,15 @@
+{
+  "propositions": [
+    {
+      "id": "1",
+      "text": "Document: 小偷的诡异档案_花布.txt",
+      "level": 1
+    }
+  ],
+  "concepts": [],
+  "relations": [],
+  "hierarchy": {
+    "main_topics": [],
+    "structure": "Basic structure (extraction failed)"
+  }
+}

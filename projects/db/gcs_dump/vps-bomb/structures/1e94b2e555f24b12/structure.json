@@ -1,0 +1,202 @@
+{
+  "propositions": [
+    {
+      "id": "1",
+      "text": "1945年，15岁的少女乔琪雅在一次文物展览会上，意外发现了2000年前秦始皇陵出土的玉俑，这批玉俑的工艺精湛，远非同期文物可比，她凭借其敏锐的鉴宝眼光，断定这批玉俑并非秦始皇陪葬品，而是另有蹊跷。",
+      "level": 1
+    },
+    {
+      "id": "1.1",
+      "text": "乔琪雅凭借其敏锐的鉴宝眼光，断定这批玉俑并非秦始皇陪葬品，而是另有蹊跷。",
+      "level": 2
+    },
+    {
+      "id": "2",
+      "text": "2006年3月1日，原中国文物局局长王德文因贪污被捕，在他被捕前，曾秘密销毁了一批极其珍贵的文物。",
+      "level": 1
+    },
+    {
+      "id": "2.1",
+      "text": "他被捕前，曾秘密销毁了一批极其珍贵的文物。",
+      "level": 2
+    },
+    {
+      "id": "3",
+      "text": "乔琪雅的鉴宝之路并非一帆风顺，她曾因误判一件文物而声名扫地，但她从未放弃，继续在文物界深耕。",
+      "level": 1
+    },
+    {
+      "id": "3.1",
+      "text": "她曾因误判一件文物而声名扫地，但她从未放弃，继续在文物界深耕。",
+      "level": 2
+    },
+    {
+      "id": "4",
+      "text": "在一次偶然的机会，乔琪雅接触到了一位神秘的收藏家，这位收藏家拥有大量的珍稀文物，其中不乏失传已久的国宝。",
+      "level": 1
+    },
+    {
+      "id": "4.1",
+      "text": "这位收藏家拥有大量的珍稀文物，其中不乏失传已久的国宝。",
+      "level": 2
+    },
+    {
+      "id": "5",
+      "text": "乔琪雅与这位收藏家合作，共同追寻一件失落千年的神秘宝物的下落，这件宝物不仅价值连城，更隐藏着一段惊人的历史秘密。",
+      "level": 1
+    },
+    {
+      "id": "5.1",
+      "text": "这件宝物不仅价值连城，更隐藏着一段惊人的历史秘密。",
+      "level": 2
+    },
+    {
+      "id": "6",
+      "text": "他们在追寻宝物的过程中，遇到了重重阻碍，不仅要面对文物贩子的追杀，还要破解古老的谜题和机关。",
+      "level": 1
+    },
+    {
+      "id": "6.1",
+      "text": "他们不仅要面对文物贩子的追杀，还要破解古老的谜题和机关。",
+      "level": 2
+    },
+    {
+      "id": "7",
+      "text": "乔琪雅的鉴宝技能在一次次危机中得到了升华，她不仅能够辨别文物的真伪，更能洞察其背后的历史和文化。",
+      "level": 1
+    },
+    {
+      "id": "7.1",
+      "text": "她不仅能够辨别文物的真伪，更能洞察其背后的历史和文化。",
+      "level": 2
+    },
+    {
+      "id": "8",
+      "text": "最终，乔琪雅和她的伙伴们成功找到了神秘宝物，并揭开了隐藏在其中的惊人历史秘密，他们的行动也为保护国家文物做出了巨大贡献。",
+      "level": 1
+    },
+    {
+      "id": "8.1",
+      "text": "他们成功找到了神秘宝物，并揭开了隐藏在其中的惊人历史秘密。",
+      "level": 2
+    },
+    {
+      "id": "8.2",
+      "text": "他们的行动也为保护国家文物做出了巨大贡献。",
+      "level": 2
+    }
+  ],
+  "concepts": [
+    {
+      "name": "乔琪雅",
+      "frequency": 10,
+      "context": "女主角，一位鉴宝师，具有敏锐的鉴宝眼光和不断深耕的精神。"
+    },
+    {
+      "name": "玉俑",
+      "frequency": 3,
+      "context": "秦始皇陵出土的文物，工艺精湛，引起乔琪雅的注意。"
+    },
+    {
+      "name": "鉴宝",
+      "frequency": 5,
+      "context": "乔琪雅的核心能力，包括辨别真伪和洞察历史文化。"
+    },
+    {
+      "name": "文物",
+      "frequency": 15,
+      "context": "小说中的核心元素，包括秦始皇陵玉俑、失落的国宝等。"
+    },
+    {
+      "name": "历史秘密",
+      "frequency": 4,
+      "context": "贯穿小说的线索，与神秘宝物和文物相关。"
+    },
+    {
+      "name": "神秘宝物",
+      "frequency": 3,
+      "context": "故事的主要追寻目标，价值连城并隐藏历史秘密。"
+    },
+    {
+      "name": "王德文",
+      "frequency": 1,
+      "context": "原中国文物局局长，因贪污被捕并销毁文物。"
+    },
+    {
+      "name": "文物贩子",
+      "frequency": 1,
+      "context": "小说中的反派角色，对主角一行人构成威胁。"
+    },
+    {
+      "name": "谜题和机关",
+      "frequency": 1,
+      "context": "主角一行人在追寻宝物过程中需要破解的障碍。"
+    },
+    {
+      "name": "保护国家文物",
+      "frequency": 1,
+      "context": "主角一行人的最终目标和行动成果。"
+    }
+  ],
+  "relations": [
+    {
+      "source": "乔琪雅",
+      "target": "鉴宝",
+      "type": "is_a"
+    },
+    {
+      "source": "玉俑",
+      "target": "秦始皇陵",
+      "type": "part_of"
+    },
+    {
+      "source": "乔琪雅",
+      "target": "玉俑",
+      "type": "discovers"
+    },
+    {
+      "source": "乔琪雅",
+      "target": "历史秘密",
+      "type": "investigates"
+    },
+    {
+      "source": "神秘宝物",
+      "target": "历史秘密",
+      "type": "contains"
+    },
+    {
+      "source": "乔琪雅",
+      "target": "神秘宝物",
+      "type": "searches_for"
+    },
+    {
+      "source": "乔琪雅",
+      "target": "文物贩子",
+      "type": "confronts"
+    },
+    {
+      "source": "乔琪雅",
+      "target": "谜题和机关",
+      "type": "solves"
+    },
+    {
+      "source": "乔琪雅",
+      "target": "保护国家文物",
+      "type": "contributes_to"
+    },
+    {
+      "source": "王德文",
+      "target": "文物",
+      "type": "destroys"
+    }
+  ],
+  "hierarchy": {
+    "main_topics": [
+      "Protagonist and her abilities",
+      "Historical artifacts and mysteries",
+      "Challenges and investigations",
+      "Resolution and contribution"
+    ],
+    "structure": "The document presents a narrative structure, starting with an inciting incident involving a historical artifact and the protagonist's unique skill. It then introduces antagonists and obstacles, followed by the protagonist's growth and ultimately, the resolution of the mystery and a positive societal contribution."
+  }
+}

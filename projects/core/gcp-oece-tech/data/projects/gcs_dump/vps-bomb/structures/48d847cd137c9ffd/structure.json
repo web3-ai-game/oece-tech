@@ -1,0 +1,229 @@
+{
+  "propositions": [
+    {
+      "id": "1",
+      "text": "木须花出生在女儿国。",
+      "level": 1
+    },
+    {
+      "id": "1.1",
+      "text": "木须花是一个普通女孩。",
+      "level": 2
+    },
+    {
+      "id": "2",
+      "text": "木须花在女儿国度过了童年。",
+      "level": 1
+    },
+    {
+      "id": "2.1",
+      "text": "木须花的家在村庄里，父母勤劳善良。",
+      "level": 2
+    },
+    {
+      "id": "2.2",
+      "text": "村里的邻居们和蔼，像家人一样关心木须花。",
+      "level": 2
+    },
+    {
+      "id": "2.3",
+      "text": "木须花和村里的孩子们一起玩耍，留下了美好回忆。",
+      "level": 2
+    },
+    {
+      "id": "3",
+      "text": "木须花在成长过程中懂事。",
+      "level": 1
+    },
+    {
+      "id": "3.1",
+      "text": "木须花喜欢读书，了解了许多世界。",
+      "level": 2
+    },
+    {
+      "id": "3.2",
+      "text": "木须花有了自己的情感，喜欢上了村里的一个男孩。",
+      "level": 2
+    },
+    {
+      "id": "3.3",
+      "text": "女儿国的习俗让木须花不敢表达感情，感到烦恼困惑。",
+      "level": 2
+    },
+    {
+      "id": "4",
+      "text": "木须花决定勇敢表达爱。",
+      "level": 1
+    },
+    {
+      "id": "4.1",
+      "text": "木须花在一个夜晚鼓起勇气向男孩表白。",
+      "level": 2
+    },
+    {
+      "id": "4.2",
+      "text": "男孩欣然接受了木须花的爱。",
+      "level": 2
+    },
+    {
+      "id": "4.3",
+      "text": "他们的爱情充满了幸福和甜蜜。",
+      "level": 2
+    },
+    {
+      "id": "5",
+      "text": "木须花年华老去，但一生充满了爱和幸福，并不后悔。",
+      "level": 1
+    },
+    {
+      "id": "6",
+      "text": "女儿国的习俗独特而神秘。",
+      "level": 1
+    },
+    {
+      "id": "6.1",
+      "text": "女儿国是一个女性为主导的社会，女性扮演重要角色。",
+      "level": 2
+    },
+    {
+      "id": "6.2",
+      "text": "女儿国的婚恋制度特殊，女性拥有绝对主动权。",
+      "level": 2
+    },
+    {
+      "id": "6.3",
+      "text": "女儿国的生育方式与众不同，细节鲜为人知。",
+      "level": 2
+    }
+  ],
+  "concepts": [
+    {
+      "name": "木须花",
+      "frequency": 11,
+      "context": "The central protagonist, her life experiences, childhood, growth, love, and reflections."
+    },
+    {
+      "name": "女儿国",
+      "frequency": 8,
+      "context": "The setting of the story, a mysterious and beautiful place with unique customs."
+    },
+    {
+      "name": "童年",
+      "frequency": 4,
+      "context": "Describes Mu Xuhua's childhood experiences in Daughter Kingdom, including family, neighbors, and playmates."
+    },
+    {
+      "name": "爱",
+      "frequency": 5,
+      "context": "The theme of love, its expression, acceptance, and the happiness it brings."
+    },
+    {
+      "name": "习俗",
+      "frequency": 4,
+      "context": "Refers to the unique and mysterious customs of Daughter Kingdom, particularly regarding women, marriage, and childbirth."
+    },
+    {
+      "name": "成长",
+      "frequency": 3,
+      "context": "The process of growing up, learning, developing emotions, and facing dilemmas."
+    },
+    {
+      "name": "幸福",
+      "frequency": 3,
+      "context": "Associated with love and life's fulfillment, particularly in Mu Xuhua's reflections."
+    },
+    {
+      "name": "女性",
+      "frequency": 3,
+      "context": "Central to the society of Daughter Kingdom, with a focus on their roles and dominance."
+    },
+    {
+      "name": "情感",
+      "frequency": 2,
+      "context": "The development of personal feelings, specifically love, and the barriers faced."
+    },
+    {
+      "name": "村庄",
+      "frequency": 2,
+      "context": "The specific location of Mu Xuhua's home and childhood activities."
+    }
+  ],
+  "relations": [
+    {
+      "source": "木须花",
+      "target": "女儿国",
+      "type": "is_a_resident_of"
+    },
+    {
+      "source": "木须花",
+      "target": "童年",
+      "type": "experienced"
+    },
+    {
+      "source": "木须花",
+      "target": "成长",
+      "type": "underwent"
+    },
+    {
+      "source": "木须花",
+      "target": "爱",
+      "type": "experienced"
+    },
+    {
+      "source": "木须花",
+      "target": "幸福",
+      "type": "experienced"
+    },
+    {
+      "source": "木须花",
+      "target": "情感",
+      "type": "developed"
+    },
+    {
+      "source": "女儿国",
+      "target": "习俗",
+      "type": "has"
+    },
+    {
+      "source": "女儿国",
+      "target": "女性",
+      "type": "dominated_by"
+    },
+    {
+      "source": "童年",
+      "target": "村庄",
+      "type": "occurred_in"
+    },
+    {
+      "source": "爱",
+      "target": "幸福",
+      "type": "leads_to"
+    },
+    {
+      "source": "习俗",
+      "target": "婚恋制度",
+      "type": "includes"
+    },
+    {
+      "source": "习俗",
+      "target": "生育方式",
+      "type": "includes"
+    },
+    {
+      "source": "习俗",
+      "target": "女性崇拜",
+      "type": "includes"
+    }
+  ],
+  "hierarchy": {
+    "main_topics": [
+      "Introduction",
+      "Childhood",
+      "Growth",
+      "Love",
+      "Reflection",
+      "Daughter Kingdom Customs"
+    ],
+    "structure": "The document follows a chronological narrative of the protagonist Mu Xuhua's life in Daughter Kingdom, from her birth and childhood through her growth, love, and later reflections. It is structured into distinct sections, including an introduction, detailed accounts of life stages, a section on the unique customs of Daughter Kingdom, and placeholders for references and acknowledgments."
+  }
+}

@@ -1,0 +1,272 @@
+{
+  "propositions": [
+    {
+      "id": "1",
+      "text": "The document describes a story involving a \"Cold-hearted Prince\" and his \"Separated Concubine from Another World.\"",
+      "level": 1
+    },
+    {
+      "id": "1.1",
+      "text": "The narrative appears to be a fictional work, likely a novel, given the title.",
+      "level": 2
+    },
+    {
+      "id": "2",
+      "text": "There are themes of abandonment, regret, and possibly time travel or reincarnation.",
+      "level": 1
+    },
+    {
+      "id": "2.1",
+      "text": "Characters express confusion and a desire to understand past actions.",
+      "level": 2
+    },
+    {
+      "id": "3",
+      "text": "The story involves significant emotional turmoil and complex relationships.",
+      "level": 1
+    },
+    {
+      "id": "3.1",
+      "text": "Characters grapple with misunderstandings and the consequences of their choices.",
+      "level": 2
+    },
+    {
+      "id": "4",
+      "text": "There are elements of mystery and a search for answers regarding past events.",
+      "level": 1
+    },
+    {
+      "id": "4.1",
+      "text": "The concept of fate or destiny seems to play a role.",
+      "level": 2
+    },
+    {
+      "id": "5",
+      "text": "The text contains fragmented sentences and appears to be a raw text extraction, possibly from a digital source.",
+      "level": 1
+    },
+    {
+      "id": "5.1",
+      "text": "The presence of non-standard characters and repeated phrases suggests a data processing artifact.",
+      "level": 2
+    },
+    {
+      "id": "6",
+      "text": "There's a recurring mention of \"prince\" (王爷) and the protagonist's identity as a \"concubine\" (妃).",
+      "level": 1
+    },
+    {
+      "id": "6.1",
+      "text": "The phrase \"another world\" (隔世) implies a fantastical or otherworldly setting.",
+      "level": 2
+    },
+    {
+      "id": "7",
+      "text": "Themes of love, loss, and the struggle for understanding are prevalent.",
+      "level": 1
+    },
+    {
+      "id": "7.1",
+      "text": "Characters reflect on their past and present circumstances.",
+      "level": 2
+    },
+    {
+      "id": "8",
+      "text": "The narrative seems to focus on personal growth and reconciliation.",
+      "level": 1
+    },
+    {
+      "id": "8.1",
+      "text": "There's a sense of seeking closure and making peace with the past.",
+      "level": 2
+    },
+    {
+      "id": "9",
+      "text": "The presence of dialogue suggests character interactions and plot development.",
+      "level": 1
+    },
+    {
+      "id": "9.1",
+      "text": "The emotional states of the characters are a significant part of the narrative.",
+      "level": 2
+    },
+    {
+      "id": "10",
+      "text": "The concept of \"cold\" (冷) in the prince's title suggests a reserved or unfeeling demeanor.",
+      "level": 1
+    },
+    {
+      "id": "10.1",
+      "text": "The term \"abandoned\" (弃) highlights a central conflict or past trauma.",
+      "level": 2
+    },
+    {
+      "id": "11",
+      "text": "The text explores the dynamics of power and status within a historical or fantasy setting.",
+      "level": 1
+    },
+    {
+      "id": "11.1",
+      "text": "The roles of royalty and concubines are likely central to the plot.",
+      "level": 2
+    },
+    {
+      "id": "12",
+      "text": "There are instances of internal monologue and reflection by the characters.",
+      "level": 1
+    },
+    {
+      "id": "12.1",
+      "text": "These reflections often involve questioning and self-examination.",
+      "level": 2
+    },
+    {
+      "id": "13",
+      "text": "The story seems to resolve around a journey of self-discovery and acceptance.",
+      "level": 1
+    },
+    {
+      "id": "13.1",
+      "text": "Characters aim to overcome past hurts and find a better future.",
+      "level": 2
+    },
+    {
+      "id": "14",
+      "text": "The raw nature of the text makes definitive structural analysis challenging.",
+      "level": 1
+    },
+    {
+      "id": "14.1",
+      "text": "Much of the meaning is inferred due to the fragmented and non-linear presentation.",
+      "level": 2
+    },
+    {
+      "id": "15",
+      "text": "The document is presented as a textual file (`.txt`) rather than a structured document.",
+      "level": 1
+    },
+    {
+      "id": "15.1",
+      "text": "The content appears to be a continuous block of Chinese characters with some potential encoding issues.",
+      "level": 2
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Prince",
+      "frequency": 10,
+      "context": "Referred to as 'Wangye' (王爷), often described as 'cold-hearted' (冷情)."
+    },
+    {
+      "name": "Concubine",
+      "frequency": 8,
+      "context": "Referred to as 'fei' (妃), described as 'abandoned' (弃) and from 'another world' (隔世)."
+    },
+    {
+      "name": "Abandonment",
+      "frequency": 5,
+      "context": "A key theme, indicated by 'qi' (弃) in the title and character reflections."
+    },
+    {
+      "name": "Regret",
+      "frequency": 4,
+      "context": "Characters express a desire to understand past actions and a sense of regret."
+    },
+    {
+      "name": "Another World",
+      "frequency": 3,
+      "context": "Implied by 'geshi' (隔世), suggesting a fantastical element."
+    },
+    {
+      "name": "Love",
+      "frequency": 3,
+      "context": "Underlying theme of relationships and emotional connection."
+    },
+    {
+      "name": "Mystery",
+      "frequency": 2,
+      "context": "Characters seek answers about past events and motivations."
+    },
+    {
+      "name": "Fate",
+      "frequency": 2,
+      "context": "The idea of destiny or predetermination appears to be a thematic element."
+    },
+    {
+      "name": "Self-discovery",
+      "frequency": 2,
+      "context": "Characters undergo journeys of personal growth and understanding."
+    },
+    {
+      "name": "Reconciliation",
+      "frequency": 2,
+      "context": "A goal for characters to find peace with the past."
+    },
+    {
+      "name": "Emotional Turmoil",
+      "frequency": 2,
+      "context": "Characters experience significant internal struggles and complex feelings."
+    },
+    {
+      "name": "Textual Artifact",
+      "frequency": 2,
+      "context": "The raw, fragmented nature of the document itself, with non-standard characters."
+    }
+  ],
+  "relations": [
+    {
+      "source": "Prince",
+      "target": "Cold-hearted",
+      "type": "has_attribute"
+    },
+    {
+      "source": "Concubine",
+      "target": "Abandoned",
+      "type": "has_attribute"
+    },
+    {
+      "source": "Concubine",
+      "target": "Another World",
+      "type": "originates_from"
+    },
+    {
+      "source": "Abandonment",
+      "target": "Regret",
+      "type": "implies"
+    },
+    {
+      "source": "Mystery",
+      "target": "Fate",
+      "type": "related_to"
+    },
+    {
+      "source": "Love",
+      "target": "Loss",
+      "type": "often_accompanied_by"
+    },
+    {
+      "source": "Self-discovery",
+      "target": "Reconciliation",
+      "type": "leads_to"
+    },
+    {
+      "source": "Prince",
+      "target": "Concubine",
+      "type": "has_relationship_with"
+    },
+    {
+      "source": "Textual Artifact",
+      "target": "Fragmented Sentences",
+      "type": "characterized_by"
+    }
+  ],
+  "hierarchy": {
+    "main_topics": [
+      "Character Roles (Prince, Concubine)",
+      "Thematic Elements (Abandonment, Regret, Fate)",
+      "Narrative Arc (Self-discovery, Reconciliation)",
+      "Textual Characteristics (Fragmented, Raw Extraction)"
+    ],
+    "structure": "The document is structured around the title 'Cold-hearted Prince's Separated Concubine from Another World'. It delves into the emotional states and past actions of characters, particularly a prince and his concubine. Themes of abandonment, regret, and a search for understanding are recurrent. The narrative seems to follow a progression of self-discovery and reconciliation. The physical format of the document is a raw text extraction, making it fragmented and somewhat non-linear, which influences the clarity of its logical structure."
+  }
+}

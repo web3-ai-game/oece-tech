@@ -1,0 +1,302 @@
+{
+  "propositions": [
+    {
+      "id": "1",
+      "text": "The document describes the unpacking and organizing of books in a new home, leading to a mysterious discovery.",
+      "level": 1
+    },
+    {
+      "id": "1.1",
+      "text": "Dubens is frustrated by the large number of books and her physical limitations.",
+      "level": 2
+    },
+    {
+      "id": "1.2",
+      "text": "Thomas and Dubens discuss their new home and the process of settling in.",
+      "level": 2
+    },
+    {
+      "id": "1.3",
+      "text": "Dubens reminisces about her childhood reading habits and the ease with which she learned to read.",
+      "level": 2
+    },
+    {
+      "id": "1.4",
+      "text": "Dubens finds old children's books among the ones left by the previous owners.",
+      "level": 2
+    },
+    {
+      "id": "1.5",
+      "text": "Dubens and Thomas struggle to organize the books, realizing they have too many for their current shelves.",
+      "level": 2
+    },
+    {
+      "id": "1.6",
+      "text": "Dubens hopes to find something valuable or interesting among the purchased books.",
+      "level": 2
+    },
+    {
+      "id": "1.7",
+      "text": "Thomas expresses skepticism about Dubens' optimistic outlook.",
+      "level": 2
+    },
+    {
+      "id": "2",
+      "text": "Dubens discovers strange markings in a book, leading to a potential mystery.",
+      "level": 1
+    },
+    {
+      "id": "2.1",
+      "text": "Dubens finds underlined words in Robert Louis Stevenson's 'The Black Arrow'.",
+      "level": 2
+    },
+    {
+      "id": "2.2",
+      "text": "Dubens deciphers the underlined letters to form names: 'Mary Jordan'.",
+      "level": 2
+    },
+    {
+      "id": "2.3",
+      "text": "The deciphered phrase suggests Mary Jordan did not die naturally and that the killer is known.",
+      "level": 2
+    },
+    {
+      "id": "2.4",
+      "text": "Thomas is initially dismissive but Dubens insists on the mystery.",
+      "level": 2
+    },
+    {
+      "id": "3",
+      "text": "Dubens investigates the mystery of Mary Jordan, exploring local history and potential clues.",
+      "level": 1
+    },
+    {
+      "id": "3.1",
+      "text": "Thomas worries about Dubens' whereabouts and safety, particularly after the electricians left holes in the floor.",
+      "level": 2
+    },
+    {
+      "id": "3.2",
+      "text": "Dubens reveals she visited the cemetery to investigate the Jordan family.",
+      "level": 2
+    },
+    {
+      "id": "3.3",
+      "text": "Dubens finds no grave for Mary Jordan or anyone named Jordan in the cemetery.",
+      "level": 2
+    },
+    {
+      "id": "3.4",
+      "text": "Dubens discusses the abundance of Parkinson family graves.",
+      "level": 2
+    },
+    {
+      "id": "4",
+      "text": "The narrative shifts to the donation of an old brass lamp to a jumble sale and further character interactions.",
+      "level": 1
+    },
+    {
+      "id": "4.1",
+      "text": "Dubens donates an old brass lamp to a jumble sale, claiming it was bought in Egypt.",
+      "level": 2
+    },
+    {
+      "id": "4.2",
+      "text": "Dubens expresses her dislike for plastic items and preference for older objects.",
+      "level": 2
+    },
+    {
+      "id": "4.3",
+      "text": "Dubens plans to plant tulips and crocuses in their new garden.",
+      "level": 2
+    },
+    {
+      "id": "4.4",
+      "text": "Thomas searches for Dubens and finds her in the attic looking through books.",
+      "level": 2
+    },
+    {
+      "id": "4.5",
+      "text": "Thomas did not find any other books with red ink markings.",
+      "level": 2
+    },
+    {
+      "id": "4.6",
+      "text": "Dubens decides to take the brass lamp to the jumble sale herself.",
+      "level": 2
+    },
+    {
+      "id": "4.7",
+      "text": "Thomas takes Hannibal for a walk and heads towards the church and cemetery.",
+      "level": 2
+    },
+    {
+      "id": "4.8",
+      "text": "Hannibal escapes and runs into the cemetery.",
+      "level": 2
+    },
+    {
+      "id": "4.9",
+      "text": "Thomas examines gravestones and finds a peculiar inscription.",
+      "level": 2
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Books",
+      "frequency": 25,
+      "context": "Central to the narrative, associated with unpacking, organizing, reminiscing, and mystery."
+    },
+    {
+      "name": "Dubens",
+      "frequency": 22,
+      "context": "The main protagonist, driving the investigation and displaying curiosity and a penchant for old things."
+    },
+    {
+      "name": "Thomas",
+      "frequency": 15,
+      "context": "Dubens' husband, generally more pragmatic and less inclined to indulge in mysteries."
+    },
+    {
+      "name": "Mystery",
+      "frequency": 10,
+      "context": "The central theme arising from the underlined words in 'The Black Arrow'."
+    },
+    {
+      "name": "Mary Jordan",
+      "frequency": 8,
+      "context": "The subject of the mystery, a deceased individual whose death is implied to be unnatural."
+    },
+    {
+      "name": "Cemetery",
+      "frequency": 7,
+      "context": "A location visited by Dubens and Thomas for investigation."
+    },
+    {
+      "name": "New Home",
+      "frequency": 6,
+      "context": "The setting for the initial events and a source of minor frustrations."
+    },
+    {
+      "name": "Hannibal",
+      "frequency": 5,
+      "context": "Dubens' small black dog, who accompanies her and Thomas."
+    },
+    {
+      "name": "Jumble Sale",
+      "frequency": 4,
+      "context": "A social event where Dubens donates items and interacts with other characters."
+    },
+    {
+      "name": "Electricians",
+      "frequency": 3,
+      "context": "A source of minor annoyance due to their work and leaving hazards."
+    },
+    {
+      "name": "Parkinson",
+      "frequency": 3,
+      "context": "A family name frequently encountered in the cemetery."
+    },
+    {
+      "name": "The Black Arrow",
+      "frequency": 3,
+      "context": "The specific book where the mysterious markings are found."
+    },
+    {
+      "name": "Brass Lamp",
+      "frequency": 3,
+      "context": "An object donated to the jumble sale."
+    },
+    {
+      "name": "Gravestones",
+      "frequency": 3,
+      "context": "Objects of interest in the cemetery investigation."
+    }
+  ],
+  "relations": [
+    {
+      "source": "Dubens",
+      "target": "Books",
+      "type": "interacts_with"
+    },
+    {
+      "source": "Dubens",
+      "target": "Mystery",
+      "type": "investigates"
+    },
+    {
+      "source": "Dubens",
+      "target": "Thomas",
+      "type": "is_married_to"
+    },
+    {
+      "source": "Thomas",
+      "target": "Dubens",
+      "type": "is_married_to"
+    },
+    {
+      "source": "Thomas",
+      "target": "New Home",
+      "type": "resides_in"
+    },
+    {
+      "source": "Mary Jordan",
+      "target": "Mystery",
+      "type": "is_subject_of"
+    },
+    {
+      "source": "The Black Arrow",
+      "target": "Mystery",
+      "type": "contains_clue_to"
+    },
+    {
+      "source": "Dubens",
+      "target": "Cemetery",
+      "type": "visits"
+    },
+    {
+      "source": "Thomas",
+      "target": "Cemetery",
+      "type": "visits"
+    },
+    {
+      "source": "Hannibal",
+      "target": "Dubens",
+      "type": "is_pet_of"
+    },
+    {
+      "source": "Hannibal",
+      "target": "Thomas",
+      "type": "is_pet_of"
+    },
+    {
+      "source": "Dubens",
+      "target": "Jumble Sale",
+      "type": "participates_in"
+    },
+    {
+      "source": "Brass Lamp",
+      "target": "Jumble Sale",
+      "type": "is_donated_to"
+    },
+    {
+      "source": "Electricians",
+      "target": "New Home",
+      "type": "works_on"
+    },
+    {
+      "source": "Parkinson",
+      "target": "Cemetery",
+      "type": "is_found_in"
+    }
+  ],
+  "hierarchy": {
+    "main_topics": [
+      "Settling into a new home",
+      "Discovery of a mystery",
+      "Investigation of the mystery",
+      "Social interactions and mundane events"
+    ],
+    "structure": "The document follows a linear progression, beginning with domestic activities in a new home and evolving into a suspenseful mystery driven by the protagonist's curiosity and investigation. It weaves together elements of domestic life, personal history, and detective work."
+  }
+}

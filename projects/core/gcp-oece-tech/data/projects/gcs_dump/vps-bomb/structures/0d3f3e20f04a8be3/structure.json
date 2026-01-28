@@ -1,0 +1,162 @@
+{
+  "propositions": [
+    {
+      "id": "1",
+      "text": "美男后宫 is a story about a woman and her complex emotional entanglements with multiple men in a fantasy and adventure-filled world.",
+      "level": 1
+    },
+    {
+      "id": "1.1",
+      "text": "The protagonist experiences friendship, love, and betrayal during her growth.",
+      "level": 2
+    },
+    {
+      "id": "1.2",
+      "text": "The protagonist ultimately finds her belonging in the '美男后宫'.",
+      "level": 2
+    },
+    {
+      "id": "2",
+      "text": "The story begins with the protagonist entering an unfamiliar world, initially naive and full of aspirations.",
+      "level": 1
+    },
+    {
+      "id": "2.1",
+      "text": "Her parents wish for her to live a peaceful, ordinary life.",
+      "level": 2
+    },
+    {
+      "id": "2.2",
+      "text": "Her dream is to become independent and unbound by anyone.",
+      "level": 2
+    },
+    {
+      "id": "3",
+      "text": "The protagonist encounters a group of distinctive men, each with unique traits and stories.",
+      "level": 1
+    },
+    {
+      "id": "3.1",
+      "text": "Initial encounters are marked by tension and misunderstanding, such as with the cold '校草'.",
+      "level": 2
+    },
+    {
+      "id": "3.2",
+      "text": "Relationships with the men deepen over time, revealing their complex personalities.",
+      "level": 2
+    },
+    {
+      "id": "4",
+      "text": "An adventure tests the group's teamwork and reveals the protagonist's growing feelings for the men.",
+      "level": 1
+    },
+    {
+      "id": "4.1",
+      "text": "A crisis in a forest highlights individual roles and mutual dependence.",
+      "level": 2
+    },
+    {
+      "id": "5",
+      "text": "Emotional entanglements become more complex as the protagonist struggles to choose between the men.",
+      "level": 1
+    },
+    {
+      "id": "5.1",
+      "text": "Confessions and silent support from the men intensify her internal conflict.",
+      "level": 2
+    },
+    {
+      "id": "6",
+      "text": "Betrayal by one of the men shatters trust and forces difficult decisions.",
+      "level": 1
+    },
+    {
+      "id": "6.1",
+      "text": "The protagonist and others must decide how to confront the betrayal.",
+      "level": 2
+    },
+    {
+      "id": "7",
+      "text": "The protagonist ultimately chooses a partner and finds her emotional harbor after hardships.",
+      "level": 1
+    }
+  ],
+  "concepts": [
+    {
+      "name": "美男后宫",
+      "frequency": 5,
+      "context": "Central theme of a woman surrounded by multiple male suitors."
+    },
+    {
+      "name": "Protagonist",
+      "frequency": 10,
+      "context": "The central female character navigating emotional and physical challenges."
+    },
+    {
+      "name": "校草",
+      "frequency": 8,
+      "context": "A cold but secretly gentle male character, a key romantic interest."
+    },
+    {
+      "name": "阳光少年",
+      "frequency": 6,
+      "context": "A cheerful and supportive male character."
+    },
+    {
+      "name": "神秘男子",
+      "frequency": 5,
+      "context": "A mysterious and ultimately treacherous male character."
+    },
+    {
+      "name": "Betrayal",
+      "frequency": 3,
+      "context": "A pivotal plot point involving trust and deception."
+    },
+    {
+      "name": "Adventure",
+      "frequency": 4,
+      "context": "A recurring theme of challenges and crises faced by the group."
+    }
+  ],
+  "relations": [
+    {
+      "source": "Protagonist",
+      "target": "校草",
+      "type": "romantic_interest"
+    },
+    {
+      "source": "Protagonist",
+      "target": "阳光少年",
+      "type": "emotional_support"
+    },
+    {
+      "source": "Protagonist",
+      "target": "神秘男子",
+      "type": "initial_trust_betrayal"
+    },
+    {
+      "source": "美男后宫",
+      "target": "Protagonist",
+      "type": "central_context"
+    },
+    {
+      "source": "Adventure",
+      "target": "Protagonist",
+      "type": "growth_catalyst"
+    },
+    {
+      "source": "Betrayal",
+      "target": "神秘男子",
+      "type": "defining_action"
+    }
+  ],
+  "hierarchy": {
+    "main_topics": [
+      "Emotional Entanglements",
+      "Adventure and Crisis",
+      "Betrayal and Resolution",
+      "Personal Growth and Choice"
+    ],
+    "structure": "The document follows a chronological narrative structure, divided into chapters that trace the protagonist's journey from innocence to emotional maturity through encounters, crises, and decisions."
+  }
+}

@@ -1,0 +1,3707 @@
+{
+  "propositions": [
+    {
+      "id": "1",
+      "text": "《ABC谋杀案》是一部由阿加莎·克里斯蒂创作的小说。",
+      "level": 1
+    },
+    {
+      "id": "1.1",
+      "text": "小说以第一人称和第三人称两种叙述方式展开。",
+      "level": 2
+    },
+    {
+      "id": "1.1.1",
+      "text": "第一人称叙述部分由叙述者亲自处理过的案件和勘查过的现场组成。",
+      "level": 3
+    },
+    {
+      "id": "1.1.2",
+      "text": "第三人称叙述部分构成了小说的主要篇幅。",
+      "level": 3
+    },
+    {
+      "id": "1.2",
+      "text": "叙述者强调书中情节的真实性，并表示细节均来自精细笔录。",
+      "level": 2
+    },
+    {
+      "id": "1.3",
+      "text": "赫尔克里·波洛对书中内容进行过校对。",
+      "level": 2
+    },
+    {
+      "id": "1.4",
+      "text": "作者认为人以及个人的因素在犯罪中不可忽视。",
+      "level": 2
+    },
+    {
+      "id": "1.5",
+      "text": "赫尔克里·波洛曾幽默地指出浪漫往往是犯罪的影子。",
+      "level": 2
+    },
+    {
+      "id": "1.6",
+      "text": "波洛在侦破ABC系列谋杀案时展现了突破以往的侦破天才。",
+      "level": 2
+    },
+    {
+      "id": "2",
+      "text": "第一章讲述了叙述者黑斯廷斯从阿根廷牧场返回英格兰。",
+      "level": 1
+    },
+    {
+      "id": "2.1",
+      "text": "黑斯廷斯此行是为了处理几起棘手的事。",
+      "level": 2
+    },
+    {
+      "id": "2.2",
+      "text": "他拜访了搬家到新式公寓的朋友赫尔克里·波洛。",
+      "level": 2
+    },
+    {
+      "id": "2.3",
+      "text": "波洛的新公寓因其严格的对称几何形而受到黑斯廷斯的调侃。",
+      "level": 2
+    },
+    {
+      "id": "2.4",
+      "text": "波洛以幽默的方式回应了关于母鸡下方形鸡蛋的笑话。",
+      "level": 2
+    },
+    {
+      "id": "2.5",
+      "text": "黑斯廷斯注意到波洛的头发变得更黑，显年轻。",
+      "level": 2
+    },
+    {
+      "id": "2.6",
+      "text": "波洛解释称他的头发是通过“头发再生剂”恢复自然颜色的。",
+      "level": 3
+    },
+    {
+      "id": "2.7",
+      "text": "黑斯廷斯起初误以为波洛戴了假发。",
+      "level": 3
+    },
+    {
+      "id": "2.8",
+      "text": "波洛对退休的渴望与不断发生的谋杀案相冲突。",
+      "level": 2
+    },
+    {
+      "id": "2.9",
+      "text": "波洛比喻自己像举行告别演出的演员，不断推迟退休。",
+      "level": 3
+    },
+    {
+      "id": "2.10",
+      "text": "波洛认为大脑的“灰色细胞”需要活动以防生锈。",
+      "level": 3
+    },
+    {
+      "id": "2.11",
+      "text": "波洛表示他只涉猎棘手的犯罪。",
+      "level": 3
+    },
+    {
+      "id": "2.12",
+      "text": "波洛险些送命于一个恶性谋杀案。",
+      "level": 3
+    },
+    {
+      "id": "2.13",
+      "text": "波洛得知黑斯廷斯到来，预感有重大案件发生。",
+      "level": 2
+    },
+    {
+      "id": "2.14",
+      "text": "波洛将黑斯廷斯视为他在许多方面的“上帝”。",
+      "level": 3
+    },
+    {
+      "id": "2.15",
+      "text": "波洛相信黑斯廷斯能帮助他制止犯下不可饶恕的错误。",
+      "level": 3
+    },
+    {
+      "id": "2.16",
+      "text": "波洛收到一封匿名的印刷体信件，预告了即将发生的事件。",
+      "level": 2
+    },
+    {
+      "id": "2.16.1",
+      "text": "信中提到“二十一日，请注意安德沃尔。”",
+      "level": 3
+    },
+    {
+      "id": "2.17",
+      "text": "黑斯廷斯推测信件是精神病患者所为。",
+      "level": 2
+    },
+    {
+      "id": "2.18",
+      "text": "波洛认为此疯子非常危险，并对此案持有不同看法。",
+      "level": 2
+    },
+    {
+      "id": "2.19",
+      "text": "波洛认为这封信“有点来头”。",
+      "level": 3
+    },
+    {
+      "id": "2.20",
+      "text": "波洛认为该信件并非普通人的恶作剧。",
+      "level": 3
+    },
+    {
+      "id": "2.21",
+      "text": "波洛认为此案并非当地人所为，且信件没有指纹。",
+      "level": 3
+    },
+    {
+      "id": "2.22",
+      "text": "波洛的判断基于他的知识和经验，而非直觉。",
+      "level": 3
+    },
+    {
+      "id": "2.23",
+      "text": "波洛认为自己可能小题大做，但只能等待。",
+      "level": 3
+    },
+    {
+      "id": "2.24",
+      "text": "黑斯廷斯猜测二十一日（星期五）可能会发生击败团伙抢劫犯的事件。",
+      "level": 3
+    },
+    {
+      "id": "2.25",
+      "text": "波洛对“抢劫”的说法感到“惬意”，并解释说抢劫案反而是一种安慰，因为他担心的是别的案件。",
+      "level": 3
+    },
+    {
+      "id": "2.26",
+      "text": "波洛担心的“别的案件”是谋杀。",
+      "level": 4
+    },
+    {
+      "id": "3",
+      "text": "第二章描述了亚历山大·波拿巴·卡斯特先生。",
+      "level": 1
+    },
+    {
+      "id": "3.1",
+      "text": "卡斯特先生名字的首字母为ABC。",
+      "level": 2
+    },
+    {
+      "id": "3.2",
+      "text": "卡斯特先生的外貌和行为给人一种捉摸不定的感觉。",
+      "level": 2
+    },
+    {
+      "id": "4",
+      "text": "第三章提到波洛对匿名信的推测。",
+      "level": 1
+    },
+    {
+      "id": "4.1",
+      "text": "黑斯廷斯和贾普拜访了波洛。",
+      "level": 2
+    },
+    {
+      "id": "4.2",
+      "text": "贾普认为如果不是黑斯廷斯回来，他不会想到此案。",
+      "level": 2
+    },
+    {
+      "id": "5",
+      "text": "第四章介绍了在安德沃尔接待了检察官哥莱恩。",
+      "level": 1
+    },
+    {
+      "id": "5.1",
+      "text": "案件的主要事实被概述。",
+      "level": 2
+    },
+    {
+      "id": "5.2",
+      "text": "凌晨一点，警官达沃尔发现一家小店门未拴。",
+      "level": 2
+    },
+    {
+      "id": "6",
+      "text": "第五章讲述了玛丽·德劳尔。",
+      "level": 1
+    },
+    {
+      "id": "6.1",
+      "text": "abc铁路指南书被提及，引起黑斯廷斯对案件的兴趣。",
+      "level": 2
+    },
+    {
+      "id": "6.2",
+      "text": "在此之前，黑斯廷斯对杀害阿谢尔太太的案件兴趣不大。",
+      "level": 3
+    },
+    {
+      "id": "6.3",
+      "text": "黑斯廷斯认为匿名信提到的二十一日是巧合。",
+      "level": 3
+    },
+    {
+      "id": "6.4",
+      "text": "阿谢尔太太的丈夫被认为是施暴者。",
+      "level": 3
+    },
+    {
+      "id": "6.5",
+      "text": "abc铁路指南的出现使黑斯廷斯认为这不是巧合。",
+      "level": 4
+    },
+    {
+      "id": "6.6",
+      "text": "谁杀了阿谢尔太太后留下了abc铁路指南是一个问题。",
+      "level": 3
+    },
+    {
+      "id": "6.7",
+      "text": "警方在殡仪馆检查了阿谢尔太太的尸体。",
+      "level": 2
+    },
+    {
+      "id": "6.8",
+      "text": "凶器未找到，死亡原因是一记猛击。",
+      "level": 3
+    },
+    {
+      "id": "6.9",
+      "text": "法医认为凶手可能需要很大力气，但一个虚弱的人也能做到。",
+      "level": 3
+    },
+    {
+      "id": "6.10",
+      "text": "法医认为女性实施此类谋杀的可能性极小，但并非不可能。",
+      "level": 3
+    },
+    {
+      "id": "6.11",
+      "text": "阿谢尔太太受到袭击时背对柜台，显然是在为顾客拿取香烟。",
+      "level": 3
+    },
+    {
+      "id": "6.12",
+      "text": "波洛认为阿谢尔太太的丈夫并非凶手。",
+      "level": 3
+    },
+    {
+      "id": "6.13",
+      "text": "波洛和黑斯廷斯拜访了阿谢尔太太的外甥女玛丽·德劳尔。",
+      "level": 2
+    },
+    {
+      "id": "6.14",
+      "text": "玛丽·德劳尔透露阿谢尔太太的丈夫曾威胁她。",
+      "level": 3
+    },
+    {
+      "id": "6.15",
+      "text": "玛丽认为丈夫不太可能真的杀害阿谢尔太太。",
+      "level": 3
+    },
+    {
+      "id": "6.16",
+      "text": "玛丽认为丈夫也挺怕阿谢尔太太的。",
+      "level": 3
+    },
+    {
+      "id": "6.17",
+      "text": "波洛询问阿谢尔太太是否有积蓄，她表示不多。",
+      "level": 3
+    },
+    {
+      "id": "6.18",
+      "text": "波洛让玛丽留下联系方式。",
+      "level": 3
+    },
+    {
+      "id": "7",
+      "text": "第六章描述了犯罪现场。",
+      "level": 1
+    },
+    {
+      "id": "7.1",
+      "text": "阿谢尔太太的小店位于主街的一条叉路。",
+      "level": 2
+    },
+    {
+      "id": "7.2",
+      "text": "波洛故意拖延时间才来到犯罪现场。",
+      "level": 2
+    },
+    {
+      "id": "8",
+      "text": "第七章介绍了帕特里奇先生和里德尔先生。",
+      "level": 1
+    },
+    {
+      "id": "8.1",
+      "text": "格伦警督列出了曾进过烟草店的人的名单。",
+      "level": 2
+    },
+    {
+      "id": "8.2",
+      "text": "帕特里奇先生是最后一个见过阿谢尔太太活着的人。",
+      "level": 2
+    },
+    {
+      "id": "8.3",
+      "text": "帕特里奇先生在教堂敲钟后去了阿谢尔太太的商店。",
+      "level": 3
+    },
+    {
+      "id": "8.4",
+      "text": "帕特里奇先生不了解阿谢尔太太及其历史。",
+      "level": 3
+    },
+    {
+      "id": "8.5",
+      "text": "帕特里奇先生表示他家有一本abc铁路指南。",
+      "level": 3
+    },
+    {
+      "id": "8.6",
+      "text": "艾伯特·里德尔先生是一名铁道养路工。",
+      "level": 2
+    },
+    {
+      "id": "8.7",
+      "text": "里德尔先生对警方和调查人员表现出敌意。",
+      "level": 3
+    },
+    {
+      "id": "8.8",
+      "text": "里德尔先生认为阿谢尔太太的丈夫是凶手。",
+      "level": 3
+    },
+    {
+      "id": "8.9",
+      "text": "里德尔先生承认在他去商店时，店门是掩着的，他敲了柜台但无人应答，然后就离开了。",
+      "level": 4
+    },
+    {
+      "id": "8.10",
+      "text": "里德尔先生声称没有看到柜台后面的尸体，也没有捡起或移动铁路指南。",
+      "level": 4
+    },
+    {
+      "id": "9",
+      "text": "第八章提到了第二封信。",
+      "level": 1
+    },
+    {
+      "id": "9.1",
+      "text": "波洛在去约克郡度假回来后，收到一封新的匿名信。",
+      "level": 2
+    },
+    {
+      "id": "9.2",
+      "text": "信件预告了“海滨贝克斯希尔”，日期为“本月二十五日”。",
+      "level": 3
+    },
+    {
+      "id": "9.3",
+      "text": "波洛认为这是abc案件的第二章，预示着另一起罪行。",
+      "level": 3
+    },
+    {
+      "id": "9.4",
+      "text": "波洛认为安多弗事件并非孤立事件。",
+      "level": 3
+    },
+    {
+      "id": "9.5",
+      "text": "波洛形容凶手为“杀人狂”。",
+      "level": 3
+    },
+    {
+      "id": "9.6",
+      "text": "在一次会议上，警方讨论了信件的来源和可能的受害者。",
+      "level": 2
+    },
+    {
+      "id": "9.7",
+      "text": "波洛推测下一位受害者的姓名可能以字母B开头。",
+      "level": 3
+    },
+    {
+      "id": "9.8",
+      "text": "唐普森医生认为这是一种按字母顺序排列的情结。",
+      "level": 3
+    },
+    {
+      "id": "9.9",
+      "text": "波洛在第一封信和阿谢尔太太的商店名称中看到了字母A。",
+      "level": 3
+    },
+    {
+      "id": "9.10",
+      "text": "第二封信提到了贝克斯希尔。",
+      "level": 3
+    }
+  ],
+  "concepts": [
+    {
+      "name": "赫尔克里·波洛",
+      "frequency": 16,
+      "context": "主要侦探人物，在案件中发挥核心作用，进行推理分析。"
+    },
+    {
+      "name": "黑斯廷斯",
+      "frequency": 13,
+      "context": "小说叙述者，波洛的朋友，协助波洛进行调查，提供旁观者的视角。"
+    },
+    {
+      "name": "ABC谋杀案",
+      "frequency": 4,
+      "context": "小说的核心案件，以字母顺序为线索的系列谋杀案。"
+    },
+    {
+      "name": "匿名信",
+      "frequency": 5,
+      "context": "凶手通过匿名信向波洛发出挑衅和预告，是案件的重要线索。"
+    },
+    {
+      "name": "安德沃尔",
+      "frequency": 3,
+      "context": "第一个案件发生地，信件预告的地点。"
+    },
+    {
+      "name": "阿谢尔太太",
+      "frequency": 6,
+      "context": "第一位受害者，烟草店老板。"
+    },
+    {
+      "name": "abc铁路指南",
+      "frequency": 5,
+      "context": "一本按字母顺序排列火车站名的书籍，被凶手故意留下，成为案件的关键线索。"
+    },
+    {
+      "name": "贾普",
+      "frequency": 3,
+      "context": "苏格兰场的首席检察官，与波洛合作。"
+    },
+    {
+      "name": "贝克斯希尔",
+      "frequency": 2,
+      "context": "第二封匿名信预告的下一个犯罪地点。"
+    },
+    {
+      "name": "格伦警督",
+      "frequency": 3,
+      "context": "当地警督，参与案件调查。"
+    },
+    {
+      "name": "玛丽·德劳尔",
+      "frequency": 4,
+      "context": "阿谢尔太太的外甥女，提供关于受害者及其丈夫的信息。"
+    },
+    {
+      "name": "帕特里奇先生",
+      "frequency": 3,
+      "context": "最后见过阿谢尔太太的证人之一。"
+    },
+    {
+      "name": "里德尔先生",
+      "frequency": 3,
+      "context": "去过阿谢尔太太商店的嫌疑人之一。"
+    },
+    {
+      "name": "头发再生剂",
+      "frequency": 1,
+      "context": "波洛用来让头发恢复自然颜色的产品，是早期情节中的一个幽默插曲。"
+    },
+    {
+      "name": "犯罪现场",
+      "frequency": 2,
+      "context": "阿谢尔太太的小店，警方进行勘查。"
+    },
+    {
+      "name": "印刷体",
+      "frequency": 3,
+      "context": "匿名信的写作方式，是凶手试图隐藏身份的手段。"
+    },
+    {
+      "name": "邮戳",
+      "frequency": 2,
+      "context": "匿名信上的邮戳信息，是警方试图追溯信件来源的线索。"
+    },
+    {
+      "name": "指纹",
+      "frequency": 2,
+      "context": "警方寻找的犯罪证据，匿名信上缺乏指纹是波洛分析的重要依据。"
+    },
+    {
+      "name": "谋杀",
+      "frequency": 7,
+      "context": "贯穿小说的核心犯罪行为。"
+    },
+    {
+      "name": "犯罪",
+      "frequency": 3,
+      "context": "泛指小说中的违法行为，包括谋杀和其他潜在的犯罪。"
+    },
+    {
+      "name": "线索",
+      "frequency": 4,
+      "context": "指引侦破方向的证据或信息，如信件、abc铁路指南等。"
+    },
+    {
+      "name": "推测",
+      "frequency": 4,
+      "context": "波洛和其他侦探对案件进行分析和判断的过程。"
+    },
+    {
+      "name": "侦破",
+      "frequency": 2,
+      "context": "揭示案件真相，找出罪犯的过程。"
+    },
+    {
+      "name": "警察局",
+      "frequency": 3,
+      "context": "负责调查和处理案件的官方机构。"
+    },
+    {
+      "name": "证人",
+      "frequency": 2,
+      "context": "提供案件相关信息的人。"
+    },
+    {
+      "name": "嫌疑人",
+      "frequency": 2,
+      "context": "可能参与犯罪的人。"
+    },
+    {
+      "name": "叙述者",
+      "frequency": 2,
+      "context": "讲故事的人，在本小说中是黑斯廷斯。"
+    },
+    {
+      "name": "作家",
+      "frequency": 1,
+      "context": "指阿加莎·克里斯蒂，作者身份。"
+    },
+    {
+      "name": "情感",
+      "frequency": 1,
+      "context": "书中人物的思想和感情描写。"
+    },
+    {
+      "name": "浪漫",
+      "frequency": 1,
+      "context": "波洛认为常与犯罪相关联的因素。"
+    },
+    {
+      "name": "天才",
+      "frequency": 1,
+      "context": "形容波洛在侦破案件方面的能力。"
+    },
+    {
+      "name": "牧场",
+      "frequency": 1,
+      "context": "黑斯廷斯从其返回英格兰。"
+    },
+    {
+      "name": "经济危机",
+      "frequency": 1,
+      "context": "影响了黑斯廷斯返回英格兰的原因之一。"
+    },
+    {
+      "name": "公寓",
+      "frequency": 1,
+      "context": "波洛新居住的地方。"
+    },
+    {
+      "name": "对称",
+      "frequency": 1,
+      "context": "波洛对公寓建筑风格的偏好。"
+    },
+    {
+      "name": "幽默",
+      "frequency": 2,
+      "context": "波洛的沟通方式之一。"
+    },
+    {
+      "name": "退休",
+      "frequency": 2,
+      "context": "波洛和黑斯廷斯都曾考虑过的事情。"
+    },
+    {
+      "name": "灰色细胞",
+      "frequency": 1,
+      "context": "波洛用来形容大脑思维能力的术语。"
+    },
+    {
+      "name": "警告",
+      "frequency": 1,
+      "context": "警方对未来罪案的预测和准备。"
+    },
+    {
+      "name": "邮寄",
+      "frequency": 1,
+      "context": "匿名信的传递方式。"
+    },
+    {
+      "name": "邮戳",
+      "frequency": 2,
+      "context": "匿名信上的邮寄地点信息。"
+    },
+    {
+      "name": "精神病",
+      "frequency": 1,
+      "context": "黑斯廷斯对写信人的最初判断。"
+    },
+    {
+      "name": "恶作剧",
+      "frequency": 1,
+      "context": "黑斯廷斯对匿名信的另一种猜测。"
+    },
+    {
+      "name": "酒鬼",
+      "frequency": 1,
+      "context": "黑斯廷斯对写信人的猜测之一。"
+    },
+    {
+      "name": "经验",
+      "frequency": 1,
+      "context": "波洛判断案件的依据之一。"
+    },
+    {
+      "name": "直觉",
+      "frequency": 1,
+      "context": "波洛认为不适用于案件判断的词。"
+    },
+    {
+      "name": "本能",
+      "frequency": 1,
+      "context": "波洛基于经验的判断。"
+    },
+    {
+      "name": "抢劫",
+      "frequency": 2,
+      "context": "波洛担心发生的非谋杀类犯罪。"
+    },
+    {
+      "name": "灾难",
+      "frequency": 1,
+      "context": "波洛对抢劫案的定义。"
+    },
+    {
+      "name": "安慰",
+      "frequency": 1,
+      "context": "波洛认为抢劫案可能带来的某种心理慰藉。"
+    },
+    {
+      "name": "名字",
+      "frequency": 1,
+      "context": "亚历山大·波拿巴·卡斯特先生名字的含义。"
+    },
+    {
+      "name": "外貌",
+      "frequency": 1,
+      "context": "卡斯特先生的外貌特征。"
+    },
+    {
+      "name": "卧室",
+      "frequency": 1,
+      "context": "卡斯特先生所在的场景。"
+    },
+    {
+      "name": "香烟",
+      "frequency": 1,
+      "context": "卡斯特先生的行为。"
+    },
+    {
+      "name": "列车时刻表",
+      "frequency": 1,
+      "context": "卡斯特先生查看的物品。"
+    },
+    {
+      "name": "语言创造能力",
+      "frequency": 1,
+      "context": "文本中提及的关于儿童的某个概念。"
+    },
+    {
+      "name": "巡逻",
+      "frequency": 1,
+      "context": "警官达沃尔的行为。"
+    },
+    {
+      "name": "小店",
+      "frequency": 2,
+      "context": "阿谢尔太太经营的商店。"
+    },
+    {
+      "name": "实证哲学",
+      "frequency": 1,
+      "context": "文本中提及的一个哲学概念。"
+    },
+    {
+      "name": "派别",
+      "frequency": 1,
+      "context": "文本中提及的一个哲学概念。"
+    },
+    {
+      "name": "洛克",
+      "frequency": 1,
+      "context": "文本中提及的一个哲学家。"
+    },
+    {
+      "name": "笑容",
+      "frequency": 1,
+      "context": "检察官哥莱恩的特征。"
+    },
+    {
+      "name": "头发",
+      "frequency": 2,
+      "context": "人物的外貌特征，如波洛和阿谢尔太太。"
+    },
+    {
+      "name": "案件",
+      "frequency": 6,
+      "context": "整个故事围绕的事件。"
+    },
+    {
+      "name": "事实",
+      "frequency": 1,
+      "context": "案件的主要信息。"
+    },
+    {
+      "name": "概述",
+      "frequency": 1,
+      "context": "对案件主要事实的总结。"
+    },
+    {
+      "name": "凌晨",
+      "frequency": 1,
+      "context": "案件发生的时间点。"
+    },
+    {
+      "name": "门",
+      "frequency": 2,
+      "context": "商店的入口，发现未拴。"
+    },
+    {
+      "name": "经验",
+      "frequency": 1,
+      "context": "侦探办案的依据。"
+    },
+    {
+      "name": "观点",
+      "frequency": 1,
+      "context": "人物对案件的看法。"
+    },
+    {
+      "name": "必然真理",
+      "frequency": 1,
+      "context": "文本中提及的一个哲学概念。"
+    },
+    {
+      "name": "天赋",
+      "frequency": 1,
+      "context": "文本中提及的一个哲学概念。"
+    },
+    {
+      "name": "谋杀案",
+      "frequency": 5,
+      "context": "核心案件类型。"
+    },
+    {
+      "name": "邮寄",
+      "frequency": 1,
+      "context": "匿名信的投递方式。"
+    },
+    {
+      "name": "后街",
+      "frequency": 1,
+      "context": "阿谢尔太太商店所在的区域。"
+    },
+    {
+      "name": "卑鄙",
+      "frequency": 1,
+      "context": "形容对阿谢尔太太的谋杀。"
+    },
+    {
+      "name": "司空见惯",
+      "frequency": 1,
+      "context": "形容一般犯罪的普遍性。"
+    },
+    {
+      "name": "报端",
+      "frequency": 1,
+      "context": "媒体报道犯罪的途径。"
+    },
+    {
+      "name": "关注",
+      "frequency": 1,
+      "context": "案件吸引的程度。"
+    },
+    {
+      "name": "巧合",
+      "frequency": 2,
+      "context": "黑斯廷斯最初对匿名信和日期的看法。"
+    },
+    {
+      "name": "酗酒",
+      "frequency": 2,
+      "context": "形容阿谢尔先生的丈夫。"
+    },
+    {
+      "name": "牺牲品",
+      "frequency": 1,
+      "context": "形容阿谢尔太太的遭遇。"
+    },
+    {
+      "name": "字母",
+      "frequency": 2,
+      "context": "abc铁路指南和姓名首字母的关联。"
+    },
+    {
+      "name": "新的一页",
+      "frequency": 1,
+      "context": "比喻案件的发展进入新阶段。"
+    },
+    {
+      "name": "后街老妇人",
+      "frequency": 1,
+      "context": "对阿谢尔太太的描述。"
+    },
+    {
+      "name": "老妇人",
+      "frequency": 2,
+      "context": "对阿谢尔太太的描述。"
+    },
+    {
+      "name": "邮局",
+      "frequency": 1,
+      "context": "提到信件的来源。"
+    },
+    {
+      "name": "殡仪馆",
+      "frequency": 1,
+      "context": "检查受害者尸体的地方。"
+    },
+    {
+      "name": "尸体",
+      "frequency": 2,
+      "context": "被害人的遗体。"
+    },
+    {
+      "name": "皱纹",
+      "frequency": 1,
+      "context": "形容阿谢尔太太的面容。"
+    },
+    {
+      "name": "平静",
+      "frequency": 1,
+      "context": "形容阿谢尔太太死后的状态。"
+    },
+    {
+      "name": "暴力",
+      "frequency": 1,
+      "context": "导致阿谢尔太太死亡的方式。"
+    },
+    {
+      "name": "凶器",
+      "frequency": 2,
+      "context": "用于实施犯罪的工具。"
+    },
+    {
+      "name": "棍子",
+      "frequency": 1,
+      "context": "可能的凶器类型。"
+    },
+    {
+      "name": "棒棰",
+      "frequency": 1,
+      "context": "可能的凶器类型。"
+    },
+    {
+      "name": "沙袋",
+      "frequency": 1,
+      "context": "可能的凶器类型。"
+    },
+    {
+      "name": "猛击",
+      "frequency": 2,
+      "context": "导致受害者死亡的攻击方式。"
+    },
+    {
+      "name": "七十岁",
+      "frequency": 1,
+      "context": "形容阿谢尔太太的年龄。"
+    },
+    {
+      "name": "虚弱",
+      "frequency": 1,
+      "context": "形容可能实施犯罪的人。"
+    },
+    {
+      "name": "女的",
+      "frequency": 2,
+      "context": "对凶手性别的猜测。"
+    },
+    {
+      "name": "心理",
+      "frequency": 2,
+      "context": "分析凶手动机和特性的角度。"
+    },
+    {
+      "name": "假设",
+      "frequency": 1,
+      "context": "对案件情况的推测。"
+    },
+    {
+      "name": "姿态",
+      "frequency": 1,
+      "context": "被害人的死亡姿势。"
+    },
+    {
+      "name": "柜台",
+      "frequency": 3,
+      "context": "商店的区域，阿谢尔太太遇袭时所在的位置。"
+    },
+    {
+      "name": "顾客",
+      "frequency": 1,
+      "context": "阿谢尔太太为之服务的对象。"
+    },
+    {
+      "name": "香烟",
+      "frequency": 2,
+      "context": "阿谢尔太太为顾客拿取的东西。"
+    },
+    {
+      "name": "可恨",
+      "frequency": 1,
+      "context": "黑斯廷斯对犯罪的感受。"
+    },
+    {
+      "name": "可怜",
+      "frequency": 2,
+      "context": "对受害者和玛丽的同情。"
+    },
+    {
+      "name": "奥弗顿",
+      "frequency": 1,
+      "context": "玛丽·德劳尔的住处。"
+    },
+    {
+      "name": "外甥女",
+      "frequency": 1,
+      "context": "玛丽·德劳尔与阿谢尔太太的关系。"
+    },
+    {
+      "name": "案发地",
+      "frequency": 1,
+      "context": "商店的地点。"
+    },
+    {
+      "name": "道理",
+      "frequency": 1,
+      "context": "波洛做事的原因。"
+    },
+    {
+      "name": "马路",
+      "frequency": 1,
+      "context": "车辆行驶的场所。"
+    },
+    {
+      "name": "门铃",
+      "frequency": 1,
+      "context": "拜访时的行为。"
+    },
+    {
+      "name": "姑娘",
+      "frequency": 2,
+      "context": "形容玛丽·德劳尔。"
+    },
+    {
+      "name": "客厅",
+      "frequency": 1,
+      "context": "玛丽·德劳尔的住处。"
+    },
+    {
+      "name": "女佣",
+      "frequency": 1,
+      "context": "玛丽·德劳尔的身份。"
+    },
+    {
+      "name": "女主人",
+      "frequency": 2,
+      "context": "玛丽·德劳尔的上司。"
+    },
+    {
+      "name": "姨妈",
+      "frequency": 4,
+      "context": "玛丽·德劳尔与阿谢尔太太的关系。"
+    },
+    {
+      "name": "去世",
+      "frequency": 1,
+      "context": "玛丽·德劳尔母亲的状况。"
+    },
+    {
+      "name": "德国家伙",
+      "frequency": 1,
+      "context": "形容阿谢尔太太的丈夫。"
+    },
+    {
+      "name": "老魔鬼",
+      "frequency": 1,
+      "context": "阿谢尔太太对丈夫的称呼。"
+    },
+    {
+      "name": "乞讨",
+      "frequency": 1,
+      "context": "形容阿谢尔先生的生活方式。"
+    },
+    {
+      "name": "压迫",
+      "frequency": 1,
+      "context": "阿谢尔太太在婚姻中承受的。"
+    },
+    {
+      "name": "合法",
+      "frequency": 1,
+      "context": "摆脱婚姻困境的途径。"
+    },
+    {
+      "name": "太太",
+      "frequency": 1,
+      "context": "婚姻关系。"
+    },
+    {
+      "name": "威胁",
+      "frequency": 3,
+      "context": "阿谢尔先生对阿谢尔太太的言语。"
+    },
+    {
+      "name": "割喉咙",
+      "frequency": 1,
+      "context": "阿谢尔先生具体的威胁内容。"
+    },
+    {
+      "name": "诅咒",
+      "frequency": 1,
+      "context": "阿谢尔先生的语言行为。"
+    },
+    {
+      "name": "谩骂",
+      "frequency": 1,
+      "context": "阿谢尔先生的语言行为。"
+    },
+    {
+      "name": "英俊",
+      "frequency": 1,
+      "context": "形容阿谢尔先生年轻时。"
+    },
+    {
+      "name": "发怒",
+      "frequency": 1,
+      "context": "形容阿谢尔太太的情绪。"
+    },
+    {
+      "name": "夹着尾巴",
+      "frequency": 1,
+      "context": "形容阿谢尔先生在阿谢尔太太发怒时的表现。"
+    },
+    {
+      "name": "狗",
+      "frequency": 1,
+      "context": "用以比喻阿谢尔先生的表现。"
+    },
+    {
+      "name": "钱",
+      "frequency": 2,
+      "context": "阿谢尔太太是否给丈夫钱。"
+    },
+    {
+      "name": "丈夫",
+      "frequency": 4,
+      "context": "阿谢尔太太的婚姻关系。"
+    },
+    {
+      "name": "男人",
+      "frequency": 2,
+      "context": "对凶手性别的猜测。"
+    },
+    {
+      "name": "惊愕",
+      "frequency": 1,
+      "context": "玛丽·德劳尔听到波洛的话时的反应。"
+    },
+    {
+      "name": "想法",
+      "frequency": 2,
+      "context": "对谁是凶手的猜测。"
+    },
+    {
+      "name": "亲戚",
+      "frequency": 1,
+      "context": "阿谢尔太太的其他家庭成员。"
+    },
+    {
+      "name": "长大成人",
+      "frequency": 1,
+      "context": "形容阿谢尔太太兄弟姐妹的存活情况。"
+    },
+    {
+      "name": "阵亡",
+      "frequency": 1,
+      "context": "汤姆舅舅的结局。"
+    },
+    {
+      "name": "南美",
+      "frequency": 1,
+      "context": "哈里舅舅的目的地。"
+    },
+    {
+      "name": "杳无音讯",
+      "frequency": 1,
+      "context": "哈里舅舅的失踪状况。"
+    },
+    {
+      "name": "积蓄",
+      "frequency": 1,
+      "context": "阿谢尔太太的财物状况。"
+    },
+    {
+      "name": "置办后事",
+      "frequency": 1,
+      "context": "阿谢尔太太积蓄的用途。"
+    },
+    {
+      "name": "勉强度日",
+      "frequency": 1,
+      "context": "形容与丈夫在一起的生活。"
+    },
+    {
+      "name": "惘然无知",
+      "frequency": 1,
+      "context": "波洛对案情初期状态的描述。"
+    },
+    {
+      "name": "无貌",
+      "frequency": 1,
+      "context": "波洛对当前线索的描述。"
+    },
+    {
+      "name": "口水",
+      "frequency": 1,
+      "context": "波洛对目前情况的自嘲。"
+    },
+    {
+      "name": "小街",
+      "frequency": 1,
+      "context": "犯罪现场所在的街道。"
+    },
+    {
+      "name": "叉路",
+      "frequency": 1,
+      "context": "小街的性质。"
+    },
+    {
+      "name": "右侧",
+      "frequency": 1,
+      "context": "小店在街道上的位置。"
+    },
+    {
+      "name": "中段",
+      "frequency": 1,
+      "context": "小店在街道上的位置。"
+    },
+    {
+      "name": "五点半",
+      "frequency": 1,
+      "context": "到达犯罪现场的时间。"
+    },
+    {
+      "name": "定性",
+      "frequency": 1,
+      "context": "文本中提及的哲学概念。"
+    },
+    {
+      "name": "廓然而大公",
+      "frequency": 1,
+      "context": "文本中提及的哲学概念。"
+    },
+    {
+      "name": "物来而顺应",
+      "frequency": 1,
+      "context": "文本中提及的哲学概念。"
+    },
+    {
+      "name": "面色",
+      "frequency": 1,
+      "context": "格伦警督的神情。"
+    },
+    {
+      "name": "阴沉",
+      "frequency": 1,
+      "context": "形容格伦警督的面色。"
+    },
+    {
+      "name": "名单",
+      "frequency": 1,
+      "context": "警方收集的目击者信息。"
+    },
+    {
+      "name": "神情诡秘",
+      "frequency": 1,
+      "context": "部分目击者的特征。"
+    },
+    {
+      "name": "络腮胡子",
+      "frequency": 1,
+      "context": "部分目击者的特征。"
+    },
+    {
+      "name": "面目狰狞",
+      "frequency": 1,
+      "context": "部分目击者的特征。"
+    },
+    {
+      "name": "困惑",
+      "frequency": 1,
+      "context": "格伦警督的感受。"
+    },
+    {
+      "name": "左轮手枪",
+      "frequency": 1,
+      "context": "目击者未见到的犯罪工具。"
+    },
+    {
+      "name": "蒙面人",
+      "frequency": 1,
+      "context": "目击者未见到的人。"
+    },
+    {
+      "name": "赞同",
+      "frequency": 2,
+      "context": "人物之间的认同。"
+    },
+    {
+      "name": "微笑",
+      "frequency": 2,
+      "context": "人物的表情。"
+    },
+    {
+      "name": "声称",
+      "frequency": 1,
+      "context": "证人的陈述。"
+    },
+    {
+      "name": "有利",
+      "frequency": 1,
+      "context": "形容阿谢尔先生未出现在街上。"
+    },
+    {
+      "name": "认为",
+      "frequency": 4,
+      "context": "人物的判断。"
+    },
+    {
+      "name": "任务",
+      "frequency": 1,
+      "context": "苏格兰场的职责。"
+    },
+    {
+      "name": "本地",
+      "frequency": 1,
+      "context": "案件的地域性质。"
+    },
+    {
+      "name": "严肃",
+      "frequency": 2,
+      "context": "人物的态度。"
+    },
+    {
+      "name": "同意",
+      "frequency": 2,
+      "context": "人物之间的认同。"
+    },
+    {
+      "name": "作呕",
+      "frequency": 1,
+      "context": "警督对案件的感受。"
+    },
+    {
+      "name": "会见",
+      "frequency": 3,
+      "context": "侦探与证人或嫌疑人的交流。"
+    },
+    {
+      "name": "银行",
+      "frequency": 1,
+      "context": "帕特里奇先生的工作单位。"
+    },
+    {
+      "name": "职员",
+      "frequency": 1,
+      "context": "帕特里奇先生的职业。"
+    },
+    {
+      "name": "夹鼻眼镜",
+      "frequency": 1,
+      "context": "帕特里奇先生的装束。"
+    },
+    {
+      "name": "干瘪",
+      "frequency": 1,
+      "context": "形容帕特里奇先生。"
+    },
+    {
+      "name": "瘦小",
+      "frequency": 1,
+      "context": "形容帕特里奇先生。"
+    },
+    {
+      "name": "精确",
+      "frequency": 1,
+      "context": "帕特里奇先生的言辞。"
+    },
+    {
+      "name": "干净",
+      "frequency": 1,
+      "context": "形容帕特里奇先生的住所。"
+    },
+    {
+      "name": "整洁",
+      "frequency": 1,
+      "context": "形容帕特里奇先生的住所。"
+    },
+    {
+      "name": "商议",
+      "frequency": 1,
+      "context": "帕特里奇先生对“最后一位”的说法。"
+    },
+    {
+      "name": "指尖",
+      "frequency": 1,
+      "context": "帕特里奇先生的动作。"
+    },
+    {
+      "name": "可疑",
+      "frequency": 1,
+      "context": "形容一张支票。"
+    },
+    {
+      "name": "公共责任感",
+      "frequency": 1,
+      "context": "帕特里奇先生对某些人的看法。"
+    },
+    {
+      "name": "主动",
+      "frequency": 2,
+      "context": "帕特里奇先生和里德尔先生的行为。"
+    },
+    {
+      "name": "证实",
+      "frequency": 1,
+      "context": "需要他人做的事情。"
+    },
+    {
+      "name": "咳嗽",
+      "frequency": 1,
+      "context": "帕特里奇先生的动作。"
+    },
+    {
+      "name": "令人发指",
+      "frequency": 1,
+      "context": "形容阿谢尔太太被杀事件。"
+    },
+    {
+      "name": "证词",
+      "frequency": 1,
+      "context": "帕特里奇先生提供的案件信息。"
+    },
+    {
+      "name": "可嘉",
+      "frequency": 1,
+      "context": "形容帕特里奇先生的精神。"
+    },
+    {
+      "name": "重复",
+      "frequency": 1,
+      "context": "帕特里奇先生被要求做的事情。"
+    },
+    {
+      "name": "见闻",
+      "frequency": 1,
+      "context": "帕特里奇先生的经历。"
+    },
+    {
+      "name": "教堂",
+      "frequency": 1,
+      "context": "报时地点。"
+    },
+    {
+      "name": "钟",
+      "frequency": 1,
+      "context": "教堂的设施。"
+    },
+    {
+      "name": "慢",
+      "frequency": 1,
+      "context": "形容手表的时间。"
+    },
+    {
+      "name": "习惯",
+      "frequency": 2,
+      "context": "人物的行为模式。"
+    },
+    {
+      "name": "打断",
+      "frequency": 1,
+      "context": "波洛的行为。"
+    },
+    {
+      "name": "不耐烦",
+      "frequency": 1,
+      "context": "帕特里奇先生的感受。"
+    },
+    {
+      "name": "频繁",
+      "frequency": 1,
+      "context": "帕特里奇先生去商店的频率。"
+    },
+    {
+      "name": "淡味酒",
+      "frequency": 1,
+      "context": "帕特里奇先生购买的商品。"
+    },
+    {
+      "name": "历史",
+      "frequency": 1,
+      "context": "帕特里奇先生不了解的阿谢尔太太信息。"
+    },
+    {
+      "name": "谈话",
+      "frequency": 1,
+      "context": "帕特里奇先生与阿谢尔太太的交流。"
+    },
+    {
+      "name": "天气",
+      "frequency": 1,
+      "context": "帕特里奇先生与阿谢尔太太的谈话内容。"
+    },
+    {
+      "name": "神情",
+      "frequency": 1,
+      "context": "阿谢尔太太遇害前的状态。"
+    },
+    {
+      "name": "异常",
+      "frequency": 1,
+      "context": "形容阿谢尔太太的神情。"
+    },
+    {
+      "name": "慌张",
+      "frequency": 1,
+      "context": "形容阿谢尔太太的神情。"
+    },
+    {
+      "name": "不安",
+      "frequency": 1,
+      "context": "形容阿谢尔太太的神情。"
+    },
+    {
+      "name": "沉思",
+      "frequency": 1,
+      "context": "帕特里奇先生的回忆。"
+    },
+    {
+      "name": "两盎司",
+      "frequency": 1,
+      "context": "购买淡味酒的数量。"
+    },
+    {
+      "name": "约翰.考顿",
+      "frequency": 1,
+      "context": "淡味酒的品牌。"
+    },
+    {
+      "name": "支票",
+      "frequency": 1,
+      "context": "帕特里奇先生的表情比喻。"
+    },
+    {
+      "name": "格伦警督",
+      "frequency": 3,
+      "context": "本地警官。"
+    },
+    {
+      "name": "不同",
+      "frequency": 1,
+      "context": "形容里德尔先生的性格。"
+    },
+    {
+      "name": "铁道养路工",
+      "frequency": 1,
+      "context": "里德尔先生的职业。"
+    },
+    {
+      "name": "狗",
+      "frequency": 2,
+      "context": "里德尔先生的宠物，吠叫声不断。"
+    },
+    {
+      "name": "吠叫",
+      "frequency": 1,
+      "context": "狗的行为。"
+    },
+    {
+      "name": "敌意",
+      "frequency": 1,
+      "context": "里德尔先生对调查人员的态度。"
+    },
+    {
+      "name": "笨拙",
+      "frequency": 1,
+      "context": "形容里德尔先生。"
+    },
+    {
+      "name": "迟钝",
+      "frequency": 1,
+      "context": "形容里德尔先生。"
+    },
+    {
+      "name": "宽",
+      "frequency": 1,
+      "context": "形容里德尔先生的脸盘。"
+    },
+    {
+      "name": "疑神疑鬼",
+      "frequency": 1,
+      "context": "形容里德尔先生的眼睛。"
+    },
+    {
+      "name": "小眼睛",
+      "frequency": 1,
+      "context": "形容里德尔先生。"
+    },
+    {
+      "name": "吃肉饼",
+      "frequency": 1,
+      "context": "里德尔先生的行为。"
+    },
+    {
+      "name": "红茶",
+      "frequency": 1,
+      "context": "里德尔先生喝的饮品。"
+    },
+    {
+      "name": "吞咽",
+      "frequency": 1,
+      "context": "里德尔先生喝茶的行为。"
+    },
+    {
+      "name": "茶杯",
+      "frequency": 1,
+      "context": "里德尔先生使用的物品。"
+    },
+    {
+      "name": "边缘",
+      "frequency": 1,
+      "context": "茶杯的部位。"
+    },
+    {
+      "name": "愤怒",
+      "frequency": 1,
+      "context": "里德尔先生的目光。"
+    },
+    {
+      "name": "咆哮",
+      "frequency": 1,
+      "context": "里德尔先生说话的方式。"
+    },
+    {
+      "name": "该死的",
+      "frequency": 2,
+      "context": "里德尔先生的口头禅。"
+    },
+    {
+      "name": "外国人",
+      "frequency": 1,
+      "context": "里德尔先生对波洛和黑斯廷斯的称呼。"
+    },
+    {
+      "name": "同情",
+      "frequency": 1,
+      "context": "波洛对里德尔先生的态度。"
+    },
+    {
+      "name": "谨慎",
+      "frequency": 1,
+      "context": "办案的态度。"
+    },
+    {
+      "name": "妇人",
+      "frequency": 1,
+      "context": "里德尔先生的妻子。"
+    },
+    {
+      "name": "不安",
+      "frequency": 1,
+      "context": "妇人的状态。"
+    },
+    {
+      "name": "闭嘴",
+      "frequency": 1,
+      "context": "里德尔先生对妻子的命令。"
+    },
+    {
+      "name": "外国人",
+      "frequency": 1,
+      "context": "里德尔先生对调查者的称呼。"
+    },
+    {
+      "name": "隐瞒",
+      "frequency": 1,
+      "context": "里德尔先生可能的行为。"
+    },
+    {
+      "name": "找去",
+      "frequency": 1,
+      "context": "里德尔先生没有主动去警局。"
+    },
+    {
+      "name": "冷淡",
+      "frequency": 1,
+      "context": "波洛的语气。"
+    },
+    {
+      "name": "自然",
+      "frequency": 1,
+      "context": "波洛希望里德尔先生的行为。"
+    },
+    {
+      "name": "主动说明",
+      "frequency": 1,
+      "context": "里德尔先生没有做的。"
+    },
+    {
+      "name": "粗暴",
+      "frequency": 1,
+      "context": "里德尔先生的反问。"
+    },
+    {
+      "name": "耸肩",
+      "frequency": 1,
+      "context": "波洛的动作。"
+    },
+    {
+      "name": "讲话",
+      "frequency": 1,
+      "context": "里德尔先生的口头禅。"
+    },
+    {
+      "name": "陷害",
+      "frequency": 1,
+      "context": "里德尔先生认为的调查目的。"
+    },
+    {
+      "name": "得逞",
+      "frequency": 1,
+      "context": "里德尔先生认为调查者不会成功。"
+    },
+    {
+      "name": "谋取",
+      "frequency": 1,
+      "context": "里德尔先生对凶手的动机猜测。"
+    },
+    {
+      "name": "血淋淋",
+      "frequency": 1,
+      "context": "形容香烟。"
+    },
+    {
+      "name": "杀人狂",
+      "frequency": 1,
+      "context": "里德尔先生对自己的形容。"
+    },
+    {
+      "name": "威胁",
+      "frequency": 1,
+      "context": "里德尔先生的言语行为。"
+    },
+    {
+      "name": "沉默",
+      "frequency": 1,
+      "context": "调查者等待里德尔先生回答。"
+    },
+    {
+      "name": "拒绝",
+      "frequency": 1,
+      "context": "里德尔先生对提供信息的态度。"
+    },
+    {
+      "name": "奇怪",
+      "frequency": 1,
+      "context": "波洛对里德尔先生行为的评价。"
+    },
+    {
+      "name": "经历",
+      "frequency": 1,
+      "context": "里德尔先生需要讲述的事情。"
+    },
+    {
+      "name": "毫不介意",
+      "frequency": 1,
+      "context": "里德尔先生表示愿意回答。"
+    },
+    {
+      "name": "金富莱",
+      "frequency": 1,
+      "context": "里德尔先生想买的香烟品牌。"
+    },
+    {
+      "name": "掩着",
+      "frequency": 1,
+      "context": "形容店门的状态。"
+    },
+    {
+      "name": "关门",
+      "frequency": 1,
+      "context": "商店的状态。"
+    },
+    {
+      "name": "应答",
+      "frequency": 1,
+      "context": "敲柜台后期待的反应。"
+    },
+    {
+      "name": "跌落",
+      "frequency": 1,
+      "context": "形容尸体的位置。"
+    },
+    {
+      "name": "留心",
+      "frequency": 1,
+      "context": "里德尔先生没有做的事情。"
+    },
+    {
+      "name": "忘了",
+      "frequency": 1,
+      "context": "里德尔先生对阿谢尔太太行为的猜测。"
+    },
+    {
+      "name": "锁上",
+      "frequency": 1,
+      "context": "商店门的动作。"
+    },
+    {
+      "name": "碰",
+      "frequency": 1,
+      "context": "里德尔先生否认做过的事情。"
+    },
+    {
+      "name": "晚安",
+      "frequency": 1,
+      "context": "波洛结束会见时的告别语。"
+    },
+    {
+      "name": "追随",
+      "frequency": 1,
+      "context": "黑斯廷斯跟随波洛。"
+    },
+    {
+      "name": "迅速",
+      "frequency": 1,
+      "context": "波洛形容他们需要采取的行动。"
+    },
+    {
+      "name": "头等车厢",
+      "frequency": 1,
+      "context": "火车车厢等级。"
+    },
+    {
+      "name": "快车",
+      "frequency": 1,
+      "context": "火车的类型。"
+    },
+    {
+      "name": "渴切",
+      "frequency": 1,
+      "context": "黑斯廷斯的语气。"
+    },
+    {
+      "name": "中等身材",
+      "frequency": 1,
+      "context": "波洛对凶手的描述。"
+    },
+    {
+      "name": "红色头发",
+      "frequency": 1,
+      "context": "波洛对凶手的描述。"
+    },
+    {
+      "name": "左眼",
+      "frequency": 1,
+      "context": "波洛对凶手的描述。"
+    },
+    {
+      "name": "假",
+      "frequency": 1,
+      "context": "形容左眼。"
+    },
+    {
+      "name": "铸模",
+      "frequency": 1,
+      "context": "形容左眼。"
+    },
+    {
+      "name": "右脚",
+      "frequency": 1,
+      "context": "波洛对凶手的描述。"
+    },
+    {
+      "name": "跛",
+      "frequency": 1,
+      "context": "形容右脚。"
+    },
+    {
+      "name": "肩胛骨",
+      "frequency": 1,
+      "context": "波洛对凶手的描述。"
+    },
+    {
+      "name": "痣",
+      "frequency": 1,
+      "context": "波洛对凶手的描述。"
+    },
+    {
+      "name": "怨恨",
+      "frequency": 1,
+      "context": "黑斯廷斯对波洛的感受。"
+    },
+    {
+      "name": "忠诚",
+      "frequency": 1,
+      "context": "形容黑斯廷斯。"
+    },
+    {
+      "name": "专注",
+      "frequency": 1,
+      "context": "形容黑斯廷斯。"
+    },
+    {
+      "name": "歇洛克·福尔摩斯",
+      "frequency": 1,
+      "context": "波洛被比作的侦探。"
+    },
+    {
+      "name": "发表见解",
+      "frequency": 1,
+      "context": "黑斯廷斯对波洛的期望。"
+    },
+    {
+      "name": "知道",
+      "frequency": 1,
+      "context": "波洛坦白不知道凶手信息。"
+    },
+    {
+      "name": "逮获",
+      "frequency": 1,
+      "context": "波洛承认不知道如何捉拿凶手。"
+    },
+    {
+      "name": "线索",
+      "frequency": 3,
+      "context": "波洛认为宝贵的信息。"
+    },
+    {
+      "name": "诱人",
+      "frequency": 1,
+      "context": "形容线索。"
+    },
+    {
+      "name": "抽烟",
+      "frequency": 1,
+      "context": "凶手未留下的行为。"
+    },
+    {
+      "name": "烟灰",
+      "frequency": 1,
+      "context": "凶手未留下的证据。"
+    },
+    {
+      "name": "底纹",
+      "frequency": 1,
+      "context": "鞋子的特征。"
+    },
+    {
+      "name": "奇特",
+      "frequency": 1,
+      "context": "形容鞋底纹。"
+    },
+    {
+      "name": "踏门",
+      "frequency": 1,
+      "context": "进入房间的行为。"
+    },
+    {
+      "name": "彬彬有礼",
+      "frequency": 1,
+      "context": "形容凶手可能有的行为。"
+    },
+    {
+      "name": "铁路指南",
+      "frequency": 1,
+      "context": "案件的关键线索。"
+    },
+    {
+      "name": "故意",
+      "frequency": 2,
+      "context": "形容凶手留下abc的原因。"
+    },
+    {
+      "name": "抹去",
+      "frequency": 1,
+      "context": "对指纹的处理。"
+    },
+    {
+      "name": "清白",
+      "frequency": 1,
+      "context": "形容无辜的人。"
+    },
+    {
+      "name": "无私",
+      "frequency": 1,
+      "context": "形容无辜的人。"
+    },
+    {
+      "name": "心怀鬼胎",
+      "frequency": 1,
+      "context": "形容有不良意图的人。"
+    },
+    {
+      "name": "外貌",
+      "frequency": 1,
+      "context": "波洛对凶手的形成中的形象描述。"
+    },
+    {
+      "name": "形成",
+      "frequency": 1,
+      "context": "波洛对凶手形象的描绘。"
+    },
+    {
+      "name": "打字机",
+      "frequency": 1,
+      "context": "凶手可能的工具。"
+    },
+    {
+      "name": "优质纸张",
+      "frequency": 1,
+      "context": "凶手使用的材料。"
+    },
+    {
+      "name": "渴望",
+      "frequency": 1,
+      "context": "凶手的心理状态。"
+    },
+    {
+      "name": "个性",
+      "frequency": 1,
+      "context": "凶手想要展现的。"
+    },
+    {
+      "name": "被忽视",
+      "frequency": 1,
+      "context": "凶手过去的经历。"
+    },
+    {
+      "name": "省略",
+      "frequency": 1,
+      "context": "凶手过去的经历。"
+    },
+    {
+      "name": "小孩",
+      "frequency": 1,
+      "context": "凶手可能的童年形象。"
+    },
+    {
+      "name": "自卑感",
+      "frequency": 1,
+      "context": "凶手的内心状态。"
+    },
+    {
+      "name": "不公平",
+      "frequency": 1,
+      "context": "凶手与之斗争的感受。"
+    },
+    {
+      "name": "冲动",
+      "frequency": 1,
+      "context": "凶手的内心驱动。"
+    },
+    {
+      "name": "表现",
+      "frequency": 1,
+      "context": "凶手想要做的事情。"
+    },
+    {
+      "name": "聚焦",
+      "frequency": 1,
+      "context": "凶手希望得到的关注。"
+    },
+    {
+      "name": "事件",
+      "frequency": 1,
+      "context": "影响凶手冲动的外部因素。"
+    },
+    {
+      "name": "周遭",
+      "frequency": 1,
+      "context": "影响凶手冲动的外部因素。"
+    },
+    {
+      "name": "碾碎",
+      "frequency": 1,
+      "context": "形容外部因素对凶手冲动的压迫。"
+    },
+    {
+      "name": "羞辱",
+      "frequency": 1,
+      "context": "凶手可能积累的情感。"
+    },
+    {
+      "name": "心灵",
+      "frequency": 1,
+      "context": "凶手的内心世界。"
+    },
+    {
+      "name": "火柴",
+      "frequency": 1,
+      "context": "比喻内心潜藏的能量。"
+    },
+    {
+      "name": "点燃",
+      "frequency": 1,
+      "context": "火柴的比喻。"
+    },
+    {
+      "name": "火药车",
+      "frequency": 1,
+      "context": "比喻内心潜藏的危险。"
+    },
+    {
+      "name": "猜测",
+      "frequency": 1,
+      "context": "黑斯廷斯对波洛分析的评价。"
+    },
+    {
+      "name": "反对",
+      "frequency": 1,
+      "context": "黑斯廷斯对波洛分析的反应。"
+    },
+    {
+      "name": "火柴头",
+      "frequency": 1,
+      "context": "黑斯廷斯偏好的证据类型。"
+    },
+    {
+      "name": "香烟灰",
+      "frequency": 1,
+      "context": "黑斯廷斯偏好的证据类型。"
+    },
+    {
+      "name": "敲了钉子",
+      "frequency": 1,
+      "context": "黑斯廷斯偏好的证据类型。"
+    },
+    {
+      "name": "靴子",
+      "frequency": 1,
+      "context": "黑斯廷斯偏好的证据类型。"
+    },
+    {
+      "name": "问题",
+      "frequency": 2,
+      "context": "波洛提出的需要思考的疑问。"
+    },
+    {
+      "name": "平淡无奇",
+      "frequency": 1,
+      "context": "形容阿谢尔太太过去的生活。"
+    },
+    {
+      "name": "失望",
+      "frequency": 1,
+      "context": "黑斯廷斯对会见嫌疑人的感受。"
+    },
+    {
+      "name": "嫌疑人",
+      "frequency": 2,
+      "context": "可能构成凶手的人。"
+    },
+    {
+      "name": "生活",
+      "frequency": 1,
+      "context": "凶手可能居住的地方。"
+    },
+    {
+      "name": "特定时刻",
+      "frequency": 1,
+      "context": "去过商店的时间点。"
+    },
+    {
+      "name": "迹象",
+      "frequency": 1,
+      "context": "表明身份的证据。"
+    },
+    {
+      "name": "笨重",
+      "frequency": 1,
+      "context": "形容里德尔先生。"
+    },
+    {
+      "name": "蛮徒",
+      "frequency": 1,
+      "context": "形容里德尔先生。"
+    },
+    {
+      "name": "确定",
+      "frequency": 1,
+      "context": "波洛对里德尔先生的判断。"
+    },
+    {
+      "name": "无辜",
+      "frequency": 1,
+      "context": "形容里德尔先生。"
+    },
+    {
+      "name": "紧张",
+      "frequency": 1,
+      "context": "形容里德尔先生。"
+    },
+    {
+      "name": "傲慢",
+      "frequency": 1,
+      "context": "波洛认为写信人的特征。"
+    },
+    {
+      "name": "自信",
+      "frequency": 1,
+      "context": "波洛认为写信人的特征。"
+    },
+    {
+      "name": "炫耀",
+      "frequency": 1,
+      "context": "凶手可能的行为。"
+    },
+    {
+      "name": "影响力",
+      "frequency": 1,
+      "context": "凶手想要炫耀的。"
+    },
+    {
+      "name": "自我埋没",
+      "frequency": 1,
+      "context": "凶手的心理状态。"
+    },
+    {
+      "name": "名利",
+      "frequency": 1,
+      "context": "凶手可能隐藏的。"
+    },
+    {
+      "name": "自满",
+      "frequency": 1,
+      "context": "凶手可能隐藏的。"
+    },
+    {
+      "name": "小巧",
+      "frequency": 1,
+      "context": "形容帕特里奇先生。"
+    },
+    {
+      "name": "type",
+      "frequency": 1,
+      "context": "波洛对帕特里奇先生的评价（法语）。"
+    },
+    {
+      "name": "推向前沿",
+      "frequency": 1,
+      "context": "帕特里奇先生主动的行为。"
+    },
+    {
+      "name": "沾沾自喜",
+      "frequency": 1,
+      "context": "帕特里奇先生的行为。"
+    },
+    {
+      "name": "排除",
+      "frequency": 1,
+      "context": "波洛在分析中的可能性。"
+    },
+    {
+      "name": "女性",
+      "frequency": 1,
+      "context": "对凶手性别的可能性。"
+    },
+    {
+      "name": "攻击",
+      "frequency": 1,
+      "context": "袭击方式。"
+    },
+    {
+      "name": "写信",
+      "frequency": 1,
+      "context": "匿名信的来源。"
+    },
+    {
+      "name": "牢记",
+      "frequency": 1,
+      "context": "波洛提醒黑斯廷斯注意的事项。"
+    },
+    {
+      "name": "静默",
+      "frequency": 1,
+      "context": "黑斯廷斯思考。"
+    },
+    {
+      "name": "接下去",
+      "frequency": 1,
+      "context": "黑斯廷斯询问下一步行动。"
+    },
+    {
+      "name": "精力充沛",
+      "frequency": 1,
+      "context": "波洛形容黑斯廷斯。"
+    },
+    {
+      "name": "魔术师",
+      "frequency": 1,
+      "context": "黑斯廷斯对波洛的疑问。"
+    },
+    {
+      "name": "巫师",
+      "frequency": 1,
+      "context": "黑斯廷斯对波洛的疑问。"
+    },
+    {
+      "name": "行动",
+      "frequency": 1,
+      "context": "黑斯廷斯希望采取的。"
+    },
+    {
+      "name": "便笺纸",
+      "frequency": 1,
+      "context": "匿名信的材料。"
+    },
+    {
+      "name": "信封",
+      "frequency": 1,
+      "context": "匿名信的材料。"
+    },
+    {
+      "name": "自然",
+      "frequency": 1,
+      "context": "波洛对信息处理的描述。"
+    },
+    {
+      "name": "进展",
+      "frequency": 1,
+      "context": "警方处理疑问的进度。"
+    },
+    {
+      "name": "发现",
+      "frequency": 1,
+      "context": "警方可能找到的线索。"
+    },
+    {
+      "name": "被迫",
+      "frequency": 1,
+      "context": "黑斯廷斯接受波洛的安排。"
+    },
+    {
+      "name": "善罢甘休",
+      "frequency": 1,
+      "context": "黑斯廷斯不再追问。"
+    },
+    {
+      "name": "回避",
+      "frequency": 1,
+      "context": "波洛对谈论案子的态度。"
+    },
+    {
+      "name": "揣摩",
+      "frequency": 1,
+      "context": "黑斯廷斯对波洛动机的担忧。"
+    },
+    {
+      "name": "挫败",
+      "frequency": 1,
+      "context": "波洛在阿谢尔太太案中的处境。"
+    },
+    {
+      "name": "挑战",
+      "frequency": 1,
+      "context": "abc匿名信对波洛的意义。"
+    },
+    {
+      "name": "获胜",
+      "frequency": 1,
+      "context": "abc匿名信在挑战中的地位。"
+    },
+    {
+      "name": "习惯",
+      "frequency": 1,
+      "context": "波洛对成功的追求。"
+    },
+    {
+      "name": "攻无不破",
+      "frequency": 1,
+      "context": "形容波洛过往的成功。"
+    },
+    {
+      "name": "敏感",
+      "frequency": 1,
+      "context": "形容波洛对失败的反应。"
+    },
+    {
+      "name": "无法忍受",
+      "frequency": 1,
+      "context": "波洛对谈论失败的态度。"
+    },
+    {
+      "name": "狭隘",
+      "frequency": 1,
+      "context": "形容伟大人物的缺点。"
+    },
+    {
+      "name": "清醒",
+      "frequency": 1,
+      "context": "黑斯廷斯的思考。"
+    },
+    {
+      "name": "成功",
+      "frequency": 1,
+      "context": "黑斯廷斯希望帮助波洛达到的目标。"
+    },
+    {
+      "name": "扬眉吐气",
+      "frequency": 1,
+      "context": "波洛期望达到的状态。"
+    },
+    {
+      "name": "转变",
+      "frequency": 1,
+      "context": "波洛经历的过程。"
+    },
+    {
+      "name": "多年",
+      "frequency": 1,
+      "context": "转变过程所需的时间。"
+    },
+    {
+      "name": "效果",
+      "frequency": 1,
+      "context": "转变带来的结果。"
+    },
+    {
+      "name": "瞩目",
+      "frequency": 1,
+      "context": "转变带来的结果。"
+    },
+    {
+      "name": "奇迹",
+      "frequency": 1,
+      "context": "转变带来的结果。"
+    },
+    {
+      "name": "尊重",
+      "frequency": 1,
+      "context": "黑斯廷斯对波洛的感受。"
+    },
+    {
+      "name": "软弱",
+      "frequency": 1,
+      "context": "形容波洛的缺点。"
+    },
+    {
+      "name": "提及",
+      "frequency": 1,
+      "context": "不再谈论案子。"
+    },
+    {
+      "name": "报纸",
+      "frequency": 1,
+      "context": "黑斯廷斯了解案情的途径。"
+    },
+    {
+      "name": "报道",
+      "frequency": 1,
+      "context": "报纸上的内容。"
+    },
+    {
+      "name": "篇幅",
+      "frequency": 1,
+      "context": "报道的大小。"
+    },
+    {
+      "name": "不知名人士",
+      "frequency": 1,
+      "context": "报纸上对凶手的描述。"
+    },
+    {
+      "name": "判断",
+      "frequency": 1,
+      "context": "报纸上对凶手的描述。"
+    },
+    {
+      "name": "新闻界",
+      "frequency": 1,
+      "context": "媒体的关注度。"
+    },
+    {
+      "name": "诱人",
+      "frequency": 1,
+      "context": "形容案件的吸引力。"
+    },
+    {
+      "name": "特别",
+      "frequency": 1,
+      "context": "形容案件的独特性。"
+    },
+    {
+      "name": "标题",
+      "frequency": 1,
+      "context": "吸引读者注意力的内容。"
+    },
+    {
+      "name": "掩盖",
+      "frequency": 1,
+      "context": "案件被其他新闻覆盖。"
+    },
+    {
+      "name": "局部",
+      "frequency": 1,
+      "context": "案件在我脑海中淡化的程度。"
+    },
+    {
+      "name": "淡化",
+      "frequency": 1,
+      "context": "案件在我脑海中发生的变化。"
+    },
+    {
+      "name": "七月",
+      "frequency": 1,
+      "context": "案件重新燃起火焰的时间。"
+    },
+    {
+      "name": "二十五日",
+      "frequency": 2,
+      "context": "第二封信的日期。"
+    },
+    {
+      "name": "约克郡",
+      "frequency": 1,
+      "context": "黑斯廷斯度周末的地方。"
+    },
+    {
+      "name": "谋面",
+      "frequency": 1,
+      "context": "黑斯廷斯与波洛的见面。"
+    },
+    {
+      "name": "星期一",
+      "frequency": 1,
+      "context": "黑斯廷斯返回伦敦的时间。"
+    },
+    {
+      "name": "下午",
+      "frequency": 1,
+      "context": "黑斯廷斯返回伦敦的时间。"
+    },
+    {
+      "name": "六点",
+      "frequency": 1,
+      "context": "收到邮件的时间。"
+    },
+    {
+      "name": "邮件",
+      "frequency": 1,
+      "context": "信件的递送方式。"
+    },
+    {
+      "name": "拆开",
+      "frequency": 1,
+      "context": "波洛打开信件。"
+    },
+    {
+      "name": "特制",
+      "frequency": 1,
+      "context": "形容信封。"
+    },
+    {
+      "name": "倒吸一口气",
+      "frequency": 1,
+      "context": "波洛拆信时的反应。"
+    },
+    {
+      "name": "来了",
+      "frequency": 1,
+      "context": "波洛的宣告。"
+    },
+    {
+      "name": "盯着",
+      "frequency": 1,
+      "context": "黑斯廷斯看着波洛。"
+    },
+    {
+      "name": "困惑",
+      "frequency": 1,
+      "context": "黑斯廷斯的感受。"
+    },
+    {
+      "name": "第二章",
+      "frequency": 1,
+      "context": "abc案件的进展。"
+    },
+    {
+      "name": "难以理解",
+      "frequency": 1,
+      "context": "黑斯廷斯对案件的感受。"
+    },
+    {
+      "name": "淡忘",
+      "frequency": 1,
+      "context": "案件在黑斯廷斯心中的状态。"
+    },
+    {
+      "name": "优质",
+      "frequency": 1,
+      "context": "形容纸张。"
+    },
+    {
+      "name": "感觉",
+      "frequency": 1,
+      "context": "凶手在信中询问波洛的感受。"
+    },
+    {
+      "name": "首场游戏",
+      "frequency": 1,
+      "context": "凶手对安多弗事件的称呼。"
+    },
+    {
+      "name": "顺利",
+      "frequency": 1,
+      "context": "凶手对安多弗事件的评价。"
+    },
+    {
+      "name": "开头",
+      "frequency": 1,
+      "context": "凶手对游戏的阶段性描述。"
+    },
+    {
+      "name": "注意力",
+      "frequency": 1,
+      "context": "凶手想要吸引的。"
+    },
+    {
+      "name": "海滨",
+      "frequency": 1,
+      "context": "贝克斯希尔的地理位置。"
+    },
+    {
+      "name": "贝克斯希尔",
+      "frequency": 2,
+      "context": "第二个犯罪地点。"
+    },
+    {
+      "name": "日期",
+      "frequency": 1,
+      "context": "信件提供的时间信息。"
+    },
+    {
+      "name": "快乐",
+      "frequency": 1,
+      "context": "凶手形容他们正在经历的时光。"
+    },
+    {
+      "name": "忠实",
+      "frequency": 1,
+      "context": "凶手的署名方式。"
+    },
+    {
+      "name": "叫喊",
+      "frequency": 1,
+      "context": "黑斯廷斯的反应。"
+    },
+    {
+      "name": "期待",
+      "frequency": 1,
+      "context": "黑斯廷斯对波洛的询问。"
+    },
+    {
+      "name": "孤立",
+      "frequency": 1,
+      "context": "形容安多弗事件。"
+    },
+    {
+      "name": "忘记",
+      "frequency": 1,
+      "context": "黑斯廷斯可能做的。"
+    },
+    {
+      "name": "曾经",
+      "frequency": 1,
+      "context": "波洛的陈述。"
+    },
+    {
+      "name": "可怕",
+      "frequency": 2,
+      "context": "黑斯廷斯对案件的感受。"
+    },
+    {
+      "name": "镇定自若",
+      "frequency": 1,
+      "context": "形容波洛。"
+    },
+    {
+      "name": "英勇",
+      "frequency": 1,
+      "context": "波洛行为的评价。"
+    },
+    {
+      "name": "震颤",
+      "frequency": 1,
+      "context": "黑斯廷斯的感受。"
+    },
+    {
+      "name": "递交",
+      "frequency": 1,
+      "context": "黑斯廷斯将信交给波洛。"
+    },
+    {
+      "name": "第二天",
+      "frequency": 1,
+      "context": "会议的时间。"
+    },
+    {
+      "name": "早晨",
+      "frequency": 1,
+      "context": "会议的时间。"
+    },
+    {
+      "name": "会议",
+      "frequency": 1,
+      "context": "警方和专家的聚集。"
+    },
+    {
+      "name": "权力",
+      "frequency": 1,
+      "context": "参会人员的地位。"
+    },
+    {
+      "name": "人物",
+      "frequency": 1,
+      "context": "参会人员的身份。"
+    },
+    {
+      "name": "萨塞克斯",
+      "frequency": 2,
+      "context": "地区名，涉及警方人员。"
+    },
+    {
+      "name": "厅长助理",
+      "frequency": 1,
+      "context": "参会人员身份。"
+    },
+    {
+      "name": "安多弗",
+      "frequency": 1,
+      "context": "第一个案件发生的地点。"
+    },
+    {
+      "name": "警监",
+      "frequency": 1,
+      "context": "卡特的职位。"
+    },
+    {
+      "name": "克罗姆",
+      "frequency": 1,
+      "context": "年轻警督的名字。"
+    },
+    {
+      "name": "精神病学家",
+      "frequency": 1,
+      "context": "汤普森医生的职业。"
+    },
+    {
+      "name": "医生",
+      "frequency": 2,
+      "context": "汤普森医生的身份。"
+    },
+    {
+      "name": "讨论",
+      "frequency": 1,
+      "context": "会议的主要活动。"
+    },
+    {
+      "name": "全面",
+      "frequency": 1,
+      "context": "讨论的程度。"
+    },
+    {
+      "name": "愉快",
+      "frequency": 1,
+      "context": "形容汤普森医生。"
+    },
+    {
+      "name": "中年人",
+      "frequency": 1,
+      "context": "形容汤普森医生。"
+    },
+    {
+      "name": "学问",
+      "frequency": 1,
+      "context": "汤普森医生的特点。"
+    },
+    {
+      "name": "质朴",
+      "frequency": 1,
+      "context": "汤普森医生说话的方式。"
+    },
+    {
+      "name": "专业术语",
+      "frequency": 1,
+      "context": "汤普森医生避免使用的。"
+    },
+    {
+      "name": "无疑",
+      "frequency": 1,
+      "context": "厅长助理的判断。"
+    },
+    {
+      "name": "双手",
+      "frequency": 1,
+      "context": "形容信件出自同一人之手。"
+    },
+    {
+      "name": "推断",
+      "frequency": 1,
+      "context": "公开进行的判断。"
+    },
+    {
+      "name": "公开",
+      "frequency": 1,
+      "context": "信息的传递方式。"
+    },
+    {
+      "name": "精确",
+      "frequency": 1,
+      "context": "获得警告的程度。"
+    },
+    {
+      "name": "罪案",
+      "frequency": 1,
+      "context": "未来的犯罪事件。"
+    },
+    {
+      "name": "后天",
+      "frequency": 1,
+      "context": "距离二十五日的第二天。"
+    },
+    {
+      "name": "措施",
+      "frequency": 1,
+      "context": "警方需要采取的行动。"
+    },
+    {
+      "name": "警监",
+      "frequency": 1,
+      "context": "卡特的职位。"
+    },
+    {
+      "name": "阴郁",
+      "frequency": 1,
+      "context": "形容警监的神情。"
+    },
+    {
+      "name": "困难",
+      "frequency": 1,
+      "context": "案件调查的难度。"
+    },
+    {
+      "name": "受害人",
+      "frequency": 2,
+      "context": "潜在的犯罪目标。"
+    },
+    {
+      "name": "线索",
+      "frequency": 1,
+      "context": "警方缺乏的信息。"
+    },
+    {
+      "name": "坦白",
+      "frequency": 1,
+      "context": "直率地讲。"
+    },
+    {
+      "name": "直率",
+      "frequency": 1,
+      "context": "坦白的同义词。"
+    },
+    {
+      "name": "步骤",
+      "frequency": 1,
+      "context": "警方可以采取的行动。"
+    },
+    {
+      "name": "建议",
+      "frequency": 1,
+      "context": "波洛提出的想法。"
+    },
+    {
+      "name": "预期",
+      "frequency": 1,
+      "context": "对受害人的预测。"
+    },
+    {
+      "name": "姓名",
+      "frequency": 1,
+      "context": "受害者的身份信息。"
+    },
+    {
+      "name": "字母B",
+      "frequency": 1,
+      "context": "波洛推测的受害者姓名首字母。"
+    },
+    {
+      "name": "道理",
+      "frequency": 1,
+      "context": "警监对波洛建议的评价。"
+    },
+    {
+      "name": "疑虑",
+      "frequency": 1,
+      "context": "警监的感受。"
+    },
+    {
+      "name": "排列",
+      "frequency": 1,
+      "context": "字母顺序。"
+    },
+    {
+      "name": "情结",
+      "frequency": 1,
+      "context": "唐普森医生对字母顺序的解释。"
+    },
+    {
+      "name": "更多",
+      "frequency": 1,
+      "context": "唐普森医生对字母顺序的解释。"
+    },
+    {
+      "name": "不幸",
+      "frequency": 1,
+      "context": "形容阿谢尔太太。"
+    },
+    {
+      "name": "妇女",
+      "frequency": 1,
+      "context": "阿谢尔太太的身份。"
+    },
+    {
+      "name": "商店",
+      "frequency": 1,
+      "context": "阿谢尔太太经营的地方。"
+    },
+    {
+      "name": "清楚",
+      "frequency": 1,
+      "context": "形容商店门上的名字。"
+    },
+    {
+      "name": "阿谢尔",
+      "frequency": 1,
+      "context": "商店名称。"
+    },
+    {
+      "name": "名字",
+      "frequency": 1,
+      "context": "商店门上写的内容。"
+    },
+    {
+      "name": "头脑",
+      "frequency": 1,
+      "context": "波洛的思考。"
+    },
+    {
+      "name": "产生",
+      "frequency": 1,
+      "context": "念头的出现。"
+    },
+    {
+      "name": "念头",
+      "frequency": 1,
+      "context": "波洛的思考。"
+    },
+    {
+      "name": "收到的",
+      "frequency": 1,
+      "context": "形容第二封信。"
+    },
+    {
+      "name": "提到",
+      "frequency": 1,
+      "context": "第二封信的内容。"
+    }
+  ],
+  "relations": [
+    {
+      "source": "《ABC谋杀案》",
+      "target": "阿加莎·克里斯蒂",
+      "type": "author_of"
+    },
+    {
+      "source": "赫尔克里·波洛",
+      "target": "黑斯廷斯",
+      "type": "friend_of"
+    },
+    {
+      "source": "赫尔克里·波洛",
+      "target": "侦破",
+      "type": "performs"
+    },
+    {
+      "source": "赫尔克里·波洛",
+      "target": "ABC谋杀案",
+      "type": "investigates"
+    },
+    {
+      "source": "黑斯廷斯",
+      "target": "叙述者",
+      "type": "is_a"
+    },
+    {
+      "source": "黑斯廷斯",
+      "target": "阿根廷",
+      "type": "returns_from"
+    },
+    {
+      "source": "匿名信",
+      "target": "凶手",
+      "type": "sent_by"
+    },
+    {
+      "source": "匿名信",
+      "target": "赫尔克里·波洛",
+      "type": "addressed_to"
+    },
+    {
+      "source": "匿名信",
+      "target": "挑衅",
+      "type": "is_a"
+    },
+    {
+      "source": "匿名信",
+      "target": "预告",
+      "type": "is_a"
+    },
+    {
+      "source": "匿名信",
+      "target": "线索",
+      "type": "is_a"
+    },
+    {
+      "source": "安德沃尔",
+      "target": "第一个案件",
+      "type": "location_of"
+    },
+    {
+      "source": "阿谢尔太太",
+      "target": "第一位受害者",
+      "type": "is_a"
+    },
+    {
+      "source": "阿谢尔太太",
+      "target": "烟草店老板",
+      "type": "is_a"
+    },
+    {
+      "source": "abc铁路指南",
+      "target": "凶手",
+      "type": "left_by"
+    },
+    {
+      "source": "abc铁路指南",
+      "target": "案件",
+      "type": "is_a"
+    },
+    {
+      "source": "abc铁路指南",
+      "target": "线索",
+      "type": "is_a"
+    },
+    {
+      "source": "abc铁路指南",
+      "target": "字母顺序",
+      "type": "organized_by"
+    },
+    {
+      "source": "贾普",
+      "target": "苏格兰场",
+      "type": "works_for"
+    },
+    {
+      "source": "贾普",
+      "target": "赫尔克里·波洛",
+      "type": "collaborates_with"
+    },
+    {
+      "source": "贝克斯希尔",
+      "target": "第二个案件",
+      "type": "location_of"
+    },
+    {
+      "source": "玛丽·德劳尔",
+      "target": "阿谢尔太太",
+      "type": "niece_of"
+    },
+    {
+      "source": "玛丽·德劳尔",
+      "target": "信息",
+      "type": "provides"
+    },
+    {
+      "source": "格伦警督",
+      "target": "本地警方",
+      "type": "works_for"
+    },
+    {
+      "source": "帕特里奇先生",
+      "target": "证人",
+      "type": "is_a"
+    },
+    {
+      "source": "里德尔先生",
+      "target": "嫌疑人",
+      "type": "is_a"
+    },
+    {
+      "source": "谋杀",
+      "target": "罪行",
+      "type": "is_a"
+    },
+    {
+      "source": "线索",
+      "target": "破案",
+      "type": "aids_in"
+    },
+    {
+      "source": "推测",
+      "target": "案件",
+      "type": "applies_to"
+    },
+    {
+      "source": "侦破",
+      "target": "案件",
+      "type": "is_the_act_of"
+    },
+    {
+      "source": "警察局",
+      "target": "调查",
+      "type": "conducts"
+    },
+    {
+      "source": "指纹",
+      "target": "证据",
+      "type": "is_a_type_of"
+    },
+    {
+      "source": "印刷体",
+      "target": "匿名信",
+      "type": "is_written_in"
+    },
+    {
+      "source": "邮戳",
+      "target": "匿名信",
+      "type": "is_on"
+    },
+    {
+      "source": "凶手",
+      "target": "隐藏身份",
+      "type": "attempts_to"
+    },
+    {
+      "source": "头发再生剂",
+      "target": "波洛",
+      "type": "used_by"
+    },
+    {
+      "source": "头发再生剂",
+      "target": "恢复头发颜色",
+      "type": "purpose_of"
+    },
+    {
+      "source": "波洛",
+      "target": "退休",
+      "type": "desires"
+    },
+    {
+      "source": "谋杀",
+      "target": "波洛",
+      "type": "prevents_retirement_of"
+    },
+    {
+      "source": "波洛",
+      "target": "灰色细胞",
+      "type": "believes_need_activity"
+    },
+    {
+      "source": "波洛",
+      "target": "棘手犯罪",
+      "type": "focuses_on"
+    },
+    {
+      "source": "波洛",
+      "target": "险些丧命",
+      "type": "experienced"
+    },
+    {
+      "source": "黑斯廷斯",
+      "target": "波洛",
+      "type": "visits"
+    },
+    {
+      "source": "波洛",
+      "target": "预感",
+      "type": "has"
+    },
+    {
+      "source": "波洛",
+      "target": "黑斯廷斯",
+      "type": "considers_as_god"
+    },
+    {
+      "source": "波洛",
+      "target": "错误",
+      "type": "seeks_help_to_avoid"
+    },
+    {
+      "source": "波洛",
+      "target": "匿名信",
+      "type": "receives"
+    },
+    {
+      "source": "波洛",
+      "target": "危险",
+      "type": "perceives_in_madman"
+    },
+    {
+      "source": "波洛",
+      "target": "经验",
+      "type": "bases_judgments_on"
+    },
+    {
+      "source": "波洛",
+      "target": "等待",
+      "type": "resorts_to"
+    },
+    {
+      "source": "黑斯廷斯",
+      "target": "猜测",
+      "type": "makes"
+    },
+    {
+      "source": "波洛",
+      "target": "担心",
+      "type": "is_afraid_of"
+    },
+    {
+      "source": "波洛",
+      "target": "安慰",
+      "type": "finds_in_robbery_scenario"
+    },
+    {
+      "source": "亚历山大·波拿巴·卡斯特",
+      "target": "ABC",
+      "type": "initials_are"
+    },
+    {
+      "source": "亚历山大·波拿巴·卡斯特",
+      "target": "名字",
+      "type": "has_significant"
+    },
+    {
+      "source": "波洛",
+      "target": "推测",
+      "type": "makes"
+    },
+    {
+      "source": "黑斯廷斯",
+      "target": "兴趣",
+      "type": "gains"
+    },
+    {
+      "source": "abc铁路指南",
+      "target": "巧合",
+      "type": "is_not"
+    },
+    {
+      "source": "阿谢尔太太",
+      "target": "丈夫",
+      "type": "is_married_to"
+    },
+    {
+      "source": "阿谢尔太太",
+      "target": "死亡",
+      "type": "is_victim_of"
+    },
+    {
+      "source": "警方",
+      "target": "尸体",
+      "type": "examines"
+    },
+    {
+      "source": "法医",
+      "target": "死亡原因",
+      "type": "determines"
+    },
+    {
+      "source": "法医",
+      "target": "凶手",
+      "type": "analyzes_capabilities_of"
+    },
+    {
+      "source": "法医",
+      "target": "女性",
+      "type": "considers_possibility_of"
+    },
+    {
+      "source": "波洛",
+      "target": "丈夫",
+      "type": "believes_not_guilty"
+    },
+    {
+      "source": "波洛",
+      "target": "玛丽·德劳尔",
+      "type": "visits"
+    },
+    {
+      "source": "玛丽·德劳尔",
+      "target": "威胁",
+      "type": "reports"
+    },
+    {
+      "source": "玛丽·德劳尔",
+      "target": "积蓄",
+      "type": "describes"
+    },
+    {
+      "source": "波洛",
+      "target": "联系方式",
+      "type": "requests"
+    },
+    {
+      "source": "波洛",
+      "target": "犯罪现场",
+      "type": "visits"
+    },
+    {
+      "source": "格伦警督",
+      "target": "名单",
+      "type": "compiles"
+    },
+    {
+      "source": "帕特里奇先生",
+      "target": "证词",
+      "type": "provides"
+    },
+    {
+      "source": "帕特里奇先生",
+      "target": "abc铁路指南",
+      "type": "indicates_location_of"
+    },
+    {
+      "source": "里德尔先生",
+      "target": "敌意",
+      "type": "shows"
+    },
+    {
+      "source": "里德尔先生",
+      "target": "丈夫",
+      "type": "accuses"
+    },
+    {
+      "source": "里德尔先生",
+      "target": "商店",
+      "type": "visited"
+    },
+    {
+      "source": "里德尔先生",
+      "target": "尸体",
+      "type": "did_not_see"
+    },
+    {
+      "source": "里德尔先生",
+      "target": "铁路指南",
+      "type": "did_not_touch"
+    },
+    {
+      "source": "波洛",
+      "target": "凶手",
+      "type": "describes"
+    },
+    {
+      "source": "波洛",
+      "target": "欺骗",
+      "type": "is_fooled_by"
+    },
+    {
+      "source": "黑斯廷斯",
+      "target": "波洛",
+      "type": "is_fooled_by"
+    },
+    {
+      "source": "波洛",
+      "target": "线索",
+      "type": "identifies"
+    },
+    {
+      "source": "abc",
+      "target": "案件",
+      "type": "is_a_clue_in"
+    },
+    {
+      "source": "凶手",
+      "target": "留下",
+      "type": "intentionally"
+    },
+    {
+      "source": "指纹",
+      "target": "抹去",
+      "type": "were"
+    },
+    {
+      "source": "波洛",
+      "target": "形象",
+      "type": "visualizes"
+    },
+    {
+      "source": "凶手",
+      "target": "自卑感",
+      "type": "has"
+    },
+    {
+      "source": "凶手",
+      "target": "冲动",
+      "type": "has"
+    },
+    {
+      "source": "黑斯廷斯",
+      "target": "猜测",
+      "type": "calls"
+    },
+    {
+      "source": "波洛",
+      "target": "问题",
+      "type": "asks"
+    },
+    {
+      "source": "波洛",
+      "target": "嫌疑人",
+      "type": "considers"
+    },
+    {
+      "source": "波洛",
+      "target": "里德尔先生",
+      "type": "considers_innocent"
+    },
+    {
+      "source": "波洛",
+      "target": "写信人",
+      "type": "describes_characteristics_of"
+    },
+    {
+      "source": "波洛",
+      "target": "帕特里奇先生",
+      "type": "describes_as_le_type"
+    },
+    {
+      "source": "波洛",
+      "target": "女性",
+      "type": "does_not_rule_out"
+    },
+    {
+      "source": "波洛",
+      "target": "匿名信",
+      "type": "considers_possibly_written_by_woman"
+    },
+    {
+      "source": "黑斯廷斯",
+      "target": "下一步行动",
+      "type": "asks_about"
+    },
+    {
+      "source": "波洛",
+      "target": "什么也不做",
+      "type": "suggests"
+    },
+    {
+      "source": "波洛",
+      "target": "警方",
+      "type": "trusts_to_handle"
+    },
+    {
+      "source": "黑斯廷斯",
+      "target": "波洛",
+      "type": "observes_avoidance_of"
+    },
+    {
+      "source": "波洛",
+      "target": "挫败",
+      "type": "suffers"
+    },
+    {
+      "source": "abc",
+      "target": "波洛",
+      "type": "challenges"
+    },
+    {
+      "source": "abc",
+      "target": "凶手",
+      "type": "represents_victory_of"
+    },
+    {
+      "source": "波洛",
+      "target": "敏感",
+      "type": "is"
+    },
+    {
+      "source": "黑斯廷斯",
+      "target": "尊重",
+      "type": "shows"
+    },
+    {
+      "source": "波洛",
+      "target": "软弱",
+      "type": "has"
+    },
+    {
+      "source": "黑斯廷斯",
+      "target": "报纸",
+      "type": "reads"
+    },
+    {
+      "source": "报纸",
+      "target": "案件",
+      "type": "reports_on"
+    },
+    {
+      "source": "abc",
+      "target": "报纸",
+      "type": "is_not_mentioned_in"
+    },
+    {
+      "source": "案件",
+      "target": "新闻界",
+      "type": "receives_little_attention_from"
+    },
+    {
+      "source": "黑斯廷斯",
+      "target": "联想",
+      "type": "dislikes"
+    },
+    {
+      "source": "案件",
+      "target": "波洛",
+      "type": "is_a_failure_for"
+    },
+    {
+      "source": "火焰",
+      "target": "案件",
+      "type": "reignites"
+    },
+    {
+      "source": "波洛",
+      "target": "邮件",
+      "type": "receives"
+    },
+    {
+      "source": "波洛",
+      "target": "abc案件",
+      "type": "calls_second_chapter_of"
+    },
+    {
+      "source": "案件",
+      "target": "黑斯廷斯",
+      "type": "is_forgotten_by"
+    },
+    {
+      "source": "凶手",
+      "target": "游戏",
+      "type": "calls_first_round_of"
+    },
+    {
+      "source": "安多弗",
+      "target": "事件",
+      "type": "went_smoothly_for"
+    },
+    {
+      "source": "游戏",
+      "target": "开头",
+      "type": "is_just"
+    },
+    {
+      "source": "凶手",
+      "target": "贝克斯希尔",
+      "type": "directs_attention_to"
+    },
+    {
+      "source": "凶手",
+      "target": "快乐的日子",
+      "type": "is_experiencing"
+    },
+    {
+      "source": "凶手",
+      "target": "忠实",
+      "type": "signs_off_as"
+    },
+    {
+      "source": "黑斯廷斯",
+      "target": "罪行",
+      "type": "asks_if_another_will_occur"
+    },
+    {
+      "source": "波洛",
+      "target": "杀人狂",
+      "type": "affirms"
+    },
+    {
+      "source": "波洛",
+      "target": "镇定自若",
+      "type": "displays"
+    },
+    {
+      "source": "黑斯廷斯",
+      "target": "震颤",
+      "type": "feels"
+    },
+    {
+      "source": "信",
+      "target": "波洛",
+      "type": "is_given_to"
+    },
+    {
+      "source": "会议",
+      "target": "权力人物",
+      "type": "attended_by"
+    },
+    {
+      "source": "汉普斯特德",
+      "target": "邮戳",
+      "type": "is_from"
+    },
+    {
+      "source": "波洛",
+      "target": "汉普斯特德邮戳",
+      "type": "considers_irrelevant"
+    },
+    {
+      "source": "汤普森医生",
+      "target": "专业术语",
+      "type": "avoids_using"
+    },
+    {
+      "source": "厅长助理",
+      "target": "两封信",
+      "type": "asserts_same_origin"
+    },
+    {
+      "source": "厅长助理",
+      "target": "安多弗谋杀案",
+      "type": "infers_responsibility_for"
+    },
+    {
+      "source": "厅长助理",
+      "target": "第二桩罪案",
+      "type": "receives_warning_of"
+    },
+    {
+      "source": "厅长助理",
+      "target": "贝克斯希尔",
+      "type": "locates_next_crime_in"
+    },
+    {
+      "source": "厅长助理",
+      "target": "措施",
+      "type": "asks_about"
+    },
+    {
+      "source": "波洛",
+      "target": "建议",
+      "type": "offers"
+    },
+    {
+      "source": "波洛",
+      "target": "受害人姓名",
+      "type": "predicts_start_with_B"
+    },
+    {
+      "source": "唐普森医生",
+      "target": "字母顺序",
+      "type": "calls_a_complex"
+    },
+    {
+      "source": "唐普森医生",
+      "target": "可能性",
+      "type": "believes_in"
+    },
+    {
+      "source": "波洛",
+      "target": "阿谢尔",
+      "type": "observes_on_store"
+    },
+    {
+      "source": "波洛",
+      "target": "商店门",
+      "type": "notes_sign_on"
+    },
+    {
+      "source": "波洛",
+      "target": "念头",
+      "type": "had"
+    },
+    {
+      "source": "波洛",
+      "target": "第二封信",
+      "type": "received"
+    },
+    {
+      "source": "波洛",
+      "target": "贝克斯希尔",
+      "type": "notes_mention_of"
+    }
+  ],
+  "hierarchy": {
+    "main_topics": [
+      "Introduction",
+      "Chapter 1: The First Letter",
+      "Chapter 2: Not from Hastings' Own Account",
+      "Chapter 3: Andover",
+      "Chapter 4: Mrs. Asher",
+      "Chapter 5: Mary Drowler",
+      "Chapter 6: The Scene of the Crime",
+      "Chapter 7: Mr. Partridge and Mr. Ruddle",
+      "Chapter 8: The Second Letter"
+    ],
+    "structure": "The document is structured chronologically by chapters, following the progression of the investigation and introducing characters and clues sequentially. It begins with an introduction to the novel and its narrative style, then delves into the initial events and the first anonymous letter, followed by subsequent investigations at various locations and interviews with witnesses and suspects. The narrative culminates in the receipt of a second letter, indicating the continuation of the crimes."
+  }
+}

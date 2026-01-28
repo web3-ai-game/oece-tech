@@ -1,0 +1,336 @@
+{
+  "propositions": [
+    {
+      "id": "1",
+      "text": "《无人生还》是一部由阿加莎·克里斯蒂创作的小说。",
+      "level": 1
+    },
+    {
+      "id": "1.1",
+      "text": "小说的背景设定在印地安岛。",
+      "level": 2
+    },
+    {
+      "id": "2",
+      "text": "沃格雷夫法官先生正在前往印地安岛的途中。",
+      "level": 1
+    },
+    {
+      "id": "2.1",
+      "text": "他收到康斯坦斯·卡尔明顿夫人的邀请信，邀请他前往印地安岛。",
+      "level": 2
+    },
+    {
+      "id": "2.2",
+      "text": "他回忆起与康斯坦斯·卡尔明顿夫人分别的时光。",
+      "level": 2
+    },
+    {
+      "id": "3",
+      "text": "维拉·克莱索恩也接到了前往印地安岛的邀请，担任欧文夫人的秘书。",
+      "level": 1
+    },
+    {
+      "id": "3.1",
+      "text": "她得到了职业介绍所的推荐。",
+      "level": 2
+    },
+    {
+      "id": "3.2",
+      "text": "她回忆起一起涉及“验尸”和“雨果”的往事。",
+      "level": 2
+    },
+    {
+      "id": "4",
+      "text": "菲利普·隆巴德被告知有一项“买卖”需要他去执行。",
+      "level": 1
+    },
+    {
+      "id": "4.1",
+      "text": "他收到艾萨克·莫里斯先生的委托，前往印地安岛，报酬是一百块金币。",
+      "level": 2
+    },
+    {
+      "id": "4.2",
+      "text": "他被告知任务最多不超过一个星期。",
+      "level": 2
+    },
+    {
+      "id": "5",
+      "text": "埃米莉·布伦特小姐收到了前往印地安岛的邀请，作为免费贵客度暑假。",
+      "level": 1
+    },
+    {
+      "id": "5.1",
+      "text": "她回忆起在贝尔海文招待所与邀请人（可能是奥利弗小姐或夫人）的短暂相遇。",
+      "level": 2
+    },
+    {
+      "id": "5.2",
+      "text": "她认为这是一个免费度假的机会，对此感到满意。",
+      "level": 2
+    },
+    {
+      "id": "6",
+      "text": "麦克阿瑟将军也接到了前往印地安岛的邀请。",
+      "level": 1
+    },
+    {
+      "id": "6.1",
+      "text": "邀请信中提到他的“一两位军队上的老同事也要来”。",
+      "level": 2
+    },
+    {
+      "id": "6.2",
+      "text": "他怀疑自己被躲避，可能与过去的“谣言”有关。",
+      "level": 2
+    },
+    {
+      "id": "7",
+      "text": "阿姆斯特朗大夫被邀请前往印地安岛。",
+      "level": 1
+    },
+    {
+      "id": "7.1",
+      "text": "他被告知他的任务是“证实一下”（女性）身体状况，并收到了一笔可观的支票。",
+      "level": 2
+    },
+    {
+      "id": "7.2",
+      "text": "他回忆起一段差点导致他垮台的往事，以及此后他滴酒不沾。",
+      "level": 2
+    },
+    {
+      "id": "8",
+      "text": "安东尼·马斯顿正驾车前往印地安岛。",
+      "level": 1
+    },
+    {
+      "id": "8.1",
+      "text": "他对英国糟糕的汽车交通感到不满。",
+      "level": 2
+    },
+    {
+      "id": "8.2",
+      "text": "他认为“姓欧文的”是个阔佬。",
+      "level": 2
+    },
+    {
+      "id": "9",
+      "text": "布洛尔先生（伪装身份）也在前往印地安岛的途中。",
+      "level": 1
+    },
+    {
+      "id": "9.1",
+      "text": "他详细记录了将要前往印地安岛的人员名单，并注意到人数比预期的多。",
+      "level": 2
+    },
+    {
+      "id": "9.2",
+      "text": "他准备以“南非”的身份参与其中，并熟悉印地安岛的地理情况。",
+      "level": 2
+    },
+    {
+      "id": "9.3",
+      "text": "他在火车上遇到一位预言“审判的日子就在眼前”的老人。",
+      "level": 2
+    },
+    {
+      "id": "10",
+      "text": "在橡树桥车站，一些即将前往印地安岛的客人汇合。",
+      "level": 1
+    },
+    {
+      "id": "10.1",
+      "text": "沃格雷夫法官、布伦特小姐、维拉·克莱索恩和菲利普·隆巴德最先汇合。",
+      "level": 2
+    },
+    {
+      "id": "10.2",
+      "text": "维拉·克莱索恩向隆巴德先生解释了她被聘用为欧文夫人秘书的原因。",
+      "level": 2
+    },
+    {
+      "id": "10.3",
+      "text": "麦克阿瑟将军也抵达，并与维拉和隆巴德同乘一辆车。",
+      "level": 2
+    },
+    {
+      "id": "10.4",
+      "text": "在斯蒂克尔海文，他们遇到了另一批客人，包括“戴维斯先生”（布洛尔先生伪装）和一位老态龙钟的法官（沃格雷夫法官）。",
+      "level": 2
+    },
+    {
+      "id": "10.5",
+      "text": "一行人准备乘船前往印地安岛。",
+      "level": 2
+    }
+  ],
+  "concepts": [
+    {
+      "name": "印地安岛",
+      "frequency": 15,
+      "context": "小说的主要发生地，一个孤立的海岛，名字源于美洲印第安人的头型。"
+    },
+    {
+      "name": "沃格雷夫法官",
+      "frequency": 8,
+      "context": "一位新近退休的法官，受邀前往印地安岛。"
+    },
+    {
+      "name": "维拉·克莱索恩",
+      "frequency": 9,
+      "context": "一位年轻的女性，接受了前往印地安岛担任欧文夫人秘书的差事。"
+    },
+    {
+      "name": "菲利普·隆巴德",
+      "frequency": 8,
+      "context": "一位被委托前往印地安岛执行一项任务的男性，接受报酬。"
+    },
+    {
+      "name": "埃米莉·布伦特",
+      "frequency": 6,
+      "context": "一位年长的、严谨的女性，受邀前往印地安岛度假。"
+    },
+    {
+      "name": "麦克阿瑟将军",
+      "frequency": 5,
+      "context": "一位军队将领，受邀前往印地安岛，可能与过去的传闻有关。"
+    },
+    {
+      "name": "阿姆斯特朗大夫",
+      "frequency": 4,
+      "context": "一位医生，受邀前往印地安岛，并收到了高额报酬。"
+    },
+    {
+      "name": "安东尼·马斯顿",
+      "frequency": 4,
+      "context": "一位喜欢开快车、享受生活的年轻人，前往印地安岛。"
+    },
+    {
+      "name": "布洛尔先生",
+      "frequency": 6,
+      "context": "一位伪装身份前往印地安岛的男性，记录信息并有所图谋。"
+    },
+    {
+      "name": "欧文",
+      "frequency": 5,
+      "context": "印地安岛别墅的购买者，邀请了各位客人。"
+    },
+    {
+      "name": "邀请",
+      "frequency": 10,
+      "context": "多位角色收到前往印地安岛的邀请信，是他们前往该岛的主要原因。"
+    },
+    {
+      "name": "秘密",
+      "frequency": 4,
+      "context": "许多角色都有不为人知的过去或目的，隐藏着秘密。"
+    },
+    {
+      "name": "谋杀",
+      "frequency": 0,
+      "context": "（尚未在提供的文本中明确出现，但作为小说标题和主题是隐含的）。"
+    },
+    {
+      "name": "过去",
+      "frequency": 7,
+      "context": "多位角色的回忆都涉及他们过去的事件，这些事件可能与前往印地安岛有关。"
+    }
+  ],
+  "relations": [
+    {
+      "source": "沃格雷夫法官",
+      "target": "印地安岛",
+      "type": "is_going_to"
+    },
+    {
+      "source": "维拉·克莱索恩",
+      "target": "印地安岛",
+      "type": "is_going_to"
+    },
+    {
+      "source": "菲利普·隆巴德",
+      "target": "印地安岛",
+      "type": "is_going_to"
+    },
+    {
+      "source": "埃米莉·布伦特",
+      "target": "印地安岛",
+      "type": "is_going_to"
+    },
+    {
+      "source": "麦克阿瑟将军",
+      "target": "印地安岛",
+      "type": "is_going_to"
+    },
+    {
+      "source": "阿姆斯特朗大夫",
+      "target": "印地安岛",
+      "type": "is_going_to"
+    },
+    {
+      "source": "安东尼·马斯顿",
+      "target": "印地安岛",
+      "type": "is_going_to"
+    },
+    {
+      "source": "布洛尔先生",
+      "target": "印地安岛",
+      "type": "is_going_to"
+    },
+    {
+      "source": "欧文",
+      "target": "印地安岛",
+      "type": "owns"
+    },
+    {
+      "source": "康斯坦斯·卡尔明顿夫人",
+      "target": "沃格雷夫法官",
+      "type": "invites"
+    },
+    {
+      "source": "职业介绍所",
+      "target": "维拉·克莱索恩",
+      "type": "recommends"
+    },
+    {
+      "source": "艾萨克·莫里斯先生",
+      "target": "菲利普·隆巴德",
+      "type": "hires"
+    },
+    {
+      "source": "印地安岛",
+      "target": "报纸",
+      "type": "is_topic_of"
+    },
+    {
+      "source": "维拉·克莱索恩",
+      "target": "雨果",
+      "type": "has_memory_of"
+    },
+    {
+      "source": "麦克阿瑟将军",
+      "target": "谣言",
+      "type": "is_affected_by"
+    },
+    {
+      "source": "布洛尔先生",
+      "target": "伪装",
+      "type": "uses"
+    },
+    {
+      "source": "老头",
+      "target": "审判的日子",
+      "type": "predicts"
+    }
+  ],
+  "hierarchy": {
+    "main_topics": [
+      "Introduction to the Novel and Setting",
+      "Character Introductions and Motivations for Travel",
+      "Arrival and Initial Interactions"
+    ],
+    "structure": "The document is structured chapter by chapter, with sub-sections often detailing individual characters or groups of characters. It follows a narrative progression, introducing characters and their reasons for going to Indian Island, and culminates in their initial assembly at Oakbridge station and their journey to the island. The text moves from general introduction of the book to specific character backstories and their current situations."
+  }
+}

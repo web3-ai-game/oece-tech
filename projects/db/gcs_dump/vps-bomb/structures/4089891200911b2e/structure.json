@@ -1,0 +1,165 @@
+{
+  "propositions": [
+    {
+      "id": "1",
+      "text": "The document title is '特工系列：暴君的间谍肥后'.",
+      "level": 1
+    },
+    {
+      "id": "2",
+      "text": "The document contains sections identified by numbers.",
+      "level": 1
+    },
+    {
+      "id": "2.1",
+      "text": "Section 001 is present.",
+      "level": 2
+    },
+    {
+      "id": "2.2",
+      "text": "Section 002 is present.",
+      "level": 2
+    },
+    {
+      "id": "3",
+      "text": "The content of the document consists of dialogue and separators.",
+      "level": 1
+    },
+    {
+      "id": "3.1",
+      "text": "Dialogue includes utterances marked with quotation marks.",
+      "level": 2
+    },
+    {
+      "id": "3.1.1",
+      "text": "Some dialogue contains OCR errors.",
+      "level": 3
+    },
+    {
+      "id": "3.1.2",
+      "text": "Some dialogue contains speaker identifiers like '【暴君】', '【龙王】', and '【 tyrant】'.",
+      "level": 3
+    },
+    {
+      "id": "3.2",
+      "text": "Separators like '==========' are used.",
+      "level": 2
+    }
+  ],
+  "concepts": [
+    {
+      "name": "特工系列",
+      "frequency": 1,
+      "context": "Part of the document title."
+    },
+    {
+      "name": "暴君",
+      "frequency": 1,
+      "context": "Appears in the document title and as a speaker identifier."
+    },
+    {
+      "name": "间谍",
+      "frequency": 1,
+      "context": "Part of the document title."
+    },
+    {
+      "name": "肥后",
+      "frequency": 1,
+      "context": "Part of the document title."
+    },
+    {
+      "name": "OCR 错误",
+      "frequency": 1,
+      "context": "Indicates recognition failures in the text."
+    },
+    {
+      "name": "龙王",
+      "frequency": 2,
+      "context": "Speaker identifier in dialogue."
+    },
+    {
+      "name": "tyrant",
+      "frequency": 1,
+      "context": "English word, likely referring to '暴君', appearing as a speaker identifier."
+    },
+    {
+      "name": "dialogue",
+      "frequency": 2,
+      "context": "The spoken content within the document sections."
+    },
+    {
+      "name": "section",
+      "frequency": 2,
+      "context": "The numbered divisions within the document (001, 002)."
+    },
+    {
+      "name": "separator",
+      "frequency": 2,
+      "context": "Lines of '==========' used to divide content."
+    }
+  ],
+  "relations": [
+    {
+      "source": "特工系列",
+      "target": "暴君的间谍肥后",
+      "type": "is_part_of"
+    },
+    {
+      "source": "暴君",
+      "target": "特工系列：暴君的间谍肥后",
+      "type": "is_part_of"
+    },
+    {
+      "source": "间谍",
+      "target": "特工系列：暴君的间谍肥后",
+      "type": "is_part_of"
+    },
+    {
+      "source": "肥后",
+      "target": "特工系列：暴君的间谍肥后",
+      "type": "is_part_of"
+    },
+    {
+      "source": "001",
+      "target": "section",
+      "type": "is_a"
+    },
+    {
+      "source": "002",
+      "target": "section",
+      "type": "is_a"
+    },
+    {
+      "source": "dialogue",
+      "target": "OCR 错误",
+      "type": "can_contain"
+    },
+    {
+      "source": "dialogue",
+      "target": "龙王",
+      "type": "can_have_speaker"
+    },
+    {
+      "source": "dialogue",
+      "target": "tyrant",
+      "type": "can_have_speaker"
+    },
+    {
+      "source": "dialogue",
+      "target": "暴君",
+      "type": "can_have_speaker"
+    },
+    {
+      "source": "separator",
+      "target": "dialogue",
+      "type": "separates"
+    }
+  ],
+  "hierarchy": {
+    "main_topics": [
+      "Document Structure",
+      "Content Analysis"
+    ],
+    "structure": "The document is structured into a title, numbered sections, and within each section, dialogue separated by lines. Dialogue often contains speaker tags and indications of OCR errors."
+  }
+}

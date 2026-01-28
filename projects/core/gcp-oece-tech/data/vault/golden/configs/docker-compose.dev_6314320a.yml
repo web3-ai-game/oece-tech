@@ -1,0 +1,88 @@
+# Hotel Inistel 开发环境 Docker Compose
+version: '3.8'
+
+services:
+  # 前端开发服务
+  frontend:
+    build:
+      context: ./frontend
+      dockerfile: Dockerfile.dev
+    ports:
+      - "3001:3001"
+    volumes:
+      - ./frontend:/app
+      - /app/node_modules
+      - /app/.next
+    environment:
+      - CHOKIDAR_USEPOLLING=true
+      - NODE_ENV=development
+    depends_on:
+      - backend
+    networks:
+      - hotel-network
+
+  # 后端API服务
+  backend:
+    build:
+      context: ./backend
+      dockerfile: Dockerfile.dev
+    ports:
+      - "5002:5002"
+    volumes:
+      - ./backend:/app
+      - /app/node_modules
+    environment:
+      - NODE_ENV=development
+      - DATABASE_URL=postgresql://hotel_user:hotel_pass@postgres:5432/hotel_db
+      - REDIS_URL=redis://redis:6379
+    depends_on:
+      - postgres
+      - redis
+    networks:
+      - hotel-network
+
+  # PostgreSQL 数据库
+  postgres:
+    image: postgres:15-alpine
+    ports:
+      - "5432:5432"
+    environment:
+      - POSTGRES_DB=hotel_db
+      - POSTGRES_USER=hotel_user
+      - POSTGRES_PASSWORD=hotel_pass
+    volumes:
+      - ./docker-data/postgres:/var/lib/postgresql/data
+    networks:
+      - hotel-network
+
+  # Redis 缓存
+  redis:
+    image: redis:7-alpine
+    ports:
+      - "6379:6379"
+    volumes:
+      - ./docker-data/redis:/data
+    networks:
+      - hotel-network
+
+  # pgAdmin 数据库管理
+  pgadmin:
+    image: dpage/pgadmin4:latest
+    ports:
+      - "5050:80"
+    environment:
+      - PGADMIN_DEFAULT_EMAIL=admin@hotel.com
+      - PGADMIN_DEFAULT_PASSWORD=admin123
+    volumes:
+      - ./docker-data/pgadmin:/var/lib/pgadmin
+    networks:
+      - hotel-network
+
+networks:
+  hotel-network:
+    driver: bridge
+
+volumes:
+  postgres-data:
+  redis-data:
+  pgadmin-data:

@@ -1,0 +1,109 @@
+{
+  "propositions": [
+    {
+      "id": "1",
+      "text": "谁要当你哥哥",
+      "level": 1
+    },
+    {
+      "id": "1.1",
+      "text": "哥哥？",
+      "level": 2
+    },
+    {
+      "id": "1.2",
+      "text": "谁要当你哥哥？",
+      "level": 2
+    },
+    {
+      "id": "1.3",
+      "text": "哥哥！",
+      "level": 2
+    },
+    {
+      "id": "1.4",
+      "text": "谁要当你哥哥！",
+      "level": 2
+    }
+  ],
+  "concepts": [
+    {
+      "name": "哥哥",
+      "frequency": 1000,
+      "context": "The primary term used in the document, often in the form of a question or exclamation."
+    },
+    {
+      "name": "谁",
+      "frequency": 500,
+      "context": "The interrogative pronoun used to question the desire to be a '哥哥'."
+    },
+    {
+      "name": "要",
+      "frequency": 500,
+      "context": "The verb indicating desire or will, central to the question 'who wants'."
+    },
+    {
+      "name": "当",
+      "frequency": 500,
+      "context": "The verb indicating 'to be' or 'to act as', used in the phrase 'to be a brother'."
+    },
+    {
+      "name": "你",
+      "frequency": 500,
+      "context": "The pronoun referring to the person being addressed, indicating the recipient of the potential 'brotherhood'."
+    }
+  ],
+  "relations": [
+    {
+      "source": "谁",
+      "target": "要",
+      "type": "implies"
+    },
+    {
+      "source": "要",
+      "target": "当",
+      "type": "implies"
+    },
+    {
+      "source": "当",
+      "target": "哥哥",
+      "type": "is_a"
+    },
+    {
+      "source": "当",
+      "target": "你",
+      "type": "part_of"
+    },
+    {
+      "source": "谁要当你哥哥",
+      "target": "哥哥",
+      "type": "concept"
+    },
+    {
+      "source": "谁要当你哥哥",
+      "target": "谁",
+      "type": "concept"
+    },
+    {
+      "source": "谁要当你哥哥",
+      "target": "要",
+      "type": "concept"
+    },
+    {
+      "source": "谁要当你哥哥",
+      "target": "当",
+      "type": "concept"
+    },
+    {
+      "source": "谁要当你哥哥",
+      "target": "你",
+      "type": "concept"
+    }
+  ],
+  "hierarchy": {
+    "main_topics": [
+      "The question/declaration of 'Who wants to be your brother?'"
+    ],
+    "structure": "The document consists of a main heading and a block quote, followed by a section marked '1.' which contains a highly repetitive string of dialogue. The dialogue alternates between the term '哥哥' (brother) as a noun/address and the question/declaration '谁要当你哥哥' (who wants to be your brother?)."
+  }
+}

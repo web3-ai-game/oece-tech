@@ -1,0 +1,186 @@
+{
+  "propositions": [
+    {
+      "id": "1",
+      "text": "The text is a section from a novel titled '将女凉烟[重生]'.",
+      "level": 1
+    },
+    {
+      "id": "1.1",
+      "text": "Chapter One is presented.",
+      "level": 2
+    },
+    {
+      "id": "1.1.1",
+      "text": "A dialogue occurs, indicating a reluctance to speak.",
+      "level": 3
+    },
+    {
+      "id": "1.1.2",
+      "text": "Liang Yan wakes up to a stranger, her wet nurse.",
+      "level": 3
+    },
+    {
+      "id": "1.1.3",
+      "text": "Liang Yan has amnesia regarding her identity and the wet nurse.",
+      "level": 3
+    },
+    {
+      "id": "1.1.4",
+      "text": "Liang Yan slowly regains some memory, feeling a sense of familiarity and a strange dream.",
+      "level": 3
+    },
+    {
+      "id": "1.1.5",
+      "text": "Liang Yan expresses a desire to walk outside.",
+      "level": 3
+    },
+    {
+      "id": "1.1.6",
+      "text": "Liang Yan returns to a familiar courtyard and feels a sense of sadness and homecoming.",
+      "level": 3
+    },
+    {
+      "id": "1.2",
+      "text": "A new section, also titled '将女凉烟 (重生)', begins with Liang Yan's return after many years.",
+      "level": 2
+    },
+    {
+      "id": "1.2.1",
+      "text": "Liang Yan reflects on her past pride and a fated downfall.",
+      "level": 3
+    },
+    {
+      "id": "1.2.2",
+      "text": "Liang Yan is reborn, determined not to be manipulated.",
+      "level": 3
+    },
+    {
+      "id": "1.2.3",
+      "text": "Liang Yan arrives at her home, which is also a place of past sorrow, intending to change things.",
+      "level": 3
+    },
+    {
+      "id": "1.2.4",
+      "text": "Liang Yan encounters a man from her past, acknowledging a generational feud.",
+      "level": 3
+    },
+    {
+      "id": "1.2.5",
+      "text": "Liang Yan states her intention to protect what she desires in this new life.",
+      "level": 3
+    },
+    {
+      "id": "1.3",
+      "text": "A concluding remark describes the story as one of revenge and salvation, with a deep love-hate entanglement.",
+      "level": 2
+    }
+  ],
+  "concepts": [
+    {
+      "name": "将女凉烟[重生]",
+      "frequency": 2,
+      "context": "Title of the work and its chapter."
+    },
+    {
+      "name": "重生",
+      "frequency": 2,
+      "context": "Indicates the theme of rebirth or reincarnation."
+    },
+    {
+      "name": "凉烟",
+      "frequency": 6,
+      "context": "The protagonist's name."
+    },
+    {
+      "name": "奶娘",
+      "frequency": 6,
+      "context": "The wet nurse character."
+    },
+    {
+      "name": "记忆",
+      "frequency": 2,
+      "context": "Refers to Liang Yan's amnesia and subsequent partial recall."
+    },
+    {
+      "name": "家",
+      "frequency": 1,
+      "context": "Liang Yan's home, described as both familiar and a place of sorrow."
+    },
+    {
+      "name": "改变",
+      "frequency": 1,
+      "context": "Liang Yan's determination to alter her fate."
+    },
+    {
+      "name": "复仇",
+      "frequency": 1,
+      "context": "A key theme of the story."
+    },
+    {
+      "name": "救赎",
+      "frequency": 1,
+      "context": "A key theme of the story."
+    },
+    {
+      "name": "爱恨纠葛",
+      "frequency": 1,
+      "context": "Describes the complex relationships in the story."
+    }
+  ],
+  "relations": [
+    {
+      "source": "将女凉烟[重生]",
+      "target": "重生",
+      "type": "theme_of"
+    },
+    {
+      "source": "凉烟",
+      "target": "奶娘",
+      "type": "interacts_with"
+    },
+    {
+      "source": "凉烟",
+      "target": "记忆",
+      "type": "experiences"
+    },
+    {
+      "source": "凉烟",
+      "target": "家",
+      "type": "returns_to"
+    },
+    {
+      "source": "凉烟",
+      "target": "改变",
+      "type": "intends_to"
+    },
+    {
+      "source": "复仇",
+      "target": "救赎",
+      "type": "related_theme"
+    },
+    {
+      "source": "将女凉烟 (重生)",
+      "target": "复仇",
+      "type": "theme_of"
+    },
+    {
+      "source": "将女凉烟 (重生)",
+      "target": "救赎",
+      "type": "theme_of"
+    },
+    {
+      "source": "将女凉烟 (重生)",
+      "target": "爱恨纠葛",
+      "type": "involves"
+    }
+  ],
+  "hierarchy": {
+    "main_topics": [
+      "The Novel '将女凉烟[重生]'",
+      "Chapter One (Excerpt)",
+      "Rebirth and Revenge Narrative"
+    ],
+    "structure": "The document begins with the title and a chapter designation. It then presents an excerpt of the first chapter, detailing Liang Yan's awakening with amnesia and subsequent internal reflections. Following this, a new section with a similar title reiterates the theme of rebirth and introduces Liang Yan's return with a clear purpose of changing her destiny, culminating in a narrative summary."
+  }
+}

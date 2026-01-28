@@ -1,0 +1,287 @@
+{
+  "propositions": [
+    {
+      "id": "1",
+      "text": "《博来·法拉先生》是一部小说。",
+      "level": 1
+    },
+    {
+      "id": "1.1",
+      "text": "该小说由约瑟芬·铁伊创作。",
+      "level": 2
+    },
+    {
+      "id": "1.2",
+      "text": "该小说可以在TXT小说天堂下载阅读。",
+      "level": 2
+    },
+    {
+      "id": "2",
+      "text": "故事发生在亚叙别家族的莱契特庄园。",
+      "level": 1
+    },
+    {
+      "id": "2.1",
+      "text": "碧翠姑姑是孩子们的监护人。",
+      "level": 2
+    },
+    {
+      "id": "2.2",
+      "text": "西蒙是即将成年的继承人。",
+      "level": 2
+    },
+    {
+      "id": "2.3",
+      "text": "珍妮和露丝是孪生姐妹。",
+      "level": 2
+    },
+    {
+      "id": "2.4",
+      "text": "爱莲是家族成员，负责训练马匹。",
+      "level": 2
+    },
+    {
+      "id": "3",
+      "text": "莱契特庄园历史悠久，是家族世代的居所。",
+      "level": 1
+    },
+    {
+      "id": "3.1",
+      "text": "该庄园以其单纯、脚踏实地的特点得以存续。",
+      "level": 2
+    },
+    {
+      "id": "3.2",
+      "text": "与莱契特庄园相对的是列丁罕家族的喀莱尔庄园，后者已物是人非。",
+      "level": 2
+    },
+    {
+      "id": "4",
+      "text": "柏特是西蒙的孪生哥哥，已故。",
+      "level": 1
+    },
+    {
+      "id": "4.1",
+      "text": "柏特的死因是溺水，可能与他的性格和家庭责任有关。",
+      "level": 2
+    },
+    {
+      "id": "4.2",
+      "text": "柏特的死对家族成员留下了深刻的影响。",
+      "level": 2
+    },
+    {
+      "id": "5",
+      "text": "艾力·洛丁是一个演员，计划利用法拉先生冒充西蒙的弟弟。",
+      "level": 1
+    },
+    {
+      "id": "5.1",
+      "text": "艾力·洛丁的计划是为了夺取亚叙别家族的财富。",
+      "level": 2
+    },
+    {
+      "id": "5.2",
+      "text": "法拉先生是一个身世不明的年轻人，长相酷似亚叙别家族的成员。",
+      "level": 2
+    },
+    {
+      "id": "6",
+      "text": "南丝·裴克（原列丁罕）是牧师太太，与碧翠是朋友。",
+      "level": 1
+    },
+    {
+      "id": "6.1",
+      "text": "南丝曾是社交名媛，为了爱情选择平凡生活。",
+      "level": 2
+    },
+    {
+      "id": "6.2",
+      "text": "她对家族的变故和往事有所回忆。",
+      "level": 2
+    },
+    {
+      "id": "7",
+      "text": "故事探讨了家族、责任、身份认同和过去的阴影。",
+      "level": 1
+    },
+    {
+      "id": "8",
+      "text": "法拉先生是这部小说的关键人物之一。",
+      "level": 1
+    },
+    {
+      "id": "8.1",
+      "text": "他的身份和与亚叙别家族的联系是情节的重要组成部分。",
+      "level": 2
+    }
+  ],
+  "concepts": [
+    {
+      "name": "碧翠姑姑",
+      "frequency": 20,
+      "context": "主要负责管教孩子们，回忆过去，对家族产业有责任感。"
+    },
+    {
+      "name": "西蒙",
+      "frequency": 15,
+      "context": "亚叙别家族的继承人，即将成年，性格复杂，可能被艾力·洛丁利用。"
+    },
+    {
+      "name": "珍妮",
+      "frequency": 10,
+      "context": "孪生姐妹之一，个性活泼，爱提问，与露丝性格不同。"
+    },
+    {
+      "name": "露丝",
+      "frequency": 10,
+      "context": "孪生姐妹之一，个性与珍妮不同，言语尖锐。"
+    },
+    {
+      "name": "爱莲",
+      "frequency": 5,
+      "context": "家族成员，负责马匹训练，言语直接。"
+    },
+    {
+      "name": "莱契特庄园",
+      "frequency": 12,
+      "context": "亚叙别家族世代居住的产业，象征稳定和传承。"
+    },
+    {
+      "name": "亚叙别家族",
+      "frequency": 15,
+      "context": "故事中的主要家族，以老实、踏实著称。"
+    },
+    {
+      "name": "柏特",
+      "frequency": 10,
+      "context": "西蒙已故的孪生哥哥，其死亡对家族产生了深远影响。"
+    },
+    {
+      "name": "艾力·洛丁",
+      "frequency": 8,
+      "context": "演员，计划欺骗亚叙别家族以获取财富。"
+    },
+    {
+      "name": "法拉先生",
+      "frequency": 7,
+      "context": "身世不明的年轻人，长相酷似亚叙别家族成员，可能被艾力·洛丁利用。"
+    },
+    {
+      "name": "南丝·裴克",
+      "frequency": 10,
+      "context": "牧师太太，原名南丝·列丁罕，与碧翠是朋友，回忆过去。"
+    },
+    {
+      "name": "喀莱尔庄园",
+      "frequency": 5,
+      "context": "列丁罕家族的旧宅，与莱契特庄园形成对比。"
+    },
+    {
+      "name": "成年礼",
+      "frequency": 5,
+      "context": "西蒙即将到来的重要仪式，是故事的焦点之一。"
+    },
+    {
+      "name": "责任",
+      "frequency": 5,
+      "context": "贯穿故事的主题，体现在碧翠对家族的责任，以及西蒙和柏特面临的责任。"
+    },
+    {
+      "name": "身份",
+      "frequency": 5,
+      "context": "特别是法拉先生的身份，以及亚叙别家族成员的身份认同。"
+    }
+  ],
+  "relations": [
+    {
+      "source": "碧翠姑姑",
+      "target": "西蒙",
+      "type": "guardian_of"
+    },
+    {
+      "source": "碧翠姑姑",
+      "target": "珍妮",
+      "type": "guardian_of"
+    },
+    {
+      "source": "碧翠姑姑",
+      "target": "露丝",
+      "type": "guardian_of"
+    },
+    {
+      "source": "西蒙",
+      "target": "亚叙别家族",
+      "type": "member_of"
+    },
+    {
+      "source": "珍妮",
+      "target": "西蒙",
+      "type": "sibling_of"
+    },
+    {
+      "source": "露丝",
+      "target": "西蒙",
+      "type": "sibling_of"
+    },
+    {
+      "source": "珍妮",
+      "target": "露丝",
+      "type": "twin_of"
+    },
+    {
+      "source": "西蒙",
+      "target": "柏特",
+      "type": "twin_of"
+    },
+    {
+      "source": "柏特",
+      "target": "亚叙别家族",
+      "type": "member_of"
+    },
+    {
+      "source": "莱契特庄园",
+      "target": "亚叙别家族",
+      "type": "owned_by"
+    },
+    {
+      "source": "艾力·洛丁",
+      "target": "法拉先生",
+      "type": "manipulates"
+    },
+    {
+      "source": "法拉先生",
+      "target": "亚叙别家族",
+      "type": "resembles"
+    },
+    {
+      "source": "南丝·裴克",
+      "target": "碧翠姑姑",
+      "type": "friend_of"
+    },
+    {
+      "source": "南丝·裴克",
+      "target": "列丁罕",
+      "type": "former_surname"
+    },
+    {
+      "source": "喀莱尔庄园",
+      "target": "列丁罕",
+      "type": "owned_by"
+    },
+    {
+      "source": "成年礼",
+      "target": "西蒙",
+      "type": "for"
+    }
+  ],
+  "hierarchy": {
+    "main_topics": [
+      "Characters",
+      "Setting",
+      "Plot Elements",
+      "Themes"
+    ],
+    "structure": "The document outlines the initial setup of the story, introducing key characters and their relationships, establishing the setting, and hinting at underlying conflicts and mysteries, particularly concerning the past deaths and the arrival of new, potentially deceptive, characters. It follows a narrative progression from domestic scenes to discussions of past events and future plans."
+  }
+}

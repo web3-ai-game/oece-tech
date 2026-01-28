@@ -1,0 +1,196 @@
+{
+  "propositions": [
+    {
+      "id": "1",
+      "text": "The document is titled '腐女重生'.",
+      "level": 1
+    },
+    {
+      "id": "1.1",
+      "text": "It contains an '序章' (Prologue).",
+      "level": 2
+    },
+    {
+      "id": "1.2",
+      "text": "It contains '章节信息' (Chapter Information).",
+      "level": 2
+    },
+    {
+      "id": "1.2.1",
+      "text": "Chapter information includes '更新时间' (Update Time).",
+      "level": 3
+    },
+    {
+      "id": "1.2.2",
+      "text": "Chapter information includes '字数' (Word Count).",
+      "level": 3
+    },
+    {
+      "id": "1.2.3",
+      "text": "Chapter information includes '小说' (Novel Title).",
+      "level": 3
+    },
+    {
+      "id": "1.3",
+      "text": "It contains '小说内容' (Novel Content).",
+      "level": 2
+    },
+    {
+      "id": "1.3.1",
+      "text": "The novel content begins with '第一章' (Chapter One).",
+      "level": 3
+    },
+    {
+      "id": "1.3.1.1",
+      "text": "In Chapter One, the protagonist's name is '壡壡'.",
+      "level": 4
+    },
+    {
+      "id": "1.3.1.2",
+      "text": "The protagonist recalls her previous life, where she suffered from illness for fourteen years.",
+      "level": 4
+    },
+    {
+      "id": "1.3.1.3",
+      "text": "Her suffering ended in 2002, when she was 14 years old.",
+      "level": 4
+    },
+    {
+      "id": "1.3.1.4",
+      "text": "She has been given new vitality and freedom from her past burdens.",
+      "level": 4
+    },
+    {
+      "id": "1.3.1.5",
+      "text": "She interacts with her mother, who expresses relief that she is alive.",
+      "level": 4
+    },
+    {
+      "id": "1.3.1.6",
+      "text": "The protagonist feels a sense of security and believes everything is different from this moment on.",
+      "level": 4
+    },
+    {
+      "id": "1.3.2",
+      "text": "Subsequent chapters ('第二章' through '第一百四十二章') are mentioned.",
+      "level": 3
+    },
+    {
+      "id": "1.3.2.1",
+      "text": "Most of these subsequent chapters contain uninterpretable garbled text, possibly due to OCR errors or encoding issues.",
+      "level": 4
+    },
+    {
+      "id": "1.3.2.2",
+      "text": "Each of these chapters is associated with a timestamp and an ID.",
+      "level": 4
+    }
+  ],
+  "concepts": [
+    {
+      "name": "腐女重生",
+      "frequency": 1,
+      "context": "Document title and mentioned in chapter information and prologue."
+    },
+    {
+      "name": "重生",
+      "frequency": 1,
+      "context": "Central theme of the narrative, meaning 'rebirth' or 'reincarnation'."
+    },
+    {
+      "name": "壡壡",
+      "frequency": 1,
+      "context": "The name of the protagonist in the novel."
+    },
+    {
+      "name": "前世",
+      "frequency": 1,
+      "context": "Refers to the protagonist's previous life characterized by illness."
+    },
+    {
+      "name": "病痛",
+      "frequency": 1,
+      "context": "Describes the suffering from illness in the protagonist's previous life."
+    },
+    {
+      "name": "母亲",
+      "frequency": 1,
+      "context": "The protagonist's mother, who provides comfort and love."
+    },
+    {
+      "name": "章节",
+      "frequency": 65,
+      "context": "Represents individual parts of the novel, from '第一章' to '第一百四十二章'."
+    },
+    {
+      "name": "乱码",
+      "frequency": 33,
+      "context": "Indicates uninterpretable text within the majority of the novel's chapters."
+    },
+    {
+      "name": "时间",
+      "frequency": 33,
+      "context": "Associated with chapter metadata, indicating update times."
+    },
+    {
+      "name": "ID",
+      "frequency": 33,
+      "context": "Associated with chapter metadata, likely an identifier."
+    }
+  ],
+  "relations": [
+    {
+      "source": "腐女重生",
+      "target": "小说",
+      "type": "is_a"
+    },
+    {
+      "source": "重生",
+      "target": "壡壡",
+      "type": "is_about"
+    },
+    {
+      "source": "壡壡",
+      "target": "前世",
+      "type": "experienced"
+    },
+    {
+      "source": "前世",
+      "target": "病痛",
+      "type": "characterized_by"
+    },
+    {
+      "source": "壡壡",
+      "target": "母亲",
+      "type": "interacts_with"
+    },
+    {
+      "source": "小说内容",
+      "target": "章节",
+      "type": "consists_of"
+    },
+    {
+      "source": "章节",
+      "target": "乱码",
+      "type": "contains"
+    },
+    {
+      "source": "章节",
+      "target": "时间",
+      "type": "has_metadata"
+    },
+    {
+      "source": "章节",
+      "target": "ID",
+      "type": "has_metadata"
+    }
+  ],
+  "hierarchy": {
+    "main_topics": [
+      "Document Title",
+      "Sections (Prologue, Chapter Info, Content)",
+      "Novel Content (Chapters and their issues)"
+    ],
+    "structure": "The document is structured with a main title, followed by introductory sections (Prologue, Chapter Information), and then the main body of the novel content. The novel content is divided into chapters, with a significant portion being unreadable garbled text."
+  }
+}

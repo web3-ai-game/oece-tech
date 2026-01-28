@@ -1,0 +1,40 @@
+{
+  "propositions": [
+    {
+      "id": "1",
+      "text": "Introduction to '潇洒如风（女尊）'",
+      "level": 1
+    },
+    {
+      "id": "1.1",
+      "text": "Overview of the narrative context",
+      "level": 2
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Female Dominance",
+      "frequency": 1,
+      "context": "Central theme of the story"
+    },
+    {
+      "name": "潇洒如风",
+      "frequency": 2,
+      "context": "Title and thematic element of freedom or elegance"
+    }
+  ],
+  "relations": [
+    {
+      "source": "潇洒如风",
+      "target": "Female Dominance",
+      "type": "implies"
+    }
+  ],
+  "hierarchy": {
+    "main_topics": [
+      "Female Dominance",
+      "Narrative Introduction"
+    ],
+    "structure": "The document begins with a title and chapter heading, suggesting a narrative structure with a focus on thematic elements like female dominance."
+  }
+}

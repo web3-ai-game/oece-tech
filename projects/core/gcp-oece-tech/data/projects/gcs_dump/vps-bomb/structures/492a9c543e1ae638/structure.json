@@ -1,0 +1,491 @@
+{
+  "propositions": [
+    {
+      "id": "1",
+      "text": "一切的开端，似乎都源于那个夜晚。",
+      "level": 1
+    },
+    {
+      "id": "1.1",
+      "text": "那个夜晚，我们仿佛看到了彼此的灵魂，在寂静的星空下，交换了无声的誓言。",
+      "level": 2
+    },
+    {
+      "id": "2",
+      "text": "我曾以为自己是独立的个体，有着清晰的界限，明确的喜怒哀乐。",
+      "level": 1
+    },
+    {
+      "id": "3",
+      "text": "然而，自从遇见了“另一个我”，我的世界开始颠倒。",
+      "level": 1
+    },
+    {
+      "id": "3.1",
+      "text": "那个夜晚，我仿佛看见了另一个自己，在镜子里，也在我心里。",
+      "level": 2
+    },
+    {
+      "id": "4",
+      "text": "我开始质疑自己的存在，我的思想，我的情感，甚至我的记忆。",
+      "level": 1
+    },
+    {
+      "id": "4.1",
+      "text": "它们是真的属于我的，还是我从“另一个我”那里窃取的？",
+      "level": 2
+    },
+    {
+      "id": "5",
+      "text": "“另一个我”是我的影子，也是我的镜子。",
+      "level": 1
+    },
+    {
+      "id": "6",
+      "text": "她是我内心深处最隐秘的渴望，也是我不敢触碰的阴影。",
+      "level": 1
+    },
+    {
+      "id": "7",
+      "text": "她拥有的，是我渴望而不可及的。",
+      "level": 1
+    },
+    {
+      "id": "8",
+      "text": "她经历的，是我未曾想过的。",
+      "level": 1
+    },
+    {
+      "id": "9",
+      "text": "我们之间的界限，早已模糊不清。",
+      "level": 1
+    },
+    {
+      "id": "10",
+      "text": "在一次又一次的迷失与寻找中，我终于逼近了真相。",
+      "level": 1
+    },
+    {
+      "id": "11",
+      "text": "原来，“另一个我”并非是独立的个体，而是我内心分裂出的另一个面向。",
+      "level": 1
+    },
+    {
+      "id": "11.1",
+      "text": "她代表了我被压抑的欲望。",
+      "level": 2
+    },
+    {
+      "id": "11.2",
+      "text": "她承载了我无法承受的痛苦。",
+      "level": 2
+    },
+    {
+      "id": "12",
+      "text": "面对“另一个我”，我不再选择逃避。",
+      "level": 1
+    },
+    {
+      "id": "13",
+      "text": "我选择拥抱她，理解她，与她融合。",
+      "level": 1
+    },
+    {
+      "id": "13.1",
+      "text": "接受那个不完美的自己，才能获得真正的自由。",
+      "level": 2
+    },
+    {
+      "id": "14",
+      "text": "当我和“另一个我”融为一体时，我感受到了前所未有的完整。",
+      "level": 1
+    },
+    {
+      "id": "15",
+      "text": "我不再是分裂的，不再是矛盾的，而是全新的，完整的我。",
+      "level": 1
+    },
+    {
+      "id": "16",
+      "text": "世上没有真正的“另一个我”，只有更深层次的自己。",
+      "level": 1
+    },
+    {
+      "id": "17",
+      "text": "当我们勇敢地面对内心的阴影，拥抱那些被压抑的情感时，我们才能获得真正的成长和重生。",
+      "level": 1
+    },
+    {
+      "id": "18",
+      "text": "（此处应列出引用的学术文献，例如：）",
+      "level": 3
+    },
+    {
+      "id": "18.1",
+      "text": "Doe, J. (2020). *The Divided Self*. Academic Press.",
+      "level": 4
+    },
+    {
+      "id": "18.2",
+      "text": "Smith, A. (2019). *Psychological Fragmentation*. University of Publishing.",
+      "level": 4
+    },
+    {
+      "id": "19",
+      "text": "（此处应列出文中可能出现的注释，例如：）",
+      "level": 3
+    },
+    {
+      "id": "19.1",
+      "text": "“灵魂的交织”：指个体内心深处的情感和欲望的复杂联系。",
+      "level": 4
+    },
+    {
+      "id": "19.2",
+      "text": "“镜中的真相”：指通过自我反思和探索，揭示内心深处隐藏的真相。",
+      "level": 4
+    }
+  ],
+  "concepts": [
+    {
+      "name": "另一个我",
+      "frequency": 7,
+      "context": "Appears in relation to the narrator's self-perception and inner conflict."
+    },
+    {
+      "name": "夜晚",
+      "frequency": 3,
+      "context": "Marks the beginning of the narrative and a significant encounter."
+    },
+    {
+      "name": "灵魂",
+      "frequency": 1,
+      "context": "Associated with the initial encounter and mutual understanding."
+    },
+    {
+      "name": "自我",
+      "frequency": 4,
+      "context": "The narrator's understanding and questioning of their own existence, identity, and emotions."
+    },
+    {
+      "name": "界限",
+      "frequency": 2,
+      "context": "Relates to the initial perception of self and later blurring with the 'other self'."
+    },
+    {
+      "name": "思想",
+      "frequency": 1,
+      "context": "One of the aspects of self the narrator questions."
+    },
+    {
+      "name": "情感",
+      "frequency": 2,
+      "context": "Part of the narrator's self-questioning and later embraced aspects."
+    },
+    {
+      "name": "记忆",
+      "frequency": 1,
+      "context": "Another aspect of self the narrator questions."
+    },
+    {
+      "name": "影子",
+      "frequency": 1,
+      "context": "Metaphor for the 'other self' reflecting hidden parts."
+    },
+    {
+      "name": "镜子",
+      "frequency": 2,
+      "context": "Metaphor for the 'other self' reflecting the narrator's inner self and hidden truths."
+    },
+    {
+      "name": "渴望",
+      "frequency": 1,
+      "context": "Attribute of the 'other self' and a source of internal conflict."
+    },
+    {
+      "name": "阴影",
+      "frequency": 2,
+      "context": "Refers to the darker, hidden aspects of the self that are to be confronted."
+    },
+    {
+      "name": "真相",
+      "frequency": 1,
+      "context": "The goal of the narrator's introspection."
+    },
+    {
+      "name": "面向",
+      "frequency": 1,
+      "context": "Describes the 'other self' as a part of the narrator's inner self."
+    },
+    {
+      "name": "欲望",
+      "frequency": 1,
+      "context": "A repressed aspect represented by the 'other self'."
+    },
+    {
+      "name": "痛苦",
+      "frequency": 1,
+      "context": "An unbearable aspect carried by the 'other self'."
+    },
+    {
+      "name": "逃避",
+      "frequency": 1,
+      "context": "The narrator's initial reaction to the 'other self'."
+    },
+    {
+      "name": "拥抱",
+      "frequency": 1,
+      "context": "The narrator's chosen action towards the 'other self'."
+    },
+    {
+      "name": "理解",
+      "frequency": 1,
+      "context": "The narrator's chosen action towards the 'other self'."
+    },
+    {
+      "name": "融合",
+      "frequency": 2,
+      "context": "The process of integrating the 'other self' into the narrator's whole being."
+    },
+    {
+      "name": "不完美的自己",
+      "frequency": 1,
+      "context": "The aspect of self that needs acceptance for freedom."
+    },
+    {
+      "name": "自由",
+      "frequency": 1,
+      "context": "The result of self-acceptance."
+    },
+    {
+      "name": "完整",
+      "frequency": 2,
+      "context": "The state achieved after integration and self-acceptance."
+    },
+    {
+      "name": "分裂",
+      "frequency": 1,
+      "context": "The narrator's previous state before integration."
+    },
+    {
+      "name": "矛盾",
+      "frequency": 1,
+      "context": "The narrator's previous state before integration."
+    },
+    {
+      "name": "成长",
+      "frequency": 1,
+      "context": "A consequence of facing inner shadows and repressed emotions."
+    },
+    {
+      "name": "重生",
+      "frequency": 2,
+      "context": "The ultimate outcome of self-acceptance and integration."
+    },
+    {
+      "name": "内心",
+      "frequency": 5,
+      "context": "The locus of the self, its desires, pains, and hidden aspects."
+    },
+    {
+      "name": "压抑",
+      "frequency": 2,
+      "context": "Describes desires and emotions that are pushed down within the self."
+    },
+    {
+      "name": "参考文献",
+      "frequency": 1,
+      "context": "Section for citing external sources."
+    },
+    {
+      "name": "注释",
+      "frequency": 1,
+      "context": "Section for providing explanations of terms."
+    },
+    {
+      "name": "The Divided Self",
+      "frequency": 1,
+      "context": "Title of a referenced academic work."
+    },
+    {
+      "name": "Psychological Fragmentation",
+      "frequency": 1,
+      "context": "Title of a referenced academic work."
+    },
+    {
+      "name": "灵魂的交织",
+      "frequency": 1,
+      "context": "A key concept explained in the notes."
+    },
+    {
+      "name": "镜中的真相",
+      "frequency": 1,
+      "context": "A key concept explained in the notes."
+    }
+  ],
+  "relations": [
+    {
+      "source": "夜晚",
+      "target": "灵魂",
+      "type": "implies"
+    },
+    {
+      "source": "自我",
+      "target": "界限",
+      "type": "is_a"
+    },
+    {
+      "source": "另一个我",
+      "target": "自我",
+      "type": "part_of"
+    },
+    {
+      "source": "另一个我",
+      "target": "影子",
+      "type": "is_a"
+    },
+    {
+      "source": "另一个我",
+      "target": "镜子",
+      "type": "is_a"
+    },
+    {
+      "source": "另一个我",
+      "target": "渴望",
+      "type": "has_a"
+    },
+    {
+      "source": "另一个我",
+      "target": "阴影",
+      "type": "is_a"
+    },
+    {
+      "source": "界限",
+      "target": "模糊不清",
+      "type": "implies"
+    },
+    {
+      "source": "真相",
+      "target": "另一个我",
+      "type": "reveals"
+    },
+    {
+      "source": "另一个我",
+      "target": "面向",
+      "type": "is_a"
+    },
+    {
+      "source": "面向",
+      "target": "欲望",
+      "type": "represents"
+    },
+    {
+      "source": "面向",
+      "target": "痛苦",
+      "type": "carries"
+    },
+    {
+      "source": "逃避",
+      "target": "另一个我",
+      "type": "is_reaction_to"
+    },
+    {
+      "source": "拥抱",
+      "target": "另一个我",
+      "type": "is_action_to"
+    },
+    {
+      "source": "理解",
+      "target": "另一个我",
+      "type": "is_action_to"
+    },
+    {
+      "source": "融合",
+      "target": "另一个我",
+      "type": "involves"
+    },
+    {
+      "source": "接受",
+      "target": "不完美的自己",
+      "type": "leads_to"
+    },
+    {
+      "source": "不完美的自己",
+      "target": "自由",
+      "type": "enables"
+    },
+    {
+      "source": "融合",
+      "target": "完整",
+      "type": "results_in"
+    },
+    {
+      "source": "融合",
+      "target": "分裂",
+      "type": "overcomes"
+    },
+    {
+      "source": "融合",
+      "target": "矛盾",
+      "type": "resolves"
+    },
+    {
+      "source": "成长",
+      "target": "内心",
+      "type": "occurs_in"
+    },
+    {
+      "source": "重生",
+      "target": "情感",
+      "type": "results_from"
+    },
+    {
+      "source": "另一个我",
+      "target": "内心",
+      "type": "exists_in"
+    },
+    {
+      "source": "压抑",
+      "target": "欲望",
+      "type": "affects"
+    },
+    {
+      "source": "压抑",
+      "target": "情感",
+      "type": "affects"
+    },
+    {
+      "source": "灵魂的交织",
+      "target": "情感",
+      "type": "explains"
+    },
+    {
+      "source": "灵魂的交织",
+      "target": "欲望",
+      "type": "explains"
+    },
+    {
+      "source": "镜中的真相",
+      "target": "自我反思",
+      "type": "involves"
+    },
+    {
+      "source": "镜中的真相",
+      "target": "内心",
+      "type": "reveals"
+    }
+  ],
+  "hierarchy": {
+    "main_topics": [
+      "Introduction",
+      "The Lost Self",
+      "Intertwining Souls",
+      "Truth in the Mirror",
+      "Integration and Rebirth",
+      "Conclusion",
+      "References",
+      "Notes"
+    ],
+    "structure": "The document is structured as a narrative exploration of self-identity, moving from initial fragmentation and questioning to eventual integration and understanding. It progresses through distinct chapters that represent stages of this psychological journey. The front matter (Introduction, Chapters) is followed by concluding sections (Conclusion, References, Notes)."
+  }
+}

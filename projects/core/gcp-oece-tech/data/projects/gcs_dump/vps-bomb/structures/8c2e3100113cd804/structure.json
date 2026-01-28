@@ -1,0 +1,307 @@
+{
+  "propositions": [
+    {
+      "id": "1",
+      "text": "This is a literary work that discusses the topic of a female emperor's harem.",
+      "level": 1
+    },
+    {
+      "id": "1.1",
+      "text": "The document is titled 'The Empress's Harem'.",
+      "level": 2
+    },
+    {
+      "id": "2",
+      "text": "The text explores the complexities and dynamics within such a setting.",
+      "level": 1
+    },
+    {
+      "id": "2.1",
+      "text": "It delves into the reasons and motivations behind the establishment of a harem.",
+      "level": 2
+    },
+    {
+      "id": "2.2",
+      "text": "It examines the relationships and interactions between the emperor and the harem members.",
+      "level": 2
+    },
+    {
+      "id": "3",
+      "text": "The document touches upon historical and societal contexts related to imperial harems.",
+      "level": 1
+    },
+    {
+      "id": "3.1",
+      "text": "It may refer to specific historical periods or dynasties.",
+      "level": 2
+    },
+    {
+      "id": "4",
+      "text": "The narrative likely involves themes of power, influence, love, and intrigue.",
+      "level": 1
+    },
+    {
+      "id": "4.1",
+      "text": "There are descriptions of characters and their roles within the harem.",
+      "level": 2
+    },
+    {
+      "id": "4.2",
+      "text": "It might present conflicts and resolutions arising from the harem environment.",
+      "level": 2
+    },
+    {
+      "id": "5",
+      "text": "The text explores the psychological states and emotions of the characters.",
+      "level": 1
+    },
+    {
+      "id": "5.1",
+      "text": "It depicts the desires, ambitions, and struggles of the individuals involved.",
+      "level": 2
+    },
+    {
+      "id": "6",
+      "text": "The document seems to be a work of fiction or historical fiction.",
+      "level": 1
+    },
+    {
+      "id": "6.1",
+      "text": "The language used is descriptive and evocative.",
+      "level": 2
+    },
+    {
+      "id": "7",
+      "text": "There are mentions of specific numbers, such as '40' and '26', likely referring to characters or events.",
+      "level": 1
+    },
+    {
+      "id": "8",
+      "text": "The narrative seems to involve elements of fate and destiny.",
+      "level": 1
+    },
+    {
+      "id": "8.1",
+      "text": "Characters might ponder their fate and the forces that shape their lives.",
+      "level": 2
+    },
+    {
+      "id": "9",
+      "text": "The document reflects on the nature of power and its impact on individuals.",
+      "level": 1
+    },
+    {
+      "id": "9.1",
+      "text": "It explores how power dynamics influence relationships and decisions.",
+      "level": 2
+    },
+    {
+      "id": "10",
+      "text": "The text seems to be a Chinese web novel, possibly translated.",
+      "level": 1
+    },
+    {
+      "id": "10.1",
+      "text": "The presence of a URL suggests it might be from an online platform.",
+      "level": 2
+    },
+    {
+      "id": "11",
+      "text": "There are references to specific locations or settings, such as 'imperial palace' or 'harem'.",
+      "level": 1
+    },
+    {
+      "id": "12",
+      "text": "The narrative appears to be character-driven.",
+      "level": 1
+    },
+    {
+      "id": "13",
+      "text": "The document uses descriptive language to create imagery and atmosphere.",
+      "level": 1
+    },
+    {
+      "id": "14",
+      "text": "There are expressions of emotional states like joy, sorrow, and desire.",
+      "level": 1
+    },
+    {
+      "id": "15",
+      "text": "The text might contain elements of wisdom or philosophical reflection.",
+      "level": 1
+    },
+    {
+      "id": "16",
+      "text": "The narrative seems to depict a world with strict social hierarchies and rules.",
+      "level": 1
+    },
+    {
+      "id": "17",
+      "text": "There are mentions of a 'female emperor', indicating a matriarchal or unique ruling structure.",
+      "level": 1
+    },
+    {
+      "id": "18",
+      "text": "The content suggests a focus on relationships and romantic entanglements.",
+      "level": 1
+    },
+    {
+      "id": "19",
+      "text": "The document seems to be rich in detail regarding the lifestyle and customs within the harem.",
+      "level": 1
+    },
+    {
+      "id": "20",
+      "text": "The overall tone appears to be dramatic and potentially melancholic.",
+      "level": 1
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Female Emperor",
+      "frequency": 5,
+      "context": "The central figure of authority and the ruler of the empire."
+    },
+    {
+      "name": "Harem",
+      "frequency": 10,
+      "context": "The collection of consorts and attendants of the emperor, central to the plot."
+    },
+    {
+      "name": "Relationships",
+      "frequency": 8,
+      "context": "Interactions and connections between characters, especially romantic and political."
+    },
+    {
+      "name": "Power",
+      "frequency": 7,
+      "context": "The dynamics of control, influence, and authority within the harem and the empire."
+    },
+    {
+      "name": "Intrigue",
+      "frequency": 6,
+      "context": "Schemes, plots, and hidden agendas within the harem environment."
+    },
+    {
+      "name": "Emotions",
+      "frequency": 5,
+      "context": "The feelings and psychological states of the characters, such as love, desire, sorrow."
+    },
+    {
+      "name": "Fate",
+      "frequency": 4,
+      "context": "The concept of predetermined destiny and its influence on the characters' lives."
+    },
+    {
+      "name": "Characters",
+      "frequency": 9,
+      "context": "Individuals within the story, their roles, motivations, and development."
+    },
+    {
+      "name": "Historical Context",
+      "frequency": 3,
+      "context": "References to historical periods or societal norms surrounding imperial harems."
+    },
+    {
+      "name": "Web Novel",
+      "frequency": 2,
+      "context": "The likely origin and format of the document."
+    },
+    {
+      "name": "Love",
+      "frequency": 4,
+      "context": "Romantic affections and entanglements between characters."
+    },
+    {
+      "name": "Struggle",
+      "frequency": 5,
+      "context": "The challenges and conflicts faced by characters within the harem."
+    },
+    {
+      "name": "Imperial Palace",
+      "frequency": 3,
+      "context": "The setting where the events take place."
+    },
+    {
+      "name": "Desire",
+      "frequency": 4,
+      "context": "The ambitions, wants, and cravings of the characters."
+    },
+    {
+      "name": "Ambition",
+      "frequency": 3,
+      "context": "The drive for power or a better position within the harem."
+    }
+  ],
+  "relations": [
+    {
+      "source": "Female Emperor",
+      "target": "Harem",
+      "type": "rules_over"
+    },
+    {
+      "source": "Harem",
+      "target": "Relationships",
+      "type": "is_site_of"
+    },
+    {
+      "source": "Harem",
+      "target": "Power",
+      "type": "characterized_by"
+    },
+    {
+      "source": "Harem",
+      "target": "Intrigue",
+      "type": "characterized_by"
+    },
+    {
+      "source": "Characters",
+      "target": "Emotions",
+      "type": "experiences"
+    },
+    {
+      "source": "Characters",
+      "target": "Fate",
+      "type": "grapples_with"
+    },
+    {
+      "source": "Characters",
+      "target": "Love",
+      "type": "participates_in"
+    },
+    {
+      "source": "Characters",
+      "target": "Struggle",
+      "type": "undergoes"
+    },
+    {
+      "source": "Web Novel",
+      "target": "Characters",
+      "type": "features"
+    },
+    {
+      "source": "Imperial Palace",
+      "target": "Harem",
+      "type": "contains"
+    },
+    {
+      "source": "Power",
+      "target": "Relationships",
+      "type": "influences"
+    },
+    {
+      "source": "Female Emperor",
+      "target": "Characters",
+      "type": "interacts_with"
+    }
+  ],
+  "hierarchy": {
+    "main_topics": [
+      "Female Emperor's Harem",
+      "Characters and Relationships",
+      "Themes (Power, Fate, Love)",
+      "Setting and Context"
+    ],
+    "structure": "The document appears to be a narrative-driven text, likely a web novel, exploring the dynamics of a female emperor's harem through the experiences and relationships of its characters. It delves into themes of power, love, fate, and intrigue within this specific social and historical context."
+  }
+}

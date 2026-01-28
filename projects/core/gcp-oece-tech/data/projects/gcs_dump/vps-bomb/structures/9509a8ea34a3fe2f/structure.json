@@ -1,0 +1,101 @@
+{
+  "propositions": [
+    {
+      "id": "1",
+      "text": "The narrative centers on a female protagonist navigating a complex socio-political and personal landscape in a historical or fantastical setting.",
+      "level": 1
+    },
+    {
+      "id": "1.1",
+      "text": "The protagonist, often referred to in relation to night or darkness (possibly 'Night Color'), faces internal and external conflicts involving power, identity, and relationships.",
+      "level": 2
+    },
+    {
+      "id": "1.2",
+      "text": "The setting involves a court or imperial environment with intricate hierarchies, rituals, and power struggles.",
+      "level": 2
+    },
+    {
+      "id": "1.3",
+      "text": "Themes of love, betrayal, and sacrifice are recurrent, shaping the protagonist's journey.",
+      "level": 2
+    },
+    {
+      "id": "2",
+      "text": "Secondary characters play significant roles in influencing the protagonist's decisions and emotional state.",
+      "level": 1
+    },
+    {
+      "id": "2.1",
+      "text": "Interactions with other female characters highlight themes of rivalry, alliance, and societal expectations.",
+      "level": 2
+    },
+    {
+      "id": "2.2",
+      "text": "Male characters often represent authority, conflict, or romantic tension in the protagonist's life.",
+      "level": 2
+    },
+    {
+      "id": "3",
+      "text": "The narrative structure includes vivid imagery and symbolic elements like night, snow, and flowers to convey emotional depth.",
+      "level": 1
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Night/Darkness",
+      "frequency": 50,
+      "context": "Often associated with the protagonist, symbolizing mystery, emotional depth, or hidden power."
+    },
+    {
+      "name": "Female Power",
+      "frequency": 30,
+      "context": "Explored through the protagonist's role and struggles within a patriarchal or hierarchical system."
+    },
+    {
+      "name": "Court/Imperial Setting",
+      "frequency": 25,
+      "context": "A backdrop of political intrigue, rituals, and societal norms."
+    },
+    {
+      "name": "Love and Betrayal",
+      "frequency": 20,
+      "context": "Central to personal conflicts and relationships in the narrative."
+    },
+    {
+      "name": "Snow/Winter",
+      "frequency": 15,
+      "context": "Symbolic of isolation, purity, or emotional coldness in key scenes."
+    }
+  ],
+  "relations": [
+    {
+      "source": "Night/Darkness",
+      "target": "Female Power",
+      "type": "symbolizes"
+    },
+    {
+      "source": "Female Power",
+      "target": "Court/Imperial Setting",
+      "type": "contextualized_in"
+    },
+    {
+      "source": "Love and Betrayal",
+      "target": "Female Power",
+      "type": "influences"
+    },
+    {
+      "source": "Snow/Winter",
+      "target": "Night/Darkness",
+      "type": "complements"
+    }
+  ],
+  "hierarchy": {
+    "main_topics": [
+      "Protagonist's Journey",
+      "Socio-Political Intrigue",
+      "Emotional and Symbolic Depth"
+    ],
+    "structure": "The document follows a narrative arc focusing on a central female character, interwoven with subplots of power struggles and personal relationships, set against a richly detailed imperial backdrop with recurring symbolic imagery."
+  }
+}

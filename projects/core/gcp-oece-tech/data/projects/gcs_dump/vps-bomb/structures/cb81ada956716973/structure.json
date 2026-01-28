@@ -1,0 +1,413 @@
+{
+  "propositions": [
+    {
+      "id": "1",
+      "text": "This document is a personal reflection spanning 36 years, from 1971 to 2007.",
+      "level": 1
+    },
+    {
+      "id": "1.1",
+      "text": "The author contemplates various aspects of life, including career, family, and personal growth.",
+      "level": 2
+    },
+    {
+      "id": "1.2",
+      "text": "Key themes include the author's experiences in education and their interactions with significant people.",
+      "level": 2
+    },
+    {
+      "id": "1.3",
+      "text": "The narrative touches upon societal changes and technological advancements witnessed over the decades.",
+      "level": 2
+    },
+    {
+      "id": "1.4",
+      "text": "The author reflects on choices made, missed opportunities, and personal philosophical development.",
+      "level": 2
+    },
+    {
+      "id": "1.5",
+      "text": "Specific anecdotes and memories are shared, offering a glimpse into the author's life.",
+      "level": 2
+    },
+    {
+      "id": "2",
+      "text": "The author discusses their educational journey, including attending specific institutions.",
+      "level": 1
+    },
+    {
+      "id": "2.1",
+      "text": "Mention of specific years like 1987 and 2004 in relation to academic pursuits.",
+      "level": 2
+    },
+    {
+      "id": "2.2",
+      "text": "The author reflects on the value of education and professional choices.",
+      "level": 2
+    },
+    {
+      "id": "3",
+      "text": "Interactions with individuals, particularly a 'teacher' figure, are highlighted.",
+      "level": 1
+    },
+    {
+      "id": "3.1",
+      "text": "The teacher's influence on the author's academic and personal path is emphasized.",
+      "level": 2
+    },
+    {
+      "id": "3.2",
+      "text": "Reflections on mentorship and the impact of guidance.",
+      "level": 2
+    },
+    {
+      "id": "4",
+      "text": "The author contemplates concepts of 'crossing over' or transformation, possibly related to personal change or new beginnings.",
+      "level": 1
+    },
+    {
+      "id": "4.1",
+      "text": "The title itself, 'Crossing Over: My 36 Years', suggests a theme of transition.",
+      "level": 2
+    },
+    {
+      "id": "4.2",
+      "text": "The text explores the idea of 'crossing over' in various life stages and decisions.",
+      "level": 2
+    },
+    {
+      "id": "5",
+      "text": "The author expresses a sense of looking back and assessing their life experiences.",
+      "level": 1
+    },
+    {
+      "id": "5.1",
+      "text": "Reflection on past choices and their consequences.",
+      "level": 2
+    },
+    {
+      "id": "5.2",
+      "text": "A philosophical contemplation of life's journey and meaning.",
+      "level": 2
+    },
+    {
+      "id": "6",
+      "text": "Discussions about childhood and early life experiences.",
+      "level": 1
+    },
+    {
+      "id": "6.1",
+      "text": "Memories of specific times and events from childhood.",
+      "level": 2
+    },
+    {
+      "id": "7",
+      "text": "The author reflects on their career, professional life, and achievements.",
+      "level": 1
+    },
+    {
+      "id": "7.1",
+      "text": "Consideration of career paths taken and decisions made.",
+      "level": 2
+    },
+    {
+      "id": "8",
+      "text": "Observations on societal changes and technological progress.",
+      "level": 1
+    },
+    {
+      "id": "8.1",
+      "text": "Mentions of events or trends from the late 20th century.",
+      "level": 2
+    },
+    {
+      "id": "9",
+      "text": "The author touches upon family life and personal relationships.",
+      "level": 1
+    },
+    {
+      "id": "9.1",
+      "text": "Reflections on family dynamics and the impact of loved ones.",
+      "level": 2
+    },
+    {
+      "id": "10",
+      "text": "The concept of 'UFO' appears in the text, possibly as a metaphorical or literal element.",
+      "level": 1
+    },
+    {
+      "id": "10.1",
+      "text": "The author discusses encounters or thoughts related to UFOs, potentially as a personal fascination or societal phenomenon.",
+      "level": 2
+    },
+    {
+      "id": "11",
+      "text": "The author reflects on the passage of time and the aging process.",
+      "level": 1
+    },
+    {
+      "id": "11.1",
+      "text": "Considerations of age and the accumulation of life experiences.",
+      "level": 2
+    },
+    {
+      "id": "12",
+      "text": "The author contemplates the meaning of life and their place in the world.",
+      "level": 1
+    },
+    {
+      "id": "12.1",
+      "text": "Philosophical musings on existence, purpose, and personal values.",
+      "level": 2
+    },
+    {
+      "id": "13",
+      "text": "The document includes specific references to years and time periods.",
+      "level": 1
+    },
+    {
+      "id": "13.1",
+      "text": "Years like 1971, 1975, 1980, 1987, 2004, 2007 are explicitly mentioned.",
+      "level": 2
+    },
+    {
+      "id": "14",
+      "text": "The author expresses gratitude for certain experiences or individuals.",
+      "level": 1
+    },
+    {
+      "id": "14.1",
+      "text": "Expressions of appreciation for mentorship, support, or life lessons.",
+      "level": 2
+    },
+    {
+      "id": "15",
+      "text": "The author reflects on personal growth and self-discovery.",
+      "level": 1
+    },
+    {
+      "id": "15.1",
+      "text": "The process of learning about oneself through life experiences.",
+      "level": 2
+    },
+    {
+      "id": "16",
+      "text": "The author discusses their perspective on certain social or cultural phenomena.",
+      "level": 1
+    },
+    {
+      "id": "16.1",
+      "text": "Observations on societal norms, trends, or significant events.",
+      "level": 2
+    },
+    {
+      "id": "17",
+      "text": "The author contemplates the concept of 'fate' or destiny.",
+      "level": 1
+    },
+    {
+      "id": "17.1",
+      "text": "Reflections on whether life is predetermined or shaped by choices.",
+      "level": 2
+    },
+    {
+      "id": "18",
+      "text": "The author considers their identity and sense of self.",
+      "level": 1
+    },
+    {
+      "id": "18.1",
+      "text": "Exploration of personal identity through different life stages.",
+      "level": 2
+    },
+    {
+      "id": "19",
+      "text": "The author reflects on significant life lessons learned.",
+      "level": 1
+    },
+    {
+      "id": "19.1",
+      "text": "Key insights gained from experiences and relationships.",
+      "level": 2
+    },
+    {
+      "id": "20",
+      "text": "The document is written in Chinese.",
+      "level": 1
+    },
+    {
+      "id": "20.1",
+      "text": "The content is primarily prose, with personal narrative elements.",
+      "level": 2
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Time",
+      "frequency": 20,
+      "context": "References to years (1971-2007), decades, passage of time, aging, specific historical periods."
+    },
+    {
+      "name": "Self-reflection",
+      "frequency": 15,
+      "context": "Author's contemplation of life, choices, growth, identity, past experiences, and future outlook."
+    },
+    {
+      "name": "Education",
+      "frequency": 10,
+      "context": "Mentions of attending schools, universities, academic pursuits, learning, teachers, and professional development."
+    },
+    {
+      "name": "Life journey",
+      "frequency": 12,
+      "context": "Metaphorical understanding of life as a path, with its ups and downs, choices, and transformations."
+    },
+    {
+      "name": "Teacher/Mentorship",
+      "frequency": 7,
+      "context": "Significant influence of teachers or mentors on the author's life and decisions."
+    },
+    {
+      "name": "Crossing over/Transformation",
+      "frequency": 5,
+      "context": "The central theme of transition, change, new beginnings, or personal evolution."
+    },
+    {
+      "name": "UFO",
+      "frequency": 4,
+      "context": "Mention of UFOs, potentially as a personal interest, metaphor, or societal phenomenon."
+    },
+    {
+      "name": "Family/Relationships",
+      "frequency": 6,
+      "context": "Discussions about family, loved ones, and interpersonal connections."
+    },
+    {
+      "name": "Career/Profession",
+      "frequency": 5,
+      "context": "Reflections on work, professional life, achievements, and career choices."
+    },
+    {
+      "name": "Society/Culture",
+      "frequency": 4,
+      "context": "Observations on societal changes, technological advancements, and cultural trends."
+    },
+    {
+      "name": "Memories/Anecdotes",
+      "frequency": 8,
+      "context": "Specific stories, recollections, and personal experiences shared by the author."
+    },
+    {
+      "name": "Gratitude",
+      "frequency": 3,
+      "context": "Expressions of appreciation for people, experiences, or lessons learned."
+    },
+    {
+      "name": "Chinese Language",
+      "frequency": 2,
+      "context": "The primary language of the document."
+    }
+  ],
+  "relations": [
+    {
+      "source": "Time",
+      "target": "Self-reflection",
+      "type": "enables"
+    },
+    {
+      "source": "Self-reflection",
+      "target": "Life journey",
+      "type": "describes"
+    },
+    {
+      "source": "Education",
+      "target": "Teacher/Mentorship",
+      "type": "involves"
+    },
+    {
+      "source": "Teacher/Mentorship",
+      "target": "Crossing over/Transformation",
+      "type": "influences"
+    },
+    {
+      "source": "Life journey",
+      "target": "Crossing over/Transformation",
+      "type": "characterised_by"
+    },
+    {
+      "source": "Memories/Anecdotes",
+      "target": "Self-reflection",
+      "type": "provides_material_for"
+    },
+    {
+      "source": "Career/Profession",
+      "target": "Self-reflection",
+      "type": "subject_of"
+    },
+    {
+      "source": "Family/Relationships",
+      "target": "Self-reflection",
+      "type": "subject_of"
+    },
+    {
+      "source": "Society/Culture",
+      "target": "Time",
+      "type": "observed_during"
+    },
+    {
+      "source": "UFO",
+      "target": "Self-reflection",
+      "type": "element_in"
+    },
+    {
+      "source": "Gratitude",
+      "target": "Family/Relationships",
+      "type": "directed_towards"
+    },
+    {
+      "source": "Gratitude",
+      "target": "Teacher/Mentorship",
+      "type": "directed_towards"
+    },
+    {
+      "source": "Personal growth",
+      "target": "Self-reflection",
+      "type": "result_of"
+    },
+    {
+      "source": "Personal growth",
+      "target": "Education",
+      "type": "influenced_by"
+    },
+    {
+      "source": "Fate/Destiny",
+      "target": "Life journey",
+      "type": "contemplates_nature_of"
+    },
+    {
+      "source": "Identity",
+      "target": "Self-reflection",
+      "type": "subject_of"
+    },
+    {
+      "source": "Life lessons",
+      "target": "Self-reflection",
+      "type": "outcome_of"
+    },
+    {
+      "source": "Chinese Language",
+      "target": "Document",
+      "type": "is_written_in"
+    }
+  ],
+  "hierarchy": {
+    "main_topics": [
+      "Personal Narrative and Reflection",
+      "Education and Mentorship",
+      "Life's Journey and Transformation",
+      "Social and Personal Observations",
+      "Specific Life Events and Concepts"
+    ],
+    "structure": "The document follows a loosely chronological and thematic structure, moving from an overarching personal reflection to specific areas of life such as education, relationships, career, and societal observations. It incorporates anecdotes and philosophical musings throughout."
+  }
+}

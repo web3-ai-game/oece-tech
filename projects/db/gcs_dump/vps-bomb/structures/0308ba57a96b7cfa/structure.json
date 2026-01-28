@@ -1,0 +1,5122 @@
+{
+  "propositions": [
+    {
+      "id": "1",
+      "text": "Each club has a nuisance.",
+      "level": 1
+    },
+    {
+      "id": "1.1",
+      "text": "The Coronation Club is no exception.",
+      "level": 2
+    },
+    {
+      "id": "2",
+      "text": "The atmosphere in the club remained as usual, despite the enemy aircraft attack outside.",
+      "level": 1
+    },
+    {
+      "id": "3",
+      "text": "Major Porter, who had once travelled to India, cleared his throat and adjusted his newspaper.",
+      "level": 1
+    },
+    {
+      "id": "3.1",
+      "text": "Everyone quickly averted their gaze from him, but it was no use.",
+      "level": 2
+    },
+    {
+      "id": "4",
+      "text": "\"The Times has published an obituary for Gordon Claude.",
+      "level": 1
+    },
+    {
+      "id": "4.1",
+      "text": "\"It says, 'Died on October 5th from an air raid'.",
+      "level": 2
+    },
+    {
+      "id": "4.2",
+      "text": "\"The address isn't even mentioned.",
+      "level": 2
+    },
+    {
+      "id": "4.3",
+      "text": "\"To be frank, the place is just around the corner from my house, in one of those large houses on Campden Hill.\"",
+      "level": 2
+    },
+    {
+      "id": "4.4",
+      "text": "\"I was quite surprised, as you all know, I'm in the Civil Defence, and Claude had only recently returned from America.\"",
+      "level": 2
+    },
+    {
+      "id": "4.5",
+      "text": "\"He went out on government procurement and the like, and unexpectedly married a wife there, a young widow of middle age - so young she could be his daughter, Mrs. Andehai.\"",
+      "level": 2
+    },
+    {
+      "id": "4.6",
+      "text": "\"Actually, I knew her husband in Nigeria.\"",
+      "level": 2
+    },
+    {
+      "id": "5",
+      "text": "Major Porter paused, but no one was interested, nor did anyone ask him to continue.",
+      "level": 1
+    },
+    {
+      "id": "5.1",
+      "text": "Many held their newspapers high to shield their faces, but this did not discourage Major Porter.",
+      "level": 2
+    },
+    {
+      "id": "5.2",
+      "text": "He always had long, long stories to tell, with protagonists who were all nobodies.",
+      "level": 2
+    },
+    {
+      "id": "6",
+      "text": "\"How interesting!\" Major Porter said in a firm tone, while absentmindedly staring at a pair of pointed black patent leather shoes - a type of shoe he detested.",
+      "level": 1
+    },
+    {
+      "id": "7",
+      "text": "\"As I said, I'm in the Civil Defence. This explosion was ridiculous. The basement was a mess, and the roof was cracked, but the second floor was almost undamaged.",
+      "level": 1
+    },
+    {
+      "id": "7.1",
+      "text": "\"There were six people in the house: three servants, a couple of guests, and a maid, Gordon Claude, his wife, and his wife's brother.",
+      "level": 2
+    },
+    {
+      "id": "7.2",
+      "text": "\"Except for the brother-in-law - formerly a commando or something - who was resting in the bedroom, everyone else was in the basement.",
+      "level": 2
+    },
+    {
+      "id": "7.3",
+      "text": "\"Good heavens, how lucky he was! All three servants were killed in the blast, Gordon Claude was dug out of the rubble and died before reaching the hospital.",
+      "level": 2
+    },
+    {
+      "id": "7.4",
+      "text": "\"His wife was also injured, completely naked! But she managed to survive.",
+      "level": 2
+    },
+    {
+      "id": "7.5",
+      "text": "\"Now she's a rich young widow... Gordon Claude's estate is at least a million pounds!\"",
+      "level": 2
+    },
+    {
+      "id": "8",
+      "text": "Major Porter paused again, his gaze moving from the pointed shoes, striped trousers, black jacket, egg-shaped head, to the large moustache.",
+      "level": 1
+    },
+    {
+      "id": "8.1",
+      "text": "\"Must be a foreigner, no doubt!\"",
+      "level": 2
+    },
+    {
+      "id": "8.2",
+      "text": "\"No wonder he wears such strange-looking saddles.\"",
+      "level": 2
+    },
+    {
+      "id": "8.3",
+      "text": "\"Alas! What has the club come to these days?\"",
+      "level": 2
+    },
+    {
+      "id": "8.4",
+      "text": "\"Even here, you can't get rid of foreigners.\"",
+      "level": 2
+    },
+    {
+      "id": "9",
+      "text": "Although the foreigner seemed to be listening to him wholeheartedly, Major Porter's prejudice did not lessen in the least.",
+      "level": 1
+    },
+    {
+      "id": "10",
+      "text": "\"She's twenty-five at most,\" he said again, \"a widow for the second time.",
+      "level": 1
+    },
+    {
+      "id": "10.1",
+      "text": "\"Well, she certainly thinks so herself...\"",
+      "level": 2
+    },
+    {
+      "id": "11",
+      "text": "He stopped, waiting for someone to inquire out of curiosity.",
+      "level": 1
+    },
+    {
+      "id": "11.1",
+      "text": "But after a long time there was no response, so he continued on his own:",
+      "level": 2
+    },
+    {
+      "id": "12",
+      "text": "\"Honestly, I have my own opinion.",
+      "level": 1
+    },
+    {
+      "id": "12.1",
+      "text": "\"It's strange!\"",
+      "level": 2
+    },
+    {
+      "id": "12.2",
+      "text": "\"As I said, I knew her former husband - Andehai, a good man, who served as a district officer in Nigeria, extremely dedicated to his work, a truly first-class young man.\"",
+      "level": 2
+    },
+    {
+      "id": "12.3",
+      "text": "\"They were married in Capetown.",
+      "level": 2
+    },
+    {
+      "id": "12.4",
+      "text": "\"She went there to perform with a traveling troupe, was in a very desperate situation, and had no one to help her.",
+      "level": 2
+    },
+    {
+      "id": "12.5",
+      "text": "\"Hearing the poor old Andehai talk about his district and those wide, vast plains, she couldn't help but exclaim: 'Wonderful! I really want to get rid of everything from my past.'\"",
+      "level": 2
+    },
+    {
+      "id": "12.6",
+      "text": "\"So she married him, getting rid of everything from her past.\"",
+      "level": 2
+    },
+    {
+      "id": "12.7",
+      "text": "\"He loved her sincerely, the poor fellow, but she was reckless from the start.\"",
+      "level": 2
+    },
+    {
+      "id": "12.8",
+      "text": "\"She hated the bushes and was terrified of the Nigerian dialects.\"",
+      "level": 2
+    },
+    {
+      "id": "12.9",
+      "text": "\"She thought she would have a dramatic life after marrying him, associating with dignitaries.\"",
+      "level": 2
+    },
+    {
+      "id": "12.10",
+      "text": "\"Instead, she lived alone in the jungle, which was not to her taste at all.\"",
+      "level": 2
+    },
+    {
+      "id": "12.11",
+      "text": "\"Don't forget, I never saw her; these are all things Andehai told me.\"",
+      "level": 2
+    },
+    {
+      "id": "12.12",
+      "text": "\"The poor old fellow was heartbroken.\"",
+      "level": 2
+    },
+    {
+      "id": "12.13",
+      "text": "\"He did a beautiful job, sending her home and agreeing to a divorce.\"",
+      "level": 2
+    },
+    {
+      "id": "12.14",
+      "text": "\"I met him not long after his divorce.\"",
+      "level": 2
+    },
+    {
+      "id": "12.15",
+      "text": "\"He was heartbroken and wanted someone to talk to about his troubles, and in some ways, he was ridiculously conservative.\"",
+      "level": 2
+    },
+    {
+      "id": "12.16",
+      "text": "\"He was Roman Catholic and didn't like divorce.\"",
+      "level": 2
+    },
+    {
+      "id": "12.17",
+      "text": "\"He told me, 'There are other ways to free a woman.'\"",
+      "level": 2
+    },
+    {
+      "id": "12.18",
+      "text": "\"'Listen to me, old man,' I said, 'don't do anything foolish. No woman in the world is worth committing suicide for.'\"",
+      "level": 2
+    },
+    {
+      "id": "13",
+      "text": "\"He said that wasn't the case at all, 'But I have no ties, no relatives who would mourn me. If my death notice gets back, Rosaline will be a widow, just as she wishes.'\"",
+      "level": 1
+    },
+    {
+      "id": "13.1",
+      "text": "\"I asked him, 'What about yourself?'\"",
+      "level": 2
+    },
+    {
+      "id": "13.2",
+      "text": "\"He said, 'Perhaps a Mr. Ennaco Arden will appear thousands of miles away and start a new life.'\"",
+      "level": 2
+    },
+    {
+      "id": "13.3",
+      "text": "\"'I warned him,' I said, 'Perhaps one day an embarrassing situation will arise for her.'\"",
+      "level": 2
+    },
+    {
+      "id": "13.4",
+      "text": "\"'Guaranteed not to,' he said, 'I'll do it flawlessly. Robert Andehai is dead and gone.'\"",
+      "level": 2
+    },
+    {
+      "id": "14",
+      "text": "\"Well, I hadn't thought about it since then, but six months later I heard that Andehai had died of fever in the jungle.\"",
+      "level": 1
+    },
+    {
+      "id": "14.1",
+      "text": "\"His relatives and friends were very reliable, they said it convincingly, and that they had done their best.\"",
+      "level": 2
+    },
+    {
+      "id": "14.2",
+      "text": "\"Andehai's will said he worried about dying at any moment, and he highly praised the local chief, who was very loyal to him, and everyone else too, no matter what he asked them to do, they would obey him completely.\"",
+      "level": 2
+    },
+    {
+      "id": "14.3",
+      "text": "\"So that's that. Perhaps Andehai is buried in that desolate place in central Africa, but perhaps not - if that's the case, Gordon Claude might be greatly alarmed one day, and then she would get what she deserved, evil for evil.\"",
+      "level": 2
+    },
+    {
+      "id": "14.4",
+      "text": "\"I never saw her, but that kind of little gold digger. I can smell her a mile away.\"",
+      "level": 2
+    },
+    {
+      "id": "14.5",
+      "text": "\"She truly broke the heart of poor old Andehai! Isn't this story interesting?\"",
+      "level": 2
+    },
+    {
+      "id": "15",
+      "text": "Major Porter looked around expectantly, hoping for some agreement, but only saw two pairs of bored and suspicious eyes - Mr. Marland's somewhat evasive gaze and Mr. Hercule Poirot's polite attention.",
+      "level": 1
+    },
+    {
+      "id": "16",
+      "text": "Then, a grey-haired old man expressionlessly folded his newspaper, silently got up from his armchair by the fire, and quietly walked out.",
+      "level": 1
+    },
+    {
+      "id": "17",
+      "text": "Major Porter's mouth dropped open in astonishment, and Mr. Marland whistled softly.",
+      "level": 1
+    },
+    {
+      "id": "18",
+      "text": "\"Now that's a shame,\" he said, \"Do you know who that was?\"",
+      "level": 1
+    },
+    {
+      "id": "19",
+      "text": "\"God bless me!\" Major Porter said excitedly, \"I don't know him well, but of course I recognize him.",
+      "level": 1
+    },
+    {
+      "id": "19.1",
+      "text": "\"Jerome Claude, right? Gordon Claude's older brother.\"",
+      "level": 2
+    },
+    {
+      "id": "19.2",
+      "text": "\"Good heavens, I'm so unlucky! If I had known...\"",
+      "level": 2
+    },
+    {
+      "id": "20",
+      "text": "\"He's a lawyer,\" Mr. Marland said, \"I bet he'll sue you for defamation or something.\"",
+      "level": 1
+    },
+    {
+      "id": "21",
+      "text": "Young Mr. Marland was fond of making harmless jokes.",
+      "level": 1
+    },
+    {
+      "id": "22",
+      "text": "Major Porter continued to speak in an agitated voice, \"Unlucky! Truly unlucky!\"",
+      "level": 1
+    },
+    {
+      "id": "23",
+      "text": "\"By evening, everyone in the Wensley district will know about it,\" Mr. Marland said.",
+      "level": 1
+    },
+    {
+      "id": "23.1",
+      "text": "\"The Claude family will surely have a meeting tonight to discuss how to deal with you.\"",
+      "level": 2
+    },
+    {
+      "id": "24",
+      "text": "But after saying this, Mr. Marland stopped joking and gently accompanied his friend Hercule Poirot into the street.",
+      "level": 1
+    },
+    {
+      "id": "25",
+      "text": "\"The atmosphere in these clubs is truly terrible,\" he said, \"All the nuisances gather, and Porter is particularly unbearable.",
+      "level": 1
+    },
+    {
+      "id": "25.1",
+      "text": "\"He takes forty-five minutes to finish the Indian rope trick, and he even knows whose mother went to Pona in India or something!\"",
+      "level": 2
+    },
+    {
+      "id": "26",
+      "text": "This was in the autumn of 1944.",
+      "level": 1
+    },
+    {
+      "id": "27",
+      "text": "In the late spring of 1946, Hercule Poirot received a visitor.",
+      "level": 1
+    },
+    {
+      "id": "28",
+      "text": "On a pleasant and delightful morning in May, Hercule Poirot was sitting at his neat desk.",
+      "level": 1
+    },
+    {
+      "id": "28.1",
+      "text": "\"Sir, a lady wishes to see you,\" his butler, George, said respectfully in a low voice.",
+      "level": 2
+    },
+    {
+      "id": "29",
+      "text": "\"What kind of lady?\"",
+      "level": 1
+    },
+    {
+      "id": "30",
+      "text": "He always liked to hear George's accurate and detailed descriptions.",
+      "level": 1
+    },
+    {
+      "id": "31",
+      "text": "\"Around forty to fifty years old, not very neatly dressed, with an artistic air, wearing good walking shoes and speaking with an Irish accent.",
+      "level": 1
+    },
+    {
+      "id": "31.1",
+      "text": "\"Wearing a tweed suit and skirt... but the jacket has lace, and around her neck is a string of imitation Egyptian beads and a blue silk scarf.\"",
+      "level": 2
+    },
+    {
+      "id": "32",
+      "text": "Poirot shrugged slightly.",
+      "level": 1
+    },
+    {
+      "id": "33",
+      "text": "\"I think,\" he said, \"I'm not interested in seeing her.\"",
+      "level": 1
+    },
+    {
+      "id": "34",
+      "text": "\"Sir, shall I tell her you are not feeling well?\"",
+      "level": 1
+    },
+    {
+      "id": "35",
+      "text": "Poirot thought for a moment and looked at him.",
+      "level": 1
+    },
+    {
+      "id": "36",
+      "text": "\"I suppose you've already told her I'm busy and can't spare the time?\"",
+      "level": 1
+    },
+    {
+      "id": "37",
+      "text": "George coughed again and replied, \"Sir, she said she came specially from the country to see you and would wait as long as necessary.\"",
+      "level": 1
+    },
+    {
+      "id": "38",
+      "text": "Poirot sighed and said, \"Alas! What will be, will be. If a middle-aged lady with imitation Egyptian beads is determined to see the famous Hercule Poirot, and has traveled all the way from the country, she will absolutely not give up.",
+      "level": 1
+    },
+    {
+      "id": "38.1",
+      "text": "\"She won't leave without seeing me. Bring her in, George.\"",
+      "level": 2
+    },
+    {
+      "id": "39",
+      "text": "George quietly walked out and, after a moment, formally announced, \"Mrs. Claude is here.\"",
+      "level": 1
+    },
+    {
+      "id": "40",
+      "text": "- The visitor, dressed in an old tweed suit with flyaway silk hair, beamed with a smile.",
+      "level": 1
+    },
+    {
+      "id": "40.1",
+      "text": "\"Mr. Poirot!\" she said, \"I have been guided by spirits to see you.\"",
+      "level": 2
+    },
+    {
+      "id": "41",
+      "text": "Poirot blinked gently.",
+      "level": 1
+    },
+    {
+      "id": "42",
+      "text": "\"Indeed? Madam, perhaps you would like to sit down and tell me slowly...\"",
+      "level": 1
+    },
+    {
+      "id": "43",
+      "text": "He didn't get a chance to say more.",
+      "level": 1
+    },
+    {
+      "id": "44",
+      "text": "\"I have been guided in two ways, Mr. Poirot, by automatic writing and by a Ouija board.",
+      "level": 1
+    },
+    {
+      "id": "44.1",
+      "text": "\"It was the night before last.\"",
+      "level": 2
+    },
+    {
+      "id": "44.2",
+      "text": "\"Mrs. Everly (she is a remarkable woman) and I used the board together.",
+      "level": 2
+    },
+    {
+      "id": "44.3",
+      "text": "\"We kept getting the same letter combination: h. p. h. p. h. p.",
+      "level": 2
+    },
+    {
+      "id": "44.4",
+      "text": "\"Of course, I couldn't figure it out immediately; it always takes a while to understand.",
+      "level": 2
+    },
+    {
+      "id": "44.5",
+      "text": "\"You know, people living on this planet can't see clearly all at once.",
+      "level": 2
+    },
+    {
+      "id": "44.6",
+      "text": "\"I racked my brains trying to think of whose name was spelled by these two letters.",
+      "level": 2
+    },
+    {
+      "id": "44.7",
+      "text": "\"I'm sure it has something to do with the last séance - that feeling was very strong, but I only realized it later.\"",
+      "level": 2
+    },
+    {
+      "id": "44.8",
+      "text": "\"Then I bought a copy of 'The Illustrated Post' (you see, another spiritual guidance, otherwise I would have bought 'The New Statesman'), which had your photo and a clear introduction to your past achievements.\"",
+      "level": 2
+    },
+    {
+      "id": "44.9",
+      "text": "\"Everything must have a purpose, don't you think it's magical, Mr. Poirot?\"",
+      "level": 2
+    },
+    {
+      "id": "44.10",
+      "text": "\"Needless to say, the spirits have intentionally appointed you to explain this matter.\"",
+      "level": 2
+    },
+    {
+      "id": "45",
+      "text": "Poirot observed her thoughtfully.",
+      "level": 1
+    },
+    {
+      "id": "45.1",
+      "text": "\"Strangely, what attracted his attention the most was her pair of very shrewd light blue eyes.\"",
+      "level": 2
+    },
+    {
+      "id": "45.2",
+      "text": "\"This made her disorganized way of explaining seem to have a focus.\"",
+      "level": 2
+    },
+    {
+      "id": "46",
+      "text": "\"So what -- Claude -- Mrs. Claude, right?\" he frowned, \"I seem to have heard this surname before --\"",
+      "level": 1
+    },
+    {
+      "id": "47",
+      "text": "She nodded vigorously.",
+      "level": 1
+    },
+    {
+      "id": "48",
+      "text": "\"My uncle... Gordon Claude... was very wealthy, and he was often mentioned in the papers.",
+      "level": 1
+    },
+    {
+      "id": "48.1",
+      "text": "\"He was killed in an air raid more than a year ago -- we were all very shocked.",
+      "level": 2
+    },
+    {
+      "id": "48.2",
+      "text": "\"My husband is his younger brother, a doctor, Dr. Linneil Claude.\"",
+      "level": 2
+    },
+    {
+      "id": "48.3",
+      "text": "\"Of course,\" she lowered her voice, \"he doesn't know I'm here to consult you, otherwise he would never agree.\"",
+      "level": 2
+    },
+    {
+      "id": "48.4",
+      "text": "\"I find doctors' eyes to be very practical, and they find the spirit world incredible.\"",
+      "level": 2
+    },
+    {
+      "id": "48.5",
+      "text": "\"They only believe in science, but if you ask me, what is science -- what can it do?\"",
+      "level": 2
+    },
+    {
+      "id": "49",
+      "text": "Hercule Poirot felt that other than patiently and thoroughly explaining the benefits of various ingenious household appliances invented by scientists like Pasteur and Lister, there was no other answer to this question.",
+      "level": 1
+    },
+    {
+      "id": "49.1",
+      "text": "\"But Mrs. Hercule Poirot would certainly not want to hear such an answer.",
+      "level": 2
+    },
+    {
+      "id": "49.2",
+      "text": "\"In fact, her question, like many others, was not a question at all, but merely a pretense.\"",
+      "level": 2
+    },
+    {
+      "id": "50",
+      "text": "Hercule Poirot asked her concisely, \"How can I help you, Mrs. Claude?\"",
+      "level": 1
+    },
+    {
+      "id": "51",
+      "text": "\"Do you believe in the supernatural, Mr. Poirot?\"",
+      "level": 1
+    },
+    {
+      "id": "52",
+      "text": "\"I am a devout Catholic,\" Poirot said cautiously.",
+      "level": 1
+    },
+    {
+      "id": "53",
+      "text": "Mrs. Claude waved her hand with a sympathetic smile and said, \"Blind! The church is blind -- prejudice, stupidity, unwillingness to accept the truth and beauty of another world.\"",
+      "level": 1
+    },
+    {
+      "id": "54",
+      "text": "\"I have an important appointment at twelve o'clock,\" Poirot said.",
+      "level": 1
+    },
+    {
+      "id": "55",
+      "text": "This was perfectly timed. Mrs. Claude leaned forward and said, \"Then I must get to the point quickly, Mr. Poirot, can you find missing people?\"",
+      "level": 1
+    },
+    {
+      "id": "56",
+      "text": "Poirot raised an eyebrow.",
+      "level": 1
+    },
+    {
+      "id": "57",
+      "text": "\"It's possible... well,\" he said cautiously, \"but my dear Mrs. Claude, it would be much more convenient for the police to investigate than me.",
+      "level": 1
+    },
+    {
+      "id": "57.1",
+      "text": "\"They have all the necessary equipment.\"",
+      "level": 2
+    },
+    {
+      "id": "58",
+      "text": "Mrs. Claude waved her hand dismissively again.",
+      "level": 1
+    },
+    {
+      "id": "59",
+      "text": "\"No, Mr. Poirot, I was guided to you for a solution.",
+      "level": 1
+    },
+    {
+      "id": "59.1",
+      "text": "\"Listen, my uncle Gordon married a young widow, Mrs. Andehai, a few weeks before he died.",
+      "level": 2
+    },
+    {
+      "id": "59.2",
+      "text": "\"It is said that her former husband died in Africa (poor child, she must have been heartbroken), Africa - a mysterious country.\"",
+      "level": 2
+    },
+    {
+      "id": "60",
+      "text": "\"Mysterious 'continent',\" Poirot corrected her, \"Perhaps. Where in Africa...\"",
+      "level": 1
+    },
+    {
+      "id": "61",
+      "text": "She immediately interjected, \"Central Africa, the birthplace of voodoo and the scriptures that believe in the power of resurrection of the dead...\"",
+      "level": 1
+    },
+    {
+      "id": "62",
+      "text": "\"Belief in the resurrection of the dead is a West Indian thing.\"",
+      "level": 1
+    },
+    {
+      "id": "63",
+      "text": "Mrs. Claude interrupted again, \"And witchcraft, all sorts of unspeakable mysterious rituals, a place where a person might disappear and never be seen again.\"",
+      "level": 1
+    },
+    {
+      "id": "64",
+      "text": "\"Yes, yes,\" Poirot said, \"but the same goes for Piccadilly Circus in London.\"",
+      "level": 1
+    },
+    {
+      "id": "65",
+      "text": "Mrs. Claude waved her hand again, disdainful of hearing about Piccadilly Circus.",
+      "level": 1
+    },
+    {
+      "id": "66",
+      "text": "\"I've had two experiences recently, Mr. Poirot, receiving messages from a ghost named Robert; each time the message was the same, 'Not dead yet'.\"",
+      "level": 1
+    },
+    {
+      "id": "66.1",
+      "text": "\"We found it strange because we didn't know anyone named Robert.\"",
+      "level": 2
+    },
+    {
+      "id": "66.2",
+      "text": "\"When we asked further, we got 'r. u. r. u. r. u.', and then 'Tell r. u., tell r.'\"",
+      "level": 2
+    },
+    {
+      "id": "66.3",
+      "text": "\"We asked: 'Is it to tell Robert?' 'No, it's Robert who wants to tell you something, r. u.'\"",
+      "level": 2
+    },
+    {
+      "id": "66.4",
+      "text": "\"We asked: 'What does u stand for?'\"",
+      "level": 2
+    },
+    {
+      "id": "66.5",
+      "text": "\"Next, Mr. Poirot, the most important answer came: 'Little boy in blue, little boy in blue, hahaha!'\"",
+      "level": 2
+    },
+    {
+      "id": "66.6",
+      "text": "\"Do you understand?\"",
+      "level": 2
+    },
+    {
+      "id": "67",
+      "text": "\"No,\" Poirot said, \"I don't understand.\"",
+      "level": 1
+    },
+    {
+      "id": "68",
+      "text": "She looked at him with pity.",
+      "level": 1
+    },
+    {
+      "id": "69",
+      "text": "\"There's a nursery rhyme called 'Little Boy in Blue', which says he 'sleeps under the haystack'.\"",
+      "level": 1
+    },
+    {
+      "id": "69.1",
+      "text": "\"The surname Andehai means 'under the haystack'. Now you understand, don't you?\"",
+      "level": 2
+    },
+    {
+      "id": "70",
+      "text": "Poirot nodded, doing his best to suppress the questions in his mind!",
+      "level": 1
+    },
+    {
+      "id": "70.1",
+      "text": "\"If the surname Robert can be spelled out directly by letters, why should 'Andehai' be so mysterious and hidden?\"",
+      "level": 2
+    },
+    {
+      "id": "71",
+      "text": "\"My sister-in-law's name is Rosaline,\" Mrs. Claude said triumphantly, \"Do you understand? No wonder we were confused by the letter 'r'. Now we finally understand, that ghost must have said: 'Tell Rosaline, Robert Andehai is not dead.'\"",
+      "level": 1
+    },
+    {
+      "id": "72",
+      "text": "\"Ah, so you told her?\"",
+      "level": 1
+    },
+    {
+      "id": "73",
+      "text": "Mrs. Claude seemed a little surprised.",
+      "level": 1
+    },
+    {
+      "id": "74",
+      "text": "\"Oh... well... no. You know... I mean, people are very skeptical, and I believe Rosaline must be the same.",
+      "level": 1
+    },
+    {
+      "id": "74.1",
+      "text": "\"And besides, if I told her, she might be very uneasy, wondering where he is -- what he's doing.\"",
+      "level": 2
+    },
+    {
+      "id": "75",
+      "text": "\"But he can talk from the sky? Well, that's a rather strange way to explain that he's still alive, isn't it?\"",
+      "level": 1
+    },
+    {
+      "id": "76",
+      "text": "\"Oh, Mr. Poirot, you don't understand our world well enough.",
+      "level": 1
+    },
+    {
+      "id": "76.1",
+      "text": "\"Moreover, how would we know what the actual situation is?\"",
+      "level": 2
+    },
+    {
+      "id": "76.2",
+      "text": "\"Poor Colonel Andehai (or perhaps Major) might be imprisoned in some dark corner of Africa.\"",
+      "level": 2
+    },
+    {
+      "id": "76.3",
+      "text": "\"If he could be found and returned to his dear little Rosaline, imagine how happy she would be!\"",
+      "level": 2
+    },
+    {
+      "id": "76.4",
+      "text": "\"Oh, Mr. Poirot, it was the spirits who guided me to you, you won't refuse the request of the spiritual world, will you?\"",
+      "level": 2
+    },
+    {
+      "id": "77",
+      "text": "Poirot looked at her thoughtfully for a moment.",
+      "level": 1
+    },
+    {
+      "id": "78",
+      "text": "\"My fees are quite high,\" he said, \"even very high! And the job you're asking for is not easy.\"",
+      "level": 1
+    },
+    {
+      "id": "79",
+      "text": "\"Oh, heavens... how unfortunate! My husband and I are poor... very poor.",
+      "level": 1
+    },
+    {
+      "id": "79.1",
+      "text": "\"Honestly, my own situation is worse than my husband knows.",
+      "level": 2
+    },
+    {
+      "id": "79.2",
+      "text": "\"I bought some stocks under spiritual guidance, but so far, the situation has not been optimistic - in fact, it's terrible.",
+      "level": 2
+    },
+    {
+      "id": "79.3",
+      "text": "\"The stocks have been falling, and I don't think they can even be sold now.\"",
+      "level": 2
+    },
+    {
+      "id": "80",
+      "text": "She looked at him with those disappointed blue eyes.",
+      "level": 1
+    },
+    {
+      "id": "81",
+      "text": "\"I haven't even dared to tell my husband about this, but I've told you, just to explain my current situation.",
+      "level": 1
+    },
+    {
+      "id": "81.1",
+      "text": "\"But of course, dear Mr. Poirot, if a young couple can be reunited, it is a noble mission...\"",
+      "level": 2
+    },
+    {
+      "id": "82",
+      "text": "\"My dear lady, noble character alone cannot cover train and plane fares, nor telegrams, inquiries of witnesses, etc., all of which are very expensive.\"",
+      "level": 1
+    },
+    {
+      "id": "83",
+      "text": "\"But if he can be found - if Colonel Andehai can be brought back alive, then, I can guarantee... it will definitely be... uh... I can repay you.\"",
+      "level": 1
+    },
+    {
+      "id": "84",
+      "text": "\"Oh, this Colonel Andehai seems to be very wealthy then?\"",
+      "level": 1
+    },
+    {
+      "id": "85",
+      "text": "\"Oh, no, not at all, but I guarantee... I can guarantee... uh... that there will be no problem with money.\"",
+      "level": 1
+    },
+    {
+      "id": "86",
+      "text": "Poirot slowly shook his head.",
+      "level": 1
+    },
+    {
+      "id": "87",
+      "text": "\"I'm sorry, madam, I cannot accept.\"",
+      "level": 1
+    },
+    {
+      "id": "88",
+      "text": "With great difficulty, she finally left.",
+      "level": 1
+    },
+    {
+      "id": "88.1",
+      "text": "Poirot stood up, frowning in thought.",
+      "level": 2
+    },
+    {
+      "id": "88.2",
+      "text": "\"At this moment, he finally remembered why the surname Claude sounded so familiar.\"",
+      "level": 2
+    },
+    {
+      "id": "88.3",
+      "text": "\"What he heard at the club that day during the air raid returned to his mind.",
+      "level": 2
+    },
+    {
+      "id": "88.4",
+      "text": "\"The scene of Major Porter chattering incessantly in a high, annoying tone about the story no one wanted to hear, as if it were vividly before his eyes again.\"",
+      "level": 2
+    },
+    {
+      "id": "88.5",
+      "text": "\"He remembered the rustling of the newspaper and Major Porter's surprised expression as his mouth suddenly dropped open.\"",
+      "level": 2
+    },
+    {
+      "id": "88.6",
+      "text": "\"But what worried him was the enthusiastic middle-aged woman who had just left.",
+      "level": 2
+    },
+    {
+      "id": "88.7",
+      "text": "\"That calm mediumistic demeanor, the ambiguity in her words, the flying silk scarf, the tinkling necklace, and the shrewdness in the light blue eyes that were so incongruous with these.\"",
+      "level": 2
+    },
+    {
+      "id": "88.8",
+      "text": "\"Why did she come to me?\" he murmured to himself, \"What happened? That place is called --\"",
+      "level": 2
+    },
+    {
+      "id": "88.9",
+      "text": "\"He looked down at the business card on his desk - 'Wensley Village'.\"",
+      "level": 2
+    },
+    {
+      "id": "89",
+      "text": "Five whole days later, he saw a small news item in the evening paper stating that a man named Ennaco Arden had died in Wensley Village, three miles from the famous Wensley Golf Course, in an old village.",
+      "level": 1
+    },
+    {
+      "id": "90",
+      "text": "Hercule Poirot murmured again, \"I wonder what happened in Wensley Village?\"",
+      "level": 1
+    },
+    {
+      "id": "91",
+      "text": "The Wensley district includes a golf course, two hotels, several expensive and fashionable villas, a row of shops that were once luxurious before the war, and a train station.",
+      "level": 1
+    },
+    {
+      "id": "92",
+      "text": "To the left of the train station is a main road leading to London, and to the right, beyond the open space, is the entrance to a small path, with a signpost - 'Wensley Village Path'.",
+      "level": 1
+    },
+    {
+      "id": "93",
+      "text": "Wensley Village is hidden deep in a wooded hilly area, and compared to Wensley District, it's like heaven and earth.",
+      "level": 1
+    },
+    {
+      "id": "93.1",
+      "text": "\"In general, it used to be a small market town, and now it's just a small village.\"",
+      "level": 2
+    },
+    {
+      "id": "93.2",
+      "text": "\"The main street has some Georgian houses, a few pubs, and some outdated shops.\"",
+      "level": 2
+    },
+    {
+      "id": "93.3",
+      "text": "\"It looks like it's a hundred and fifty miles from London, not just twenty-eight miles.\"",
+      "level": 2
+    },
+    {
+      "id": "94",
+      "text": "The villagers all disdained the rapid development of the Wensley District.",
+      "level": 1
+    },
+    {
+      "id": "95",
+      "text": "On the outskirts of the village are some lovely houses and pleasant old-fashioned gardens.",
+      "level": 1
+    },
+    {
+      "id": "95.1",
+      "text": "\"In the late spring of 1946, Ains Layce Marcom left the Women's Royal Naval Service and returned home to one of these houses - the White House.\"",
+      "level": 2
+    },
+    {
+      "id": "96",
+      "text": "Three mornings after returning home, she looked out of her bedroom window, across the not-so-neat golf course, and could see the elm trees on the lawn on the other side.",
+      "level": 1
+    },
+    {
+      "id": "96.1",
+      "text": "\"Ainsley breathed in the fresh air happily.\"",
+      "level": 2
+    },
+    {
+      "id": "96.2",
+      "text": "\"It was a gentle grey morning, and the air still carried the scent of damp earth, a fragrance she had missed every moment for the past two and a half years.\"",
+      "level": 2
+    },
+    {
+      "id": "97",
+      "text": "It was so good to be back home.",
+      "level": 1
+    },
+    {
+      "id": "97.1",
+      "text": "\"When she was abroad, she often missed her small bedroom, and now she was finally back.\"",
+      "level": 2
+    },
+    {
+      "id": "97.2",
+      "text": "\"It felt good to take off her uniform and wear a tweed skirt and blouse again, even if the naval combat uniform was a bit too busy during the war!\"",
+      "level": 2
+    },
+    {
+      "id": "98",
+      "text": "It was good to be free again after leaving the Women's Royal Naval Service - although she did enjoy her time working abroad.",
+      "level": 1
+    },
+    {
+      "id": "98.1",
+      "text": "\"The work itself was quite interesting, with parties held from time to time, and many funny and happy events; but of course, there was also the daily routine that couldn't be escaped, and companions who were rushed together like being driven by ducks, with no chance to be alone.\"",
+      "level": 2
+    },
+    {
+      "id": "99",
+      "text": "During that long, hot summer in the East, she particularly missed Wensley Village and this old, cool, but comfortable old house, and of course, her dear mother.",
+      "level": 1
+    },
+    {
+      "id": "100",
+      "text": "Ainsley felt both love and annoyance towards her mother.",
+      "level": 1
+    },
+    {
+      "id": "100.1",
+      "text": "\"When she was far from home, she only loved her, putting aside her annoyances, and even when they came to mind sometimes, they only added to her homesickness.\"",
+      "level": 2
+    },
+    {
+      "id": "100.2",
+      "text": "\"Dear Mummy, she's really annoying! Oh! Finally home, and never have to leave again, how wonderful!\"",
+      "level": 2
+    },
+    {
+      "id": "101",
+      "text": "Now, she had left the army and returned to the White House freely.",
+      "level": 1
+    },
+    {
+      "id": "101.1",
+      "text": "\"But she had only been back for three days, and a strange, restless, and uneasy feeling was stirring within her.\"",
+      "level": 2
+    },
+    {
+      "id": "101.2",
+      "text": "\"Everything was the same as before, even too much the same - this house, Mummy, Rory, the farm, the whole family.",
+      "level": 2
+    },
+    {
+      "id": "101.3",
+      "text": "\"The only difference - and it shouldn't be different - was herself.\"",
+      "level": 2
+    },
+    {
+      "id": "102",
+      "text": "\"My dear,\" Mrs. Marcom's faint voice called from downstairs, \"Would you like me to bring my daughter a good breakfast in bed?\"",
+      "level": 1
+    },
+    {
+      "id": "103",
+      "text": "Ainsley replied loudly, \"Certainly not, I'll be down right away.\"",
+      "level": 1
+    },
+    {
+      "id": "104",
+      "text": "She thought: Why did Mummy say 'my daughter'? How ridiculous!",
+      "level": 1
+    },
+    {
+      "id": "105",
+      "text": "She ran downstairs to the dining room. The breakfast wasn't very good, and Ainsley knew she had come at the wrong time and was not in the right frame of mind for good food.",
+      "level": 1
+    },
+    {
+      "id": "105.1",
+      "text": "\"Besides the reliable woman who came to clean four mornings a week, there was only Mrs. Marcom to cook and clean.\"",
+      "level": 2
+    },
+    {
+      "id": "105.2",
+      "text": "\"Ainsley was born when she was over forty and not in good health.\"",
+      "level": 2
+    },
+    {
+      "id": "105.3",
+      "text": "\"Furthermore, Ainsley was also a little disappointed to find that their financial situation had changed.\"",
+      "level": 2
+    },
+    {
+      "id": "106",
+      "text": "The small but stable income before the war would have allowed them to live comfortably, but now nearly half of it was consumed by taxes.",
+      "level": 1
+    },
+    {
+      "id": "106.1",
+      "text": "\"Prices, wages, everything had gone up.\"",
+      "level": 2
+    },
+    {
+      "id": "107",
+      "text": "\"Oh! Brave new world,\" Ainsley thought, while casually glancing at the newspaper.",
+      "level": 1
+    },
+    {
+      "id": "107.1",
+      "text": "\"Former ATS personnel seeking positions with initiative.\"",
+      "level": 2
+    },
+    {
+      "id": "107.2",
+      "text": "\"Former WRNS personnel seeking positions requiring organizational skills and authority.\"",
+      "level": 2
+    },
+    {
+      "id": "108",
+      "text": "Enterprise, initiative, authority - these are the qualities sought by job seekers, but what do employers need?",
+      "level": 1
+    },
+    {
+      "id": "108.1",
+      "text": "\"Someone who can cook, clean, or take good shorthand, in short, someone who works hard and is willing to put in the effort.\"",
+      "level": 2
+    },
+    {
+      "id": "109",
+      "text": "Well, none of this affected her; her future was already set - marrying her cousin, Rory Claude.",
+      "level": 1
+    },
+    {
+      "id": "109.1",
+      "text": "\"They had been engaged seven years ago, just before the outbreak of the war.\"",
+      "level": 2
+    },
+    {
+      "id": "109.2",
+      "text": "\"As far as she could remember, she had always been willing to marry Rory.\"",
+      "level": 2
+    },
+    {
+      "id": "109.3",
+      "text": "\"His chosen career as a farmer was something she had also tacitly agreed to.",
+      "level": 2
+    },
+    {
+      "id": "109.4",
+      "text": "\"This life might not be exciting and could be quite tough, but it was a good way of life, and they both liked open spaces, fresh air, and caring for animals.\"",
+      "level": 2
+    },
+    {
+      "id": "110",
+      "text": "But now the situation was different from what they had expected when they first got engaged, not as Uncle Gordon had promised - Mrs. Marcom's voice said sadly from across the table.",
+      "level": 1
+    },
+    {
+      "id": "111",
+      "text": "\"My dear Ainsley, as I told you in my letter, this blow was too terrible for me.",
+      "level": 1
+    },
+    {
+      "id": "111.1",
+      "text": "\"Gordon had only been back in Britain for two days, and we hadn't even seen him.",
+      "level": 2
+    },
+    {
+      "id": "111.2",
+      "text": "\"If he hadn't stayed in London and come straight here...\"",
+      "level": 2
+    },
+    {
+      "id": "112",
+      "text": "\"Yes, if only that were the case...\"",
+      "level": 1
+    },
+    {
+      "id": "113",
+      "text": "At the time, Ainsley, despite being abroad, was very shocked and saddened by her uncle's death, but she didn't truly grasp the real meaning of it until she returned home.",
+      "level": 1
+    },
+    {
+      "id": "114",
+      "text": "As far back as she could remember, her life, and the lives of all their relatives, had been influenced by Gordon Claude - that rich, lonely old man who protected all his relatives under his wing.",
+      "level": 1
+    },
+    {
+      "id": "115",
+      "text": "Even Rory, who was working on the farm with his friend Johnny Weavison.",
+      "level": 1
+    },
+    {
+      "id": "115.1",
+      "text": "\"They had very little capital, but they were full of hope and drive, and they had Gordon Claude's permission.\"",
+      "level": 2
+    },
+    {
+      "id": "116",
+      "text": "To her, he had said more clearly.",
+      "level": 1
+    },
+    {
+      "id": "117",
+      "text": "\"Without capital, the farm cannot develop at all, but the most important thing is to see if these two boys really have the determination and drive.\"",
+      "level": 1
+    },
+    {
+      "id": "117.1",
+      "text": "\"If I were to set up the farm for them now, it might not show this for many years.\"",
+      "level": 2
+    },
+    {
+      "id": "117.2",
+      "text": "\"As long as they work hard and do their best, and as long as I feel they've tried their hardest, Ainsley, you don't have to worry.",
+      "level": 2
+    },
+    {
+      "id": "117.3",
+      "text": "\"I'll help them when the time is right.",
+      "level": 2
+    },
+    {
+      "id": "117.4",
+      "text": "\"So don't think you're hopeless, my good girl.",
+      "level": 2
+    },
+    {
+      "id": "117.5",
+      "text": "\"You are exactly the wife Rory needs, but for now, keep these words to yourself, don't tell anyone.'\"",
+      "level": 2
+    },
+    {
+      "id": "118",
+      "text": "So she did as he said, but Rory himself had long felt that his uncle was kindly waiting to help him, and all he had to do was prove that he and Johnny were worth investing in.",
+      "level": 1
+    },
+    {
+      "id": "119",
+      "text": "Yes, they all relied on Gordon Claude, but this did not mean that anyone in this family was a parasite or lazy.",
+      "level": 1
+    },
+    {
+      "id": "119.1",
+      "text": "\"Jerome Claude was a minor shareholder in a law firm, and Linneil Claude was a practicing doctor.\"",
+      "level": 2
+    },
+    {
+      "id": "120",
+      "text": "But even though they all had their own jobs, psychologically, they always felt someone was supporting them from behind, and they didn't need to be too frugal or save, because their future was guaranteed.",
+      "level": 1
+    },
+    {
+      "id": "120.1",
+      "text": "\"Gordon Claude, who had no offspring, simply arranged everything for them.\"",
+      "level": 2
+    },
+    {
+      "id": "120.2",
+      "text": "\"He himself told them this more than once.\"",
+      "level": 2
+    },
+    {
+      "id": "121",
+      "text": "His widowed sister, Adela Marcom, could have moved into a smaller house and saved some expenses, but she still lived in the 'White House' and sent Ainsley to the best schools.",
+      "level": 1
+    },
+    {
+      "id": "121.1",
+      "text": "\"If not for the war, she would have received any expensive training she wanted.\"",
+      "level": 2
+    },
+    {
+      "id": "121.2",
+      "text": "\"Uncle Gordon kept sending them checks, so they could live a comfortable life.",
+      "level": 2
+    },
+    {
+      "id": "122",
+      "text": "Everything seemed so stable, so worry-free.",
+      "level": 1
+    },
+    {
+      "id": "122.1",
+      "text": "\"But suddenly, Gordon Claude unexpectedly remarried.\"",
+      "level": 2
+    },
+    {
+      "id": "123",
+      "text": "\"Of course, dear,\" Adela Marcom said, \"we were all shocked because we were convinced that Gordon would never remarry.\"",
+      "level": 1
+    },
+    {
+      "id": "123.1",
+      "text": "\"You know, he seemed to like to be unburdened, and didn't plan to remarry and worry.\"",
+      "level": 2
+    },
+    {
+      "id": "124",
+      "text": "Yes, Ainsley thought, there were already too many families for him to worry about, even too many.",
+      "level": 1
+    },
+    {
+      "id": "125",
+      "text": "\"He was always so considerate,\" Mrs. Marcom said again, \"just a little overbearing sometimes.",
+      "level": 1
+    },
+    {
+      "id": "125.1",
+      "text": "\"He disliked eating at a bare table the most and always made me spread that old-fashioned tablecloth.",
+      "level": 2
+    },
+    {
+      "id": "125.2",
+      "text": "\"Actually, when he was in Italy, he even gave me the most beautiful Venetian lace tablecloth!\"",
+      "level": 2
+    },
+    {
+      "id": "126",
+      "text": "\"That suited his taste perfectly,\" Ainsley said casually, and asked curiously, \"How did he meet this... wife? You never mentioned it in your letter.\"",
+      "level": 1
+    },
+    {
+      "id": "127",
+      "text": "\"Oh, dear, probably met on a ship or plane.",
+      "level": 1
+    },
+    {
+      "id": "127.1",
+      "text": "\"I think it was on the journey from South America to New York.\"",
+      "level": 2
+    },
+    {
+      "id": "127.2",
+      "text": "\"So many years!\"",
+      "level": 2
+    },
+    {
+      "id": "127.3",
+      "text": "\"He actually remarried!\"",
+      "level": 2
+    },
+    {
+      "id": "127.4",
+      "text": "\"So many secretaries, typists, housekeepers, none of them moved him!\"",
+      "level": 2
+    },
+    {
+      "id": "128",
+      "text": "Ainsley smiled slightly.",
+      "level": 1
+    },
+    {
+      "id": "128.1",
+      "text": "\"From the time she could remember, Gordon Claude's female secretaries, housekeepers, and office staff had been under the close scrutiny and suspicion of their family.\"",
+      "level": 2
+    },
+    {
+      "id": "129",
+      "text": "She asked curiously again, \"Was she probably very beautiful?\"",
+      "level": 1
+    },
+    {
+      "id": "130",
+      "text": "\"Oh, dear,\" Adela Marcom said, \"I thought her face was a bit dull.\"",
+      "level": 1
+    },
+    {
+      "id": "131",
+      "text": "\"You're not a man, Mom.\"",
+      "level": 1
+    },
+    {
+      "id": "132",
+      "text": "\"Of course,\" Mrs. Marcom said, \"that poor girl was frightened by the explosion, and I don't think she's recovered yet.\"",
+      "level": 1
+    },
+    {
+      "id": "132.1",
+      "text": "\"She's nervous, do you understand what I mean?\"",
+      "level": 2
+    },
+    {
+      "id": "132.2",
+      "text": "\"Honestly, sometimes she looks like an idiot.\"",
+      "level": 2
+    },
+    {
+      "id": "132.3",
+      "text": "\"I think poor Gordon may not have found her a good companion either.\"",
+      "level": 2
+    },
+    {
+      "id": "133",
+      "text": "Ainsley smiled slightly again, she believed that Gordon Claude would not choose a woman for her intelligence given her much younger age.",
+      "level": 1
+    },
+    {
+      "id": "134",
+      "text": "\"One more thing, dear,\" Mrs. Marcom lowered her voice, \"I really don't want to say it, but she's really not a lady!\"",
+      "level": 1
+    },
+    {
+      "id": "135",
+      "text": "\"Mom, what era is this, still talking about such terms! Does it matter if someone is a lady these days?\"",
+      "level": 1
+    },
+    {
+      "id": "136",
+      "text": "\"It still matters in the countryside, dear,\" Mrs. Marcom said calmly, \"I'm just saying she's not our type.\"",
+      "level": 1
+    },
+    {
+      "id": "137",
+      "text": "\"Poor little thing!\"",
+      "level": 1
+    },
+    {
+      "id": "138",
+      "text": "\"Ainsley, I don't understand what you mean! For Gordon's sake, we all cautiously showed her liking and politeness.\"",
+      "level": 1
+    },
+    {
+      "id": "139",
+      "text": "\"So she's in Furabranro now?\" Ainsley asked.",
+      "level": 1
+    },
+    {
+      "id": "140",
+      "text": "\"Well, of course.",
+      "level": 1
+    },
+    {
+      "id": "140.1",
+      "text": "\"Otherwise, where could she go after leaving the sanatorium?\"",
+      "level": 2
+    },
+    {
+      "id": "140.2",
+      "text": "\"The doctor told her to leave London, so she went to live with her brother in Furabran.\"",
+      "level": 2
+    },
+    {
+      "id": "141",
+      "text": "\"What does he look like?\" Ainsley asked.",
+      "level": 1
+    },
+    {
+      "id": "142",
+      "text": "\"Terrifying!\" Mrs. Marcom paused, and then added excitedly, \"Extremely rude.\"",
+      "level": 1
+    },
+    {
+      "id": "143",
+      "text": "Ainsley felt a sudden surge of sympathy in her heart.",
+      "level": 1
+    },
+    {
+      "id": "143.1",
+      "text": "\"If it were me, I'd be the same!\"",
+      "level": 2
+    },
+    {
+      "id": "143.2",
+      "text": "\"What's his name?\"",
+      "level": 2
+    },
+    {
+      "id": "144",
+      "text": "\"Hunt, David Hunt.",
+      "level": 1
+    },
+    {
+      "id": "144.1",
+      "text": "\"I think he's Irish.\"",
+      "level": 2
+    },
+    {
+      "id": "144.2",
+      "text": "\"People of their kind, of course, no one has heard of them.\"",
+      "level": 2
+    },
+    {
+      "id": "144.3",
+      "text": "\"She's a widow - Mrs. Andehai.\"",
+      "level": 2
+    },
+    {
+      "id": "144.4",
+      "text": "\"I don't mean to be picky, but who wouldn't ask - which widow would travel alone from South America during wartime?\"",
+      "level": 2
+    },
+    {
+      "id": "144.5",
+      "text": "\"You know, people can't help but think: she must have deliberately come out to catch a rich husband.\"",
+      "level": 2
+    },
+    {
+      "id": "145",
+      "text": "\"Well, she didn't waste her effort then,\" Ainsley said.",
+      "level": 1
+    },
+    {
+      "id": "146",
+      "text": "Mrs. Marcom sighed.",
+      "level": 1
+    },
+    {
+      "id": "147",
+      "text": "\"It's strange, Gordon has always been so shrewd, and he hasn't been tempted by other women before, like his last secretary.\"",
+      "level": 1
+    },
+    {
+      "id": "147.1",
+      "text": "\"She was very eye-catching.",
+      "level": 2
+    },
+    {
+      "id": "147.2",
+      "text": "\"I think... she was very capable, but he still got rid of her.\"",
+      "level": 2
+    },
+    {
+      "id": "148",
+      "text": "Ainsley said vaguely, \"I guess sometimes someone loses.\"",
+      "level": 1
+    },
+    {
+      "id": "149",
+      "text": "\"Sixty-two years old,\" Mrs. Marcom said, \"a dangerous age, I think there was a struggle at some point.\"",
+      "level": 1
+    },
+    {
+      "id": "149.1",
+      "text": "\"You don't know, we were all shocked when we received his letter from New York.\"",
+      "level": 2
+    },
+    {
+      "id": "150",
+      "text": "\"What did the letter say?\"",
+      "level": 1
+    },
+    {
+      "id": "151",
+      "text": "\"The letter was written to Frances, and I really don't understand why.",
+      "level": 1
+    },
+    {
+      "id": "151.1",
+      "text": "\"Maybe he thought someone of her background would be more sympathetic to him.\"",
+      "level": 2
+    },
+    {
+      "id": "151.2",
+      "text": "\"He said we might be surprised to hear of his marriage, and that it was indeed a bit sudden, but he believed we would gradually come to like Rosaline.\"",
+      "level": 2
+    },
+    {
+      "id": "151.3",
+      "text": "\"Her name is quite dramatic, don't you think? Dear.",
+      "level": 2
+    },
+    {
+      "id": "151.4",
+      "text": "\"So fake.\"",
+      "level": 2
+    },
+    {
+      "id": "151.5",
+      "text": "\"He said her fate was tragic, and despite her young age, she had already experienced many of life's sufferings.\"",
+      "level": 2
+    },
+    {
+      "id": "151.6",
+      "text": "\"It's really brave that she can stand up strong.\"",
+      "level": 2
+    },
+    {
+      "id": "152",
+      "text": "\"Cliché,\" Ainsley murmured.",
+      "level": 1
+    },
+    {
+      "id": "153",
+      "text": "\"Oh, yes, I agree, we've heard too many such stories.\"",
+      "level": 1
+    },
+    {
+      "id": "153.1",
+      "text": "\"But who would have thought that someone as experienced as Gordon... alas, it's done, there's nothing more to say.\"",
+      "level": 2
+    },
+    {
+      "id": "153.2",
+      "text": "\"She has a pair of big blue eyes - dark blue.\"",
+      "level": 2
+    },
+    {
+      "id": "154",
+      "text": "\"Charming?\"",
+      "level": 1
+    },
+    {
+      "id": "155",
+      "text": "\"Well, yes, she is indeed beautiful, but not the type I appreciate.\"",
+      "level": 1
+    },
+    {
+      "id": "156",
+      "text": "\"Never could be,\" Ainsley smiled faintly.",
+      "level": 1
+    },
+    {
+      "id": "157",
+      "text": "\"No, dear. Honestly, men... well, men have no standards to measure by, even the most rational men sometimes do unbelievable foolish things!\"",
+      "level": 1
+    },
+    {
+      "id": "157.1",
+      "text": "\"Gordon's letter also said that we should never think we would lose him from now on, and that he would still consider taking care of us as his special duty.\"",
+      "level": 2
+    },
+    {
+      "id": "158",
+      "text": "\"But,\" Ainsley said, \"he didn't make a new will after getting married?\"",
+      "level": 1
+    },
+    {
+      "id": "159",
+      "text": "Mrs. Marcom shook her head.",
+      "level": 1
+    },
+    {
+      "id": "160",
+      "text": "\"The last will was made in 1940.",
+      "level": 1
+    },
+    {
+      "id": "160.1",
+      "text": "\"I don't know the details, but he told us at the time that if anything unfortunate happened to him, we would all be taken care of.",
+      "level": 2
+    },
+    {
+      "id": "160.2",
+      "text": "\"But after he got married, that will naturally became invalid.\"",
+      "level": 2
+    },
+    {
+      "id": "160.3",
+      "text": "\"I think he should have made a new will after getting married - but there was no time; he was bombed to death the day after he returned home.\"",
+      "level": 2
+    },
+    {
+      "id": "161",
+      "text": "\"So she... Rosaline... inherited all the property?\"",
+      "level": 1
+    },
+    {
+      "id": "162",
+      "text": "\"Well, after he got married, the old will became invalid.\"",
+      "level": 1
+    },
+    {
+      "id": "163",
+      "text": "Ainsley didn't speak. She wasn't greedy for money like some people, but it would be inhuman not to be annoyed by this change.",
+      "level": 1
+    },
+    {
+      "id": "163.1",
+      "text": "\"She felt that Gordon Claude himself would not want to see this happen.\"",
+      "level": 2
+    },
+    {
+      "id": "163.2",
+      "text": "\"He might have left most of his estate to his young wife, but he would also have made provisions for the extended family he had repeatedly encouraged and relied on.\"",
+      "level": 2
+    },
+    {
+      "id": "163.3",
+      "text": "\"He had repeatedly told them not to save, not to prepare for the future.\"",
+      "level": 2
+    },
+    {
+      "id": "163.4",
+      "text": "\"Ainsley heard him tell Jerome: 'Don't worry, Adela, I'll always take care of Ainsley... and you know, I don't want you to leave this house either, this is your home. Tell me how much it costs to repair the house.'\"",
+      "level": 2
+    },
+    {
+      "id": "163.5",
+      "text": "\"He encouraged Rory to start his own farm and asked Jerome's son Anthony to join the Grenadier Guards, always giving him plenty of pocket money.\"",
+      "level": 2
+    },
+    {
+      "id": "163.6",
+      "text": "\"He also supported Linneil Claude in medical research that was not immediately profitable, and even made his business less brisk.\"",
+      "level": 2
+    },
+    {
+      "id": "164",
+      "text": "Ainsley's train of thought was interrupted by Mrs. Marcom's movements. Her lips trembled as she dramatically took out a stack of bills.",
+      "level": 1
+    },
+    {
+      "id": "165",
+      "text": "\"Look at these,\" she cried, \"What should I do? What should I do? Ainsley, the bank manager wrote to me this morning saying we've overdrawn.",
+      "level": 1
+    },
+    {
+      "id": "165.1",
+      "text": "\"I really don't know how.",
+      "level": 2
+    },
+    {
+      "id": "165.2",
+      "text": "\"I've been careful enough, but my investments haven't yielded the expected results.",
+      "level": 2
+    },
+    {
+      "id": "165.3",
+      "text": "\"He said it's all because the taxes are too high.\"",
+      "level": 2
+    },
+    {
+      "id": "165.4",
+      "text": "\"And these yellow slips, war damage insurance or something - you have to pay whether you want to or not.\"",
+      "level": 2
+    },
+    {
+      "id": "166",
+      "text": "Ainsley glanced at the bills as she took them, and saw no extravagant expenses, just repairs to the roof, walls, replacement of old kitchenware, and installation of a new large water pipe in the kitchen, but all these added up to a considerable sum.",
+      "level": 1
+    },
+    {
+      "id": "167",
+      "text": "Mrs. Marcom said pitifully, \"Perhaps I should move, but where can I go?\"",
+      "level": 1
+    },
+    {
+      "id": "167.1",
+      "text": "\"There are no small houses to live in anywhere.\"",
+      "level": 2
+    },
+    {
+      "id": "167.2",
+      "text": "\"Alas, I really don't want to bother you with these things, Ainsley, at least not to worry you as soon as you get back.\"",
+      "level": 2
+    },
+    {
+      "id": "167.3",
+      "text": "\"But I really don't know what to do, I really don't know.\"",
+      "level": 2
+    },
+    {
+      "id": "168",
+      "text": "Ainsley looked at her mother, who was over sixty and had never been a strong woman.",
+      "level": 1
+    },
+    {
+      "id": "168.1",
+      "text": "\"During the war, she took in some evacuees from London, cooked and cleaned for them, and also worked for the 'Women's Volunteer Service', making jam and cooking for schools.\"",
+      "level": 2
+    },
+    {
+      "id": "168.2",
+      "text": "\"Before the war, she lived a comfortable life, but during the war, she worked fourteen hours a day.",
+      "level": 2
+    },
+    {
+      "id": "168.3",
+      "text": "\"Ainsley felt that she was now on the verge of collapse, tired and afraid of the future.\"",
+      "level": 2
+    },
+    {
+      "id": "169",
+      "text": "A slow anger rose in Ainsley's heart, and she said slowly, \"Can't that Rosaline... help?\"",
+      "level": 1
+    },
+    {
+      "id": "170",
+      "text": "Mrs. Marcom blushed and said, \"We have no right to ask for anything... not even a little bit.\"",
+      "level": 1
+    },
+    {
+      "id": "171",
+      "text": "Ainsley retorted, \"I think morally, you have the right to ask, because Uncle Gordon has always helped us.\"",
+      "level": 1
+    },
+    {
+      "id": "172",
+      "text": "Mrs. Marcom shook her head and said, \"It's not good to ask for help from others - especially from people we don't like very much.",
+      "level": 1
+    },
+    {
+      "id": "172.1",
+      "text": "\"Besides, her brother wouldn't let her give away a penny!\"",
+      "level": 2
+    },
+    {
+      "id": "173",
+      "text": "She added - heroism turned into pure feminine pettiness - \"I mean - if that really is her brother!\"",
+      "level": 1
+    },
+    {
+      "id": "174",
+      "text": "Frances Claude thoughtfully looked at her husband across the table.",
+      "level": 1
+    },
+    {
+      "id": "175",
+      "text": "Frances was forty-eight years old, a thin, hound-like woman who looked good in tweed suits.",
+      "level": 1
+    },
+    {
+      "id": "175.1",
+      "text": "\"Her face had an arrogant beauty, with no makeup, just a casual swipe of lipstick.\"",
+      "level": 2
+    },
+    {
+      "id": "175.2",
+      "text": "\"Jerome Claude was a sixty-three-year-old gray-haired thin man with a cold, expressionless face.\"",
+      "level": 2
+    },
+    {
+      "id": "176",
+      "text": "Tonight, that face was more expressionless than usual.",
+      "level": 1
+    },
+    {
+      "id": "177",
+      "text": "His wife glanced at him quickly and noticed this.",
+      "level": 1
+    },
+    {
+      "id": "178",
+      "text": "A fifteen-year-old girl awkwardly set the bowls and plates on the table, looking at Frances with distress. As soon as Frances frowned, the things in her hands almost fell to the ground.",
+      "level": 1
+    },
+    {
+      "id": "178.1",
+      "text": "\"A word of approval from Frances made her blossom with a smile.\"",
+      "level": 2
+    },
+    {
+      "id": "179",
+      "text": "The people of Wensley Village envied her greatly; if anyone in this place had a servant, it would be Frances Claude.",
+      "level": 1
+    },
+    {
+      "id": "179.1",
+      "text": "\"She didn't need to bribe maids with high salaries, and her demands weren't low, but her kind, friendly encouragement and infectious energy could drive the entire household forward.\"",
+      "level": 2
+    },
+    {
+      "id": "179.2",
+      "text": "\"She was accustomed to being served from childhood, so she was used to it without realizing it, and she appreciated good cooks or good maids as much as she appreciated great pianists.\"",
+      "level": 2
+    },
+    {
+      "id": "180",
+      "text": "Frances Claude was the only daughter of Sir Edward Tranton, who trained horses near the Wensley District before his death.",
+      "level": 1
+    },
+    {
+      "id": "180.1",
+      "text": "\"Sir Edward was finally bankrupt, but those who knew the situation were glad he had escaped worse circumstances.\"",
+      "level": 2
+    },
+    {
+      "id": "180.2",
+      "text": "\"Although rumors abounded, he only lost a little reputation.\"",
+      "level": 2
+    },
+    {
+      "id": "180.3",
+      "text": "\"After compromising with creditors, he could still live a very comfortable life in the south of France.",
+      "level": 2
+    },
+    {
+      "id": "180.4",
+      "text": "\"All these extra fortunes were thanks to his shrewd and capable lawyer, Jerome Claude.\"",
+      "level": 2
+    },
+    {
+      "id": "180.5",
+      "text": "\"The work Claude did for Sir Edward far exceeded the usual service a lawyer provides to a client, and he even personally provided guarantees for him.\"",
+      "level": 2
+    },
+    {
+      "id": "180.6",
+      "text": "\"Claude explicitly stated that he was very fond of Frances Tranton, so after everything was settled for Sir Edward, Frances became Mrs. Jerome Claude.\"",
+      "level": 2
+    },
+    {
+      "id": "181",
+      "text": "No one knew how she felt about this matter, but she certainly played her role in this transaction very beautifully - she was Jerome's capable and loyal wife, his son's thoughtful mother, she encouraged Jerome's interests in all aspects, and never indicated that this marriage was not voluntary.",
+      "level": 1
+    },
+    {
+      "id": "182",
+      "text": "Because of this, the Claude family deeply respected Frances.",
+      "level": 1
+    },
+    {
+      "id": "182.1",
+      "text": "\"They were proud of her and obeyed her judgment - but they never truly became very close to her.\"",
+      "level": 2
+    },
+    {
+      "id": "183",
+      "text": "No one knew what Jerome Claude thought about this marriage, because no one ever knew Jerome's inner feelings and thoughts.",
+      "level": 1
+    },
+    {
+      "id": "183.1",
+      "text": "\"People said he was 'a log of wood', and his character and reputation were highly regarded.\"",
+      "level": 2
+    },
+    {
+      "id": "183.2",
+      "text": "\"Claude never dealt with anything that might have legal issues.\"",
+      "level": 2
+    },
+    {
+      "id": "183.3",
+      "text": "\"His joint firm with Brownskill, although not brilliant, was very proper, so the company business was good.",
+      "level": 2
+    },
+    {
+      "id": "183.4",
+      "text": "\"The beautiful Georgian house where Jerome Claude and his wife lived was near the market, with an old courtyard behind the house, and the pear trees within the walls were covered with white blossoms every spring.\"",
+      "level": 2
+    },
+    {
+      "id": "184",
+      "text": "After the couple left the table, they walked to a room at the back of the house overlooking the garden.",
+      "level": 1
+    },
+    {
+      "id": "184.1",
+      "text": "\"The fifteen-year-old maid, Adona, panted as she brought the coffee.\"",
+      "level": 2
+    },
+    {
+      "id": "184.2",
+      "text": "\"Frances poured some coffee into her cup; it was strong and hot.",
+      "level": 2
+    },
+    {
+      "id": "184.3",
+      "text": "\"She praised pleasantly, 'Wonderful, Adona.'\"",
+      "level": 2
+    },
+    {
+      "id": "185",
+      "text": "Adona blushed with joy, but she found the taste of some people's coffee incomprehensible.",
+      "level": 1
+    },
+    {
+      "id": "185.1",
+      "text": "\"In her opinion, coffee should be milky white, with lots of sugar and lots of milk!\"",
+      "level": 2
+    },
+    {
+      "id": "186",
+      "text": "The Claudes drank their strong black coffee in the room.",
+      "level": 1
+    },
+    {
+      "id": "186.1",
+      "text": "\"During the meal, they chatted aimlessly, talking about people they met, about Ainsley's return, about the future prospects of the farm, but now they were silent.\"",
+      "level": 2
+    },
+    {
+      "id": "187",
+      "text": "Frances leaned back in her chair and watched her husband, but he didn't seem to notice her concern, stroking his upper lip with his right hand.",
+      "level": 1
+    },
+    {
+      "id": "187.1",
+      "text": "\"Jerome Claude did not know that this gesture often indicated his inner turmoil.",
+      "level": 2
+    },
+    {
+      "id": "187.2",
+      "text": "\"Frances rarely saw him make this gesture, only on a few occasions: once when their son Anthony was seriously ill as a child, once while waiting for the jury's verdict, once when listening to radio reports at the outbreak of war, and once on the eve of Anthony's enlistment.\"",
+      "level": 2
+    },
+    {
+      "id": "188",
+      "text": "Frances considered before speaking.",
+      "level": 1
+    },
+    {
+      "id": "188.1",
+      "text": "\"Their married life had always been pleasant, but it stopped at a certain limit, never too close.",
+      "level": 2
+    },
+    {
+      "id": "188.2",
+      "text": "\"She respected what he didn't say, and he did the same.\"",
+      "level": 2
+    },
+    {
+      "id": "189",
+      "text": "Even when the telegram arrived with Anthony's death notice, neither of them broke down.",
+      "level": 1
+    },
+    {
+      "id": "189.1",
+      "text": "\"At that time, he opened the telegram, read it, and looked up at her.\"",
+      "level": 2
+    },
+    {
+      "id": "189.2",
+      "text": "\"She said: 'Is it...?'\"",
+      "level": 2
+    },
+    {
+      "id": "189.3",
+      "text": "\"He nodded, walked over, and handed her the telegram.\"",
+      "level": 2
+    },
+    {
+      "id": "190",
+      "text": "They stood in silence for a while, then Jerome said, \"I hope I can help you, my dear.\"",
+      "level": 1
+    },
+    {
+      "id": "190.1",
+      "text": "\"She didn't cry, and replied in a steady but terrifyingly empty voice, 'You are just as sad as I am.'\"",
+      "level": 2
+    },
+    {
+      "id": "190.2",
+      "text": "\"He patted her shoulder and said, 'Yes, yes...' and then walked towards the door, his steps slightly uneven, but still steady, yet he seemed to have aged a lot all of a sudden, saying, 'There's nothing more to say... nothing more to say...'\"",
+      "level": 2
+    },
+    {
+      "id": "191",
+      "text": "She was grateful to him for his thoughtfulness, but seeing him suddenly age made her heart ache.",
+      "level": 1
+    },
+    {
+      "id": "191.1",
+      "text": "\"After losing her child, she became stronger - the ordinary kindness she had before disappeared, she became more capable and energetic... but people were also a little afraid of her cruel common sense.\"",
+      "level": 2
+    },
+    {
+      "id": "192",
+      "text": "At this moment, Jerome Claude's fingers were still hesitatingly moving on his upper lip, as if searching for something.",
+      "level": 1
+    },
+    {
+      "id": "192.1",
+      "text": "\"Frances said in a light tone, 'Is something wrong, Jerome?'\"",
+      "level": 2
+    },
+    {
+      "id": "193",
+      "text": "He was startled, and the coffee cup almost slipped from his hand, but he immediately regained his composure, calmly placed the cup on the saucer, and then looked up at her.",
+      "level": 1
+    },
+    {
+      "id": "194",
+      "text": "\"What are you referring to, Frances?\"",
+      "level": 1
+    },
+    {
+      "id": "195",
+      "text": "\"I'm asking if something is wrong?\"",
+      "level": 1
+    },
+    {
+      "id": "196",
+      "text": "\"How could it be?\"",
+      "level": 1
+    },
+    {
+      "id": "197",
+      "text": "\"It's ridiculous to ask me to guess, I'd rather you tell me yourself.\"",
+      "level": 1
+    },
+    {
+      "id": "198",
+      "text": "She said this to him seriously and without emotion.",
+      "level": 1
+    },
+    {
+      "id": "199",
+      "text": "But his answer was unbelievable: \"Nothing!\"",
+      "level": 1
+    },
+    {
+      "id": "200",
+      "text": "She didn't answer, still waiting with a questioning look, as if his denial was utterly unbelievable.",
+      "level": 1
+    },
+    {
+      "id": "200.1",
+      "text": "\"He hesitated and looked at her.\"",
+      "level": 2
+    },
+    {
+      "id": "201",
+      "text": "For a moment, the grey mask of his usual composure seemed to fall away, and she saw a look of annoyance and pain, almost making her cry out, although it was only for a fleeting moment, she was sure she had not misread it.",
+      "level": 1
+    },
+    {
+      "id": "202",
+      "text": "She said calmly and indifferently, \"You'd better tell me.\"",
+      "level": 1
+    },
+    {
+      "id": "203",
+      "text": "He sighed, very deeply and unhappily.",
+      "level": 1
+    },
+    {
+      "id": "204",
+      "text": "\"Of course,\" he said, \"you'll know sooner or later.\"",
+      "level": 1
+    },
+    {
+      "id": "205",
+      "text": "Then he said something that greatly surprised her.",
+      "level": 1
+    },
+    {
+      "id": "206",
+      "text": "\"I'm afraid you've made a very bad deal, Frances.\"",
+      "level": 1
+    },
+    {
+      "id": "207",
+      "text": "She didn't understand his meaning for a moment and blurted out, \"What? Is it about money?\"",
+      "level": 1
+    },
+    {
+      "id": "208",
+      "text": "She didn't know why money was the first thing she thought of; they weren't short of money compared to others.",
+      "level": 1
+    },
+    {
+      "id": "208.1",
+      "text": "\"The firm was indeed short of staff, but that was the case everywhere at this time.\"",
+      "level": 2
+    },
+    {
+      "id": "208.2",
+      "text": "\"Perhaps he was hiding his illness - his complexion had been poor recently, and he had been working too hard.\"",
+      "level": 2
+    },
+    {
+      "id": "208.3",
+      "text": "\"Despite this, Frances thought of money first, and it seemed she was not mistaken.\"",
+      "level": 2
+    },
+    {
+      "id": "209",
+      "text": "Her husband nodded.",
+      "level": 1
+    },
+    {
+      "id": "210",
+      "text": "\"I understand.\"",
+      "level": 1
+    },
+    {
+      "id": "210.1",
+      "text": "\"She thought silently for a moment.\"",
+      "level": 2
+    },
+    {
+      "id": "211",
+      "text": "She herself didn't care about money, but she knew Jerome couldn't.",
+      "level": 1
+    },
+    {
+      "id": "211.1",
+      "text": "\"Money to him symbolized a stable world - representing a secure life and status.\"",
+      "level": 2
+    },
+    {
+      "id": "212",
+      "text": "But to her, money was just a toy thrown at her feet to play with.",
+      "level": 1
+    },
+    {
+      "id": "212.1",
+      "text": "\"She had lived in a wealthy environment since childhood.",
+      "level": 2
+    },
+    {
+      "id": "212.2",
+      "text": "\"When her father's horses performed outstandingly, she naturally had whatever she wanted, but when merchants no longer trusted their horses, Sir Edward's finances were in dire straits.",
+      "level": 2
+    },
+    {
+      "id": "212.3",
+      "text": "\"For a week, they dismissed all the servants and lived on dry bread.\"",
+      "level": 2
+    },
+    {
+      "id": "212.4",
+      "text": "\"When Frances was a child, a court bailiff had stayed at their home for three weeks, and Frances found that one of them was very good at entertaining children and was full of stories about his own little daughter.\"",
+      "level": 2
+    },
+    {
+      "id": "213",
+      "text": "Without money, one has to beg, or go abroad to make a living, or rely on occasional help from relatives and friends, or find a way to borrow money.",
+      "level": 1
+    },
+    {
+      "id": "214",
+      "text": "But as Frances looked at her husband in front of her, she thought: these things will absolutely not happen to the Claude family, absolutely not beg, borrow, or rely on others for help (and conversely, the Claude family will not give alms, lend money, or help others).",
+      "level": 1
+    },
+    {
+      "id": "215",
+      "text": "Frances felt very sorry for Jerome, and at the same time felt a little guilty about her own calm and composed mood.",
+      "level": 1
+    },
+    {
+      "id": "215.1",
+      "text": "\"So she asked the most practical question: 'Do we have to sell everything? Will the company collapse?'\"",
+      "level": 2
+    },
+    {
+      "id": "216",
+      "text": "Jerome Claude recoiled a little; Frances knew she had been too direct.",
+      "level": 1
+    },
+    {
+      "id": "217",
+      "text": "\"My dear,\" she said gently, \"tell me quickly, I don't want to guess anymore.\"",
+      "level": 1
+    },
+    {
+      "id": "218",
+      "text": "Jerome Claude said stiffly: \"Two years ago, we went through a crisis, you probably remember, Little William absconded with funds, and we barely managed to recover.\"",
+      "level": 1
+    },
+    {
+      "id": "218.1",
+      "text": "\"But now there's another problem, because the situation in the Far East has changed, Singapore...\"",
+      "level": 2
+    },
+    {
+      "id": "219",
+      "text": "She interrupted him.",
+      "level": 1
+    },
+    {
+      "id": "220",
+      "text": "\"Never mind the reason, it doesn't matter.\"",
+      "level": 1
+    },
+    {
+      "id": "220.1",
+      "text": "\"What matters is that you are in trouble again, and you haven't been able to solve it so far?\"",
+      "level": 2
+    },
+    {
+      "id": "221",
+      "text": "He said, \"I've always relied on Gordon. If he were here, he would definitely solve the problem.\"",
+      "level": 1
+    },
+    {
+      "id": "222",
+      "text": "She sighed quickly impatiently.",
+      "level": 1
+    },
+    {
+      "id": "223",
+      "text": "\"Of course, I don't want to blame the poor man - anyone can't help but fall for a beautiful woman, and why couldn't he remarry?\"",
+      "level": 1
+    },
+    {
+      "id": "223.1",
+      "text": "\"Unfortunately, he was bombed to death before he could arrange things properly.",
+      "level": 2
+    },
+    {
+      "id": "223.2",
+      "text": "\"No matter how dangerous the situation, no one believes they will be unlucky enough to be bombed to death; they always think the bombs will fall on others!\"",
+      "level": 2
+    },
+    {
+      "id": "224",
+      "text": "\"I liked Gordon very much and was proud of him,\" said Gordon Claude's brother, \"His death was a great blow to me, at that time...\"",
+      "level": 1
+    },
+    {
+      "id": "225",
+      "text": "He paused.",
+      "level": 1
+    },
+    {
+      "id": "226",
+      "text": "\"Will we go bankrupt?\" Frances asked rationally.",
+      "level": 1
+    },
+    {
+      "id": "227",
+      "text": "Jerome Claude looked at her with almost disappointed eyes.",
+      "level": 1
+    },
+    {
+      "id": "227.1",
+      "text": "\"She didn't understand; if she had cried or screamed, he might have felt better.\"",
+      "level": 2
+    },
+    {
+      "id": "227.2",
+      "text": "\"But she was so cold and practical that it made him break down faster.\"",
+      "level": 2
+    },
+    {
+      "id": "228",
+      "text": "He said crudely, \"Much worse than bankruptcy.\"",
+      "level": 1
+    },
+    {
+      "id": "229",
+      "text": "He watched her calmly consider the matter, thinking, \"In a little while, I'll have to tell her.",
+      "level": 1
+    },
+    {
+      "id": "229.1",
+      "text": "\"She'll know what kind of person I am, and she has the right to know.",
+      "level": 2
+    },
+    {
+      "id": "229.2",
+      "text": "\"Maybe she won't believe it for a while.\"",
+      "level": 2
+    },
+    {
+      "id": "230",
+      "text": "Frances sighed and sat straighter in the armchair.",
+      "level": 1
+    },
+    {
+      "id": "231",
+      "text": "\"I understand,\" she said, \"Embezzlement, is that what it's called? Like Little William.\"",
+      "level": 1
+    },
+    {
+      "id": "232",
+      "text": "\"But this time... you don't understand... the responsibility is mine. I misappropriated trust funds entrusted to me, and I've hidden it very well all along...\"",
+      "level": 1
+    },
+    {
+      "id": "233",
+      "text": "\"And now it's about to be exposed?\"",
+      "level": 1
+    },
+    {
+      "id": "234",
+      "text": "\"Unless I can get that amount immediately.\"",
+      "level": 1
+    },
+    {
+      "id": "235",
+      "text": "This was the greatest shame he had ever felt in his life.",
+      "level": 1
+    },
+    {
+      "id": "235.1",
+      "text": "\"What would she think?\"",
+      "level": 2
+    },
+    {
+      "id": "236",
+      "text": "At this moment, she appeared very calm, but he also knew that Frances never lost her temper or scolded others.",
+      "level": 1
+    },
+    {
+      "id": "237",
+      "text": "She touched her cheek with her hand, frowning.",
+      "level": 1
+    },
+    {
+      "id": "238",
+      "text": "\"I was so foolish,\" she said, \"I don't have any money myself.\"",
+      "level": 1
+    },
+    {
+      "id": "239",
+      "text": "He said stiffly, \"You have a dowry, but...\"",
+      "level": 1
+    },
+    {
+      "id": "240",
+      "text": "She said absently, \"I think that's already been used up.\"",
+      "level": 1
+    },
+    {
+      "id": "241",
+      "text": "He remained silent. Then, with his usual indifferent tone, he said stiffly, \"I'm sorry, Frances, I really can't express how sorry I am. You've made a very bad deal.\"",
+      "level": 1
+    },
+    {
+      "id": "242",
+      "text": "She suddenly looked up.",
+      "level": 1
+    },
+    {
+      "id": "243",
+      "text": "\"You said that just now too, what exactly do you mean?\"",
+      "level": 1
+    },
+    {
+      "id": "244",
+      "text": "Jerome struggled to say, \"When you married me, your family circumstances were very good, and you had the right to expect a carefree life.\"",
+      "level": 1
+    },
+    {
+      "id": "245",
+      "text": "She looked up at him in surprise.",
+      "level": 1
+    },
+    {
+      "id": "246",
+      "text": "\"What are you saying? Jerome, what do you think I married you for?\"",
+      "level": 1
+    },
+    {
+      "id": "247",
+      "text": "He smiled faintly.",
+      "level": 1
+    },
+    {
+      "id": "248",
+      "text": "\"My dear, you have always been a most loyal wife, but I don't want to deceive myself into saying that you fell in love with... uh... someone from a completely different background.\"",
+      "level": 1
+    },
+    {
+      "id": "249",
+      "text": "She stared at him, and suddenly couldn't help but burst into laughter.",
+      "level": 1
+    },
+    {
+      "id": "250",
+      "text": "\"You ridiculous old stubborn man! You look so respectable on the outside, but who would have thought your mind is full of such nonsense!\"",
+      "level": 1
+    },
+    {
+      "id": "250.1",
+      "text": "\"Do you really think I married you to save my father's business?\"",
+      "level": 2
+    },
+    {
+      "id": "251",
+      "text": "\"I know you loved your father very much, Frances.\"",
+      "level": 1
+    },
+    {
+      "id": "252",
+      "text": "\"Yes,...\"",
+      "level": 1
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Major Porter",
+      "frequency": 8,
+      "context": "A character in the club who tells long stories."
+    },
+    {
+      "name": "Gordon Claude",
+      "frequency": 11,
+      "context": "A wealthy man who died in an air raid."
+    },
+    {
+      "name": "Air raid",
+      "frequency": 5,
+      "context": "The event that led to Gordon Claude's death and damaged his house."
+    },
+    {
+      "name": "Mrs. Andehai",
+      "frequency": 5,
+      "context": "The young widow of Gordon Claude's former wife's first husband."
+    },
+    {
+      "name": "Andehai",
+      "frequency": 5,
+      "context": "The former husband of Mrs. Andehai, who died in Africa."
+    },
+    {
+      "name": "Nigeria",
+      "frequency": 2,
+      "context": "A place where Major Porter knew Andehai."
+    },
+    {
+      "name": "Jerome Claude",
+      "frequency": 6,
+      "context": "Gordon Claude's older brother, a lawyer."
+    },
+    {
+      "name": "Mr. Marland",
+      "frequency": 3,
+      "context": "A character in the club who makes jokes."
+    },
+    {
+      "name": "Hercule Poirot",
+      "frequency": 17,
+      "context": "The famous detective who is consulted by Mrs. Claude."
+    },
+    {
+      "name": "Mrs. Claude",
+      "frequency": 9,
+      "context": "A woman who believes in spiritual guidance and seeks Poirot's help."
+    },
+    {
+      "name": "Linneil Claude",
+      "frequency": 3,
+      "context": "Mrs. Claude's husband, Dr. Linneil Claude."
+    },
+    {
+      "name": "Robert",
+      "frequency": 4,
+      "context": "A ghost that communicates with Mrs. Claude."
+    },
+    {
+      "name": "Rosaline",
+      "frequency": 3,
+      "context": "Mrs. Andehai's name."
+    },
+    {
+      "name": "Wensley Village",
+      "frequency": 5,
+      "context": "The location where a man named Ennaco Arden died and where the Claude family lives."
+    },
+    {
+      "name": "Ains Layce Marcom",
+      "frequency": 15,
+      "context": "A former WREN returning home and facing financial difficulties."
+    },
+    {
+      "name": "White House",
+      "frequency": 3,
+      "context": "Ainsley Marcom's family home."
+    },
+    {
+      "name": "Mrs. Marcom",
+      "frequency": 13,
+      "context": "Ainsley's mother, facing financial problems."
+    },
+    {
+      "name": "Rory Claude",
+      "frequency": 5,
+      "context": "Ainsley's cousin and fiancé, a farmer."
+    },
+    {
+      "name": "Frances Claude",
+      "frequency": 9,
+      "context": "Jerome Claude's wife, who is pragmatic and concerned about finances."
+    },
+    {
+      "name": "Adona",
+      "frequency": 2,
+      "context": "A young maid in the Claude household."
+    },
+    {
+      "name": "Anthony",
+      "frequency": 3,
+      "context": "Jerome and Frances Claude's son, who died in the war."
+    },
+    {
+      "name": "Sir Edward Tranton",
+      "frequency": 2,
+      "context": "Frances Claude's deceased father, who was a horse trainer."
+    },
+    {
+      "name": "Little William",
+      "frequency": 2,
+      "context": "Someone who absconded with funds in the past, causing a crisis for Jerome Claude's firm."
+    },
+    {
+      "name": "Singapore",
+      "frequency": 1,
+      "context": "Mentioned as a reason for current difficulties due to changes in the Far East."
+    },
+    {
+      "name": "Trust funds",
+      "frequency": 1,
+      "context": "Funds Jerome Claude misappropriated."
+    },
+    {
+      "name": "Tweed suit",
+      "frequency": 2,
+      "context": "Clothing worn by Mrs. Claude and Ainsley."
+    },
+    {
+      "name": "Wensley District",
+      "frequency": 2,
+      "context": "The area where the main action is set, distinct from Wensley Village."
+    },
+    {
+      "name": "Golf course",
+      "frequency": 2,
+      "context": "Located in the Wensley District."
+    },
+    {
+      "name": "Hotels",
+      "frequency": 1,
+      "context": "Located in the Wensley District."
+    },
+    {
+      "name": "Villas",
+      "frequency": 1,
+      "context": "Located in the Wensley District."
+    },
+    {
+      "name": "Shops",
+      "frequency": 1,
+      "context": "Located in the Wensley District."
+    },
+    {
+      "name": "Train station",
+      "frequency": 1,
+      "context": "Located in the Wensley District."
+    },
+    {
+      "name": "London",
+      "frequency": 3,
+      "context": "A destination and origin point for travel."
+    },
+    {
+      "name": "Path",
+      "frequency": 1,
+      "context": "A path to Wensley Village."
+    },
+    {
+      "name": "Market",
+      "frequency": 1,
+      "context": "Located in Wensley Village."
+    },
+    {
+      "name": "Georgian houses",
+      "frequency": 2,
+      "context": "Type of houses in Wensley Village and the Claude's home."
+    },
+    {
+      "name": "Pubs",
+      "frequency": 1,
+      "context": "Located in Wensley Village."
+    },
+    {
+      "name": "Women's Royal Naval Service (WREN)",
+      "frequency": 2,
+      "context": "Ainsley Marcom's former service."
+    },
+    {
+      "name": "East",
+      "frequency": 1,
+      "context": "A location where Ainsley served."
+    },
+    {
+      "name": "Mother",
+      "frequency": 5,
+      "context": "Ainsley's mother, Mrs. Marcom."
+    },
+    {
+      "name": "Uniform",
+      "frequency": 1,
+      "context": "Worn by Ainsley in the WREN."
+    },
+    {
+      "name": "Homesickness",
+      "frequency": 1,
+      "context": "Ainsley's feeling while abroad."
+    },
+    {
+      "name": "Initiative",
+      "frequency": 1,
+      "context": "A quality sought by employers."
+    },
+    {
+      "name": "Authority",
+      "frequency": 1,
+      "context": "A quality sought by employers."
+    },
+    {
+      "name": "Cook",
+      "frequency": 1,
+      "context": "A skill employers need."
+    },
+    {
+      "name": "Clean",
+      "frequency": 1,
+      "context": "A skill employers need."
+    },
+    {
+      "name": "Shorthand",
+      "frequency": 1,
+      "context": "A skill employers need."
+    },
+    {
+      "name": "Farming",
+      "frequency": 2,
+      "context": "Rory Claude's profession."
+    },
+    {
+      "name": "Excitement",
+      "frequency": 1,
+      "context": "A quality Ainsley's life lacks."
+    },
+    {
+      "name": "Open spaces",
+      "frequency": 1,
+      "context": "Something Ainsley and Rory like."
+    },
+    {
+      "name": "Fresh air",
+      "frequency": 1,
+      "context": "Something Ainsley and Rory like."
+    },
+    {
+      "name": "Animals",
+      "frequency": 1,
+      "context": "Something Ainsley and Rory like to care for."
+    },
+    {
+      "name": "Letter",
+      "frequency": 3,
+      "context": "Communication between Mrs. Marcom and Ainsley."
+    },
+    {
+      "name": "Blow",
+      "frequency": 1,
+      "context": "Mrs. Marcom's reaction to Gordon Claude's death."
+    },
+    {
+      "name": "Britain",
+      "frequency": 1,
+      "context": "Gordon Claude's destination."
+    },
+    {
+      "name": "Relatives",
+      "frequency": 4,
+      "context": "Gordon Claude's dependents."
+    },
+    {
+      "name": "Wing",
+      "frequency": 1,
+      "context": "Gordon Claude's protection over his relatives."
+    },
+    {
+      "name": "Friend",
+      "frequency": 1,
+      "context": "Johnny Weavison, Rory's partner."
+    },
+    {
+      "name": "Capital",
+      "frequency": 2,
+      "context": "Needed for farming development."
+    },
+    {
+      "name": "Hope",
+      "frequency": 1,
+      "context": "Rory and Johnny's attribute."
+    },
+    {
+      "name": "Drive",
+      "frequency": 2,
+      "context": "Rory and Johnny's attribute."
+    },
+    {
+      "name": "Permission",
+      "frequency": 1,
+      "context": "Gordon Claude's permission for Rory and Johnny."
+    },
+    {
+      "name": "Determination",
+      "frequency": 1,
+      "context": "A quality needed for the farm."
+    },
+    {
+      "name": "Hard work",
+      "frequency": 2,
+      "context": "A requirement for success."
+    },
+    {
+      "name": "Hopeless",
+      "frequency": 1,
+      "context": "Ainsley's potential feeling."
+    },
+    {
+      "name": "Wife",
+      "frequency": 2,
+      "context": "Ainsley's role for Rory."
+    },
+    {
+      "id": "117.5",
+      "text": "You are exactly the wife Rory needs, but for now, keep these words to yourself, don't tell anyone.'",
+      "level": 2
+    },
+    {
+      "name": "Tacitly agreed",
+      "frequency": 1,
+      "context": "Ainsley's agreement to Rory's career."
+    },
+    {
+      "name": "Parasite",
+      "frequency": 1,
+      "context": "Not applicable to the Claude family."
+    },
+    {
+      "name": "Lazy",
+      "frequency": 1,
+      "context": "Not applicable to the Claude family."
+    },
+    {
+      "name": "Law firm",
+      "frequency": 1,
+      "context": "Jerome Claude's workplace."
+    },
+    {
+      "name": "Doctor",
+      "frequency": 3,
+      "context": "Linneil Claude's profession."
+    },
+    {
+      "name": "Psychologically",
+      "frequency": 1,
+      "context": "The feeling of having support."
+    },
+    {
+      "name": "Frugal",
+      "frequency": 1,
+      "context": "Not necessary for the Claude family."
+    },
+    {
+      "name": "Saving",
+      "frequency": 1,
+      "context": "Not necessary for the Claude family."
+    },
+    {
+      "name": "Guaranteed",
+      "frequency": 1,
+      "context": "Their future was guaranteed by Gordon Claude."
+    },
+    {
+      "name": "Offspring",
+      "frequency": 1,
+      "context": "Gordon Claude had none."
+    },
+    {
+      "name": "Arranged",
+      "frequency": 1,
+      "context": "Gordon Claude arranged everything."
+    },
+    {
+      "name": "Widowed sister",
+      "frequency": 1,
+      "context": "Adela Marcom."
+    },
+    {
+      "name": "Expenses",
+      "frequency": 1,
+      "context": "Adela Marcom could have saved some."
+    },
+    {
+      "name": "Schools",
+      "frequency": 1,
+      "context": "Ainsley attended the best ones."
+    },
+    {
+      "name": "Training",
+      "frequency": 1,
+      "context": "Ainsley would have received expensive training."
+    },
+    {
+      "name": "Checks",
+      "frequency": 1,
+      "context": "Gordon Claude sent them to Adela and Ainsley."
+    },
+    {
+      "name": "Comfortable",
+      "frequency": 2,
+      "context": "Their lifestyle before the war and with Gordon's help."
+    },
+    {
+      "name": "Stable",
+      "frequency": 1,
+      "context": "How everything seemed before Gordon's death."
+    },
+    {
+      "name": "Worry-free",
+      "frequency": 1,
+      "context": "How everything seemed before Gordon's death."
+    },
+    {
+      "name": "Remarried",
+      "frequency": 3,
+      "context": "Gordon Claude's action."
+    },
+    {
+      "name": "Shocked",
+      "frequency": 4,
+      "context": "The family's reaction to Gordon's remarriage and death."
+    },
+    {
+      "name": "Convinced",
+      "frequency": 1,
+      "context": "The family was convinced Gordon would not remarry."
+    },
+    {
+      "name": "Unburdened",
+      "frequency": 1,
+      "context": "Gordon Claude's preference."
+    },
+    {
+      "name": "Worry",
+      "frequency": 1,
+      "context": "Gordon Claude didn't plan to remarry and worry."
+    },
+    {
+      "name": "Considerate",
+      "frequency": 1,
+      "context": "Gordon Claude's trait."
+    },
+    {
+      "name": "Overbearing",
+      "frequency": 1,
+      "context": "Gordon Claude's trait."
+    },
+    {
+      "name": "Tablecloth",
+      "frequency": 2,
+      "context": "Gordon Claude's preference for eating."
+    },
+    {
+      "name": "Venetian lace",
+      "frequency": 1,
+      "context": "A type of tablecloth Gordon Claude gave."
+    },
+    {
+      "name": "Taste",
+      "frequency": 3,
+      "context": "Gordon Claude's taste and Frances's taste in coffee."
+    },
+    {
+      "name": "Curiously",
+      "frequency": 3,
+      "context": "Ainsley's and Mrs. Marcom's attitude."
+    },
+    {
+      "name": "Ship",
+      "frequency": 1,
+      "context": "Where Mrs. Claude might have met Gordon."
+    },
+    {
+      "name": "Plane",
+      "frequency": 1,
+      "context": "Where Mrs. Claude might have met Gordon."
+    },
+    {
+      "name": "South America",
+      "frequency": 2,
+      "context": "Where Mrs. Claude might have been traveling from."
+    },
+    {
+      "name": "New York",
+      "frequency": 1,
+      "context": "A destination on the journey."
+    },
+    {
+      "name": "Secretaries",
+      "frequency": 1,
+      "context": "Gordon Claude had many."
+    },
+    {
+      "name": "Typists",
+      "frequency": 1,
+      "context": "Gordon Claude had many."
+    },
+    {
+      "name": "Housekeepers",
+      "frequency": 1,
+      "context": "Gordon Claude had many."
+    },
+    {
+      "name": "Moved him",
+      "frequency": 1,
+      "context": "None of the staff could move Gordon."
+    },
+    {
+      "name": "Beautiful",
+      "frequency": 2,
+      "context": "Mrs. Claude's appearance."
+    },
+    {
+      "name": "Dull",
+      "frequency": 1,
+      "context": "Mrs. Claude's face, according to Mrs. Marcom."
+    },
+    {
+      "name": "Man",
+      "frequency": 1,
+      "context": "Ainsley's remark to her mother."
+    },
+    {
+      "name": "Explosion",
+      "frequency": 2,
+      "context": "Caused by an air raid, frightened Mrs. Claude."
+    },
+    {
+      "name": "Recovered",
+      "frequency": 1,
+      "context": "Mrs. Claude's state after the explosion."
+    },
+    {
+      "name": "Nervous",
+      "frequency": 1,
+      "context": "Mrs. Claude's state."
+    },
+    {
+      "name": "Idiot",
+      "frequency": 1,
+      "context": "How Mrs. Claude sometimes looked."
+    },
+    {
+      "name": "Companion",
+      "frequency": 1,
+      "context": "Gordon Claude might not have found Mrs. Claude a good one."
+    },
+    {
+      "name": "Intelligence",
+      "frequency": 1,
+      "context": "Ainsley thought Gordon wouldn't choose a woman for this."
+    },
+    {
+      "name": "Lady",
+      "frequency": 2,
+      "context": "Mrs. Marcom's concern about Mrs. Claude."
+    },
+    {
+      "name": "Era",
+      "frequency": 1,
+      "context": "Ainsley's response to her mother's concern about being a lady."
+    },
+    {
+      "name": "Countryside",
+      "frequency": 1,
+      "context": "Where being a lady still matters."
+    },
+    {
+      "name": "Type",
+      "frequency": 1,
+      "context": "Mrs. Marcom saying Mrs. Claude is not their type."
+    },
+    {
+      "id": "137",
+      "text": "Poor little thing!",
+      "level": 1
+    },
+    {
+      "name": "Understand",
+      "frequency": 4,
+      "context": "Frances's lack of understanding and Ainsley's question."
+    },
+    {
+      "name": "Grateful",
+      "frequency": 1,
+      "context": "Mrs. Marcom felt grateful for Gordon's help."
+    },
+    {
+      "name": "Politeness",
+      "frequency": 1,
+      "context": "The family showed politeness to Mrs. Claude."
+    },
+    {
+      "name": "Furabranro",
+      "frequency": 1,
+      "context": "Where Mrs. Claude is staying."
+    },
+    {
+      "name": "Sanatorium",
+      "frequency": 1,
+      "context": "Where Mrs. Claude left."
+    },
+    {
+      "name": "Doctor",
+      "frequency": 1,
+      "context": "Advised Mrs. Claude to leave London."
+    },
+    {
+      "name": "Brother",
+      "frequency": 2,
+      "context": "Mrs. Claude's brother."
+    },
+    {
+      "name": "Terrifying",
+      "frequency": 1,
+      "context": "Mrs. Marcom's description of Mrs. Claude's brother."
+    },
+    {
+      "name": "Rude",
+      "frequency": 1,
+      "context": "Mrs. Marcom's description of Mrs. Claude's brother."
+    },
+    {
+      "name": "Sympathy",
+      "frequency": 1,
+      "context": "Ainsley felt it for Mrs. Claude."
+    },
+    {
+      "name": "Picky",
+      "frequency": 1,
+      "context": "Mrs. Marcom saying she's not trying to be picky."
+    },
+    {
+      "name": "Question",
+      "frequency": 3,
+      "context": "Mrs. Marcom's question about Mrs. Claude's travel."
+    },
+    {
+      "name": "Catch a rich husband",
+      "frequency": 1,
+      "context": "Mrs. Marcom's suspicion about Mrs. Claude's motives."
+    },
+    {
+      "name": "Waste effort",
+      "frequency": 1,
+      "context": "Ainsley's remark about Mrs. Claude."
+    },
+    {
+      "name": "Shrewd",
+      "frequency": 1,
+      "context": "Gordon Claude's trait."
+    },
+    {
+      "name": "Tempted",
+      "frequency": 1,
+      "context": "Gordon Claude was not tempted by other women before."
+    },
+    {
+      "name": "Eye-catching",
+      "frequency": 1,
+      "context": "Gordon Claude's former secretary."
+    },
+    {
+      "name": "Capable",
+      "frequency": 1,
+      "context": "Gordon Claude's former secretary."
+    },
+    {
+      "name": "Got rid of",
+      "frequency": 1,
+      "context": "Gordon Claude did this to his former secretary."
+    },
+    {
+      "name": "Vaguely",
+      "frequency": 1,
+      "context": "Ainsley's response."
+    },
+    {
+      "name": "Loses",
+      "frequency": 1,
+      "context": "Ainsley's remark."
+    },
+    {
+      "name": "Dangerous age",
+      "frequency": 1,
+      "context": "Sixty-two years old."
+    },
+    {
+      "name": "Struggle",
+      "frequency": 1,
+      "context": "Mrs. Marcom thought there was a struggle at some point."
+    },
+    {
+      "name": "Felt",
+      "frequency": 1,
+      "context": "Mrs. Marcom felt grateful."
+    },
+    {
+      "name": "Sympathetic",
+      "frequency": 1,
+      "context": "Gordon Claude thought Frances might be sympathetic."
+    },
+    {
+      "name": "Marriage",
+      "frequency": 4,
+      "context": "Gordon Claude's marriage and its consequences."
+    },
+    {
+      "name": "Surprised",
+      "frequency": 2,
+      "context": "The family was surprised by Gordon's marriage."
+    },
+    {
+      "name": "Gradually",
+      "frequency": 1,
+      "context": "Gordon believed they would gradually like Rosaline."
+    },
+    {
+      "name": "Rosaline",
+      "frequency": 3,
+      "context": "Gordon Claude's wife."
+    },
+    {
+      "name": "Dramatic",
+      "frequency": 1,
+      "context": "Rosaline's name."
+    },
+    {
+      "name": "Fake",
+      "frequency": 1,
+      "context": "Ainsley's description of Rosaline's name."
+    },
+    {
+      "name": "Tragic fate",
+      "frequency": 1,
+      "context": "Gordon Claude described Rosaline's fate."
+    },
+    {
+      "name": "Sufferings",
+      "frequency": 1,
+      "context": "Rosaline had experienced many life sufferings."
+    },
+    {
+      "name": "Brave",
+      "frequency": 1,
+      "context": "Rosaline was brave to stand up strong."
+    },
+    {
+      "name": "Cliché",
+      "frequency": 1,
+      "context": "Ainsley's description of Gordon's letter."
+    },
+    {
+      "name": "Experienced",
+      "frequency": 1,
+      "context": "Gordon Claude's life."
+    },
+    {
+      "name": "Alas",
+      "frequency": 2,
+      "context": "Mrs. Marcom's expression."
+    },
+    {
+      "name": "Done",
+      "frequency": 1,
+      "context": "Nothing more to say."
+    },
+    {
+      "name": "Blue eyes",
+      "frequency": 2,
+      "context": "Rosaline's eyes."
+    },
+    {
+      "name": "Charming",
+      "frequency": 1,
+      "context": "Ainsley's question about Rosaline's eyes."
+    },
+    {
+      "name": "Appreciate",
+      "frequency": 1,
+      "context": "Ainsley's type of beauty."
+    },
+    {
+      "name": "Faint smile",
+      "frequency": 1,
+      "context": "Ainsley's smile."
+    },
+    {
+      "name": "Men",
+      "frequency": 2,
+      "context": "Their standards and foolish actions."
+    },
+    {
+      "name": "Standards",
+      "frequency": 1,
+      "context": "Men have no standards to measure by."
+    },
+    {
+      "name": "Rational",
+      "frequency": 1,
+      "context": "Men can be rational."
+    },
+    {
+      "name": "Foolish",
+      "frequency": 1,
+      "context": "Men sometimes do foolish things."
+    },
+    {
+      "name": "Loyal",
+      "frequency": 1,
+      "context": "Rosaline was described as loyal."
+    },
+    {
+      "name": "Special duty",
+      "frequency": 1,
+      "context": "Gordon Claude's care for his family."
+    },
+    {
+      "name": "Will",
+      "frequency": 4,
+      "context": "Gordon Claude's will and its invalidity."
+    },
+    {
+      "name": "Invalid",
+      "frequency": 2,
+      "context": "The old will became invalid after marriage."
+    },
+    {
+      "id": "160.3",
+      "text": "I think he should have made a new will after getting married - but there was no time; he was bombed to death the day after he returned home.",
+      "level": 2
+    },
+    {
+      "name": "Time",
+      "frequency": 1,
+      "context": "Gordon Claude didn't have time to make a new will."
+    },
+    {
+      "name": "Inherited",
+      "frequency": 1,
+      "context": "Rosaline inherited all the property."
+    },
+    {
+      "name": "Property",
+      "frequency": 1,
+      "context": "Inherited by Rosaline."
+    },
+    {
+      "name": "Human",
+      "frequency": 1,
+      "context": "It would be inhuman not to be annoyed by the change."
+    },
+    {
+      "name": "Annoyed",
+      "frequency": 1,
+      "context": "Ainsley felt this about the change in inheritance."
+    },
+    {
+      "name": "Transition",
+      "frequency": 1,
+      "context": "The change in inheritance."
+    },
+    {
+      "name": "Estate",
+      "frequency": 1,
+      "context": "Gordon Claude's estate."
+    },
+    {
+      "name": "Provisions",
+      "frequency": 1,
+      "context": "Gordon Claude would have made for his family."
+    },
+    {
+      "name": "Extended family",
+      "frequency": 1,
+      "context": "Gordon Claude relied on them."
+    },
+    {
+      "name": "Encouraged",
+      "frequency": 1,
+      "context": "Gordon Claude encouraged his family not to save."
+    },
+    {
+      "name": "Relied on",
+      "frequency": 1,
+      "context": "Gordon Claude relied on his extended family."
+    },
+    {
+      "name": "Prepare",
+      "frequency": 1,
+      "context": "Gordon Claude told them not to prepare for the future."
+    },
+    {
+      "name": "Future",
+      "frequency": 1,
+      "context": "Gordon Claude told them not to prepare for it."
+    },
+    {
+      "name": "Farm",
+      "frequency": 4,
+      "context": "Rory and Johnny's farm and its development."
+    },
+    {
+      "name": "Army",
+      "frequency": 1,
+      "context": "Anthony joined the Grenadier Guards."
+    },
+    {
+      "name": "Grenadier Guards",
+      "frequency": 1,
+      "context": "Anthony joined this unit."
+    },
+    {
+      "name": "Pocket money",
+      "frequency": 1,
+      "context": "Gordon Claude gave Anthony plenty."
+    },
+    {
+      "name": "Supported",
+      "frequency": 1,
+      "context": "Gordon Claude supported Linneil Claude's research."
+    },
+    {
+      "name": "Medical research",
+      "frequency": 1,
+      "context": "Linneil Claude's field of study."
+    },
+    {
+      "name": "Profitable",
+      "frequency": 1,
+      "context": "Research was not immediately profitable."
+    },
+    {
+      "name": "Brisk",
+      "frequency": 1,
+      "context": "Business became less brisk due to research."
+    },
+    {
+      "name": "Train of thought",
+      "frequency": 1,
+      "context": "Ainsley's thought process."
+    },
+    {
+      "name": "Interrupted",
+      "frequency": 1,
+      "context": "Ainsley's train of thought was interrupted."
+    },
+    {
+      "name": "Movement",
+      "frequency": 1,
+      "context": "Mrs. Marcom's dramatic movement."
+    },
+    {
+      "name": "Trembled",
+      "frequency": 1,
+      "context": "Mrs. Marcom's lips trembled."
+    },
+    {
+      "name": "Dramatically",
+      "frequency": 1,
+      "context": "Mrs. Marcom presented the bills."
+    },
+    {
+      "name": "Bills",
+      "frequency": 2,
+      "context": "Mrs. Marcom showed Ainsley the bills."
+    },
+    {
+      "name": "Cried",
+      "frequency": 1,
+      "context": "Mrs. Marcom cried as she showed the bills."
+    },
+    {
+      "name": "Bank manager",
+      "frequency": 1,
+      "context": "Informed Mrs. Marcom about the overdraft."
+    },
+    {
+      "name": "Overdrawn",
+      "frequency": 1,
+      "context": "Mrs. Marcom's bank account was overdrawn."
+    },
+    {
+      "name": "Careful",
+      "frequency": 1,
+      "context": "Mrs. Marcom tried to be careful."
+    },
+    {
+      "name": "Investments",
+      "frequency": 1,
+      "context": "Mrs. Marcom's investments did not yield results."
+    },
+    {
+      "name": "Expected results",
+      "frequency": 1,
+      "context": "Mrs. Marcom's investments did not achieve these."
+    },
+    {
+      "name": "Taxes",
+      "frequency": 2,
+      "context": "High taxes contributed to the financial problems."
+    },
+    {
+      "name": "Yellow slips",
+      "frequency": 1,
+      "context": "War damage insurance papers."
+    },
+    {
+      "name": "War damage insurance",
+      "frequency": 1,
+      "context": "A mandatory payment."
+    },
+    {
+      "name": "Pay",
+      "frequency": 1,
+      "context": "Mandatory payment for insurance."
+    },
+    {
+      "name": "Luxury",
+      "frequency": 1,
+      "context": "No extravagant expenses on the bills."
+    },
+    {
+      "name": "Repair",
+      "frequency": 1,
+      "context": "Needed for the roof and walls."
+    },
+    {
+      "name": "Roof",
+      "frequency": 1,
+      "context": "Needed repair."
+    },
+    {
+      "name": "Walls",
+      "frequency": 1,
+      "context": "Needed repair."
+    },
+    {
+      "name": "Kitchenware",
+      "frequency": 1,
+      "context": "Old kitchenware needed replacement."
+    },
+    {
+      "name": "Water pipe",
+      "frequency": 1,
+      "context": "A new large water pipe was installed in the kitchen."
+    },
+    {
+      "name": "Sum",
+      "frequency": 1,
+      "context": "A considerable sum of expenses."
+    },
+    {
+      "name": "Piteously",
+      "frequency": 1,
+      "context": "Mrs. Marcom's tone."
+    },
+    {
+      "name": "Move",
+      "frequency": 1,
+      "context": "Mrs. Marcom considered moving."
+    },
+    {
+      "name": "Small houses",
+      "frequency": 1,
+      "context": "None were available to live in."
+    },
+    {
+      "name": "Bother",
+      "frequency": 1,
+      "context": "Mrs. Marcom didn't want to bother Ainsley."
+    },
+    {
+      "name": "Worry",
+      "frequency": 2,
+      "context": "Ainsley should not be worried, and Mrs. Marcom didn't know what to do."
+    },
+    {
+      "name": "Sixty",
+      "frequency": 1,
+      "context": "Mrs. Marcom was over sixty."
+    },
+    {
+      "name": "Strong",
+      "frequency": 1,
+      "context": "Mrs. Marcom was not a strong woman."
+    },
+    {
+      "name": "Evacuees",
+      "frequency": 1,
+      "context": "Mrs. Marcom took in evacuees from London."
+    },
+    {
+      "name": "Volunteer Service",
+      "frequency": 1,
+      "context": "Mrs. Marcom worked for the 'Women's Volunteer Service'."
+    },
+    {
+      "name": "Jam",
+      "frequency": 1,
+      "context": "Mrs. Marcom made jam."
+    },
+    {
+      "id": "168.2",
+      "text": "Before the war, she lived a comfortable life, but during the war, she worked fourteen hours a day.",
+      "level": 2
+    },
+    {
+      "name": "Collapse",
+      "frequency": 1,
+      "context": "Mrs. Marcom was on the verge of collapse."
+    },
+    {
+      "name": "Afraid",
+      "frequency": 1,
+      "context": "Mrs. Marcom was afraid of the future."
+    },
+    {
+      "name": "Anger",
+      "frequency": 1,
+      "context": "Ainsley felt anger rising."
+    },
+    {
+      "name": "Slowly",
+      "frequency": 2,
+      "context": "Ainsley said slowly and Mrs. Marcom said slowly."
+    },
+    {
+      "name": "Morally",
+      "frequency": 1,
+      "context": "Ainsley felt they had the moral right to ask for help."
+    },
+    {
+      "name": "Help",
+      "frequency": 3,
+      "context": "Ainsley asked if Rosaline could help, Mrs. Marcom didn't want to ask for help, and Ainsley felt they had the right to ask for help."
+    },
+    {
+      "name": "Right",
+      "frequency": 2,
+      "context": "Ainsley felt they had the right to ask for help."
+    },
+    {
+      "name": "Help",
+      "frequency": 3,
+      "context": "Ainsley asked if Rosaline could help, Mrs. Marcom didn't want to ask for help, and Ainsley felt they had the right to ask for help."
+    },
+    {
+      "name": "Others",
+      "frequency": 1,
+      "context": "Mrs. Marcom said it's not good to ask for help from others."
+    },
+    {
+      "name": "Dislike",
+      "frequency": 1,
+      "context": "Mrs. Marcom didn't like Mrs. Claude."
+    },
+    {
+      "name": "Penny",
+      "frequency": 1,
+      "context": "Mrs. Claude's brother wouldn't let her give away a penny."
+    },
+    {
+      "name": "Heroism",
+      "frequency": 1,
+      "context": "Turned into feminine pettiness."
+    },
+    {
+      "name": "Feminine",
+      "frequency": 1,
+      "context": "Small-mindedness."
+    },
+    {
+      "name": "Pettiness",
+      "frequency": 1,
+      "context": "Feminine pettiness."
+    },
+    {
+      "name": "Brother",
+      "frequency": 1,
+      "context": "Mrs. Marcom doubted if he was really her brother."
+    },
+    {
+      "name": "Husband",
+      "frequency": 7,
+      "context": "Frances's husband, Jerome Claude."
+    },
+    {
+      "name": "Table",
+      "frequency": 3,
+      "context": "Frances and Jerome sat at the table and ate dinner."
+    },
+    {
+      "name": "Thin",
+      "frequency": 2,
+      "context": "Frances and Jerome were thin."
+    },
+    {
+      "name": "Hound-like",
+      "frequency": 1,
+      "context": "Frances's appearance."
+    },
+    {
+      "name": "Arrogant beauty",
+      "frequency": 1,
+      "context": "Frances's face."
+    },
+    {
+      "name": "Makeup",
+      "frequency": 1,
+      "context": "Frances didn't wear makeup."
+    },
+    {
+      "name": "Lipstick",
+      "frequency": 1,
+      "context": "Frances wore casual lipstick."
+    },
+    {
+      "name": "Gray-haired",
+      "frequency": 1,
+      "context": "Jerome Claude was gray-haired."
+    },
+    {
+      "name": "Expressionless",
+      "frequency": 2,
+      "context": "Jerome Claude's face was expressionless."
+    },
+    {
+      "name": "Tonight",
+      "frequency": 1,
+      "context": "Jerome's face was more expressionless than usual."
+    },
+    {
+      "name": "Glance",
+      "frequency": 1,
+      "context": "Frances glanced at Jerome."
+    },
+    {
+      "name": "Distress",
+      "frequency": 1,
+      "context": "The maid looked at Frances with distress."
+    },
+    {
+      "name": "Frown",
+      "frequency": 1,
+      "context": "Frances frowned."
+    },
+    {
+      "name": "Approval",
+      "frequency": 1,
+      "context": "Frances's approval made the maid smile."
+    },
+    {
+      "name": "Smile",
+      "frequency": 2,
+      "context": "The maid smiled and Ainsley smiled."
+    },
+    {
+      "name": "Envy",
+      "frequency": 1,
+      "context": "Wensley Village people envied Frances."
+    },
+    {
+      "name": "Servant",
+      "frequency": 1,
+      "context": "Frances Claude had servants."
+    },
+    {
+      "name": "High salary",
+      "frequency": 1,
+      "context": "Frances didn't need to bribe maids with high salaries."
+    },
+    {
+      "name": "Demands",
+      "frequency": 1,
+      "context": "Frances's demands were not low."
+    },
+    {
+      "name": "Encouragement",
+      "frequency": 1,
+      "context": "Frances's friendly encouragement."
+    },
+    {
+      "name": "Energy",
+      "frequency": 1,
+      "context": "Frances's infectious energy."
+    },
+    {
+      "name": "Household",
+      "frequency": 1,
+      "context": "Frances drove the household forward."
+    },
+    {
+      "name": "Accustomed",
+      "frequency": 1,
+      "context": "Frances was accustomed to being served."
+    },
+    {
+      "name": "Unconsciously",
+      "frequency": 1,
+      "context": "Frances was used to being served unconsciously."
+    },
+    {
+      "name": "Appreciated",
+      "frequency": 2,
+      "context": "Frances appreciated good cooks/maids and Ainsley appreciated Gordon."
+    },
+    {
+      "name": "Pianists",
+      "frequency": 1,
+      "context": "Frances appreciated them like good cooks/maids."
+    },
+    {
+      "name": "Daughter",
+      "frequency": 1,
+      "context": "Frances was the only daughter of Sir Edward Tranton."
+    },
+    {
+      "name": "Horse trainer",
+      "frequency": 1,
+      "context": "Sir Edward Tranton's profession."
+    },
+    {
+      "name": "Bankruptcy",
+      "frequency": 1,
+      "context": "Sir Edward Tranton was finally bankrupt."
+    },
+    {
+      "name": "Escaped",
+      "frequency": 1,
+      "context": "Sir Edward escaped worse circumstances."
+    },
+    {
+      "name": "Rumors",
+      "frequency": 1,
+      "context": "Rumors abounded about Sir Edward."
+    },
+    {
+      "name": "Reputation",
+      "frequency": 1,
+      "context": "Sir Edward lost a little reputation."
+    },
+    {
+      "name": "Creditors",
+      "frequency": 1,
+      "context": "Sir Edward compromised with creditors."
+    },
+    {
+      "name": "Comfortable life",
+      "frequency": 1,
+      "context": "Sir Edward could live comfortably in the south of France."
+    },
+    {
+      "name": "Fortunes",
+      "frequency": 1,
+      "context": "Extra fortunes thanks to Jerome Claude."
+    },
+    {
+      "name": "Shrewd",
+      "frequency": 1,
+      "context": "Jerome Claude was shrewd."
+    },
+    {
+      "name": "Capable",
+      "frequency": 1,
+      "context": "Jerome Claude was capable."
+    },
+    {
+      "name": "Lawyer",
+      "frequency": 2,
+      "context": "Jerome Claude's profession."
+    },
+    {
+      "name": "Client",
+      "frequency": 1,
+      "context": "Jerome Claude provided service to his client."
+    },
+    {
+      "name": "Guarantees",
+      "frequency": 1,
+      "context": "Jerome Claude personally provided guarantees."
+    },
+    {
+      "name": "Fond",
+      "frequency": 1,
+      "context": "Jerome Claude was fond of Frances Tranton."
+    },
+    {
+      "name": "Settled",
+      "frequency": 1,
+      "context": "Everything was settled for Sir Edward."
+    },
+    {
+      "name": "Transaction",
+      "frequency": 1,
+      "context": "Frances played her role beautifully in this transaction."
+    },
+    {
+      "name": "Loyal",
+      "frequency": 1,
+      "context": "Frances was a loyal wife."
+    },
+    {
+      "name": "Son",
+      "frequency": 3,
+      "context": "Anthony was their son, and Frances was a mother to him."
+    },
+    {
+      "name": "Thoughtful",
+      "frequency": 1,
+      "context": "Frances was a thoughtful mother."
+    },
+    {
+      "name": "Encouraged",
+      "frequency": 1,
+      "context": "Frances encouraged Jerome's interests."
+    },
+    {
+      "name": "Voluntary",
+      "frequency": 1,
+      "context": "Frances never indicated the marriage was not voluntary."
+    },
+    {
+      "name": "Respected",
+      "frequency": 1,
+      "context": "The Claude family respected Frances."
+    },
+    {
+      "name": "Proud",
+      "frequency": 1,
+      "context": "They were proud of her."
+    },
+    {
+      "name": "Obeyed",
+      "frequency": 1,
+      "context": "They obeyed her judgment."
+    },
+    {
+      "name": "Close",
+      "frequency": 1,
+      "context": "They were never truly close to her."
+    },
+    {
+      "name": "Inner feelings",
+      "frequency": 1,
+      "context": "No one knew Jerome's inner feelings."
+    },
+    {
+      "name": "Thoughts",
+      "frequency": 1,
+      "context": "No one knew Jerome's thoughts."
+    },
+    {
+      "name": "Log of wood",
+      "frequency": 1,
+      "context": "How people described Jerome."
+    },
+    {
+      "name": "Reputation",
+      "frequency": 1,
+      "context": "Jerome Claude's reputation was highly regarded."
+    },
+    {
+      "name": "Legal issues",
+      "frequency": 1,
+      "context": "Jerome Claude never dealt with anything that might have legal issues."
+    },
+    {
+      "name": "Joint firm",
+      "frequency": 1,
+      "context": "Jerome Claude's joint firm with Brownskill."
+    },
+    {
+      "name": "Brownskill",
+      "frequency": 1,
+      "context": "Jerome Claude's partner."
+    },
+    {
+      "name": "Brilliant",
+      "frequency": 1,
+      "context": "The firm was not brilliant."
+    },
+    {
+      "name": "Proper",
+      "frequency": 1,
+      "context": "The firm was proper."
+    },
+    {
+      "name": "Business",
+      "frequency": 2,
+      "context": "The firm's business was good, and business became less brisk."
+    },
+    {
+      "name": "Backyard",
+      "frequency": 1,
+      "context": "The house had an old-fashioned courtyard in the backyard."
+    },
+    {
+      "name": "Pear trees",
+      "frequency": 1,
+      "context": "Pear trees bloomed in the spring."
+    },
+    {
+      "name": "White blossoms",
+      "frequency": 1,
+      "context": "Pear trees were covered with white blossoms."
+    },
+    {
+      "name": "Garden",
+      "frequency": 1,
+      "context": "The room overlooked the garden."
+    },
+    {
+      "name": "Panted",
+      "frequency": 1,
+      "context": "Adona panted as she brought the coffee."
+    },
+    {
+      "name": "Coffee",
+      "frequency": 3,
+      "context": "Adona brought coffee, Frances and Jerome drank coffee."
+    },
+    {
+      "name": "Strong",
+      "frequency": 1,
+      "context": "The coffee was strong."
+    },
+    {
+      "name": "Hot",
+      "frequency": 1,
+      "context": "The coffee was hot."
+    },
+    {
+      "name": "Pleasantly",
+      "frequency": 1,
+      "context": "Frances praised Adona pleasantly."
+    },
+    {
+      "name": "Incomprehensible",
+      "frequency": 1,
+      "context": "Adona found Frances's taste in coffee incomprehensible."
+    },
+    {
+      "name": "Milky white",
+      "frequency": 1,
+      "context": "Adona's preferred coffee."
+    },
+    {
+      "name": "Sugar",
+      "frequency": 1,
+      "context": "Adona liked sugar in her coffee."
+    },
+    {
+      "name": "Milk",
+      "frequency": 1,
+      "context": "Adona liked milk in her coffee."
+    },
+    {
+      "name": "Black coffee",
+      "frequency": 1,
+      "context": "The Claudes drank strong black coffee."
+    },
+    {
+      "name": "Dinner",
+      "frequency": 1,
+      "context": "They ate dinner."
+    },
+    {
+      "name": "Aimlessly",
+      "frequency": 1,
+      "context": "They chatted aimlessly."
+    },
+    {
+      "name": "Prospects",
+      "frequency": 1,
+      "context": "Future prospects of the farm."
+    },
+    {
+      "name": "Leaned back",
+      "frequency": 1,
+      "context": "Frances leaned back in her chair."
+    },
+    {
+      "name": "Concern",
+      "frequency": 1,
+      "context": "Jerome didn't notice Frances's concern."
+    },
+    {
+      "name": "Stroking",
+      "frequency": 1,
+      "context": "Jerome was stroking his upper lip."
+    },
+    {
+      "name": "Upper lip",
+      "frequency": 2,
+      "context": "Jerome stroked his upper lip."
+    },
+    {
+      "name": "Gesture",
+      "frequency": 1,
+      "context": "Jerome's gesture indicated inner turmoil."
+    },
+    {
+      "name": "Inner turmoil",
+      "frequency": 1,
+      "context": "Jerome's gesture indicated this."
+    },
+    {
+      "name": "Rarely",
+      "frequency": 1,
+      "context": "Frances rarely saw him make this gesture."
+    },
+    {
+      "name": "Seriously ill",
+      "frequency": 1,
+      "context": "Their son Anthony was seriously ill."
+    },
+    {
+      "name": "Waiting",
+      "frequency": 1,
+      "context": "Waiting for the jury's verdict."
+    },
+    {
+      "name": "Jury's verdict",
+      "frequency": 1,
+      "context": "Jerome was waiting for this."
+    },
+    {
+      "name": "Outbreak of war",
+      "frequency": 1,
+      "context": "Jerome listened to radio reports at the outbreak of war."
+    },
+    {
+      "name": "Radio reports",
+      "frequency": 1,
+      "context": "Jerome listened to these at the outbreak of war."
+    },
+    {
+      "name": "Enlistment",
+      "frequency": 1,
+      "context": "Anthony's enlistment."
+    },
+    {
+      "name": "Eve",
+      "frequency": 1,
+      "context": "Anthony's enlistment eve."
+    },
+    {
+      "name": "Considered",
+      "frequency": 1,
+      "context": "Frances considered before speaking."
+    },
+    {
+      "name": "Married life",
+      "frequency": 1,
+      "context": "Their married life had always been pleasant."
+    },
+    {
+      "name": "Limit",
+      "frequency": 1,
+      "context": "Their marriage stopped at a certain limit."
+    },
+    {
+      "name": "Respected",
+      "frequency": 1,
+      "context": "Frances respected what Jerome didn't say."
+    },
+    {
+      "id": "188.2",
+      "text": "She respected what he didn't say, and he did the same.",
+      "level": 2
+    },
+    {
+      "name": "Telegram",
+      "frequency": 2,
+      "context": "The telegram arrived with Anthony's death notice."
+    },
+    {
+      "name": "Death notice",
+      "frequency": 1,
+      "context": "Anthony's death notice."
+    },
+    {
+      "name": "Broke down",
+      "frequency": 1,
+      "context": "Neither of them broke down."
+    },
+    {
+      "name": "Opened",
+      "frequency": 1,
+      "context": "Jerome opened the telegram."
+    },
+    {
+      "name": "Read",
+      "frequency": 1,
+      "context": "Jerome read the telegram."
+    },
+    {
+      "name": "Looked up",
+      "frequency": 1,
+      "context": "Jerome looked up at her."
+    },
+    {
+      "name": "Handed",
+      "frequency": 1,
+      "context": "Jerome handed her the telegram."
+    },
+    {
+      "name": "Silence",
+      "frequency": 1,
+      "context": "They stood in silence."
+    },
+    {
+      "name": "Hope",
+      "frequency": 1,
+      "context": "Jerome hoped he could help her."
+    },
+    {
+      "name": "Steady",
+      "frequency": 1,
+      "context": "Frances replied in a steady voice."
+    },
+    {
+      "name": "Empty",
+      "frequency": 1,
+      "context": "Frances replied in a terrifyingly empty voice."
+    },
+    {
+      "name": "Sad",
+      "frequency": 1,
+      "context": "Jerome said they were both sad."
+    },
+    {
+      "name": "Pat",
+      "frequency": 1,
+      "context": "Jerome patted her shoulder."
+    },
+    {
+      "name": "Shoulder",
+      "frequency": 1,
+      "context": "Jerome patted her shoulder."
+    },
+    {
+      "name": "Door",
+      "frequency": 1,
+      "context": "Jerome walked towards the door."
+    },
+    {
+      "name": "Uneven",
+      "frequency": 1,
+      "context": "Jerome's steps were uneven."
+    },
+    {
+      "name": "Aged",
+      "frequency": 1,
+      "context": "Jerome seemed to have aged a lot."
+    },
+    {
+      "name": "Grateful",
+      "frequency": 1,
+      "context": "Frances was grateful for his thoughtfulness."
+    },
+    {
+      "name": "Thoughtfulness",
+      "frequency": 1,
+      "context": "Frances was grateful for his thoughtfulness."
+    },
+    {
+      "name": "Heartache",
+      "frequency": 1,
+      "context": "Seeing him age made her heart ache."
+    },
+    {
+      "name": "Lost child",
+      "frequency": 1,
+      "context": "After losing her child, Frances became stronger."
+    },
+    {
+      "name": "Ordinary kindness",
+      "frequency": 1,
+      "context": "Disappeared after losing her child."
+    },
+    {
+      "name": "Energetic",
+      "frequency": 1,
+      "context": "Frances became more energetic."
+    },
+    {
+      "name": "Cruel common sense",
+      "frequency": 1,
+      "context": "People were afraid of her cruel common sense."
+    },
+    {
+      "name": "Hesitatingly",
+      "frequency": 1,
+      "context": "Jerome's fingers were hesitatingly moving."
+    },
+    {
+      "name": "Wrong",
+      "frequency": 2,
+      "context": "Frances asked if something was wrong, and Jerome said nothing was wrong."
+    },
+    {
+      "name": "Startled",
+      "frequency": 1,
+      "context": "Jerome was startled."
+    },
+    {
+      "name": "Coffee cup",
+      "frequency": 1,
+      "context": "Almost slipped from Jerome's hand."
+    },
+    {
+      "name": "Composure",
+      "frequency": 1,
+      "context": "Jerome regained his composure."
+    },
+    {
+      "name": "Calmly",
+      "frequency": 1,
+      "context": "Jerome calmly placed the cup."
+    },
+    {
+      "name": "Saucer",
+      "frequency": 1,
+      "context": "Jerome placed the cup on the saucer."
+    },
+    {
+      "name": "Referring",
+      "frequency": 1,
+      "context": "Jerome asked what she was referring to."
+    },
+    {
+      "name": "Guess",
+      "frequency": 1,
+      "context": "Frances said it was ridiculous to guess."
+    },
+    {
+      "name": "Unbelievable",
+      "frequency": 1,
+      "context": "Jerome's answer was unbelievable."
+    },
+    {
+      "name": "Denial",
+      "frequency": 1,
+      "context": "His denial was unbelievable."
+    },
+    {
+      "name": "Hesitated",
+      "frequency": 1,
+      "context": "Jerome hesitated and looked at her."
+    },
+    {
+      "name": "Composure",
+      "frequency": 1,
+      "context": "Jerome's usual composure."
+    },
+    {
+      "name": "Fell away",
+      "frequency": 1,
+      "context": "Jerome's mask of composure fell away."
+    },
+    {
+      "name": "Annoyance",
+      "frequency": 1,
+      "context": "Frances saw annoyance in his expression."
+    },
+    {
+      "name": "Pain",
+      "frequency": 1,
+      "context": "Frances saw pain in his expression."
+    },
+    {
+      "name": "Cried out",
+      "frequency": 1,
+      "context": "Frances almost cried out."
+    },
+    {
+      "name": "Fleeting moment",
+      "frequency": 1,
+      "context": "It was only for a fleeting moment."
+    },
+    {
+      "name": "Misread",
+      "frequency": 1,
+      "context": "Frances was sure she had not misread it."
+    },
+    {
+      "name": "Indifferently",
+      "frequency": 1,
+      "context": "Frances said calmly and indifferently."
+    },
+    {
+      "name": "Deeply",
+      "frequency": 1,
+      "context": "Jerome sighed deeply."
+    },
+    {
+      "name": "Unhappily",
+      "frequency": 1,
+      "context": "Jerome sighed unhappily."
+    },
+    {
+      "name": "Sooner or later",
+      "frequency": 1,
+      "context": "Jerome said she would know sooner or later."
+    },
+    {
+      "name": "Surprised",
+      "frequency": 1,
+      "context": "Jerome said something that greatly surprised her."
+    },
+    {
+      "name": "Deal",
+      "frequency": 2,
+      "context": "Frances made a bad deal, and Jerome said she made a bad deal."
+    },
+    {
+      "name": "Meaning",
+      "frequency": 1,
+      "context": "Frances didn't understand his meaning."
+    },
+    {
+      "name": "Blurted out",
+      "frequency": 1,
+      "context": "Frances blurted out, 'What? Is it about money?'"
+    },
+    {
+      "name": "Thought",
+      "frequency": 2,
+      "context": "Frances thought about money and thought silently."
+    },
+    {
+      "name": "Short of money",
+      "frequency": 1,
+      "context": "They were not short of money."
+    },
+    {
+      "name": "Firm",
+      "frequency": 2,
+      "context": "The firm was short of staff, and the firm's business was good."
+    },
+    {
+      "name": "Staff",
+      "frequency": 1,
+      "context": "The firm was short of staff."
+    },
+    {
+      "name": "Everywhere",
+      "frequency": 1,
+      "context": "That was the case everywhere at this time."
+    },
+    {
+      "name": "Far East",
+      "frequency": 1,
+      "context": "The situation in the Far East had changed."
+    },
+    {
+      "name": "Changed",
+      "frequency": 1,
+      "context": "The situation in the Far East had changed."
+    },
+    {
+      "name": "Trouble",
+      "frequency": 1,
+      "context": "Jerome was in trouble again."
+    },
+    {
+      "name": "Solve",
+      "frequency": 1,
+      "context": "Jerome hadn't been able to solve the problem."
+    },
+    {
+      "name": "Relied",
+      "frequency": 1,
+      "context": "Jerome had always relied on Gordon."
+    },
+    {
+      "name": "Impatiently",
+      "frequency": 1,
+      "context": "Frances sighed quickly impatiently."
+    },
+    {
+      "name": "Blame",
+      "frequency": 1,
+      "context": "Frances didn't want to blame the poor man."
+    },
+    {
+      "name": "Fall for",
+      "frequency": 1,
+      "context": "Anyone can fall for a beautiful woman."
+    },
+    {
+      "name": "Arrange",
+      "frequency": 1,
+      "context": "Gordon didn't have time to arrange things."
+    },
+    {
+      "name": "Dangerous",
+      "frequency": 1,
+      "context": "No matter how dangerous the situation."
+    },
+    {
+      "name": "Unlucky",
+      "frequency": 1,
+      "context": "No one believed they would be unlucky enough to be bombed."
+    },
+    {
+      "name": "Bombed",
+      "frequency": 2,
+      "context": "Gordon Claude was bombed to death, and people thought bombs would fall on others."
+    },
+    {
+      "name": "Others",
+      "frequency": 1,
+      "context": "Bombs would fall on others."
+    },
+    {
+      "name": "Proud",
+      "frequency": 1,
+      "context": "Jerome was proud of Gordon."
+    },
+    {
+      "name": "Blow",
+      "frequency": 1,
+      "context": "Gordon's death was a great blow."
+    },
+    {
+      "name": "Bankrupt",
+      "frequency": 1,
+      "context": "Frances asked if they would go bankrupt."
+    },
+    {
+      "name": "Rationally",
+      "frequency": 1,
+      "context": "Frances asked rationally."
+    },
+    {
+      "name": "Disappointed",
+      "frequency": 1,
+      "context": "Jerome looked at her with disappointed eyes."
+    },
+    {
+      "name": "Cried",
+      "frequency": 1,
+      "context": "If she had cried or screamed, he might have felt better."
+    },
+    {
+      "name": "Screamed",
+      "frequency": 1,
+      "context": "If she had cried or screamed, he might have felt better."
+    },
+    {
+      "name": "Cold",
+      "frequency": 1,
+      "context": "Frances was cold."
+    },
+    {
+      "name": "Practical",
+      "frequency": 1,
+      "context": "Frances was practical."
+    },
+    {
+      "name": "Crude",
+      "frequency": 1,
+      "context": "Jerome said crudely."
+    },
+    {
+      "name": "Consider",
+      "frequency": 1,
+      "context": "He watched her calmly consider the matter."
+    },
+    {
+      "name": "Person",
+      "frequency": 1,
+      "context": "She'll know what kind of person I am."
+    },
+    {
+      "name": "Right",
+      "frequency": 1,
+      "context": "She has the right to know."
+    },
+    {
+      "name": "Believe",
+      "frequency": 1,
+      "context": "Maybe she won't believe it for a while."
+    },
+    {
+      "name": "Straighter",
+      "frequency": 1,
+      "context": "Frances sat straighter in the armchair."
+    },
+    {
+      "name": "Embezzlement",
+      "frequency": 1,
+      "context": "Frances asked if it was embezzlement."
+    },
+    {
+      "name": "Misappropriated",
+      "frequency": 1,
+      "context": "Jerome misappropriated trust funds."
+    },
+    {
+      "name": "Trust funds",
+      "frequency": 1,
+      "context": "Funds Jerome misappropriated."
+    },
+    {
+      "name": "Entrusted",
+      "frequency": 1,
+      "context": "Funds entrusted to him."
+    },
+    {
+      "name": "Hidden",
+      "frequency": 1,
+      "context": "Jerome had hidden it well."
+    },
+    {
+      "name": "Exposed",
+      "frequency": 1,
+      "context": "It was about to be exposed."
+    },
+    {
+      "name": "Amount",
+      "frequency": 1,
+      "context": "Unless he could get that amount."
+    },
+    {
+      "name": "Immediately",
+      "frequency": 1,
+      "context": "Unless he could get the amount immediately."
+    },
+    {
+      "name": "Shame",
+      "frequency": 1,
+      "context": "Greatest shame he had ever felt."
+    },
+    {
+      "name": "Calm",
+      "frequency": 1,
+      "context": "Frances appeared very calm."
+    },
+    {
+      "name": "Lost temper",
+      "frequency": 1,
+      "context": "Frances never lost her temper."
+    },
+    {
+      "name": "Scolded",
+      "frequency": 1,
+      "context": "Frances never scolded others."
+    },
+    {
+      "name": "Cheek",
+      "frequency": 1,
+      "context": "Frances touched her cheek."
+    },
+    {
+      "name": "Frowning",
+      "frequency": 1,
+      "context": "Frances was frowning."
+    },
+    {
+      "name": "Foolish",
+      "frequency": 1,
+      "context": "Frances said she was so foolish."
+    },
+    {
+      "name": "Dowry",
+      "frequency": 1,
+      "context": "Frances had a dowry."
+    },
+    {
+      "name": "Absently",
+      "frequency": 1,
+      "context": "Frances said absently."
+    },
+    {
+      "name": "Used up",
+      "frequency": 1,
+      "context": "The dowry was used up."
+    },
+    {
+      "name": "Silent",
+      "frequency": 1,
+      "context": "Jerome was silent."
+    },
+    {
+      "name": "Indifferent tone",
+      "frequency": 1,
+      "context": "Jerome spoke in an indifferent tone."
+    },
+    {
+      "name": "Married",
+      "frequency": 3,
+      "context": "Frances married Jerome, Gordon married, and Frances thought about why she married."
+    },
+    {
+      "name": "Family circumstances",
+      "frequency": 1,
+      "context": "Frances's family circumstances were good when she married."
+    },
+    {
+      "name": "Carefree life",
+      "frequency": 1,
+      "context": "Frances had the right to expect a carefree life."
+    },
+    {
+      "name": "Surprised",
+      "frequency": 1,
+      "context": "Frances was surprised."
+    },
+    {
+      "name": "Laughed",
+      "frequency": 1,
+      "context": "Frances burst into laughter."
+    },
+    {
+      "name": "Ridiculous",
+      "frequency": 1,
+      "context": "Frances called Jerome ridiculous."
+    },
+    {
+      "name": "Old stubborn man",
+      "frequency": 1,
+      "context": "Frances called Jerome an old stubborn man."
+    },
+    {
+      "name": "Respectable",
+      "frequency": 1,
+      "context": "Jerome looked respectable."
+    },
+    {
+      "name": "Nonsense",
+      "frequency": 1,
+      "context": "Jerome's mind was full of nonsense."
+    },
+    {
+      "name": "Save",
+      "frequency": 1,
+      "context": "Frances thought she married to save her father's business."
+    },
+    {
+      "name": "Father's business",
+      "frequency": 1,
+      "context": "Frances thought she married to save it."
+    },
+    {
+      "name": "Loved",
+      "frequency": 1,
+      "context": "Jerome knew Frances loved her father."
+    }
+  ],
+  "relations": [
+    {
+      "source": "Major Porter",
+      "target": "Coronation Club",
+      "type": "is_member_of"
+    },
+    {
+      "source": "Major Porter",
+      "target": "Gordon Claude",
+      "type": "talks_about"
+    },
+    {
+      "source": "Gordon Claude",
+      "target": "Air raid",
+      "type": "died_in"
+    },
+    {
+      "source": "Gordon Claude",
+      "target": "Mrs. Andehai",
+      "type": "married"
+    },
+    {
+      "source": "Mrs. Andehai",
+      "target": "Andehai",
+      "type": "was_wife_of"
+    },
+    {
+      "source": "Andehai",
+      "target": "Nigeria",
+      "type": "worked_in"
+    },
+    {
+      "source": "Andehai",
+      "target": "Jungle",
+      "type": "died_in"
+    },
+    {
+      "source": "Major Porter",
+      "target": "Andehai",
+      "type": "knew"
+    },
+    {
+      "source": "Jerome Claude",
+      "target": "Gordon Claude",
+      "type": "brother_of"
+    },
+    {
+      "source": "Jerome Claude",
+      "target": "Lawyer",
+      "type": "is_a"
+    },
+    {
+      "source": "Mr. Marland",
+      "target": "Jerome Claude",
+      "type": "warns_about"
+    },
+    {
+      "source": "Hercule Poirot",
+      "target": "Mrs. Claude",
+      "type": "consulted_by"
+    },
+    {
+      "source": "Mrs. Claude",
+      "target": "Spiritual guidance",
+      "type": "believes_in"
+    },
+    {
+      "source": "Mrs. Claude",
+      "target": "Ouija board",
+      "type": "uses"
+    },
+    {
+      "source": "Mrs. Claude",
+      "target": "Gordon Claude",
+      "type": "relative_of"
+    },
+    {
+      "source": "Gordon Claude",
+      "target": "Air raid",
+      "type": "died_in"
+    },
+    {
+      "source": "Linneil Claude",
+      "target": "Doctor",
+      "type": "is_a"
+    },
+    {
+      "source": "Linneil Claude",
+      "target": "Mrs. Claude",
+      "type": "husband_of"
+    },
+    {
+      "source": "Robert",
+      "target": "Ghost",
+      "type": "is_a"
+    },
+    {
+      "source": "Robert",
+      "target": "Mrs. Claude",
+      "type": "communicates_with"
+    },
+    {
+      "source": "Robert",
+      "target": "Andehai",
+      "type": "is_likely"
+    },
+    {
+      "source": "Rosaline",
+      "target": "Mrs. Andehai",
+      "type": "is_name_of"
+    },
+    {
+      "source": "Ennaco Arden",
+      "target": "Died",
+      "type": "event"
+    },
+    {
+      "source": "Wensley Village",
+      "target": "Ennaco Arden",
+      "type": "location_of_death"
+    },
+    {
+      "source": "Ains Layce Marcom",
+      "target": "Women's Royal Naval Service",
+      "type": "served_in"
+    },
+    {
+      "source": "Ains Layce Marcom",
+      "target": "White House",
+      "type": "lives_in"
+    },
+    {
+      "source": "Mrs. Marcom",
+      "target": "Ains Layce Marcom",
+      "type": "mother_of"
+    },
+    {
+      "source": "Rory Claude",
+      "target": "Ains Layce Marcom",
+      "type": "fiancé_of"
+    },
+    {
+      "source": "Rory Claude",
+      "target": "Farmer",
+      "type": "is_a"
+    },
+    {
+      "source": "Gordon Claude",
+      "target": "Relatives",
+      "type": "supported"
+    },
+    {
+      "source": "Jerome Claude",
+      "target": "Frances Claude",
+      "type": "husband_of"
+    },
+    {
+      "source": "Frances Claude",
+      "target": "Jerome Claude",
+      "type": "wife_of"
+    },
+    {
+      "source": "Frances Claude",
+      "target": "Lawyer",
+      "type": "respects"
+    },
+    {
+      "source": "Jerome Claude",
+      "target": "Misappropriated",
+      "type": "action"
+    },
+    {
+      "source": "Jerome Claude",
+      "target": "Trust funds",
+      "type": "misappropriated"
+    },
+    {
+      "source": "Frances Claude",
+      "target": "Money",
+      "type": "doesn't_care_about"
+    },
+    {
+      "source": "Jerome Claude",
+      "target": "Money",
+      "type": "symbolizes"
+    },
+    {
+      "source": "Frances Claude",
+      "target": "Father's business",
+      "type": "thought_married_to_save"
+    },
+    {
+      "source": "Jerome Claude",
+      "target": "Gordon Claude",
+      "type": "brother_of"
+    },
+    {
+      "source": "Gordon Claude",
+      "target": "Marriage",
+      "type": "consequences_of"
+    },
+    {
+      "source": "Gordon Claude",
+      "target": "Will",
+      "type": "made"
+    },
+    {
+      "source": "Will",
+      "target": "Invalid",
+      "type": "status"
+    },
+    {
+      "source": "Rosaline",
+      "target": "Gordon Claude",
+      "type": "wife_of"
+    },
+    {
+      "source": "Gordon Claude",
+      "target": "Air raid",
+      "type": "died_in"
+    },
+    {
+      "source": "Frances Claude",
+      "target": "Jerome Claude",
+      "type": "has_disappointment_in"
+    },
+    {
+      "source": "Jerome Claude",
+      "target": "Frances Claude",
+      "type": "feels_sorry_for"
+    },
+    {
+      "source": "Frances Claude",
+      "target": "Money",
+      "type": "lack_of"
+    },
+    {
+      "source": "Jerome Claude",
+      "target": "Crisis",
+      "type": "experienced"
+    },
+    {
+      "source": "Little William",
+      "target": "Absconded",
+      "type": "action"
+    },
+    {
+      "source": "Little William",
+      "target": "Funds",
+      "type": "absconded_with"
+    },
+    {
+      "source": "Jerome Claude",
+      "target": "Gordon Claude",
+      "type": "relied_on"
+    },
+    {
+      "source": "Gordon Claude",
+      "target": "Beautiful woman",
+      "type": "fell_for"
+    },
+    {
+      "source": "Frances Claude",
+      "target": "Jerome Claude",
+      "type": "married"
+    },
+    {
+      "source": "Jerome Claude",
+      "target": "Frances Claude",
+      "type": "married"
+    },
+    {
+      "source": "Frances Claude",
+      "target": "Gordon Claude's death",
+      "type": "felt_impact_of"
+    },
+    {
+      "source": "Jerome Claude",
+      "target": "Gordon Claude's death",
+      "type": "felt_impact_of"
+    },
+    {
+      "source": "Jerome Claude",
+      "target": "Embezzlement",
+      "type": "accused_of"
+    },
+    {
+      "source": "Jerome Claude",
+      "target": "Trust funds",
+      "type": "misappropriated"
+    },
+    {
+      "source": "Frances Claude",
+      "target": "Jerome Claude",
+      "type": "confronted"
+    },
+    {
+      "source": "Jerome Claude",
+      "target": "Shame",
+      "type": "felt"
+    },
+    {
+      "source": "Frances Claude",
+      "target": "Calmness",
+      "type": "exhibited"
+    },
+    {
+      "source": "Jerome Claude",
+      "target": "Family circumstances",
+      "type": "affected_marriage_of"
+    },
+    {
+      "source": "Frances Claude",
+      "target": "Carefree life",
+      "type": "expected"
+    },
+    {
+      "source": "Frances Claude",
+      "target": "Jerome Claude",
+      "type": "married_for_reason_of"
+    },
+    {
+      "source": "Jerome Claude",
+      "target": "Frances Claude",
+      "type": "thought_married_for_reason_of"
+    },
+    {
+      "source": "Frances Claude",
+      "target": "Father's business",
+      "type": "married_to_save"
+    },
+    {
+      "source": "Jerome Claude",
+      "target": "Frances Claude",
+      "type": "loved"
+    }
+  ],
+  "hierarchy": {
+    "main_topics": [
+      "Chapter 1: Introduction of characters and initial conflict",
+      "Chapter 2: Introduction of the mystery and the detective",
+      "Chapter 3: Exploring the financial and familial background",
+      "Chapter 4: Unveiling the legal and financial crisis"
+    ],
+    "structure": "The document is structured into four chapters, each progressing the narrative and introducing new characters and plot elements. Chapter 1 sets the scene in a club and introduces a potentially suspicious death and an annoying narrator. Chapter 2 brings in Hercule Poirot and a mysterious client. Chapter 3 delves into the family's past and financial struggles, while Chapter 4 reveals a serious legal and financial crisis faced by Jerome Claude."
+  }
+}

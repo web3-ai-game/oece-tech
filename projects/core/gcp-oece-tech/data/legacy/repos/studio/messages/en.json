@@ -1,0 +1,102 @@
+{
+  "common": {
+    "brand": "DeepWeay",
+    "tagline": "Deep Dive into Digital Nomad 2.0",
+    "slogan": "Negotiate with physical distance and time"
+  },
+  "nav": {
+    "home": "Home",
+    "dashboard": "DASHBOARD",
+    "articles": "ARTICLES",
+    "aiTools": "AI_TOOLS",
+    "bbs": "FORUM",
+    "settings": "Settings",
+    "logout": "Logout",
+    "login": "SIGN_IN",
+    "signup": "CREATE_ACCOUNT"
+  },
+  "auth": {
+    "login": "Sign In",
+    "register": "Create Account",
+    "email": "Email",
+    "password": "Password",
+    "inviteCode": "Invite Code",
+    "signIn": "SIGN_IN",
+    "createAccount": "CREATE_ACCOUNT",
+    "alreadyMember": "Already a diver?",
+    "newToDiving": "New to diving?"
+  },
+  "tools": {
+    "visaComparison": {
+      "title": "VISA_COMPARISON",
+      "subtitle": "Compare digital nomad visas across countries",
+      "nationality": "Your Nationality",
+      "compare": "COMPARE_VISAS",
+      "comparing": "ANALYZING..."
+    },
+    "visaAssistant": {
+      "title": "VISA_APPLICATION_ASSISTANT",
+      "subtitle": "Get step-by-step guidance for your visa application",
+      "visaType": "Visa Type",
+      "nationality": "Nationality",
+      "destination": "Destination Country",
+      "purpose": "Purpose",
+      "duration": "Duration",
+      "getGuidance": "GET_GUIDANCE",
+      "analyzing": "ANALYZING...",
+      "applicationDetails": "APPLICATION_DETAILS",
+      "tellUsAbout": "Tell us about your visa"
+    },
+    "costOfLiving": {
+      "title": "COST_OF_LIVING",
+      "subtitle": "Compare living costs & arbitrage opportunities",
+      "city1": "City 1",
+      "city2": "City 2",
+      "city3": "City 3 (Optional)",
+      "analyze": "ANALYZE_COSTS",
+      "analyzing": "ANALYZING..."
+    },
+    "tripPlanner": {
+      "title": "AI_TRIP_PLANNER",
+      "subtitle": "Craft your perfect itinerary with AI",
+      "destination": "Destination",
+      "duration": "Duration",
+      "budget": "Budget (USD)",
+      "interests": "Interests & Style",
+      "aiMode": "AI Mode",
+      "quickMode": "⚡ Quick (Fast & Concise)",
+      "standardMode": "⚙️ Standard (Balanced)",
+      "detailedMode": "🔥 Detailed (Comprehensive)",
+      "generate": "GENERATE_ITINERARY",
+      "generating": "GENERATING...",
+      "generatingQuick": "GENERATING (Fast)...",
+      "generatingStandard": "GENERATING...",
+      "generatingDetailed": "GENERATING (Detailed)...",
+      "yourTravelPlan": "YOUR_TRAVEL_PLAN",
+      "inputPreferences": "Input your preferences",
+      "itineraryPlaceholder": "Your itinerary will appear here",
+      "fillForm": "Fill out the form to generate your AI trip plan"
+    }
+  },
+  "footer": {
+    "tagline": "Deep Dive into Digital Nomad 2.0",
+    "slogan": "Negotiate with physical distance and time",
+    "tools": "AI_TOOLS",
+    "visaComparison": "Visa Comparison",
+    "costOfLiving": "Cost of Living",
+    "tripPlanner": "Trip Planner",
+    "community": "COMMUNITY",
+    "forum": "Forum",
+    "articles": "Articles",
+    "telegram": "Telegram",
+    "resources": "RESOURCES",
+    "aboutUs": "About Us",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service",
+    "copyright": "© 2025 DeepWeay. All rights reserved."
+  },
+  "errors": {
+    "general": "An error occurred",
+    "tryAgain": "Please try again later"
+  }
+}

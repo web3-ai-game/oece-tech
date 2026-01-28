@@ -1,0 +1,390 @@
+{
+  "propositions": [
+    {
+      "id": "1",
+      "text": "《湘西异事之十二悬门》是一部小说。",
+      "level": 1
+    },
+    {
+      "id": "1.1",
+      "text": "故事发生在2007年7月1日。",
+      "level": 2
+    },
+    {
+      "id": "1.2",
+      "text": "故事的叙述者是萧逸，一位恐怖小说作家。",
+      "level": 2
+    },
+    {
+      "id": "1.3",
+      "text": "萧逸曾是化工系高材生，毕业论文是《论甲基苯丙胺原子重组结构》。",
+      "level": 2
+    },
+    {
+      "id": "1.4",
+      "text": "萧逸大学毕业后三年找不到工作，后转行写小说。",
+      "level": 2
+    },
+    {
+      "id": "1.5",
+      "text": "一位名叫慕容雪的网友邀请萧逸去湘西游历。",
+      "level": 2
+    },
+    {
+      "id": "1.6",
+      "text": "萧逸收到慕容雪发来的神秘邮件和纸条。",
+      "level": 2
+    },
+    {
+      "id": "1.7",
+      "text": "一张纸条上写着“大张路28号”。",
+      "level": 3
+    },
+    {
+      "id": "1.8",
+      "text": "萧逸前往大张路28号，并在途中被一辆黑色桑塔纳撞伤。",
+      "level": 2
+    },
+    {
+      "id": "1.9",
+      "text": "司机刘龙枪是一名运输商人。",
+      "level": 2
+    },
+    {
+      "id": "1.10",
+      "text": "刘龙枪也收到了来自慕容雪的恐吓纸条。",
+      "level": 3
+    },
+    {
+      "id": "1.11",
+      "text": "萧逸和刘龙枪决定一同前往慕容雪约定的地点。",
+      "level": 2
+    },
+    {
+      "id": "1.12",
+      "text": "萧逸收到大学同学沈牟白的短信，沈牟白正在调查一起发生在湘西的缉毒案。",
+      "level": 2
+    },
+    {
+      "id": "1.13",
+      "text": "沈牟白怀疑警方中有“内鬼”，导致缉毒行动失败。",
+      "level": 3
+    },
+    {
+      "id": "1.14",
+      "text": "一名名叫萧云辉的刑警队员在大阿山一役中精神失常，喃喃念叨着“花”。",
+      "level": 3
+    },
+    {
+      "id": "1.15",
+      "text": "萧逸和刘龙枪在前往静安庄的途中遭遇“鬼打墙”，无法到达目的地。",
+      "level": 2
+    },
+    {
+      "id": "1.16",
+      "text": "萧逸在梦中看见十二扇门，其中一扇是镜子，镜中出现了一个扭曲的影子。",
+      "level": 2
+    },
+    {
+      "id": "1.17",
+      "text": "萧逸和刘龙枪在路边发现“静安庄”的牌子。",
+      "level": 3
+    },
+    {
+      "id": "1.18",
+      "text": "刘龙枪因为看见一个满脸是血的女人而逃跑。",
+      "level": 3
+    },
+    {
+      "id": "1.19",
+      "text": "萧逸独自找到大张路28号，一座灰色的二层小楼。",
+      "level": 2
+    },
+    {
+      "id": "1.20",
+      "text": "一位自称“夜二”的女子接待了萧逸，她并非慕容雪。",
+      "level": 2
+    },
+    {
+      "id": "1.21",
+      "text": "夜二试图催眠萧逸。",
+      "level": 3
+    },
+    {
+      "id": "1.22",
+      "text": "萧逸识破了夜二的催眠术。",
+      "level": 3
+    },
+    {
+      "id": "1.23",
+      "text": "夜二启动了陷阱，萧逸摔进了通道。",
+      "level": 2
+    },
+    {
+      "id": "1.24",
+      "text": "萧逸在一家馄饨摊吃到了“香肉馄饨”（狗肉）。",
+      "level": 2
+    },
+    {
+      "id": "1.25",
+      "text": "老头儿声称其祖上曾为五代时的赵思绾做过馄饨。",
+      "level": 3
+    },
+    {
+      "id": "1.26",
+      "text": "赵思绾被认为是食人魔王。",
+      "level": 3
+    }
+  ],
+  "concepts": [
+    {
+      "name": "湘西",
+      "frequency": 8,
+      "context": "故事发生的地点，以“鬼事”闻名。"
+    },
+    {
+      "name": "慕容雪",
+      "frequency": 7,
+      "context": "邀请萧逸去湘西的神秘网友。"
+    },
+    {
+      "name": "萧逸",
+      "frequency": 7,
+      "context": "故事的叙述者，恐怖小说作家。"
+    },
+    {
+      "name": "纸条",
+      "frequency": 6,
+      "context": "慕容雪用来传递信息（地址、恐吓）的媒介。"
+    },
+    {
+      "name": "恐怖",
+      "frequency": 5,
+      "context": "故事的主要情感基调和萧逸的职业。"
+    },
+    {
+      "name": "刘龙枪",
+      "frequency": 5,
+      "context": "被萧逸撞伤的商人，后成为其盟友。"
+    },
+    {
+      "name": "黑夜",
+      "frequency": 4,
+      "context": "故事发生的主要时间背景。"
+    },
+    {
+      "name": "车祸",
+      "frequency": 3,
+      "context": "萧逸和刘龙枪相遇的起因。"
+    },
+    {
+      "name": "沈牟白",
+      "frequency": 3,
+      "context": "萧逸的大学同学，刑警，正在调查湘西的旧案。"
+    },
+    {
+      "name": "缉毒案",
+      "frequency": 3,
+      "context": "沈牟白调查的旧案，与湘西有关。"
+    },
+    {
+      "name": "内鬼",
+      "frequency": 3,
+      "context": "沈牟白怀疑在警方内部存在的人。"
+    },
+    {
+      "name": "鬼打墙",
+      "frequency": 3,
+      "context": "萧逸和刘龙枪在路上遇到的怪异现象。"
+    },
+    {
+      "name": "大张路28号",
+      "frequency": 3,
+      "context": "慕容雪约定的地点，也是故事的关键场景。"
+    },
+    {
+      "name": "夜二",
+      "frequency": 3,
+      "context": "在大张路28号接待萧逸的神秘女子。"
+    },
+    {
+      "name": "催眠术",
+      "frequency": 3,
+      "context": "夜二用来迷惑萧逸的手段。"
+    },
+    {
+      "name": "馄饨",
+      "frequency": 3,
+      "context": "萧逸在途中遇到的食物，后引发不祥联想。"
+    },
+    {
+      "name": "赵思绾",
+      "frequency": 3,
+      "context": "五代时期著名的食人魔王，与馄饨摊老头儿的祖上有关。"
+    }
+  ],
+  "relations": [
+    {
+      "source": "湘西",
+      "target": "鬼事",
+      "type": "is_known_for"
+    },
+    {
+      "source": "慕容雪",
+      "target": "邀请",
+      "type": "action"
+    },
+    {
+      "source": "慕容雪",
+      "target": "萧逸",
+      "type": "interacts_with"
+    },
+    {
+      "source": "萧逸",
+      "target": "恐怖小说作家",
+      "type": "is_a"
+    },
+    {
+      "source": "萧逸",
+      "target": "化工系高材生",
+      "type": "was_a"
+    },
+    {
+      "source": "纸条",
+      "target": "慕容雪",
+      "type": "sent_by"
+    },
+    {
+      "source": "纸条",
+      "target": "大张路28号",
+      "type": "contains_information_about"
+    },
+    {
+      "source": "黑色桑塔纳",
+      "target": "撞伤",
+      "type": "action"
+    },
+    {
+      "source": "萧逸",
+      "target": "撞伤",
+      "type": "was_subjected_to"
+    },
+    {
+      "source": "刘龙枪",
+      "target": "司机",
+      "type": "is_a"
+    },
+    {
+      "source": "刘龙枪",
+      "target": "运输商人",
+      "type": "is_a"
+    },
+    {
+      "source": "刘龙枪",
+      "target": "纸条",
+      "type": "received"
+    },
+    {
+      "source": "萧逸",
+      "target": "刘龙枪",
+      "type": "allied_with"
+    },
+    {
+      "source": "沈牟白",
+      "target": "短信",
+      "type": "sent"
+    },
+    {
+      "source": "沈牟白",
+      "target": "调查",
+      "type": "action"
+    },
+    {
+      "source": "缉毒案",
+      "target": "湘西",
+      "type": "occurred_in"
+    },
+    {
+      "source": "内鬼",
+      "target": "警方",
+      "type": "suspected_in"
+    },
+    {
+      "source": "鬼打墙",
+      "target": "路",
+      "type": "phenomenon_on"
+    },
+    {
+      "source": "十二扇门",
+      "target": "梦境",
+      "type": "appeared_in"
+    },
+    {
+      "source": "镜子",
+      "target": "梦境",
+      "type": "appeared_in"
+    },
+    {
+      "source": "大张路28号",
+      "target": "接待",
+      "type": "location_of"
+    },
+    {
+      "source": "夜二",
+      "target": "接待",
+      "type": "performed"
+    },
+    {
+      "source": "夜二",
+      "target": "催眠术",
+      "type": "used"
+    },
+    {
+      "source": "萧逸",
+      "target": "识破",
+      "type": "action"
+    },
+    {
+      "source": "夜二",
+      "target": "陷阱",
+      "type": "activated"
+    },
+    {
+      "source": "萧逸",
+      "target": "摔了进去",
+      "type": "was_subjected_to"
+    },
+    {
+      "source": "萧逸",
+      "target": "馄饨",
+      "type": "ate"
+    },
+    {
+      "source": "馄饨",
+      "target": "狗肉",
+      "type": "is_made_of"
+    },
+    {
+      "source": "老头儿",
+      "target": "祖上",
+      "type": "claimed_lineage_from"
+    },
+    {
+      "source": "赵思绾",
+      "target": "食人魔王",
+      "type": "is_a"
+    }
+  ],
+  "hierarchy": {
+    "main_topics": [
+      "Introduction and Protagonist's Background",
+      "Mysterious Invitation and Harassment",
+      "Encounter and Alliance",
+      "Subplot: Police Investigation",
+      "Supernatural Phenomena and Arrival at Destination",
+      "Confrontation and Trap",
+      "Strange Encounters and Revelations"
+    ],
+    "structure": "The document is structured into chapters, each detailing a sequence of events in a chronological and narrative manner. It follows a protagonist's journey into a mysterious and dangerous situation, interspersed with flashbacks and subplots."
+  }
+}

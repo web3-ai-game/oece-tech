@@ -1,0 +1,2358 @@
+{
+  "propositions": [
+    {
+      "id": "1",
+      "text": "The story is about a theatrical costume.",
+      "level": 1
+    },
+    {
+      "id": "1.1",
+      "text": "This costume has a history and has been worn by people, stained with blood, and passed through stories.",
+      "level": 2
+    },
+    {
+      "id": "1.2",
+      "text": "These costumes are not often seen in sunlight but are part of the fleeting glory and sorrow of the stage.",
+      "level": 2
+    },
+    {
+      "id": "1.3",
+      "text": "Each costume is a vessel of emotions, real or imagined, carrying a sense of ambiguous lingering affection across the years.",
+      "level": 2
+    },
+    {
+      "id": "2",
+      "text": "The story takes place in the 21st century in a theater troupe in Beijing.",
+      "level": 1
+    },
+    {
+      "id": "3",
+      "text": "The theater compound is an old courtyard, once a prince's residence, retaining its architectural framework.",
+      "level": 1
+    },
+    {
+      "id": "3.1",
+      "text": "The compound has moon gates, hanging gates, brick pavements, covered walkways, and thick walls.",
+      "level": 2
+    },
+    {
+      "id": "3.2",
+      "text": "Outside the walls, there is the hustle and bustle of modern life with traffic, tall buildings, and subways.",
+      "level": 2
+    },
+    {
+      "id": "4",
+      "text": "Inside the walls, time feels still, blending centuries of stories and characters, blurring the lines between past and present.",
+      "level": 1
+    },
+    {
+      "id": "5",
+      "text": "It is the fourteenth day of the seventh lunar month, with the air hinting at rain.",
+      "level": 1
+    },
+    {
+      "id": "5.1",
+      "text": "People gather in the richly decorated costume room, waiting with curiosity and impatience to open an old costume trunk from half a century ago.",
+      "level": 2
+    },
+    {
+      "id": "6",
+      "text": "Opening the trunk is a ritual, a tradition passed down from older actors.",
+      "level": 1
+    },
+    {
+      "id": "6.1",
+      "text": "Before touching the costumes of deceased famous actors, incense must be offered, and permission sought to 'invite' the clothing, not 'take' it.",
+      "level": 2
+    },
+    {
+      "id": "7",
+      "text": "The costumes of supporting actors are called 'suīyī', while those of famous actors are called 'xíngtóu'. Both are personal and have dedicated caretakers.",
+      "level": 1
+    },
+    {
+      "id": "7.1",
+      "text": "Famous actors disdained sharing headpieces with unknown actors; their personal costumes and accessories were a source of pride, status, and wealth.",
+      "level": 2
+    },
+    {
+      "id": "7.2",
+      "text": "The actor with the most, best, and most complete collection of costumes and accessories was the biggest star.",
+      "level": 2
+    },
+    {
+      "id": "7.3",
+      "text": "Without their 'pài tóu' (style/presence), an actor would lose their spirit, drive, and momentum, leading a life worse than death.",
+      "level": 2
+    },
+    {
+      "id": "8",
+      "text": "The owner of the trunk to be opened today is Ruò Méiyīng, a renowned Peking Opera actress from the 1930s and 40s.",
+      "level": 1
+    },
+    {
+      "id": "8.1",
+      "text": "She was the lead 'qīng yī' (a female role) of the 'Qúnyīng Huì' troupe and performed with famous actors like Gài Jiàotiān and Méi Lánfāng.",
+      "level": 2
+    },
+    {
+      "id": "8.2",
+      "text": "She was extremely popular in Beijing and Shanghai, earning considerable sums for private performances.",
+      "level": 2
+    },
+    {
+      "id": "8.3",
+      "text": "After liberation, her life declined; rumors suggest she left with a Guangdong warlord, was taken in by the government for opium use, and died during the Cultural Revolution by suicide from a fall.",
+      "level": 2
+    },
+    {
+      "id": "9",
+      "text": "The lives of actors are often unclear, both on and off stage, especially during turbulent times.",
+      "level": 1
+    },
+    {
+      "id": "9.1",
+      "text": "These details are often forgotten or embellished into anecdotes for entertainment.",
+      "level": 2
+    },
+    {
+      "id": "10",
+      "text": "Incense is lit, and the trunk is placed on a platform.",
+      "level": 1
+    },
+    {
+      "id": "10.1",
+      "text": "The accountant, Mother Zhao, circles it three times with incense, chanting prayers.",
+      "level": 2
+    },
+    {
+      "id": "10.2",
+      "text": "Elderly artists join in, saying, 'Go, go, you have no business here. Leave, leave, this is not your place.'",
+      "level": 2
+    },
+    {
+      "id": "11",
+      "text": "A blind erhu player, Uncle Hu, plays a halting melody that evokes a sense of unresolved tension.",
+      "level": 1
+    },
+    {
+      "id": "12",
+      "text": "A humid, warm breeze blows in through the open door, making the crowded room feel even more stifling.",
+      "level": 1
+    },
+    {
+      "id": "13",
+      "text": "Xiao Wan grumbles impatiently, calling the music 'ugly people acting strangely'.",
+      "level": 1
+    },
+    {
+      "id": "14",
+      "text": "Mother Zhao shushes her, explaining it's a requiem to comfort spirits and warns her not to speak carelessly on Ghost Festival, lest she invite disaster.",
+      "level": 1
+    },
+    {
+      "id": "14.1",
+      "text": "She also expresses annoyance about the unseasonal rain on the fourteenth of July, finding the overcast weather unsettling.",
+      "level": 2
+    },
+    {
+      "id": "15",
+      "text": "Xiao Wan is nineteen, but due to her family's long association with the theater troupe, she is still treated like a child by the older members.",
+      "level": 1
+    },
+    {
+      "id": "15.1",
+      "text": "Their patronizing tone, a mix of affection and mild threat, exasperates her.",
+      "level": 2
+    },
+    {
+      "id": "16",
+      "text": "Xiao Wan feels her age and intelligence are insulted by their 'disrespectful' scolding.",
+      "level": 1
+    },
+    {
+      "id": "16.1",
+      "text": "She finds silence to be her only recourse, as confronting them would be pointless given they are people she's known since childhood.",
+      "level": 2
+    },
+    {
+      "id": "16.2",
+      "text": "They sometimes tease her with embarrassing childhood stories, which she finds mortally embarrassing.",
+      "level": 2
+    },
+    {
+      "id": "17",
+      "text": "Xiao Wan considered changing jobs, but her fashion design degree offers few appealing alternatives outside of starting her own successful design company.",
+      "level": 1
+    },
+    {
+      "id": "17.1",
+      "text": "The theater's costume department, being part of an artistic unit, is the most comfortable option.",
+      "level": 2
+    },
+    {
+      "id": "17.2",
+      "text": "Her lifelong passion for theatrical costumes makes designing for historical figures in real life a romantic and challenging endeavor, more like a game or enjoyment than work.",
+      "level": 2
+    },
+    {
+      "id": "17.3",
+      "text": "Thus, she endures their predictable jokes designed to scare her.",
+      "level": 2
+    },
+    {
+      "id": "18",
+      "text": "The heavy, dark clouds suggest an impending storm, a silent urging.",
+      "level": 1
+    },
+    {
+      "id": "19",
+      "text": "Silence fills the room, broken only by Mother Zhao's mumbled prayers and the erhu's intermittent notes: 'Don't come, don't come, you have no business here, go away...'",
+      "level": 1
+    },
+    {
+      "id": "20",
+      "text": "Mother Zhao, over fifty with thinning hair, still wears a meticulously styled bun with a padded extension, making her braid appear full.",
+      "level": 1
+    },
+    {
+      "id": "20.1",
+      "text": "The braid seems to move with a life of its own when she turns.",
+      "level": 2
+    },
+    {
+      "id": "21",
+      "text": "After a long pause, the braid twitches, and Mother Zhao turns, signaling Xiao Wan to open the trunk.",
+      "level": 1
+    },
+    {
+      "id": "22",
+      "text": "Xiao Wan walks forward with a playful smile, a hint of nervousness beneath.",
+      "level": 1
+    },
+    {
+      "id": "22.1",
+      "text": "She's heard fragments of Ruò Méiyīng's story since childhood: her vast collection of headpieces, the meticulous care for her costumes (three fumigations and three airings before packing, overnight petal wraps to remove mustiness before wearing), and the use of real gold and silver thread, each costume costing six taels of gold – exquisite and priceless.",
+      "level": 2
+    },
+    {
+      "id": "23",
+      "text": "Theater tradition dictates that costumes of actors who died tragically are not used, only preserved as artifacts, unless there's an unavoidable reason to open the trunk.",
+      "level": 1
+    },
+    {
+      "id": "23.1",
+      "text": "Many employees who have worked at the theater for decades have never had the chance to see the famous 'Méiyīng Trunk'.",
+      "level": 2
+    },
+    {
+      "id": "24",
+      "text": "Recently, the theater initiated a repertoire reform, reviving the lost ancient opera 'Qiàn Nǚ Lí Hún' (The Ghost of a Woman).",
+      "level": 1
+    },
+    {
+      "id": "24.1",
+      "text": "Xiao Wan's father, the deputy director Shuǐ Róng, is personally writing the script.",
+      "level": 2
+    },
+    {
+      "id": "24.2",
+      "text": "The original libretto was in Southern opera, with limited Peking Opera adaptations.",
+      "level": 2
+    },
+    {
+      "id": "24.3",
+      "text": "While previous attempts existed, no libretto was preserved, requiring careful reconstruction of melodies and lyrics.",
+      "level": 2
+    },
+    {
+      "id": "24.4",
+      "text": "However, there was no description of the female lead's costumes for the Peking Opera version.",
+      "level": 2
+    },
+    {
+      "id": "24.5",
+      "text": "An old opera enthusiast swore that Ruò Méiyīng had previously performed a Peking Opera version of 'Qiàn Nǚ Lí Hún' and designed its costumes.",
+      "level": 2
+    },
+    {
+      "id": "24.6",
+      "text": "Xiao Wan checked the theater's costume records and found entries for some of Méiyīng's treasured items, leading to today's trunk opening.",
+      "level": 2
+    },
+    {
+      "id": "25",
+      "text": "Under the gaze of everyone, Xiao Wan gently brushes the dust off the leather trunk, revealing an intricate floral pattern.",
+      "level": 1
+    },
+    {
+      "id": "25.1",
+      "text": "The pattern is a suggestive erotic illustration: a man with a dragon and tiger tattoo on his back, exuding masculinity, and a woman with a partially bared shoulder, her red robe slipping, looking coy.",
+      "level": 2
+    },
+    {
+      "id": "25.2",
+      "text": "The implication is more seductive than explicit.",
+      "level": 2
+    },
+    {
+      "id": "26",
+      "text": "Xiao Wan examines it with interest for a moment before breaking the padlock with pliers, the key long lost.",
+      "level": 1
+    },
+    {
+      "id": "26.1",
+      "text": "She then lifts the lid with both hands.",
+      "level": 2
+    },
+    {
+      "id": "27",
+      "text": "A strange fragrance wafts out, and Xiao Wan feels a chill as the lid suddenly snaps shut.",
+      "level": 1
+    },
+    {
+      "id": "27.1",
+      "text": "Everyone involuntarily gasps.",
+      "level": 2
+    },
+    {
+      "id": "28",
+      "text": "Xiao Wan looks at Mother Zhao with a puzzled smile, apologizing for not holding the lid steady.",
+      "level": 1
+    },
+    {
+      "id": "29",
+      "text": "Taking a breath, she opens it again, revealing a dazzling array of colorful silk garments lying in layers at the bottom, their vibrancy undiminished by age.",
+      "level": 1
+    },
+    {
+      "id": "30",
+      "text": "Xiao Wan's eyes well up with tears; she is always moved by exquisite and vibrant theatrical costumes, as if watching a heartbreakingly emotional film.",
+      "level": 1
+    },
+    {
+      "id": "30.1",
+      "text": "Her life's credo is that nothing is more captivating than theatrical costumes, representing not just color, stitching, fabric, and cut, but also character, charm, music, and story.",
+      "level": 2
+    },
+    {
+      "id": "31",
+      "text": "Lost in the fragrance of silk and shadows, she becomes sensitive, melancholic, and a different person from her usual self.",
+      "level": 1
+    },
+    {
+      "id": "31.1",
+      "text": "This is less an artistic talent and more a manifestation of youthful sentimentality.",
+      "level": 2
+    },
+    {
+      "id": "32",
+      "text": "The others crowd forward for a closer look.",
+      "level": 1
+    },
+    {
+      "id": "32.1",
+      "text": "Xiao Wan picks up the topmost mid-length sleeve and unfolds it.",
+      "level": 2
+    },
+    {
+      "id": "32.2",
+      "text": "Suddenly, a gust of wind blows, and with a 'pop', the erhu string of the blind musician breaks.",
+      "level": 2
+    },
+    {
+      "id": "33",
+      "text": "Xiao Wan turns in surprise, meeting the musician's cloudy eyes.",
+      "level": 1
+    },
+    {
+      "id": "33.1",
+      "text": "He stares at her, his face full of surprise, and asks, 'What did you all see?'",
+      "level": 2
+    },
+    {
+      "id": "34",
+      "text": "'We didn't see anything,' Xiao Wan replies.",
+      "level": 1
+    },
+    {
+      "id": "35",
+      "text": "The blind musician doesn't believe her, tilting his head and asking intently, 'Did you really not see anything?'",
+      "level": 1
+    },
+    {
+      "id": "36",
+      "text": "'I didn't see anything, did you 'see' something?' Xiao Wan smiles.",
+      "level": 1
+    },
+    {
+      "id": "37",
+      "text": "Unexpectedly, the blind musician says nothing, suddenly kicks over his stool, stands up, grabs his erhu, and leaves, as if he had seen something terrifying.",
+      "level": 1
+    },
+    {
+      "id": "38",
+      "text": "Xiao Wan, startled and confused, asks others, 'Did you see? Did you see anything?'",
+      "level": 1
+    },
+    {
+      "id": "39",
+      "text": "Before she finishes, a thunderclap erupts from the roof, and the rain that had been building all morning pours down, like an army of thousands, overwhelming the earth with astonishing momentum.",
+      "level": 1
+    },
+    {
+      "id": "40",
+      "text": "The room suddenly cools down, and everyone exchanges glances, feeling a sense of unease and chills throughout their bodies.",
+      "level": 1
+    },
+    {
+      "id": "41",
+      "text": "After a long pause, Mother Zhao hesitantly says, 'Could it be Mei...?'",
+      "level": 1
+    },
+    {
+      "id": "41.1",
+      "text": "Her words are cut off by the panic in everyone's eyes, and they look around cautiously, as if searching for someone in the corners.",
+      "level": 2
+    },
+    {
+      "id": "41.2",
+      "text": "If asked if they saw something, they would say no; if asked if they didn't see anything, they would feel that something had indeed happened.",
+      "level": 2
+    },
+    {
+      "id": "41.3",
+      "text": "It is said that blind people know best, and the erhu master is a steady elder who wouldn't scare people without reason.",
+      "level": 2
+    },
+    {
+      "id": "41.4",
+      "text": "If he said he saw something, he must have seen something.",
+      "level": 2
+    },
+    {
+      "id": "42",
+      "text": "Xiao Wan still presses, 'Mei? Is it Méiyīng? Did you really see a ghost? Did you see Ruò Méiyīng?'",
+      "level": 1
+    },
+    {
+      "id": "43",
+      "text": "As if in response, thunder rolls again over the eaves.",
+      "level": 1
+    },
+    {
+      "id": "43.1",
+      "text": "Mother Zhao can no longer bear it, crying out 'Ah!', and runs out the door, following the blind musician, her braid tracing a strangely bent arc in the air before disappearing.",
+      "level": 2
+    },
+    {
+      "id": "44",
+      "text": "The remaining people scatter, leaving Xiao Wan alone before the open trunk, lost in the dusty, fragrant scents, feeling a profound sense of strangeness.",
+      "level": 1
+    },
+    {
+      "id": "45",
+      "text": "It is a novel 'Yuntai dress', a blend of 'female robe' and 'ancient costume' characteristics.",
+      "level": 1
+    },
+    {
+      "id": "45.1",
+      "text": "Made of crepe satin, it has a cross-collar, a pale blue jacket on top, a goose-yellow skirt below, a large straight collar with flowing sleeves and water sleeves, and is adorned with embroidered cloud patterns.",
+      "level": 2
+    },
+    {
+      "id": "45.2",
+      "text": "Unlike ordinary 'branch flower' designs, the patterns on the front are asymmetrical, forming a unified image – a masterpiece of exquisite craftsmanship and ingenious design.",
+      "level": 2
+    },
+    {
+      "id": "46",
+      "text": "Beside it is a small box for headpieces, containing hair ornaments, face flowers, kingfisher feather adornments, rhinestones, silver beads, earrings, necklaces, and hairpins – all complete.",
+      "level": 1
+    },
+    {
+      "id": "46.1",
+      "text": "The pearls are slightly yellowed, the silver tarnished, but the diamonds retain their brilliance, sparkling proudly.",
+      "level": 2
+    },
+    {
+      "id": "47",
+      "text": "Xiao Wan nods in admiration; it's clear this costume set is an original design, not a copy of an old script.",
+      "level": 1
+    },
+    {
+      "id": "47.1",
+      "text": "Famous Peking Opera actresses of that era often created unique styles for ancient opera costumes, striving for originality and brilliance.",
+      "level": 2
+    },
+    {
+      "id": "47.2",
+      "text": "Méi Lánfāng's creations like the 'Dream-Revealing Robe' and 'Wave Robe' from 'Luó Shén', the 'Dance Plate Robe' and 'Palace Robe' from 'Tàizhēn Wàizhuàn', the 'Flower-Picking Robe' from 'Cháng'é Bèn Yuè', and the 'Mulan Armor' from 'Mulan Cóng Jūn' are particularly acclaimed.",
+      "level": 2
+    },
+    {
+      "id": "47.3",
+      "text": "These can be considered the earliest forms of costume design.",
+      "level": 2
+    },
+    {
+      "id": "47.4",
+      "text": "Xiao Wan wonders about the original name of this 'Lí Hún Yī' (Spirit Dissolution Robe) and why it was never imitated and lost to time.",
+      "level": 2
+    },
+    {
+      "id": "48",
+      "text": "As she looks, she unconsciously puts on the entire costume, layer by layer.",
+      "level": 1
+    },
+    {
+      "id": "48.1",
+      "text": "Adjusting the silk ribbons and brushing off the brocade robe, she is suddenly overcome and raises her water sleeves, striking a pose and singing 'yī yī yā yā'.",
+      "level": 2
+    },
+    {
+      "id": "49",
+      "text": "She sings a passage from 'Qiàn Nǚ Lí Hún': 'He is a young man in a fancy hat and light robe, I am a beautiful maiden in an embroidered skirt and fragrant carriage, our appearances are perfectly matched. My mother built a rain-cloud wall on the sunlit terrace.'",
+      "level": 1
+    },
+    {
+      "id": "50",
+      "text": "This is the story of Zhang Qiān Nǚ, an official's daughter, and the scholar Wáng Wénjǔ.",
+      "level": 1
+    },
+    {
+      "id": "50.1",
+      "text": "They were betrothed from childhood and in love, but Zhang's mother forcibly separated them due to wealth disparity.",
+      "level": 2
+    },
+    {
+      "id": "50.2",
+      "text": "Qiān Nǚ fell gravely ill, her soul leaving her body, and she pursued Wang Sheng under the moonlight.",
+      "level": 2
+    },
+    {
+      "id": "51",
+      "text": "She sings further: 'From now on, I can only write sorrow on banana leaves; no need for divination with蓍草. What heart do I have for adornments? My true feelings drift like mist. After he leaves, I won't leave his side. Following Sīmǎ Tíqiáo, I don't expect a carriage of honor. Don't abandon me, Princess, before Pànzi Gāo arrives, I'll have wasted our time under the peach blossoms.'",
+      "level": 1
+    },
+    {
+      "id": "52",
+      "text": "As she sings and dances, Xiao Wan becomes increasingly immersed, her steps becoming more fluid, her movements more ethereal and agile.",
+      "level": 1
+    },
+    {
+      "id": "52.1",
+      "text": "She sings the passage of Qiān Nǚ chasing Wang Sheng under the moonlight with mournful beauty.",
+      "level": 2
+    },
+    {
+      "id": "52.2",
+      "text": "The wind and rain become her accompaniment, not disruptive, but enhancing the mood.",
+      "level": 2
+    },
+    {
+      "id": "53",
+      "text": "She continues: 'Walking on the sandy bank, the grass is slippery with dew. My jade green skirt is wet, like jade in the morning mist. The evening view by the river is picturesque, the water reflecting the sky like flawless jade. Look at the lone wild goose at dusk, the old trees, the crows. A flute sounds from afar. The song plays, the oars creak.'",
+      "level": 1
+    },
+    {
+      "id": "54",
+      "text": "With a slow turn, a gentle look back, and a long sweep of her water sleeves, she cries out 'Aiya!'",
+      "level": 1
+    },
+    {
+      "id": "54.1",
+      "text": "Her sleeve has hit a young man walking towards her.",
+      "level": 2
+    },
+    {
+      "id": "55",
+      "text": "Xiao Wan, still unaware, gazes with her eyes, clasps her hands at her waist, and bows deeply, still speaking in a delicate voice: 'Is that Wang Sheng, whose music is heard from the boat?'",
+      "level": 1
+    },
+    {
+      "id": "56",
+      "text": "The young man is quick-witted and plays along, returning a clasped-hand bow and replying: 'I am not surnamed Wang, but Zhang, my name is Zhīyě, as in 'zhī hū zhě yě' – I am a reporter for a newspaper.'",
+      "level": 1
+    },
+    {
+      "id": "57",
+      "text": "'Zhang Zhiyě? A reporter?' Xiao Wan is startled, realizing this doesn't match the script.",
+      "level": 1
+    },
+    {
+      "id": "58",
+      "text": "'Script?' Another jolt. When did she memorize the lines and melodies of 'Qiàn Nǚ Lí Hún'?",
+      "level": 1
+    },
+    {
+      "id": "58.1",
+      "text": "And now she's engaging in playful banter with a stranger, even pretending to flirt.",
+      "level": 2
+    },
+    {
+      "id": "58.2",
+      "text": "What's more, the young man is holding a camera and actively taking pictures.",
+      "level": 2
+    },
+    {
+      "id": "59",
+      "text": "This shock brings her to her senses, and she blushes with embarrassment, preemptively scolding: 'So what if you're a reporter? Can you just peep and take photos without announcing yourself? How rude!'",
+      "level": 1
+    },
+    {
+      "id": "59.1",
+      "text": "Without further ado, she pushes the young man out the door, slamming it shut with a 'bang'.",
+      "level": 2
+    },
+    {
+      "id": "59.2",
+      "text": "Her heart races with a mixture of shock and confusion. Why could she suddenly sing opera? Her stage steps seemed to come naturally. Was it like the saying, 'Read all three hundred Tang poems, and you'll be able to recite poetry even if you can't write it'?",
+      "level": 2
+    },
+    {
+      "id": "60",
+      "text": "After a while, she peeks outside and sees the young man still standing in the rain, drenched like a drowned chicken, not seeking shelter.",
+      "level": 1
+    },
+    {
+      "id": "60.1",
+      "text": "Xiao Wan, unable to bear it, notices his umbrella by the door and smiles as she opens it, handing it to him: 'Here, your umbrella.'",
+      "level": 2
+    },
+    {
+      "id": "61",
+      "text": "The young man is overjoyed, refuses the umbrella, but steps inside with a smile, saying apologetically: 'It's raining so heavily, can I take shelter here?'",
+      "level": 1
+    },
+    {
+      "id": "62",
+      "text": "'Of course. But who are you, and why are you here? Didn't the doorman stop you?'",
+      "level": 1
+    },
+    {
+      "id": "63",
+      "text": "The young man then produces his ID and says again: 'I am Zhang Zhiyě, here's my reporter's ID. I'm here for an interview. Hey, don't just question me; you haven't told me your name yet.'",
+      "level": 1
+    },
+    {
+      "id": "64",
+      "text": "'Shuǐ Xiǎowǎn.' Seeing Zhang Zhiyě's lips curve, she quickly adds: 'Make sure you hear it clearly. Not 'wǎn' like a bowl, but 'wǎn' like a swimming dragon.'",
+      "level": 1
+    },
+    {
+      "id": "65",
+      "text": "'Shuǐ Xiǎowǎn, a beautiful name.'",
+      "level": 1
+    },
+    {
+      "id": "66",
+      "text": "'Better than your 'zhī hū zhě yě'.' Xiao Wan smiles. 'You're a reporter, who are you interviewing here?'",
+      "level": 1
+    },
+    {
+      "id": "67",
+      "text": "'Mother Zhao Zihe.'",
+      "level": 1
+    },
+    {
+      "id": "68",
+      "text": "'The accountant? Why interview her? Is she a hero or a celebrity?' Xiao Wan is very curious.",
+      "level": 1
+    },
+    {
+      "id": "69",
+      "text": "'Neither. She is Beijing's only 'zì shū nǚ' (self-combing woman).'",
+      "level": 1
+    },
+    {
+      "id": "70",
+      "text": "'Zì shū nǚ? What's that?'",
+      "level": 1
+    },
+    {
+      "id": "71",
+      "text": "'You're from this troupe, and you don't know about Mother Zhao being a zì shū nǚ?'",
+      "level": 1
+    },
+    {
+      "id": "72",
+      "text": "'No. No one told me.' Xiao Wan smiles sheepishly.",
+      "level": 1
+    },
+    {
+      "id": "73",
+      "text": "Zhang Zhiyě also smiles, captivated by the charming and lively young woman before him.",
+      "level": 1
+    },
+    {
+      "id": "73.1",
+      "text": "As soon as he entered, he heard a faint singing and followed the sound, seeing a young woman in costume singing and dancing, her demeanor and movements unlike anyone of the present day. He was stunned, momentarily unsure of the time or place.",
+      "level": 2
+    },
+    {
+      "id": "73.2",
+      "text": "Later, when her sleeve hit him, and they exchanged playful banter, he found it amusing. Then the girl's expression changed, and she pushed him out, leaving him feeling disappointed and lost.",
+      "level": 2
+    },
+    {
+      "id": "73.3",
+      "text": "Just as he was disappointed, the girl's demeanor softened, and she invited him to shelter from the rain, which he found remarkable.",
+      "level": 2
+    },
+    {
+      "id": "73.4",
+      "text": "In just a few minutes, many things had happened, as if a whole story unfolded, sparking an inexplicable curiosity and emotion in him. He wanted to stay longer and talk more.",
+      "level": 2
+    },
+    {
+      "id": "74",
+      "text": "He readily explains what he knows about zì shū nǚ:",
+      "level": 1
+    },
+    {
+      "id": "74.1",
+      "text": "'Zì shū nǚ were a special group in Guangdong and the Pearl River Delta before liberation.",
+      "level": 2
+    },
+    {
+      "id": "74.2",
+      "text": "They often came from poor families or women who had faced setbacks in marriage.",
+      "level": 2
+    },
+    {
+      "id": "74.3",
+      "text": "To signify remaining unmarried for life, they would tie up their hair and publicly declare themselves zì shū nǚ through a ceremony.",
+      "level": 2
+    },
+    {
+      "id": "74.4",
+      "text": "Once a zì shū nǚ, men were not supposed to pursue them, or they would be scorned by society.",
+      "level": 2
+    },
+    {
+      "id": "74.5",
+      "text": "The zì shū nǚ phenomenon gradually disappeared after liberation, with only a small number remaining in specific areas of the Pearl River Delta.",
+      "level": 2
+    },
+    {
+      "id": "74.6",
+      "text": "For example, the Guanyin Temple in Zhaoqing housed hundreds of zì shū nǚ before liberation.",
+      "level": 2
+    },
+    {
+      "id": "74.7",
+      "text": "After liberation, the government respected their personal choices, allowing them to continue living in the temple, leading lives of vegetarianism, prayer, and self-sufficiency.",
+      "level": 2
+    },
+    {
+      "id": "74.8",
+      "text": "In other words, being a zì shū nǚ has three key characteristics: no marriage, vegetarianism, and keeping a braid.",
+      "level": 2
+    },
+    {
+      "id": "75",
+      "text": "Xiao Wan looks up and smiles, realizing Mother Zhao fits the description of a 'standard zì shū nǚ'.",
+      "level": 1
+    },
+    {
+      "id": "75.1",
+      "text": "She has always seen Mother Zhao's graying braid and knew she was unmarried but never inquired why.",
+      "level": 2
+    },
+    {
+      "id": "75.2",
+      "text": "She reflects that people often become accustomed to unusual circumstances or people, accepting them as normal without seeking explanations.",
+      "level": 2
+    },
+    {
+      "id": "75.3",
+      "text": "If Zhiyě hadn't mentioned it, she wouldn't have found Mother Zhao particularly remarkable.",
+      "level": 2
+    },
+    {
+      "id": "76",
+      "text": "'But Mother Zhao is only in her fifties. She couldn't have become a zì shū nǚ before liberation, could she?'",
+      "level": 1
+    },
+    {
+      "id": "77",
+      "text": "Zhang Zhiyě smiles, 'Zì shū nǚ are not nuns, and it's not called 'leaving home'.'",
+      "level": 1
+    },
+    {
+      "id": "78",
+      "text": "'It's about the same.'",
+      "level": 1
+    },
+    {
+      "id": "79",
+      "text": "'Very different. Nuns shave their heads; zì shū nǚ keep their long braids and can work in society without being tied to a convent.'",
+      "level": 1
+    },
+    {
+      "id": "79.1",
+      "text": "Zhang Zhiyě continues, 'Before coming here, we did basic research on Mother Zhao Zihe's background. We learned she was an abandoned infant, adopted by an old zì shū nǚ in the early days after liberation, and grew up in the Guanyin Temple, naturally becoming a zì shū nǚ herself.'",
+      "level": 2
+    },
+    {
+      "id": "80",
+      "text": "'Is that so?' Xiao Wan looks down. 'So Mother Zhao has such a tragic past. I never imagined such a legendary story would happen right beside me.'",
+      "level": 1
+    },
+    {
+      "id": "81",
+      "text": "'Are you short of stories? On stage and off, in and out of plays, there are stories everywhere. Besides, a beautiful girl's life is always colorful.'",
+      "level": 1
+    },
+    {
+      "id": "82",
+      "text": "Xiao Wan blushes and glares, 'You're a reporter, all smooth talk!'",
+      "level": 1
+    },
+    {
+      "id": "83",
+      "text": "The thunder grows louder, as if pursuing something, determined to strike it down.",
+      "level": 1
+    },
+    {
+      "id": "83.1",
+      "text": "Xiao Wan hugs her shoulders and suddenly shivers. Zhang Zhiyě immediately asks, 'Are you cold?'",
+      "level": 2
+    },
+    {
+      "id": "84",
+      "text": "'A little...' Xiao Wan stops herself halfway. She realizes she's still wearing the elaborate costume, layers of silk and brocade, in the middle of summer.",
+      "level": 1
+    },
+    {
+      "id": "84.1",
+      "text": "Complaining of cold would be affected, like acting spoiled.",
+      "level": 2
+    },
+    {
+      "id": "85",
+      "text": "Zhang Zhiyě scratches his head, feeling a bit awkward.",
+      "level": 1
+    },
+    {
+      "id": "85.1",
+      "text": "Typically, if the female protagonist admits to being cold, the male protagonist's next action would be to offer his coat. But he's only wearing a wet shirt.",
+      "level": 2
+    },
+    {
+      "id": "86",
+      "text": "Silence falls between them, with only the opera music mingling with the sound of the rain.",
+      "level": 1
+    },
+    {
+      "id": "87",
+      "text": "'Concerned about this ghost illness, as if waking from a drunken spring sleep. Around the snow-covered willow paths, by the eastern wind west of Yanzi Tower. My youth is wasted, this beautiful time is squandered. Sorrow already binds me, how can I bear the desolation of the scenery? My heart trembles at the cry of a bird. Fate is fleeting, spring is ending, my fragrant soul follows the scattering petals...'",
+      "level": 1
+    },
+    {
+      "id": "88",
+      "text": "Xiao Wan listens intently for a while and praises, 'What a beautiful song! The lyrics are beautiful, the music is beautiful, and the costume is beautiful.'",
+      "level": 1
+    },
+    {
+      "id": "89",
+      "text": "Zhang Zhiyě is surprised, 'You mean the song you were singing just now?'",
+      "level": 1
+    },
+    {
+      "id": "90",
+      "text": "'Am I that immodest?' Xiao Wan smiles, gesturing with her chin towards the door. 'Listen, someone is playing a recording. It's the opera 'Qiàn Nǚ Lí Hún', Act Three, Zhang Qiān Nǚ's illness and thoughts of Wang Sheng.'",
+      "level": 1
+    },
+    {
+      "id": "91",
+      "text": "'Really? Why can't I hear it?'",
+      "level": 1
+    },
+    {
+      "id": "92",
+      "text": "'You can't hear it at such a loud volume?'",
+      "level": 1
+    },
+    {
+      "id": "92.1",
+      "text": "Just as Xiao Wan is about to tease him, Zhang Zhiyě's phone rings. Although she can't hear the caller, Zhang Zhiyě's expression and tone suggest it's a woman, possibly his girlfriend.",
+      "level": 2
+    },
+    {
+      "id": "93",
+      "text": "Xiao Wan stands up and moves to the door to avoid eavesdropping. She notices the rain has lessened significantly.",
+      "level": 1
+    },
+    {
+      "id": "93.1",
+      "text": "She holds out her hand to catch a few raindrops and says to herself, 'Summers are like this; loud thunder but little rain. It stopped so quickly.'",
+      "level": 2
+    },
+    {
+      "id": "94",
+      "text": "Zhang Zhiyě finishes his call and, sensing Xiao Wan's subtle hint to leave, says, 'Thank you for letting me shelter from the rain. I must go now; I still need to interview Zhao Zihe.'",
+      "level": 1
+    },
+    {
+      "id": "95",
+      "text": "Xiao Wan replies calmly, 'Take care.' She walks over and quickly removes the costume, folding it back into the trunk.",
+      "level": 1
+    },
+    {
+      "id": "95.1",
+      "text": "Strangely, although the rain has just stopped and the sun hasn't reappeared, she no longer feels cold.",
+      "level": 2
+    },
+    {
+      "id": "96",
+      "text": "The singer did not come.",
+      "level": 1
+    },
+    {
+      "id": "97",
+      "text": "Xiao Wan sits blankly on the railing at the subway entrance, watching the dusk descend.",
+      "level": 1
+    },
+    {
+      "id": "97.1",
+      "text": "The familiar subway entrance is as empty as ever.",
+      "level": 2
+    },
+    {
+      "id": "97.2",
+      "text": "People come and go, a multitude of them, but he is not among them.",
+      "level": 2
+    },
+    {
+      "id": "97.3",
+      "text": "No matter how many people there are, they are irrelevant to her, and no matter how crowded the station, it remains empty.",
+      "level": 2
+    },
+    {
+      "id": "98",
+      "text": "She closes her eyes and repeats a song in her heart – his favorite song.",
+      "level": 1
+    },
+    {
+      "id": "98.1",
+      "text": "Every time she came here, he would sing it.",
+      "level": 2
+    },
+    {
+      "id": "99",
+      "text": "The song is called 'Dead Rose'.",
+      "level": 1
+    },
+    {
+      "id": "100",
+      "text": "'I don't care anymore, I'll give you a dead rose; my heart is ashes, the heart I loved has turned to dust; my tears, my sorrowful eyes can't squeeze out a single tear; to you, like a dead rose, withering in winter...'",
+      "level": 1
+    },
+    {
+      "id": "101",
+      "text": "Xiao Wan, with her upbringing in a theatrical family and traditional education, had never attended a pop music concert.",
+      "level": 1
+    },
+    {
+      "id": "101.1",
+      "text": "However, she always enjoyed listening to buskers at subway stations.",
+      "level": 2
+    },
+    {
+      "id": "101.2",
+      "text": "They were usually young, with long hair, and their clothes were a little dirty, but not excessively so.",
+      "level": 2
+    },
+    {
+      "id": "101.3",
+      "text": "They sang with their eyes half-closed, and though they were asking for money, they didn't look at the people throwing it because they were artists, not beggars.",
+      "level": 2
+    },
+    {
+      "id": "102",
+      "text": "This was what Xiao Wan considered the best of pop music – it revealed the desolation of life.",
+      "level": 1
+    },
+    {
+      "id": "103",
+      "text": "If a person could sing a song with such sincerity in such a place and at such a time, then the song must be worth listening to.",
+      "level": 1
+    },
+    {
+      "id": "104",
+      "text": "All of Xiao Wan's pop music albums were collected based on this criterion.",
+      "level": 1
+    },
+    {
+      "id": "105",
+      "text": "Yet, never before had an experience moved her so deeply, making her forget herself in an instant.",
+      "level": 1
+    },
+    {
+      "id": "106",
+      "text": "It was a winter night half a year ago. She forgot why she was there, took that subway, passed through that station, saw that person, and heard that song.",
+      "level": 1
+    },
+    {
+      "id": "106.1",
+      "text": "She only remembered that at the first listen, she was captivated and belonged no more to herself.",
+      "level": 2
+    },
+    {
+      "id": "107",
+      "text": "The young singer was named A Tao, no more than twenty years old.",
+      "level": 1
+    },
+    {
+      "id": "107.1",
+      "text": "His handsome face bore an indelible look of worldly weariness.",
+      "level": 2
+    },
+    {
+      "id": "107.2",
+      "text": "He wore tattered denim clothes, their original color indistinguishable, but perfectly fitting due to their age, as if he were one with them.",
+      "level": 2
+    },
+    {
+      "id": "107.3",
+      "text": "Just as his voice blended with the subway and the night.",
+      "level": 2
+    },
+    {
+      "id": "108",
+      "text": "He held an old, well-worn guitar, strumming and singing towards the subway station exit: 'I don't care anymore, I'll give you a dead rose...'",
+      "level": 1
+    },
+    {
+      "id": "109",
+      "text": "The desolate voice deepened the chill and sorrow of the winter night.",
+      "level": 1
+    },
+    {
+      "id": "109.1",
+      "text": "Traffic flowed behind him, people came and went, the sun set and neon lights came on – nothing could last, but the young singer's voice was real and sincere.",
+      "level": 2
+    },
+    {
+      "id": "110",
+      "text": "Xiao Wan suddenly burst into tears.",
+      "level": 1
+    },
+    {
+      "id": "111",
+      "text": "From then on, she developed a habit of taking three different subway lines every night to travel to that station to listen to him sing.",
+      "level": 1
+    },
+    {
+      "id": "111.1",
+      "text": "She listened throughout the entire winter.",
+      "level": 2
+    },
+    {
+      "id": "112",
+      "text": "If anyone had passed by that platform that winter, they might remember a scene: a handsome boy and a beautiful girl facing each other across the platform exit, the girl sitting high above on the railing by the subway, listening with focused eyes, her face full of emotion and tears.",
+      "level": 1
+    },
+    {
+      "id": "112.1",
+      "text": "Behind her, people surged in and out like an unending river of time, while the girl's tears and the boy's song were eternal.",
+      "level": 2
+    },
+    {
+      "id": "113",
+      "text": "That scene was called youth.",
+      "level": 1
+    },
+    {
+      "id": "114",
+      "text": "It wasn't until much later that Xiao Wan learned that while she specially changed trains three times to hear A Tao sing, A Tao also endured the winter wind from October to December just for her.",
+      "level": 1
+    },
+    {
+      "id": "114.1",
+      "text": "During this period, he had already found a job singing at a bar in the evenings, which would have allowed him to leave the subway life, but he came to the subway entrance every day, rain or shine, for her, enduring the cold and avoiding the police.",
+      "level": 2
+    },
+    {
+      "id": "115",
+      "text": "By the time Xiao Wan knew all this, she had fallen deeply in love with him.",
+      "level": 1
+    },
+    {
+      "id": "115.1",
+      "text": "She couldn't help but love him.",
+      "level": 2
+    },
+    {
+      "id": "115.2",
+      "text": "The dramatic and tragic nature of the story was both a sword and an opium for the nineteen-year-old girl, possessing irresistible destructive power.",
+      "level": 2
+    },
+    {
+      "id": "116",
+      "text": "That day, they sat side-by-side on the railing, watching people board and alight, feeling they had endless things to say.",
+      "level": 1
+    },
+    {
+      "id": "116.1",
+      "text": "In reality, they didn't say much at all.",
+      "level": 2
+    },
+    {
+      "id": "116.2",
+      "text": "The joy of love overshadowed everything; the young hearts had no time to comprehend it, leaving no room for anything else.",
+      "level": 2
+    },
+    {
+      "id": "116.3",
+      "text": "After all, there was still plenty of time, tomorrow, the day after, and endless tomorrows...",
+      "level": 2
+    },
+    {
+      "id": "117",
+      "text": "However, the day after she confessed her love, A Tao disappeared.",
+      "level": 1
+    },
+    {
+      "id": "118",
+      "text": "Xiao Wan refused to give up, still going to the subway entrance every day to wait, unwilling to believe her first love would end so suddenly.",
+      "level": 1
+    },
+    {
+      "id": "119",
+      "text": "She waited for seven days.",
+      "level": 1
+    },
+    {
+      "id": "120",
+      "text": "On the evening of the seventh day, when she finally saw him appear at the subway entrance, tired, carrying his guitar, she was ecstatic.",
+      "level": 1
+    },
+    {
+      "id": "120.1",
+      "text": "She rushed towards him, but he dodged her, coldly saying he was leaving. He was leaving Beijing because a record company in Shanghai intended to sign him.",
+      "level": 2
+    },
+    {
+      "id": "121",
+      "text": "Shanghai, that city of romance, thus indirectly ended Xiao Wan's romantic first love.",
+      "level": 1
+    },
+    {
+      "id": "122",
+      "text": "Between them, besides those songs and the waiting, there wasn't even a hug, not a single word of farewell.",
+      "level": 1
+    },
+    {
+      "id": "123",
+      "text": "He left, and they lost contact.",
+      "level": 1
+    },
+    {
+      "id": "124",
+      "text": "But she couldn't forget him.",
+      "level": 1
+    },
+    {
+      "id": "124.1",
+      "text": "She still often, on a clear, lonely dusk, would change trains three times to reach the subway entrance and sit there for a long time, staring blankly at the station.",
+      "level": 2
+    },
+    {
+      "id": "124.2",
+      "text": "People flowed ceaselessly, and she felt as if she could still hear A Tao's cool singing: 'My love has turned to ash, like a rose withering in winter...'",
+      "level": 2
+    },
+    {
+      "id": "125",
+      "text": "For a long time, she searched everywhere for a CD of that song, but never found it, nor did she ever hear anyone else sing it.",
+      "level": 1
+    },
+    {
+      "id": "125.1",
+      "text": "Later, she finally realized it was likely a song A Tao had written himself.",
+      "level": 2
+    },
+    {
+      "id": "126",
+      "text": "Thinking of this, she couldn't shake the thought: a song, like a person, could be a connection; if missed, it would be difficult to encounter again.",
+      "level": 1
+    },
+    {
+      "id": "127",
+      "text": "Later, she read an article in a magazine about a popular custom abroad: the 'dead rose'.",
+      "level": 1
+    },
+    {
+      "id": "127.1",
+      "text": "When lovers break up, the heartbroken person would give their ex-lover a dead rose on Valentine's Day, symbolizing a faded love.",
+      "level": 2
+    },
+    {
+      "id": "128",
+      "text": "So, was A Tao commemorating a past love?",
+      "level": 1
+    },
+    {
+      "id": "129",
+      "text": "That love story must have happened before she met him. She didn't have time to be part of it.",
+      "level": 1
+    },
+    {
+      "id": "130",
+      "text": "She didn't have time to participate in his past, nor would she have the chance to participate in his future.",
+      "level": 1
+    },
+    {
+      "id": "131",
+      "text": "Their connection began with a song, and that song represented a dead love.",
+      "level": 1
+    },
+    {
+      "id": "132",
+      "text": "It was destined to end from the beginning.",
+      "level": 1
+    },
+    {
+      "id": "133",
+      "text": "The sky grew completely dark. Small vendors began to conduct business under the cover of night, selling pirated CDs, underground books, fake antiques, or crudely made plaster casts of Venus.",
+      "level": 1
+    },
+    {
+      "id": "133.1",
+      "text": "Most peculiar, someone was selling joss paper, openly shouting: 'Don't forget the departed if you are alive. If you have money, send some to your deceased friends and relatives. Ten yuan for ten thousand yuan, an exchange between the living and the dead, cheap, cheap!'",
+      "level": 2
+    },
+    {
+      "id": "134",
+      "text": "It was both laughable and lamentable.",
+      "level": 1
+    },
+    {
+      "id": "135",
+      "text": "Xiao Wan remembered again: today is the fourteenth of the seventh lunar month, Ghost Festival.",
+      "level": 1
+    },
+    {
+      "id": "136",
+      "text": "She jumped down from the railing, entered the station, and made her way home.",
+      "level": 1
+    },
+    {
+      "id": "137",
+      "text": "As soon as she stepped into the subway station, a boy walked towards her, offering a bunch of dried flowers rusted to a dull gray: 'Miss, would you like to buy flowers?'",
+      "level": 1
+    },
+    {
+      "id": "138",
+      "text": "Xiao Wan was startled and looked intently at the boy: 'What kind of flowers are these?'",
+      "level": 1
+    },
+    {
+      "id": "139",
+      "text": "'Dead roses.'",
+      "level": 1
+    },
+    {
+      "id": "140",
+      "text": "'Dead roses?' Xiao Wan's heart pounded, and she looked at the boy more closely. 'Why are you selling dead roses?'",
+      "level": 1
+    },
+    {
+      "id": "141",
+      "text": "'It's Ghost Festival today. Joss paper is burned for deceased relatives; roses are burned for lost love,' the boy answered fluently.",
+      "level": 1
+    },
+    {
+      "id": "141.1",
+      "text": "'Miss, you're so young; you probably don't know the pain of losing a loved one. You looked so lonely and sad sitting on the railing. Perhaps you're heartbroken? Buy a bunch of dead roses and burn them for your first love. After burning them, you won't be sad anymore.'",
+      "level": 2
+    },
+    {
+      "id": "142",
+      "text": "Xiao Wan looked at the boy. He was no older than fifteen, but his words and demeanor were like those of an elder who had seen through the world.",
+      "level": 1
+    },
+    {
+      "id": "142.1",
+      "text": "Such a mysterious festival, such mysterious flowers, such mysterious words.",
+      "level": 2
+    },
+    {
+      "id": "143",
+      "text": "She felt a chill again.",
+      "level": 1
+    },
+    {
+      "id": "144",
+      "text": "The boy urged, 'Miss, are you buying or not?'",
+      "level": 1
+    },
+    {
+      "id": "145",
+      "text": "Xiao Wan collected herself and took out money to buy a bunch of flower 'corpses'. Fifteen yuan each, quite expensive, even more than fresh flowers.",
+      "level": 1
+    },
+    {
+      "id": "146",
+      "text": "But the fairy-like boy was confident: 'Of course, memories are always more precious than reality.'",
+      "level": 1
+    },
+    {
+      "id": "147",
+      "text": "Xiao Wan was completely convinced by this sprite-like boy.",
+      "level": 1
+    },
+    {
+      "id": "147.1",
+      "text": "She couldn't figure out if the boy's words were lines written by someone behind the scenes for him to memorize or spontaneous insights from a pure heart.",
+      "level": 2
+    },
+    {
+      "id": "148",
+      "text": "The subway roared in, like a ferryman to the underworld carrying passengers to the Yellow Springs.",
+      "level": 1
+    },
+    {
+      "id": "149",
+      "text": "Xiao Wan casually threw the flowers onto the tracks.",
+      "level": 1
+    },
+    {
+      "id": "149.1",
+      "text": "Since they were for a lost love, let them be crushed to dust under the train wheels.",
+      "level": 2
+    },
+    {
+      "id": "150",
+      "text": "But from this day forward, would she truly forget A Tao, forget the memory of that innocent yet painful first love?",
+      "level": 1
+    },
+    {
+      "id": "151",
+      "text": "In a daze, she saw a figure rush towards the subway, suddenly exploding like fireworks.",
+      "level": 1
+    },
+    {
+      "id": "151.1",
+      "text": "Xiao Wan cried out in surprise, turned sharply, and searched the crowd for the flower boy, but saw no one.",
+      "level": 2
+    },
+    {
+      "id": "152",
+      "text": "A chill swept over her, and she hurried onto the subway, unable to stop trembling.",
+      "level": 1
+    },
+    {
+      "id": "153",
+      "text": "The mysterious subway entrance swallowed people and spat them out, transporting them to another place.",
+      "level": 1
+    },
+    {
+      "id": "154",
+      "text": "Xiao Wan lived in Princess Fen.",
+      "level": 1
+    },
+    {
+      "id": "154.1",
+      "text": "This is a name that is both noble and inauspicious; 'princess' and 'grave' are two concepts from heaven and earth combined, creating a tragic image that sparks wild imagination and chilling dread – a kind of absurdity and profound enlightenment.",
+      "level": 2
+    },
+    {
+      "id": "154.2",
+      "text": "She wondered if there were places abroad with such jarring names. She heard cemeteries were called 'Peaceful Gardens', so why would a residential area in broad daylight be called 'Grave'?",
+      "level": 2
+    },
+    {
+      "id": "154.3",
+      "text": "Living where? Living in a graveyard. What does that mean?",
+      "level": 2
+    },
+    {
+      "id": "154.4",
+      "text": "But Beijingers had called it that for generations and never thought to change it.",
+      "level": 2
+    },
+    {
+      "id": "154.5",
+      "text": "And they were used to it, adding the '-er' suffix, saying 'Princess Fen'er' with a sense of familiarity, never thinking there was anything wrong with a living person living in a graveyard.",
+      "level": 2
+    },
+    {
+      "id": "155",
+      "text": "Xiao Wan had repeated the same dialogue for nineteen years, and both the asker and the answerer found it natural.",
+      "level": 1
+    },
+    {
+      "id": "155.1",
+      "text": "In the minds of Beijingers, Princess Fen was merely a geographical marker, the literal meaning of the words long ignored.",
+      "level": 2
+    },
+    {
+      "id": "156",
+      "text": "But tonight, on the fourteenth of the seventh lunar month, Xiao Wan for the first time grasped the horror of this street name: people were burning joss paper at the street corner, calling souls, and offering food and drink into the fire, saying the ghosts would come to eat.",
+      "level": 1
+    },
+    {
+      "id": "156.1",
+      "text": "Today is Ghost Festival, the ghost festival of the human world, the 'Human Festival' of the underworld, because restless spirits would come to the living world today to experience human life for a few days.",
+      "level": 2
+    },
+    {
+      "id": "156.2",
+      "text": "Their path up would pass through cemeteries, wouldn't it?",
+      "level": 2
+    },
+    {
+      "id": "156.3",
+      "text": "Might they mistake Princess Fen for a cemetery, take the wrong road, mistake people, or possess someone, seeking revenge?",
+      "level": 2
+    },
+    {
+      "id": "157",
+      "text": "A gust of wind blows, and the flickering ashes of joss paper on the ground suddenly rise, transforming into thousands of gray butterflies, fluttering towards Xiao Wan.",
+      "level": 1
+    },
+    {
+      "id": "157.1",
+      "text": "Xiao Wan is greatly alarmed, breaks into a run, her heart pounding with the repetition of three words: Princess Fen! Princess Fen! Princess Fen!",
+      "level": 2
+    },
+    {
+      "id": "158",
+      "text": "The door to her home is familiar, but as she pushes it open, Xiao Wan gets goosebumps, as if she is opening the door not to her home, but to the residence of someone from another dynasty, seeking a long-lost friend.",
+      "level": 1
+    },
+    {
+      "id": "158.1",
+      "text": "She glances back, feeling as if someone is following her.",
+      "level": 2
+    },
+    {
+      "id": "159",
+      "text": "There is nothing behind her, yet Xiao Wan keeps looking back.",
+      "level": 1
+    },
+    {
+      "id": "159.1",
+      "text": "In her ears, the melody of 'Qiàn Nǚ Lí Hún' seems to linger: 'Darkness deep, unfettered, I tread the sandy shore, gaze at the moonlight, see mountains and rivers, all within a moment...'",
+      "level": 2
+    },
+    {
+      "id": "160",
+      "text": "But she has finally returned home.",
+      "level": 1
+    },
+    {
+      "id": "161",
+      "text": "Home is the safest refuge; the unique aroma of home instantly dispels the fear and inexplicable melancholy lingering in Xiao Wan's heart.",
+      "level": 1
+    },
+    {
+      "id": "161.1",
+      "text": "The scent includes the sandalwood from her grandmother's room, the aroma of her father's aged osmanthus wine, the barks and slight odor of her dog Dongdong, and her mother's cumin-fried meat and sweet and sour fish head.",
+      "level": 2
+    },
+    {
+      "id": "162",
+      "text": "Xiao Wan hops into the kitchen, exclaiming happily: 'Mom, you cooked my favorite dishes!'",
+      "level": 1
+    },
+    {
+      "id": "163",
+      "text": "Dongdong barks and follows in and out, wagging his tail like a pinwheel.",
+      "level": 1
+    },
+    {
+      "id": "164",
+      "text": "Her mother playfully pretends to hit her head with a spatula: 'How many times have I told you? Stir-frying is stir-frying, not 'burning dishes' as if I'm going to set the kitchen on fire!'",
+      "level": 1
+    },
+    {
+      "id": "165",
+      "text": "Xiao Wan ducks her head to avoid it.",
+      "level": 1
+    },
+    {
+      "id": "165.1",
+      "text": "Dongdong, fiercely protective of his owner, rushes forward and barks. Her mother, angry but amused, kicks him and scolds: 'You rascal dog, I feed you every day, and you still dare to act tough with me!'",
+      "level": 2
+    },
+    {
+      "id": "166",
+      "text": "Xiao Wan claps her hands and laughs.",
+      "level": 1
+    },
+    {
+      "id": "166.1",
+      "text": "Her father, Shuǐ Róng, is already impatiently calling from the living room: 'Daughter, come out and play a game of chess with Dad.'",
+      "level": 2
+    },
+    {
+      "id": "167",
+      "text": "Xiao Wan walks out with her hands behind her back, smiling: 'It seems all fathers only do two things: drink old wine and play chess.'",
+      "level": 1
+    },
+    {
+      "id": "168",
+      "text": "'But not all fathers like to play chess with their daughters,' Shuǐ Róng quickly interjects, chuckling.",
+      "level": 1
+    },
+    {
+      "id": "169",
+      "text": "'That's true. They like to find old men under streetlights.'",
+      "level": 1
+    },
+    {
+      "id": "170",
+      "text": "'Dad isn't an old man.'",
+      "level": 1
+    },
+    {
+      "id": "171",
+      "text": "'Of course not, Dad is a young man.'",
+      "level": 1
+    },
+    {
+      "id": "171.1",
+      "text": "Xiao Wan jumps into her father's arms. 'I've never seen a more mature and suave young man than Dad!'",
+      "level": 2
+    },
+    {
+      "id": "172",
+      "text": "'Wrong. You shouldn't say 'young man,' but 'charming talent!'",
+      "level": 1
+    },
+    {
+      "id": "172.1",
+      "text": "Shuǐ Róng smiles and hands his daughter a sheet of ink-dark Xuan paper: 'Look at the poem I just wrote.'",
+      "level": 2
+    },
+    {
+      "id": "173",
+      "text": "'I don't understand poetry.'",
+      "level": 1
+    },
+    {
+      "id": "174",
+      "text": "'You don't need to understand it deeply. I've never truly understood the rules of 'gu ping' and 'niù jiù' myself. As long as there's meaning, that's enough.'",
+      "level": 1
+    },
+    {
+      "id": "175",
+      "text": "It is a seven-character regulated verse:",
+      "level": 1
+    },
+    {
+      "id": "176",
+      "text": "“See all beings, but not immortals;\nHear distant drums, and near Zen.",
+      "level": 1
+    },
+    {
+      "id": "177",
+      "text": "The Pear Garden and entertainment houses fade together;\nAs Yan music and clear tones vanish.",
+      "level": 1
+    },
+    {
+      "id": "178",
+      "text": "Sleeves of opera fall short of silk robes' chaos;\nChang'e's sorrow outdoes Dou E's grievance.",
+      "level": 1
+    },
+    {
+      "id": "179",
+      "text": "Who likens Peking Opera to flowing water?\nYear after year, it trickles on.”",
+      "level": 1
+    },
+    {
+      "id": "180",
+      "text": "Xiao Wan reads it and thoughtfully praises: 'A good poem!'",
+      "level": 1
+    },
+    {
+      "id": "181",
+      "text": "Shuǐ Róng laughs: 'You say you don't understand? Tell me, why is it good?'",
+      "level": 1
+    },
+    {
+      "id": "182",
+      "text": "This is Shuǐ Róng's old habit; if someone criticizes him, he will explain at length why his work is good; if someone praises it, he will press them to explain why it's good.",
+      "level": 1
+    },
+    {
+      "id": "183",
+      "text": "Xiao Wan smiles and says: 'If you ask me to explain it line by line, I can't. But I grasp the general meaning. It's good because the allusions are natural and fitting, effortlessly woven in. Concentrated performance in drama originated in Qin; during the Han dynasty, 'hundred entertainments' were performed in the palace's Pinguān Hall; in the Northern Wei, it was in temples; during the Tang dynasty, it remained concentrated in the palace and major temples in Chang'an.",
+      "level": 1
+    },
+    {
+      "id": "183.1",
+      "text": "Emperor Xuanzong of Tang established the 'Pear Garden', forming opera troupes, sometimes even performing himself; during the Song dynasty, there were finally dedicated places for opera, spread throughout the eastern, southern, western, and northern cities, called 'wǎ shè'.",
+      "level": 2
+    },
+    {
+      "id": "183.2",
+      "text": "Each wǎ shè had ten 'gōulán sheds', but later, 'gōulán' became synonymous with brothels, which is actually a misunderstanding.",
+      "level": 2
+    },
+    {
+      "id": "183.3",
+      "text": "The line 'The Pear Garden and entertainment houses fade together' in the poem refers to all theaters, and 'Yan music and clear tones vanish' refers to all dramatic arts, because during the Sui Dynasty, 'scattered music' from all regions was gathered in the capital Luoyang and divided into nine parts, including 'Yan music, clear tones, Western Liang, Funan, Goguryeo, Kucha, An Kingdom, Shule, Kang Kingdom', etc.",
+      "level": 2
+    },
+    {
+      "id": "183.4",
+      "text": "I'm not mistaken, am I?'",
+      "level": 2
+    },
+    {
+      "id": "184",
+      "text": "'You recall it like a family treasure!' Shuǐ Róng rubs his hands and praises, 'Good daughter, you're truly Dad's confidante.'",
+      "level": 1
+    },
+    {
+      "id": "184.1",
+      "text": "'Now, tell me, what kind of emotion am I expressing?'",
+      "level": 2
+    },
+    {
+      "id": "185",
+      "text": "'This I can't explain clearly. The first half has a somewhat melancholic tone, such as 'Sleeves of opera fall short of silk robes' chaos; Chang'e's sorrow outdoes Dou E's grievance', all expressing the decline of opera and its solitary, high-brow nature.",
+      "level": 1
+    },
+    {
+      "id": "185.1",
+      "text": "The end expresses a faint hope for opera, a blessing for its enduring legacy.'",
+      "level": 2
+    },
+    {
+      "id": "186",
+      "text": "Shuǐ Róng, still eager for more, wants to ask further questions, but Xiao Wan calls out: 'Alright, alright, don't be like this! I've had a long day and finally got home, and now I have to take a test! I'm starving! I'm starving!'",
+      "level": 1
+    },
+    {
+      "id": "187",
+      "text": "Her mother comes out with dishes, pretending to scold but smiling: 'Not old, not young.'",
+      "level": 1
+    },
+    {
+      "id": "188",
+      "text": "Her grandmother, smelling the food, also comes out on time and immediately says: 'In front of me, who dares to say they are old?'",
+      "level": 1
+    },
+    {
+      "id": "189",
+      "text": "'No one dares. Who can compare to you, Grandma? You are the Empress Dowager, a living Bodhisattva!'",
+      "level": 1
+    },
+    {
+      "id": "189.1",
+      "text": "Xiao Wan smiles, makes way for her grandmother, and hands her chopsticks and a bowl, then sits opposite her.",
+      "level": 2
+    },
+    {
+      "id": "189.2",
+      "text": "She announces solemnly: 'Everyone, I've learned a great deal today: I opened the 'Méiyīng Trunk'.'",
+      "level": 2
+    },
+    {
+      "id": "190",
+      "text": "Her grandmother slams down her bowl and asks urgently: 'What? What trunk?'",
+      "level": 1
+    },
+    {
+      "id": "191",
+      "text": "'The Méiyīng Trunk. It's the costume worn by the famous actress Ruò Méiyīng in 'Qiàn Nǚ Lí Hún' before liberation, which was popular in Beijing and Shanghai. It's absolutely stunning; the craftsmanship and quality are unmatched by today's costumes!'",
+      "level": 1
+    },
+    {
+      "id": "192",
+      "text": "Her grandmother's expression freezes, her lips trembling slightly, as if deeply shaken.",
+      "level": 1
+    },
+    {
+      "id": "193",
+      "text": "Shuǐ Róng is startled and asks: 'Mom, what's wrong?'",
+      "level": 1
+    },
+    {
+      "id": "194",
+      "text": "Unexpectedly, her grandmother seems not to hear him and grabs Xiao Wan's hand, asking: 'You said that trunk, is it made of real leather with embossed patterns, and does it have an erotic illustration painted on it?'",
+      "level": 1
+    },
+    {
+      "id": "194.1",
+      "text": "Without waiting for Xiao Wan's reply, she continues to describe it in detail: 'Those clothes, three layers inside and out, the topmost is a mid-length sleeve, the embroidered pattern is clouds hiding the moon, and there's a headpiece box inside, with one rhinestone missing from the diamonds...'",
+      "level": 2
+    },
+    {
+      "id": "195",
+      "text": "'How do you know so much?' Xiao Wan interrupts, unable to help herself.",
+      "level": 1
+    },
+    {
+      "id": "196",
+      "text": "Her grandmother sighs deeply: 'How could I not know? I personally organized and sealed those clothes and headpieces.'",
+      "level": 1
+    },
+    {
+      "id": "197",
+      "text": "Xiao Wan and her father exchange glances, stunned into silence.",
+      "level": 1
+    },
+    {
+      "id": "197.1",
+      "text": "Although her grandmother was an old member of the troupe, she worked in logistics and had no connection to the Méiyīng Trunk.",
+      "level": 2
+    },
+    {
+      "id": "198",
+      "text": "However, what her grandmother said next astonished them even more:",
+      "level": 1
+    },
+    {
+      "id": "199",
+      "text": "'Not just 'Qiàn Nǚ Lí Hún', I organized all of Méiyīng's trunks. Back then, I was her personal attendant, serving her for seven full years.'",
+      "level": 1
+    },
+    {
+      "id": "200",
+      "text": "Xiao Wan almost faints, and after a long pause, exclaims: 'Attendant? You were Méiyīng's attendant?'",
+      "level": 1
+    },
+    {
+      "id": "201",
+      "text": "'Yes. I followed Miss Ruò when I was nine, serving as both attendant and maid. From Hangzhou to Beijing, and from Beijing to Shanghai, I followed her for seven years until she got married and retired from the opera world.'",
+      "level": 1
+    },
+    {
+      "id": "202",
+      "text": "'And then?'",
+      "level": 1
+    },
+    {
+      "id": "203",
+      "text": "'Then liberation came, opera houses were reorganized, and I became a government employee, transferred to Beijing to work in the troupe's logistics until retirement.'",
+      "level": 1
+    },
+    {
+      "id": "204",
+      "text": "Xiao Wan murmurs: 'You never told me...'",
+      "level": 1
+    },
+    {
+      "id": "205",
+      "text": "Shuǐ Róng sighs: 'Even I didn't know.'",
+      "level": 1
+    },
+    {
+      "id": "206",
+      "text": "'You never asked. I thought no one remembered Ruò Méiyīng anymore.'",
+      "level": 1
+    },
+    {
+      "id": "206.1",
+      "text": "Her grandmother says with some grievance: 'No one ever told me the troupe had Miss Ruò's trunks. I thought they were all burned during the 'Cultural Revolution'.",
+      "level": 2
+    },
+    {
+      "id": "206.2",
+      "text": "I haven't seen those trunks since they were sealed in 1948. I've worked half my life in the troupe and never realized I was so close to them...'",
+      "level": 2
+    },
+    {
+      "id": "207",
+      "text": "'Did you look for her later?'",
+      "level": 1
+    },
+    {
+      "id": "208",
+      "text": "'Of course I looked for her. But after she married, she followed that military officer to Guangdong and never contacted me again.",
+      "level": 1
+    },
+    {
+      "id": "208.1",
+      "text": "Later, her voice failed, she couldn't sing, and she started using opium, so things got worse.",
+      "level": 2
+    },
+    {
+      "id": "208.2",
+      "text": "It seems she also had a child, but it's unclear what happened. After liberation, I tried to inquire everywhere, but no one knew the details.",
+      "level": 2
+    },
+    {
+      "id": "208.3",
+      "text": "I only learned in 1966, when the 'Temple of Heaven Case' broke out, that Miss Ruò was in Beijing. But for some reason, she didn't contact me, and by the time I wanted to find her, it was too late...'",
+      "level": 2
+    },
+    {
+      "id": "209",
+      "text": "'The Temple of Heaven Case? What was that about?'",
+      "level": 1
+    },
+    {
+      "id": "210",
+      "text": "Her mother interrupts anxiously: 'Xiao Wan, eat. Don't talk about these things at the dinner table. Children shouldn't ask so many questions.'",
+      "level": 1
+    },
+    {
+      "id": "211",
+      "text": "Her grandmother also suddenly realizes, agreeing: 'That's right. Today is the fourteenth of the lunar month, so let's not talk about death and life; it's taboo.",
+      "level": 1
+    },
+    {
+      "id": "211.1",
+      "text": "It's strange, it rarely rains on the fourteenth of July. It's been overcast since morning, making me feel uneasy all day.'",
+      "level": 2
+    },
+    {
+      "id": "212",
+      "text": "This is the second time Xiao Wan has heard the same words today.",
+      "level": 1
+    },
+    {
+      "id": "213",
+      "text": "She truly feels something has happened.",
+      "level": 1
+    },
+    {
+      "id": "213.1",
+      "text": "A deeply buried secret seems eager to break through the soil; she sees the sprout of the secret but not its roots.",
+      "level": 2
+    },
+    {
+      "id": "213.2",
+      "text": "If the secret were a flower, what kind of fruit would it bear?",
+      "level": 2
+    },
+    {
+      "id": "214",
+      "text": "At night, Xiao Wan has a dream: she is wearing Méiyīng's 'Lí Hún Yī', walking in a cemetery at night.",
+      "level": 1
+    },
+    {
+      "id": "214.1",
+      "text": "The wind whispers mournfully through the treetops, with occasional bird calls, but no sign of flight.",
+      "level": 2
+    },
+    {
+      "id": "214.2",
+      "text": "Perhaps they are just bird spirits?",
+      "level": 2
+    },
+    {
+      "id": "215",
+      "text": "The grave grass is lush. Xiao Wan walks through the grass, feeling lonely, and sees dead roses the color of rust blooming all around.",
+      "level": 1
+    },
+    {
+      "id": "216",
+      "text": "An antique phonograph bought at Liulichang plays an opera tune indistinctly: Du Liniang's 'Strolling in the Garden and Encountering a Dream'.",
+      "level": 1
+    },
+    {
+      "id": "217",
+      "text": "Calling it an antique, it's at most sixty years old, not even as old as Grandma.",
+      "level": 1
+    },
+    {
+      "id": "217.1",
+      "text": "There are countless other old objects of the same age in Xiao Wan's home: old photo albums, comic books, Chairman Mao badges, and camphor wood chests, but they have different fates.",
+      "level": 2
+    },
+    {
+      "id": "217.2",
+      "text": "The phonograph is an antique, but the small stool is junk, and the chipped enamel basin and pickle jar are even worse, relegated to garbage.",
+      "level": 2
+    },
+    {
+      "id": "218",
+      "text": "'Originally, vibrant colors bloomed everywhere; like this, all given to broken wells and crumbling walls. The beautiful time and scenery, alas, whose courtyard can appreciate these pleasures! Day flies, night fades, clouds and mist adorn the pavilions, rain splatters and wind scatters, misty water carries painted boats. The person behind the brocade screen cherishes this fleeting beauty...'",
+      "level": 1
+    },
+    {
+      "id": "219",
+      "text": "The needle rotates in circles. The same melody, sung for over half a century.",
+      "level": 1
+    },
+    {
+      "id": "219.1",
+      "text": "The beautiful time and scenery have long turned into broken wells and crumbling walls, but where there are broken wells and crumbling walls, how many new beautiful times and scenes have unfolded?",
+      "level": 2
+    },
+    {
+      "id": "220",
+      "text": "'The Pear Garden and entertainment houses fade together; as Yan music and clear tones vanish.'",
+      "level": 1
+    },
+    {
+      "id": "220.1",
+      "text": "Xiao Wan can't help but recall her father's poem. At this moment, she truly feels it is a good poem.",
+      "level": 2
+    },
+    {
+      "id": "221",
+      "text": "It's the weekend, no need to work. Xiao Wan sleeps until after nine in the morning.",
+      "level": 1
+    },
+    {
+      "id": "222",
+      "text": "When she wakes up, she hears them singing 'Strolling in the Garden' next door, knowing her father has stayed up all night again.",
+      "level": 1
+    },
+    {
+      "id": "223",
+      "text": "This is her father Shuǐ Róng's working habit: before writing, he always plays old records on the phonograph, claiming it creates atmosphere and sparks inspiration.",
+      "level": 1
+    },
+    {
+      "id": "224",
+      "text": "Cigars, black coffee, and old records are Shuǐ Róng's three essential writing tools; without them, he can't work.",
+      "level": 1
+    },
+    {
+      "id": "224.1",
+      "text": "So Xiao Wan often jokes that her father's scripts are not written with a pen but are ground out by cigars and coffee poured onto the phonograph.",
+      "level": 2
+    },
+    {
+      "id": "225",
+      "text": "But you have to admit, this method, though somewhat theatrical, is indeed effective.",
+      "level": 1
+    },
+    {
+      "id": "225.1",
+      "text": "Whenever her father draws the curtains during the day, turns on his desk lamp, and plays old records while writing furiously, Xiao Wan feels like she's entered a time tunnel, her mind hazy and confused.",
+      "level": 2
+    },
+    {
+      "id": "225.2",
+      "text": "She absolutely believes the three tools have a hypnotic effect, but she can't understand how her father stays awake to write scripts under these conditions.",
+      "level": 2
+    },
+    {
+      "id": "225.3",
+      "text": "If it were her, she'd be dreaming of playing chess with the Duke of Zhou before finishing one song.",
+      "level": 2
+    },
+    {
+      "id": "226",
+      "text": "Xiao Wan stretches and prepares to get up. As she turns over, her hair gets caught on a wind chime hanging from the canopy, and she immediately cries out.",
+      "level": 1
+    },
+    {
+      "id": "227",
+      "text": "The wind chime is made of bronze, traditionally hung under eaves to ward off evil spirits.",
+      "level": 1
+    },
+    {
+      "id": "227.1",
+      "text": "After enduring wind and rain for a long time, it's covered in green verdigris.",
+      "level": 2
+    },
+    {
+      "id": "227.2",
+      "text": "Her father picked it up as a treasure and hung it on his daughter's mosquito net as decoration.",
+      "level": 2
+    },
+    {
+      "id": "227.3",
+      "text": "Xiao Wan said it was fine to hang it there, as long as the rust was wiped clean.",
+      "level": 2
+    },
+    {
+      "id": "227.4",
+      "text": "But her father wouldn't allow it, saying it had more character, an ancient feel, and spiritual charm.",
+      "level": 2
+    },
+    {
+      "id": "227.5",
+      "text": "As a result, it's so 'spiritual' it catches her hair every day.",
+      "level": 2
+    },
+    {
+      "id": "228",
+      "text": "Her mother rushes in like a firefighter, repeatedly exclaiming: 'Oh my, what happened? Caught your hair again?",
+      "level": 1
+    },
+    {
+      "id": "228.1",
+      "text": "How many times have I told you to be careful when you get up? You always forget. Your dad too, picking up junk and treating it like treasure, making the house full of potential crises, always on edge.'",
+      "level": 2
+    },
+    {
+      "id": "229",
+      "text": "Xiao Wan tilts her head, finding the untangling of her hair by her mother's fingers quite comfortable, and hums, 'Did my dad stay up all night again?'",
+      "level": 1
+    },
+    {
+      "id": "230",
+      "text": "'Isn't that the case? He's become like Chen Bailu in 'Sunrise'.'",
+      "level": 1
+    },
+    {
+      "id": "230.1",
+      "text": "Her mother imitates Xu Fan's tone from the TV show and sighs, reciting the line: 'The sky has dawned, we should sleep.'",
+      "level": 2
+    },
+    {
+      "id": "231",
+      "text": "Xiao Wan laughs and claps her hands and kicks her legs on the bed, acting spoiled.",
+      "level": 1
+    },
+    {
+      "id": "232",
+      "text": "There are few housewives as tolerant as her mother, who neither stops her husband from working late nor interferes with her daughter sleeping in.",
+      "level": 1
+    },
+    {
+      "id": "232.1",
+      "text": "Aside from her nagging and obsession with cleanliness, she is truly a loving and perfect mother.",
+      "level": 2
+    },
+    {
+      "id": "233",
+      "text": "Every time Xiao Wan sees her father, she feels he should have married a woman like that: wearing a silk embroidered robe, lounging on a Dr. Jin fabric sofa, lazily smoking and drinking red wine, while listening to Xu Xiaofeng or Wang Mingquan sing 'Nanping Wanzhong' and 'Jinghua Chunmeng', gently tapping ashes from her cigarette into a celadon carved dish.",
+      "level": 1
+    },
+    {
+      "id": "234",
+      "text": "But when she sees her mother, she feels her father is the kind of man her mother should marry.",
+      "level": 1
+    },
+    {
+      "id": "235",
+      "text": "It seems there are many kinds of feminine charm, but only one kind of man who is suitable to marry.",
+      "level": 1
+    },
+    {
+      "id": "236",
+      "text": "Her mother also smiles, then suddenly cries out in alarm: 'Hey, why is there blood on this bell?'",
+      "level": 1
+    },
+    {
+      "id": "237",
+      "text": "'Blood?' Xiao Wan leans in in surprise and sees dark red bloodstains on the dark green bronze bell, looking ominous and still clinging to one of her long hairs.",
+      "level": 1
+    },
+    {
+      "id": "238",
+      "text": "Her mother becomes anxious: 'Wan'er, did you injure yourself somewhere? Are you hurt? Let Mom see.'",
+      "level": 1
+    },
+    {
+      "id": "239",
+      "text": "'No.' Xiao Wan stretches her arms and legs. 'I'm not hurt anywhere. Mom, look closely, the blood on it is completely dry. Maybe it was already there, and we just didn't notice.'",
+      "level": 1
+    },
+    {
+      "id": "240",
+      "text": "'That's why I say your dad is so reckless, hanging such an inauspicious thing in your room. It's terrifying. Today, we must take it down.'",
+      "level": 1
+    },
+    {
+      "id": "241",
+      "text": "'Okay, I'll give it to Dad.'",
+      "level": 1
+    },
+    {
+      "id": "242",
+      "text": "The little dog Dongdong has been waiting outside the door for a long time.",
+      "level": 1
+    },
+    {
+      "id": "242.1",
+      "text": "Seeing his little owner getting up, he immediately wags his tail and runs to greet her, but before he gets close, he suddenly yelps 'Ouch!' as if his backside has been burned, turns, and runs away.",
+      "level": 2
+    },
+    {
+      "id": "243",
+      "text": "Xiao Wan finds it strange: 'Dongdong, come here! Come!'",
+      "level": 1
+    },
+    {
+      "id": "243.1",
+      "text": "The more she calls, the farther Dongdong runs, barking mournfully as if he's been beaten severely.",
+      "level": 2
+    },
+    {
+      "id": "244",
+      "text": "Shuǐ Róng's writing has just concluded.",
+      "level": 1
+    },
+    {
+      "id": "244.1",
+      "text": "Hearing his beloved daughter's voice, he opens the door and calls out: 'Xiao Wan, come in. See how this part I wrote is? Your suggestion last night was excellent, adding the mood of 'Strolling in the Garden and Encountering a Dream' to 'Qiàn Nǚ Lí Hún'. The dream wandering and soul wandering echo each other, intensifying the psychedelic color. It's indeed very...'",
+      "level": 2
+    }
+  ],
+  "concepts": [
+    {
+      "name": "戏衣 (xiè yī - theatrical costume)",
+      "frequency": 6,
+      "context": "The central theme of the first chapter, described as having a history, stories, and emotional weight."
+    },
+    {
+      "name": "剧团 (jù tuán - theater troupe)",
+      "frequency": 4,
+      "context": "The setting for the story, a modern troupe in Beijing with an old courtyard compound."
+    },
+    {
+      "name": "戏园子 (xì yuán zi - opera house/theater)",
+      "frequency": 3,
+      "context": "Refers to the place where theatrical performances occur and also the environment where actors live and work."
+    },
+    {
+      "name": "名伶 (míng líng - famous actress)",
+      "frequency": 5,
+      "context": "Refers to accomplished actresses of the past, like Ruò Méiyīng, whose costumes are central to the plot."
+    },
+    {
+      "name": "若梅英 (Ruò Méiyīng)",
+      "frequency": 7,
+      "context": "A renowned Peking Opera actress from the 1930s-40s, the former owner of the 'Méiyīng Trunk'."
+    },
+    {
+      "name": "衣箱 (yī xiāng - costume trunk)",
+      "frequency": 6,
+      "context": "The container for theatrical costumes, particularly the old and valuable 'Méiyīng Trunk', which holds significant historical and possibly supernatural weight."
+    },
+    {
+      "name": "仪式 (yí shì - ritual)",
+      "frequency": 2,
+      "context": "The act of opening the costume trunk, which involves specific traditional procedures."
+    },
+    {
+      "name": "鬼节 (guǐ jié - Ghost Festival)",
+      "frequency": 4,
+      "context": "The fourteenth day of the seventh lunar month, a time associated with spirits and rituals, influencing the atmosphere of the story."
+    },
+    {
+      "name": "小宛 (Xiǎo Wǎn)",
+      "frequency": 14,
+      "context": "The main young female protagonist, interested in fashion design and theatrical costumes."
+    },
+    {
+      "name": "张之也 (Zhāng Zhīyě)",
+      "frequency": 6,
+      "context": "A reporter who encounters Xiao Wan and introduces the concept of 'zì shū nǚ'."
+    },
+    {
+      "name": "自梳女 (zì shū nǚ - self-combing woman)",
+      "frequency": 4,
+      "context": "A special group of women who vow not to marry, explained by Zhang Zhiyě and linked to Mother Zhao."
+    },
+    {
+      "name": "赵嬷嬷 (Zhào Māma - Mother Zhao)",
+      "frequency": 10,
+      "context": "The accountant, an older woman with a long braid, who has a surprising connection to Ruò Méiyīng."
+    },
+    {
+      "name": "水溶 (Shuǐ Róng)",
+      "frequency": 6,
+      "context": "Xiao Wan's father, the deputy director of the troupe, a writer who is working on reviving an old opera."
+    },
+    {
+      "name": "倩女离魂 (Qiàn Nǚ Lí Hún - The Ghost of a Woman)",
+      "frequency": 7,
+      "context": "An ancient opera being revived, which is central to the plot and the reason for opening the Méiyīng Trunk."
+    },
+    {
+      "name": "梅英衣箱 (Méiyīng Yī xiāng - Méiyīng's Costume Trunk)",
+      "frequency": 5,
+      "context": "The specific, legendary trunk of Ruò Méiyīng, which holds significant mystery and history."
+    },
+    {
+      "name": "死玫瑰 (Sǐ Méiguī - Dead Rose)",
+      "frequency": 6,
+      "context": "A song and a symbol of lost love that Xiao Wan encountered with A Tao."
+    },
+    {
+      "name": "阿陶 (Ā Táo)",
+      "frequency": 5,
+      "context": "A busker Xiao Wan falls in love with, known for singing 'Dead Rose'."
+    },
+    {
+      "name": "初恋 (chū liàn - first love)",
+      "frequency": 3,
+      "context": "Xiao Wan's intense emotional experience with A Tao, which ends abruptly."
+    },
+    {
+      "name": "游园惊梦 (Yóu Yuán Jīng Mèng - Strolling in the Garden and Encountering a Dream)",
+      "frequency": 4,
+      "context": "Another famous opera, referenced and its melodies played, connecting to the themes of dreams and reality."
+    },
+    {
+      "name": "包衣 (bāoyī - personal attendant)",
+      "frequency": 2,
+      "context": "The role Grandmother played for Ruò Méiyīng, revealing a hidden past connection."
+    },
+    {
+      "name": "雷声 (léi shēng - thunder)",
+      "frequency": 3,
+      "context": "A recurring atmospheric element, often coinciding with significant or unsettling events."
+    },
+    {
+      "name": "雨 (yǔ - rain)",
+      "frequency": 5,
+      "context": "A persistent weather element that contributes to the mood and atmosphere, often described as heavy or unusual."
+    },
+    {
+      "name": "旧物件 (jiù wù jiàn - old objects)",
+      "frequency": 2,
+      "context": "Objects in Xiao Wan's home, such as the phonograph, that carry history and evoke nostalgia."
+    },
+    {
+      "name": "诗 (shī - poem)",
+      "frequency": 4,
+      "context": "A poem written by Shuǐ Róng reflecting on the decline of Peking Opera."
+    }
+  ],
+  "relations": [
+    {
+      "source": "戏衣",
+      "target": "故事",
+      "type": "is_about"
+    },
+    {
+      "source": "剧团",
+      "target": "北京",
+      "type": "located_in"
+    },
+    {
+      "source": "名伶",
+      "target": "戏衣",
+      "type": "owns"
+    },
+    {
+      "source": "若梅英",
+      "target": "名伶",
+      "type": "is_a"
+    },
+    {
+      "source": "衣箱",
+      "target": "若梅英",
+      "type": "belonged_to"
+    },
+    {
+      "source": "仪式",
+      "target": "衣箱",
+      "type": "applies_to"
+    },
+    {
+      "source": "鬼节",
+      "target": "气氛",
+      "type": "influences"
+    },
+    {
+      "source": "小宛",
+      "target": "戏衣",
+      "type": "interested_in"
+    },
+    {
+      "source": "小宛",
+      "target": "张之也",
+      "type": "interacts_with"
+    },
+    {
+      "source": "张之也",
+      "target": "自梳女",
+      "type": "explains"
+    },
+    {
+      "source": "赵嬷嬷",
+      "target": "自梳女",
+      "type": "is_a"
+    },
+    {
+      "source": "赵嬷嬷",
+      "target": "若梅英",
+      "type": "connected_to"
+    },
+    {
+      "source": "水溶",
+      "target": "小宛",
+      "type": "is_parent_of"
+    },
+    {
+      "source": "水溶",
+      "target": "倩女离魂",
+      "type": "working_on"
+    },
+    {
+      "source": "倩女离魂",
+      "target": "衣箱",
+      "type": "reason_for_opening"
+    },
+    {
+      "source": "梅英衣箱",
+      "target": "若梅英",
+      "type": "belonged_to"
+    },
+    {
+      "source": "死玫瑰",
+      "target": "歌曲",
+      "type": "is_a"
+    },
+    {
+      "source": "小宛",
+      "target": "阿陶",
+      "type": "loved"
+    },
+    {
+      "source": "阿陶",
+      "target": "死玫瑰",
+      "type": "sang"
+    },
+    {
+      "source": "初恋",
+      "target": "小宛",
+      "type": "experienced_by"
+    },
+    {
+      "source": "游园惊梦",
+      "target": "歌",
+      "type": "is_a"
+    },
+    {
+      "source": "包衣",
+      "target": "赵嬷嬷",
+      "type": "was_role_of"
+    },
+    {
+      "source": "雷声",
+      "target": "不祥事件",
+      "type": "accompanies"
+    },
+    {
+      "source": "雨",
+      "target": "气氛",
+      "type": "contributes_to"
+    },
+    {
+      "source": "旧物件",
+      "target": "历史",
+      "type": "represents"
+    },
+    {
+      "source": "诗",
+      "target": "水溶",
+      "type": "written_by"
+    },
+    {
+      "source": "诗",
+      "target": "京剧",
+      "type": "reflects_on_decline_of"
+    }
+  ],
+  "hierarchy": {
+    "main_topics": [
+      "Theatrical Costumes and Their Lore",
+      "The Theater Troupe and Its Characters",
+      "Supernatural and Mysterious Events",
+      "Love and Loss",
+      "The Interplay of Past and Present"
+    ],
+    "structure": "The document is divided into three chapters, each building upon the previous one. Chapter 1 introduces the setting, the central mystery of the 'Méiyīng Trunk', and the characters. Chapter 2 delves into Xiao Wan's personal life and her past romantic encounter, weaving in the themes of lost love and memory. Chapter 3 further explores the family's history, the connection to opera, and the lingering mysteries, suggesting a deeper connection between the theatrical world and personal lives."
+  }
+}

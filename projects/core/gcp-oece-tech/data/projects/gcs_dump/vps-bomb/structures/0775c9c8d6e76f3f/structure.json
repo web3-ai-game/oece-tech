@@ -1,0 +1,523 @@
+{
+  "propositions": [
+    {
+      "id": "1",
+      "text": "The story begins with a mysterious invitation from Du Xiaomei.",
+      "level": 1
+    },
+    {
+      "id": "1.1",
+      "text": "Mo Lan receives a call from Dai Rou about the invitation.",
+      "level": 2
+    },
+    {
+      "id": "1.2",
+      "text": "Du Xiaomei was a college acquaintance of Mo Lan and Dai Rou, younger and from a wealthy background.",
+      "level": 2
+    },
+    {
+      "id": "1.3",
+      "text": "The invitation is for a gathering at Du Xiaomei's villa for 'Eight Delicacies Soup'.",
+      "level": 2
+    },
+    {
+      "id": "2",
+      "text": "Mo Lan recalls the story of 'Eight Delicacies Soup', a tragic murder case from 10 years prior.",
+      "level": 1
+    },
+    {
+      "id": "2.1",
+      "text": "The case involved Zhang Suping, Mo Lan's college dorm mate.",
+      "level": 2
+    },
+    {
+      "id": "2.2",
+      "text": "Zhang Suping had a complex and troubled upbringing with adoptive parents.",
+      "level": 2
+    },
+    {
+      "id": "2.3",
+      "text": "Her adoptive mother, Tu Zhen, exhibited disturbing behavior and forced Zhang Suping to dress as a boy.",
+      "level": 3
+    },
+    {
+      "id": "2.4",
+      "text": "Zhang Suping fell in love with her employer, Lu Qiang, a widower.",
+      "level": 2
+    },
+    {
+      "id": "2.5",
+      "text": "Lu Qiang broke up with Zhang Suping for another woman.",
+      "level": 3
+    },
+    {
+      "id": "2.6",
+      "text": "In revenge, Zhang Suping murdered Lu Qiang's new girlfriend and served parts of her body in 'Eight Delicacies Soup'.",
+      "level": 3
+    },
+    {
+      "id": "2.7",
+      "text": "Zhang Suping then committed suicide by jumping from an 11th-floor window.",
+      "level": 3
+    },
+    {
+      "id": "3",
+      "text": "The friends gather at Du Xiaomei's luxurious European-style villa.",
+      "level": 1
+    },
+    {
+      "id": "3.1",
+      "text": "Mo Lan arrives and is greeted by Du Xiaomei and Dai Rou.",
+      "level": 2
+    },
+    {
+      "id": "3.2",
+      "text": "Jiang Rongxi arrives, and they are all pulled into the house.",
+      "level": 2
+    },
+    {
+      "id": "3.3",
+      "text": "Mo Lan reflects on her strong bond with Jiang Rongxi, her financial advisor and friend.",
+      "level": 3
+    },
+    {
+      "id": "3.4",
+      "text": "Mo Lan notes that Jiang Rongxi is more accomplished than Du Xiaomei, who is a wealthy but idle housewife.",
+      "level": 3
+    },
+    {
+      "id": "3.5",
+      "text": "Zhao Yanshu, the most beautiful but also the most timid of the group, also arrives.",
+      "level": 2
+    },
+    {
+      "id": "3.6",
+      "text": "Du Xiaomei announces it's time to eat, mentioning her 'Eight Delicacies Soup'.",
+      "level": 2
+    },
+    {
+      "id": "3.7",
+      "text": "Dai Rou is seen on the phone, looking grim and full of malice.",
+      "level": 3
+    },
+    {
+      "id": "4",
+      "text": "During dinner, the conversation turns to the 'Eight Delicacies Soup' case.",
+      "level": 1
+    },
+    {
+      "id": "4.1",
+      "text": "The friends express their shock and disbelief at Zhang Suping's actions.",
+      "level": 2
+    },
+    {
+      "id": "4.2",
+      "text": "Dai Rou defends Zhang Suping's actions as justified against a \"heartless man.\"",
+      "level": 3
+    },
+    {
+      "id": "4.3",
+      "text": "Jiang Rongxi suggests Zhang Suping was also a victim and should have targeted the man.",
+      "level": 3
+    },
+    {
+      "id": "4.4",
+      "text": "Du Xiaomei makes a disturbing remark about potentially doing the same to a rival.",
+      "level": 3
+    },
+    {
+      "id": "4.5",
+      "text": "Du Xiaomei reveals her 'Eight Delicacies Soup' is actually a mushroom and chicken soup.",
+      "level": 2
+    },
+    {
+      "id": "4.6",
+      "text": "Du Xiaomei announces she is pregnant.",
+      "level": 2
+    },
+    {
+      "id": "4.7",
+      "text": "The friends congratulate her, but Dai Rou seems skeptical.",
+      "level": 3
+    },
+    {
+      "id": "4.8",
+      "text": "Du Xiaomei elaborates on her pregnancy plans and her husband Liao Yongli's reactions.",
+      "level": 3
+    },
+    {
+      "id": "4.9",
+      "text": "Zhao Yanshu suddenly feels ill and runs to the bathroom, experiencing nausea.",
+      "level": 2
+    },
+    {
+      "id": "4.10",
+      "text": "Dai Rou accuses Du Xiaomei of poisoning Zhao Yanshu.",
+      "level": 3
+    },
+    {
+      "id": "4.11",
+      "text": "Jiang Rongxi dismisses it as Zhao Yanshu's usual stomach problems.",
+      "level": 3
+    },
+    {
+      "id": "4.12",
+      "text": "Mo Lan checks on Zhao Yanshu, who claims to be feeling better but is still visibly distressed.",
+      "level": 3
+    },
+    {
+      "id": "4.13",
+      "text": "Du Xiaomei shows a look of distinct disgust towards Zhao Yanshu.",
+      "level": 3
+    },
+    {
+      "id": "4.14",
+      "text": "Du Xiaomei dramatically claims to see a hair in Zhao Yanshu's soup, causing panic.",
+      "level": 2
+    },
+    {
+      "id": "4.15",
+      "text": "Jiang Rongxi calmly removes the hair, revealing it was a prank.",
+      "level": 3
+    },
+    {
+      "id": "4.16",
+      "text": "Du Xiaomei laughs maniacally, revealing her cruel nature.",
+      "level": 3
+    },
+    {
+      "id": "5",
+      "text": "The dinner concludes, and the friends decide to stay overnight due to the villa's remote location.",
+      "level": 1
+    },
+    {
+      "id": "5.1",
+      "text": "Mo Lan and Jiang Rongxi share a room, while Du Xiaomei assigns Zhao Yanshu to a room alone.",
+      "level": 2
+    },
+    {
+      "id": "5.2",
+      "text": "The friends help clean up, with only Dai Rou absent until she emerges from the toilet.",
+      "level": 2
+    },
+    {
+      "id": "5.3",
+      "text": "Du Xiaomei suggests they do face masks to pass the time.",
+      "level": 2
+    },
+    {
+      "id": "5.4",
+      "text": "Jiang Rongxi is hesitant due to her sensitive skin.",
+      "level": 3
+    },
+    {
+      "id": "5.5",
+      "text": "Du Xiaomei assures them she has masks for all skin types.",
+      "level": 3
+    },
+    {
+      "id": "5.6",
+      "text": "Mo Lan encourages Jiang Rongxi to try it, and Du Xiaomei mentions she is pregnant, which seems to sway Jiang Rongxi.",
+      "level": 3
+    },
+    {
+      "id": "6",
+      "text": "During the face mask session, a tense conversation ensues about Du Xiaomei's attempts to contact Dai Rou.",
+      "level": 1
+    },
+    {
+      "id": "6.1",
+      "text": "Dai Rou expresses her frustration at not being able to find Du Xiaomei.",
+      "level": 2
+    },
+    {
+      "id": "6.2",
+      "text": "Mo Lan questions why Dai Rou is avoiding Du Xiaomei.",
+      "level": 2
+    },
+    {
+      "id": "6.3",
+      "text": "The conversation shifts to their past, specifically their interactions with Liao Yongli.",
+      "level": 2
+    },
+    {
+      "id": "6.4",
+      "text": "Mo Lan reflects on her connection with Liao Yongli and her professional relationship with him, realizing Du Xiaomei would be furious if she knew.",
+      "level": 3
+    },
+    {
+      "id": "6.5",
+      "text": "Mo Lan feels a vague sense of unease, unable to pinpoint what feels wrong.",
+      "level": 2
+    },
+    {
+      "id": "7",
+      "text": "The next morning, Mo Lan wakes up in what she thought was her room, only to find it was Zhao Yanshu's.",
+      "level": 1
+    },
+    {
+      "id": "7.1",
+      "text": "Mo Lan realizes she accidentally locked herself in Zhao Yanshu's room, forcing Zhao Yanshu to share with Jiang Rongxi.",
+      "level": 2
+    },
+    {
+      "id": "7.2",
+      "text": "Mo Lan notices a mark on her face, attributing it to her deep sleep.",
+      "level": 2
+    },
+    {
+      "id": "7.3",
+      "text": "Dai Rou and Jiang Rongxi appear tired and suggest they haven't slept well.",
+      "level": 2
+    },
+    {
+      "id": "7.4",
+      "text": "Zhao Yanshu continues to appear preoccupied and unwell since the previous night's incident.",
+      "level": 3
+    },
+    {
+      "id": "7.5",
+      "text": "Mo Lan observes that Jiang Rongxi has developed new pimples, despite her efforts to conceal them.",
+      "level": 3
+    },
+    {
+      "id": "7.6",
+      "text": "Mo Lan experiences the unsettling feeling of unease again.",
+      "level": 2
+    },
+    {
+      "id": "7.7",
+      "text": "Du Xiaomei is still absent, causing impatience among the departing guests.",
+      "level": 2
+    },
+    {
+      "id": "7.8",
+      "text": "The friends head to the dining room, where breakfast of bread and soup is laid out.",
+      "level": 2
+    },
+    {
+      "id": "7.9",
+      "text": "Liao Yongli unexpectedly arrives, claiming to have returned early due to successful business.",
+      "level": 1
+    },
+    {
+      "id": "7.10",
+      "text": "Dai Rou confronts Liao Yongli, questioning his whereabouts.",
+      "level": 2
+    },
+    {
+      "id": "7.11",
+      "text": "Liao Yongli claims to have been with business partners all night.",
+      "level": 3
+    },
+    {
+      "id": "7.12",
+      "text": "Mo Lan observes Jiang Rongxi playing with her ring, indicating she is thinking deeply.",
+      "level": 3
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Du Xiaomei",
+      "frequency": 27,
+      "context": "The host of the gathering, a wealthy and seemingly cheerful but potentially manipulative woman."
+    },
+    {
+      "name": "Mo Lan",
+      "frequency": 18,
+      "context": "The protagonist, a thoughtful and observant individual who recalls past events and notices subtle details."
+    },
+    {
+      "name": "Dai Rou",
+      "frequency": 13,
+      "context": "A friend of Mo Lan and Du Xiaomei, characterized by her directness and a hidden tension."
+    },
+    {
+      "name": "Jiang Rongxi",
+      "frequency": 11,
+      "context": "A successful and practical friend, known for her financial acumen and cautious nature."
+    },
+    {
+      "id": "8",
+      "text": "Zhao Yanshu",
+      "frequency": 10,
+      "context": "The beautiful but timid friend, who experiences distress and physical discomfort during the gathering."
+    },
+    {
+      "name": "Eight Delicacies Soup",
+      "frequency": 7,
+      "context": "A dish with a dark history, used as a thematic element and a point of discussion."
+    },
+    {
+      "name": "Zhang Suping",
+      "frequency": 6,
+      "context": "The subject of the tragic murder case, her story is recounted to add suspense and a darker undertone."
+    },
+    {
+      "name": "Liao Yongli",
+      "frequency": 5,
+      "context": "Du Xiaomei's husband, introduced at the end, with his arrival adding further questions and suspicion."
+    },
+    {
+      "name": "Murder case",
+      "frequency": 3,
+      "context": "The central backstory element that casts a shadow over the present gathering."
+    },
+    {
+      "name": "Invitation",
+      "frequency": 3,
+      "context": "The initial catalyst for the events in the story."
+    },
+    {
+      "name": "Villa",
+      "frequency": 4,
+      "context": "The setting for the gathering, described as luxurious and remote."
+    },
+    {
+      "name": "Pregnancy",
+      "frequency": 5,
+      "context": "Du Xiaomei's announcement, which seems to trigger various reactions and plans."
+    },
+    {
+      "name": "Suspicion",
+      "frequency": 3,
+      "context": "An underlying emotion felt by characters and the reader regarding Du Xiaomei's motives and actions."
+    },
+    {
+      "name": "Deception",
+      "frequency": 1,
+      "context": "Implied by Du Xiaomei's actions and the overall atmosphere."
+    },
+    {
+      "name": "Friendship",
+      "frequency": 2,
+      "context": "The relationship between the women, tested by suspicion and past events."
+    }
+  ],
+  "relations": [
+    {
+      "source": "Du Xiaomei",
+      "target": "Mo Lan",
+      "type": "invites"
+    },
+    {
+      "source": "Du Xiaomei",
+      "target": "Dai Rou",
+      "type": "invites"
+    },
+    {
+      "source": "Du Xiaomei",
+      "target": "Jiang Rongxi",
+      "type": "invites"
+    },
+    {
+      "source": "Du Xiaomei",
+      "target": "Zhao Yanshu",
+      "type": "invites"
+    },
+    {
+      "source": "Mo Lan",
+      "target": "Dai Rou",
+      "type": "is_friend"
+    },
+    {
+      "source": "Mo Lan",
+      "target": "Jiang Rongxi",
+      "type": "is_friend"
+    },
+    {
+      "source": "Mo Lan",
+      "target": "Zhao Yanshu",
+      "type": "is_friend"
+    },
+    {
+      "source": "Mo Lan",
+      "target": "Zhang Suping",
+      "type": "was_acquaintance"
+    },
+    {
+      "source": "Dai Rou",
+      "target": "Zhang Suping",
+      "type": "was_acquaintance"
+    },
+    {
+      "source": "Jiang Rongxi",
+      "target": "Zhang Suping",
+      "type": "was_acquaintance"
+    },
+    {
+      "source": "Zhao Yanshu",
+      "target": "Zhang Suping",
+      "type": "was_acquaintance"
+    },
+    {
+      "source": "Du Xiaomei",
+      "target": "Liao Yongli",
+      "type": "is_husband"
+    },
+    {
+      "source": "Mo Lan",
+      "target": "Liao Yongli",
+      "type": "knows"
+    },
+    {
+      "source": "Jiang Rongxi",
+      "target": "Liao Yongli",
+      "type": "knew_before"
+    },
+    {
+      "source": "Zhang Suping",
+      "target": "Lu Qiang",
+      "type": "loved"
+    },
+    {
+      "source": "Lu Qiang",
+      "target": "new_girlfriend",
+      "type": "loved"
+    },
+    {
+      "source": "Zhang Suping",
+      "target": "new_girlfriend",
+      "type": "murdered"
+    },
+    {
+      "source": "Du Xiaomei",
+      "target": "Zhao Yanshu",
+      "type": "has_disgust_towards"
+    },
+    {
+      "source": "Du Xiaomei",
+      "target": "Eight Delicacies Soup",
+      "type": "serves"
+    },
+    {
+      "source": "Eight Delicacies Soup",
+      "target": "Murder case",
+      "type": "is_linked_to"
+    },
+    {
+      "source": "Pregnancy",
+      "target": "Du Xiaomei",
+      "type": "is_of"
+    },
+    {
+      "source": "Suspicion",
+      "target": "Du Xiaomei",
+      "type": "is_directed_at"
+    },
+    {
+      "source": "Deception",
+      "target": "Du Xiaomei",
+      "type": "is_by"
+    }
+  ],
+  "hierarchy": {
+    "main_topics": [
+      "Mysterious Invitation and Gathering",
+      "The 'Eight Delicacies Soup' Backstory",
+      "Tensions and Revelations at the Gathering",
+      "Lingering Unease and Departure"
+    ],
+    "structure": "The document follows a chronological structure, interspersed with flashbacks and internal monologues. It begins with the setup of the invitation, delves into a disturbing backstory, details the events of the gathering, and concludes with the morning after and lingering questions."
+  }
+}

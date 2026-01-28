@@ -1,0 +1,688 @@
+{
+  "propositions": [
+    {
+      "id": "1",
+      "text": "The book is titled \"Tibetan Code 7\" by He Ma.",
+      "level": 1
+    },
+    {
+      "id": "2",
+      "text": "Chapter 46 is titled \"The Great Wheel Sutra: The Highest Code of Tibetan Esotericism.\"",
+      "level": 2
+    },
+    {
+      "id": "3",
+      "text": "Professor Fang Xin explains wolf social structures and how skills are passed down generations.",
+      "level": 2
+    },
+    {
+      "id": "4",
+      "text": "Professor Fang Xin questions why the German army collected information on mastiffs, suggesting a potential development of animal warfare.",
+      "level": 3
+    },
+    {
+      "id": "5",
+      "text": "The group went to Gongbu Village and found an entrance.",
+      "level": 2
+    },
+    {
+      "id": "6",
+      "text": "They also verified a map and found a boat on an underground river.",
+      "level": 3
+    },
+    {
+      "id": "7",
+      "text": "The boat discovered was initially described as a cowhide boat.",
+      "level": 3
+    },
+    {
+      "id": "8",
+      "text": "Professor Fang Xin identifies the boat as not a cowhide boat.",
+      "level": 4
+    },
+    {
+      "id": "9",
+      "text": "Professor Fang Xin discusses ancient Tibetan boat technology.",
+      "level": 3
+    },
+    {
+      "id": "10",
+      "text": "Ancient Tibet had two common types of boats: 'horse-headed boats' and cowhide boats.",
+      "level": 4
+    },
+    {
+      "id": "11",
+      "text": "Horse-headed boats were large wooden boats suitable for long-distance voyages.",
+      "level": 5
+    },
+    {
+      "id": "12",
+      "text": "Cowhide boats are lightweight, durable, and resistant to collisions, suitable for turbulent rapids but small in volume.",
+      "level": 5
+    },
+    {
+      "id": "13",
+      "text": "Tibetans invented a 'snake boat' that combines advantages of both horse-headed and cowhide boats.",
+      "level": 4
+    },
+    {
+      "id": "14",
+      "text": "The snake boat's hull resembles a giant python and is agile.",
+      "level": 5
+    },
+    {
+      "id": "15",
+      "text": "Professor Fang Xin gained knowledge about boats from ancient Tibetan murals and information from Master Tashi.",
+      "level": 3
+    },
+    {
+      "id": "16",
+      "text": "The materials brought back by the team provide concrete evidence for the existence of snake boats.",
+      "level": 4
+    },
+    {
+      "id": "17",
+      "text": "New problems have emerged regarding the discovered materials.",
+      "level": 3
+    },
+    {
+      "id": "18",
+      "text": "A main problem is whether the boat, submerged for over three years, is still usable.",
+      "level": 4
+    },
+    {
+      "id": "19",
+      "text": "Another question is how a single person piloted such a large boat out of darkness.",
+      "level": 4
+    },
+    {
+      "id": "20",
+      "text": "Professor Fang Xin suggests that it's possible a dozen people were involved and only one survived.",
+      "level": 4
+    },
+    {
+      "id": "21",
+      "text": "The issue of food on the boat is raised as a potential clue.",
+      "level": 5
+    },
+    {
+      "id": "22",
+      "text": "Professor Fang Xin proposes that microorganisms in the underground river could have decomposed any food clues.",
+      "level": 5
+    },
+    {
+      "id": "23",
+      "text": "The durability of the boat over three years is questioned.",
+      "level": 5
+    },
+    {
+      "id": "24",
+      "text": "Professor Fang Xin will consult with botany and biology experts regarding the collected materials (boat scales and wood chips).",
+      "level": 4
+    },
+    {
+      "id": "25",
+      "text": "Professor Fang Xin contacts a cave expert, Old Zhu, for analysis.",
+      "level": 4
+    },
+    {
+      "id": "26",
+      "text": "Old Zhu analyzes the video footage of the cave entrance.",
+      "level": 5
+    },
+    {
+      "id": "27",
+      "text": "Old Zhu suggests the cave could be a super-giant natural cave or a karst cave formed by water erosion.",
+      "level": 6
+    },
+    {
+      "id": "28",
+      "text": "The tunnels could be lava tunnels, and the rock type is tentatively identified as metamorphic rock, indicating orogenic movement.",
+      "level": 6
+    },
+    {
+      "id": "29",
+      "text": "The entrance appears artificially constructed rather than a collapsed formation.",
+      "level": 6
+    },
+    {
+      "id": "30",
+      "text": "The area is undoubtedly a sinkhole with a phreatic zone and an underground river.",
+      "level": 6
+    },
+    {
+      "id": "31",
+      "text": "Old Zhu initially believes it's a natural cave due to the lack of flow marks, stalactites, or stalagmites.",
+      "level": 6
+    },
+    {
+      "id": "32",
+      "text": "Professor Fang Xin requests simple answers to specific questions.",
+      "level": 5
+    },
+    {
+      "id": "33",
+      "text": "Old Zhu confirms that such a cave could form a vast underwater cave system, potentially exceeding known large caves.",
+      "level": 6
+    },
+    {
+      "id": "34",
+      "text": "The rock formation's tendency to collapse depends on the height of the strata and the hardness of volcanic metamorphic rock.",
+      "level": 6
+    },
+    {
+      "id": "35",
+      "text": "Old Zhu cannot definitively confirm the presence of underground waterfalls or voids but mentions the possibility of deep canyons and stepped platforms with drops.",
+      "level": 6
+    },
+    {
+      "id": "36",
+      "text": "The waterways could be rapid flow rafting, which is extremely dangerous.",
+      "level": 7
+    },
+    {
+      "id": "37",
+      "text": "Old Zhu asks if the cave will be explored further.",
+      "level": 6
+    },
+    {
+      "id": "38",
+      "text": "Professor Fang Xin confirms the presence of turbulent currents and undertows in the underground river channel.",
+      "level": 5
+    },
+    {
+      "id": "39",
+      "text": "The underground river journey is estimated to take three days.",
+      "level": 6
+    },
+    {
+      "id": "40",
+      "text": "Targeted training for new members is recommended.",
+      "level": 6
+    },
+    {
+      "id": "41",
+      "text": "Professor Fang Xin needs time to find experts to study the collected materials (silkworm cocoon, bark, etc.).",
+      "level": 5
+    },
+    {
+      "id": "42",
+      "text": "Zhang Li needs time to adjust new equipment and check the boat.",
+      "level": 5
+    },
+    {
+      "id": "43",
+      "text": "Thorough preparation is essential for the operation's success.",
+      "level": 5
+    },
+    {
+      "id": "44",
+      "text": "Professor Fang Xin inquires about Zhuo Mu Qiangba's health.",
+      "level": 5
+    },
+    {
+      "id": "45",
+      "text": "Zhuo Mu Qiangba had an incident in Russia where his body suddenly filled with strength and then became immobile.",
+      "level": 6
+    },
+    {
+      "id": "46",
+      "text": "Zhuo Mu Qiangba asks Professor Fang Xin for a Mongolian Basiba script translation to study the beastmaster Sangjie taming war mastiffs.",
+      "level": 5
+    },
+    {
+      "id": "47",
+      "text": "Lü Jingnan calls Zhuo Mu Qiangba to inquire about abnormal sensations related to his root chakra.",
+      "level": 5
+    },
+    {
+      "id": "48",
+      "text": "Zhuo Mu Qiangba denies experiencing any abnormal sensations.",
+      "level": 6
+    },
+    {
+      "id": "49",
+      "text": "Lü Jingnan finds Zhuo Mu Qiangba's lack of reaction strange, as the root chakra should show signs of opening.",
+      "level": 6
+    },
+    {
+      "id": "50",
+      "text": "Zhuo Mu Qiangba, blushing, promises to be more mindful.",
+      "level": 6
+    },
+    {
+      "id": "51",
+      "text": "Zhuo Mu Qiangba recalls Master Tashi saying his chakras couldn't be opened.",
+      "level": 6
+    },
+    {
+      "id": "52",
+      "text": "Tang Min wonders why Zhuo Mu Qiangba didn't ask her, as she is a doctor.",
+      "level": 6
+    },
+    {
+      "id": "53",
+      "text": "Zhuo Mu Qiangba focuses on studying the Basiba script translation to find information about Paba La.",
+      "level": 6
+    },
+    {
+      "id": "54",
+      "text": "No connection to Paba La is found in the translation.",
+      "level": 7
+    },
+    {
+      "id": "55",
+      "text": "The reason for the German army placing folders related to Paba La amidst Mongolian documents remains a question.",
+      "level": 7
+    },
+    {
+      "id": "56",
+      "text": "The possibility of the Russian making a mistake in collecting declassified materials is considered.",
+      "level": 8
+    },
+    {
+      "id": "57",
+      "text": "The usefulness of the Mongolian document for the Germans is questioned, linking back to the idea of developing beast warfare.",
+      "level": 8
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Tibetan Code 7",
+      "frequency": 1,
+      "context": "Book title."
+    },
+    {
+      "name": "He Ma",
+      "frequency": 1,
+      "context": "Author of Tibetan Code 7."
+    },
+    {
+      "name": "Great Wheel Sutra",
+      "frequency": 1,
+      "context": "Title of Chapter 46, referring to Tibetan esoteric teachings."
+    },
+    {
+      "name": "Tibetan Esotericism",
+      "frequency": 1,
+      "context": "Subject of the chapter title, referring to hidden or secret Tibetan spiritual practices."
+    },
+    {
+      "name": "Professor Fang Xin",
+      "frequency": 8,
+      "context": "Character involved in discussions about wolf social structures, ancient Tibetan boats, cave analysis, and operations planning."
+    },
+    {
+      "name": "Wolf social structures",
+      "frequency": 1,
+      "context": "Discussed by Professor Fang Xin as an example of skill transmission."
+    },
+    {
+      "name": "Mastiffs",
+      "frequency": 2,
+      "context": "Mentioned in the context of wolf social structures and the German army's potential interest."
+    },
+    {
+      "name": "German army",
+      "frequency": 3,
+      "context": "Associated with collecting information on mastiffs and potentially developing animal warfare."
+    },
+    {
+      "name": "Animal warfare",
+      "frequency": 2,
+      "context": "A potential development being considered by the German army."
+    },
+    {
+      "name": "Gongbu Village",
+      "frequency": 2,
+      "context": "Location visited by the characters where they discovered an entrance and an underground river."
+    },
+    {
+      "name": "Map",
+      "frequency": 1,
+      "context": "Verified by the characters in Gongbu Village."
+    },
+    {
+      "name": "Underground river",
+      "frequency": 5,
+      "context": "A significant discovery in Gongbu Village, containing a boat and posing navigational challenges."
+    },
+    {
+      "name": "Boat",
+      "frequency": 6,
+      "context": "A discovered object on the underground river, its nature and usability are debated."
+    },
+    {
+      "name": "Cowhide boat",
+      "frequency": 3,
+      "context": "A traditional Tibetan boat, contrasted with the discovered boat."
+    },
+    {
+      "name": "Tibet",
+      "frequency": 3,
+      "context": "The geographical and cultural setting for discussions about boats and ancient civilization."
+    },
+    {
+      "name": "Ancient Tibetan boats",
+      "frequency": 3,
+      "context": "A topic of discussion by Professor Fang Xin, including horse-headed boats and snake boats."
+    },
+    {
+      "name": "Horse-headed boat",
+      "frequency": 2,
+      "context": "A type of large wooden boat used in ancient Tibet."
+    },
+    {
+      "name": "Snake boat",
+      "frequency": 4,
+      "context": "A newly identified type of ancient Tibetan boat, combining features of other boat types."
+    },
+    {
+      "name": "Master Tashi",
+      "frequency": 3,
+      "context": "A source of information for Professor Fang Xin regarding snake boats and a person who examined Zhuo Mu Qiangba."
+    },
+    {
+      "name": "Materials",
+      "frequency": 3,
+      "context": "Collected by the team, including boat scales, wood chips, silkworm cocoon, and bark, requiring expert analysis."
+    },
+    {
+      "name": "Cave expert",
+      "frequency": 2,
+      "context": "Old Zhu, who analyzes the cave footage."
+    },
+    {
+      "name": "Old Zhu",
+      "frequency": 5,
+      "context": "The cave expert providing analysis on the cave formation and underwater systems."
+    },
+    {
+      "name": "Cave",
+      "frequency": 5,
+      "context": "The geological formation where the underground river is located, subject to expert analysis."
+    },
+    {
+      "name": "Underwater cave system",
+      "frequency": 2,
+      "context": "A potential characteristic of the cave described by Old Zhu."
+    },
+    {
+      "name": "Turbulent currents",
+      "frequency": 2,
+      "context": "A navigational hazard in the underground river."
+    },
+    {
+      "name": "Operation",
+      "frequency": 2,
+      "context": "A planned undertaking requiring thorough preparation."
+    },
+    {
+      "name": "Zhuo Mu Qiangba",
+      "frequency": 7,
+      "context": "A central character concerned about his health and studying ancient scripts."
+    },
+    {
+      "name": "Health",
+      "frequency": 2,
+      "context": "A concern for Zhuo Mu Qiangba, especially after an incident in Russia."
+    },
+    {
+      "name": "Incident in Russia",
+      "frequency": 2,
+      "context": "An event where Zhuo Mu Qiangba experienced sudden physical changes."
+    },
+    {
+      "name": "Mongolian Basiba script",
+      "frequency": 3,
+      "context": "A script Zhuo Mu Qiangba is studying for translations."
+    },
+    {
+      "name": "Beastmaster Sangjie",
+      "frequency": 1,
+      "context": "A figure Zhuo Mu Qiangba is researching through the Basiba script."
+    },
+    {
+      "name": "War mastiffs",
+      "frequency": 1,
+      "context": "Tamed by Beastmaster Sangjie, a subject of Zhuo Mu Qiangba's research."
+    },
+    {
+      "name": "Lü Jingnan",
+      "frequency": 3,
+      "context": "An instructor who calls Zhuo Mu Qiangba about his physical sensations and chakras."
+    },
+    {
+      "name": "Chakras",
+      "frequency": 3,
+      "context": "A spiritual concept related to Zhuo Mu Qiangba's physical sensations and a potential impediment to his progress."
+    },
+    {
+      "name": "Root chakra",
+      "frequency": 2,
+      "context": "The lowest of the seven chakras, which Zhuo Mu Qiangba is not showing signs of opening."
+    },
+    {
+      "name": "Paba La",
+      "frequency": 3,
+      "context": "A figure whose five-hundred-year history Zhuo Mu Qiangba is trying to uncover through script translation."
+    },
+    {
+      "name": "Tang Min",
+      "frequency": 1,
+      "context": "A doctor who wonders why Zhuo Mu Qiangba didn't consult her."
+    }
+  ],
+  "relations": [
+    {
+      "source": "Tibetan Code 7",
+      "target": "He Ma",
+      "type": "authored_by"
+    },
+    {
+      "source": "Chapter 46",
+      "target": "Great Wheel Sutra",
+      "type": "titled"
+    },
+    {
+      "source": "Great Wheel Sutra",
+      "target": "Tibetan Esotericism",
+      "type": "related_to"
+    },
+    {
+      "source": "Wolf social structures",
+      "target": "Professor Fang Xin",
+      "type": "explained_by"
+    },
+    {
+      "source": "German army",
+      "target": "Mastiffs",
+      "type": "collected_information_on"
+    },
+    {
+      "source": "German army",
+      "target": "Animal warfare",
+      "type": "potentially_developing"
+    },
+    {
+      "source": "Gongbu Village",
+      "target": "Entrance",
+      "type": "discovered"
+    },
+    {
+      "source": "Gongbu Village",
+      "target": "Underground river",
+      "type": "discovered"
+    },
+    {
+      "source": "Underground river",
+      "target": "Boat",
+      "type": "contains"
+    },
+    {
+      "source": "Boat",
+      "target": "Cowhide boat",
+      "type": "contrasted_with"
+    },
+    {
+      "source": "Professor Fang Xin",
+      "target": "Ancient Tibetan boats",
+      "type": "discusses"
+    },
+    {
+      "source": "Ancient Tibetan boats",
+      "target": "Horse-headed boat",
+      "type": "includes"
+    },
+    {
+      "source": "Ancient Tibetan boats",
+      "target": "Cowhide boat",
+      "type": "includes"
+    },
+    {
+      "source": "Ancient Tibetan boats",
+      "target": "Snake boat",
+      "type": "includes"
+    },
+    {
+      "source": "Snake boat",
+      "target": "Horse-headed boat",
+      "type": "combines_features_of"
+    },
+    {
+      "source": "Snake boat",
+      "target": "Cowhide boat",
+      "type": "combines_features_of"
+    },
+    {
+      "source": "Professor Fang Xin",
+      "target": "Master Tashi",
+      "type": "received_information_from"
+    },
+    {
+      "source": "Materials",
+      "target": "Boat scales",
+      "type": "includes"
+    },
+    {
+      "source": "Materials",
+      "target": "Wood chips",
+      "type": "includes"
+    },
+    {
+      "source": "Professor Fang Xin",
+      "target": "Cave expert",
+      "type": "consults"
+    },
+    {
+      "source": "Cave expert",
+      "target": "Old Zhu",
+      "type": "is_a"
+    },
+    {
+      "source": "Old Zhu",
+      "target": "Cave",
+      "type": "analyzes"
+    },
+    {
+      "source": "Cave",
+      "target": "Underground river",
+      "type": "contains"
+    },
+    {
+      "source": "Cave",
+      "target": "Underwater cave system",
+      "type": "potentially_is_a"
+    },
+    {
+      "source": "Underground river",
+      "target": "Turbulent currents",
+      "type": "features"
+    },
+    {
+      "source": "Operation",
+      "target": "Preparation",
+      "type": "requires"
+    },
+    {
+      "source": "Zhuo Mu Qiangba",
+      "target": "Health",
+      "type": "concerned_about"
+    },
+    {
+      "source": "Zhuo Mu Qiangba",
+      "target": "Incident in Russia",
+      "type": "experienced"
+    },
+    {
+      "source": "Zhuo Mu Qiangba",
+      "target": "Mongolian Basiba script",
+      "type": "studies"
+    },
+    {
+      "source": "Mongolian Basiba script",
+      "target": "Beastmaster Sangjie",
+      "type": "contains_information_about"
+    },
+    {
+      "source": "Beastmaster Sangjie",
+      "target": "War mastiffs",
+      "type": "tamed"
+    },
+    {
+      "source": "Lü Jingnan",
+      "target": "Zhuo Mu Qiangba",
+      "type": "contacts"
+    },
+    {
+      "source": "Lü Jingnan",
+      "target": "Chakras",
+      "type": "discusses"
+    },
+    {
+      "source": "Zhuo Mu Qiangba",
+      "target": "Root chakra",
+      "type": "related_to"
+    },
+    {
+      "source": "Master Tashi",
+      "target": "Zhuo Mu Qiangba",
+      "type": "examined"
+    },
+    {
+      "source": "Zhuo Mu Qiangba",
+      "target": "Master Tashi",
+      "type": "recalls_statement_from"
+    },
+    {
+      "source": "Zhuo Mu Qiangba",
+      "target": "Paba La",
+      "type": "researches"
+    },
+    {
+      "source": "Tang Min",
+      "target": "Zhuo Mu Qiangba",
+      "type": "wonders_why_not_consulted_by"
+    },
+    {
+      "source": "Professor Fang Xin",
+      "target": "German army",
+      "type": "questions_motive_of"
+    },
+    {
+      "source": "German army",
+      "target": "Mongolian document",
+      "type": "questions_use_of"
+    }
+  ],
+  "hierarchy": {
+    "main_topics": [
+      "Book Overview",
+      "Chapter Content and Discoveries",
+      "Analysis of Discoveries (Boats, Caves)",
+      "Operational Planning and Concerns",
+      "Personal Mysteries (Zhuo Mu Qiangba's Health, Paba La)"
+    ],
+    "structure": "The document begins with introductory information about the book and chapter. It then delves into a conversation detailing discoveries made in Gongbu Village, specifically an entrance and a boat. This leads to a detailed discussion about ancient Tibetan boat technology. The narrative shifts to analyzing the discovered materials and the nature of the cave system through expert consultation. Finally, it moves to planning for a future operation, addressing health concerns of a main character, and exploring personal mysteries related to ancient scripts and individuals."
+  }
+}

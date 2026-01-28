@@ -1,0 +1,157 @@
+{
+  "propositions": [
+    {
+      "id": "1",
+      "text": "The protagonist, a modern girl, finds herself transported to ancient times.",
+      "level": 1
+    },
+    {
+      "id": "1.1",
+      "text": "She struggles with the challenges of ancient societal norms and dangers.",
+      "level": 2
+    },
+    {
+      "id": "1.2",
+      "text": "Her modern knowledge and independence clash with ancient oppression.",
+      "level": 2
+    },
+    {
+      "id": "2",
+      "text": "The protagonist faces immediate threats and conspiracies in the ancient world.",
+      "level": 1
+    },
+    {
+      "id": "2.1",
+      "text": "She encounters hostility and must hide her true identity.",
+      "level": 2
+    },
+    {
+      "id": "2.2",
+      "text": "A powerful entity, Snow Country, targets her as a potential rebel.",
+      "level": 2
+    },
+    {
+      "id": "3",
+      "text": "Emotional and relational dynamics develop with other characters.",
+      "level": 1
+    },
+    {
+      "id": "3.1",
+      "text": "She forms a bond of trust with her servant, Xiao Cao.",
+      "level": 2
+    },
+    {
+      "id": "3.2",
+      "text": "Romantic and personal dilemmas influence her decisions.",
+      "level": 2
+    },
+    {
+      "id": "4",
+      "text": "The protagonist engages in conflicts and uncovers hidden truths.",
+      "level": 1
+    },
+    {
+      "id": "4.1",
+      "text": "She faces life-threatening situations and resolves to fight back.",
+      "level": 2
+    },
+    {
+      "id": "4.2",
+      "text": "Secrets about Snow Country and its plans are revealed.",
+      "level": 2
+    },
+    {
+      "id": "5",
+      "text": "The story builds towards a climactic confrontation and unresolved future.",
+      "level": 1
+    },
+    {
+      "id": "5.1",
+      "text": "A final battle tests her resolve and skills.",
+      "level": 2
+    },
+    {
+      "id": "5.2",
+      "text": "Her ultimate fate and impact on the world remain open-ended.",
+      "level": 2
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Time Travel",
+      "frequency": 5,
+      "context": "Central theme of protagonist's displacement from modern to ancient times."
+    },
+    {
+      "name": "Ancient Society",
+      "frequency": 8,
+      "context": "Setting and cultural backdrop of the story."
+    },
+    {
+      "name": "Conspiracy",
+      "frequency": 6,
+      "context": "Political intrigue and threats against the protagonist."
+    },
+    {
+      "name": "Snow Country",
+      "frequency": 5,
+      "context": "Dominant ruling power with sinister motives."
+    },
+    {
+      "name": "Protagonist's Identity",
+      "frequency": 7,
+      "context": "Her modern origins as a source of conflict and secrecy."
+    },
+    {
+      "name": "Rebellion",
+      "frequency": 4,
+      "context": "Her resistance against oppression and threats."
+    },
+    {
+      "name": "Emotional Conflict",
+      "frequency": 5,
+      "context": "Internal struggles and relational dynamics."
+    }
+  ],
+  "relations": [
+    {
+      "source": "Protagonist's Identity",
+      "target": "Time Travel",
+      "type": "caused_by"
+    },
+    {
+      "source": "Protagonist's Identity",
+      "target": "Ancient Society",
+      "type": "conflicts_with"
+    },
+    {
+      "source": "Snow Country",
+      "target": "Conspiracy",
+      "type": "initiates"
+    },
+    {
+      "source": "Protagonist's Identity",
+      "target": "Rebellion",
+      "type": "motivates"
+    },
+    {
+      "source": "Emotional Conflict",
+      "target": "Protagonist's Identity",
+      "type": "influenced_by"
+    },
+    {
+      "source": "Snow Country",
+      "target": "Protagonist's Identity",
+      "type": "threatens"
+    }
+  ],
+  "hierarchy": {
+    "main_topics": [
+      "Time Travel and Adaptation",
+      "Conspiracy and Power Struggle",
+      "Emotional and Personal Growth",
+      "Conflict and Resolution"
+    ],
+    "structure": "The document follows a linear narrative structure with chapters detailing the protagonist's journey from confusion and danger to resistance and confrontation, interspersed with personal and emotional subplots."
+  }
+}

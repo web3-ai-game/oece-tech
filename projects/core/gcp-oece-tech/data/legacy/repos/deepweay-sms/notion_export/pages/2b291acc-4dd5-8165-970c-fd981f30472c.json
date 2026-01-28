@@ -1,0 +1,60 @@
+{
+  "metadata": {
+    "object": "page",
+    "id": "2b291acc-4dd5-8165-970c-fd981f30472c",
+    "created_time": "2025-11-21T16:08:00.000Z",
+    "last_edited_time": "2025-11-21T16:08:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "269d872b-594c-81d1-9fe1-00029c482d4b"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "269d872b-594c-81d1-9fe1-00029c482d4b"
+    },
+    "cover": null,
+    "icon": null,
+    "parent": {
+      "type": "database_id",
+      "database_id": "2b291acc-4dd5-8117-ba88-c9145b0025c8"
+    },
+    "archived": false,
+    "in_trash": false,
+    "is_locked": false,
+    "properties": {
+      "Amount": {
+        "id": "Md%5BK",
+        "type": "number",
+        "number": 150
+      },
+      "Income Item": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Bday Cash",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Bday Cash",
+            "href": null
+          }
+        ]
+      }
+    },
+    "url": "https://www.notion.so/Bday-Cash-2b291acc4dd58165970cfd981f30472c",
+    "public_url": null,
+    "request_id": "65652daa-e37c-48a9-a942-80a0764dec07"
+  },
+  "blocks": [],
+  "fetched_at": "2025-11-26T13:32:12.829Z"
+}

@@ -1,0 +1,651 @@
+{
+  "propositions": [
+    {
+      "id": "1",
+      "text": "The story begins with the narrator being woken by a loud and angry voice.",
+      "level": 1
+    },
+    {
+      "id": "1.1",
+      "text": "The voice belongs to the narrator's mother, who is berating him.",
+      "level": 2
+    },
+    {
+      "id": "1.2",
+      "text": "The narrator vows to get back at his mother someday.",
+      "level": 2
+    },
+    {
+      "id": "2",
+      "text": "The narrator experiences chest pain and doubts his recent physical examination results.",
+      "level": 1
+    },
+    {
+      "id": "2.1",
+      "text": "He believes he might have a serious illness.",
+      "level": 2
+    },
+    {
+      "id": "2.2",
+      "text": "He considers going to a larger hospital for a more thorough check-up.",
+      "level": 2
+    },
+    {
+      "id": "3",
+      "text": "The narrator finds solace and relief from his pain when his cat, Xue'er, interacts with him.",
+      "level": 1
+    },
+    {
+      "id": "3.1",
+      "text": "Xue'er is a stray Persian cat he found and nursed back to health.",
+      "level": 2
+    },
+    {
+      "id": "3.2",
+      "text": "He has fallen deeply in love with Xue'er, treating her like a princess.",
+      "level": 2
+    },
+    {
+      "id": "4",
+      "text": "The narrator meticulously cares for Xue'er, preparing fresh meals for her.",
+      "level": 1
+    },
+    {
+      "id": "4.1",
+      "text": "He avoids feeding her commercial cat food due to its perceived poor nutritional value and preservatives.",
+      "level": 2
+    },
+    {
+      "id": "4.2",
+      "text": "He enjoys cooking for her and varies her diet with different regional cuisines.",
+      "level": 2
+    },
+    {
+      "id": "5",
+      "text": "The narrator encounters the neighbor, referred to as 'the old woman,' whom he dislikes.",
+      "level": 1
+    },
+    {
+      "id": "5.1",
+      "text": "The old woman is known for chasing her eleven-year-old son with a broom.",
+      "level": 2
+    },
+    {
+      "id": "5.2",
+      "text": "The narrator suspects the old woman's presence exacerbates his chest pain.",
+      "level": 2
+    },
+    {
+      "id": "5.3",
+      "text": "The old woman often threatens to harm Xue'er if she trespasses on her balcony.",
+      "level": 2
+    },
+    {
+      "id": "6",
+      "text": "The narrator believes Xue'er's dislike for the old woman is a response to his own resentment.",
+      "level": 1
+    },
+    {
+      "id": "7",
+      "text": "The old woman unexpectedly offers to introduce the narrator to a girlfriend.",
+      "level": 1
+    },
+    {
+      "id": "7.1",
+      "text": "The narrator is taken aback and dismisses the offer, prioritizing Xue'er.",
+      "level": 2
+    },
+    {
+      "id": "7.2",
+      "text": "The old woman mocks him for his lack of romantic prospects.",
+      "level": 2
+    },
+    {
+      "id": "8",
+      "text": "Tragically, the old woman kills Xue'er because Xue'er knocked over a potted orchid.",
+      "level": 1
+    },
+    {
+      "id": "9",
+      "text": "This event shatters the narrator's world and his belief system.",
+      "level": 1
+    },
+    {
+      "id": "10",
+      "text": "The narrator spends a month learning the old woman's routine.",
+      "level": 1
+    },
+    {
+      "id": "11",
+      "text": "Driven by a desire for revenge, the narrator ambushes and kills the old woman.",
+      "level": 1
+    },
+    {
+      "id": "11.1",
+      "text": "He justifies his actions as a form of retribution for Xue'er's death.",
+      "level": 2
+    },
+    {
+      "id": "11.2",
+      "text": "He subjects her to a brutal death using alternating extreme cold and heat.",
+      "level": 2
+    },
+    {
+      "id": "12",
+      "text": "The narrator decides to conceal the old woman's body by sealing it in a wall.",
+      "level": 1
+    },
+    {
+      "id": "12.1",
+      "text": "This method is learned from his father, who similarly disposed of his mother.",
+      "level": 2
+    },
+    {
+      "id": "12.2",
+      "text": "He realizes this plan is impractical for his rural home and opts to seal the body in a water缸 with cement.",
+      "level": 2
+    },
+    {
+      "id": "13",
+      "text": "After the act of revenge, the narrator experiences a sense of profound pleasure.",
+      "level": 1
+    },
+    {
+      "id": "13.1",
+      "text": "He reflects on his father's hatred and the pleasure derived from killing someone one despises.",
+      "level": 2
+    },
+    {
+      "id": "14",
+      "text": "Three days later, the police question the narrator about the old woman's disappearance.",
+      "level": 1
+    },
+    {
+      "id": "14.1",
+      "text": "They conduct a routine interview without mentioning Xue'er's fate.",
+      "level": 2
+    },
+    {
+      "id": "15",
+      "text": "The old woman's son, 'little monkey,' rejoices at his mother's disappearance.",
+      "level": 1
+    },
+    {
+      "id": "16",
+      "text": "The narrator falls into a deep depression, haunted by memories of Xue'er.",
+      "level": 1
+    },
+    {
+      "id": "17",
+      "text": "He contemplates suicide to join Xue'er.",
+      "level": 1
+    },
+    {
+      "id": "18",
+      "text": "Xue'er appears in his dream, urging him not to give up and promising to return.",
+      "level": 1
+    },
+    {
+      "id": "19",
+      "text": "The next evening, the narrator meets Fengling, a woman who works at a fast-food restaurant.",
+      "level": 1
+    },
+    {
+      "id": "19.1",
+      "text": "He immediately recognizes her as Xue'er, feeling reborn and revitalized.",
+      "level": 2
+    },
+    {
+      "id": "20",
+      "text": "Fengling is deaf, which the narrator finds endearing and a connection to Xue'er.",
+      "level": 1
+    },
+    {
+      "id": "20.1",
+      "text": "He decides to propose to her.",
+      "level": 2
+    },
+    {
+      "id": "21",
+      "text": "On the day of the proposal, Fengling rushes home to the narrator and is tragically killed in a motorcycle accident.",
+      "level": 1
+    },
+    {
+      "id": "21.1",
+      "text": "The narrator blames himself for not picking her up.",
+      "level": 2
+    },
+    {
+      "id": "22",
+      "text": "The story shifts to a narrator named Gu Xiaoyan, who is reading a notebook.",
+      "level": 1
+    },
+    {
+      "id": "22.1",
+      "text": "She finds the contents disturbing and emotionally draining.",
+      "level": 2
+    },
+    {
+      "id": "23",
+      "text": "She questions why the notebook was given to her and why now.",
+      "level": 1
+    },
+    {
+      "id": "24",
+      "text": "The person she is speaking to states it is time for the story to be revealed, as everything has ended.",
+      "level": 1
+    },
+    {
+      "id": "25",
+      "text": "Gu Xiaoyan is the narrator's girlfriend, and her boyfriend, Luo Tian, is an S city criminal police captain.",
+      "level": 1
+    },
+    {
+      "id": "26",
+      "text": "This connection has exposed her to unusual and impactful cases.",
+      "level": 1
+    },
+    {
+      "id": "27",
+      "text": "She recounts a series of events from April 1, 2010, which she considers the most complex and shocking experience.",
+      "level": 1
+    },
+    {
+      "id": "28",
+      "text": "Gu Xiaoyan receives an unexpected job offer from a publishing house.",
+      "level": 1
+    },
+    {
+      "id": "28.1",
+      "text": "This occurs after numerous rejections from other companies due to her high school education.",
+      "level": 2
+    },
+    {
+      "id": "29",
+      "text": "She excitedly informs her mother, who helps her prepare for the interview.",
+      "level": 1
+    },
+    {
+      "id": "30",
+      "text": "Gu Xiaoyan arrives at the publishing house, the Golden Leaf Building.",
+      "level": 1
+    },
+    {
+      "id": "31",
+      "text": "Upon arrival, she is informed that the person who called her, Ms. Wu, does not exist.",
+      "level": 1
+    },
+    {
+      "id": "31.1",
+      "text": "She is told it might be Ms. Hu, who is not yet at work.",
+      "level": 2
+    },
+    {
+      "id": "32",
+      "text": "She waits for a long time, but Ms. Hu calls to say she is taking a leave of absence due to her daughter's high fever.",
+      "level": 1
+    },
+    {
+      "id": "33",
+      "text": "Gu Xiaoyan attempts to meet the editor-in-chief but is told he is unavailable until 2:30 PM.",
+      "level": 1
+    },
+    {
+      "id": "34",
+      "text": "Feeling dejected and disheartened, she reflects on the challenges of finding work.",
+      "level": 1
+    },
+    {
+      "id": "35",
+      "text": "She finally meets the editor-in-chief, who informs her that the position requires three years of marketing experience, which she lacks.",
+      "level": 1
+    },
+    {
+      "id": "36",
+      "text": "The editor-in-chief reveals that the earlier phone call was a prank, as it is April Fool's Day.",
+      "level": 1
+    },
+    {
+      "id": "37",
+      "text": "Gu Xiaoyan is deeply embarrassed and upset by the prank.",
+      "level": 1
+    },
+    {
+      "id": "38",
+      "text": "She confides in her boyfriend, Luo Tian, who finds the situation humorous and suggests going to watch a football game.",
+      "level": 1
+    },
+    {
+      "id": "39",
+      "text": "Gu Xiaoyan expresses her frustration and feelings of inadequacy, contemplating returning home.",
+      "level": 1
+    },
+    {
+      "id": "40",
+      "text": "Luo Tian encourages her to be more confident and resilient.",
+      "level": 1
+    },
+    {
+      "id": "41",
+      "text": "During the football game, a spectator is unexpectedly killed when a ball hits the fence, and the spectator falls dead.",
+      "level": 1
+    },
+    {
+      "id": "41.1",
+      "text": "The ball did not directly hit the man, making the death a bizarre mystery.",
+      "level": 2
+    },
+    {
+      "id": "42",
+      "text": "Gu Xiaoyan describes the incident to her parents, who dismiss it as a joke or a result of fear.",
+      "level": 1
+    },
+    {
+      "id": "43",
+      "text": "Her mother informs her of another potential job interview at an advertising company.",
+      "level": 1
+    },
+    {
+      "id": "44",
+      "text": "While playing a game on her computer, Gu Xiaoyan's mother pulls the plug, leading to an argument.",
+      "level": 1
+    },
+    {
+      "id": "45",
+      "text": "Gu Xiaoyan expresses her desperation to find a job and her mother's pressure.",
+      "level": 1
+    },
+    {
+      "id": "46",
+      "text": "Gu Xiaoyan receives the address and contact information for the advertising company, seemingly a genuine offer.",
+      "level": 1
+    },
+    {
+      "id": "47",
+      "text": "The next morning, Gu Xiaoyan prepares for the interview at Kyushu Media Co., Ltd.",
+      "level": 1
+    },
+    {
+      "id": "48",
+      "text": "She passes a street beggar who claims to have been in a car accident and needs money for his son's medical treatment.",
+      "level": 1
+    },
+    {
+      "id": "48.1",
+      "text": "She gives him most of her remaining money.",
+      "level": 2
+    },
+    {
+      "id": "49",
+      "text": "She witnesses a spectacular procession of twenty-eight luxury cars celebrating someone named Lin Feng's birthday.",
+      "level": 1
+    },
+    {
+      "id": "49.1",
+      "text": "She recognizes that her godfather, Lei Jin Nan, president of Wanxin International Group, is part of this procession.",
+      "level": 2
+    },
+    {
+      "id": "50",
+      "text": "She arrives at Kyushu Media Co., Ltd. and is met by Lu Xiaoman, the HR manager.",
+      "level": 1
+    },
+    {
+      "id": "51",
+      "text": "Lu Xiaoman explains that the Vice General Manager, Mo Donghai, will be conducting the interview.",
+      "level": 1
+    },
+    {
+      "id": "52",
+      "text": "Gu Xiaoyan overhears Mo Donghai harshly criticizing an employee for repeated design revisions.",
+      "level": 1
+    },
+    {
+      "id": "53",
+      "text": "She meets Mo Donghai, who, despite his initial skepticism about her lack of qualifications, surprisingly hires her as the planning supervisor.",
+      "level": 1
+    },
+    {
+      "id": "54",
+      "text": "She is assigned a computer and an employee handbook and instructed to familiarize herself with the company policies.",
+      "level": 1
+    },
+    {
+      "id": "55",
+      "text": "Gu Xiaoyan is tasked with buying lunch for Mo Donghai and her colleagues.",
+      "level": 1
+    },
+    {
+      "id": "56",
+      "text": "While buying lunch, she is attracted to a shirt at a street stall and tries to negotiate the price with the vendor.",
+      "level": 1
+    },
+    {
+      "id": "57",
+      "text": "She realizes she only has 6 yuan left after her earlier act of charity.",
+      "level": 1
+    },
+    {
+      "id": "58",
+      "text": "The vendor, surprisingly, lets her have the shirt for 6 yuan, asking her to pay the rest later.",
+      "level": 1
+    },
+    {
+      "id": "59",
+      "text": "Upon closer inspection, Gu Xiaoyan realizes the vendor is the same man from the bridge.",
+      "level": 1
+    },
+    {
+      "id": "60",
+      "text": "Back at the office, Mo Donghai reprimands Gu Xiaoyan for not ordering the eel rice with spice and ginger.",
+      "level": 1
+    },
+    {
+      "id": "61",
+      "text": "A colleague, Awei, further berates Gu Xiaoyan, accusing her of trying to seduce Mo Donghai.",
+      "level": 1
+    },
+    {
+      "id": "62",
+      "text": "Lu Xiaoman comforts Gu Xiaoyan and advises her to be more adaptable and patient.",
+      "level": 1
+    },
+    {
+      "id": "63",
+      "text": "Gu Xiaoyan is assigned to help set up a meeting room.",
+      "level": 1
+    },
+    {
+      "id": "64",
+      "text": "In the meeting room, she is drawn to a statue of a general.",
+      "level": 1
+    },
+    {
+      "id": "65",
+      "text": "Su Ying and Awei mock Gu Xiaoyan, questioning her background and her sudden rise to a supervisory position.",
+      "level": 1
+    },
+    {
+      "id": "66",
+      "text": "Gu Xiaoyan feels the oppressive aura of the general statue and a sudden realization that it might be holding the legendary Seven-Star Sword.",
+      "level": 1
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Narrator (Protagonist of Xue'er's story)",
+      "frequency": 20,
+      "context": "The central character experiencing grief, revenge, and a search for love."
+    },
+    {
+      "name": "Xue'er",
+      "frequency": 15,
+      "context": "The narrator's beloved cat, whose death triggers the main conflict and revenge."
+    },
+    {
+      "name": "Old woman",
+      "frequency": 8,
+      "context": "The antagonist who kills Xue'er and is subsequently murdered by the narrator."
+    },
+    {
+      "name": "Chest pain",
+      "frequency": 4,
+      "context": "A recurring physical ailment for the narrator, possibly linked to emotional distress or supernatural influence."
+    },
+    {
+      "name": "Revenge",
+      "frequency": 5,
+      "context": "The driving force behind the narrator's actions after Xue'er's death."
+    },
+    {
+      "name": "Love",
+      "frequency": 5,
+      "context": "Manifested in the narrator's deep affection for Xue'er and later for Fengling."
+    },
+    {
+      "name": "Gu Xiaoyan",
+      "frequency": 30,
+      "context": "The narrator of the second part of the story, struggling with unemployment and encountering bizarre events."
+    },
+    {
+      "name": "Luo Tian",
+      "frequency": 8,
+      "context": "Gu Xiaoyan's boyfriend, a criminal police captain."
+    },
+    {
+      "name": "Job search",
+      "frequency": 10,
+      "context": "A major theme for Gu Xiaoyan, highlighting her struggles with limited qualifications."
+    },
+    {
+      "name": "April Fool's Day",
+      "frequency": 7,
+      "context": "The day of the 'prank' job offer and the mysterious death at the football game."
+    },
+    {
+      "name": "Mo Donghai",
+      "frequency": 8,
+      "context": "The strict Vice General Manager at Kyushu Media Co., Ltd."
+    },
+    {
+      "name": "Lu Xiaoman",
+      "frequency": 7,
+      "context": "The HR manager at Kyushu Media Co., Ltd., who offers support and advice."
+    },
+    {
+      "name": "General statue",
+      "frequency": 3,
+      "context": "A significant object in the company that evokes a sense of pressure and mystery."
+    },
+    {
+      "name": "Seven-Star Sword",
+      "frequency": 1,
+      "context": "A legendary weapon potentially depicted in the general statue."
+    },
+    {
+      "name": "Family (Mother, Father)",
+      "frequency": 5,
+      "context": "Influential figures in the narrator's past, particularly his father's violent tendencies."
+    },
+    {
+      "name": "Deafness/Communication",
+      "frequency": 3,
+      "context": "A characteristic of Fengling, which the narrator finds a form of connection."
+    },
+    {
+      "name": "Suspicion/Mystery",
+      "frequency": 5,
+      "context": "Underlying themes related to deaths and unusual occurrences."
+    },
+    {
+      "name": "Workplace dynamics",
+      "frequency": 5,
+      "context": "Interactions between colleagues, supervisors, and subordinates in the advertising company."
+    }
+  ],
+  "relations": [
+    {
+      "source": "Narrator (Protagonist of Xue'er's story)",
+      "target": "Xue'er",
+      "type": "loves"
+    },
+    {
+      "source": "Old woman",
+      "target": "Xue'er",
+      "type": "kills"
+    },
+    {
+      "source": "Narrator (Protagonist of Xue'er's story)",
+      "target": "Old woman",
+      "type": "murders"
+    },
+    {
+      "source": "Narrator (Protagonist of Xue'er's story)",
+      "target": "Chest pain",
+      "type": "experiences"
+    },
+    {
+      "source": "Narrator (Protagonist of Xue'er's story)",
+      "target": "Revenge",
+      "type": "seeks"
+    },
+    {
+      "source": "Gu Xiaoyan",
+      "target": "Luo Tian",
+      "type": "is_girlfriend_of"
+    },
+    {
+      "source": "Gu Xiaoyan",
+      "target": "Job search",
+      "type": "undertakes"
+    },
+    {
+      "source": "Gu Xiaoyan",
+      "target": "April Fool's Day",
+      "type": "is_affected_by"
+    },
+    {
+      "source": "Mo Donghai",
+      "target": "Gu Xiaoyan",
+      "type": "hires"
+    },
+    {
+      "source": "Lu Xiaoman",
+      "target": "Gu Xiaoyan",
+      "type": "advises"
+    },
+    {
+      "source": "General statue",
+      "target": "Seven-Star Sword",
+      "type": "potentially_holds"
+    },
+    {
+      "source": "Narrator (Protagonist of Xue'er's story)",
+      "target": "Father",
+      "type": "influenced_by"
+    },
+    {
+      "source": "Fengling",
+      "target": "Deafness/Communication",
+      "type": "has_characteristic"
+    },
+    {
+      "source": "Mysterious death",
+      "target": "Suspicion/Mystery",
+      "type": "generates"
+    },
+    {
+      "source": "Workplace dynamics",
+      "target": "Gu Xiaoyan",
+      "type": "affects"
+    }
+  ],
+  "hierarchy": {
+    "main_topics": [
+      "The story of Xue'er and the narrator's revenge",
+      "Gu Xiaoyan's struggles and bizarre experiences",
+      "Themes of love, loss, revenge, and finding one's place"
+    ],
+    "structure": "The document is divided into two main narrative arcs. The first arc focuses on the narrator's intense emotional journey centered around his cat, Xue'er, culminating in a violent act of revenge. The second arc introduces a new protagonist, Gu Xiaoyan, whose narrative unfolds as a series of perplexing events and personal challenges, framed within a mysterious context involving a notebook and a criminal investigation. Both arcs appear to be connected, hinting at a larger, interwoven narrative."
+  }
+}

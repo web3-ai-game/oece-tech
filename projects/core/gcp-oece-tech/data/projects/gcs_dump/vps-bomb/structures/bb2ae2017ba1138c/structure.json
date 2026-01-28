@@ -1,0 +1,127 @@
+{
+  "propositions": [
+    {
+      "id": "1",
+      "text": "The 'Emperor Thrush' project is a historical initiative to fuse cultural and ideological elements across different eras to create a new social order.",
+      "level": 1
+    },
+    {
+      "id": "1.1",
+      "text": "The project emerges in a globalized world of economic integration and social stratification in the year 2035.",
+      "level": 2
+    },
+    {
+      "id": "1.2",
+      "text": "The thrush bird symbolizes cultural integration and the collision of traditional and modern values.",
+      "level": 2
+    },
+    {
+      "id": "2",
+      "text": "Li Ran, a scholar of history and literature, becomes involved in the 'Emperor Thrush' project.",
+      "level": 1
+    },
+    {
+      "id": "2.1",
+      "text": "Li Ran encounters the symbolic thrush bird and learns of its historical and cultural significance.",
+      "level": 2
+    },
+    {
+      "id": "2.2",
+      "text": "Li Ran faces internal conflict between personal ideals and the political implications of the project.",
+      "level": 2
+    },
+    {
+      "id": "3",
+      "text": "The project faces challenges due to differing views on its purpose as a cultural symbol or political tool.",
+      "level": 1
+    },
+    {
+      "id": "3.1",
+      "text": "Internal team disputes arise over whether to emphasize the bird's artistic value or political significance.",
+      "level": 2
+    },
+    {
+      "id": "4",
+      "text": "Social tensions and globalization exacerbate the context in which the 'Emperor Thrush' project operates.",
+      "level": 1
+    },
+    {
+      "id": "4.1",
+      "text": "Increasing wealth disparity and social unrest influence public perception of the project.",
+      "level": 2
+    },
+    {
+      "id": "5",
+      "text": "Li Ran makes a critical decision to remain in the project to protect cultural heritage despite its flaws.",
+      "level": 1
+    },
+    {
+      "id": "5.1",
+      "text": "The project launches with a public exhibition, sparking cultural reflection among viewers.",
+      "level": 2
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Emperor Thrush",
+      "frequency": 10,
+      "context": "A symbolic bird representing cultural fusion and historical significance in a futuristic social experiment."
+    },
+    {
+      "name": "Globalization",
+      "frequency": 5,
+      "context": "The backdrop of economic integration and cultural blurring that shapes the era of the story."
+    },
+    {
+      "name": "Cultural Integration",
+      "frequency": 4,
+      "context": "The merging of traditional and modern values as a core aim of the project."
+    },
+    {
+      "name": "Social Stratification",
+      "frequency": 3,
+      "context": "The growing divide between social classes influencing the project's reception."
+    },
+    {
+      "name": "Li Ran",
+      "frequency": 8,
+      "context": "The protagonist scholar grappling with personal and societal conflicts within the project."
+    }
+  ],
+  "relations": [
+    {
+      "source": "Emperor Thrush",
+      "target": "Cultural Integration",
+      "type": "symbolizes"
+    },
+    {
+      "source": "Emperor Thrush",
+      "target": "Li Ran",
+      "type": "inspires"
+    },
+    {
+      "source": "Globalization",
+      "target": "Social Stratification",
+      "type": "causes"
+    },
+    {
+      "source": "Li Ran",
+      "target": "Cultural Integration",
+      "type": "advocates"
+    },
+    {
+      "source": "Emperor Thrush",
+      "target": "Social Stratification",
+      "type": "reflects"
+    }
+  ],
+  "hierarchy": {
+    "main_topics": [
+      "Emperor Thrush Project",
+      "Cultural and Social Conflict",
+      "Li Ran's Journey",
+      "Globalization Era"
+    ],
+    "structure": "The document is organized into five chapters, progressing from historical context and character introduction to personal and societal conflicts, culminating in a resolution and public exhibition."
+  }
+}

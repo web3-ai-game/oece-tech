@@ -1,0 +1,220 @@
+{
+  "propositions": [
+    {
+      "id": "1",
+      "text": "The document is titled \"偏偏娇纵\".",
+      "level": 1
+    },
+    {
+      "id": "1.1",
+      "text": "Part 1 is titled \"偏偏娇纵\".",
+      "level": 2
+    },
+    {
+      "id": "1.1.1",
+      "text": "Chapter 1 is titled \"偏偏娇纵\".",
+      "level": 3
+    },
+    {
+      "id": "1.1.1.1",
+      "text": "A peculiar event happened in the past decade.",
+      "level": 4
+    },
+    {
+      "id": "1.1.1.2",
+      "text": "The narrator was on a train and looking at a photo on her phone.",
+      "level": 4
+    },
+    {
+      "id": "1.1.1.3",
+      "text": "The photo was of the narrator and her friend, whom she calls \"Sister\".",
+      "level": 4
+    },
+    {
+      "id": "1.1.1.4",
+      "text": "The narrator's friend asked if she wanted coffee.",
+      "level": 4
+    },
+    {
+      "id": "1.1.1.5",
+      "text": "The narrator said yes.",
+      "level": 4
+    },
+    {
+      "id": "1.1.1.6",
+      "text": "The train stopped abruptly while they were talking.",
+      "level": 4
+    },
+    {
+      "id": "1.1.1.7",
+      "text": "The narrator's phone fell.",
+      "level": 4
+    },
+    {
+      "id": "1.1.1.8",
+      "text": "The narrator couldn't pick up her phone.",
+      "level": 4
+    },
+    {
+      "id": "1.1.1.9",
+      "text": "The train started moving again.",
+      "level": 4
+    },
+    {
+      "id": "1.1.1.10",
+      "text": "The narrator's friend asked her to pick up her phone.",
+      "level": 4
+    },
+    {
+      "id": "1.1.1.11",
+      "text": "The narrator stated she couldn't pick up her phone.",
+      "level": 4
+    },
+    {
+      "id": "1.1.1.12",
+      "text": "The train stopped again.",
+      "level": 4
+    },
+    {
+      "id": "1.1.1.13",
+      "text": "The narrator's friend repeated the request to pick up her phone.",
+      "level": 4
+    },
+    {
+      "id": "1.1.1.14",
+      "text": "The narrator reiterated she couldn't pick up her phone.",
+      "level": 4
+    }
+  ],
+  "concepts": [
+    {
+      "name": "偏偏娇纵",
+      "frequency": 3,
+      "context": "Title of the document, Part 1, and Chapter 1."
+    },
+    {
+      "name": "narrator",
+      "frequency": 4,
+      "context": "The person telling the story."
+    },
+    {
+      "name": "phone",
+      "frequency": 14,
+      "context": "The narrator's phone, which fell and could not be picked up."
+    },
+    {
+      "name": "friend",
+      "frequency": 12,
+      "context": "The narrator's friend, referred to as \"Sister\", who is on the train with her."
+    },
+    {
+      "name": "train",
+      "frequency": 30,
+      "context": "The setting where the peculiar event occurs, involving abrupt stops and movement."
+    },
+    {
+      "name": "photo",
+      "frequency": 1,
+      "context": "A picture on the narrator's phone."
+    },
+    {
+      "name": "coffee",
+      "frequency": 1,
+      "context": "An offer made by the narrator's friend."
+    },
+    {
+      "name": "event",
+      "frequency": 1,
+      "context": "A peculiar occurrence described in the chapter."
+    }
+  ],
+  "relations": [
+    {
+      "source": "偏偏娇纵",
+      "target": "Part 1",
+      "type": "is_titled"
+    },
+    {
+      "source": "Part 1",
+      "target": "偏偏娇纵",
+      "type": "is_titled"
+    },
+    {
+      "source": "偏偏娇纵",
+      "target": "Chapter 1",
+      "type": "is_titled"
+    },
+    {
+      "source": "Chapter 1",
+      "target": "偏偏娇纵",
+      "type": "is_titled"
+    },
+    {
+      "source": "narrator",
+      "target": "phone",
+      "type": "possesses"
+    },
+    {
+      "source": "narrator",
+      "target": "friend",
+      "type": "has"
+    },
+    {
+      "source": "friend",
+      "target": "Sister",
+      "type": "is_called"
+    },
+    {
+      "source": "narrator",
+      "target": "coffee",
+      "type": "declines_offer_of"
+    },
+    {
+      "source": "friend",
+      "target": "coffee",
+      "type": "offers"
+    },
+    {
+      "source": "train",
+      "target": "event",
+      "type": "setting_of"
+    },
+    {
+      "source": "train",
+      "target": "photo",
+      "type": "context_for_looking_at"
+    },
+    {
+      "source": "phone",
+      "target": "fell",
+      "type": "action_happened_to"
+    },
+    {
+      "source": "narrator",
+      "target": "pick up phone",
+      "type": "unable_to"
+    },
+    {
+      "source": "train",
+      "target": "stopped abruptly",
+      "type": "action_happened_to"
+    },
+    {
+      "source": "train",
+      "target": "started moving again",
+      "type": "action_happened_to"
+    },
+    {
+      "source": "friend",
+      "target": "asked to pick up phone",
+      "type": "action"
+    }
+  ],
+  "hierarchy": {
+    "main_topics": [
+      "偏偏娇纵",
+      "Chapter 1 Narrative"
+    ],
+    "structure": "The document is structured with a main title, followed by a numbered part, and within that, a numbered chapter. The chapter content describes a narrative sequence of events."
+  }
+}

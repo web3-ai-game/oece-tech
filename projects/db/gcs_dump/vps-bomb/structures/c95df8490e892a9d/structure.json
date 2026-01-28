@@ -1,0 +1,351 @@
+{
+  "propositions": [
+    {
+      "id": "1",
+      "text": "The narrator, a seven-year-old boy, embarks on an adventure with his parents into the Kurbat Kash Gobi.",
+      "level": 1
+    },
+    {
+      "id": "1.1",
+      "text": "The Gobi is described as a harsh and dangerous environment.",
+      "level": 2
+    },
+    {
+      "id": "1.2",
+      "text": "The boy is disappointed by the lack of immediate danger.",
+      "level": 2
+    },
+    {
+      "id": "1.3",
+      "text": "They encounter a sick Bactrian camel named Xixi.",
+      "level": 2
+    },
+    {
+      "id": "1.4",
+      "text": "The boy shows compassion towards Xixi and feeds it.",
+      "level": 2
+    },
+    {
+      "id": "1.5",
+      "text": "A sudden sandstorm hits, causing significant damage to their jeep and blocking their path.",
+      "level": 2
+    },
+    {
+      "id": "1.6",
+      "text": "Xixi's earlier struggle and eventual survival are implied to have saved them from entering a collapsing canyon.",
+      "level": 2
+    },
+    {
+      "id": "1.7",
+      "text": "Forced to travel on foot, they face dwindling food supplies and a malfunctioning compass due to magnetic storms.",
+      "level": 2
+    },
+    {
+      "id": "1.8",
+      "text": "They decide to rely on Xixi to guide them to water.",
+      "level": 2
+    },
+    {
+      "id": "1.9",
+      "text": "Xixi, despite its illness and impending childbirth, recovers and leads them to an oasis.",
+      "level": 2
+    },
+    {
+      "id": "1.10",
+      "text": "Xixi gives birth to a baby camel.",
+      "level": 2
+    },
+    {
+      "id": "1.11",
+      "text": "They face a wolf pack attack, but Xixi bravely defends them and its calf.",
+      "level": 2
+    },
+    {
+      "id": "1.12",
+      "text": "The father uses a rifle to scare off the wolves.",
+      "level": 2
+    },
+    {
+      "id": "1.13",
+      "text": "They are forced to leave the oasis and Xixi, who is reluctant to leave its home.",
+      "level": 2
+    },
+    {
+      "id": "1.14",
+      "text": "The journey becomes increasingly arduous due to extreme weather conditions.",
+      "level": 2
+    },
+    {
+      "id": "1.15",
+      "text": "The boy refuses to drink Xixi's milk and prefers to eat grass roots.",
+      "level": 2
+    },
+    {
+      "id": "1.16",
+      "text": "The boy falls into a state of extreme weakness.",
+      "level": 2
+    },
+    {
+      "id": "1.17",
+      "text": "The boy wakes up in a hospital and learns that Xixi has died, and the meat they ate was from Xixi.",
+      "level": 2
+    },
+    {
+      "id": "1.18",
+      "text": "The boy is deeply traumatized by the death of Xixi and his parents' actions.",
+      "level": 2
+    },
+    {
+      "id": "1.19",
+      "text": "Years later, the boy learns that his parents sold Xixi's baby to a zoo, and the boy still carries the pain and distrust.",
+      "level": 2
+    },
+    {
+      "id": "1.20",
+      "text": "The narrator reflects on the resilience of camels and their role in nature, drawing parallels to the theme of survival and bravery from a Japanese novel.",
+      "level": 2
+    },
+    {
+      "id": "1.21",
+      "text": "The narrator questions what threatens the survival of wild Bactrian camels.",
+      "level": 2
+    },
+    {
+      "id": "2",
+      "text": "Section 3 introduces a character referred to as 'Yaojing' (妖精), a young woman who works as a prostitute.",
+      "level": 1
+    },
+    {
+      "id": "2.1",
+      "text": "Yaojing is described as being eighteen years old, having two children, and being divorced three times.",
+      "level": 2
+    },
+    {
+      "id": "2.2",
+      "text": "The narrator, a doctor, encounters Yaojing at the hospital for a medical test.",
+      "level": 2
+    },
+    {
+      "id": "2.3",
+      "text": "The narrator is surprised by Yaojing's innocent and pure appearance, contradicting the rumors about her.",
+      "level": 2
+    },
+    {
+      "id": "2.4",
+      "text": "The medical tests reveal that Yaojing has several infections.",
+      "level": 2
+    },
+    {
+      "id": "2.5",
+      "text": "Yaojing's daughter is also introduced, showing a child's unwavering love and pride for her mother.",
+      "level": 2
+    },
+    {
+      "id": "3",
+      "text": "Section 4 continues the narrative about Yaojing, with the narrator being taken by a friend to see her in her working environment.",
+      "level": 1
+    },
+    {
+      "id": "3.1",
+      "text": "The narrator is initially hesitant to see Yaojing in her element.",
+      "level": 2
+    },
+    {
+      "id": "3.2",
+      "text": "He observes Yaojing from a distance, finding her beautiful and captivating despite her circumstances.",
+      "level": 2
+    },
+    {
+      "id": "3.3",
+      "text": "The narrator witnesses Yaojing interacting with laborers, implying the nature of her work.",
+      "level": 2
+    }
+  ],
+  "concepts": [
+    {
+      "name": "探险 (Adventure)",
+      "frequency": 10,
+      "context": "Central theme of the narrative, driving the plot and the protagonist's experiences."
+    },
+    {
+      "name": "戈壁 (Gobi Desert)",
+      "frequency": 30,
+      "context": "The primary setting for the first two sections, characterized by harsh conditions and unforgiving environment."
+    },
+    {
+      "name": "骆驼 (Camel)",
+      "frequency": 50,
+      "context": "The character of Xixi and her calf are crucial to the narrative, symbolizing resilience, sacrifice, and nature's bounty."
+    },
+    {
+      "name": "生存 (Survival)",
+      "frequency": 15,
+      "context": "The overarching theme, especially in the harsh Gobi environment and in the context of Xixi's and the family's struggle."
+    },
+    {
+      "name": "母爱 (Mother's Love)",
+      "frequency": 5,
+      "context": "Expressed by Xixi towards her calf, and by the narrator's mother towards him."
+    },
+    {
+      "name": "牺牲 (Sacrifice)",
+      "frequency": 5,
+      "context": "Xixi's sacrifice for the family, and the parents' decision regarding Xixi."
+    },
+    {
+      "name": "道德 (Morality)",
+      "frequency": 10,
+      "context": "The narrator's evolving understanding of morality, particularly concerning the treatment of animals and the actions of his parents."
+    },
+    {
+      "name": "人性 (Humanity)",
+      "frequency": 10,
+      "context": "Explored through the characters' actions, decisions, and emotional responses to extreme situations."
+    },
+    {
+      "name": "童年 (Childhood)",
+      "frequency": 5,
+      "context": "The narrator's perspective as a child, his innocence, and the shattering of his idealism."
+    },
+    {
+      "name": "妖精 (Yaojing/Demoness)",
+      "frequency": 20,
+      "context": "A character in the latter part of the text, representing a marginalized woman and challenging the narrator's preconceptions."
+    },
+    {
+      "name": "清纯 (Pure/Innocent)",
+      "frequency": 5,
+      "context": "Describes Yaojing's appearance, contrasting with the narrator's initial assumptions and societal perceptions."
+    },
+    {
+      "name": "偏见 (Prejudice)",
+      "frequency": 5,
+      "context": "The narrator's and others' judgment of Yaojing based on rumors and her profession."
+    },
+    {
+      "name": "疾病 (Illness)",
+      "frequency": 5,
+      "context": "Both physical (Xixi's initial sickness, Yaojing's infections) and metaphorical (societal ills)."
+    },
+    {
+      "name": "信任 (Trust)",
+      "frequency": 5,
+      "context": "The erosion of trust between the narrator and his parents."
+    },
+    {
+      "name": "记忆 (Memory)",
+      "frequency": 5,
+      "context": "The lasting impact of events on the narrator, particularly Xixi's image and sacrifice."
+    }
+  ],
+  "relations": [
+    {
+      "source": "探险",
+      "target": "戈壁",
+      "type": "occurs_in"
+    },
+    {
+      "source": "探险",
+      "target": "生存",
+      "type": "implies"
+    },
+    {
+      "source": "戈壁",
+      "target": "骆驼",
+      "type": "inhabited_by"
+    },
+    {
+      "source": "骆驼",
+      "target": "牺牲",
+      "type": "exhibits"
+    },
+    {
+      "source": "骆驼",
+      "target": "母爱",
+      "type": "exhibits"
+    },
+    {
+      "source": "母爱",
+      "target": "牺牲",
+      "type": "can_lead_to"
+    },
+    {
+      "source": "生存",
+      "target": "人性",
+      "type": "tests"
+    },
+    {
+      "source": "人性",
+      "target": "道德",
+      "type": "influenced_by"
+    },
+    {
+      "source": "探险",
+      "target": "童年",
+      "type": "shapes"
+    },
+    {
+      "source": "妖精",
+      "target": "偏见",
+      "type": "subject_of"
+    },
+    {
+      "source": "妖精",
+      "target": "清纯",
+      "type": "contrasts_with"
+    },
+    {
+      "source": "妖精",
+      "target": "疾病",
+      "type": "suffers_from"
+    },
+    {
+      "source": "清纯",
+      "target": "偏见",
+      "type": "challenges"
+    },
+    {
+      "source": "信任",
+      "target": "父母",
+      "type": "betrayed_by"
+    },
+    {
+      "source": "记忆",
+      "target": "骆驼",
+      "type": "associated_with"
+    },
+    {
+      "source": "道德",
+      "target": "人性",
+      "type": "component_of"
+    },
+    {
+      "source": "探险",
+      "target": "记忆",
+      "type": "creates"
+    },
+    {
+      "source": "妖精",
+      "target": "母爱",
+      "type": "exhibits"
+    },
+    {
+      "source": "戈壁",
+      "target": "极端环境",
+      "type": "is_a"
+    },
+    {
+      "source": "骆驼",
+      "target": "自然",
+      "type": "symbol_of"
+    }
+  ],
+  "hierarchy": {
+    "main_topics": [
+      "The Boy's Adventure in the Gobi and His Relationship with Xixi",
+      "The Character of Yaojing and Societal Perceptions",
+      "Themes of Survival, Sacrifice, and Morality"
+    ],
+    "structure": "The document is divided into four sections. Section 1 details the boy's solo adventure in the Gobi, his encounter with Xixi, the sandstorm, and the subsequent survival struggle. Section 2 continues the narrative with the birth of the baby camel, the wolf attack, and the tragic loss of Xixi. Section 3 introduces Yaojing, a prostitute, and the narrator's initial perception of her. Section 4 revisits Yaojing, challenging the narrator's preconceived notions and highlighting her beauty and resilience."
+  }
+}

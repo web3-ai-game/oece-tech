@@ -1,0 +1,549 @@
+{
+  "propositions": [
+    {
+      "id": "1",
+      "text": "Characters return to Beijing after an archaeological expedition.",
+      "level": 1
+    },
+    {
+      "id": "1.1",
+      "text": "Shirley Yang is busy with medical treatment for Professor Chen and funeral arrangements for the deceased.",
+      "level": 2
+    },
+    {
+      "id": "1.2",
+      "text": "The narrator avoids investigation by downplaying the dangers of the desert expedition.",
+      "level": 2
+    },
+    {
+      "id": "1.3",
+      "text": "The death of four people (one teacher, three students) and the professor's mental breakdown is a significant event.",
+      "level": 2
+    },
+    {
+      "id": "2",
+      "text": "The narrator is invited to go dancing by Fatty but declines due to recurring nightmares and headaches.",
+      "level": 1
+    },
+    {
+      "id": "3",
+      "text": "Shirley Yang visits the narrator.",
+      "level": 1
+    },
+    {
+      "id": "3.1",
+      "text": "She obtained the narrator's address from Da Jinya.",
+      "level": 2
+    },
+    {
+      "id": "4",
+      "text": "Shirley Yang informs the narrator that she will provide payment and then prepare to take Professor Chen abroad for treatment.",
+      "level": 1
+    },
+    {
+      "id": "4.1",
+      "text": "She mentions needing to investigate some matters, implying a temporary separation.",
+      "level": 2
+    },
+    {
+      "id": "5",
+      "text": "The narrator is surprised by the offer of payment but tries to feign politeness.",
+      "level": 1
+    },
+    {
+      "id": "5.1",
+      "text": "He asks about Professor Chen's health and suggests visiting him.",
+      "level": 2
+    },
+    {
+      "id": "5.2",
+      "text": "He feels it's inappropriate to accept money and questions their financial situation.",
+      "level": 2
+    },
+    {
+      "id": "6",
+      "text": "Shirley Yang places the money on the table and requests a favor.",
+      "level": 1
+    },
+    {
+      "id": "7",
+      "text": "The narrator suspects she wants revenge or to dig into his past.",
+      "level": 1
+    },
+    {
+      "id": "8",
+      "text": "Shirley Yang reveals her request: she wants the narrator to stop tomb raiding.",
+      "level": 1
+    },
+    {
+      "id": "8.1",
+      "text": "She explains her grandfather stopped due to the profession's negative impact on karma and the risk of accidents.",
+      "level": 2
+    },
+    {
+      "id": "8.2",
+      "text": "She offers to arrange for them to visit America in the future.",
+      "level": 2
+    },
+    {
+      "id": "9",
+      "text": "The narrator feels insulted by the suggestion of working under Shirley Yang and refuses.",
+      "level": 1
+    },
+    {
+      "id": "9.1",
+      "text": "He defends tomb raiding by citing Mao Zedong's teachings on dialectical materialism and the existence of undiscovered treasures.",
+      "level": 2
+    },
+    {
+      "id": "9.2",
+      "text": "He argues that these treasures would otherwise remain lost to time and threatened by environmental changes.",
+      "level": 2
+    },
+    {
+      "id": "10",
+      "text": "Shirley Yang acknowledges his spirited defense and retracts her offer of money.",
+      "level": 1
+    },
+    {
+      "id": "11",
+      "text": "The narrator stops her, proposing to consider the money a loan with interest.",
+      "level": 1
+    },
+    {
+      "id": "12",
+      "text": "Fatty repeatedly counts the money, overwhelmed by its amount.",
+      "level": 1
+    },
+    {
+      "id": "13",
+      "text": "Fatty suggests they abscond to the south to avoid repaying Shirley Yang.",
+      "level": 1
+    },
+    {
+      "id": "14",
+      "text": "The narrator dismisses this idea, seeing the money as seed capital for future endeavors.",
+      "level": 1
+    },
+    {
+      "id": "14.1",
+      "text": "He believes they can earn enough to repay the loan and acquire better equipment.",
+      "level": 2
+    },
+    {
+      "id": "14.2",
+      "text": "He expresses his determination to undertake a major tomb raid.",
+      "level": 2
+    },
+    {
+      "id": "15",
+      "text": "The two friends realize that finding ancient tombs is difficult and that the money might not last indefinitely.",
+      "level": 1
+    },
+    {
+      "id": "16",
+      "text": "Fatty proposes investing in an antique business as a potentially lucrative alternative to tomb raiding.",
+      "level": 1
+    },
+    {
+      "id": "17",
+      "text": "The narrator agrees, recognizing the potential and the opportunity to learn antique appraisal.",
+      "level": 1
+    },
+    {
+      "id": "18",
+      "text": "They decide to start by setting up a stall at Panjiayuan flea market.",
+      "level": 1
+    },
+    {
+      "id": "19",
+      "text": "Panjiayuan is characterized by its diverse offerings, though truly valuable artifacts are rare.",
+      "level": 1
+    },
+    {
+      "id": "20",
+      "text": "Following Da Jinya's advice, they start by acquiring small items like porcelain, old coins, and pocket watches from the Qing Dynasty.",
+      "level": 1
+    },
+    {
+      "id": "21",
+      "text": "The narrator admits to poor business acumen, misjudging value and losing money.",
+      "level": 1
+    },
+    {
+      "id": "21.1",
+      "text": "He views this as a learning experience to develop his appraisal skills.",
+      "level": 2
+    },
+    {
+      "id": "22",
+      "text": "A man named Li Chunlai approaches their stall, inquiring about buying antiques.",
+      "level": 1
+    },
+    {
+      "id": "22.1",
+      "text": "He appears to be a farmer from a rural area.",
+      "level": 2
+    },
+    {
+      "id": "23",
+      "text": "The narrator and Da Jinya decide to engage him discreetly.",
+      "level": 1
+    },
+    {
+      "id": "24",
+      "text": "Li Chunlai reveals he has a shoe he wishes to sell.",
+      "level": 1
+    },
+    {
+      "id": "25",
+      "text": "The narrator takes Li Chunlai to a dumpling restaurant to discuss the sale privately.",
+      "level": 1
+    },
+    {
+      "id": "26",
+      "text": "Li Chunlai describes the origin of the embroidered shoe.",
+      "level": 1
+    },
+    {
+      "id": "26.1",
+      "text": "His village was suffering from a severe drought.",
+      "level": 2
+    },
+    {
+      "id": "26.2",
+      "text": "A blind fortune teller claimed a 'hanba' (drought demon) was responsible and suggested opening an abandoned coffin in a local graveyard.",
+      "level": 2
+    },
+    {
+      "id": "26.3",
+      "text": "Inside the coffin, they found an ancient female corpse and a small, green, monkey-like creature.",
+      "level": 2
+    },
+    {
+      "id": "26.4",
+      "text": "The creature was killed and burned, and the fortune teller advised burning the coffin and its contents.",
+      "level": 2
+    },
+    {
+      "id": "26.5",
+      "text": "During the burning, rain extinguished the fire, and Li Chunlai discovered treasures within the coffin.",
+      "level": 2
+    },
+    {
+      "id": "26.6",
+      "text": "He was intercepted by a man named Ma Shun, who stole the treasures and gave Li Chunlai the shoe as hush money.",
+      "level": 2
+    },
+    {
+      "id": "26.7",
+      "text": "The next morning, Ma Shun's family was struck by lightning and died.",
+      "level": 2
+    },
+    {
+      "id": "26.8",
+      "text": "Li Chunlai eventually brought the shoe to Beijing to sell.",
+      "level": 2
+    },
+    {
+      "id": "27",
+      "text": "The narrator appraises the embroidered shoe as likely from the Ming Dynasty and offers to buy it for 650 yuan.",
+      "level": 1
+    },
+    {
+      "id": "28",
+      "text": "Li Chunlai accepts the offer, grateful for the amount.",
+      "level": 1
+    },
+    {
+      "id": "29",
+      "text": "Li Chunlai mentions the abundance of ancient tombs in his hometown of Longxiang County, Shaanxi Province.",
+      "level": 1
+    },
+    {
+      "id": "30",
+      "text": "The narrator, Fatty, and Da Jinya decide to travel to Shaanxi to explore the region's ancient tombs and collect artifacts.",
+      "level": 1
+    },
+    {
+      "id": "31",
+      "text": "They travel to Taiyuan and then decide to head west across the Yellow River due to flooding that has revealed ancient tombs.",
+      "level": 1
+    },
+    {
+      "id": "32",
+      "text": "Their long-distance bus breaks down near the Yellow River, forcing them to seek a boat.",
+      "level": 1
+    },
+    {
+      "id": "33",
+      "text": "The strong currents and muddy water of the Yellow River pose a significant obstacle.",
+      "level": 1
+    },
+    {
+      "id": "34",
+      "text": "They manage to hire a boat by offering double the price.",
+      "level": 1
+    },
+    {
+      "id": "35",
+      "text": "During the river crossing, the boat is repeatedly struck by a large, unseen object in the water.",
+      "level": 1
+    },
+    {
+      "id": "35.1",
+      "text": "The boat's captain believes it to be a river god.",
+      "level": 2
+    },
+    {
+      "id": "35.2",
+      "text": "Fatty describes the object as large and dark, possibly a giant turtle.",
+      "level": 2
+    },
+    {
+      "id": "35.3",
+      "text": "The narrator and Fatty arm themselves with a folding entrenching tool to defend themselves.",
+      "level": 2
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Shirley Yang",
+      "frequency": 10,
+      "context": "A key character involved in the repayment of funds and offering advice."
+    },
+    {
+      "name": "Professor Chen",
+      "frequency": 3,
+      "context": "An ailing professor requiring medical treatment abroad."
+    },
+    {
+      "name": "Fatty",
+      "frequency": 19,
+      "context": "The narrator's companion, often expressing practical concerns and humorous remarks."
+    },
+    {
+      "name": "Da Jinya",
+      "frequency": 9,
+      "context": "An acquaintance who provides information and participates in discussions about antiques."
+    },
+    {
+      "name": "Tomb Raiding (倒斗)",
+      "frequency": 11,
+      "context": "The central activity and ethical dilemma for the protagonists."
+    },
+    {
+      "name": "Archaeological Expedition",
+      "frequency": 2,
+      "context": "The initial event that led to deaths and subsequent investigations."
+    },
+    {
+      "name": "Money/Payment",
+      "frequency": 8,
+      "context": "A recurring element, representing compensation, debt, and seed capital."
+    },
+    {
+      "name": "Antique Business",
+      "frequency": 3,
+      "context": "An alternative business venture proposed by Fatty."
+    },
+    {
+      "name": "Panjiayuan",
+      "frequency": 4,
+      "context": "A famous flea market in Beijing where the characters attempt to sell antiques."
+    },
+    {
+      "name": "Li Chunlai",
+      "frequency": 15,
+      "context": "A rural man who sells an ancient embroidered shoe to the narrator."
+    },
+    {
+      "name": "Embroidered Shoe",
+      "frequency": 16,
+      "context": "The artifact sold by Li Chunlai, central to the narrative of its origin and value."
+    },
+    {
+      "name": "Drought",
+      "frequency": 2,
+      "context": "The environmental condition that triggers the events leading to the shoe's discovery."
+    },
+    {
+      "name": "Hanba (旱魃)",
+      "frequency": 3,
+      "context": "A mythical creature associated with drought, central to the folklore surrounding the shoe."
+    },
+    {
+      "name": "Ancient Corpse",
+      "frequency": 6,
+      "context": "The female body found in the coffin with the hanba."
+    },
+    {
+      "name": "Coffin",
+      "frequency": 6,
+      "context": "The container of the ancient corpse and the hanba."
+    },
+    {
+      "name": "Shaanxi Province",
+      "frequency": 8,
+      "context": "Li Chunlai's home region and a destination for the characters due to its many tombs."
+    },
+    {
+      "name": "Longxiang County",
+      "frequency": 3,
+      "context": "A specific location in Shaanxi known for its numerous ancient tombs."
+    },
+    {
+      "name": "Yellow River",
+      "frequency": 10,
+      "context": "A major geographical feature encountered by the characters on their journey."
+    },
+    {
+      "name": "Flooding/Disaster",
+      "frequency": 4,
+      "context": "The cause of the Yellow River's high water levels and the revelation of tombs."
+    },
+    {
+      "name": "River Crossing",
+      "frequency": 4,
+      "context": "The act of traversing the Yellow River, fraught with peril."
+    },
+    {
+      "name": "Boat/Ship",
+      "frequency": 12,
+      "context": "The mode of transportation across the Yellow River."
+    },
+    {
+      "name": "Large Object in River",
+      "frequency": 8,
+      "context": "The mysterious entity that repeatedly impacts the boat."
+    },
+    {
+      "name": "Feng Shui (风水)",
+      "frequency": 6,
+      "context": "A philosophical concept discussed in relation to burial sites and auspicious locations."
+    },
+    {
+      "name": "Dragon Veins (龙脉)",
+      "frequency": 4,
+      "context": "A concept within Feng Shui referring to the flow of energy in landscapes."
+    },
+    {
+      "name": "Zombies (僵尸/大粽子)",
+      "frequency": 7,
+      "context": "Supernatural beings that are a concern in tomb raiding and folklore."
+    }
+  ],
+  "relations": [
+    {
+      "source": "Shirley Yang",
+      "target": "Narrator",
+      "type": "pays"
+    },
+    {
+      "source": "Shirley Yang",
+      "target": "Narrator",
+      "type": "advises_against"
+    },
+    {
+      "source": "Narrator",
+      "target": "Fatty",
+      "type": "travels_with"
+    },
+    {
+      "source": "Narrator",
+      "target": "Da Jinya",
+      "type": "travels_with"
+    },
+    {
+      "source": "Narrator",
+      "target": "Tomb Raiding",
+      "type": "practices"
+    },
+    {
+      "source": "Li Chunlai",
+      "target": "Embroidered Shoe",
+      "type": "possesses"
+    },
+    {
+      "source": "Li Chunlai",
+      "target": "Narrator",
+      "type": "sells_to"
+    },
+    {
+      "source": "Embroidered Shoe",
+      "target": "Hanba",
+      "type": "associated_with"
+    },
+    {
+      "source": "Embroidered Shoe",
+      "target": "Ancient Corpse",
+      "type": "associated_with"
+    },
+    {
+      "source": "Embroidered Shoe",
+      "target": "Coffin",
+      "type": "found_in"
+    },
+    {
+      "source": "Narrator",
+      "target": "Shaanxi Province",
+      "type": "travels_to"
+    },
+    {
+      "source": "Fatty",
+      "target": "Shaanxi Province",
+      "type": "travels_to"
+    },
+    {
+      "source": "Da Jinya",
+      "target": "Shaanxi Province",
+      "type": "travels_to"
+    },
+    {
+      "source": "Yellow River",
+      "target": "Flooding/Disaster",
+      "type": "affected_by"
+    },
+    {
+      "source": "Narrator",
+      "target": "Yellow River",
+      "type": "traverses"
+    },
+    {
+      "source": "Fatty",
+      "target": "Yellow River",
+      "type": "traverses"
+    },
+    {
+      "source": "Da Jinya",
+      "target": "Yellow River",
+      "type": "traverses"
+    },
+    {
+      "source": "Boat/Ship",
+      "target": "Large Object in River",
+      "type": "impacted_by"
+    },
+    {
+      "source": "Feng Shui",
+      "target": "Dragon Veins",
+      "type": "involves"
+    },
+    {
+      "source": "Tomb Raiding",
+      "target": "Zombies",
+      "type": "associated_with"
+    }
+  ],
+  "hierarchy": {
+    "main_topics": [
+      "Narrator's Return and Shirley Yang's Visit",
+      "The Decision to Engage in Business vs. Tomb Raiding",
+      "The Encounter with Li Chunlai and the Embroidered Shoe",
+      "The Journey to Shaanxi and the Yellow River Crossing",
+      "The Mysterious Encounter on the Yellow River",
+      "Discussions on Feng Shui and Folklore"
+    ],
+    "structure": "The document follows a narrative structure, beginning with the aftermath of an archaeological expedition and progressing through character interactions, business ventures, a significant discovery of an artifact with a backstory, and an adventurous journey marked by a perilous encounter."
+  }
+}

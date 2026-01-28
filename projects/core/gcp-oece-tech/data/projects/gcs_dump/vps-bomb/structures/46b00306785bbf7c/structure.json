@@ -1,0 +1,2136 @@
+{
+  "propositions": [
+    {
+      "id": "1",
+      "text": "Hercule Poirot's apartment is modern and shiny with chrome.",
+      "level": 1
+    },
+    {
+      "id": "1.1",
+      "text": "The armchairs, despite comfortable cushions, are square and discordant.",
+      "level": 2
+    },
+    {
+      "id": "1.2",
+      "text": "Poirot sits neatly in the middle of one of these armchairs.",
+      "level": 2
+    },
+    {
+      "id": "2",
+      "text": "Dr. Burton, an academician from the Academy of All Souls, is sitting opposite Poirot.",
+      "level": 1
+    },
+    {
+      "id": "2.1",
+      "text": "Dr. Burton is savoring a glass of 'Mouton Rothschild' wine.",
+      "level": 2
+    },
+    {
+      "id": "2.2",
+      "text": "Dr. Burton is plump, untidy, with a ruddy, kindly face beneath unruly white hair.",
+      "level": 2
+    },
+    {
+      "id": "2.3",
+      "text": "He laughs heartily, wheezing and habitually scattering ash around him.",
+      "level": 2
+    },
+    {
+      "id": "3",
+      "text": "Dr. Burton asks Poirot why he is called Hercule.",
+      "level": 1
+    },
+    {
+      "id": "3.1",
+      "text": "Poirot clarifies if he means his Christian name.",
+      "level": 2
+    },
+    {
+      "id": "3.2",
+      "text": "Dr. Burton dismisses it as not a Christian name but a pagan one, questioning its origin.",
+      "level": 2
+    },
+    {
+      "id": "3.3",
+      "text": "Dr. Burton recalls Poirot having a brother named Achilles.",
+      "level": 2
+    },
+    {
+      "id": "4",
+      "text": "The mention of Achilles Poirot reminds Poirot of the Greek myth of Achilles.",
+      "level": 1
+    },
+    {
+      "id": "4.1",
+      "text": "Poirot wonders if those events truly happened.",
+      "level": 2
+    },
+    {
+      "id": "4.2",
+      "text": "Poirot replies that the name was used for a very short time.",
+      "level": 2
+    },
+    {
+      "id": "5",
+      "text": "Dr. Burton skillfully changes the subject from Achilles Poirot.",
+      "level": 1
+    },
+    {
+      "id": "5.1",
+      "text": "Dr. Burton muses that one should be careful when naming children.",
+      "level": 2
+    },
+    {
+      "id": "5.2",
+      "text": "He gives examples of his goddaughters with ironic names: Blanche (white) who is dark, Deirdre who is sad but very cheerful, Patience who is impatient, and Diana who is overweight at fifteen.",
+      "level": 2
+    },
+    {
+      "id": "5.3",
+      "text": "Dr. Burton states that Diana's parents originally wanted to name her Helen, but he disagreed.",
+      "level": 2
+    },
+    {
+      "id": "5.4",
+      "text": "He expresses his preference for sensible names like Martha or Dorcas.",
+      "level": 2
+    },
+    {
+      "id": "6",
+      "text": "Poirot looks at him inquiringly.",
+      "level": 1
+    },
+    {
+      "id": "7",
+      "text": "Dr. Burton imagines a conversation between Poirot's mother and Mrs. Sherlock Holmes, naming children Achilles, Hercule, Sherlock, and Mycroft.",
+      "level": 1
+    },
+    {
+      "id": "8",
+      "text": "Poirot does not share his friend's humor.",
+      "level": 1
+    },
+    {
+      "id": "8.1",
+      "text": "Poirot interprets Dr. Burton's implication as suggesting he doesn't resemble Hercules.",
+      "level": 2
+    },
+    {
+      "id": "9",
+      "text": "Dr. Burton looks Poirot up and down.",
+      "level": 1
+    },
+    {
+      "id": "9.1",
+      "text": "He observes Poirot's neat appearance: striped trousers, black coat, neat bow tie, small stature, patent leather shoes, egg-shaped head, and large mustache.",
+      "level": 2
+    },
+    {
+      "id": "9.2",
+      "text": "Dr. Burton frankly states that Poirot does not resemble Hercules.",
+      "level": 2
+    },
+    {
+      "id": "9.3",
+      "text": "He adds that Poirot has never studied classical literature much.",
+      "level": 2
+    },
+    {
+      "id": "10",
+      "text": "Poirot agrees.",
+      "level": 1
+    },
+    {
+      "id": "11",
+      "text": "Dr. Burton considers it a pity, stating that everyone should learn some classical literature.",
+      "level": 1
+    },
+    {
+      "id": "12",
+      "text": "Poirot shrugs, saying he lives quite well without it.",
+      "level": 1
+    },
+    {
+      "id": "13",
+      "text": "Dr. Burton corrects him, arguing it's not about living but about how one uses leisure time.",
+      "level": 1
+    },
+    {
+      "id": "13.1",
+      "text": "He asks Poirot what he would do in his leisure time if he were to retire from his profession.",
+      "level": 2
+    },
+    {
+      "id": "14",
+      "text": "Poirot spontaneously replies he plans to devote himself to cultivating marrows.",
+      "level": 1
+    },
+    {
+      "id": "15",
+      "text": "Dr. Burton is astonished.",
+      "level": 1
+    },
+    {
+      "id": "15.1",
+      "text": "He questions Poirot's choice of the bland, watery, green vegetable.",
+      "level": 2
+    },
+    {
+      "id": "16",
+      "text": "Poirot becomes enthusiastic, stating the main point is that they don't have to be bland.",
+      "level": 1
+    },
+    {
+      "id": "17",
+      "text": "Dr. Burton misunderstands, suggesting adding cheese, cream, or herbs.",
+      "level": 1
+    },
+    {
+      "id": "18",
+      "text": "Poirot corrects him again, explaining his idea is to improve the marrow's flavor to have a 'wine-like' aroma.",
+      "level": 1
+    },
+    {
+      "id": "19",
+      "text": "Dr. Burton, reminded of his wine, praises its mellowness.",
+      "level": 1
+    },
+    {
+      "id": "19.1",
+      "text": "He expresses disbelief at Poirot's marrow idea, envisioning the unpleasantness of bending over, mixing manure, and applying wool.",
+      "level": 2
+    },
+    {
+      "id": "20",
+      "text": "Poirot ironically asks if Dr. Burton is an expert in cultivating them.",
+      "level": 1
+    },
+    {
+      "id": "21",
+      "text": "Dr. Burton claims to have seen gardeners do it in the country.",
+      "level": 1
+    },
+    {
+      "id": "21.1",
+      "text": "He contrasts it with his preferred leisure activity: sitting in an armchair by a wood fire in a long room filled with books, with a glass of wine and an open book.",
+      "level": 2
+    },
+    {
+      "id": "21.2",
+      "text": "He quotes a passage in Greek and then translates it: 'The helmsman on the dark sea again righted with skill the light boat buffeted by the storm waves.'",
+      "level": 2
+    },
+    {
+      "id": "22",
+      "text": "Dr. Burton believes Poirot would never grasp the spirit of the original text.",
+      "level": 1
+    },
+    {
+      "id": "23",
+      "text": "In his excitement, Dr. Burton forgets Poirot.",
+      "level": 1
+    },
+    {
+      "id": "24",
+      "text": "Poirot watches him, suddenly feeling a pang of doubt.",
+      "level": 1
+    },
+    {
+      "id": "24.1",
+      "text": "He wonders if he is missing something, some rich spiritual essence.",
+      "level": 2
+    },
+    {
+      "id": "24.2",
+      "text": "Sadness washes over him, realizing he should have been familiar with classical literature, but it's now too late.",
+      "level": 2
+    },
+    {
+      "id": "25",
+      "text": "Dr. Burton interrupts Poirot's melancholy.",
+      "level": 1
+    },
+    {
+      "id": "26",
+      "text": "Dr. Burton asks if Poirot truly intends to retire.",
+      "level": 1
+    },
+    {
+      "id": "27",
+      "text": "Poirot confirms he does.",
+      "level": 1
+    },
+    {
+      "id": "28",
+      "text": "Dr. Burton laughs, saying Poirot won't.",
+      "level": 1
+    },
+    {
+      "id": "29",
+      "text": "Poirot assures him he has made all arrangements and will only take on a few select, attractive cases.",
+      "level": 1
+    },
+    {
+      "id": "30",
+      "text": "Dr. Burton smiles, comparing it to a prima donna's farewell performance, implying Poirot will continue working.",
+      "level": 1
+    },
+    {
+      "id": "31",
+      "text": "Dr. Burton stands up, calling Poirot a charming old devil.",
+      "level": 1
+    },
+    {
+      "id": "31.1",
+      "text": "He states that Poirot's work is not Hercule's laborious feats but something he does willingly.",
+      "level": 2
+    },
+    {
+      "id": "31.2",
+      "text": "He bets Poirot will still be there in twelve months and the marrow cultivating will remain a 'vain hope'.",
+      "level": 2
+    },
+    {
+      "id": "32",
+      "text": "Dr. Burton leaves Poirot's square room.",
+      "level": 1
+    },
+    {
+      "id": "33",
+      "text": "He leaves behind the idea of ancient legends, which is what concerns us.",
+      "level": 1
+    },
+    {
+      "id": "34",
+      "text": "Poirot sits down, feeling like a man in a dream.",
+      "level": 1
+    },
+    {
+      "id": "34.1",
+      "text": "He murmurs, 'Hercule's laborious feats... Yes, that's a good idea, that...'",
+      "level": 2
+    },
+    {
+      "id": "35",
+      "text": "The next day, Poirot pores over a large calf-bound book and other thinner works.",
+      "level": 1
+    },
+    {
+      "id": "35.1",
+      "text": "He occasionally glances at typed notes.",
+      "level": 2
+    },
+    {
+      "id": "36",
+      "text": "He instructs his secretary, Miss Lemon, to gather all information on the theme of Hercules.",
+      "level": 1
+    },
+    {
+      "id": "37",
+      "text": "Miss Lemon efficiently completes the task.",
+      "level": 1
+    },
+    {
+      "id": "38",
+      "text": "Poirot immerses himself in the dazzling sea of ancient legends, particularly about Hercules, a famous hero who ascended to the gods.",
+      "level": 1
+    },
+    {
+      "id": "39",
+      "text": "Everything goes smoothly at first.",
+      "level": 1
+    },
+    {
+      "id": "40",
+      "text": "Poirot diligently reads for two hours, taking notes, frowning, and consulting references.",
+      "level": 1
+    },
+    {
+      "id": "40.1",
+      "text": "The pang of yesterday evening is gone.",
+      "level": 2
+    },
+    {
+      "id": "41",
+      "text": "He is struck by the nature of these figures.",
+      "level": 1
+    },
+    {
+      "id": "41.1",
+      "text": "Hercules, the hero, is described as a muscle-bound, unintelligent, and criminal brute.",
+      "level": 2
+    },
+    {
+      "id": "41.2",
+      "text": "This reminds Poirot of a butcher named Adolphe Durand, tried in Lyon in 1895 for murdering children.",
+      "level": 2
+    },
+    {
+      "id": "41.3",
+      "text": "He reflects that ancient Greeks might judge Hercules as fully guilty.",
+      "level": 2
+    },
+    {
+      "id": "41.4",
+      "text": "Poirot finds the entire tone of ancient stories surprising.",
+      "level": 2
+    },
+    {
+      "id": "41.5",
+      "text": "The gods and goddesses seem to have many aliases, like modern criminals.",
+      "level": 2
+    },
+    {
+      "id": "41.6",
+      "text": "Their crimes include drunkenness, debauchery, incest, rape, robbery, murder, and fraud.",
+      "level": 2
+    },
+    {
+      "id": "41.7",
+      "text": "They lack decent family life, order, and even orderliness in their crimes.",
+      "level": 2
+    },
+    {
+      "id": "42",
+      "text": "'What a Herculean Hercules!' Hercule Poirot exclaims, standing up disheartened.",
+      "level": 1
+    },
+    {
+      "id": "43",
+      "text": "He surveys his surroundings approvingly.",
+      "level": 1
+    },
+    {
+      "id": "43.1",
+      "text": "His apartment is a square room with square furniture, even a modern sculpture is composed of squares.",
+      "level": 2
+    },
+    {
+      "id": "43.2",
+      "text": "He looks at himself in the mirror.",
+      "level": 2
+    },
+    {
+      "id": "43.3",
+      "text": "He sees a modern Hercule, unlike the brute with a club.",
+      "level": 2
+    },
+    {
+      "id": "43.4",
+      "text": "He is a small, sturdy man, dressed in the decent clothes of a city dweller, with a mustache he imagines Hercules never had.",
+      "level": 2
+    },
+    {
+      "id": "44",
+      "text": "However, Poirot and the ancient Hercules share a similarity: both have undoubtedly helped eliminate certain evils in the world.",
+      "level": 1
+    },
+    {
+      "id": "44.1",
+      "text": "Both can be considered benefactors to the societies they lived in.",
+      "level": 2
+    },
+    {
+      "id": "45",
+      "text": "He recalls Dr. Burton's remark: 'Your work is not Hercule's laborious feats.'",
+      "level": 1
+    },
+    {
+      "id": "46",
+      "text": "Poirot thinks Burton is wrong, calling him an 'old fossil'.",
+      "level": 1
+    },
+    {
+      "id": "46.1",
+      "text": "He decides Hercule's feats should be reenacted by a modern Hercule.",
+      "level": 2
+    },
+    {
+      "id": "46.2",
+      "text": "This idea appeals to his vanity, making it artistic and spiritual.",
+      "level": 2
+    },
+    {
+      "id": "46.3",
+      "text": "He resolves to take on twelve more cases before retiring, no more, no less.",
+      "level": 2
+    },
+    {
+      "id": "46.4",
+      "text": "These twelve selected cases must be related to the twelve labors of the ancient Hercules.",
+      "level": 2
+    },
+    {
+      "id": "47",
+      "text": "Poirot picks up a classical dictionary and immerses himself in ancient legends again.",
+      "level": 1
+    },
+    {
+      "id": "48",
+      "text": "He does not intend to imitate the archetype entirely.",
+      "level": 1
+    },
+    {
+      "id": "48.1",
+      "text": "He will exclude romantic entanglements and the shirt of Nessus, focusing only on the feats.",
+      "level": 2
+    },
+    {
+      "id": "49",
+      "text": "The first labor is to kill the Nemean Lion.",
+      "level": 1
+    },
+    {
+      "id": "50",
+      "text": "He repeats 'Nemean Lion.'",
+      "level": 1
+    },
+    {
+      "id": "51",
+      "text": "He doesn't expect a case involving a literal lion.",
+      "level": 1
+    },
+    {
+      "id": "51.1",
+      "text": "He imagines it would be too coincidental for a zoo director to hire him for a case involving a live lion.",
+      "level": 2
+    },
+    {
+      "id": "52",
+      "text": "The case should be symbolic.",
+      "level": 1
+    },
+    {
+      "id": "52.1",
+      "text": "The first case should involve a prominent social figure, be exciting, and crucial.",
+      "level": 2
+    },
+    {
+      "id": "52.2",
+      "text": "It should be a clever criminal, or one who is a 'lion' in the public eye.",
+      "level": 2
+    },
+    {
+      "id": "52.3",
+      "text": "Examples include a famous writer, politician, artist, or even royalty.",
+      "level": 2
+    },
+    {
+      "id": "53",
+      "text": "He likes the idea of royalty.",
+      "level": 1
+    },
+    {
+      "id": "54",
+      "text": "He doesn't need to rush.",
+      "level": 1
+    },
+    {
+      "id": "54.1",
+      "text": "He can wait for an extremely important case to become his first voluntary great feat.",
+      "level": 2
+    },
+    {
+      "id": "55",
+      "text": "Chapter 1: The Nemean Lion.",
+      "level": 1
+    },
+    {
+      "id": "56",
+      "text": "Poirot asks Miss Lemon if there is anything interesting this morning.",
+      "level": 1
+    },
+    {
+      "id": "57",
+      "text": "He trusts Miss Lemon's intuition.",
+      "level": 1
+    },
+    {
+      "id": "57.1",
+      "text": "She is an efficient secretary and a good judge of character.",
+      "level": 2
+    },
+    {
+      "id": "58",
+      "text": "Miss Lemon mentions a letter she believes Poirot will find interesting, placed on top of the file.",
+      "level": 1
+    },
+    {
+      "id": "59",
+      "text": "Poirot asks what it is, stepping forward with interest.",
+      "level": 1
+    },
+    {
+      "id": "60",
+      "text": "Miss Lemon states it's a request from a man to investigate the disappearance of his wife's Pekingese dog.",
+      "level": 1
+    },
+    {
+      "id": "61",
+      "text": "Poirot is stunned.",
+      "level": 1
+    },
+    {
+      "id": "61.1",
+      "text": "He glances disapprovingly at Miss Lemon, who is typing at great speed.",
+      "level": 2
+    },
+    {
+      "id": "62",
+      "text": "Poirot is furious and annoyed, disappointed by his efficient secretary.",
+      "level": 1
+    },
+    {
+      "id": "62.1",
+      "text": "He is particularly upset that this happens after his dream of being honored at Buckingham Palace, interrupted by his manservant bringing hot chocolate.",
+      "level": 2
+    },
+    {
+      "id": "63",
+      "text": "A sarcastic remark is on the tip of his tongue, but he refrains from speaking.",
+      "level": 1
+    },
+    {
+      "id": "63.1",
+      "text": "Miss Lemon's rapid typing suggests she wouldn't hear it anyway.",
+      "level": 2
+    },
+    {
+      "id": "64",
+      "text": "Poirot picks up the letter with displeasure.",
+      "level": 1
+    },
+    {
+      "id": "65",
+      "text": "The letter is from a city address, a businesslike, brief, and vulgar request to investigate the kidnapping of a Pekingese.",
+      "level": 1
+    },
+    {
+      "id": "65.1",
+      "text": "It's the pampered pet of a wealthy woman.",
+      "level": 2
+    },
+    {
+      "id": "66",
+      "text": "Poirot purses his lips contemptuously as he reads.",
+      "level": 1
+    },
+    {
+      "id": "67",
+      "text": "The case is not strange or unusual, except for one small detail where Miss Lemon was correct.",
+      "level": 1
+    },
+    {
+      "id": "68",
+      "text": "Poirot sits down and re-reads the letter carefully.",
+      "level": 1
+    },
+    {
+      "id": "69",
+      "text": "This is not the type of case he normally handles or expects to handle.",
+      "level": 1
+    },
+    {
+      "id": "69.1",
+      "text": "It's not important from any angle.",
+      "level": 2
+    },
+    {
+      "id": "69.2",
+      "text": "He dislikes the case because its solution would not be comparable to Hercule's achievements.",
+      "level": 2
+    },
+    {
+      "id": "70",
+      "text": "Yet, he feels curious.",
+      "level": 1
+    },
+    {
+      "id": "71",
+      "text": "He raises his voice to be heard over Miss Lemon's typewriter.",
+      "level": 1
+    },
+    {
+      "id": "71.1",
+      "text": "He instructs Miss Lemon to call Sir Joseph Hoggin and arrange an appointment for a personal interview.",
+      "level": 2
+    },
+    {
+      "id": "72",
+      "text": "Miss Lemon's judgment is correct as usual.",
+      "level": 1
+    },
+    {
+      "id": "73",
+      "text": "Sir Joseph Hoggin describes himself as an ordinary man.",
+      "level": 1
+    },
+    {
+      "id": "74",
+      "text": "Poirot makes a gesture that could be interpreted as approval of his humility or disagreement with his statement.",
+      "level": 1
+    },
+    {
+      "id": "74.1",
+      "text": "Poirot's primary thought is that Sir Joseph is a very insignificant person.",
+      "level": 2
+    },
+    {
+      "id": "74.2",
+      "text": "He scrutinizes Sir Joseph's protruding chin, small, sunken eyes, bulbous nose, and tight lips.",
+      "level": 2
+    },
+    {
+      "id": "74.3",
+      "text": "The overall impression reminds him of something or someone from the past, possibly related to soap in Belgium.",
+      "level": 2
+    },
+    {
+      "id": "75",
+      "text": "Sir Joseph continues, stating he doesn't put on airs and is direct.",
+      "level": 1
+    },
+    {
+      "id": "75.1",
+      "text": "He notes most people would dismiss such a matter as a bad debt, but not him.",
+      "level": 2
+    },
+    {
+      "id": "75.2",
+      "text": "He claims to be wealthy, so £200 isn't significant, but he doesn't throw money away.",
+      "level": 2
+    },
+    {
+      "id": "75.3",
+      "text": "He pays the market price and no more.",
+      "level": 2
+    },
+    {
+      "id": "76",
+      "text": "Poirot interjects, congratulating him.",
+      "level": 1
+    },
+    {
+      "id": "77",
+      "text": "Sir Joseph pauses, narrowing his eyes, and emphasizes he doesn't throw money away.",
+      "level": 1
+    },
+    {
+      "id": "78",
+      "text": "Poirot asks if he realizes his fees are high.",
+      "level": 1
+    },
+    {
+      "id": "79",
+      "text": "Sir Joseph acknowledges this but calls the case a small matter.",
+      "level": 1
+    },
+    {
+      "id": "80",
+      "text": "Poirot states he never bargains and is a specialist whose services command a high price.",
+      "level": 1
+    },
+    {
+      "id": "81",
+      "text": "Sir Joseph admits he knows Poirot is the best for such cases and was recommended.",
+      "level": 1
+    },
+    {
+      "id": "81.1",
+      "text": "He is determined to get to the bottom of the matter, regardless of cost.",
+      "level": 2
+    },
+    {
+      "id": "82",
+      "text": "Poirot says Sir Joseph is lucky.",
+      "level": 1
+    },
+    {
+      "id": "83",
+      "text": "Sir Joseph agrees.",
+      "level": 1
+    },
+    {
+      "id": "84",
+      "text": "Poirot elaborates, saying he is at the peak of his career and plans to retire soon to the country, travel, and cultivate vegetables.",
+      "level": 1
+    },
+    {
+      "id": "84.1",
+      "text": "He reiterates his decision to take on twelve more cases before retiring, calling it a Herculean task.",
+      "level": 2
+    },
+    {
+      "id": "84.2",
+      "text": "He declares Sir Joseph's case to be the first of the twelve, finding its insignificance attractive.",
+      "level": 2
+    },
+    {
+      "id": "85",
+      "text": "Sir Joseph asks if it's important.",
+      "level": 1
+    },
+    {
+      "id": "86",
+      "text": "Poirot clarifies he meant insignificant, having handled murders, mysterious deaths, thefts, and jewel robberies, but never a Pekingese kidnapping.",
+      "level": 1
+    },
+    {
+      "id": "87",
+      "text": "Sir Joseph mutters, expressing surprise and suggesting Poirot hasn't encountered women obsessing over their dogs.",
+      "level": 1
+    },
+    {
+      "id": "88",
+      "text": "Poirot admits he hasn't had husbands hire him for such cases.",
+      "level": 1
+    },
+    {
+      "id": "89",
+      "text": "Sir Joseph narrows his eyes gratefully, recognizing Poirot's shrewdness.",
+      "level": 1
+    },
+    {
+      "id": "90",
+      "text": "Poirot asks for the details of the case, specifically when the dog went missing.",
+      "level": 1
+    },
+    {
+      "id": "91",
+      "text": "Sir Joseph replies, exactly a week ago.",
+      "level": 1
+    },
+    {
+      "id": "92",
+      "text": "Poirot assumes his wife must be frantic.",
+      "level": 1
+    },
+    {
+      "id": "93",
+      "text": "Sir Joseph's eyes widen, stating the dog has been returned.",
+      "level": 1
+    },
+    {
+      "id": "94",
+      "text": "Poirot asks why he is being hired then.",
+      "level": 1
+    },
+    {
+      "id": "95",
+      "text": "Sir Joseph's face turns red.",
+      "level": 1
+    },
+    {
+      "id": "95.1",
+      "text": "He explains that someone is trying to defraud him.",
+      "level": 2
+    },
+    {
+      "id": "95.2",
+      "text": "The dog was stolen a week ago by someone cutting its lead while the companion took it to Kensington Park.",
+      "level": 2
+    },
+    {
+      "id": "95.3",
+      "text": "The next day, his wife received a demand for £200 to get the dog back.",
+      "level": 2
+    },
+    {
+      "id": "95.4",
+      "text": "Poirot questions if he refused to pay.",
+      "level": 2
+    },
+    {
+      "id": "95.5",
+      "text": "Sir Joseph explains that his wife, Millie, was resourceful and sent the money (in one-pound notes) without telling him.",
+      "level": 2
+    },
+    {
+      "id": "95.6",
+      "text": "The dog was returned that evening, found on the doorstep without anyone being seen.",
+      "level": 2
+    },
+    {
+      "id": "96",
+      "text": "Sir Joseph continues, admitting he was angry when Millie confessed, but calmed down.",
+      "level": 1
+    },
+    {
+      "id": "96.1",
+      "text": "He states one cannot expect a woman to act rationally in such situations.",
+      "level": 2
+    },
+    {
+      "id": "96.2",
+      "text": "He only decided to act after meeting old Samson at his club, who had a similar experience and was extorted for £300.",
+      "level": 2
+    },
+    {
+      "id": "97",
+      "text": "Sir Joseph sees it as a pure blackmail swindle and wants to stop it.",
+      "level": 1
+    },
+    {
+      "id": "98",
+      "text": "Poirot suggests the most appropriate and cheapest method is to report it to the police.",
+      "level": 1
+    },
+    {
+      "id": "99",
+      "text": "Sir Joseph rubs his nose and asks if Poirot is married.",
+      "level": 1
+    },
+    {
+      "id": "100",
+      "text": "Poirot replies he doesn't have that good fortune.",
+      "level": 1
+    },
+    {
+      "id": "101",
+      "text": "Sir Joseph remarks that explains it, as married women are comical, and his wife would have hysterics at the mention of police, fearing for her dog, Shan-Shan.",
+      "level": 1
+    },
+    {
+      "id": "101.1",
+      "text": "His wife reluctantly agreed to hiring Poirot, but doesn't like it.",
+      "level": 2
+    },
+    {
+      "id": "102",
+      "text": "Poirot softly says it's difficult and he should meet Lady Hoggin to get more details and reassure her about her dog's safety.",
+      "level": 1
+    },
+    {
+      "id": "103",
+      "text": "Sir Joseph nods and offers to drive him there.",
+      "level": 1
+    },
+    {
+      "id": "104",
+      "text": "Chapter 2: The Lernaean Hydra.",
+      "level": 1
+    },
+    {
+      "id": "105",
+      "text": "Two women are sitting in a large, stuffy, over-decorated drawing-room.",
+      "level": 1
+    },
+    {
+      "id": "106",
+      "text": "As Sir Joseph and Hercule Poirot enter, a Pekingese dog runs forward and barks furiously, circling Poirot's feet.",
+      "level": 1
+    },
+    {
+      "id": "107",
+      "text": "Lady Hoggin calls the dog, Shan-Shan, and asks Miss Cannaby to pick it up.",
+      "level": 1
+    },
+    {
+      "id": "108",
+      "text": "Poirot whispers that the dog is like a lion.",
+      "level": 1
+    },
+    {
+      "id": "109",
+      "text": "The woman catching Shan-Shan, breathless, agrees it's a good guard dog, unafraid of anyone.",
+      "level": 1
+    },
+    {
+      "id": "110",
+      "text": "After introductions, Sir Joseph nods and leaves the room.",
+      "level": 1
+    },
+    {
+      "id": "111",
+      "text": "Lady Hoggin is a short, stout woman with a bad temper and dyed red hair.",
+      "level": 1
+    },
+    {
+      "id": "111.1",
+      "text": "Her anxious companion, Miss Cannaby, is a kind, plump woman between forty and fifty.",
+      "level": 2
+    },
+    {
+      "id": "111.2",
+      "text": "Miss Cannaby respects Lady Hoggin and is clearly afraid of her.",
+      "level": 2
+    },
+    {
+      "id": "112",
+      "text": "Poirot asks Lady Hoggin to recount the whole incident of the crime.",
+      "level": 1
+    },
+    {
+      "id": "113",
+      "text": "Lady Hoggin blushes, pleased that Poirot calls it a crime.",
+      "level": 1
+    },
+    {
+      "id": "113.1",
+      "text": "She states Pekingese are sensitive like children, and poor Shan-Shan must have been terrified.",
+      "level": 2
+    },
+    {
+      "id": "114",
+      "text": "Miss Cannaby breathlessly agrees it was wicked.",
+      "level": 1
+    },
+    {
+      "id": "115",
+      "text": "Poirot asks for the facts.",
+      "level": 1
+    },
+    {
+      "id": "116",
+      "text": "Lady Hoggin begins: Shan-Shan was with Miss Cannaby in the park.",
+      "level": 1
+    },
+    {
+      "id": "117",
+      "text": "Miss Cannaby interjects that it was her fault, that she was clumsy and careless.",
+      "level": 1
+    },
+    {
+      "id": "118",
+      "text": "Lady Hoggin sharply replies she doesn't want to blame her but thinks she should have been more alert.",
+      "level": 1
+    },
+    {
+      "id": "119",
+      "text": "Poirot turns his attention to Miss Cannaby.",
+      "level": 1
+    },
+    {
+      "id": "120",
+      "text": "He asks what happened.",
+      "level": 1
+    },
+    {
+      "id": "121",
+      "text": "Miss Cannaby speaks volubly and agitatedly.",
+      "level": 1
+    },
+    {
+      "id": "121.1",
+      "text": "She describes walking along a flower path with Shan-Shan ahead.",
+      "level": 2
+    },
+    {
+      "id": "121.2",
+      "text": "She was attracted by a baby in a perambulator, who smiled at her.",
+      "level": 2
+    },
+    {
+      "id": "121.3",
+      "text": "She chatted with the nanny for a minute or two.",
+      "level": 2
+    },
+    {
+      "id": "121.4",
+      "text": "When she looked back, Shan-Shan was gone, and the dog's lead had been cut.",
+      "level": 2
+    },
+    {
+      "id": "122",
+      "text": "Lady Hoggin interrupts, saying if Miss Cannaby had been doing her job properly, no one would have cut the lead.",
+      "level": 1
+    },
+    {
+      "id": "123",
+      "text": "Miss Cannaby looks as if she's about to cry.",
+      "level": 1
+    },
+    {
+      "id": "124",
+      "text": "Poirot quickly intervenes, asking what happened next.",
+      "level": 1
+    },
+    {
+      "id": "125",
+      "text": "Miss Cannaby describes searching everywhere and calling out, asking a park attendant who saw nothing.",
+      "level": 1
+    },
+    {
+      "id": "126",
+      "text": "Lady Hoggin takes over, stating the letter arrived the next morning.",
+      "level": 1
+    },
+    {
+      "id": "126.1",
+      "text": "It demanded £200 in one-pound notes be sent to Captain Curtis at 38 Bloomsbury Square, or Shan-Shan's ears and tail would be cut off.",
+      "level": 2
+    },
+    {
+      "id": "127",
+      "text": "Miss Cannaby begins to sob loudly, remarking on the wickedness of people.",
+      "level": 1
+    },
+    {
+      "id": "128",
+      "text": "Lady Hoggin continues, stating the letter promised Shan-Shan's safe return that evening if the money was sent immediately.",
+      "level": 1
+    },
+    {
+      "id": "128.1",
+      "text": "It also warned that Shan-Shan would pay the price if the police were involved later.",
+      "level": 2
+    },
+    {
+      "id": "129",
+      "text": "Miss Cannaby tearfully mutters that she is still afraid, and Poirot is not entirely police.",
+      "level": 1
+    },
+    {
+      "id": "130",
+      "text": "Lady Hoggin anxiously tells Poirot he must be very careful.",
+      "level": 1
+    },
+    {
+      "id": "131",
+      "text": "Poirot reassures her, stating he is not from the police, will proceed cautiously and quietly, and guarantees Shan-Shan's safety.",
+      "level": 1
+    },
+    {
+      "id": "132",
+      "text": "The two women seem relieved by his assurance.",
+      "level": 1
+    },
+    {
+      "id": "133",
+      "text": "Poirot asks if they still have the letter.",
+      "level": 1
+    },
+    {
+      "id": "134",
+      "text": "Lady Hoggin shook her head, as the letter had to be returned with the payment.",
+      "level": 1
+    },
+    {
+      "id": "135",
+      "text": "Poirot says, 'What a pity.'",
+      "level": 1
+    },
+    {
+      "id": "136",
+      "text": "Miss Cannaby brightly mentions she kept the dog's lead and asks if she should fetch it.",
+      "level": 1
+    },
+    {
+      "id": "137",
+      "text": "While Miss Cannaby is gone, Poirot asks Lady Hoggin about her.",
+      "level": 1
+    },
+    {
+      "id": "137.1",
+      "text": "Lady Hoggin describes Miss Cannaby as good-hearted but a bit muddled.",
+      "level": 2
+    },
+    {
+      "id": "137.2",
+      "text": "She has hired several companions, all fools, but Miss Cannaby likes Shan-Shan and is upset by the incident.",
+      "level": 2
+    },
+    {
+      "id": "137.3",
+      "text": "Lady Hoggin believes Miss Cannaby might have been chatting with others while neglecting the dog, as old maids tend to do.",
+      "level": 2
+    },
+    {
+      "id": "137.4",
+      "text": "She is certain Miss Cannaby is not involved in the incident.",
+      "level": 2
+    },
+    {
+      "id": "138",
+      "text": "Poirot agrees it doesn't seem so, but the dog was lost while in her care, so her loyalty must be ascertained.",
+      "level": 1
+    },
+    {
+      "id": "138.1",
+      "text": "He asks how long she has been employed.",
+      "level": 2
+    },
+    {
+      "id": "139",
+      "text": "Lady Hoggin replies nearly a year.",
+      "level": 1
+    },
+    {
+      "id": "139.1",
+      "text": "Miss Cannaby had a good character reference, having worked for the late Mrs. Hartfield for ten years.",
+      "level": 2
+    },
+    {
+      "id": "139.2",
+      "text": "After Mrs. Hartfield's death, she nursed a sick nun.",
+      "level": 2
+    },
+    {
+      "id": "139.3",
+      "text": "Lady Hoggin reiterates she is a good person but a great fool.",
+      "level": 2
+    },
+    {
+      "id": "140",
+      "text": "Miss Cannaby returns, breathless and serious, handing the cut dog lead to Poirot with great hope.",
+      "level": 1
+    },
+    {
+      "id": "141",
+      "text": "Poirot examines it and states it was indeed cut.",
+      "level": 1
+    },
+    {
+      "id": "142",
+      "text": "The two women wait expectantly.",
+      "level": 1
+    },
+    {
+      "id": "143",
+      "text": "Poirot says, 'I shall keep this then.'",
+      "level": 1
+    },
+    {
+      "id": "144",
+      "text": "He solemnly puts it in his pocket.",
+      "level": 1
+    },
+    {
+      "id": "145",
+      "text": "The women sigh with relief, as he is doing what they expected.",
+      "level": 1
+    },
+    {
+      "id": "146",
+      "text": "Chapter 3.",
+      "level": 1
+    },
+    {
+      "id": "147",
+      "text": "Hercule Poirot makes it a point to verify everything.",
+      "level": 1
+    },
+    {
+      "id": "148",
+      "text": "Despite Miss Cannaby's apparent foolishness, Poirot manages to interview a somewhat formidable lady, the niece of the late Mrs. Hartfield.",
+      "level": 1
+    },
+    {
+      "id": "149",
+      "text": "Miss Maltravas clearly remembers Amy Cannaby, describing her as good-hearted, obedient to Aunt Julia, fond of dogs, and able to read aloud.",
+      "level": 1
+    },
+    {
+      "id": "149.1",
+      "text": "She was tactful and never contradicted her patients.",
+      "level": 2
+    },
+    {
+      "id": "149.2",
+      "text": "She expresses hope that nothing unfortunate has happened.",
+      "level": 2
+    },
+    {
+      "id": "149.3",
+      "text": "She recalls recommending her a year ago to a Mrs. Ho...",
+      "level": 2
+    },
+    {
+      "id": "150",
+      "text": "Poirot explains Miss Cannaby is still employed but had trouble with a lost dog recently.",
+      "level": 1
+    },
+    {
+      "id": "151",
+      "text": "Miss Maltravas confirms Amy Cannaby doted on dogs.",
+      "level": 1
+    },
+    {
+      "id": "151.1",
+      "text": "Her aunt had a Pekingese which was left to Miss Cannaby upon her death.",
+      "level": 2
+    },
+    {
+      "id": "151.2",
+      "text": "Miss Cannaby was heartbroken when that dog died.",
+      "level": 2
+    },
+    {
+      "id": "151.3",
+      "text": "She reiterates Miss Cannaby is a good person, though not very intelligent.",
+      "level": 2
+    },
+    {
+      "id": "152",
+      "text": "Hercule Poirot agrees that Miss Cannaby cannot be described as intelligent.",
+      "level": 1
+    },
+    {
+      "id": "153",
+      "text": "Next, Poirot seeks out the park attendant who spoke with Miss Cannaby on the day of the incident.",
+      "level": 1
+    },
+    {
+      "id": "154",
+      "text": "The attendant remembers the event.",
+      "level": 1
+    },
+    {
+      "id": "154.1",
+      "text": "He describes a middle-aged, plump woman, a regular visitor, who lost her Pekingese.",
+      "level": 2
+    },
+    {
+      "id": "154.2",
+      "text": "She asked if he had seen anyone take a Pekingese.",
+      "level": 2
+    },
+    {
+      "id": "154.3",
+      "text": "He states the park has many dogs of all breeds, and he wouldn't notice one Pekingese specifically.",
+      "level": 2
+    },
+    {
+      "id": "155",
+      "text": "Hercule Poirot nods thoughtfully.",
+      "level": 1
+    },
+    {
+      "id": "156",
+      "text": "He then goes to 38 Bloomsbury Square.",
+      "level": 1
+    },
+    {
+      "id": "157",
+      "text": "Numbers 38, 39, and 40 are combined into the private Balaclava Hotel.",
+      "level": 1
+    },
+    {
+      "id": "158",
+      "text": "Poirot enters the dark, dimly lit hall with the smell of boiled cabbage and kippers.",
+      "level": 1
+    },
+    {
+      "id": "158.1",
+      "text": "A table with a sad-looking chrysanthemum has a partitioned mail rack covered with green baize.",
+      "level": 2
+    },
+    {
+      "id": "158.2",
+      "text": "Poirot glances at the rack thoughtfully.",
+      "level": 2
+    },
+    {
+      "id": "158.3",
+      "text": "He enters the lounge on the right, furnished with small tables and 'easy' chairs covered with depressing chintz.",
+      "level": 2
+    },
+    {
+      "id": "158.4",
+      "text": "Three old ladies and a fierce-looking old man stare malevolently at the intruder.",
+      "level": 2
+    },
+    {
+      "id": "158.5",
+      "text": "Poirot withdraws awkwardly.",
+      "level": 2
+    },
+    {
+      "id": "159",
+      "text": "He walks down the corridor to the staircase.",
+      "level": 1
+    },
+    {
+      "id": "159.1",
+      "text": "To the right, a small passage leads to what is clearly a dining room.",
+      "level": 2
+    },
+    {
+      "id": "160",
+      "text": "Further down the passage is a door marked 'Office'.",
+      "level": 1
+    },
+    {
+      "id": "161",
+      "text": "Poirot knocks gently and opens the door, looking inside.",
+      "level": 1
+    },
+    {
+      "id": "161.1",
+      "text": "The room has a large desk with papers, but no one is there.",
+      "level": 2
+    },
+    {
+      "id": "162",
+      "text": "He withdraws, closes the door, and walks into the dining room.",
+      "level": 1
+    },
+    {
+      "id": "163",
+      "text": "A sad-looking girl in a dirty apron is setting the table.",
+      "level": 1
+    },
+    {
+      "id": "164",
+      "text": "Poirot apologetically asks to see the manageress.",
+      "level": 1
+    },
+    {
+      "id": "165",
+      "text": "The girl looks at him blankly and says she doesn't know where the manageress is.",
+      "level": 1
+    },
+    {
+      "id": "166",
+      "text": "Poirot points out that the office was empty.",
+      "level": 1
+    },
+    {
+      "id": "167",
+      "text": "The girl reiterates she doesn't know where she is now.",
+      "level": 1
+    },
+    {
+      "id": "168",
+      "text": "Poirot patiently insists she try to find her.",
+      "level": 1
+    },
+    {
+      "id": "169",
+      "text": "The girl sighs, burdened by this new task.",
+      "level": 1
+    },
+    {
+      "id": "170",
+      "text": "Poirot thanks her and returns to the passage, avoiding the lounge.",
+      "level": 1
+    },
+    {
+      "id": "171",
+      "text": "He looks up at the mail rack and hears a rustling of skirts and the strong scent of Devonshire violets, indicating the manageress has arrived.",
+      "level": 1
+    },
+    {
+      "id": "172",
+      "text": "Mrs. Hart courteously apologizes for not being in the office and asks if he wants a room.",
+      "level": 1
+    },
+    {
+      "id": "173",
+      "text": "Poirot replies he is inquiring about a friend, Captain Curtis, who might have stayed there.",
+      "level": 1
+    },
+    {
+      "id": "174",
+      "text": "Mrs. Hart is surprised and tries to recall the name.",
+      "level": 1
+    },
+    {
+      "id": "175",
+      "text": "Poirot reminds her no further.",
+      "level": 1
+    },
+    {
+      "id": "176",
+      "text": "She shakes her head, stating no Captain Curtis has stayed there recently, but the name sounds familiar.",
+      "level": 1
+    },
+    {
+      "id": "176.1",
+      "text": "She asks for a description of the friend.",
+      "level": 2
+    },
+    {
+      "id": "177",
+      "text": "Poirot says it's difficult to describe.",
+      "level": 1
+    },
+    {
+      "id": "177.1",
+      "text": "He then asks if mail is sometimes delivered for people not staying there.",
+      "level": 2
+    },
+    {
+      "id": "178",
+      "text": "Mrs. Hart confirms this happens.",
+      "level": 1
+    },
+    {
+      "id": "179",
+      "text": "She explains they keep such mail for a while, but if unclaimed, it's returned to the post office.",
+      "level": 1
+    },
+    {
+      "id": "180",
+      "text": "Poirot understands.",
+      "level": 1
+    },
+    {
+      "id": "180.1",
+      "text": "He adds that he wrote a letter to a friend there.",
+      "level": 2
+    },
+    {
+      "id": "181",
+      "text": "Mrs. Hart's expression brightens.",
+      "level": 1
+    },
+    {
+      "id": "181.1",
+      "text": "She recalls seeing the name Curtis on an envelope and mentions many retired military men stay there.",
+      "level": 2
+    },
+    {
+      "id": "181.2",
+      "text": "She offers to check.",
+      "level": 2
+    },
+    {
+      "id": "182",
+      "text": "Poirot states the letter is not there.",
+      "level": 1
+    },
+    {
+      "id": "183",
+      "text": "Mrs. Hart believes it was returned to the postman and apologizes.",
+      "level": 1
+    },
+    {
+      "id": "184",
+      "text": "Poirot dismisses it as not important.",
+      "level": 1
+    },
+    {
+      "id": "185",
+      "text": "He turns to leave, Mrs. Hart following with her strong violet perfume.",
+      "level": 1
+    },
+    {
+      "id": "186",
+      "text": "She mentions her reasonable rates and invites him to see rooms.",
+      "level": 1
+    },
+    {
+      "id": "187",
+      "text": "Poirot has difficulty disengaging himself.",
+      "level": 1
+    },
+    {
+      "id": "188",
+      "text": "Chapter 4.",
+      "level": 1
+    },
+    {
+      "id": "189",
+      "text": "Mrs. Samson's drawing-room is larger and more luxuriously furnished than Lady Hoggin's, and warmer.",
+      "level": 1
+    },
+    {
+      "id": "190",
+      "text": "Poirot navigates through ornate tables and sculptures.",
+      "level": 1
+    },
+    {
+      "id": "191",
+      "text": "Mrs. Samson is taller than Lady Hoggin, with bleached hair.",
+      "level": 1
+    },
+    {
+      "id": "191.1",
+      "text": "Her Pekingese, Nan-Kai-Po, scrutinizes Poirot arrogantly.",
+      "level": 2
+    },
+    {
+      "id": "191.2",
+      "text": "Mrs. Samson's companion, Miss Kibble, is thin and dry.",
+      "level": 2
+    },
+    {
+      "id": "191.3",
+      "text": "Miss Cannaby, though plump, is also talkative and breathless.",
+      "level": 2
+    },
+    {
+      "id": "191.4",
+      "text": "She was also blamed for Nan-Kai-Po's disappearance.",
+      "level": 2
+    },
+    {
+      "id": "192",
+      "text": "Miss Kibble describes the incident as astonishing, happening in an instant outside Harrods.",
+      "level": 1
+    },
+    {
+      "id": "192.1",
+      "text": "A nurse asked her the time.",
+      "level": 2
+    },
+    {
+      "id": "193",
+      "text": "Poirot interrupts, asking if it was a hospital nurse.",
+      "level": 1
+    },
+    {
+      "id": "194",
+      "text": "Miss Kibble clarifies it was a nanny, and the baby was beautiful.",
+      "level": 1
+    },
+    {
+      "id": "195",
+      "text": "Chapter 2: The Lernaean Hydra.",
+      "level": 1
+    },
+    {
+      "id": "196",
+      "text": "Poirot encourages the man sitting opposite him.",
+      "level": 1
+    },
+    {
+      "id": "197",
+      "text": "Dr. Charles Oldfield, around forty, has pale hair, receding grey at the temples, and blue eyes with a melancholy look.",
+      "level": 1
+    },
+    {
+      "id": "197.1",
+      "text": "He is slightly stooped, hesitant, and finds it difficult to explain his intentions.",
+      "level": 2
+    },
+    {
+      "id": "198",
+      "text": "He stammers that he came with a peculiar request but is now afraid to tell the whole story, believing no one can help.",
+      "level": 1
+    },
+    {
+      "id": "199",
+      "text": "Poirot states that judgment is his role.",
+      "level": 1
+    },
+    {
+      "id": "200",
+      "text": "Oldfield mumbles that he doesn't know why he thought...",
+      "level": 1
+    },
+    {
+      "id": "201",
+      "text": "Poirot finishes his sentence, suggesting he can help and asking him to state his problem.",
+      "level": 1
+    },
+    {
+      "id": "202",
+      "text": "Oldfield straightens up, appearing haggard.",
+      "level": 1
+    },
+    {
+      "id": "203",
+      "text": "He says going to the police is useless, as they can't help.",
+      "level": 1
+    },
+    {
+      "id": "203.1",
+      "text": "The situation is getting worse daily.",
+      "level": 2
+    },
+    {
+      "id": "203.2",
+      "text": "He doesn't know what to do.",
+      "level": 2
+    },
+    {
+      "id": "204",
+      "text": "Poirot asks what is getting worse.",
+      "level": 1
+    },
+    {
+      "id": "205",
+      "text": "Oldfield explains it's the rumors; his wife died over a year ago after a long illness.",
+      "level": 1
+    },
+    {
+      "id": "205.1",
+      "text": "People are saying he poisoned her.",
+      "level": 2
+    },
+    {
+      "id": "206",
+      "text": "Poirot asks if he did poison her.",
+      "level": 1
+    },
+    {
+      "id": "207",
+      "text": "Dr. Oldfield jumps up.",
+      "level": 1
+    },
+    {
+      "id": "208",
+      "text": "Poirot tells him to calm down and sit down, accepting that he didn't poison his wife.",
+      "level": 1
+    },
+    {
+      "id": "208.1",
+      "text": "He presumes Oldfield practices in a small country town.",
+      "level": 2
+    },
+    {
+      "id": "209",
+      "text": "Oldfield confirms he practices in Loaborough Market, Berkshire.",
+      "level": 1
+    },
+    {
+      "id": "209.1",
+      "text": "He was aware of gossip but never expected it to reach this extent.",
+      "level": 2
+    },
+    {
+      "id": "209.2",
+      "text": "He describes the torment: people avoiding him, crossing the street, his practice declining, whispers, unfriendly looks, and malicious letters.",
+      "level": 2
+    },
+    {
+      "id": "210",
+      "text": "He is at a loss, feeling slowly and relentlessly destroyed.",
+      "level": 1
+    },
+    {
+      "id": "211",
+      "text": "Poirot nods thoughtfully, stating rumors are a Lernaean Hydra, impossible to eliminate as two grow back for every one cut off.",
+      "level": 1
+    },
+    {
+      "id": "212",
+      "text": "Oldfield agrees, feeling he has no recourse and that Poirot might also have no solution.",
+      "level": 1
+    },
+    {
+      "id": "213",
+      "text": "Poirot is not entirely sure but finds Oldfield's trouble interesting.",
+      "level": 1
+    },
+    {
+      "id": "213.1",
+      "text": "He is willing to try to destroy the multi-headed monster.",
+      "level": 2
+    },
+    {
+      "id": "213.2",
+      "text": "He asks for more details on how the rumors started.",
+      "level": 2
+    },
+    {
+      "id": "213.3",
+      "text": "He asks the cause of Mrs. Oldfield's death.",
+      "level": 2
+    },
+    {
+      "id": "214",
+      "text": "Oldfield replies, 'Stomach ulcer.'",
+      "level": 1
+    },
+    {
+      "id": "215",
+      "text": "Poirot asks about an autopsy.",
+      "level": 1
+    },
+    {
+      "id": "216",
+      "text": "Oldfield says no, as she had been ill for a long time.",
+      "level": 1
+    },
+    {
+      "id": "217",
+      "text": "Poirot nods, noting that symptoms of gastritis are similar to arsenic poisoning.",
+      "level": 1
+    },
+    {
+      "id": "217.1",
+      "text": "He mentions at least four sensational murder cases in the last decade where victims had indigestion diagnoses and were buried without suspicion.",
+      "level": 2
+    },
+    {
+      "id": "218",
+      "text": "Poirot asks Mrs. Oldfield's age relative to his.",
+      "level": 1
+    },
+    {
+      "id": "219",
+      "text": "Oldfield says she was five years older.",
+      "level": 1
+    },
+    {
+      "id": "220",
+      "text": "They were married for fifteen years.",
+      "level": 1
+    },
+    {
+      "id": "221",
+      "text": "Poirot asks if she left a fortune.",
+      "level": 1
+    },
+    {
+      "id": "222",
+      "text": "Oldfield confirms she was wealthy, leaving around £30,000.",
+      "level": 1
+    },
+    {
+      "id": "223",
+      "text": "Poirot asks if it was left to him.",
+      "level": 1
+    },
+    {
+      "id": "224",
+      "text": "Oldfield confirms it was.",
+      "level": 1
+    },
+    {
+      "id": "225",
+      "text": "Poirot asks if their relationship was good.",
+      "level": 1
+    },
+    {
+      "id": "226",
+      "text": "Oldfield replies it was good, but somewhat evasively.",
+      "level": 1
+    },
+    {
+      "id": "226.1",
+      "text": "He admits his wife was difficult, fussy about her health, often irritable, and hard to please.",
+      "level": 2
+    },
+    {
+      "id": "226.2",
+      "text": "There were days when nothing he did was right.",
+      "level": 2
+    },
+    {
+      "id": "227",
+      "text": "Poirot nods, understanding that she might have complained about not being cared for, misunderstood, and that her husband wished her dead.",
+      "level": 1
+    },
+    {
+      "id": "228",
+      "text": "Oldfield's expression confirms Poirot's deduction.",
+      "level": 1
+    },
+    {
+      "id": "229",
+      "text": "Poirot asks if a hospital nurse, companion, or personal maid was hired.",
+      "level": 1
+    },
+    {
+      "id": "230",
+      "text": "Oldfield mentions a dedicated nurse, a reasonable and capable woman, whom he trusts not to gossip.",
+      "level": 1
+    },
+    {
+      "id": "231",
+      "text": "Poirot disagrees, stating even reasonable people have tongues and don't always use them wisely.",
+      "level": 1
+    },
+    {
+      "id": "231.1",
+      "text": "He is certain the nurse said something, followed by the servants, leading to widespread gossip.",
+      "level": 2
+    },
+    {
+      "id": "231.2",
+      "text": "He asks who the lady is that Oldfield's name is associated with.",
+      "level": 2
+    },
+    {
+      "id": "232",
+      "text": "Oldfield, indignant, asks what he means.",
+      "level": 1
+    },
+    {
+      "id": "233",
+      "text": "Poirot softly clarifies he's asking about the woman involved.",
+      "level": 1
+    },
+    {
+      "id": "234",
+      "text": "Dr. Oldfield stands up, his face cold, stating no lady is involved and apologizing for taking Poirot's time.",
+      "level": 1
+    },
+    {
+      "id": "235",
+      "text": "He walks towards the door.",
+      "level": 1
+    },
+    {
+      "id": "236",
+      "text": "Poirot expresses regret, finding the case interesting and wishing to help, but explains he cannot without the full truth.",
+      "level": 1
+    },
+    {
+      "id": "237",
+      "text": "Oldfield insists he has told the truth.",
+      "level": 1
+    },
+    {
+      "id": "238",
+      "text": "Poirot says, 'Not entirely...'",
+      "level": 1
+    },
+    {
+      "id": "239",
+      "text": "Oldfield stops and turns, asking why Poirot insists a woman is involved.",
+      "level": 1
+    },
+    {
+      "id": "240",
+      "text": "Poirot replies that he understands feminine psychology, and village gossip usually centers on relationships between men and women.",
+      "level": 1
+    },
+    {
+      "id": "240.1",
+      "text": "He suggests that poisoning one's wife for solitary life or travel to the North Pole wouldn't interest villagers.",
+      "level": 2
+    },
+    {
+      "id": "240.2",
+      "text": "They would believe the crime was committed to marry another woman.",
+      "level": 2
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Hercule Poirot",
+      "frequency": 25,
+      "context": "The main protagonist, a detective with a modern apartment, specific habits, and a developing plan for retirement."
+    },
+    {
+      "name": "Dr. Burton",
+      "frequency": 17,
+      "context": "An academician, guest of Poirot, engaging in philosophical discussions about names, literature, and leisure."
+    },
+    {
+      "name": "Classical literature",
+      "frequency": 5,
+      "context": "A recurring theme, discussed as important for life and leisure, contrasting with Poirot's practical approach."
+    },
+    {
+      "name": "Hercules (Greek mythology)",
+      "frequency": 13,
+      "context": "A central reference point for Poirot's ambition to undertake twelve great 'feats' or cases."
+    },
+    {
+      "name": "Retirement",
+      "frequency": 6,
+      "context": "A future plan for Poirot, involving cultivating marrows and travelling."
+    },
+    {
+      "name": "Marrows (vegetables)",
+      "frequency": 4,
+      "context": "Poirot's proposed hobby in retirement, which Dr. Burton finds peculiar."
+    },
+    {
+      "name": "Nemean Lion",
+      "frequency": 3,
+      "context": "The first of the twelve labors of Hercules, serving as a symbolic inspiration for Poirot's first selected case."
+    },
+    {
+      "name": "Miss Lemon",
+      "frequency": 5,
+      "context": "Poirot's efficient secretary, who handles his administrative tasks."
+    },
+    {
+      "name": "Pekingese dog",
+      "frequency": 16,
+      "context": "The subject of the first investigated case, a lost pet belonging to a wealthy woman."
+    },
+    {
+      "name": "Sir Joseph Hoggin",
+      "frequency": 12,
+      "context": "The client in the Pekingese dog case, seemingly wealthy but practical and determined."
+    },
+    {
+      "name": "Lady Hoggin",
+      "frequency": 8,
+      "context": "Sir Joseph's wife, owner of the missing Pekingese, prone to anxiety and emotional reactions."
+    },
+    {
+      "name": "Miss Cannaby",
+      "frequency": 11,
+      "context": "Lady Hoggin's companion, responsible for the dog when it disappeared, described as kind but muddled."
+    },
+    {
+      "name": "Blackmail",
+      "frequency": 3,
+      "context": "The nature of the crime in the Pekingese dog case, involving a ransom demand."
+    },
+    {
+      "name": "Lernaean Hydra",
+      "frequency": 3,
+      "context": "The second of Hercules' labors, used metaphorically by Poirot to describe the nature of rumors and gossip."
+    },
+    {
+      "name": "Dr. Charles Oldfield",
+      "frequency": 16,
+      "context": "A doctor in a country town facing accusations of murdering his wife, seeking Poirot's help."
+    },
+    {
+      "name": "Rumors/Gossip",
+      "frequency": 7,
+      "context": "A significant problem faced by Dr. Oldfield, described as malicious and destructive."
+    },
+    {
+      "name": "Poisoning",
+      "frequency": 3,
+      "context": "The accusation against Dr. Oldfield, related to the symptoms of his wife's illness."
+    },
+    {
+      "name": "Captain Curtis",
+      "frequency": 2,
+      "context": "A name associated with an address in Bloomsbury Square, possibly a fake identity in the Pekingese case."
+    },
+    {
+      "name": "Mrs. Samson",
+      "frequency": 3,
+      "context": "Another dog owner who experienced a similar incident to Lady Hoggin."
+    },
+    {
+      "name": "Miss Kibble",
+      "frequency": 2,
+      "context": "Mrs. Samson's companion, involved in the incident of the missing dog."
+    }
+  ],
+  "relations": [
+    {
+      "source": "Hercule Poirot",
+      "target": "Dr. Burton",
+      "type": "conversation_with"
+    },
+    {
+      "source": "Hercule Poirot",
+      "target": "Classical literature",
+      "type": "opinion_on"
+    },
+    {
+      "source": "Dr. Burton",
+      "target": "Classical literature",
+      "type": "advocates_for"
+    },
+    {
+      "source": "Hercule Poirot",
+      "target": "Hercules (Greek mythology)",
+      "type": "inspiration_from"
+    },
+    {
+      "source": "Hercule Poirot",
+      "target": "Retirement",
+      "type": "plans_for"
+    },
+    {
+      "source": "Hercule Poirot",
+      "target": "Marrows (vegetables)",
+      "type": "interest_in"
+    },
+    {
+      "source": "Dr. Burton",
+      "target": "Marrows (vegetables)",
+      "type": "disparages"
+    },
+    {
+      "source": "Nemean Lion",
+      "target": "Hercule Poirot",
+      "type": "inspiration_for_case"
+    },
+    {
+      "source": "Hercule Poirot",
+      "target": "Miss Lemon",
+      "type": "delegates_to"
+    },
+    {
+      "source": "Pekingese dog",
+      "target": "Sir Joseph Hoggin",
+      "type": "owner_of"
+    },
+    {
+      "source": "Pekingese dog",
+      "target": "Lady Hoggin",
+      "type": "owner_of"
+    },
+    {
+      "source": "Pekingese dog",
+      "target": "Miss Cannaby",
+      "type": "care_of"
+    },
+    {
+      "source": "Pekingese dog",
+      "target": "Blackmail",
+      "type": "subject_of"
+    },
+    {
+      "source": "Sir Joseph Hoggin",
+      "target": "Hercule Poirot",
+      "type": "hires"
+    },
+    {
+      "source": "Lady Hoggin",
+      "target": "Pekingese dog",
+      "type": "dotes_on"
+    },
+    {
+      "source": "Miss Cannaby",
+      "target": "Pekingese dog",
+      "type": "cares_for"
+    },
+    {
+      "source": "Rumors/Gossip",
+      "target": "Dr. Charles Oldfield",
+      "type": "harms"
+    },
+    {
+      "source": "Lernaean Hydra",
+      "target": "Rumors/Gossip",
+      "type": "metaphor_for"
+    },
+    {
+      "source": "Dr. Charles Oldfield",
+      "target": "Hercule Poirot",
+      "type": "seeks_help_from"
+    },
+    {
+      "source": "Poisoning",
+      "target": "Dr. Charles Oldfield",
+      "type": "accusation_of"
+    },
+    {
+      "source": "Dr. Charles Oldfield",
+      "target": "Mrs. Oldfield",
+      "type": "husband_of"
+    },
+    {
+      "source": "Mrs. Oldfield",
+      "target": "Stomach ulcer",
+      "type": "suffered_from"
+    },
+    {
+      "source": "Captain Curtis",
+      "target": "38 Bloomsbury Square",
+      "type": "associated_with_address"
+    },
+    {
+      "source": "Mrs. Samson",
+      "target": "Pekingese dog",
+      "type": "owner_of"
+    },
+    {
+      "source": "Miss Kibble",
+      "target": "Mrs. Samson",
+      "type": "companion_of"
+    },
+    {
+      "source": "Miss Cannaby",
+      "target": "Mrs. Samson",
+      "type": "companion_of"
+    }
+  ],
+  "hierarchy": {
+    "main_topics": [
+      "Hercule Poirot's Philosophy and Plans",
+      "Case 1: The Nemean Lion (The Pekingese Dog)",
+      "Case 2: The Lernaean Hydra (The Doctor's Accusation)"
+    ],
+    "structure": "The document begins with an introductory scene establishing Poirot's character and his philosophical discussion with Dr. Burton. This leads to his conceptualization of a new series of twelve cases inspired by Hercules. The narrative then transitions into the first actual case, investigating a stolen Pekingese dog, which serves as the symbolic 'Nemean Lion' labor. Following this, the second case is introduced, where Dr. Oldfield seeks Poirot's help with damaging rumors, framed as the 'Lernaean Hydra' labor. Each case is presented with detailed investigations, interviews, and character interactions."
+  }
+}

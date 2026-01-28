@@ -1,0 +1,42 @@
+{
+  "apps": [
+    {
+      "name": "dual-chat-jet-daemon",
+      "script": "./dual-chat-jet-system.js",
+      "args": "--daemon",
+      "instances": 1,
+      "exec_mode": "fork",
+      "autorestart": true,
+      "watch": false,
+      "max_memory_restart": "500M",
+      "env": {
+        "NODE_ENV": "production",
+        "GEMINI_PRO_30": "AIzaSyA3ikY04T94AoAwndr20QxV9nl4w_NF_u4"
+      },
+      "log_date_format": "YYYY-MM-DD HH:mm:ss Z",
+      "error_file": "./logs/dual-jet-error.log",
+      "out_file": "./logs/dual-jet-out.log",
+      "merge_logs": true,
+      "cron_restart": "0 * * * *"
+    },
+    {
+      "name": "vector-jet-api",
+      "script": "./server.js",
+      "instances": 1,
+      "exec_mode": "fork",
+      "autorestart": true,
+      "watch": false,
+      "max_memory_restart": "300M",
+      "env": {
+        "NODE_ENV": "production",
+        "PORT": 8080,
+        "GEMINI_FREE_KEY": "",
+        "GEMINI_FREE_MODEL": "gemini-2.5-flash-lite"
+      },
+      "log_date_format": "YYYY-MM-DD HH:mm:ss Z",
+      "error_file": "./logs/api-error.log",
+      "out_file": "./logs/api-out.log",
+      "merge_logs": true
+    }
+  ]
+}

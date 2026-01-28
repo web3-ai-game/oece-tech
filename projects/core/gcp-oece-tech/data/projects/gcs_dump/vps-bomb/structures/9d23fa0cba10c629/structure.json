@@ -1,0 +1,15 @@
+{
+  "propositions": [
+    {
+      "id": "1",
+      "text": "Document: 一张俊美的脸_约瑟芬·铁伊_TXT小说天堂.txt",
+      "level": 1
+    }
+  ],
+  "concepts": [],
+  "relations": [],
+  "hierarchy": {
+    "main_topics": [],
+    "structure": "Basic structure (extraction failed)"
+  }
+}

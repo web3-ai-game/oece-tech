@@ -1,0 +1,46 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --primary: #00f0ff;
+  --secondary: #ff00ff;
+  --dark: #0a0a0f;
+  --card: #12121a;
+}
+
+body {
+  background: var(--dark);
+  color: white;
+  font-family: 'Inter', system-ui, sans-serif;
+}
+
+/* 賽博朋克風格 */
+.cyber-border {
+  border: 1px solid var(--primary);
+  box-shadow: 0 0 10px rgba(0, 240, 255, 0.3);
+}
+
+.cyber-glow {
+  text-shadow: 0 0 10px var(--primary), 0 0 20px var(--primary);
+}
+
+.cyber-btn {
+  @apply px-6 py-3 bg-gradient-to-r from-cyan-500 to-blue-600 rounded-lg font-bold;
+  @apply hover:from-cyan-400 hover:to-blue-500 transition-all duration-300;
+  @apply shadow-lg shadow-cyan-500/30 hover:shadow-cyan-500/50;
+}
+
+.cyber-input {
+  @apply w-full px-4 py-3 bg-gray-900/50 border border-cyan-500/30 rounded-lg;
+  @apply focus:border-cyan-400 focus:ring-2 focus:ring-cyan-500/20 outline-none;
+  @apply placeholder-gray-500 transition-all;
+}
+
+.glass-card {
+  @apply bg-gray-900/40 backdrop-blur-xl border border-white/10 rounded-2xl;
+}
+
+.gradient-text {
+  @apply bg-gradient-to-r from-cyan-400 via-blue-500 to-purple-500 bg-clip-text text-transparent;
+}

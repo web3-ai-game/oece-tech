@@ -1,0 +1,262 @@
+{
+  "propositions": [
+    {
+      "id": "1",
+      "text": "The document recounts the experiences of a couple, Dubens and Tommy, as they move into a new home and discover a mystery.",
+      "level": 1
+    },
+    {
+      "id": "1.1",
+      "text": "The narrative unfolds through dialogue and internal monologues, revealing their personalities and preoccupations.",
+      "level": 2
+    },
+    {
+      "id": "1.1.1",
+      "text": "Dubens, in particular, is shown to be sentimental and prone to reminiscing about her childhood and old books.",
+      "level": 3
+    },
+    {
+      "id": "1.1.2",
+      "text": "Tommy is portrayed as more pragmatic and concerned with the practicalities of their new life.",
+      "level": 3
+    },
+    {
+      "id": "2",
+      "text": "A central element of the story is the discovery of a mysterious message within an old book, 'The Black Arrow'.",
+      "level": 1
+    },
+    {
+      "id": "2.1",
+      "text": "The message is formed by underlined letters in specific words across several pages.",
+      "level": 2
+    },
+    {
+      "id": "2.1.1",
+      "text": "The first part of the message spells out 'MARY JORDAN'.",
+      "level": 3
+    },
+    {
+      "id": "2.1.2",
+      "text": "The subsequent part reveals 'not to die naturally', followed by 'the murderer is one of us, I know who'.",
+      "level": 3
+    },
+    {
+      "id": "3",
+      "text": "Dubens becomes obsessed with solving the mystery of Mary Jordan's death.",
+      "level": 1
+    },
+    {
+      "id": "3.1",
+      "text": "She visits the local cemetery to search for the Jordan family graves.",
+      "level": 2
+    },
+    {
+      "id": "3.1.1",
+      "text": "She does not find any graves for Mary Jordan or anyone named Jordan.",
+      "level": 3
+    },
+    {
+      "id": "3.2",
+      "text": "Her investigation is partially motivated by the fact that the house they bought previously belonged to the Parkinson family, and Alexander Parkinson is suspected to be the author of the message.",
+      "level": 2
+    },
+    {
+      "id": "4",
+      "text": "The narrative also touches upon the mundane aspects of moving and settling into a new home.",
+      "level": 1
+    },
+    {
+      "id": "4.1",
+      "text": "The couple deals with various tradespeople, including electricians and plumbers, who cause disruptions.",
+      "level": 2
+    },
+    {
+      "id": "4.2",
+      "text": "They also engage in activities like gardening and participating in a local charity sale.",
+      "level": 2
+    },
+    {
+      "id": "5",
+      "text": "The story ends with the mystery of Mary Jordan still unresolved, but the investigation is ongoing.",
+      "level": 1
+    },
+    {
+      "id": "5.1",
+      "text": "Tommy initially dismisses the message as a child's fancy but becomes more intrigued as Dubens persists.",
+      "level": 2
+    },
+    {
+      "id": "5.2",
+      "text": "The narrative sets up a potential for further investigation and unfolding of the mystery.",
+      "level": 2
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Dubens",
+      "frequency": 50,
+      "context": "The female protagonist, who is sentimental, enjoys old books, and becomes fixated on solving the mystery."
+    },
+    {
+      "name": "Tommy",
+      "frequency": 30,
+      "context": "The male protagonist, more pragmatic, concerned with practical matters, but eventually drawn into the mystery."
+    },
+    {
+      "name": "New home",
+      "frequency": 20,
+      "context": "The setting where the story takes place, involving the process of moving and settling in."
+    },
+    {
+      "name": "Books",
+      "frequency": 40,
+      "context": "A recurring motif, particularly old children's books and the discovery of hidden messages within them."
+    },
+    {
+      "name": "Mystery",
+      "frequency": 15,
+      "context": "The central enigma involving Mary Jordan's death and the coded message."
+    },
+    {
+      "name": "Mary Jordan",
+      "frequency": 10,
+      "context": "The deceased individual whose death is the subject of the mystery."
+    },
+    {
+      "name": "The Black Arrow",
+      "frequency": 5,
+      "context": "The specific book in which the mysterious message is found."
+    },
+    {
+      "name": "Coded message",
+      "frequency": 8,
+      "context": "The sequence of letters extracted from underlined words in 'The Black Arrow'."
+    },
+    {
+      "name": "Tradespeople",
+      "frequency": 10,
+      "context": "Various workers (electricians, plumbers) involved in renovating the new home, often causing inconvenience."
+    },
+    {
+      "name": "Cemetery",
+      "frequency": 5,
+      "context": "The location Dubens visits to search for clues related to Mary Jordan."
+    },
+    {
+      "name": "Parkinson family",
+      "frequency": 3,
+      "context": "Previous owners of the house, connected to the potential author of the message."
+    },
+    {
+      "name": "Hannibal",
+      "frequency": 15,
+      "context": "The couple's small black dog, who accompanies them on walks."
+    },
+    {
+      "name": "Charity sale",
+      "frequency": 5,
+      "context": "A local event where Dubens donates items from their old home."
+    },
+    {
+      "name": "Gardening",
+      "frequency": 5,
+      "context": "An activity pursued in the new home, involving discussions with a gardener named Isaac."
+    }
+  ],
+  "relations": [
+    {
+      "source": "Dubens",
+      "target": "New home",
+      "type": "inhabits"
+    },
+    {
+      "source": "Tommy",
+      "target": "New home",
+      "type": "inhabits"
+    },
+    {
+      "source": "Dubens",
+      "target": "Books",
+      "type": "appreciates"
+    },
+    {
+      "source": "Tommy",
+      "target": "Books",
+      "type": "practical_view"
+    },
+    {
+      "source": "The Black Arrow",
+      "target": "Coded message",
+      "type": "contains"
+    },
+    {
+      "source": "Coded message",
+      "target": "Mary Jordan",
+      "type": "reveals_about"
+    },
+    {
+      "source": "Dubens",
+      "target": "Mystery",
+      "type": "investigates"
+    },
+    {
+      "source": "Tommy",
+      "target": "Mystery",
+      "type": "becomes_involved_in"
+    },
+    {
+      "source": "Dubens",
+      "target": "Cemetery",
+      "type": "visits"
+    },
+    {
+      "source": "Parkinson family",
+      "target": "New home",
+      "type": "former_owners"
+    },
+    {
+      "source": "Alexander Parkinson",
+      "target": "Coded message",
+      "type": "suspected_author"
+    },
+    {
+      "source": "Hannibal",
+      "target": "Dubens",
+      "type": "companion"
+    },
+    {
+      "source": "Hannibal",
+      "target": "Tommy",
+      "type": "companion"
+    },
+    {
+      "source": "Dubens",
+      "target": "Charity sale",
+      "type": "participates_in"
+    },
+    {
+      "source": "Dubens",
+      "target": "Gardening",
+      "type": "engages_in"
+    },
+    {
+      "source": "Isaac",
+      "target": "Gardening",
+      "type": "expert"
+    },
+    {
+      "source": "Tradespeople",
+      "target": "New home",
+      "type": "disrupts"
+    }
+  ],
+  "hierarchy": {
+    "main_topics": [
+      "Moving and Settling",
+      "Discovery of a Mystery",
+      "Investigation and Clues",
+      "Everyday Life and Relationships"
+    ],
+    "structure": "The document is structured into five sections, each detailing a part of the couple's experience. It begins with the initial disarray of moving, moves to the discovery of the mysterious message, follows Dubens' investigative efforts, describes their daily life and interactions, and concludes with the mystery remaining open, hinting at future developments. The structure is largely chronological within each section but also thematic, focusing on the evolving situation and the characters' reactions."
+  }
+}

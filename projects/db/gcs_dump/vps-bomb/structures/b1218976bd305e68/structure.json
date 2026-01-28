@@ -1,0 +1,228 @@
+{
+  "propositions": [
+    {
+      "id": "1",
+      "text": "赫尔克里·波洛先生被杰斯蒙德先生邀请去处理一件非常重要的事情。",
+      "level": 1
+    },
+    {
+      "id": "1.1",
+      "text": "杰斯蒙德先生以传统圣诞节的吸引力试图说服波洛先生，但波洛先生起初不为所动。",
+      "level": 2
+    },
+    {
+      "id": "1.2",
+      "text": "波洛先生对英格兰乡下的寒冷和老式庄园感到担忧，并强调自己不习惯在冬季离开伦敦。",
+      "level": 2
+    },
+    {
+      "id": "1.3",
+      "text": "杰斯蒙德先生解释说，此事的重要性在于需要通过法律程序才能解决，而他们缺乏确凿证据。",
+      "level": 2
+    },
+    {
+      "id": "2",
+      "text": "杰斯蒙德先生向波洛先生讲述了一个涉及一位亚洲国家年轻未来君主丢失一颗价值连城的红宝石的故事。",
+      "level": 1
+    },
+    {
+      "id": "2.1",
+      "text": "红宝石的丢失与一位被王子赠送了饰品的女子有关，她随后悄悄离开并带走了红宝石。",
+      "level": 2
+    },
+    {
+      "id": "2.2",
+      "text": "宝石的丢失可能引发严重的政治后果，因为它是具有重大历史意义的古物。",
+      "level": 2
+    },
+    {
+      "id": "2.3",
+      "text": "杰斯蒙德先生的身份不明，但他的目标是为国家安定团结找回红宝石。",
+      "level": 2
+    },
+    {
+      "id": "3",
+      "text": "波洛先生在了解情况后，虽认为线索不足，但最终接受了委托，前往金斯莱西。",
+      "level": 1
+    },
+    {
+      "id": "3.1",
+      "text": "波洛先生对杰斯蒙德先生的神机妙算和巧妙安排表示赞叹。",
+      "level": 2
+    },
+    {
+      "id": "3.2",
+      "text": "波洛先生得知金斯莱西有集中供暖设备后，对案件产生了兴趣。",
+      "level": 2
+    },
+    {
+      "id": "4",
+      "text": "在金斯莱西，波洛先生与莱西太太交谈，了解了家庭成员和即将到来的圣诞聚会。",
+      "level": 1
+    },
+    {
+      "id": "4.1",
+      "text": "莱西太太描述了传统的圣诞节习俗，并表达了对年轻人对这种习俗的热爱的看法。",
+      "level": 2
+    },
+    {
+      "id": "4.2",
+      "text": "莱西太太透露，她邀请波洛先生来，是希望他能帮助解决孙女萨拉与声名狼藉的德斯蒙德·李-沃特利之间的关系问题。",
+      "level": 2
+    },
+    {
+      "id": "4.3",
+      "text": "萨拉对德斯蒙德·李-沃特利着迷，而莱西夫妇则希望她与戴维·韦尔温在一起。",
+      "level": 2
+    },
+    {
+      "id": "4.4",
+      "text": "莱西太太认为德斯蒙德·李-沃特利并非坏人，尽管他声名狼藉，但他对姐姐的体贴和信守承诺的行为让她有所改观。",
+      "level": 2
+    },
+    {
+      "id": "5",
+      "text": "孩子们计划在圣诞节安排一个“谋杀案”作为游戏，试图考考波洛先生的侦探能力。",
+      "level": 1
+    },
+    {
+      "id": "5.1",
+      "text": "他们讨论了如何布置现场，例如使用颜料作为血迹，并决定由布里奇特扮演女尸。",
+      "level": 2
+    },
+    {
+      "id": "5.2",
+      "text": "他们最终决定在节礼日实施计划，以充分的时间做准备。",
+      "level": 2
+    },
+    {
+      "id": "6",
+      "text": "圣诞夜，波洛先生收到了一个警告他不要吃圣诞布丁的字条。",
+      "level": 1
+    }
+  ],
+  "concepts": [
+    {
+      "name": "赫尔克里·波洛",
+      "frequency": 21,
+      "context": "核心人物，侦探，被邀请调查案件。"
+    },
+    {
+      "name": "杰斯蒙德先生",
+      "frequency": 9,
+      "context": "委托人，身份神秘，要求波洛调查红宝石丢失案。"
+    },
+    {
+      "name": "圣诞节",
+      "frequency": 24,
+      "context": "故事发生的背景和重要的节日，与传统、家庭聚会、礼物等相关。"
+    },
+    {
+      "name": "红宝石",
+      "frequency": 6,
+      "context": "案件的核心物品，价值连城，具有历史意义，丢失引发政治后果。"
+    },
+    {
+      "name": "金斯莱西",
+      "frequency": 12,
+      "context": "故事发生的地点，莱西家的庄园，拥有集中供暖等现代化设施。"
+    },
+    {
+      "name": "莱西太太",
+      "frequency": 17,
+      "context": "金斯莱西的女主人，关心家人，尤其是孙女萨拉的婚事。"
+    },
+    {
+      "name": "萨拉",
+      "frequency": 13,
+      "context": "莱西太太的孙女，迷恋德斯蒙德·李-沃特利，性格叛逆。"
+    },
+    {
+      "name": "德斯蒙德·李-沃特利",
+      "frequency": 12,
+      "context": "声名狼藉的年轻人，追求萨拉，受到莱西上校的反对。"
+    },
+    {
+      "name": "集中供暖",
+      "frequency": 5,
+      "context": "金斯莱西的现代化设施，吸引了波洛先生。"
+    },
+    {
+      "name": "谋杀案",
+      "frequency": 7,
+      "context": "孩子们计划的游戏，意在考验波洛先生的侦探能力。"
+    },
+    {
+      "name": "警告",
+      "frequency": 1,
+      "context": "波洛先生收到关于圣诞布丁的匿名警告。"
+    }
+  ],
+  "relations": [
+    {
+      "source": "赫尔克里·波洛",
+      "target": "杰斯蒙德先生",
+      "type": "is_invited_by"
+    },
+    {
+      "source": "杰斯蒙德先生",
+      "target": "红宝石",
+      "type": "is_related_to_investigation_of"
+    },
+    {
+      "source": "圣诞节",
+      "target": "金斯莱西",
+      "type": "takes_place_at"
+    },
+    {
+      "source": "莱西太太",
+      "target": "萨拉",
+      "type": "is_grandmother_of"
+    },
+    {
+      "source": "萨拉",
+      "target": "德斯蒙德·李-沃特利",
+      "type": "is_involved_with"
+    },
+    {
+      "source": "莱西上校",
+      "target": "德斯蒙德·李-沃特利",
+      "type": "disapproves_of"
+    },
+    {
+      "source": "孩子们",
+      "target": "谋杀案",
+      "type": "plan_to_stage"
+    },
+    {
+      "source": "赫尔克里·波洛",
+      "target": "警告",
+      "type": "receives"
+    },
+    {
+      "source": "警告",
+      "target": "圣诞布丁",
+      "type": "is_about"
+    },
+    {
+      "source": "金斯莱西",
+      "target": "集中供暖",
+      "type": "has"
+    },
+    {
+      "source": "赫尔克里·波洛",
+      "target": "集中供暖",
+      "type": "is_attracted_by"
+    }
+  ],
+  "hierarchy": {
+    "main_topics": [
+      "Introduction of the case",
+      "The lost ruby and its implications",
+      "Arrival at Kingsley and family dynamics",
+      "The children's Christmas game",
+      "The Christmas Eve warning"
+    ],
+    "structure": "The document is structured as a narrative, presenting the initial setup of the case, the background story, the introduction to the characters and setting, and foreshadowing of events through the children's plan and the anonymous warning."
+  }
+}

@@ -1,0 +1,232 @@
+{
+  "propositions": [
+    {
+      "id": "1",
+      "text": "The gathering at Mengjin is a political maneuver orchestrated by Marquis Wei to rally support against Qin.",
+      "level": 1
+    },
+    {
+      "id": "1.1",
+      "text": "Qin's refusal to attend the Mengjin assembly is perceived as defiance, providing Wei with a pretext for war.",
+      "level": 2
+    },
+    {
+      "id": "1.2",
+      "text": "The historical precedent of King Wu's oath at Mengjin is invoked to legitimize Wei's ambition.",
+      "level": 2
+    },
+    {
+      "id": "2",
+      "text": "The Mengjin assembly reveals the shifting power dynamics in the Warring States period, with emerging states challenging the authority of the Zhou king.",
+      "level": 1
+    },
+    {
+      "id": "2.1",
+      "text": "Marquis Wei's actions at the assembly demonstrate his dominance over the Zhou king and other feudal lords.",
+      "level": 2
+    },
+    {
+      "id": "2.2",
+      "text": "The seating arrangement and conduct at the banquet highlight the disregard for traditional Zhou hierarchy.",
+      "level": 2
+    },
+    {
+      "id": "3",
+      "text": "Qin, under the leadership of Duke Xiao and Shang Yang, is undergoing significant reforms and strengthening its military.",
+      "level": 1
+    },
+    {
+      "id": "3.1",
+      "text": "Shang Yang's strategic thinking and military innovations are crucial to Qin's defense and future ambitions.",
+      "level": 2
+    },
+    {
+      "id": "3.2",
+      "text": "Qin's military reforms focus on countering Wei's strengths, particularly their heavily armored infantry.",
+      "level": 2
+    },
+    {
+      "id": "4",
+      "text": "The interactions between various state representatives at Mengjin reveal underlying tensions, alliances, and rivalries.",
+      "level": 1
+    },
+    {
+      "id": "4.1",
+      "text": "The dialogue between the princes of Qi and Chu, and Marquis Han, showcases their perspectives on Qin and Wei.",
+      "level": 2
+    },
+    {
+      "id": "4.2",
+      "text": "The subtle exchanges and veiled threats suggest a complex web of political maneuvering.",
+      "level": 2
+    },
+    {
+      "id": "5",
+      "text": "The philosophical teachings of Laozi and Guan Yinzi influence the strategic thinking of Qin's leaders.",
+      "level": 1
+    },
+    {
+      "id": "5.1",
+      "text": "Shang Yang's encounter with Han Quanzi leads to a deeper understanding of strategic principles, particularly from the \"Tao Te Ching.\"",
+      "level": 2
+    },
+    {
+      "id": "5.2",
+      "text": "The concept of 'yielding to overcome' and 'appearing weak to become strong' is applied to military strategy.",
+      "level": 2
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Mengjin Assembly",
+      "frequency": 10,
+      "context": "The central event of the narrative, a gathering of feudal lords convened by Marquis Wei."
+    },
+    {
+      "name": "Marquis Wei (Wei Ying)",
+      "frequency": 15,
+      "context": "The orchestrator of the Mengjin Assembly, depicted as ambitious and manipulative."
+    },
+    {
+      "name": "Qin (State)",
+      "frequency": 12,
+      "context": "A rising power undergoing significant reforms under Duke Xiao and Shang Yang."
+    },
+    {
+      "name": "Duke Xiao of Qin",
+      "frequency": 5,
+      "context": "The ruler of Qin, who initially refuses to attend the Mengjin Assembly due to past grievances."
+    },
+    {
+      "name": "Shang Yang",
+      "frequency": 10,
+      "context": "Qin's strategist and reformer, responsible for military innovations and astute political advice."
+    },
+    {
+      "name": "Zhou King (King Xian)",
+      "frequency": 8,
+      "context": "The nominal sovereign, whose authority is overshadowed by Marquis Wei."
+    },
+    {
+      "name": "Military Reforms",
+      "frequency": 5,
+      "context": "The process of strengthening Qin's army under Shang Yang's guidance, focusing on new tactics and equipment."
+    },
+    {
+      "name": "Political Maneuvering",
+      "frequency": 7,
+      "context": "The complex web of strategies, alliances, and rivalries between the various states."
+    },
+    {
+      "name": "Tao Te Ching (Dao De Jing)",
+      "frequency": 3,
+      "context": "Philosophical text influencing Shang Yang's strategic thinking, particularly its emphasis on yielding and indirect action."
+    },
+    {
+      "name": "Han Quanzi",
+      "frequency": 2,
+      "context": "A hermit who guides Shang Yang to understand Laozi's philosophy."
+    },
+    {
+      "name": "Wei Army",
+      "frequency": 4,
+      "context": "Marquis Wei's military force, characterized by heavy armor."
+    },
+    {
+      "name": "Qin Army",
+      "frequency": 4,
+      "context": "Qin's reformed army, developing new tactics to counter Wei's strengths."
+    },
+    {
+      "name": "Feudal Lords",
+      "frequency": 6,
+      "context": "The rulers of various states attending the Mengjin Assembly, each with their own agendas."
+    },
+    {
+      "name": "Warring States Period",
+      "frequency": 3,
+      "context": "The historical context of the narrative, characterized by conflict and political upheaval."
+    }
+  ],
+  "relations": [
+    {
+      "source": "Marquis Wei",
+      "target": "Mengjin Assembly",
+      "type": "organizes"
+    },
+    {
+      "source": "Marquis Wei",
+      "target": "Qin",
+      "type": "intends to attack"
+    },
+    {
+      "source": "Shang Yang",
+      "target": "Qin",
+      "type": "advises"
+    },
+    {
+      "source": "Shang Yang",
+      "target": "Military Reforms",
+      "type": "leads"
+    },
+    {
+      "source": "Duke Xiao of Qin",
+      "target": "Mengjin Assembly",
+      "type": "refuses to attend"
+    },
+    {
+      "source": "Zhou King",
+      "target": "Marquis Wei",
+      "type": "is subordinate to"
+    },
+    {
+      "source": "Wei Army",
+      "target": "Qin Army",
+      "type": "is rival to"
+    },
+    {
+      "source": "Han Quanzi",
+      "target": "Shang Yang",
+      "type": "teaches"
+    },
+    {
+      "source": "Tao Te Ching",
+      "target": "Shang Yang",
+      "type": "influences"
+    },
+    {
+      "source": "Qin",
+      "target": "Warring States Period",
+      "type": "is a part of"
+    },
+    {
+      "source": "Mengjin Assembly",
+      "target": "Political Maneuvering",
+      "type": "is an example of"
+    },
+    {
+      "source": "Wei Army",
+      "target": "Heavy Armor",
+      "type": "is characterized by"
+    },
+    {
+      "source": "Qin Army",
+      "target": "New Tactics",
+      "type": "develops"
+    },
+    {
+      "source": "Qin Army",
+      "target": "Wei Army",
+      "type": "develops tactics against"
+    }
+  ],
+  "hierarchy": {
+    "main_topics": [
+      "The Mengjin Assembly and Marquis Wei's Ambitions",
+      "Qin's Response and Military Reforms",
+      "Inter-State Relations and Political Dynamics",
+      "Philosophical Influences on Strategy"
+    ],
+    "structure": "The document is structured chronologically, beginning with the invitation to the Mengjin Assembly and progressing through the events of the assembly itself, the subsequent strategic considerations in Qin, and the philosophical encounters that shape understanding."
+  }
+}

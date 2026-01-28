@@ -1,0 +1,242 @@
+{
+  "propositions": [
+    {
+      "id": "1",
+      "text": "嫣然笑靥，倾尽天下，江山倾覆，只为你倾情。",
+      "level": 1
+    },
+    {
+      "id": "2",
+      "text": "倾世VIP+ING，倾情VIP+ING。",
+      "level": 1
+    },
+    {
+      "id": "3",
+      "text": "第七世倾城，你何时才能嫁我？",
+      "level": 2
+    },
+    {
+      "id": "4",
+      "text": "“倾城，嫁给我！”",
+      "level": 3
+    },
+    {
+      "id": "5",
+      "text": "“抱歉，我不能嫁给你。”",
+      "level": 3
+    },
+    {
+      "id": "6",
+      "text": "“为什么？”",
+      "level": 4
+    },
+    {
+      "id": "7",
+      "text": "“因为你是皇帝，而我是沦落凡尘的妖。”",
+      "level": 4
+    },
+    {
+      "id": "8",
+      "text": "“为何要承受如此之痛？我该如何做才能让你不离开？”",
+      "level": 3
+    },
+    {
+      "id": "9",
+      "text": "“你太强，而我太弱。我早已注定要离开。我与你之间，注定遥远。”",
+      "level": 3
+    },
+    {
+      "id": "10",
+      "text": "第七世倾城，你真的不怪我吗？",
+      "level": 2
+    },
+    {
+      "id": "11",
+      "text": "“倾城，为何你从不怪我？”",
+      "level": 3
+    },
+    {
+      "id": "12",
+      "text": "“我只怪我自己，没有能力保护你。",
+      "level": 4
+    },
+    {
+      "id": "13",
+      "text": "我只怪我自己，没有资格陪在你身边。",
+      "level": 4
+    },
+    {
+      "id": "14",
+      "text": "你给了我一个盛世，我却只还给你一个空壳。",
+      "level": 4
+    },
+    {
+      "id": "15",
+      "text": "这是你想要的吗？",
+      "level": 4
+    },
+    {
+      "id": "16",
+      "text": "你给了我太多，我只剩一颗心。",
+      "level": 4
+    },
+    {
+      "id": "17",
+      "text": "如果可以，我愿倾尽一切。",
+      "level": 4
+    },
+    {
+      "id": "18",
+      "text": "“只为换你一个回眸。”",
+      "level": 3
+    },
+    {
+      "id": "19",
+      "text": "“为何你如此执着？”",
+      "level": 3
+    },
+    {
+      "id": "20",
+      "text": "“因为你是我的全部。”",
+      "level": 3
+    },
+    {
+      "id": "21",
+      "text": "“我只剩一颗心，你为何如此执着？”",
+      "level": 2
+    },
+    {
+      "id": "22",
+      "text": "“因为你是我的一切。”",
+      "level": 3
+    }
+  ],
+  "concepts": [
+    {
+      "name": "倾城",
+      "frequency": 14,
+      "context": "The name of a character, likely the central female character, addressed and spoken to throughout the text."
+    },
+    {
+      "name": "你",
+      "frequency": 9,
+      "context": "Refers to '倾城' in the dialogue."
+    },
+    {
+      "name": "我",
+      "frequency": 8,
+      "context": "Refers to the speaker in the dialogue, likely the emperor addressing '倾城'."
+    },
+    {
+      "name": "皇帝",
+      "frequency": 1,
+      "context": "Describes the role of the speaker in relation to '倾城'."
+    },
+    {
+      "name": "妖",
+      "frequency": 1,
+      "context": "Describes the identity of '倾城' in relation to the emperor."
+    },
+    {
+      "name": "心",
+      "frequency": 3,
+      "context": "Metaphorical representation of emotions or self, stated as being all that remains for the speaker."
+    },
+    {
+      "name": "执着",
+      "frequency": 3,
+      "context": "Describes the nature of the speaker's feelings or actions towards '倾城'."
+    },
+    {
+      "name": "一切",
+      "frequency": 3,
+      "context": "Refers to the totality of what '倾城' represents to the speaker."
+    },
+    {
+      "name": "全部",
+      "frequency": 1,
+      "context": "Similar to '一切', signifying the complete importance of '倾城' to the speaker."
+    },
+    {
+      "name": "盛世",
+      "frequency": 1,
+      "context": "A prosperous era, gifted by the speaker to '倾城'."
+    },
+    {
+      "name": "空壳",
+      "frequency": 1,
+      "context": "What the speaker feels they have returned to '倾城' in contrast to the '盛世'."
+    },
+    {
+      "name": "回眸",
+      "frequency": 1,
+      "context": "A look back, desired by the speaker from '倾城'."
+    }
+  ],
+  "relations": [
+    {
+      "source": "皇帝",
+      "target": "倾城",
+      "type": "is_in_a_relationship_with"
+    },
+    {
+      "source": "妖",
+      "target": "倾城",
+      "type": "is_a"
+    },
+    {
+      "source": "我",
+      "target": "心",
+      "type": "possesses"
+    },
+    {
+      "source": "我",
+      "target": "倾城",
+      "type": "is_attached_to"
+    },
+    {
+      "source": "倾城",
+      "target": "我",
+      "type": "is_the_object_of_attachment_for"
+    },
+    {
+      "source": "执着",
+      "target": "我",
+      "type": "describes"
+    },
+    {
+      "source": "一切",
+      "target": "倾城",
+      "type": "is_for"
+    },
+    {
+      "source": "全部",
+      "target": "倾城",
+      "type": "is_for"
+    },
+    {
+      "source": "盛世",
+      "target": "倾城",
+      "type": "is_given_to"
+    },
+    {
+      "source": "空壳",
+      "target": "倾城",
+      "type": "is_returned_to"
+    },
+    {
+      "source": "回眸",
+      "target": "倾城",
+      "type": "is_desired_from"
+    }
+  ],
+  "hierarchy": {
+    "main_topics": [
+      "Title",
+      "Prologue",
+      "Chapter 1: VS 倾城",
+      "Chapter 2: VS 倾城"
+    ],
+    "structure": "The document begins with a title and a brief introductory quote. It then moves into a prologue section, followed by two chapters, each titled 'VS 倾城' and containing dialogue that explores a past relationship and its unresolved emotional complexities."
+  }
+}

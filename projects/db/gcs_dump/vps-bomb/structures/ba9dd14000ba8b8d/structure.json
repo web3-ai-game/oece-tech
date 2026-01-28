@@ -1,0 +1,371 @@
+{
+  "propositions": [
+    {
+      "id": "1",
+      "text": "The document is a romance novel titled '折草记' (The Chronicle of Broken Grass).",
+      "level": 1
+    },
+    {
+      "id": "1.1",
+      "text": "The author is '湖月沉香' (Lake Moon Amber).",
+      "level": 2
+    },
+    {
+      "id": "1.2",
+      "text": "The genre is Romance.",
+      "level": 2
+    },
+    {
+      "id": "2",
+      "text": "Chapter 1 begins with a descriptive scene.",
+      "level": 1
+    },
+    {
+      "id": "2.1",
+      "text": "The early morning sun casts a pale, diffused light.",
+      "level": 2
+    },
+    {
+      "id": "2.2",
+      "text": "A gentle breeze carries the scent of blooming jasmine.",
+      "level": 2
+    },
+    {
+      "id": "3",
+      "text": "A comment identifies the sentence as beautifully crafted and evoking peace/tranquility.",
+      "level": 1
+    },
+    {
+      "id": "4",
+      "text": "A list of observable events is provided:",
+      "level": 1
+    },
+    {
+      "id": "4.1",
+      "text": "The sun is rising.",
+      "level": 2
+    },
+    {
+      "id": "4.2",
+      "text": "The curtains are stirring.",
+      "level": 2
+    },
+    {
+      "id": "4.3",
+      "text": "Jasmine is blooming.",
+      "level": 2
+    },
+    {
+      "id": "5",
+      "text": "The passage continues to describe the scene.",
+      "level": 1
+    },
+    {
+      "id": "6",
+      "text": "The raw text appears to be heavily corrupted.",
+      "level": 1
+    },
+    {
+      "id": "6.1",
+      "text": "This corruption is possibly due to OCR errors or data transmission issues.",
+      "level": 2
+    },
+    {
+      "id": "6.2",
+      "text": "The text contains garbled characters.",
+      "level": 2
+    },
+    {
+      "id": "6.3",
+      "text": "It includes what seem to be positional markers or formatting tags.",
+      "level": 2
+    },
+    {
+      "id": "6.4",
+      "text": "Cyrillic characters (possibly Russian), Greek, and other symbols are interspersed.",
+      "level": 2
+    },
+    {
+      "id": "7",
+      "text": "Decipherable fragments exist, such as 'TVB' and numbers.",
+      "level": 1
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Romance novel",
+      "frequency": 1,
+      "context": "The genre of the novel '折草记'."
+    },
+    {
+      "name": "折草记",
+      "frequency": 1,
+      "context": "The title of the novel."
+    },
+    {
+      "name": "The Chronicle of Broken Grass",
+      "frequency": 1,
+      "context": "The English translation of the novel's title."
+    },
+    {
+      "name": "湖月沉香",
+      "frequency": 1,
+      "context": "The author of the novel."
+    },
+    {
+      "name": "Lake Moon Amber",
+      "frequency": 1,
+      "context": "The English translation of the author's name."
+    },
+    {
+      "name": "Romance",
+      "frequency": 1,
+      "context": "The genre of the novel."
+    },
+    {
+      "name": "Chapter 1",
+      "frequency": 1,
+      "context": "The first chapter of the novel."
+    },
+    {
+      "name": "Early morning sun",
+      "frequency": 1,
+      "context": "Describes the lighting in the scene."
+    },
+    {
+      "name": "Silk curtains",
+      "frequency": 1,
+      "context": "Part of the scene description."
+    },
+    {
+      "name": "Gentle breeze",
+      "frequency": 1,
+      "context": "Part of the atmospheric description."
+    },
+    {
+      "name": "Jasmine",
+      "frequency": 1,
+      "context": "Associated with the scent in the air."
+    },
+    {
+      "name": "Peace and tranquility",
+      "frequency": 1,
+      "context": "The evoked mood of the scene."
+    },
+    {
+      "name": "Sun rising",
+      "frequency": 1,
+      "context": "An observable event."
+    },
+    {
+      "name": "Curtains stirring",
+      "frequency": 1,
+      "context": "An observable event."
+    },
+    {
+      "name": "Jasmine blooming",
+      "frequency": 1,
+      "context": "An observable event."
+    },
+    {
+      "name": "Raw text",
+      "frequency": 1,
+      "context": "Refers to the actual characters in the document."
+    },
+    {
+      "name": "Corruption",
+      "frequency": 1,
+      "context": "Describes the state of the raw text."
+    },
+    {
+      "name": "OCR errors",
+      "frequency": 1,
+      "context": "A potential cause of text corruption."
+    },
+    {
+      "name": "Data transmission issues",
+      "frequency": 1,
+      "context": "A potential cause of text corruption."
+    },
+    {
+      "name": "Garbled characters",
+      "frequency": 1,
+      "context": "A symptom of text corruption."
+    },
+    {
+      "name": "Positional markers",
+      "frequency": 1,
+      "context": "Found within the corrupted text."
+    },
+    {
+      "name": "Formatting tags",
+      "frequency": 1,
+      "context": "Found within the corrupted text."
+    },
+    {
+      "name": "Cyrillic characters",
+      "frequency": 1,
+      "context": "Interspersed in the corrupted text."
+    },
+    {
+      "name": "Greek characters",
+      "frequency": 1,
+      "context": "Interspersed in the corrupted text."
+    },
+    {
+      "name": "Other symbols",
+      "frequency": 1,
+      "context": "Interspersed in the corrupted text."
+    },
+    {
+      "name": "Decipherable fragments",
+      "frequency": 1,
+      "context": "Parts of the text that can be understood."
+    },
+    {
+      "name": "'TVB'",
+      "frequency": 1,
+      "context": "A specific decipherable fragment."
+    },
+    {
+      "name": "Numbers",
+      "frequency": 1,
+      "context": "Specific decipherable fragments (e.g., 2149, 1521)."
+    }
+  ],
+  "relations": [
+    {
+      "source": "折草记",
+      "target": "The Chronicle of Broken Grass",
+      "type": "is_a_translation_of"
+    },
+    {
+      "source": "湖月沉香",
+      "target": "Lake Moon Amber",
+      "type": "is_a_translation_of"
+    },
+    {
+      "source": "折草记",
+      "target": "Romance novel",
+      "type": "is_a"
+    },
+    {
+      "source": "折草记",
+      "target": "湖月沉香",
+      "type": "written_by"
+    },
+    {
+      "source": "Chapter 1",
+      "target": "折草记",
+      "type": "is_part_of"
+    },
+    {
+      "source": "Early morning sun",
+      "target": "Chapter 1",
+      "type": "describes"
+    },
+    {
+      "source": "Silk curtains",
+      "target": "Chapter 1",
+      "type": "part_of_scene"
+    },
+    {
+      "source": "Gentle breeze",
+      "target": "Chapter 1",
+      "type": "describes"
+    },
+    {
+      "source": "Jasmine",
+      "target": "Gentle breeze",
+      "type": "associated_with"
+    },
+    {
+      "source": "Peace and tranquility",
+      "target": "Chapter 1",
+      "type": "evoked_by"
+    },
+    {
+      "source": "Sun rising",
+      "target": "Chapter 1",
+      "type": "describes"
+    },
+    {
+      "source": "Curtains stirring",
+      "target": "Chapter 1",
+      "type": "describes"
+    },
+    {
+      "source": "Jasmine blooming",
+      "target": "Chapter 1",
+      "type": "describes"
+    },
+    {
+      "source": "Raw text",
+      "target": "Corruption",
+      "type": "exhibits"
+    },
+    {
+      "source": "Corruption",
+      "target": "OCR errors",
+      "type": "caused_by"
+    },
+    {
+      "source": "Corruption",
+      "target": "Data transmission issues",
+      "type": "caused_by"
+    },
+    {
+      "source": "Garbled characters",
+      "target": "Corruption",
+      "type": "is_a_type_of"
+    },
+    {
+      "source": "Positional markers",
+      "target": "Corruption",
+      "type": "is_part_of"
+    },
+    {
+      "source": "Formatting tags",
+      "target": "Corruption",
+      "type": "is_part_of"
+    },
+    {
+      "source": "Cyrillic characters",
+      "target": "Corruption",
+      "type": "is_part_of"
+    },
+    {
+      "source": "Greek characters",
+      "target": "Corruption",
+      "type": "is_part_of"
+    },
+    {
+      "source": "Other symbols",
+      "target": "Corruption",
+      "type": "is_part_of"
+    },
+    {
+      "source": "Decipherable fragments",
+      "target": "Raw text",
+      "type": "is_found_within"
+    },
+    {
+      "source": "'TVB'",
+      "target": "Decipherable fragments",
+      "type": "is_an_example_of"
+    },
+    {
+      "source": "Numbers",
+      "target": "Decipherable fragments",
+      "type": "is_an_example_of"
+    }
+  ],
+  "hierarchy": {
+    "main_topics": [
+      "Novel Metadata",
+      "Chapter Content (Chapter 1)",
+      "Textual Integrity Issues"
+    ],
+    "structure": "The document begins with metadata about the novel (title, author, genre), followed by the content of Chapter 1 which includes descriptive prose, a commentary, a list of events, and a detailed explanation of corruption and unreadable text."
+  }
+}

@@ -1,0 +1,433 @@
+{
+  "propositions": [
+    {
+      "id": "1",
+      "text": "《第三张脸》是一部探讨友谊、贪婪、背叛以及超自然恐惧的小说。",
+      "level": 1
+    },
+    {
+      "id": "1.1",
+      "text": "故事围绕着四个好友：顾炯、王海涛、张小南和秦剑飞展开。",
+      "level": 2
+    },
+    {
+      "id": "1.2",
+      "text": "他们因一张中奖彩票而卷入一系列离奇事件。",
+      "level": 2
+    },
+    {
+      "id": "1.3",
+      "text": "故事也引入了另一对情侣余晓和林光，他们的关系因神秘的“陆子明”而出现裂痕。",
+      "level": 2
+    },
+    {
+      "id": "2",
+      "text": "顾炯的失踪和离奇死亡是事件的开端。",
+      "level": 1
+    },
+    {
+      "id": "2.1",
+      "text": "顾炯在深夜给王海涛打电话，声称在南盛网吧。",
+      "level": 2
+    },
+    {
+      "id": "2.2",
+      "text": "张小南、王海涛和秦剑飞前往网吧寻找顾炯。",
+      "level": 2
+    },
+    {
+      "id": "2.3",
+      "text": "他们在5号包厢发现了顾炯的尸体，该包厢曾发生过周峰的死亡事件。",
+      "level": 2
+    },
+    {
+      "id": "3",
+      "text": "彩票的丢失引发了朋友之间的猜疑和争吵。",
+      "level": 1
+    },
+    {
+      "id": "3.1",
+      "text": "秦剑飞称彩票丢失，但其他三人不相信，怀疑他想独吞30多万的奖金。",
+      "level": 2
+    },
+    {
+      "id": "3.2",
+      "text": "对金钱的贪婪成为友谊破裂的导火索。",
+      "level": 2
+    },
+    {
+      "id": "4",
+      "text": "“13楼”的神秘现象成为贯穿故事的线索。",
+      "level": 1
+    },
+    {
+      "id": "4.1",
+      "text": "张小南和秦剑飞在探索网吧时，误入一个不存在的13楼。",
+      "level": 2
+    },
+    {
+      "id": "4.2",
+      "text": "13楼被描述为“地狱”，与14楼的网吧形成对比。",
+      "level": 2
+    },
+    {
+      "id": "4.3",
+      "text": "王海涛后来也因神秘原因与顾炯一同出现在南盛网吧。",
+      "level": 2
+    },
+    {
+      "id": "5",
+      "text": "王海涛也离奇死亡，进一步加剧了恐慌。",
+      "level": 1
+    },
+    {
+      "id": "5.1",
+      "text": "王海涛在厕所被发现死亡，身上有血迹。",
+      "level": 2
+    },
+    {
+      "id": "5.2",
+      "text": "张小南和秦剑飞在目睹王海涛的尸体后仓皇逃离。",
+      "level": 2
+    },
+    {
+      "id": "6",
+      "text": "秦剑飞因彩票事件精神失常。",
+      "level": 1
+    },
+    {
+      "id": "6.1",
+      "text": "在巨大的压力和恐惧下，秦剑飞的精神状态崩溃。",
+      "level": 2
+    },
+    {
+      "id": "6.2",
+      "text": "他重复着“彩票丢了”并开始出现幻觉。",
+      "level": 2
+    },
+    {
+      "id": "7",
+      "text": "故事揭示了张小南的背叛和整个事件的真相。",
+      "level": 1
+    },
+    {
+      "id": "7.1",
+      "text": "张小南趁秦剑飞醉酒时偷走了彩票。",
+      "level": 2
+    },
+    {
+      "id": "7.2",
+      "text": "他伙同舅舅制造了网吧的恐怖事件，以掩盖彩票被盗的事实，并嫁祸给其他人。",
+      "level": 2
+    },
+    {
+      "id": "7.3",
+      "text": "张小南的目的是独吞奖金，但最终因贪婪和愧疚而选择捐给希望工程，以秦剑飞的名义。",
+      "level": 2
+    },
+    {
+      "id": "8",
+      "text": "余晓和林光的故事线探讨了信任危机和不明来源的“死亡预兆”。",
+      "level": 1
+    },
+    {
+      "id": "8.1",
+      "text": "余晓频繁收到一个名为“陆子明”的信件和电话。",
+      "level": 2
+    },
+    {
+      "id": "8.2",
+      "text": "林光对“陆子明”的存在感到不安和怀疑。",
+      "level": 2
+    },
+    {
+      "id": "8.3",
+      "text": "调查发现“陆子明”早已在一年前车祸身亡。",
+      "level": 2
+    },
+    {
+      "id": "8.4",
+      "text": "余晓的异常行为和林光的梦境暗示了超自然力量或心理暗示的影响。",
+      "level": 2
+    },
+    {
+      "id": "9",
+      "text": "小说结尾留下了悬念，暗示着不幸的循环或未解的谜团。",
+      "level": 1
+    },
+    {
+      "id": "9.1",
+      "text": "张小南在犯罪后感到愧疚。",
+      "level": 2
+    },
+    {
+      "id": "9.2",
+      "text": "秦剑飞的精神状况不明，余晓和林光的关系也可能面临新的挑战。",
+      "level": 2
+    }
+  ],
+  "concepts": [
+    {
+      "name": "彩票",
+      "frequency": 17,
+      "context": "中奖彩票是引发故事冲突的核心物品，涉及贪婪、背叛和友谊的考验。"
+    },
+    {
+      "name": "网吧",
+      "frequency": 14,
+      "context": "南盛网吧是多个死亡事件发生的地点，也是故事中神秘和恐怖气氛的载体。"
+    },
+    {
+      "name": "死亡",
+      "frequency": 12,
+      "context": "顾炯、王海涛的离奇死亡，以及周峰的死亡，是故事的主要驱动力。"
+    },
+    {
+      "name": "13楼",
+      "frequency": 9,
+      "context": "一个不存在的楼层，被描绘成“地狱”，是故事中超自然元素的体现。"
+    },
+    {
+      "name": "友谊",
+      "frequency": 9,
+      "context": "故事的核心主题，探讨在金钱和恐惧面前，友谊的脆弱和考验。"
+    },
+    {
+      "name": "恐惧",
+      "frequency": 8,
+      "context": "角色们在面对死亡、失踪和超自然现象时的心理反应。"
+    },
+    {
+      "name": "秦剑飞",
+      "frequency": 7,
+      "context": "是彩票丢失事件的焦点人物，最终因精神压力而崩溃。"
+    },
+    {
+      "name": "张小南",
+      "frequency": 7,
+      "context": "是幕后策划者，通过欺骗和阴谋试图独吞彩票，但最终感到愧疚。"
+    },
+    {
+      "name": "顾炯",
+      "frequency": 6,
+      "context": "第一个失踪并死亡的角色，是故事的起点。"
+    },
+    {
+      "name": "王海涛",
+      "frequency": 6,
+      "context": "第二个死亡的角色，参与了对秦剑飞的怀疑和对顾炯的调查。"
+    },
+    {
+      "name": "陆子明",
+      "frequency": 5,
+      "context": "余晓故事线中的神秘人物，实际上已故，其存在引发了林光的怀疑和恐惧。"
+    },
+    {
+      "name": "林光",
+      "frequency": 5,
+      "context": "余晓的男友，对余晓与“陆子明”的联系感到不安，并试图揭开真相。"
+    },
+    {
+      "name": "余晓",
+      "frequency": 5,
+      "context": "故事的另一条线索人物，她的感情生活因神秘的“陆子明”而动荡。"
+    },
+    {
+      "name": "失踪",
+      "frequency": 5,
+      "context": "顾炯、王海涛的失踪是引发事件的关键。"
+    },
+    {
+      "name": "信任",
+      "frequency": 5,
+      "context": "友谊的基石，在贪婪和恐惧面前受到严重挑战。"
+    },
+    {
+      "name": "贪婪",
+      "frequency": 4,
+      "context": "对金钱的过度渴望导致了角色的背叛和悲剧。"
+    },
+    {
+      "name": "背叛",
+      "frequency": 4,
+      "context": "张小南为了金钱背叛了朋友。"
+    },
+    {
+      "name": "超自然",
+      "frequency": 4,
+      "context": "13楼的神秘现象和“陆子明”的出现，暗示了非现实的元素。"
+    },
+    {
+      "name": "真相",
+      "frequency": 3,
+      "context": "故事的最终揭露，关于彩票、死亡和欺骗。"
+    },
+    {
+      "name": "报复",
+      "frequency": 2,
+      "context": "故事中曾短暂提及周峰的鬼魂报复的可能性。"
+    },
+    {
+      "name": "希望工程",
+      "frequency": 2,
+      "context": "张小南最终选择捐款的去向，象征着一丝救赎或补偿。"
+    }
+  ],
+  "relations": [
+    {
+      "source": "顾炯",
+      "target": "王海涛",
+      "type": "call_to"
+    },
+    {
+      "source": "顾炯",
+      "target": "南盛网吧",
+      "type": "located_at"
+    },
+    {
+      "source": "王海涛",
+      "target": "顾炯",
+      "type": "search_for"
+    },
+    {
+      "source": "张小南",
+      "target": "顾炯",
+      "type": "search_for"
+    },
+    {
+      "source": "秦剑飞",
+      "target": "顾炯",
+      "type": "search_for"
+    },
+    {
+      "source": "顾炯",
+      "target": "5号包厢",
+      "type": "found_in"
+    },
+    {
+      "source": "周峰",
+      "target": "5号包厢",
+      "type": "died_in"
+    },
+    {
+      "source": "彩票",
+      "target": "秦剑飞",
+      "type": "possessed_by"
+    },
+    {
+      "source": "秦剑飞",
+      "target": "彩票",
+      "type": "lost"
+    },
+    {
+      "source": "张小南",
+      "target": "彩票",
+      "type": "stole"
+    },
+    {
+      "source": "王海涛",
+      "target": "秦剑飞",
+      "type": "suspects"
+    },
+    {
+      "source": "张小南",
+      "target": "秦剑飞",
+      "type": "suspects"
+    },
+    {
+      "source": "14楼",
+      "target": "南盛网吧",
+      "type": "corresponds_to"
+    },
+    {
+      "source": "13楼",
+      "target": "地狱",
+      "type": "is_a"
+    },
+    {
+      "source": "张小南",
+      "target": "13楼",
+      "type": "visited"
+    },
+    {
+      "source": "秦剑飞",
+      "target": "13楼",
+      "type": "visited"
+    },
+    {
+      "source": "王海涛",
+      "target": "顾炯",
+      "type": "reunited_with"
+    },
+    {
+      "source": "王海涛",
+      "target": "南盛网吧",
+      "type": "found_in"
+    },
+    {
+      "source": "王海涛",
+      "target": "死亡",
+      "type": "experienced"
+    },
+    {
+      "source": "秦剑飞",
+      "target": "精神崩溃",
+      "type": "experienced"
+    },
+    {
+      "source": "张小南",
+      "target": "愧疚",
+      "type": "experienced"
+    },
+    {
+      "source": "张小南",
+      "target": "舅舅",
+      "type": "collaborated_with"
+    },
+    {
+      "source": "张小南",
+      "target": "希望工程",
+      "type": "donated_to"
+    },
+    {
+      "source": "余晓",
+      "target": "陆子明",
+      "type": "received_from"
+    },
+    {
+      "source": "林光",
+      "target": "余晓",
+      "type": "relationship_with"
+    },
+    {
+      "source": "林光",
+      "target": "陆子明",
+      "type": "investigates"
+    },
+    {
+      "source": "陆子明",
+      "target": "死亡",
+      "type": "experienced"
+    },
+    {
+      "source": "余晓",
+      "target": "异常行为",
+      "type": "exhibited"
+    },
+    {
+      "source": "林光",
+      "target": "恐惧",
+      "type": "experienced"
+    }
+  ],
+  "hierarchy": {
+    "main_topics": [
+      "The Mystery of the Missing Lottery Ticket",
+      "The Supernatural Horror of the 13th Floor and the Internet Cafe",
+      "Betrayal and the Corruption of Friendship",
+      "The Unraveling of a Relationship due to Deception",
+      "The Nature of Fear and Guilt"
+    ],
+    "structure": "The document is structured into numbered sections, with an introductory section for the overall story and then sub-sections detailing specific events and character perspectives. It includes a prologue ('引子') and epilogue-like concluding sections for the main plot, and then branches into a separate storyline concerning 余晓 and 林光 with their own sub-sections. The overall narrative progresses through a series of unfolding mysteries and revelations, culminating in the exposure of the protagonist's deception."
+  }
+}

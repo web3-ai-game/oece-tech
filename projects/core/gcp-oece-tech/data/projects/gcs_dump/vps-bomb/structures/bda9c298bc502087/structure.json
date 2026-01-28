@@ -1,0 +1,373 @@
+{
+  "propositions": [
+    {
+      "id": "1",
+      "text": "The story is about a favored prince of the Cang Sheng.",
+      "level": 1
+    },
+    {
+      "id": "1.1",
+      "text": "He is transmigrated to another world, becoming an unfavored prince.",
+      "level": 2
+    },
+    {
+      "id": "1.1.1",
+      "text": "He possesses exceptional skills but faces court intrigue and external threats.",
+      "level": 3
+    },
+    {
+      "id": "1.1.2",
+      "text": "He must rely on wisdom and strength to survive in a world of the fittest.",
+      "level": 3
+    },
+    {
+      "id": "1.1.3",
+      "text": "He aims to uncover the truth of his transmigration and find a path to family revival.",
+      "level": 3
+    },
+    {
+      "id": "2",
+      "text": "The protagonist is Cang Sheng, a transmigrator with mysterious power, resolute, and resourceful.",
+      "level": 1
+    },
+    {
+      "id": "3",
+      "text": "The story is a narrative of growth, struggle, and protection.",
+      "level": 1
+    },
+    {
+      "id": "4",
+      "text": "It is a world where the strong prey on the weak, and only the powerful determine their destiny.",
+      "level": 1
+    },
+    {
+      "id": "5",
+      "text": "Even in desperate situations, hope must not be abandoned.",
+      "level": 1
+    },
+    {
+      "id": "6",
+      "text": "Wisdom and strength combined are necessary to be invincible.",
+      "level": 1
+    },
+    {
+      "id": "7",
+      "text": "The document includes a chapter directory with placeholder titles.",
+      "level": 1
+    },
+    {
+      "id": "7.1",
+      "text": "Chapter titles include 'Awakening in Another World', 'Prince Identity', 'First Display of Brilliance', 'Imminent Danger', and 'Secret Realm Exploration'.",
+      "level": 2
+    },
+    {
+      "id": "8",
+      "text": "Placeholders are provided for reader feedback, author's notes, and similar work recommendations.",
+      "level": 1
+    },
+    {
+      "id": "9",
+      "text": "Resource links include TXT Novel Network (www.txtxia8.cn).",
+      "level": 1
+    },
+    {
+      "id": "10",
+      "text": "Notes section clarifies OCR cleaning and Markdown formatting.",
+      "level": 1
+    },
+    {
+      "id": "10.1",
+      "text": "The document was converted by OCR and may contain minor errors.",
+      "level": 2
+    },
+    {
+      "id": "10.2",
+      "text": "Markdown formatting has been applied to improve readability.",
+      "level": 2
+    },
+    {
+      "id": "10.3",
+      "text": "Redundant line breaks have been removed for structural clarity.",
+      "level": 2
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Cang Sheng",
+      "frequency": 2,
+      "context": "The protagonist's name and also the name of the favored prince."
+    },
+    {
+      "name": "Transmigration",
+      "frequency": 2,
+      "context": "The protagonist is a 'transmigrator' who ends up in another world."
+    },
+    {
+      "name": "Prince",
+      "frequency": 3,
+      "context": "The protagonist becomes an 'unfavored prince' in the new world."
+    },
+    {
+      "name": "Another World",
+      "frequency": 2,
+      "context": "The setting where the protagonist is transmigrated."
+    },
+    {
+      "name": "Skills",
+      "frequency": 1,
+      "context": "The protagonist possesses 'exceptional skills'."
+    },
+    {
+      "name": "Court Intrigue",
+      "frequency": 1,
+      "context": "The protagonist faces 'court intrigue and conspiracy'."
+    },
+    {
+      "name": "External Threats",
+      "frequency": 1,
+      "context": "The protagonist faces threats from other races."
+    },
+    {
+      "name": "Wisdom",
+      "frequency": 2,
+      "context": "Key attribute for survival, alongside strength."
+    },
+    {
+      "name": "Strength",
+      "frequency": 2,
+      "context": "Key attribute for survival, alongside wisdom."
+    },
+    {
+      "name": "Survival",
+      "frequency": 2,
+      "context": "The primary goal in the new world."
+    },
+    {
+      "name": "Truth of Transmigration",
+      "frequency": 1,
+      "context": "A mystery the protagonist seeks to uncover."
+    },
+    {
+      "name": "Family Revival",
+      "frequency": 1,
+      "context": "A goal for the protagonist."
+    },
+    {
+      "name": "Mysterious Power",
+      "frequency": 1,
+      "context": "Possessed by the protagonist."
+    },
+    {
+      "name": "Resolute",
+      "frequency": 1,
+      "context": "Character trait of the protagonist."
+    },
+    {
+      "name": "Resourceful",
+      "frequency": 1,
+      "context": "Character trait of the protagonist."
+    },
+    {
+      "name": "Growth",
+      "frequency": 1,
+      "context": "Theme of the story."
+    },
+    {
+      "name": "Struggle",
+      "frequency": 1,
+      "context": "Theme of the story."
+    },
+    {
+      "name": "Protection",
+      "frequency": 1,
+      "context": "Theme of the story."
+    },
+    {
+      "name": "World of the Fittest",
+      "frequency": 1,
+      "context": "Description of the setting."
+    },
+    {
+      "name": "Destiny",
+      "frequency": 1,
+      "context": "Determined by the powerful."
+    },
+    {
+      "name": "Hope",
+      "frequency": 1,
+      "context": "Must not be abandoned."
+    },
+    {
+      "name": "Invincible",
+      "frequency": 1,
+      "context": "Achieved through wisdom and strength."
+    },
+    {
+      "name": "Chapter Directory",
+      "frequency": 1,
+      "context": "Provides an outline of the story."
+    },
+    {
+      "name": "Reader Feedback",
+      "frequency": 1,
+      "context": "Placeholder for audience interaction."
+    },
+    {
+      "name": "Author's Notes",
+      "frequency": 1,
+      "context": "Placeholder for author's messages."
+    },
+    {
+      "name": "Similar Works",
+      "frequency": 1,
+      "context": "Recommendations for other books."
+    },
+    {
+      "name": "Resource Links",
+      "frequency": 1,
+      "context": "Provides external connections."
+    },
+    {
+      "name": "TXT Novel Network",
+      "frequency": 1,
+      "context": "A website mentioned for resources."
+    },
+    {
+      "name": "OCR Cleaning",
+      "frequency": 1,
+      "context": "Explanation of document preparation."
+    },
+    {
+      "name": "Markdown Formatting",
+      "frequency": 1,
+      "context": "Explanation of document structure."
+    }
+  ],
+  "relations": [
+    {
+      "source": "Cang Sheng",
+      "target": "Prince",
+      "type": "is_a"
+    },
+    {
+      "source": "Cang Sheng",
+      "target": "Transmigrator",
+      "type": "is_a"
+    },
+    {
+      "source": "Cang Sheng",
+      "target": "Mysterious Power",
+      "type": "possesses"
+    },
+    {
+      "source": "Cang Sheng",
+      "target": "Resolute",
+      "type": "has_trait"
+    },
+    {
+      "source": "Cang Sheng",
+      "target": "Resourceful",
+      "type": "has_trait"
+    },
+    {
+      "source": "Prince",
+      "target": "Another World",
+      "type": "is_in"
+    },
+    {
+      "source": "Prince",
+      "target": "Court Intrigue",
+      "type": "faces"
+    },
+    {
+      "source": "Prince",
+      "target": "External Threats",
+      "type": "faces"
+    },
+    {
+      "source": "Another World",
+      "target": "World of the Fittest",
+      "type": "is_a"
+    },
+    {
+      "source": "Survival",
+      "target": "Wisdom",
+      "type": "requires"
+    },
+    {
+      "source": "Survival",
+      "target": "Strength",
+      "type": "requires"
+    },
+    {
+      "source": "Story",
+      "target": "Growth",
+      "type": "is_about"
+    },
+    {
+      "source": "Story",
+      "target": "Struggle",
+      "type": "is_about"
+    },
+    {
+      "source": "Story",
+      "target": "Protection",
+      "type": "is_about"
+    },
+    {
+      "source": "Document",
+      "target": "OCR Cleaning",
+      "type": "includes_information_on"
+    },
+    {
+      "source": "Document",
+      "target": "Markdown Formatting",
+      "type": "includes_information_on"
+    },
+    {
+      "source": "Document",
+      "target": "Chapter Directory",
+      "type": "includes"
+    },
+    {
+      "source": "Document",
+      "target": "Reader Feedback",
+      "type": "includes_placeholder_for"
+    },
+    {
+      "source": "Document",
+      "target": "Author's Notes",
+      "type": "includes_placeholder_for"
+    },
+    {
+      "source": "Document",
+      "target": "Similar Works",
+      "type": "includes_placeholder_for"
+    },
+    {
+      "source": "Document",
+      "target": "Resource Links",
+      "type": "includes"
+    },
+    {
+      "source": "Resource Links",
+      "target": "TXT Novel Network",
+      "type": "contains_link_to"
+    }
+  ],
+  "hierarchy": {
+    "main_topics": [
+      "Story Background",
+      "Main Characters",
+      "Story Synopsis",
+      "Quotes",
+      "Chapter Directory",
+      "Reader Feedback",
+      "Author's Notes",
+      "Similar Works Recommendations",
+      "Resource Links",
+      "Notes"
+    ],
+    "structure": "The document is structured with a main title, followed by sections for background, characters, synopsis, thematic quotes, a chapter outline, and supplementary sections for reader interaction, author communication, recommendations, and technical notes about the document's origin and formatting. The sections are hierarchical, with some containing sub-points or examples."
+  }
+}

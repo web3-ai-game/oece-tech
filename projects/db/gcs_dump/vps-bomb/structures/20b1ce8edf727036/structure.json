@@ -1,0 +1,432 @@
+{
+  "propositions": [
+    {
+      "id": "1",
+      "text": "The narrator, Sun Hongbing, recounts his life experiences and current pursuits.",
+      "level": 1
+    },
+    {
+      "id": "1.1",
+      "text": "He was a rebellious child with ambitions of becoming a general.",
+      "level": 2
+    },
+    {
+      "id": "1.2",
+      "text": "He joined the army and attended military school.",
+      "level": 2
+    },
+    {
+      "id": "1.3",
+      "text": "His military career was marked by bravery and a significant accomplishment, earning him a second-class merit.",
+      "level": 2
+    },
+    {
+      "id": "1.4",
+      "text": "He was recruited by a top-secret special department.",
+      "level": 2
+    },
+    {
+      "id": "1.5",
+      "text": "After five years in the special department, he became a team leader but his dream of becoming a general was shattered.",
+      "level": 2
+    },
+    {
+      "id": "1.6",
+      "text": "A mission involving a terrorist resulted in his military career ending abruptly.",
+      "level": 2
+    },
+    {
+      "id": "1.7",
+      "text": "Upon retirement, he felt out of place and spent time traveling.",
+      "level": 2
+    },
+    {
+      "id": "1.8",
+      "text": "He met his former subordinate, Wang Daqiang (Da Ben), who is intelligent and resourceful despite a less conventional appearance.",
+      "level": 2
+    },
+    {
+      "id": "1.9",
+      "text": "The narrator recalls saving Da Ben during a mission to infiltrate a drug cartel led by 'Wild King'.",
+      "level": 2
+    },
+    {
+      "id": "1.10",
+      "text": "During the mission, the narrator and his team encountered strange phenomena in a dense jungle, including unusual insects and vegetation.",
+      "level": 2
+    },
+    {
+      "id": "1.11",
+      "text": "The team discovered carnivorous flowers that ensnared and killed two soldiers, Xiao Liu and Xiao Zhang.",
+      "level": 2
+    },
+    {
+      "id": "1.12",
+      "text": "The narrator survived the encounter by relying on his instincts and managing to incapacitate Da Ben, who had been ensnared by a monstrous tentacle.",
+      "level": 2
+    },
+    {
+      "id": "1.13",
+      "text": "He used an explosive to disrupt the strange phenomena, and they were found by rescuers.",
+      "level": 2
+    },
+    {
+      "id": "1.14",
+      "text": "The event was classified as a top-secret incident, and the narrator was instructed to forget it.",
+      "level": 2
+    },
+    {
+      "id": "1.15",
+      "text": "Despite the experience, the narrator's interest in the unexplained deepened.",
+      "level": 2
+    },
+    {
+      "id": "1.16",
+      "text": "He reconnected with Da Ben, who had also retired and was successful in the business world.",
+      "level": 2
+    },
+    {
+      "id": "1.17",
+      "text": "Inspired by a book and their shared past, they decided to start a company dedicated to exploring the unknown.",
+      "level": 2
+    },
+    {
+      "id": "1.18",
+      "text": "They registered a company for unknown entity research and exploration.",
+      "level": 2
+    },
+    {
+      "id": "1.19",
+      "text": "A mysterious phone call informed them of a potentially ancient cave in Shaanxi, leading them to change their travel plans from Bermuda to Shaanxi.",
+      "level": 2
+    },
+    {
+      "id": "1.20",
+      "text": "They hired a qualified archaeological student, You Xin, to join their expedition.",
+      "level": 2
+    },
+    {
+      "id": "1.21",
+      "text": "The mysterious caller provided them with plane tickets to Shaanxi.",
+      "level": 2
+    },
+    {
+      "id": "2",
+      "text": "The narrator and Da Ben, having achieved financial success with their game 'Destiny', feel a sense of ennui and a desire for change.",
+      "level": 1
+    },
+    {
+      "id": "2.1",
+      "text": "Their game 'Destiny' became a massive success, generating over a hundred million in profit.",
+      "level": 2
+    },
+    {
+      "id": "2.2",
+      "text": "They expanded their business by acquiring music websites and packaging artists.",
+      "level": 2
+    },
+    {
+      "id": "2.3",
+      "text": "The narrator finds the current lifestyle of negotiations and social engagements exhausting and money has lost its significance.",
+      "level": 2
+    },
+    {
+      "id": "2.4",
+      "text": "Both the narrator and Da Ben are seeking a more adventurous and fulfilling life.",
+      "level": 2
+    },
+    {
+      "id": "2.5",
+      "text": "A conversation over drinks about the book 'Bloody Romance' and their past military experiences inspires them to pursue a new life of exploration.",
+      "level": 2
+    },
+    {
+      "id": "2.6",
+      "text": "Da Ben readily agrees to join the narrator in this new venture.",
+      "level": 2
+    },
+    {
+      "id": "3",
+      "text": "The story hints at the existence of inexplicable phenomena and the narrator's evolving understanding of the world.",
+      "level": 1
+    },
+    {
+      "id": "3.1",
+      "text": "The narrator initially dismisses 'ghost calls' as superstition but experiences one firsthand.",
+      "level": 2
+    },
+    {
+      "id": "3.2",
+      "text": "The encounter with the carnivorous flowers and mutated insects challenges his materialistic worldview.",
+      "level": 2
+    },
+    {
+      "id": "3.3",
+      "text": "He develops a keen interest in the supernatural and studies Chinese Feng Shui and ghost lore.",
+      "level": 2
+    },
+    {
+      "id": "3.4",
+      "text": "Despite his past experiences, he remains a rationalist but acknowledges the existence of forces beyond scientific explanation.",
+      "level": 2
+    },
+    {
+      "id": "4",
+      "text": "The narrative sets up an upcoming expedition to a mysterious cave in Shaanxi.",
+      "level": 1
+    },
+    {
+      "id": "4.1",
+      "text": "A mysterious caller contacts the narrator and Da Ben about a potentially ancient cave in Shaanxi.",
+      "level": 2
+    },
+    {
+      "id": "4.2",
+      "text": "The call is attributed to a 'ghost call' phenomenon, adding an element of mystery.",
+      "level": 2
+    },
+    {
+      "id": "4.3",
+      "text": "The expedition team will include the narrator, Da Ben, and a skilled archaeologist named You Xin.",
+      "level": 2
+    },
+    {
+      "id": "4.4",
+      "text": "The trip to Shaanxi is arranged with purchased plane tickets, indicating a pre-arranged plan.",
+      "level": 2
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Sun Hongbing",
+      "frequency": 11,
+      "context": "The narrator and protagonist."
+    },
+    {
+      "name": "Da Ben",
+      "frequency": 10,
+      "context": "Wang Daqiang, a former subordinate and current business partner of the narrator."
+    },
+    {
+      "name": "Military",
+      "frequency": 13,
+      "context": "Refers to the narrator's and Da Ben's past careers, experiences, and mindset."
+    },
+    {
+      "name": "Special Department",
+      "frequency": 2,
+      "context": "A secret government organization where the narrator worked."
+    },
+    {
+      "name": "Mission",
+      "frequency": 5,
+      "context": "Refers to various dangerous operations undertaken by the narrator and his team."
+    },
+    {
+      "name": "Wild King",
+      "frequency": 3,
+      "context": "A notorious international drug lord."
+    },
+    {
+      "name": "Jungle",
+      "frequency": 5,
+      "context": "The setting for a dangerous mission where supernatural events occurred."
+    },
+    {
+      "name": "Carnivorous Flowers",
+      "frequency": 4,
+      "context": "Mysterious and dangerous plants encountered in the jungle."
+    },
+    {
+      "name": "Mysterious Phenomena",
+      "frequency": 5,
+      "context": "Unexplained events that challenge the narrator's rational worldview."
+    },
+    {
+      "name": "Unknown Entity Research",
+      "frequency": 2,
+      "context": "The business venture started by the narrator and Da Ben."
+    },
+    {
+      "name": "Shaanxi",
+      "frequency": 3,
+      "context": "The destination of their upcoming expedition."
+    },
+    {
+      "name": "Ancient Cave",
+      "frequency": 3,
+      "context": "The subject of their new investigation."
+    },
+    {
+      "name": "Mysterious Phone Call",
+      "frequency": 3,
+      "context": "An anonymous call that sets the Shaanxi expedition in motion."
+    },
+    {
+      "name": "You Xin",
+      "frequency": 6,
+      "context": "A skilled archaeologist hired for the Shaanxi expedition."
+    },
+    {
+      "name": "Ghost Call",
+      "frequency": 2,
+      "context": "A supernatural phenomenon believed to be a call from the deceased."
+    },
+    {
+      "name": "Exploration",
+      "frequency": 4,
+      "context": "A driving force for the narrator and Da Ben's new life path."
+    },
+    {
+      "name": "Supernatural",
+      "frequency": 3,
+      "context": "Forces and phenomena that defy scientific explanation."
+    },
+    {
+      "name": "Business",
+      "frequency": 4,
+      "context": "Refers to the narrator's and Da Ben's ventures, including their game company and exploration firm."
+    },
+    {
+      "name": "Treasure Hunting",
+      "frequency": 1,
+      "context": "One of the activities within their exploration company's scope."
+    },
+    {
+      "name": "Archaeology",
+      "frequency": 3,
+      "context": "A field of study relevant to their Shaanxi expedition."
+    }
+  ],
+  "relations": [
+    {
+      "source": "Sun Hongbing",
+      "target": "Military",
+      "type": "is_a_former"
+    },
+    {
+      "source": "Da Ben",
+      "target": "Military",
+      "type": "is_a_former"
+    },
+    {
+      "source": "Sun Hongbing",
+      "target": "Special Department",
+      "type": "worked_in"
+    },
+    {
+      "source": "Sun Hongbing",
+      "target": "Wild King",
+      "type": "fought_against"
+    },
+    {
+      "source": "Sun Hongbing",
+      "target": "Carnivorous Flowers",
+      "type": "encountered"
+    },
+    {
+      "source": "Da Ben",
+      "target": "Carnivorous Flowers",
+      "type": "encountered"
+    },
+    {
+      "source": "Sun Hongbing",
+      "target": "Mysterious Phenomena",
+      "type": "experienced"
+    },
+    {
+      "source": "Sun Hongbing",
+      "target": "Exploration",
+      "type": "pursues"
+    },
+    {
+      "source": "Da Ben",
+      "target": "Exploration",
+      "type": "pursues"
+    },
+    {
+      "source": "Sun Hongbing",
+      "target": "Unknown Entity Research",
+      "type": "founded"
+    },
+    {
+      "source": "Da Ben",
+      "target": "Unknown Entity Research",
+      "type": "founded"
+    },
+    {
+      "source": "Sun Hongbing",
+      "target": "Shaanxi",
+      "type": "travels_to"
+    },
+    {
+      "source": "Da Ben",
+      "target": "Shaanxi",
+      "type": "travels_to"
+    },
+    {
+      "source": "Sun Hongbing",
+      "target": "Ancient Cave",
+      "type": "investigates"
+    },
+    {
+      "source": "Da Ben",
+      "target": "Ancient Cave",
+      "type": "investigates"
+    },
+    {
+      "source": "Mysterious Phone Call",
+      "target": "Sun Hongbing",
+      "type": "received_by"
+    },
+    {
+      "source": "Mysterious Phone Call",
+      "target": "Da Ben",
+      "type": "received_by"
+    },
+    {
+      "source": "Sun Hongbing",
+      "target": "You Xin",
+      "type": "hires"
+    },
+    {
+      "source": "Da Ben",
+      "target": "You Xin",
+      "type": "hires"
+    },
+    {
+      "source": "Ghost Call",
+      "target": "Mysterious Phone Call",
+      "type": "is_a"
+    },
+    {
+      "source": "Sun Hongbing",
+      "target": "Supernatural",
+      "type": "developed_interest_in"
+    },
+    {
+      "source": "Da Ben",
+      "target": "Business",
+      "type": "involved_in"
+    },
+    {
+      "source": "Sun Hongbing",
+      "target": "Business",
+      "type": "involved_in"
+    },
+    {
+      "source": "You Xin",
+      "target": "Archaeology",
+      "type": "specializes_in"
+    }
+  ],
+  "hierarchy": {
+    "main_topics": [
+      "Narrator's Personal History and Military Career",
+      "Encounter with the Supernatural",
+      "New Business Venture and Expedition Planning",
+      "The Mysterious Shaanxi Cave"
+    ],
+    "structure": "The document begins with the narrator's autobiography, then details a past traumatic and supernatural experience, leading into his current life and decision to embark on a new venture. The narrative culminates in the preparation for an expedition to a mysterious location, framed by a cryptic phone call and the hiring of an expert. The structure moves from personal history to a specific inciting incident and then to future plans."
+  }
+}

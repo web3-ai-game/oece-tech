@@ -1,0 +1,205 @@
+# VPS 4v8g 優化配置 - 使用 Supabase 托管數據庫
+# 總 RAM: ~7.8GB / 8GB
+# 節省 1GB RAM (移除本地 Postgres 容器)
+# 適用於:新加坡 VPS 生產環境
+
+services:
+  # ===========================================
+  # Next.js Web App - 首頁
+  # ===========================================
+  web:
+    build:
+      context: ./apps/web
+      dockerfile: Dockerfile
+    container_name: deepway-web
+    environment:
+      - NODE_ENV=production
+      - DATABASE_URL=${SUPABASE_DB_URL}
+      - NEXT_PUBLIC_SUPABASE_URL=${NEXT_PUBLIC_SUPABASE_URL}
+      - NEXT_PUBLIC_SUPABASE_ANON_KEY=${NEXT_PUBLIC_SUPABASE_AN}
+      - SUPABASE_SERVICE_ROLE_KEY=${SUPABASE_SERVICE_ROLE_KEY}
+    ports:
+      - "3000:3000"
+    depends_on:
+      - redis
+    restart: unless-stopped
+    cpus: 0.5
+    mem_limit: 512m
+
+  # ===========================================
+  # Gemini AI Router - 核心服務
+  # ===========================================
+  gemini-router:
+    build:
+      context: ./apps/forum-backend
+      dockerfile: Dockerfile
+    container_name: gemini-router
+    environment:
+      # Gemini API Keys（25個）
+      - GEMINI_ROUTER_LEADER_1=${GEMINI_ROUTER_LEADER_1}
+      - GEMINI_ROUTER_LEADER_2=${GEMINI_ROUTER_LEADER_2}
+      - GEMINI_API_KEYS=${GEMINI_API_KEYS}
+      - GEMINI_ROUTER_STRATEGY=priority
+      - GEMINI_MAX_RPM_PER_KEY=10
+      # Redis 連接
+      - REDIS_URL=redis://redis:6379
+      # 日誌級別
+      - LOG_LEVEL=info
+    ports:
+      - "5000:5000"
+    depends_on:
+      - redis
+    restart: unless-stopped
+    cpus: 0.5
+    mem_limit: 1g
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:5000/health"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+
+  # ===========================================
+  # Telegram Bots - 3個機器人
+  # ===========================================
+  telegram-bots:
+    build:
+      context: ./apps/telegram-bot
+      dockerfile: Dockerfile
+    container_name: telegram-bots
+    environment:
+      # Bot Tokens
+      - TELEGRAM_BOT_TOKEN=${TELEGRAM_BOT_SVSKILO_TOKEN}
+      - TELEGRAM_LOVE_BOT_TOKEN=${TELEGRAM_BOT_LOVE_TOKEN}
+      - TELEGRAM_INST_BOT_TOKEN=${TELEGRAM_BOT_XIAOAI_TOKEN}
+      # Gemini API
+      - GEMINI_API_KEYS=${GEMINI_API_KEYS}
+      # Supabase 托管數據庫
+      - DATABASE_URL=${SUPABASE_DB_URL}
+      - SUPABASE_URL=${SUPABASE_URL}
+      - SUPABASE_ANON_KEY=${SUPABASE_ANON_KEY}
+      - SUPABASE_SERVICE_ROLE_KEY=${SUPABASE_SERVICE_ROLE_KEY}
+      # Redis 連接
+      - REDIS_URL=redis://redis:6379
+    depends_on:
+      - redis
+      - gemini-router
+    restart: unless-stopped
+    cpus: 0.5
+    mem_limit: 768m
+
+  # ===========================================
+  # Redis - 緩存服務
+  # ===========================================
+  redis:
+    image: redis:7-alpine
+    container_name: redis
+    command: >
+      redis-server
+      --maxmemory 512mb
+      --maxmemory-policy allkeys-lru
+      --save 900 1
+      --save 300 10
+      --save 60 10000
+      --appendonly yes
+    ports:
+      - "6379:6379"
+    volumes:
+      - redis_data:/data
+    restart: unless-stopped
+    cpus: 0.25
+    mem_limit: 512m
+    healthcheck:
+      test: ["CMD", "redis-cli", "ping"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+
+  # ===========================================
+  # Datadog Agent - 監控（你已訂閱）
+  # ===========================================
+  datadog:
+    image: datadog/agent:latest
+    container_name: datadog-agent
+    environment:
+      - DD_API_KEY=${DD_API_KEY}
+      - DD_SITE=datadoghq.com
+      - DD_HOSTNAME=vps-singapore-deepway
+      - DD_TAGS=env:production,service:deepway-mcp
+      - DD_LOGS_ENABLED=true
+      - DD_APM_ENABLED=true
+      - DD_PROCESS_AGENT_ENABLED=true
+      - DD_DOGSTATSD_NON_LOCAL_TRAFFIC=true
+      - DD_CONTAINER_LABELS_AS_TAGS=true
+      - DD_DOCKER_LABELS_AS_TAGS=true
+    volumes:
+      - /var/run/docker.sock:/var/run/docker.sock:ro
+      - /proc/:/host/proc/:ro
+      - /sys/fs/cgroup/:/host/sys/fs/cgroup:ro
+      - /var/lib/docker/containers:/var/lib/docker/containers:ro
+    restart: unless-stopped
+    cpus: 0.25
+    mem_limit: 512m
+
+  # ===========================================
+  # Nginx - 反向代理
+  # ===========================================
+  nginx:
+    image: nginx:alpine
+    container_name: nginx
+    ports:
+      - "80:80"
+      - "443:443"
+    volumes:
+      - ./nginx/nginx.conf:/etc/nginx/nginx.conf:ro
+      - ./nginx/ssl:/etc/nginx/ssl:ro
+    depends_on:
+      - gemini-router
+    restart: unless-stopped
+    cpus: 0.25
+    mem_limit: 128m
+    healthcheck:
+      test: ["CMD", "wget", "--quiet", "--tries=1", "--spider", "http://localhost/health"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+
+# ===========================================
+# 數據卷
+
+  # ===========================================
+  # Gemini Key Pool Router - 智能 Key 路由
+  # ===========================================
+  gemini-key-pool:
+    build: ./apps/gemini-router
+    container_name: gemini-key-pool
+    ports:
+      - "8000:8000"
+    environment:
+      - REDIS_URL=redis://redis:6379
+      - GEMINI_API_KEYS=${GEMINI_API_KEYS}
+      - GEMINI_KEY_PRIMARY=${GEMINI_KEY_PRIMARY}
+      - GEMINI_KEY_BACKUP=${GEMINI_KEY_BACKUP}
+      # Supabase 數據庫連接
+      - DATABASE_URL=${SUPABASE_DB_URL}
+      - SUPABASE_URL=${SUPABASE_URL}
+      - SUPABASE_ANON_KEY=${SUPABASE_ANON_KEY}
+    depends_on:
+      - redis
+    restart: unless-stopped
+    cpus: 0.3
+    mem_limit: 512m
+
+# ===========================================
+# 數據卷 (移除 postgres_data,使用 Supabase 托管)
+# ===========================================
+volumes:
+  redis_data:
+    driver: local
+
+# ===========================================
+# 網絡
+# ===========================================
+networks:
+  default:
+    name: deepway-network
+    driver: bridge

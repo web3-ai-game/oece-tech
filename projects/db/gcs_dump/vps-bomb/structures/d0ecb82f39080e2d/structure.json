@@ -1,0 +1,402 @@
+{
+  "propositions": [
+    {
+      "id": "1",
+      "text": "《拇指一竖》是一部阿加莎·克里斯蒂的作品，可在www.xiaoshuotxt.com找到相关信息。",
+      "level": 1
+    },
+    {
+      "id": "2",
+      "text": "贝瑞福夫妇过着平静而愉快的生活，认为自己刚过中年。",
+      "level": 1
+    },
+    {
+      "id": "2.1",
+      "text": "他们与年轻人对人生的看法不同，年轻人只关心考试、性生活、新衣服或发型。",
+      "level": 2
+    },
+    {
+      "id": "3",
+      "text": "贝瑞福先生收到一封信，这让他联想到爱妲姑姑。",
+      "level": 1
+    },
+    {
+      "id": "3.1",
+      "text": "贝瑞福先生的思考被打断，他查看了装铅管工人的账单和一家新养老院的声明。",
+      "level": 2
+    },
+    {
+      "id": "4",
+      "text": "许多家庭都有一个“爱妲姑姑问题”，需要为她们安排晚年生活。",
+      "level": 1
+    },
+    {
+      "id": "4.1",
+      "text": "过去，老人们可以住在家里，由老佣人照顾，但现在时代不同了。",
+      "level": 2
+    },
+    {
+      "id": "4.2",
+      "text": "现代的“爱妲姑姑”比小孩更麻烦，需要更妥善的安置。",
+      "level": 2
+    },
+    {
+      "id": "5",
+      "text": "普琳若姑婆的故事展示了安置老人困难的例子。",
+      "level": 1
+    },
+    {
+      "id": "5.1",
+      "text": "普琳若姑婆不停地更换养老院，最后被一个年轻人骗取金钱。",
+      "level": 2
+    },
+    {
+      "id": "6",
+      "text": "贝瑞福夫妇决定去看望爱妲姑姑。",
+      "level": 1
+    },
+    {
+      "id": "6.1",
+      "text": "他们认为已经有一年多没去看她了，并对时间过得飞快感到惊讶。",
+      "level": 2
+    },
+    {
+      "id": "6.2",
+      "text": "他们讨论了为老人提供适当照顾的重要性，以及莫瑞医生是一位好医生。",
+      "level": 2
+    },
+    {
+      "id": "6.3",
+      "text": "爱妲姑姑八十二（或八十三）岁，贝瑞福夫妇担心她孤单。",
+      "level": 2
+    },
+    {
+      "id": "6.4",
+      "text": "爱妲姑姑认为活着比朋友先走是一种胜利。",
+      "level": 2
+    },
+    {
+      "id": "6.5",
+      "text": "尽管贝瑞福太太觉得看爱妲姑姑是“灾难”，但她决定一同前往。",
+      "level": 2
+    },
+    {
+      "id": "7",
+      "text": "“阳光山脊”养老院是一栋整修过的维多利亚式大厦。",
+      "level": 1
+    },
+    {
+      "id": "7.1",
+      "text": "一位年轻人开门接待了贝瑞福夫妇，并告知凯若威太太吞下了顶针。",
+      "level": 2
+    },
+    {
+      "id": "7.2",
+      "text": "裴卡德小姐向贝瑞福夫妇道歉，并告知范修小姐（爱妲姑姑）身体差，常常弄错事情，甚至以为贝瑞福先生已经去世。",
+      "level": 2
+    },
+    {
+      "id": "8",
+      "text": "在房间里，一位老太太高声喊着要喝可可。",
+      "level": 1
+    },
+    {
+      "id": "9",
+      "text": "爱妲姑姑表现出健忘、固执和敌意的特质。",
+      "level": 1
+    },
+    {
+      "id": "9.1",
+      "text": "她不认识汤米，误以为他是铅管工人或修理电器的人。",
+      "level": 2
+    },
+    {
+      "id": "9.2",
+      "text": "她不喜欢普如登的名字，认为像佣人的名字。",
+      "level": 2
+    },
+    {
+      "id": "9.3",
+      "text": "她不喜欢在病房里摆花，认为会耗尽氧气。",
+      "level": 2
+    },
+    {
+      "id": "9.4",
+      "text": "她声称只有一个叫威廉的侄儿，并且认为汤米是个“坏女人”带来的。",
+      "level": 2
+    },
+    {
+      "id": "9.5",
+      "text": "她表示累了，让贝瑞福夫妇离开，不希望陌生人打扰。",
+      "level": 2
+    },
+    {
+      "id": "9.6",
+      "text": "在贝瑞福夫妇离开时，她认出了汤米，并对普如登表现出敌意。",
+      "level": 2
+    },
+    {
+      "id": "10",
+      "text": "汤米告诉爱妲姑姑他母亲已经去世近四十年。",
+      "level": 1
+    },
+    {
+      "id": "10.1",
+      "text": "爱妲姑姑抱怨他没有结婚，并指责他带“坏女人”。",
+      "level": 2
+    },
+    {
+      "id": "10.2",
+      "text": "她表示没有人告诉她消息，并希望“赶上时代”。",
+      "level": 2
+    },
+    {
+      "id": "10.3",
+      "text": "汤米遵循了“不超过六十五岁的人挑毛病，要马上道歉”的原则。",
+      "level": 2
+    },
+    {
+      "id": "10.4",
+      "text": "爱妲姑姑表达了对被陌生人打扰和可能发生抢劫或谋杀的担忧。",
+      "level": 2
+    },
+    {
+      "id": "10.5",
+      "text": "她回忆起一个自称“威廉医生”的人，并怀疑对方的身份，认为“魔盒”和“预言”之类的东西不应该被轻易相信。",
+      "level": 2
+    },
+    {
+      "id": "10.6",
+      "text": "她坚信自己不会忘记任何人的脸，并询问凯若琳姑姑的情况。",
+      "level": 2
+    },
+    {
+      "id": "10.7",
+      "text": "她认为人们缺乏活力，生病是医生赚钱的手段。",
+      "level": 2
+    },
+    {
+      "id": "11",
+      "text": "裴卡德小姐为爱妲姑姑的固执和胡思乱想感到抱歉，但她喜欢这份工作。",
+      "level": 1
+    },
+    {
+      "id": "11.1",
+      "text": "她认为老年人像小孩，但比小孩更难沟通，需要“知道怎么处理”。",
+      "level": 2
+    },
+    {
+      "id": "12",
+      "text": "蓝凯斯特太太是一位住在“阳光山脊”的老太太，她似乎有些糊涂。",
+      "level": 1
+    },
+    {
+      "id": "12.1",
+      "text": "她问两便士是不是来看管火炉后面死小孩的事，并认为小孩是两便士的。",
+      "level": 2
+    },
+    {
+      "id": "12.2",
+      "text": "她每天早上十一点十分都会有这个想法，但别人不相信她。",
+      "level": 2
+    },
+    {
+      "id": "13",
+      "text": "两便士对蓝凯斯特太太的“死小孩”的说法感到困惑和好奇。",
+      "level": 1
+    },
+    {
+      "id": "14",
+      "text": "爱妲姑姑在睡梦中去世了。",
+      "level": 1
+    },
+    {
+      "id": "15",
+      "text": "贝瑞福夫妇参加了爱妲姑姑在林肯郡的葬礼。",
+      "level": 1
+    },
+    {
+      "id": "15.1",
+      "text": "两便士觉得葬礼让人难过，特别是像爱妲姑姑这样孤独的葬礼。",
+      "level": 2
+    },
+    {
+      "id": "15.2",
+      "text": "汤米清理爱妲姑姑的遗物，她没有留下遗产，但有许多猫喜欢的东西。",
+      "level": 2
+    },
+    {
+      "id": "15.3",
+      "text": "汤米是她的法定执行人，他们需要去“阳光山脊”收拾她的东西。",
+      "level": 2
+    },
+    {
+      "id": "15.4",
+      "text": "两便士想再去看看蓝凯斯特太太，想弄清楚她关于壁炉后面死小孩的故事。",
+      "level": 2
+    },
+    {
+      "id": "16",
+      "text": "贝瑞福夫妇再次来到“阳光山脊”养老院。",
+      "level": 1
+    },
+    {
+      "id": "16.1",
+      "text": "两便士觉得时间在这里似乎停滞了，一切和上次来时一样。",
+      "level": 2
+    },
+    {
+      "id": "16.2",
+      "text": "裴卡德小姐的态度变得更加严肃和悲伤，因为爱妲姑姑去世了。",
+      "level": 2
+    },
+    {
+      "id": "16.3",
+      "text": "他们参观了爱妲姑姑的房间，并讨论了如何处理她的衣物。",
+      "level": 2
+    }
+  ],
+  "concepts": [
+    {
+      "name": "爱妲姑姑",
+      "frequency": 17,
+      "context": "核心人物，养老院的住客，性格古怪、固执、健忘但又精明。"
+    },
+    {
+      "name": "贝瑞福夫妇",
+      "frequency": 18,
+      "context": "前来探望爱妲姑姑的夫妇，代表着一种平静、愉快但略显乏味的生活方式。"
+    },
+    {
+      "name": "汤米（贝瑞福先生）",
+      "frequency": 12,
+      "context": "贝瑞福先生，爱妲姑姑的侄子，对家庭责任有责任感，但有时缺乏耐心。"
+    },
+    {
+      "name": "两便士（贝瑞福太太）",
+      "frequency": 15,
+      "context": "贝瑞福太太，性格直率、务实，对“爱妲姑姑”这类人持有保留态度，但有责任感。"
+    },
+    {
+      "name": "阳光山脊",
+      "frequency": 8,
+      "context": "一家养老院，故事的主要发生地，环境描写暗示了时间停滞和老年人的生活状态。"
+    },
+    {
+      "name": "养老院",
+      "frequency": 12,
+      "context": "故事中老年人居住的地方，也象征着晚年生活的安置和相关问题。"
+    },
+    {
+      "name": "裴卡德小姐",
+      "frequency": 8,
+      "context": "“阳光山脊”的管理者，以一种冷静、有能力的方式处理着老年人的各种问题。"
+    },
+    {
+      "name": "时间",
+      "frequency": 7,
+      "context": "贯穿故事的主题，体现在老人对时间的感知，以及时间流逝的普遍性。"
+    },
+    {
+      "name": "蓝凯斯特太太",
+      "frequency": 6,
+      "context": "“阳光山脊”的住客，有关于“火炉后面死小孩”的奇怪想法，代表了老年人的幻想和困惑。"
+    },
+    {
+      "name": "去世",
+      "frequency": 5,
+      "context": "爱妲姑姑的去世是故事的转折点，也引发了关于葬礼和遗物的讨论。"
+    },
+    {
+      "name": "记忆",
+      "frequency": 4,
+      "context": "与老年人的健忘和固执相关，也体现在爱妲姑姑对过去的回忆和对汤米母亲的记忆。"
+    },
+    {
+      "name": "责任",
+      "frequency": 3,
+      "context": "贝瑞福夫妇对待爱妲姑姑的责任，以及处理遗物的责任。"
+    },
+    {
+      "name": "幻想",
+      "frequency": 2,
+      "context": "蓝凯斯特太太的“死小孩”幻想，以及裴卡德小姐对住客幻想的看法。"
+    }
+  ],
+  "relations": [
+    {
+      "source": "爱妲姑姑",
+      "target": "养老院",
+      "type": "resides_in"
+    },
+    {
+      "source": "贝瑞福夫妇",
+      "target": "爱妲姑姑",
+      "type": "visits"
+    },
+    {
+      "source": "汤米",
+      "target": "爱妲姑姑",
+      "type": "nephew_of"
+    },
+    {
+      "source": "两便士",
+      "target": "汤米",
+      "type": "wife_of"
+    },
+    {
+      "source": "裴卡德小姐",
+      "target": "阳光山脊",
+      "type": "manages"
+    },
+    {
+      "source": "蓝凯斯特太太",
+      "target": "阳光山脊",
+      "type": "resides_in"
+    },
+    {
+      "source": "爱妲姑姑",
+      "target": "去世",
+      "type": "undergoes"
+    },
+    {
+      "source": "贝瑞福夫妇",
+      "target": "葬礼",
+      "type": "attends"
+    },
+    {
+      "source": "汤米",
+      "target": "爱妲姑姑",
+      "type": "executor_of"
+    },
+    {
+      "source": "两便士",
+      "target": "蓝凯斯特太太",
+      "type": "curious_about"
+    },
+    {
+      "source": "时间",
+      "target": "阳光山脊",
+      "type": "perceived_as_stagnant_in"
+    },
+    {
+      "source": "幻想",
+      "target": "蓝凯斯特太太",
+      "type": "exhibits"
+    },
+    {
+      "source": "责任",
+      "target": "贝瑞福夫妇",
+      "type": "feels_towards_爱妲姑姑"
+    }
+  ],
+  "hierarchy": {
+    "main_topics": [
+      "Characters and Relationships",
+      "Setting: Sunshine Ridge and its Inhabitants",
+      "Themes: Time, Memory, Responsibility, Illusion",
+      "Plot Progression: From Visit to Funeral and Aftermath"
+    ],
+    "structure": "The document is structured chronologically, following the visit of the Berryfords to their eccentric Aunt Agatha, interspersed with anecdotes illustrating the challenges of caring for the elderly. It progresses through the characters' observations, interactions, and finally culminates in Aunt Agatha's death and funeral, leading to the resolution of handling her belongings and a lingering curiosity about the mysterious old lady at the nursing home."
+  }
+}

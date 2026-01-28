@@ -1,0 +1,153 @@
+{
+  "propositions": [
+    {
+      "id": "1",
+      "text": "Huang Taizi's rebirth marks the beginning of a journey to alter his destiny.",
+      "level": 1
+    },
+    {
+      "id": "1.1",
+      "text": "He returns with memories of his past life, determined to avoid previous mistakes.",
+      "level": 2
+    },
+    {
+      "id": "1.2",
+      "text": "His initial challenges include adapting to a familiar yet altered palace environment.",
+      "level": 2
+    },
+    {
+      "id": "2",
+      "text": "Palace intrigues and power struggles are central to Huang Taizi's challenges.",
+      "level": 1
+    },
+    {
+      "id": "2.1",
+      "text": "He faces conspiracies from family members and court officials.",
+      "level": 2
+    },
+    {
+      "id": "2.2",
+      "text": "Strategic alliances and betrayals shape his path to power.",
+      "level": 2
+    },
+    {
+      "id": "3",
+      "text": "Emotional conflicts add complexity to Huang Taizi's journey.",
+      "level": 1
+    },
+    {
+      "id": "3.1",
+      "text": "Romantic entanglements with past and new loves create personal dilemmas.",
+      "level": 2
+    },
+    {
+      "id": "3.2",
+      "text": "He struggles to balance love with royal duties and responsibilities.",
+      "level": 2
+    },
+    {
+      "id": "4",
+      "text": "Strategic maneuvers and reforms define Huang Taizi's rise to power.",
+      "level": 1
+    },
+    {
+      "id": "4.1",
+      "text": "He implements policies to gain public support and weaken enemies.",
+      "level": 2
+    },
+    {
+      "id": "4.2",
+      "text": "Military leadership and decisive battles solidify his authority.",
+      "level": 2
+    },
+    {
+      "id": "5",
+      "text": "Ultimate challenges and resolutions shape Huang Taizi's legacy.",
+      "level": 1
+    },
+    {
+      "id": "5.1",
+      "text": "Confronting final conspiracies and external threats tests his resolve.",
+      "level": 2
+    },
+    {
+      "id": "5.2",
+      "text": "His decisions determine the future of his reign and personal life.",
+      "level": 2
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Rebirth",
+      "frequency": 25,
+      "context": "Central theme of Huang Taizi's second chance at life with past memories."
+    },
+    {
+      "name": "Power Struggle",
+      "frequency": 20,
+      "context": "Constant conflict within the palace and family for control and influence."
+    },
+    {
+      "name": "Conspiracy",
+      "frequency": 18,
+      "context": "Hidden plots and schemes against Huang Taizi by enemies and allies."
+    },
+    {
+      "name": "Emotional Conflict",
+      "frequency": 15,
+      "context": "Personal dilemmas involving love and duty impacting decisions."
+    },
+    {
+      "name": "Reform",
+      "frequency": 10,
+      "context": "Policies and changes initiated by Huang Taizi to improve governance."
+    },
+    {
+      "name": "Alliance",
+      "frequency": 12,
+      "context": "Strategic partnerships formed to strengthen his position."
+    }
+  ],
+  "relations": [
+    {
+      "source": "Rebirth",
+      "target": "Power Struggle",
+      "type": "triggers"
+    },
+    {
+      "source": "Power Struggle",
+      "target": "Conspiracy",
+      "type": "involves"
+    },
+    {
+      "source": "Huang Taizi",
+      "target": "Emotional Conflict",
+      "type": "experiences"
+    },
+    {
+      "source": "Alliance",
+      "target": "Power Struggle",
+      "type": "mitigates"
+    },
+    {
+      "source": "Reform",
+      "target": "Power Struggle",
+      "type": "challenges"
+    },
+    {
+      "source": "Conspiracy",
+      "target": "Huang Taizi",
+      "type": "targets"
+    }
+  ],
+  "hierarchy": {
+    "main_topics": [
+      "Rebirth and Destiny",
+      "Palace Intrigues",
+      "Emotional Dilemmas",
+      "Strategic Rise",
+      "Ultimate Challenges"
+    ],
+    "structure": "The document is structured as a narrative with recurring themes of rebirth, power struggles, and personal growth across multiple chapters and perspectives, focusing on Huang Taizi's journey through various challenges to achieve redemption and authority."
+  }
+}

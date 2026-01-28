@@ -1,0 +1,201 @@
+{
+  "propositions": [
+    {
+      "id": "1",
+      "text": "她是名门千金，却被命运剥夺了所有，只能苟延残喘。",
+      "level": 1
+    },
+    {
+      "id": "1.1",
+      "text": "她知道，这是上天对她的惩罚，所以她努力活着，希望能换来一丝生的希望。",
+      "level": 2
+    },
+    {
+      "id": "1.1.1",
+      "text": "可是，希望却像遥不可及的星辰，总是那么遥远。",
+      "level": 3
+    },
+    {
+      "id": "1.1.1.1",
+      "text": "她不怕死，怕的是，她会变成别人手中的玩偶，任人摆布。",
+      "level": 4
+    },
+    {
+      "id": "2",
+      "text": "一个惊喜的声音传来，她费力地睁开眼睛，映入眼帘的是一张带着焦急的脸。",
+      "level": 1
+    },
+    {
+      "id": "2.1",
+      "text": "“你是……？”",
+      "level": 2
+    },
+    {
+      "id": "3",
+      "text": "“小姐！我是小翠啊！您不认识我了？”",
+      "level": 1
+    },
+    {
+      "id": "4",
+      "text": "小翠？她想起来了，她是她的贴身侍女。",
+      "level": 1
+    },
+    {
+      "id": "5",
+      "text": "“小翠……我……”",
+      "level": 1
+    },
+    {
+      "id": "6",
+      "text": "“小姐！您先别说了，喝点水吧！”",
+      "level": 1
+    },
+    {
+      "id": "7",
+      "text": "喝了一口水，润了润干涩的喉咙，她继续问道：“我这是在哪里？”",
+      "level": 1
+    },
+    {
+      "id": "8",
+      "text": "“小姐！您还在将军府啊！”",
+      "level": 1
+    },
+    {
+      "id": "9",
+      "text": "将军府？她怎么会在这里？",
+      "level": 1
+    },
+    {
+      "id": "10",
+      "text": "“小翠，到底发生什么事了？我怎么会……”",
+      "level": 1
+    },
+    {
+      "id": "11",
+      "text": "“小姐！您就别想了，您就好好休息吧！”",
+      "level": 1
+    },
+    {
+      "id": "12",
+      "text": "“我没事，告诉我，到底怎么了？”",
+      "level": 1
+    },
+    {
+      "id": "13",
+      "text": "“小姐！昨天您……”",
+      "level": 1
+    },
+    {
+      "id": "14",
+      "text": "小翠含糊其辞，欲言又止，这让她的心中充满了疑惑。",
+      "level": 1
+    }
+  ],
+  "concepts": [
+    {
+      "name": "名门千金",
+      "frequency": 1,
+      "context": "她是名门千金，却被命运剥夺了所有，只能苟延残喘。"
+    },
+    {
+      "name": "命运",
+      "frequency": 1,
+      "context": "却被命运剥夺了所有，只能苟延残喘。"
+    },
+    {
+      "name": "惩罚",
+      "frequency": 1,
+      "context": "她知道，这是上天对她的惩罚，所以她努力活着，希望能换来一丝生的希望。"
+    },
+    {
+      "name": "希望",
+      "frequency": 2,
+      "context": "所以她努力活着，希望能换来一丝生的希望。/可是，希望却像遥不可及的星辰，总是那么遥远。"
+    },
+    {
+      "name": "星辰",
+      "frequency": 1,
+      "context": "希望却像遥不可及的星辰，总是那么遥远。"
+    },
+    {
+      "name": "玩偶",
+      "frequency": 1,
+      "context": "她会变成别人手中的玩偶，任人摆布。"
+    },
+    {
+      "name": "焦急",
+      "frequency": 1,
+      "context": "映入眼帘的是一张带着焦急的脸。"
+    },
+    {
+      "name": "小翠",
+      "frequency": 4,
+      "context": "“小姐！我是小翠啊！您不认识我了？” /小翠？她想起来了，她是她的贴身侍女。/“小姐！您先别说了，喝点水吧！” /“小姐！您还在将军府啊！”"
+    },
+    {
+      "name": "贴身侍女",
+      "frequency": 1,
+      "context": "她是她的贴身侍女。"
+    },
+    {
+      "name": "将军府",
+      "frequency": 2,
+      "context": "“小姐！您还在将军府啊！” /将军府？她怎么会在这里？"
+    },
+    {
+      "name": "疑惑",
+      "frequency": 7,
+      "context": "这让她的心中充满了疑惑。"
+    }
+  ],
+  "relations": [
+    {
+      "source": "名门千金",
+      "target": "命运",
+      "type": "affected_by"
+    },
+    {
+      "source": "命运",
+      "target": "剥夺",
+      "type": "implies"
+    },
+    {
+      "source": "惩罚",
+      "target": "上天",
+      "type": "administered_by"
+    },
+    {
+      "source": "希望",
+      "target": "星辰",
+      "type": "simile"
+    },
+    {
+      "source": "她",
+      "target": "玩偶",
+      "type": "fear_of_becoming"
+    },
+    {
+      "source": "小翠",
+      "target": "贴身侍女",
+      "type": "is_a"
+    },
+    {
+      "source": "她",
+      "target": "将军府",
+      "type": "is_in"
+    },
+    {
+      "source": "小翠",
+      "target": "疑惑",
+      "type": "causes"
+    }
+  ],
+  "hierarchy": {
+    "main_topics": [
+      "Introduction of Protagonist",
+      "Awakening and Interaction with Maid",
+      "Current Situation and Mystery"
+    ],
+    "structure": "The document begins with a title and a URL, followed by an introductory section ('楔子'). This section introduces the protagonist's dire circumstances, her inner fears, and then transitions into a dialogue between the protagonist and her maid, Xiao Cui. The dialogue is characterized by the maid's evasiveness, which deepens the protagonist's confusion and creates a sense of mystery about past events."
+  }
+}

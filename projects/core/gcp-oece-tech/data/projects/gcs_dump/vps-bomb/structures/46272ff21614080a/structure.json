@@ -1,0 +1,457 @@
+{
+  "propositions": [
+    {
+      "id": "1",
+      "text": "Mrs. McGillycuddy boards a train at Paddington Station.",
+      "level": 1
+    },
+    {
+      "id": "1.1",
+      "text": "She is described as short and stout, burdened with Christmas shopping.",
+      "level": 2
+    },
+    {
+      "id": "1.2",
+      "text": "Her porter is tall and moves with a measured stride.",
+      "level": 2
+    },
+    {
+      "id": "2",
+      "text": "The train is the 4:54 PM service to Braighton.",
+      "level": 1
+    },
+    {
+      "id": "2.1",
+      "text": "It stops at various stations including Michester, Wiveton, and Chardmouth.",
+      "level": 2
+    },
+    {
+      "id": "3",
+      "text": "Mrs. McGillycuddy is shown to her first-class carriage.",
+      "level": 1
+    },
+    {
+      "id": "3.1",
+      "text": "The porter is disappointed with her tip, deeming it too small for a first-class passenger.",
+      "level": 2
+    },
+    {
+      "id": "4",
+      "text": "The train departs, and Mrs. McGillycuddy falls asleep.",
+      "level": 1
+    },
+    {
+      "id": "4.1",
+      "text": "She wakes after 35 minutes feeling refreshed.",
+      "level": 2
+    },
+    {
+      "id": "5",
+      "text": "During the journey, another train passes by on a parallel track.",
+      "level": 1
+    },
+    {
+      "id": "5.1",
+      "text": "Mrs. McGillycuddy witnesses a murder in a carriage of the passing train.",
+      "level": 2
+    },
+    {
+      "id": "5.2",
+      "text": "She sees a man strangling a woman.",
+      "level": 3
+    },
+    {
+      "id": "5.3",
+      "text": "The woman's eyes bulge and her face becomes purple.",
+      "level": 3
+    },
+    {
+      "id": "6",
+      "text": "Mrs. McGillycuddy alerts a ticket collector about the murder.",
+      "level": 1
+    },
+    {
+      "id": "6.1",
+      "text": "The ticket collector is skeptical and suggests she might have been dreaming.",
+      "level": 2
+    },
+    {
+      "id": "6.2",
+      "text": "He points to a sensational novel she was reading, showing a similar scene.",
+      "level": 2
+    },
+    {
+      "id": "7",
+      "text": "She reaches Braighton and sends a note to the stationmaster.",
+      "level": 1
+    },
+    {
+      "id": "8",
+      "text": "She arrives at her destination, St. Mary's Mead.",
+      "level": 1
+    },
+    {
+      "id": "8.1",
+      "text": "She informs her hostess, Jane Marple, that she has witnessed a murder.",
+      "level": 2
+    },
+    {
+      "id": "9",
+      "text": "Miss Marple listens to Mrs. McGillycuddy's account.",
+      "level": 1
+    },
+    {
+      "id": "9.1",
+      "text": "She advises her to rest and discuss the matter after dinner.",
+      "level": 2
+    },
+    {
+      "id": "10",
+      "text": "Miss Marple offers chamomile tea instead of coffee.",
+      "level": 1
+    },
+    {
+      "id": "11",
+      "text": "Miss Marple validates Mrs. McGillycuddy's experience, suggesting it's unusual but not impossible.",
+      "level": 1
+    },
+    {
+      "id": "11.1",
+      "text": "She recounts a personal experience of observing a train with clear details of passengers.",
+      "level": 2
+    },
+    {
+      "id": "12",
+      "text": "Mrs. McGillycuddy describes the victim as young, possibly between 30 and 35, with fair hair and wearing a light-colored fur coat.",
+      "level": 1
+    },
+    {
+      "id": "13",
+      "text": "The perpetrator is described as tall with brown hair, wearing a thick coat.",
+      "level": 1
+    },
+    {
+      "id": "14",
+      "text": "Miss Marple predicts that news of the murder will appear in the morning papers.",
+      "level": 1
+    },
+    {
+      "id": "15",
+      "text": "The morning papers do not report the murder.",
+      "level": 1
+    },
+    {
+      "id": "16",
+      "text": "Miss Marple and Mrs. McGillycuddy visit the police station to report the incident to Inspector Conant.",
+      "level": 1
+    },
+    {
+      "id": "16.1",
+      "text": "Inspector Conant is polite but skeptical, suggesting Mrs. McGillycuddy might have misidentified the situation.",
+      "level": 2
+    },
+    {
+      "id": "16.2",
+      "text": "He promises to investigate.",
+      "level": 2
+    },
+    {
+      "id": "17",
+      "text": "Miss Marple discusses potential scenarios with Inspector Conant.",
+      "level": 1
+    },
+    {
+      "id": "17.1",
+      "text": "She considers how the body might have been disposed of.",
+      "level": 2
+    },
+    {
+      "id": "18",
+      "text": "Inspector Conant reports that the investigation yielded no results.",
+      "level": 1
+    },
+    {
+      "id": "18.1",
+      "text": "No body was found, no hospital treated such a woman, and no one noticed any unusual events on the train.",
+      "level": 2
+    },
+    {
+      "id": "19",
+      "text": "Mrs. McGillycuddy insists it was a murder.",
+      "level": 1
+    },
+    {
+      "id": "20",
+      "text": "Miss Marple suggests that they themselves might need to investigate further.",
+      "level": 1
+    },
+    {
+      "id": "20.1",
+      "text": "She proposes they travel back to Braighton on the same train.",
+      "level": 2
+    },
+    {
+      "id": "21",
+      "text": "Miss Marple begins to formulate a plan, leveraging her contacts and knowledge.",
+      "level": 1
+    },
+    {
+      "id": "21.1",
+      "text": "She contacts her grandnephew, David West, for train schedules and information.",
+      "level": 2
+    },
+    {
+      "id": "21.2",
+      "text": "She also enlists the help of Leonard, who has extensive map knowledge.",
+      "level": 2
+    },
+    {
+      "id": "22",
+      "text": "Miss Marple and Mrs. McGillycuddy take the 4:54 PM train to Braighton again.",
+      "level": 1
+    },
+    {
+      "id": "22.1",
+      "text": "They do not witness a parallel train this time.",
+      "level": 2
+    },
+    {
+      "id": "23",
+      "text": "Miss Marple makes detailed observations about the train journey and the location of the turn.",
+      "level": 1
+    },
+    {
+      "id": "24",
+      "text": "She realizes the significance of the train's speed, deceleration, and the sharp turn.",
+      "level": 1
+    },
+    {
+      "id": "25",
+      "text": "Miss Marple conceives a new line of inquiry.",
+      "level": 1
+    },
+    {
+      "id": "26",
+      "text": "She writes to Miss Florence Hill in Brayton for local information.",
+      "level": 1
+    },
+    {
+      "id": "27",
+      "text": "Miss Marple investigates maps and local records of Braighton.",
+      "level": 1
+    },
+    {
+      "id": "28",
+      "text": "She realizes she needs assistance for physical investigation, which she cannot undertake herself due to her age and frailty.",
+      "level": 1
+    },
+    {
+      "id": "29",
+      "text": "She decides to enlist the help of Lucy Eyelesbrough, a highly capable and practical woman.",
+      "level": 1
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Mrs. McGillycuddy",
+      "frequency": 25,
+      "context": "The primary witness to the murder, a stout, middle-aged woman laden with Christmas shopping."
+    },
+    {
+      "name": "Train",
+      "frequency": 22,
+      "context": "The mode of transport and the scene of the murder."
+    },
+    {
+      "name": "Murder",
+      "frequency": 17,
+      "context": "The central event witnessed by Mrs. McGillycuddy."
+    },
+    {
+      "name": "Miss Marple",
+      "frequency": 31,
+      "context": "The astute elderly lady who investigates the crime."
+    },
+    {
+      "name": "Braighton",
+      "frequency": 12,
+      "context": "A key station on the train route where the murder is theorized to have occurred and where Miss Marple investigates."
+    },
+    {
+      "name": "Station",
+      "frequency": 10,
+      "context": "Locations where passengers board, alight, and where initial reports are made."
+    },
+    {
+      "name": "Ticket collector",
+      "frequency": 4,
+      "context": "An official who dismisses Mrs. McGillycuddy's initial report."
+    },
+    {
+      "name": "Inspector Conant",
+      "frequency": 6,
+      "context": "The police officer who investigates the case initially and finds no evidence."
+    },
+    {
+      "name": "Body",
+      "frequency": 10,
+      "context": "The absence of the victim's body is a key mystery."
+    },
+    {
+      "name": "Investigation",
+      "frequency": 10,
+      "context": "The process of seeking to understand and solve the murder."
+    },
+    {
+      "name": "Woman",
+      "frequency": 17,
+      "context": "Refers to both the victim and Mrs. McGillycuddy, and other female characters."
+    },
+    {
+      "name": "Man",
+      "frequency": 10,
+      "context": "Refers to the perpetrator and other male characters."
+    },
+    {
+      "name": "Carriage",
+      "frequency": 6,
+      "context": "The compartment on the train where events unfold."
+    },
+    {
+      "name": "Evidence",
+      "frequency": 6,
+      "context": "The lack of tangible proof complicates the investigation."
+    },
+    {
+      "name": "Map",
+      "frequency": 5,
+      "context": "Used by Miss Marple to understand the train route and geography."
+    },
+    {
+      "name": "Lucy Eyelesbrough",
+      "frequency": 3,
+      "context": "A capable individual enlisted by Miss Marple to assist with the investigation."
+    },
+    {
+      "name": "Christmas",
+      "frequency": 6,
+      "context": "The time of year in which the story takes place, impacting travel and social events."
+    }
+  ],
+  "relations": [
+    {
+      "source": "Mrs. McGillycuddy",
+      "target": "Train",
+      "type": "boards"
+    },
+    {
+      "source": "Mrs. McGillycuddy",
+      "target": "Christmas shopping",
+      "type": "is burdened with"
+    },
+    {
+      "source": "Train",
+      "target": "Braighton",
+      "type": "travels to"
+    },
+    {
+      "source": "Mrs. McGillycuddy",
+      "target": "Murder",
+      "type": "witnesses"
+    },
+    {
+      "source": "Man",
+      "target": "Woman (victim)",
+      "type": "strangles"
+    },
+    {
+      "source": "Mrs. McGillycuddy",
+      "target": "Ticket collector",
+      "type": "reports to"
+    },
+    {
+      "source": "Ticket collector",
+      "target": "Mrs. McGillycuddy",
+      "type": "is skeptical of"
+    },
+    {
+      "source": "Mrs. McGillycuddy",
+      "target": "Stationmaster",
+      "type": "sends note to"
+    },
+    {
+      "source": "Mrs. McGillycuddy",
+      "target": "Jane Marple",
+      "type": "informs"
+    },
+    {
+      "source": "Jane Marple",
+      "target": "Mrs. McGillycuddy",
+      "type": "listens to account of"
+    },
+    {
+      "source": "Jane Marple",
+      "target": "Investigation",
+      "type": "undertakes"
+    },
+    {
+      "source": "Miss Marple",
+      "target": "Inspector Conant",
+      "type": "reports to"
+    },
+    {
+      "source": "Inspector Conant",
+      "target": "Investigation",
+      "type": "conducts"
+    },
+    {
+      "source": "Inspector Conant",
+      "target": "Evidence",
+      "type": "finds no"
+    },
+    {
+      "source": "Miss Marple",
+      "target": "Map",
+      "type": "uses"
+    },
+    {
+      "source": "Miss Marple",
+      "target": "Lucy Eyelesbrough",
+      "type": "enlists"
+    },
+    {
+      "source": "Lucy Eyelesbrough",
+      "target": "Investigation",
+      "type": "assists with"
+    },
+    {
+      "source": "Train",
+      "target": "Carriage",
+      "type": "has"
+    },
+    {
+      "source": "Man",
+      "target": "Woman (victim)",
+      "type": "kills"
+    },
+    {
+      "source": "Woman (victim)",
+      "target": "Body",
+      "type": "has"
+    },
+    {
+      "source": "Body",
+      "target": "Disappearance",
+      "type": "is subject of"
+    }
+  ],
+  "hierarchy": {
+    "main_topics": [
+      "The Witnessed Crime",
+      "Initial Investigations and Skepticism",
+      "The Detective's Method",
+      "Subsequent Investigations and Deductions"
+    ],
+    "structure": "The document is structured into four sections. Section 1 describes the initial events leading to the witnessing of the murder and the immediate aftermath. Section 2 details the early stages of investigation and the lack of official progress. Section 3 explores the growing conviction of the protagonists and Miss Marple's strategic planning. Section 4 focuses on Miss Marple's methodical approach to gathering information and enlisting help, leading towards a potential resolution."
+  }
+}

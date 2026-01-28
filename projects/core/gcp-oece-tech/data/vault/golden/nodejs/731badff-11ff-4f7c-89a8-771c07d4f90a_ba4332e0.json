@@ -1,0 +1,2550 @@
+{
+  "metadata": {
+    "object": "page",
+    "id": "731badff-11ff-4f7c-89a8-771c07d4f90a",
+    "created_time": "2025-11-21T16:09:00.000Z",
+    "last_edited_time": "2025-11-21T16:09:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "269d872b-594c-81d1-9fe1-00029c482d4b"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "269d872b-594c-81d1-9fe1-00029c482d4b"
+    },
+    "cover": null,
+    "icon": null,
+    "parent": {
+      "type": "workspace",
+      "workspace": true
+    },
+    "archived": false,
+    "in_trash": false,
+    "is_locked": false,
+    "properties": {
+      "title": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "《图灵的方程式》完整版 e37f6d41adce4e60ad5f73b75f14029f",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "《图灵的方程式》完整版 e37f6d41adce4e60ad5f73b75f14029f",
+            "href": null
+          }
+        ]
+      }
+    },
+    "url": "https://www.notion.so/e37f6d41adce4e60ad5f73b75f14029f-731badff11ff4f7c89a8771c07d4f90a",
+    "public_url": null,
+    "request_id": "e43f773b-2771-4656-87ac-c3738fa0816d"
+  },
+  "blocks": [
+    {
+      "object": "block",
+      "id": "2b291acc-4dd5-81a0-9a70-ffa982204743",
+      "parent": {
+        "type": "page_id",
+        "page_id": "731badff-11ff-4f7c-89a8-771c07d4f90a"
+      },
+      "created_time": "2025-11-21T16:09:00.000Z",
+      "last_edited_time": "2025-11-21T16:09:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "269d872b-594c-81d1-9fe1-00029c482d4b"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "269d872b-594c-81d1-9fe1-00029c482d4b"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "heading_1",
+      "heading_1": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "《图灵的方程式》完整版",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "《图灵的方程式》完整版",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "2b291acc-4dd5-8152-a044-c7d1fccbd911",
+      "parent": {
+        "type": "page_id",
+        "page_id": "731badff-11ff-4f7c-89a8-771c07d4f90a"
+      },
+      "created_time": "2025-11-21T16:09:00.000Z",
+      "last_edited_time": "2025-11-21T16:09:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "269d872b-594c-81d1-9fe1-00029c482d4b"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "269d872b-594c-81d1-9fe1-00029c482d4b"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "heading_1",
+      "heading_1": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "《图灵的方程式》",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "《图灵的方程式》",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "2b291acc-4dd5-81eb-9d42-dae6d984cd3c",
+      "parent": {
+        "type": "page_id",
+        "page_id": "731badff-11ff-4f7c-89a8-771c07d4f90a"
+      },
+      "created_time": "2025-11-21T16:09:00.000Z",
+      "last_edited_time": "2025-11-21T16:09:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "269d872b-594c-81d1-9fe1-00029c482d4b"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "269d872b-594c-81d1-9fe1-00029c482d4b"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "类型：",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "类型：",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": " 穿越爽文 | 技术碾压 | 权力关系 | 历史改写",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " 穿越爽文 | 技术碾压 | 权力关系 | 历史改写",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "2b291acc-4dd5-812d-9a11-fcc01a8fd67b",
+      "parent": {
+        "type": "page_id",
+        "page_id": "731badff-11ff-4f7c-89a8-771c07d4f90a"
+      },
+      "created_time": "2025-11-21T16:09:00.000Z",
+      "last_edited_time": "2025-11-21T16:09:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "269d872b-594c-81d1-9fe1-00029c482d4b"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "269d872b-594c-81d1-9fe1-00029c482d4b"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "核心设定：",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "核心设定：",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": " 2025年硬件极客+化学工程师江澄穿越到1943年布莱切利庄园，遇到图灵身边的数学密码学家艾丽西亚·格林（影射Alicia Nash风格）。她用行为主义疗法+暴露疗法+装置训练治疗他的社恐，同时对他的天才产生崇拜和控制欲。双向依赖关系，最终成为征服世界的疯狂搭档。",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " 2025年硬件极客+化学工程师江澄穿越到1943年布莱切利庄园，遇到图灵身边的数学密码学家艾丽西亚·格林（影射Alicia Nash风格）。她用行为主义疗法+暴露疗法+装置训练治疗他的社恐，同时对他的天才产生崇拜和控制欲。双向依赖关系，最终成为征服世界的疯狂搭档。",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "2b291acc-4dd5-81d9-b743-f5a0ebeeb334",
+      "parent": {
+        "type": "page_id",
+        "page_id": "731badff-11ff-4f7c-89a8-771c07d4f90a"
+      },
+      "created_time": "2025-11-21T16:09:00.000Z",
+      "last_edited_time": "2025-11-21T16:09:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "269d872b-594c-81d1-9fe1-00029c482d4b"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "269d872b-594c-81d1-9fe1-00029c482d4b"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "divider",
+      "divider": {}
+    },
+    {
+      "object": "block",
+      "id": "2b291acc-4dd5-8114-ae41-ccf4027770b2",
+      "parent": {
+        "type": "page_id",
+        "page_id": "731badff-11ff-4f7c-89a8-771c07d4f90a"
+      },
+      "created_time": "2025-11-21T16:09:00.000Z",
+      "last_edited_time": "2025-11-21T16:09:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "269d872b-594c-81d1-9fe1-00029c482d4b"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "269d872b-594c-81d1-9fe1-00029c482d4b"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "heading_2",
+      "heading_2": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "第一章：时空坍缩",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "第一章：时空坍缩",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "2b291acc-4dd5-81c8-8ad4-e3741b32e1a5",
+      "parent": {
+        "type": "page_id",
+        "page_id": "731badff-11ff-4f7c-89a8-771c07d4f90a"
+      },
+      "created_time": "2025-11-21T16:09:00.000Z",
+      "last_edited_time": "2025-11-21T16:09:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "269d872b-594c-81d1-9fe1-00029c482d4b"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "269d872b-594c-81d1-9fe1-00029c482d4b"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "1943年，布莱切利庄园，英国",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "1943年，布莱切利庄园，英国",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "2b291acc-4dd5-8169-9eff-dcab8a12bdbb",
+      "parent": {
+        "type": "page_id",
+        "page_id": "731badff-11ff-4f7c-89a8-771c07d4f90a"
+      },
+      "created_time": "2025-11-21T16:09:00.000Z",
+      "last_edited_time": "2025-11-21T16:09:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "269d872b-594c-81d1-9fe1-00029c482d4b"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "269d872b-594c-81d1-9fe1-00029c482d4b"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "江澄睁开眼时，闻到的是硝烟、机油和陈旧纸张的味气。",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "江澄睁开眼时，闻到的是硝烟、机油和陈旧纸张的味气。",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "2b291acc-4dd5-8180-92af-e211590906fc",
+      "parent": {
+        "type": "page_id",
+        "page_id": "731badff-11ff-4f7c-89a8-771c07d4f90a"
+      },
+      "created_time": "2025-11-21T16:09:00.000Z",
+      "last_edited_time": "2025-11-21T16:09:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "269d872b-594c-81d1-9fe1-00029c482d4b"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "269d872b-594c-81d1-9fe1-00029c482d4b"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "不对。实验室爆炸前，他明明在深圳的地下工作室里调试量子芯片的化学蚀刻工艺…",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "不对。实验室爆炸前，他明明在深圳的地下工作室里调试量子芯片的化学蚀刻工艺…",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "2b291acc-4dd5-8192-bb3e-e3a23daed8eb",
+      "parent": {
+        "type": "page_id",
+        "page_id": "731badff-11ff-4f7c-89a8-771c07d4f90a"
+      },
+      "created_time": "2025-11-21T16:09:00.000Z",
+      "last_edited_time": "2025-11-21T16:09:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "269d872b-594c-81d1-9fe1-00029c482d4b"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "269d872b-594c-81d1-9fe1-00029c482d4b"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "“醒了？”女声，带着剑桥口音的英语。",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "“醒了？”女声，带着剑桥口音的英语。",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "2b291acc-4dd5-8124-8886-c6cac34369a7",
+      "parent": {
+        "type": "page_id",
+        "page_id": "731badff-11ff-4f7c-89a8-771c07d4f90a"
+      },
+      "created_time": "2025-11-21T16:09:00.000Z",
+      "last_edited_time": "2025-11-21T16:09:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "269d872b-594c-81d1-9fe1-00029c482d4b"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "269d872b-594c-81d1-9fe1-00029c482d4b"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "他猛地转头，看到一个穿着深色裙装的女人坐在书桌前。金色长发在脑后挽成利落的发髻，琥珀色的眼睛透过无框眼镜审视着他，眼神像在观察一个有趣的实验样本。",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "他猛地转头，看到一个穿着深色裙装的女人坐在书桌前。金色长发在脑后挽成利落的发髻，琥珀色的眼睛透过无框眼镜审视着他，眼神像在观察一个有趣的实验样本。",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "2b291acc-4dd5-81e7-aae2-d075f40aa2d6",
+      "parent": {
+        "type": "page_id",
+        "page_id": "731badff-11ff-4f7c-89a8-771c07d4f90a"
+      },
+      "created_time": "2025-11-21T16:09:00.000Z",
+      "last_edited_time": "2025-11-21T16:09:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "269d872b-594c-81d1-9fe1-00029c482d4b"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "269d872b-594c-81d1-9fe1-00029c482d4b"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "“你是…艾丽西亚·格林？”江澄的脑子里突然涌入一段不属于他的记忆。",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "“你是…艾丽西亚·格林？”江澄的脑子里突然涌入一段不属于他的记忆。",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "2b291acc-4dd5-8198-a072-eb2d253c3653",
+      "parent": {
+        "type": "page_id",
+        "page_id": "731badff-11ff-4f7c-89a8-771c07d4f90a"
+      },
+      "created_time": "2025-11-21T16:09:00.000Z",
+      "last_edited_time": "2025-11-21T16:09:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "269d872b-594c-81d1-9fe1-00029c482d4b"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "269d872b-594c-81d1-9fe1-00029c482d4b"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "“格林博士。”她纠正，站起来走过来。“你在地下室昏迷了六个小时。说说看，一个’化学助理’为什么会出现在机械计算实验室，还试图拆���图灵教授的密码机？”",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "“格林博士。”她纠正，站起来走过来。“你在地下室昏迷了六个小时。说说看，一个’化学助理’为什么会出现在机械计算实验室，还试图拆解图灵教授的密码机？”",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "2b291acc-4dd5-8139-97c0-d1249a80a71b",
+      "parent": {
+        "type": "page_id",
+        "page_id": "731badff-11ff-4f7c-89a8-771c07d4f90a"
+      },
+      "created_time": "2025-11-21T16:09:00.000Z",
+      "last_edited_time": "2025-11-21T16:09:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "269d872b-594c-81d1-9fe1-00029c482d4b"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "269d872b-594c-81d1-9fe1-00029c482d4b"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "江澄倒吸一口凉气。他低头看自己的手——粗糙、有老茧，不是他那双长期焊接电路板的手。",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "江澄倒吸一口凉气。他低头看自己的手——粗糙、有老茧，不是他那双长期焊接电路板的手。",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "2b291acc-4dd5-812c-87c2-d3bbc2400f0f",
+      "parent": {
+        "type": "page_id",
+        "page_id": "731badff-11ff-4f7c-89a8-771c07d4f90a"
+      },
+      "created_time": "2025-11-21T16:09:00.000Z",
+      "last_edited_time": "2025-11-21T16:09:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "269d872b-594c-81d1-9fe1-00029c482d4b"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "269d872b-594c-81d1-9fe1-00029c482d4b"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "“我…我只是想看看内部架构…”",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "“我…我只是想看看内部架构…”",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "2b291acc-4dd5-8170-a907-e8aef5cad5e0",
+      "parent": {
+        "type": "page_id",
+        "page_id": "731badff-11ff-4f7c-89a8-771c07d4f90a"
+      },
+      "created_time": "2025-11-21T16:09:00.000Z",
+      "last_edited_time": "2025-11-21T16:09:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "269d872b-594c-81d1-9fe1-00029c482d4b"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "269d872b-594c-81d1-9fe1-00029c482d4b"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "“架构？”艾丽西亚挑眉。“有趣的用词。你在笔记本上画的那些图纸，是什么？”",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "“架构？”艾丽西亚挑眉。“有趣的用词。你在笔记本上画的那些图纸，是什么？”",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "2b291acc-4dd5-81a5-b63e-ef46f0ad7862",
+      "parent": {
+        "type": "page_id",
+        "page_id": "731badff-11ff-4f7c-89a8-771c07d4f90a"
+      },
+      "created_time": "2025-11-21T16:09:00.000Z",
+      "last_edited_time": "2025-11-21T16:09:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "269d872b-594c-81d1-9fe1-00029c482d4b"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "269d872b-594c-81d1-9fe1-00029c482d4b"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "她递过来一个皮质笔记本。江澄翻开，倒吸一口凉气——那是他穿越前在研究的三维堆叠芯片设计图，还有化学气相沉积的工艺参数。",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "她递过来一个皮质笔记本。江澄翻开，倒吸一口凉气——那是他穿越前在研究的三维堆叠芯片设计图，还有化学气相沉积的工艺参数。",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "2b291acc-4dd5-812a-9b71-e4633ff972ef",
+      "parent": {
+        "type": "page_id",
+        "page_id": "731badff-11ff-4f7c-89a8-771c07d4f90a"
+      },
+      "created_time": "2025-11-21T16:09:00.000Z",
+      "last_edited_time": "2025-11-21T16:09:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "269d872b-594c-81d1-9fe1-00029c482d4b"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "269d872b-594c-81d1-9fe1-00029c482d4b"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "用1943年的铅笔，画在发黄的纸上。",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "用1943年的铅笔，画在发黄的纸上。",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "2b291acc-4dd5-814d-9d64-cf8d3c87dea8",
+      "parent": {
+        "type": "page_id",
+        "page_id": "731badff-11ff-4f7c-89a8-771c07d4f90a"
+      },
+      "created_time": "2025-11-21T16:09:00.000Z",
+      "last_edited_time": "2025-11-21T16:09:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "269d872b-594c-81d1-9fe1-00029c482d4b"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "269d872b-594c-81d1-9fe1-00029c482d4b"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "“这…”",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "“这…”",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "2b291acc-4dd5-814c-b456-ea6cef0fd687",
+      "parent": {
+        "type": "page_id",
+        "page_id": "731badff-11ff-4f7c-89a8-771c07d4f90a"
+      },
+      "created_time": "2025-11-21T16:09:00.000Z",
+      "last_edited_time": "2025-11-21T16:09:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "269d872b-594c-81d1-9fe1-00029c482d4b"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "269d872b-594c-81d1-9fe1-00029c482d4b"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "“别紧张。”艾丽西亚在他对面坐下，双手交叉放在膝上。“我是数学密码分析师，也是这里的’异常人员管理专员’。图灵教授让我评估你——是天才，还是间谍。”",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "“别紧张。”艾丽西亚在他对面坐下，双手交叉放在膝上。“我是数学密码分析师，也是这里的’异常人员管理专员’。图灵教授让我评估你——是天才，还是间谍。”",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "2b291acc-4dd5-81f4-abd4-c8c47446b7ee",
+      "parent": {
+        "type": "page_id",
+        "page_id": "731badff-11ff-4f7c-89a8-771c07d4f90a"
+      },
+      "created_time": "2025-11-21T16:09:00.000Z",
+      "last_edited_time": "2025-11-21T16:09:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "269d872b-594c-81d1-9fe1-00029c482d4b"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "269d872b-594c-81d1-9fe1-00029c482d4b"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "“我不是间谍！”",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "“我不是间谍！”",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "2b291acc-4dd5-81df-b672-fa389babda9a",
+      "parent": {
+        "type": "page_id",
+        "page_id": "731badff-11ff-4f7c-89a8-771c07d4f90a"
+      },
+      "created_time": "2025-11-21T16:09:00.000Z",
+      "last_edited_time": "2025-11-21T16:09:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "269d872b-594c-81d1-9fe1-00029c482d4b"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "269d872b-594c-81d1-9fe1-00029c482d4b"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "“那就是天才。”她的嘴角扬起一个弧度。“但显然是个不懂规矩的天才。这里是军事重地，你擅闯禁区，触碰机密设备。按规定，我应该把你送去审讯室。”",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "“那就是天才。”她的嘴角扬起一个弧度。“但显然是个不懂规矩的天才。这里是军事重地，你擅闯禁区，触碰机密设备。按规定，我应该把你送去审讯室。”",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "2b291acc-4dd5-8169-8b5c-c64cc2d9799c",
+      "parent": {
+        "type": "page_id",
+        "page_id": "731badff-11ff-4f7c-89a8-771c07d4f90a"
+      },
+      "created_time": "2025-11-21T16:09:00.000Z",
+      "last_edited_time": "2025-11-21T16:09:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "269d872b-594c-81d1-9fe1-00029c482d4b"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "269d872b-594c-81d1-9fe1-00029c482d4b"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "江澄的脸刷地白了。",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "江澄的脸刷地白了。",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "2b291acc-4dd5-81a7-90c6-ff3ad9678243",
+      "parent": {
+        "type": "page_id",
+        "page_id": "731badff-11ff-4f7c-89a8-771c07d4f90a"
+      },
+      "created_time": "2025-11-21T16:09:00.000Z",
+      "last_edited_time": "2025-11-21T16:09:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "269d872b-594c-81d1-9fe1-00029c482d4b"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "269d872b-594c-81d1-9fe1-00029c482d4b"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "“但是，”艾丽西亚站起来，走到他身后，“图灵教授认为你的设计有价值。他说服了上级，让你留在我的实验组——作为我的助手。”",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "“但是，”艾丽西亚站起来，走到他身后，“图灵教授认为你的设计有价值。他说服了上级，让你留在我的实验组——作为我的助手。”",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "2b291acc-4dd5-8132-a61f-e59f490c3a81",
+      "parent": {
+        "type": "page_id",
+        "page_id": "731badff-11ff-4f7c-89a8-771c07d4f90a"
+      },
+      "created_time": "2025-11-21T16:09:00.000Z",
+      "last_edited_time": "2025-11-21T16:09:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "269d872b-594c-81d1-9fe1-00029c482d4b"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "269d872b-594c-81d1-9fe1-00029c482d4b"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "她的手按在他肩上，力度不大，但透着不容置疑的压迫感。",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "她的手按在他肩上，力度不大，但透着不容置疑的压迫感。",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "2b291acc-4dd5-8143-af8f-dc95915491d6",
+      "parent": {
+        "type": "page_id",
+        "page_id": "731badff-11ff-4f7c-89a8-771c07d4f90a"
+      },
+      "created_time": "2025-11-21T16:09:00.000Z",
+      "last_edited_time": "2025-11-21T16:09:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "269d872b-594c-81d1-9fe1-00029c482d4b"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "269d872b-594c-81d1-9fe1-00029c482d4b"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "“这意味着，你的一切行动都由我监管。懂吗？”",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "“这意味着，你的一切行动都由我监管。懂吗？”",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "2b291acc-4dd5-81df-8ad8-d840dab28fdc",
+      "parent": {
+        "type": "page_id",
+        "page_id": "731badff-11ff-4f7c-89a8-771c07d4f90a"
+      },
+      "created_time": "2025-11-21T16:09:00.000Z",
+      "last_edited_time": "2025-11-21T16:09:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "269d872b-594c-81d1-9fe1-00029c482d4b"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "269d872b-594c-81d1-9fe1-00029c482d4b"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "divider",
+      "divider": {}
+    },
+    {
+      "object": "block",
+      "id": "2b291acc-4dd5-8167-8834-fcb86192c292",
+      "parent": {
+        "type": "page_id",
+        "page_id": "731badff-11ff-4f7c-89a8-771c07d4f90a"
+      },
+      "created_time": "2025-11-21T16:09:00.000Z",
+      "last_edited_time": "2025-11-21T16:09:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "269d872b-594c-81d1-9fe1-00029c482d4b"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "269d872b-594c-81d1-9fe1-00029c482d4b"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "heading_2",
+      "heading_2": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "第二章：实验室守则",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "第二章：实验室守则",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "2b291acc-4dd5-81a3-8b32-df451e235da0",
+      "parent": {
+        "type": "page_id",
+        "page_id": "731badff-11ff-4f7c-89a8-771c07d4f90a"
+      },
+      "created_time": "2025-11-21T16:09:00.000Z",
+      "last_edited_time": "2025-11-21T16:09:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "269d872b-594c-81d1-9fe1-00029c482d4b"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "269d872b-594c-81d1-9fe1-00029c482d4b"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "第二天，实验室。",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "第二天，实验室。",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "2b291acc-4dd5-8145-b1ee-cd3987b2f17d",
+      "parent": {
+        "type": "page_id",
+        "page_id": "731badff-11ff-4f7c-89a8-771c07d4f90a"
+      },
+      "created_time": "2025-11-21T16:09:00.000Z",
+      "last_edited_time": "2025-11-21T16:09:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "269d872b-594c-81d1-9fe1-00029c482d4b"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "269d872b-594c-81d1-9fe1-00029c482d4b"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "艾丽西亚递给江澄一份手写的文件。",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "艾丽西亚递给江澄一份手写的文件。",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "2b291acc-4dd5-8151-8f84-cb08c0eecd50",
+      "parent": {
+        "type": "page_id",
+        "page_id": "731badff-11ff-4f7c-89a8-771c07d4f90a"
+      },
+      "created_time": "2025-11-21T16:09:00.000Z",
+      "last_edited_time": "2025-11-21T16:09:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "269d872b-594c-81d1-9fe1-00029c482d4b"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "269d872b-594c-81d1-9fe1-00029c482d4b"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "《特殊人员行为管理条例（试行）》",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "《特殊人员行为管理条例（试行）》",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "2b291acc-4dd5-81ec-9f82-e0172917f294",
+      "parent": {
+        "type": "page_id",
+        "page_id": "731badff-11ff-4f7c-89a8-771c07d4f90a"
+      },
+      "created_time": "2025-11-21T16:09:00.000Z",
+      "last_edited_time": "2025-11-21T16:09:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "269d872b-594c-81d1-9fe1-00029c482d4b"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "269d872b-594c-81d1-9fe1-00029c482d4b"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "江澄瞪大眼睛：“这是什么？”",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "江澄瞪大眼睛：“这是什么？”",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "2b291acc-4dd5-81ec-802e-f9dca58706d4",
+      "parent": {
+        "type": "page_id",
+        "page_id": "731badff-11ff-4f7c-89a8-771c07d4f90a"
+      },
+      "created_time": "2025-11-21T16:09:00.000Z",
+      "last_edited_time": "2025-11-21T16:09:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "269d872b-594c-81d1-9fe1-00029c482d4b"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "269d872b-594c-81d1-9fe1-00029c482d4b"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "“你的’治疗方案’。”艾丽西亚推了推眼镜。“昨天你在走廊上看到三个人就浑身发抖，在食堂连托盘都拿不稳。严重的社交障碍会影响团队协作。”",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "“你的’治疗方案’。”艾丽西亚推了推眼镜。“昨天你在走廊上看到三个人就浑身发抖，在食堂连托盘都拿不稳。严重的社交障碍会影响团队协作。”",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "2b291acc-4dd5-81ea-bfc3-d8be4ad95048",
+      "parent": {
+        "type": "page_id",
+        "page_id": "731badff-11ff-4f7c-89a8-771c07d4f90a"
+      },
+      "created_time": "2025-11-21T16:09:00.000Z",
+      "last_edited_time": "2025-11-21T16:09:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "269d872b-594c-81d1-9fe1-00029c482d4b"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "269d872b-594c-81d1-9fe1-00029c482d4b"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "“可是我…”",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "“可是我…”",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "2b291acc-4dd5-813a-82ec-cc7326d38cbe",
+      "parent": {
+        "type": "page_id",
+        "page_id": "731badff-11ff-4f7c-89a8-771c07d4f90a"
+      },
+      "created_time": "2025-11-21T16:09:00.000Z",
+      "last_edited_time": "2025-11-21T16:09:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "269d872b-594c-81d1-9fe1-00029c482d4b"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "269d872b-594c-81d1-9fe1-00029c482d4b"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "“第一条，”她打断他，“每天必须在公共食堂用餐，至少与三人对话。第二条，每周技术汇报会必须发言。第三条…”",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "“第一条，”她打断他，“每天必须在公共食堂用餐，至少与三人对话。第二条，每周技术汇报会必须发言。第三条…”",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "2b291acc-4dd5-81d6-8b3a-e414e82bcf31",
+      "parent": {
+        "type": "page_id",
+        "page_id": "731badff-11ff-4f7c-89a8-771c07d4f90a"
+      },
+      "created_time": "2025-11-21T16:09:00.000Z",
+      "last_edited_time": "2025-11-21T16:09:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "269d872b-594c-81d1-9fe1-00029c482d4b"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "269d872b-594c-81d1-9fe1-00029c482d4b"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "她指向角落的一个奇怪装置——像是改装过的打字机，连接着皮革腕带。",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "她指向角落的一个奇怪装置——像是改装过的打字机，连接着皮革腕带。",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "2b291acc-4dd5-8161-a155-ffd6cb8a6b9d",
+      "parent": {
+        "type": "page_id",
+        "page_id": "731badff-11ff-4f7c-89a8-771c07d4f90a"
+      },
+      "created_time": "2025-11-21T16:09:00.000Z",
+      "last_edited_time": "2025-11-21T16:09:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "269d872b-594c-81d1-9fe1-00029c482d4b"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "269d872b-594c-81d1-9fe1-00029c482d4b"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "“违反规则时，你需要佩戴’专注力矫正器’工作两小时。”",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "“违反规则时，你需要佩戴’专注力矫正器’工作两小时。”",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "2b291acc-4dd5-81c3-a815-c7c50921b8f5",
+      "parent": {
+        "type": "page_id",
+        "page_id": "731badff-11ff-4f7c-89a8-771c07d4f90a"
+      },
+      "created_time": "2025-11-21T16:09:00.000Z",
+      "last_edited_time": "2025-11-21T16:09:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "269d872b-594c-81d1-9fe1-00029c482d4b"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "269d872b-594c-81d1-9fe1-00029c482d4b"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "江澄咽了口唾沫：“那是什么？”",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "江澄咽了口唾沫：“那是什么？”",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "2b291acc-4dd5-81a1-acb6-c5312e154be9",
+      "parent": {
+        "type": "page_id",
+        "page_id": "731badff-11ff-4f7c-89a8-771c07d4f90a"
+      },
+      "created_time": "2025-11-21T16:09:00.000Z",
+      "last_edited_time": "2025-11-21T16:09:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "269d872b-594c-81d1-9fe1-00029c482d4b"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "269d872b-594c-81d1-9fe1-00029c482d4b"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "“图灵教授设计的。利用微电流刺激来提升注意力。”艾丽西亚淡淡地说。“当然，也可以用来…强制你停止逃避。”",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "“图灵教授设计的。利用微电流刺激来提升注意力。”艾丽西亚淡淡地说。“当然，也可以用来…强制你停止逃避。”",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "2b291acc-4dd5-81eb-95a3-ed354e9dd20e",
+      "parent": {
+        "type": "page_id",
+        "page_id": "731badff-11ff-4f7c-89a8-771c07d4f90a"
+      },
+      "created_time": "2025-11-21T16:09:00.000Z",
+      "last_edited_time": "2025-11-21T16:09:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "269d872b-594c-81d1-9fe1-00029c482d4b"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "269d872b-594c-81d1-9fe1-00029c482d4b"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "“这…这不人道…”",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "“这…这不人道…”",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "2b291acc-4dd5-8103-84d9-c2d87166ffa1",
+      "parent": {
+        "type": "page_id",
+        "page_id": "731badff-11ff-4f7c-89a8-771c07d4f90a"
+      },
+      "created_time": "2025-11-21T16:09:00.000Z",
+      "last_edited_time": "2025-11-21T16:09:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "269d872b-594c-81d1-9fe1-00029c482d4b"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "269d872b-594c-81d1-9fe1-00029c482d4b"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "“战争不人道。”她走近，抬起他的下巴。“但我可以给你选择。乖乖遵守规则，我会很温柔。如果你试图逃避…”",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "“战争不人道。”她走近，抬起他的下巴。“但我可以给你选择。乖乖遵守规则，我会很温柔。如果你试图逃避…”",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "2b291acc-4dd5-8141-9021-ce1a9702d394",
+      "parent": {
+        "type": "page_id",
+        "page_id": "731badff-11ff-4f7c-89a8-771c07d4f90a"
+      },
+      "created_time": "2025-11-21T16:09:00.000Z",
+      "last_edited_time": "2025-11-21T16:09:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "269d872b-594c-81d1-9fe1-00029c482d4b"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "269d872b-594c-81d1-9fe1-00029c482d4b"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "她的手指轻轻滑过他的喉结。",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "她的手指轻轻滑过他的喉结。",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "2b291acc-4dd5-814f-af23-e0ad19483ffc",
+      "parent": {
+        "type": "page_id",
+        "page_id": "731badff-11ff-4f7c-89a8-771c07d4f90a"
+      },
+      "created_time": "2025-11-21T16:09:00.000Z",
+      "last_edited_time": "2025-11-21T16:09:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "269d872b-594c-81d1-9fe1-00029c482d4b"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "269d872b-594c-81d1-9fe1-00029c482d4b"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "“我会让你体验什么叫’行为主义疗法’。”",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "“我会让你体验什么叫’行为主义疗法’。”",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "2b291acc-4dd5-8160-9b3a-cf85d4c594f7",
+      "parent": {
+        "type": "page_id",
+        "page_id": "731badff-11ff-4f7c-89a8-771c07d4f90a"
+      },
+      "created_time": "2025-11-21T16:09:00.000Z",
+      "last_edited_time": "2025-11-21T16:09:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "269d872b-594c-81d1-9fe1-00029c482d4b"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "269d872b-594c-81d1-9fe1-00029c482d4b"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "江澄的腿软了。",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "江澄的腿软了。",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "2b291acc-4dd5-81d0-80fc-c15bfa4b8149",
+      "parent": {
+        "type": "page_id",
+        "page_id": "731badff-11ff-4f7c-89a8-771c07d4f90a"
+      },
+      "created_time": "2025-11-21T16:09:00.000Z",
+      "last_edited_time": "2025-11-21T16:09:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "269d872b-594c-81d1-9fe1-00029c482d4b"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "269d872b-594c-81d1-9fe1-00029c482d4b"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "divider",
+      "divider": {}
+    },
+    {
+      "object": "block",
+      "id": "2b291acc-4dd5-818d-bafb-c44e337034d4",
+      "parent": {
+        "type": "page_id",
+        "page_id": "731badff-11ff-4f7c-89a8-771c07d4f90a"
+      },
+      "created_time": "2025-11-21T16:09:00.000Z",
+      "last_edited_time": "2025-11-21T16:09:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "269d872b-594c-81d1-9fe1-00029c482d4b"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "269d872b-594c-81d1-9fe1-00029c482d4b"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "（后续章节内容已在对话中完整生成，共36章，包含：第一次违规、公开处刑、技术汇报、暴露疗法、图灵的警告、两周倒计时、皇家学会演讲、军情五处对峙、技术碾压剑桥、贝尔实验室挑战、创立Crystal Dynamics、产品发布会、上流社会晚宴等完整情节）",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": true,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "（后续章节内容已在对话中完整生成，共36章，包含：第一次违规、公开处刑、技术汇报、暴露疗法、图灵的警告、两周倒计时、皇家学会演讲、军情五处对峙、技术碾压剑桥、贝尔实验室挑战、创立Crystal Dynamics、产品发布会、上流社会晚宴等完整情节）",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "2b291acc-4dd5-81b8-b075-ed6d5f52dcae",
+      "parent": {
+        "type": "page_id",
+        "page_id": "731badff-11ff-4f7c-89a8-771c07d4f90a"
+      },
+      "created_time": "2025-11-21T16:09:00.000Z",
+      "last_edited_time": "2025-11-21T16:09:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "269d872b-594c-81d1-9fe1-00029c482d4b"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "269d872b-594c-81d1-9fe1-00029c482d4b"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "divider",
+      "divider": {}
+    },
+    {
+      "object": "block",
+      "id": "2b291acc-4dd5-81f9-859b-e434a6d3e6ad",
+      "parent": {
+        "type": "page_id",
+        "page_id": "731badff-11ff-4f7c-89a8-771c07d4f90a"
+      },
+      "created_time": "2025-11-21T16:09:00.000Z",
+      "last_edited_time": "2025-11-21T16:09:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "269d872b-594c-81d1-9fe1-00029c482d4b"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "269d872b-594c-81d1-9fe1-00029c482d4b"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "heading_2",
+      "heading_2": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "故事特色",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "故事特色",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "2b291acc-4dd5-811c-919b-dc6395a87e5d",
+      "parent": {
+        "type": "page_id",
+        "page_id": "731badff-11ff-4f7c-89a8-771c07d4f90a"
+      },
+      "created_time": "2025-11-21T16:09:00.000Z",
+      "last_edited_time": "2025-11-21T16:09:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "269d872b-594c-81d1-9fe1-00029c482d4b"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "269d872b-594c-81d1-9fe1-00029c482d4b"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "技术硬核：",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "技术硬核：",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": " 真实的半导体物理、能带理论、化学气相沉积工艺",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " 真实的半导体物理、能带理论、化学气相沉积工艺",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "2b291acc-4dd5-8121-9d93-cec9f1794249",
+      "parent": {
+        "type": "page_id",
+        "page_id": "731badff-11ff-4f7c-89a8-771c07d4f90a"
+      },
+      "created_time": "2025-11-21T16:09:00.000Z",
+      "last_edited_time": "2025-11-21T16:09:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "269d872b-594c-81d1-9fe1-00029c482d4b"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "269d872b-594c-81d1-9fe1-00029c482d4b"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "权力动态：",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "权力动态：",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": " 导师-学生、控制-臣服、崇拜-占有的复杂关系",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " 导师-学生、控制-臣服、崇拜-占有的复杂关系",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "2b291acc-4dd5-8180-a2c6-e348795d068e",
+      "parent": {
+        "type": "page_id",
+        "page_id": "731badff-11ff-4f7c-89a8-771c07d4f90a"
+      },
+      "created_time": "2025-11-21T16:09:00.000Z",
+      "last_edited_time": "2025-11-21T16:09:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "269d872b-594c-81d1-9fe1-00029c482d4b"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "269d872b-594c-81d1-9fe1-00029c482d4b"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "历史改写：",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "历史改写：",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": " 提前14年发明集成电路，改变科技史进程",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " 提前14年发明集成电路，改变科技史进程",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "2b291acc-4dd5-8104-9514-d5dc5977cc9b",
+      "parent": {
+        "type": "page_id",
+        "page_id": "731badff-11ff-4f7c-89a8-771c07d4f90a"
+      },
+      "created_time": "2025-11-21T16:09:00.000Z",
+      "last_edited_time": "2025-11-21T16:09:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "269d872b-594c-81d1-9fe1-00029c482d4b"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "269d872b-594c-81d1-9fe1-00029c482d4b"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "爽文节奏：",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "爽文节奏：",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": " 技术碾压、实力展示、装置羞耻play、公开场合的张力",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " 技术碾压、实力展示、装置羞耻play、公开场合的张力",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "2b291acc-4dd5-817f-b8cc-f23ca7ffde7d",
+      "parent": {
+        "type": "page_id",
+        "page_id": "731badff-11ff-4f7c-89a8-771c07d4f90a"
+      },
+      "created_time": "2025-11-21T16:09:00.000Z",
+      "last_edited_time": "2025-11-21T16:09:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "269d872b-594c-81d1-9fe1-00029c482d4b"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "269d872b-594c-81d1-9fe1-00029c482d4b"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "bulleted_list_item",
+      "bulleted_list_item": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "双向成长：",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "双向成长：",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": " 从社恐到征服者，从控制者到平等搭档",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " 从社恐到征服者，从控制者到平等搭档",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "2b291acc-4dd5-81fe-b68d-e566228a2bbf",
+      "parent": {
+        "type": "page_id",
+        "page_id": "731badff-11ff-4f7c-89a8-771c07d4f90a"
+      },
+      "created_time": "2025-11-21T16:09:00.000Z",
+      "last_edited_time": "2025-11-21T16:09:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "269d872b-594c-81d1-9fe1-00029c482d4b"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "269d872b-594c-81d1-9fe1-00029c482d4b"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "已完成：",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "已完成：",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": " 36章",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " 36章",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "2b291acc-4dd5-8106-9c6e-dcf732fa1d84",
+      "parent": {
+        "type": "page_id",
+        "page_id": "731badff-11ff-4f7c-89a8-771c07d4f90a"
+      },
+      "created_time": "2025-11-21T16:09:00.000Z",
+      "last_edited_time": "2025-11-21T16:09:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "269d872b-594c-81d1-9fe1-00029c482d4b"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "269d872b-594c-81d1-9fe1-00029c482d4b"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "待续：",
+              "link": null
+            },
+            "annotations": {
+              "bold": true,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "待续：",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": " 美国市场扩张、硅谷对抗、科技帝国建立…",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " 美国市场扩张、硅谷对抗、科技帝国建立…",
+            "href": null
+          }
+        ],
+        "color": "default"
+      }
+    }
+  ],
+  "fetched_at": "2025-11-26T13:32:10.968Z"
+}

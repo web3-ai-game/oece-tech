@@ -1,0 +1,50 @@
+{
+  "propositions": [
+    {
+      "id": "1",
+      "text": "Testing is the essence of verification.",
+      "level": 1
+    },
+    {
+      "id": "1.1",
+      "text": "Without verification, there is only assumption.",
+      "level": 2
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Testing",
+      "frequency": 10,
+      "context": "Central to the philosophy of verification"
+    },
+    {
+      "name": "Verification",
+      "frequency": 8,
+      "context": "Process of confirming assumptions"
+    },
+    {
+      "name": "Assumption",
+      "frequency": 5,
+      "context": "State without verification"
+    }
+  ],
+  "relations": [
+    {
+      "source": "Testing",
+      "target": "Verification",
+      "type": "is_essential_to"
+    },
+    {
+      "source": "Verification",
+      "target": "Assumption",
+      "type": "negates"
+    }
+  ],
+  "hierarchy": {
+    "main_topics": [
+      "Philosophy of Testing",
+      "Verification and Assumption"
+    ],
+    "structure": "The document starts with an introduction to testing as a philosophical concept, structured into chapters with a focus on foundational principles."
+  }
+}

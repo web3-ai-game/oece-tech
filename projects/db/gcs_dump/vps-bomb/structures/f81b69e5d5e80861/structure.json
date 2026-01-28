@@ -1,0 +1,206 @@
+{
+  "propositions": [
+    {
+      "id": "1",
+      "text": "幸福不脱靶",
+      "level": 1
+    },
+    {
+      "id": "1.1",
+      "text": "幸福的定义和追求",
+      "level": 2
+    },
+    {
+      "id": "1.2",
+      "text": "实现幸福的途径和方法",
+      "level": 2
+    },
+    {
+      "id": "1.3",
+      "text": "幸福的持久性和不确定性",
+      "level": 2
+    },
+    {
+      "id": "1.1.1",
+      "text": "幸福并非偶然，而是可以通过努力实现的目标。",
+      "level": 3
+    },
+    {
+      "id": "1.1.2",
+      "text": "追求幸福需要明确的目标和正确的方向。",
+      "level": 3
+    },
+    {
+      "id": "1.2.1",
+      "text": "通过学习和理解可以获得幸福。",
+      "level": 3
+    },
+    {
+      "id": "1.2.2",
+      "text": "积极的行动和改变是获得幸福的关键。",
+      "level": 3
+    },
+    {
+      "id": "1.2.3",
+      "text": "理解和沟通在人际关系中对幸福至关重要。",
+      "level": 3
+    },
+    {
+      "id": "1.3.1",
+      "text": "幸福的实现并非一蹴而就，需要持续的努力。",
+      "level": 3
+    },
+    {
+      "id": "1.3.2",
+      "text": "幸福的获得受到多种因素的影响，存在不确定性。",
+      "level": 3
+    },
+    {
+      "id": "1.3.3",
+      "text": "失去幸福的风险和如何应对挑战。",
+      "level": 3
+    }
+  ],
+  "concepts": [
+    {
+      "name": "幸福",
+      "frequency": 50,
+      "context": "贯穿全文的核心概念，指代一种积极的心理状态和生活满足感。"
+    },
+    {
+      "name": "目标",
+      "frequency": 15,
+      "context": "实现幸福所必需的，指引方向的指向。"
+    },
+    {
+      "name": "努力",
+      "frequency": 20,
+      "context": "获得幸福的手段，强调主观能动性和持续付出。"
+    },
+    {
+      "name": "学习",
+      "frequency": 10,
+      "context": "获取知识和理解，是通往幸福的途径之一。"
+    },
+    {
+      "name": "行动",
+      "frequency": 12,
+      "context": "将想法付诸实践，是改变现状和获得幸福的必要环节。"
+    },
+    {
+      "name": "理解",
+      "frequency": 8,
+      "context": "在人际关系和自我认知中扮演重要角色，促进幸福。"
+    },
+    {
+      "name": "沟通",
+      "frequency": 7,
+      "context": "人际交往中的关键，有助于建立和谐关系，增进幸福感。"
+    },
+    {
+      "name": "不确定性",
+      "frequency": 5,
+      "context": "描述幸福的获得和维持所面临的挑战和变数。"
+    },
+    {
+      "name": "知识",
+      "frequency": 9,
+      "context": "通过学习获得的，是理解世界和自身的基础。"
+    },
+    {
+      "name": "改变",
+      "frequency": 6,
+      "context": "主动调整和发展，是应对挑战和追求幸福的必要过程。"
+    },
+    {
+      "name": "人际关系",
+      "frequency": 4,
+      "context": "个体与他人之间的互动，对幸福感有显著影响。"
+    },
+    {
+      "name": "挑战",
+      "frequency": 3,
+      "context": "阻碍幸福的因素，需要积极应对。"
+    },
+    {
+      "name": "方向",
+      "frequency": 4,
+      "context": "追求幸福的指引，需要明确。"
+    },
+    {
+      "name": "可能性",
+      "frequency": 2,
+      "context": "强调幸福是可以实现的，而非虚幻。"
+    }
+  ],
+  "relations": [
+    {
+      "source": "目标",
+      "target": "幸福",
+      "type": "implies"
+    },
+    {
+      "source": "努力",
+      "target": "幸福",
+      "type": "implies"
+    },
+    {
+      "source": "学习",
+      "target": "幸福",
+      "type": "implies"
+    },
+    {
+      "source": "行动",
+      "target": "幸福",
+      "type": "implies"
+    },
+    {
+      "source": "理解",
+      "target": "幸福",
+      "type": "implies"
+    },
+    {
+      "source": "沟通",
+      "target": "人际关系",
+      "type": "part_of"
+    },
+    {
+      "source": "人际关系",
+      "target": "幸福",
+      "type": "implies"
+    },
+    {
+      "source": "不确定性",
+      "target": "幸福",
+      "type": "affects"
+    },
+    {
+      "source": "改变",
+      "target": "幸福",
+      "type": "implies"
+    },
+    {
+      "source": "知识",
+      "target": "理解",
+      "type": "implies"
+    },
+    {
+      "source": "挑战",
+      "target": "幸福",
+      "type": "hinders"
+    },
+    {
+      "source": "方向",
+      "target": "目标",
+      "type": "is_a"
+    }
+  ],
+  "hierarchy": {
+    "main_topics": [
+      "幸福的本质",
+      "实现幸福的策略",
+      "幸福的动态性"
+    ],
+    "structure": "文档围绕‘幸福’这一核心概念展开，首先阐述了其本质并非偶然而是可追求的目标，接着探讨了实现幸福的具体途径，最后讨论了幸福的持久性和面临的不确定性。"
+  }
+}

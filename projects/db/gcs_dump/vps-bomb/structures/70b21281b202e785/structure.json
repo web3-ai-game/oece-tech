@@ -1,0 +1,200 @@
+{
+  "propositions": [
+    {
+      "id": "1",
+      "text": "这是一个关于苏幕遮女王陛下的故事。",
+      "level": 1
+    },
+    {
+      "id": "1.1",
+      "text": "女王陛下是苏幕遮的统治者。",
+      "level": 2
+    },
+    {
+      "id": "1.2",
+      "text": "故事中还有其他重要角色。",
+      "level": 2
+    },
+    {
+      "id": "2",
+      "text": "故事梗概待补充。",
+      "level": 1
+    },
+    {
+      "id": "3",
+      "text": "重要事件待补充。",
+      "level": 1
+    },
+    {
+      "id": "4",
+      "text": "引用与参考待补充。",
+      "level": 1
+    },
+    {
+      "id": "5",
+      "text": "笔记待补充。",
+      "level": 1
+    },
+    {
+      "id": "6",
+      "text": "章节目录包含多个章节。",
+      "level": 1
+    },
+    {
+      "id": "6.1",
+      "text": "章节一标题待补充。",
+      "level": 2
+    },
+    {
+      "id": "6.2",
+      "text": "章节二标题待补充。",
+      "level": 2
+    },
+    {
+      "id": "6.3",
+      "text": "章节三标题待补充。",
+      "level": 2
+    },
+    {
+      "id": "6.4",
+      "text": "章节四标题待补充。",
+      "level": 2
+    }
+  ],
+  "concepts": [
+    {
+      "name": "苏幕遮",
+      "frequency": 3,
+      "context": "苏幕遮女王陛下, 关于苏幕遮女王陛下的故事"
+    },
+    {
+      "name": "女王陛下",
+      "frequency": 2,
+      "context": "主要人物, 女王陛下：苏幕遮的统治者"
+    },
+    {
+      "name": "故事",
+      "frequency": 2,
+      "context": "这是一个关于苏幕遮女王陛下的故事, 故事梗概待补充"
+    },
+    {
+      "name": "人物",
+      "frequency": 1,
+      "context": "主要人物"
+    },
+    {
+      "name": "角色",
+      "frequency": 1,
+      "context": "故事中的其他重要角色"
+    },
+    {
+      "name": "统治者",
+      "frequency": 1,
+      "context": "苏幕遮的统治者"
+    },
+    {
+      "name": "梗概",
+      "frequency": 1,
+      "context": "故事梗概待补充"
+    },
+    {
+      "name": "事件",
+      "frequency": 1,
+      "context": "重要事件"
+    },
+    {
+      "name": "引用",
+      "frequency": 1,
+      "context": "引用与参考"
+    },
+    {
+      "name": "参考",
+      "frequency": 1,
+      "context": "引用与参考"
+    },
+    {
+      "name": "笔记",
+      "frequency": 1,
+      "context": "笔记"
+    },
+    {
+      "name": "章节",
+      "frequency": 5,
+      "context": "章节目录, 章节一标题待补充, 章节二标题待补充, 章节三标题待补充, 章节四标题待补充"
+    },
+    {
+      "name": "目录",
+      "frequency": 1,
+      "context": "章节目录"
+    },
+    {
+      "name": "标题",
+      "frequency": 4,
+      "context": "章节一标题待补充, 章节二标题待补充, 章节三标题待补充, 章节四标题待补充"
+    }
+  ],
+  "relations": [
+    {
+      "source": "女王陛下",
+      "target": "苏幕遮",
+      "type": "is_a_ruler_of"
+    },
+    {
+      "source": "女王陛下",
+      "target": "人物",
+      "type": "is_a"
+    },
+    {
+      "source": "角色",
+      "target": "人物",
+      "type": "is_a"
+    },
+    {
+      "source": "梗概",
+      "target": "故事",
+      "type": "is_a_part_of"
+    },
+    {
+      "name": "事件",
+      "target": "故事",
+      "type": "is_a_part_of"
+    },
+    {
+      "name": "引用",
+      "target": "故事",
+      "type": "is_related_to"
+    },
+    {
+      "name": "参考",
+      "target": "故事",
+      "type": "is_related_to"
+    },
+    {
+      "name": "笔记",
+      "target": "故事",
+      "type": "is_related_to"
+    },
+    {
+      "name": "章节",
+      "target": "目录",
+      "type": "is_part_of"
+    },
+    {
+      "name": "标题",
+      "target": "章节",
+      "type": "describes"
+    }
+  ],
+  "hierarchy": {
+    "main_topics": [
+      "概述",
+      "主要人物",
+      "故事梗概",
+      "重要事件",
+      "引用与参考",
+      "笔记",
+      "章节目录"
+    ],
+    "structure": "The document is structured with a main title, followed by sections for an overview, main characters, a plot summary, important events, references, notes, and a chapter directory. Several sections indicate that content is to be filled in."
+  }
+}

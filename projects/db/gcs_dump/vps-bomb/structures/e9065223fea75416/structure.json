@@ -1,0 +1,138 @@
+{
+  "propositions": [
+    {
+      "id": "1",
+      "text": "《缘起红线》前传作为独立故事，与正文关联有限",
+      "level": 1
+    },
+    {
+      "id": "1.1",
+      "text": "建议先阅读正文以理解背景",
+      "level": 2
+    },
+    {
+      "id": "1.2",
+      "text": "前传内容具有试验性质，部分情节可能突兀",
+      "level": 2
+    },
+    {
+      "id": "2",
+      "text": "创世之初，坦卡拉以身化天地，奠定世界根基",
+      "level": 1
+    },
+    {
+      "id": "2.1",
+      "text": "天界、人界、冥界各有特性与轮回机制",
+      "level": 2
+    },
+    {
+      "id": "3",
+      "text": "雪域之主雪姬掌管冰雪，与雪狐有深厚羁绊",
+      "level": 1
+    },
+    {
+      "id": "3.1",
+      "text": "雪狐与凡人互动引发禁忌之恋与冲突",
+      "level": 2
+    },
+    {
+      "id": "4",
+      "text": "雪狐因怜悯收养凡人婴儿小白，引发情感纠葛",
+      "level": 1
+    },
+    {
+      "id": "4.1",
+      "text": "雪姬因雪狐之错怒而封印小白记忆，送回人间",
+      "level": 2
+    },
+    {
+      "id": "5",
+      "text": "千年之劫中，雪姬与雪狐共同渡劫，雪狐获自由选择",
+      "level": 1
+    },
+    {
+      "id": "6",
+      "text": "雪狐化身白雪历人间劫难，觉醒记忆后重归雪域",
+      "level": 1
+    },
+    {
+      "id": "7",
+      "text": "白雪成为红线仙子，掌管人间姻缘，牵涉因果纠葛",
+      "level": 1
+    }
+  ],
+  "concepts": [
+    {
+      "name": "坦卡拉",
+      "frequency": 3,
+      "context": "创世神，以身化天地"
+    },
+    {
+      "name": "雪姬",
+      "frequency": 15,
+      "context": "雪域之主，掌管冰雪"
+    },
+    {
+      "name": "雪狐",
+      "frequency": 20,
+      "context": "雪姬伴生灵兽，化形能力，情感纠葛核心"
+    },
+    {
+      "name": "红线",
+      "frequency": 5,
+      "context": "象征姻缘，故事核心意象"
+    },
+    {
+      "name": "轮回",
+      "frequency": 8,
+      "context": "世界运行机制，劫难与新生"
+    },
+    {
+      "name": "小白",
+      "frequency": 6,
+      "context": "雪狐收养的凡人婴儿，情感冲突对象"
+    }
+  ],
+  "relations": [
+    {
+      "source": "雪姬",
+      "target": "雪狐",
+      "type": "part_of"
+    },
+    {
+      "source": "雪狐",
+      "target": "小白",
+      "type": "cares_for"
+    },
+    {
+      "source": "红线",
+      "target": "姻缘",
+      "type": "symbolizes"
+    },
+    {
+      "source": "坦卡拉",
+      "target": "天地",
+      "type": "creates"
+    },
+    {
+      "source": "雪狐",
+      "target": "白雪",
+      "type": "transforms_into"
+    },
+    {
+      "source": "轮回",
+      "target": "劫难",
+      "type": "implies"
+    }
+  ],
+  "hierarchy": {
+    "main_topics": [
+      "创世神话",
+      "雪域传说",
+      "情感纠葛",
+      "轮回劫难",
+      "红线姻缘"
+    ],
+    "structure": "Document follows a chronological narrative from creation myth to personal conflicts and cosmic cycles, culminating in the establishment of the red thread of fate."
+  }
+}

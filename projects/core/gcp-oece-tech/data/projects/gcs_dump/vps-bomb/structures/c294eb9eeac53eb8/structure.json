@@ -1,0 +1,1108 @@
+{
+  "propositions": [
+    {
+      "id": "1",
+      "text": "Shirley Yang comes to see the narrator after not seeing him for some time.",
+      "level": 1
+    },
+    {
+      "id": "1.1",
+      "text": "She might have been busy looking for a doctor for Professor Chen or handling the aftermath of the deceased.",
+      "level": 2
+    },
+    {
+      "id": "2",
+      "text": "The narrator fears being investigated due to the deaths of several people from the archaeological team.",
+      "level": 1
+    },
+    {
+      "id": "2.1",
+      "text": "He avoids speaking truthfully about the expedition's dangers.",
+      "level": 2
+    },
+    {
+      "id": "2.2",
+      "text": "Four people died, including a teacher and three students, and a professor went mad.",
+      "level": 2
+    },
+    {
+      "id": "3",
+      "text": "While the narrator is resting at home, Shirley Yang arrives.",
+      "level": 1
+    },
+    {
+      "id": "3.1",
+      "text": "She came because Da Jin Ya gave her his address.",
+      "level": 2
+    },
+    {
+      "id": "4",
+      "text": "Shirley Yang explains her presence.",
+      "level": 1
+    },
+    {
+      "id": "4.1",
+      "text": "She is there to return money to the narrator and Fatty.",
+      "level": 2
+    },
+    {
+      "id": "4.2",
+      "text": "She plans to take Professor Chen abroad for treatment soon.",
+      "level": 2
+    },
+    {
+      "id": "4.3",
+      "text": "She also needs to investigate some matters and will not see them for a while.",
+      "level": 2
+    },
+    {
+      "id": "5",
+      "text": "The narrator is surprised and pleased to hear about the money.",
+      "level": 1
+    },
+    {
+      "id": "5.1",
+      "text": "He tries to decline the money, stating they didn't help much.",
+      "level": 2
+    },
+    {
+      "id": "5.2",
+      "text": "He asks if the money is in cash.",
+      "level": 2
+    },
+    {
+      "id": "6",
+      "text": "Shirley Yang places the money on the table and asks the narrator to promise her something.",
+      "level": 1
+    },
+    {
+      "id": "7",
+      "text": "The narrator suspects she might want revenge or to dig up his past.",
+      "level": 1
+    },
+    {
+      "id": "7.1",
+      "text": "He tries to deflect by joking about rich people's troubles.",
+      "level": 2
+    },
+    {
+      "id": "8",
+      "text": "Shirley Yang expresses her wish for the narrator to stop being a 'mojin xiaowei' (tomb raider).",
+      "level": 1
+    },
+    {
+      "id": "8.1",
+      "text": "She explains that her grandfather quit the profession because it damages one's karma.",
+      "level": 2
+    },
+    {
+      "id": "8.2",
+      "text": "She offers to arrange things for them if they visit America.",
+      "level": 2
+    },
+    {
+      "id": "9",
+      "text": "The narrator objects to the idea of becoming subservient to Shirley Yang.",
+      "level": 1
+    },
+    {
+      "id": "9.1",
+      "text": "He believes in the dialectical materialism taught by Chairman Mao, where good can come from bad and vice versa.",
+      "level": 2
+    },
+    {
+      "id": "9.2",
+      "text": "He states he has principles and will not touch protected or discovered ancient tombs.",
+      "level": 2
+    },
+    {
+      "id": "9.3",
+      "text": "He argues that untouched tombs contain treasures that only those skilled in feng shui can find, and if not found, they would remain lost forever.",
+      "level": 2
+    },
+    {
+      "id": "9.4",
+      "text": "He also mentions that environmental changes threaten ancient tombs.",
+      "level": 2
+    },
+    {
+      "id": "10",
+      "text": "Shirley Yang acknowledges his justifications and states that she won't insist on the money.",
+      "level": 1
+    },
+    {
+      "id": "11",
+      "text": "The narrator quickly stops her, saying the money is a loan with interest calculated according to the People's Bank of China rates.",
+      "level": 1
+    },
+    {
+      "id": "12",
+      "text": "Later, Fatty counts the money repeatedly, unable to get the correct amount.",
+      "level": 1
+    },
+    {
+      "id": "13",
+      "text": "Fatty expresses regret that the narrator called the money a loan, suggesting they flee to their hometown to avoid paying interest.",
+      "level": 1
+    },
+    {
+      "id": "14",
+      "text": "The narrator dismisses Fatty's concerns, stating that a few successful tomb raids will cover the debt.",
+      "level": 1
+    },
+    {
+      "id": "14.1",
+      "text": "He emphasizes the need for capital to buy better equipment and plans a major tomb raid.",
+      "level": 2
+    },
+    {
+      "id": "15",
+      "text": "The narrator and Fatty agree that finding hidden tombs is difficult and the money might run out.",
+      "level": 1
+    },
+    {
+      "id": "16",
+      "text": "Fatty, being realistic, suggests opening an antique shop as a potentially profitable venture, especially when selling to foreigners.",
+      "level": 1
+    },
+    {
+      "id": "16.1",
+      "text": "He notes that foreigners are becoming savvier but will still pay for genuine good items.",
+      "level": 2
+    },
+    {
+      "id": "17",
+      "text": "The narrator agrees with Fatty's idea, recognizing the potential for profit and the opportunity to learn about antique appraisal.",
+      "level": 1
+    },
+    {
+      "id": "18",
+      "text": "They search for a shop but find none suitable, deciding to start by setting up a stall in Panjiyuan.",
+      "level": 1
+    },
+    {
+      "id": "19",
+      "text": "Panjiyuan is characterized by its wide variety of items, though truly valuable artifacts are rare and privately traded.",
+      "level": 1
+    },
+    {
+      "id": "20",
+      "text": "Following Da Jin Ya's advice, they start by collecting small items from the Qing Dynasty in the suburbs, such as bowls, jars, coins, snuff bottles, and old watches.",
+      "label": "20",
+      "level": 1
+    },
+    {
+      "id": "21",
+      "text": "The narrator admits he is not suited for selling, misjudging items and losing money.",
+      "label": "21",
+      "level": 1
+    },
+    {
+      "id": "21.1",
+      "text": "He acknowledges that he bought worthless items as treasures and sold valuable ones as ordinary objects.",
+      "level": 2
+    },
+    {
+      "id": "22",
+      "text": "Despite the losses, they consider the experience valuable for honing their eyes and gaining knowledge.",
+      "label": "22",
+      "level": 1
+    },
+    {
+      "id": "22.1",
+      "text": "They realize the antique trade is complex, even more so than feng shui.",
+      "level": 2
+    },
+    {
+      "id": "23",
+      "text": "One day, the antique market is quiet, and the narrator, Fatty, and Da Jin Ya are playing cards.",
+      "label": "23",
+      "level": 1
+    },
+    {
+      "id": "24",
+      "text": "A man approaches their stall, lingering without browsing.",
+      "label": "24",
+      "level": 1
+    },
+    {
+      "id": "25",
+      "text": "Fatty asks if he's looking for anything.",
+      "label": "25",
+      "level": 1
+    },
+    {
+      "id": "26",
+      "text": "The man hesitantly asks if they buy antiques.",
+      "label": "26",
+      "level": 1
+    },
+    {
+      "id": "27",
+      "text": "The narrator observes the man: around 37 years old, with reddish-purple skin from sun exposure, dressed rustically, carrying a worn leather bag, and speaking with a dusty accent.",
+      "label": "27",
+      "level": 1
+    },
+    {
+      "id": "28",
+      "text": "The narrator doubts the man has any valuable antiques and exchanges a look with Da Jin Ya.",
+      "label": "28",
+      "level": 1
+    },
+    {
+      "id": "29",
+      "text": "Da Jin Ya, being an expert, signals the narrator to engage the man and find out more.",
+      "label": "29",
+      "level": 1
+    },
+    {
+      "id": "30",
+      "text": "The narrator offers the man a cigarette and invites him to sit.",
+      "label": "30",
+      "level": 1
+    },
+    {
+      "id": "31",
+      "text": "The man, unaccustomed to such hospitality, sits cautiously, clutching his bag.",
+      "label": "31",
+      "level": 1
+    },
+    {
+      "id": "32",
+      "text": "The narrator wonders if the man is a tomb raider or if his bag contains something valuable.",
+      "label": "32",
+      "level": 1
+    },
+    {
+      "id": "32.1",
+      "text": "He asks for the man's name in a gentle tone.",
+      "label": "32.1",
+      "level": 2
+    },
+    {
+      "id": "33",
+      "text": "The man introduces himself as Li Chunlai.",
+      "label": "33",
+      "level": 1
+    },
+    {
+      "id": "33.1",
+      "text": "He seems more relaxed squatting on the ground.",
+      "label": "33.1",
+      "level": 2
+    },
+    {
+      "id": "34",
+      "text": "Da Jin Ya and Fatty pretend to continue their card game, adhering to the unspoken rule of not having too many people present during a negotiation.",
+      "label": "34",
+      "level": 1
+    },
+    {
+      "id": "35",
+      "text": "The narrator asks Li Chunlai if he has any artifacts to sell.",
+      "label": "35",
+      "level": 1
+    },
+    {
+      "id": "36",
+      "text": "Li Chunlai asks, \"What artifact?\"",
+      "label": "36",
+      "level": 1
+    },
+    {
+      "id": "37",
+      "text": "The narrator clarifies, asking if he has antiques to sell and if he can see them.",
+      "label": "37",
+      "level": 1
+    },
+    {
+      "id": "38",
+      "text": "Li Chunlai whispers that he has a shoe and asks how much they would pay.",
+      "label": "38",
+      "level": 1
+    },
+    {
+      "id": "39",
+      "text": "The narrator is initially annoyed but suspects there's more to it and patiently asks about the shoe.",
+      "label": "39",
+      "level": 1
+    },
+    {
+      "id": "40",
+      "text": "Li Chunlai cautiously shows an embroidered shoe for a three-inch golden lotus foot from ancient times inside his bag.",
+      "label": "40",
+      "level": 1
+    },
+    {
+      "id": "41",
+      "text": "The narrator wants to examine the shoe more closely and asks where he got it.",
+      "label": "41",
+      "level": 1
+    },
+    {
+      "id": "42",
+      "text": "Li Chunlai insists on a price first.",
+      "label": "42",
+      "level": 1
+    },
+    {
+      "id": "43",
+      "text": "The narrator suggests going to a nearby restaurant to discuss the sale over dumplings.",
+      "label": "43",
+      "level": 1
+    },
+    {
+      "id": "44",
+      "text": "Li Chunlai agrees, eager for the dumplings.",
+      "label": "44",
+      "level": 1
+    },
+    {
+      "id": "45",
+      "text": "They go to a well-known lamb dumpling restaurant.",
+      "label": "45",
+      "level": 1
+    },
+    {
+      "id": "46",
+      "text": "The owner leads them to a private room in the back.",
+      "label": "46",
+      "level": 1
+    },
+    {
+      "id": "47",
+      "text": "The narrator assures Li Chunlai of the privacy and asks to see the shoe again.",
+      "label": "47",
+      "level": 1
+    },
+    {
+      "id": "48",
+      "text": "Li Chunlai is distracted by the smell of dumplings.",
+      "label": "48",
+      "level": 1
+    },
+    {
+      "id": "49",
+      "text": "The narrator gently urges him to focus, mentioning that a good price for the shoe could fund many such meals.",
+      "label": "49",
+      "level": 1
+    },
+    {
+      "id": "50",
+      "text": "Li Chunlai expresses his desire to marry and have children with the money.",
+      "label": "50",
+      "level": 1
+    },
+    {
+      "id": "51",
+      "text": "They discuss marriage customs and the attractiveness of women from Mizhi.",
+      "label": "51",
+      "level": 1
+    },
+    {
+      "id": "52",
+      "text": "The dumplings arrive, and Li Chunlai eats heartily.",
+      "label": "52",
+      "level": 1
+    },
+    {
+      "id": "53",
+      "text": "The narrator orders more dumplings and offers Li Chunlai vinegar and beer as alternatives to sour soup dumplings.",
+      "label": "53",
+      "level": 1
+    },
+    {
+      "id": "54",
+      "text": "After Li Chunlai finishes eating, the narrator brings up the shoe again.",
+      "label": "54",
+      "level": 1
+    },
+    {
+      "id": "55",
+      "text": "Li Chunlai, now trusting, shows the embroidered shoe.",
+      "label": "55",
+      "level": 1
+    },
+    {
+      "id": "56",
+      "text": "The narrator examines the shoe: small, pointed, with green satin base, embroidered with peonies, and a sandalwood sole with a hidden compartment for spices.",
+      "label": "56",
+      "level": 1
+    },
+    {
+      "id": "57",
+      "text": "He dates it to the Ming Dynasty based on its appearance and embroidery.",
+      "label": "57",
+      "level": 1
+    },
+    {
+      "id": "58",
+      "text": "He notes the shoe's high craftsmanship, suggesting it belonged to a woman from a wealthy family who practiced foot binding.",
+      "label": "58",
+      "level": 1
+    },
+    {
+      "id": "59",
+      "text": "While not as skilled as Da Jin Ya, the narrator believes the shoe is not a fake and is a valuable collectible.",
+      "label": "59",
+      "level": 1
+    },
+    {
+      "id": "60",
+      "text": "Li Chunlai recounts the story of his village's drought and their attempts to appease the weather gods.",
+      "label": "60",
+      "level": 1
+    },
+    {
+      "id": "60.1",
+      "text": "A blind fortune teller claimed a 'Hanba' (drought demon) was causing the drought and needed to be killed.",
+      "level": 2
+    },
+    {
+      "id": "61",
+      "text": "A boy reported seeing a green-skinned child enter an ownerless, unfurried coffin in an abandoned graveyard.",
+      "label": "61",
+      "level": 1
+    },
+    {
+      "id": "62",
+      "text": "The fortune teller identified this as the location of the Hanba.",
+      "label": "62",
+      "level": 1
+    },
+    {
+      "id": "63",
+      "text": "The villagers decided to open the coffin.",
+      "label": "63",
+      "level": 1
+    },
+    {
+      "id": "64",
+      "text": "The village chief disagreed, but the fortune teller made a bet with him.",
+      "label": "64",
+      "level": 1
+    },
+    {
+      "id": "65",
+      "text": "They opened the coffin, revealing a putrid smell and a well-preserved female corpse dressed in ancient clothing.",
+      "label": "65",
+      "level": 1
+    },
+    {
+      "id": "66",
+      "text": "On top of the corpse was a small, green-furred, monkey-like creature, which was alive.",
+      "label": "66",
+      "level": 1
+    },
+    {
+      "id": "67",
+      "text": "The fortune teller declared the creature to be the Hanba and insisted it be beaten and burned quickly.",
+      "label": "67",
+      "level": 1
+    },
+    {
+      "id": "68",
+      "text": "Villagers captured and beat the creature, which emitted black gas instead of blood.",
+      "label": "68",
+      "level": 1
+    },
+    {
+      "id": "69",
+      "text": "The creature was then burned to ashes.",
+      "label": "69",
+      "level": 1
+    },
+    {
+      "id": "70",
+      "text": "The fortune teller advised burning the corpse and its belongings.",
+      "label": "70",
+      "level": 1
+    },
+    {
+      "id": "71",
+      "text": "As the villagers hesitated, dark clouds gathered, and thunder was heard.",
+      "label": "71",
+      "level": 1
+    },
+    {
+      "id": "72",
+      "text": "The villagers, now convinced of the fortune teller's claims, decided to burn the coffin.",
+      "label": "72",
+      "level": 1
+    },
+    {
+      "id": "73",
+      "text": "Li Chunlai was tasked with setting the coffin on fire.",
+      "label": "73",
+      "level": 1
+    },
+    {
+      "id": "74",
+      "text": "He quickly gathered firewood and set the coffin ablaze.",
+      "label": "74",
+      "level": 1
+    },
+    {
+      "id": "75",
+      "text": "Li Chunlai, a poor bachelor, felt tempted by the treasures inside the coffin.",
+      "label": "75",
+      "level": 1
+    },
+    {
+      "id": "76",
+      "text": "Suddenly, lightning struck, and heavy rain extinguished the fire, leaving the coffin half-burned.",
+      "label": "76",
+      "level": 1
+    },
+    {
+      "id": "77",
+      "text": "Li Chunlai saw this as an opportunity to retrieve the valuables.",
+      "label": "77",
+      "level": 1
+    },
+    {
+      "id": "78",
+      "text": "He found the coffin lid easy to open due to the fire damage.",
+      "label": "78",
+      "level": 1
+    },
+    {
+      "id": "79",
+      "text": "He braced himself to look inside and retrieve jewelry.",
+      "label": "79",
+      "level": 1
+    },
+    {
+      "id": "80",
+      "text": "The smell from the burned and rain-soaked corpse was unbearable.",
+      "label": "80",
+      "level": 1
+    },
+    {
+      "id": "81",
+      "text": "As Li Chunlai reached for a gold bracelet, someone clapped him on the back, startling him.",
+      "label": "81",
+      "level": 1
+    },
+    {
+      "id": "82",
+      "text": "It turned out to be Ma Shun, known for his bravery and recklessness.",
+      "label": "82",
+      "level": 1
+    },
+    {
+      "id": "83",
+      "text": "Ma Shun had also seen the jewelry and, seeing an opportunity, returned to steal it.",
+      "label": "83",
+      "level": 1
+    },
+    {
+      "id": "84",
+      "text": "Ma Shun stripped the corpse of its valuables, gave Li Chunlai one shoe as hush money, and warned him not to speak of it.",
+      "label": "84",
+      "level": 1
+    },
+    {
+      "id": "85",
+      "text": "They then buried the coffin together.",
+      "label": "85",
+      "level": 1
+    },
+    {
+      "id": "86",
+      "text": "Upon returning to the village, they lied about burning the coffin and corpse.",
+      "label": "86",
+      "level": 1
+    },
+    {
+      "id": "87",
+      "text": "The fortune teller explained that the situation might have been a mother and child becoming dangerous zombies ('zi mu xiong').",
+      "label": "87",
+      "level": 1
+    },
+    {
+      "id": "88",
+      "text": "Li Chunlai felt uneasy but kept quiet.",
+      "label": "88",
+      "level": 1
+    },
+    {
+      "id": "89",
+      "text": "That night, Li Chunlai dreamt of the corpse and her son trying to choke him.",
+      "label": "89",
+      "level": 1
+    },
+    {
+      "id": "90",
+      "text": "The next morning, Ma Shun's house was struck by lightning, killing him and his family.",
+      "label": "90",
+      "level": 1
+    },
+    {
+      "id": "91",
+      "text": "The villagers found the stolen treasures at Ma Shun's house, and the village chief forced Li Chunlai to confess.",
+      "label": "91",
+      "level": 1
+    },
+    {
+      "id": "92",
+      "text": "Li Chunlai, though scared, didn't reveal he had kept a shoe and blamed Ma Shun.",
+      "label": "92",
+      "level": 1
+    },
+    {
+      "id": "93",
+      "text": "The narrator discusses the history and nature of 'zombies' (dazongzi in their profession).",
+      "level": 1
+    },
+    {
+      "id": "93.1",
+      "text": "A proper burial in a good feng shui location benefits the deceased and their descendants.",
+      "level": 2
+    },
+    {
+      "id": "93.2",
+      "text": "Conversely, unsuitable burial sites can cause unrest for the deceased and harm others.",
+      "level": 2
+    },
+    {
+      "id": "94",
+      "text": "Unsuitable burial sites can be due to geographical hazards (mountainous or watery, chaotic terrain) or specific tomb placements.",
+      "label": "94",
+      "level": 1
+    },
+    {
+      "id": "95",
+      "text": "A key concept in feng shui is the interplay of 'xing' (form, referring to terrain) and 'shi' (momentum, referring to the state of the terrain).",
+      "label": "95",
+      "level": 1
+    },
+    {
+      "id": "96",
+      "text": "When 'xing' and 'shi' are in conflict, it leads to imbalances in the earth's energy, resulting in phenomena like undecomposed corpses turning into zombies.",
+      "label": "96",
+      "level": 1
+    },
+    {
+      "id": "97",
+      "text": "Fatty finds the theory interesting but dismisses it as a joke.",
+      "label": "97",
+      "level": 1
+    },
+    {
+      "id": "98",
+      "text": "Da Jin Ya is more interested and inquires about the details.",
+      "label": "98",
+      "level": 1
+    },
+    {
+      "id": "99",
+      "text": "He laments the scarcity of good feng shui locations due to China's long history and numerous imperial burials.",
+      "label": "99",
+      "level": 1
+    },
+    {
+      "id": "100",
+      "text": "The narrator explains that China has numerous 'dragon脉' (veins of mountains), but only a few are suitable for burials.",
+      "label": "100",
+      "level": 1
+    },
+    {
+      "id": "101",
+      "text": "Kunlun Mountain is considered the origin of all dragon脉.",
+      "label": "101",
+      "level": 1
+    },
+    {
+      "id": "102",
+      "text": "Dragon脉 have various qualities, such as 'chen long' (submerged dragon), 'qian long' (hidden dragon), 'fei long' (flying dragon), and others.",
+      "label": "102",
+      "level": 1
+    },
+    {
+      "id": "103",
+      "text": "Only the highest quality dragon脉 can be used for royal burials.",
+      "label": "103",
+      "level": 1
+    },
+    {
+      "id": "104",
+      "text": "Da Jin Ya questions the efficacy of feng shui, citing Qin Shi Huang's tomb and the short-lived Qin Dynasty.",
+      "label": "104",
+      "level": 1
+    },
+    {
+      "id": "105",
+      "text": "The narrator acknowledges that feng shui is only one factor and that historical outcomes are not solely determined by it.",
+      "label": "105",
+      "level": 1
+    },
+    {
+      "id": "105.1",
+      "text": "He suggests that natural changes (earthquakes, floods, etc.) can alter the feng shui of a site, turning a auspicious location into an inauspicious one.",
+      "level": 2
+    },
+    {
+      "id": "106",
+      "text": "They decide to postpone their antique business and plan a trip to Shaanxi to collect antiques.",
+      "label": "106",
+      "level": 1
+    },
+    {
+      "id": "107",
+      "text": "They travel by train to Taiyuan.",
+      "label": "107",
+      "level": 1
+    },
+    {
+      "id": "108",
+      "text": "In Taiyuan, they hear news of a flood in the Yellow River, which has exposed many ancient tombs in the Zhuangling area.",
+      "label": "108",
+      "level": 1
+    },
+    {
+      "id": "109",
+      "text": "They change their plan and decide to travel west across the Yellow River.",
+      "label": "109",
+      "level": 1
+    },
+    {
+      "id": "110",
+      "text": "Their long-distance bus breaks down, causing a significant delay.",
+      "label": "110",
+      "level": 1
+    },
+    {
+      "id": "111",
+      "text": "The bus stops near the Yellow River, and the driver suggests they try to find a boat there to cross.",
+      "label": "111",
+      "level": 1
+    },
+    {
+      "id": "112",
+      "text": "They get off the bus to wait for a boat, but the area is desolate.",
+      "label": "112",
+      "level": 1
+    },
+    {
+      "id": "113",
+      "text": "They are dismayed by the width and ferocity of the Yellow River, realizing the usual crossing points might be submerged.",
+      "label": "113",
+      "level": 1
+    },
+    {
+      "id": "114",
+      "text": "As it starts to rain, they share liquor and beef jerky, complaining about the bus driver.",
+      "label": "114",
+      "level": 1
+    },
+    {
+      "id": "115",
+      "text": "The narrator recalls seeing sheepskin rafts used for crossing the river in his military days.",
+      "label": "115",
+      "level": 1
+    },
+    {
+      "id": "116",
+      "text": "They continue to wait in the rain.",
+      "label": "116",
+      "level": 1
+    },
+    {
+      "id": "117",
+      "text": "Feeling frustrated, the narrator shouts into the roaring river.",
+      "label": "117",
+      "level": 1
+    },
+    {
+      "id": "118",
+      "text": "Fatty and Da Jin Ya join him in shouting, and they drink more liquor.",
+      "label": "118",
+      "level": 1
+    },
+    {
+      "id": "119",
+      "text": "Fatty suggests singing local folk songs.",
+      "label": "119",
+      "level": 1
+    },
+    {
+      "id": "120",
+      "text": "The narrator jokes about Fatty's lack of knowledge of local customs and offers to sing Qinqiang opera.",
+      "label": "120",
+      "level": 1
+    },
+    {
+      "id": "121",
+      "text": "Fatty argues that they should sing the appropriate song for the location, referencing a proverb about drinking Yellow River water and singing 'Xintianyou'.",
+      "label": "121",
+      "level": 1
+    },
+    {
+      "id": "122",
+      "text": "The narrator dismisses the proverb and quotes a poem about drinking water from Changsha and eating Wuchang fish.",
+      "label": "122",
+      "level": 1
+    },
+    {
+      "id": "123",
+      "text": "Da Jin Ya intervenes, suggesting they each sing a song of their choice.",
+      "label": "123",
+      "level": 1
+    },
+    {
+      "id": "124",
+      "text": "Fatty prepares to sing, but a motorboat approaches.",
+      "label": "124",
+      "level": 1
+    },
+    {
+      "id": "125",
+      "text": "They signal the boat to come ashore.",
+      "label": "125",
+      "level": 1
+    },
+    {
+      "id": "126",
+      "text": "The boatman is clearly a local, and after some negotiation and payment, they board the boat.",
+      "label": "126",
+      "level": 1
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Shirley Yang",
+      "frequency": 5,
+      "context": "Character who returns money and makes a request."
+    },
+    {
+      "name": "Professor Chen",
+      "frequency": 2,
+      "context": "Person needing medical treatment abroad."
+    },
+    {
+      "name": "Archaeological team",
+      "frequency": 2,
+      "context": "Group involved in an expedition with casualties."
+    },
+    {
+      "name": "Mojin Xiaowei",
+      "frequency": 4,
+      "context": "A profession related to tomb raiding."
+    },
+    {
+      "name": "Da Jin Ya",
+      "frequency": 5,
+      "context": "Introduces people, an expert in antiques."
+    },
+    {
+      "name": "Fatty",
+      "frequency": 14,
+      "context": "Narrator's companion, practical and concerned with money."
+    },
+    {
+      "name": "Antique collecting",
+      "frequency": 1,
+      "context": "Activity of acquiring old objects for value."
+    },
+    {
+      "name": "Feng Shui",
+      "frequency": 5,
+      "context": "Chinese art of geomancy, influencing burial and building sites."
+    },
+    {
+      "name": "Tomb raiding",
+      "frequency": 7,
+      "context": "The act of entering and taking items from tombs."
+    },
+    {
+      "name": "Ancient tombs",
+      "frequency": 6,
+      "context": "Burial sites from past eras."
+    },
+    {
+      "name": "Treasures",
+      "frequency": 2,
+      "context": "Valuable items found in ancient tombs."
+    },
+    {
+      "name": "Panjiyuan",
+      "frequency": 3,
+      "context": "A place where antiques are sold, often informally."
+    },
+    {
+      "name": "Antiques",
+      "frequency": 8,
+      "context": "Objects from the past valued for their age or rarity."
+    },
+    {
+      "name": "Li Chunlai",
+      "frequency": 18,
+      "context": "A villager who offers an ancient shoe for sale."
+    },
+    {
+      "name": "Ancient shoe",
+      "frequency": 7,
+      "context": "The item of interest brought by Li Chunlai."
+    },
+    {
+      "name": "Hanba",
+      "frequency": 5,
+      "context": "A mythical creature associated with drought."
+    },
+    {
+      "name": "Corpse",
+      "frequency": 6,
+      "context": "A dead body, often ancient in this context."
+    },
+    {
+      "name": "Coﬃn",
+      "frequency": 6,
+      "context": "A container for a dead body."
+    },
+    {
+      "name": "Zombies",
+      "frequency": 5,
+      "context": "Reanimated corpses, a concept in their profession."
+    },
+    {
+      "name": "Dragon脉",
+      "frequency": 3,
+      "context": "Lines of mountains considered to have auspicious energy for burial."
+    },
+    {
+      "name": "Yellow River",
+      "frequency": 6,
+      "context": "A major river in China, a setting for a significant event."
+    },
+    {
+      "name": "Flood",
+      "frequency": 3,
+      "context": "An event causing damage and revealing ancient sites."
+    },
+    {
+      "name": "Shaanxi",
+      "frequency": 3,
+      "context": "A province in China, a destination for the characters."
+    }
+  ],
+  "relations": [
+    {
+      "source": "Shirley Yang",
+      "target": "Professor Chen",
+      "type": "caring_for"
+    },
+    {
+      "source": "Shirley Yang",
+      "target": "Narrator",
+      "type": "visits"
+    },
+    {
+      "source": "Shirley Yang",
+      "target": "Fatty",
+      "type": "returns_money_to"
+    },
+    {
+      "source": "Narrator",
+      "target": "Mojin Xiaowei",
+      "type": "is_a"
+    },
+    {
+      "source": "Mojin Xiaowei",
+      "target": "Tomb raiding",
+      "type": "is_a"
+    },
+    {
+      "source": "Da Jin Ya",
+      "target": "Antiques",
+      "type": "deals_in"
+    },
+    {
+      "source": "Fatty",
+      "target": "Narrator",
+      "type": "companion_of"
+    },
+    {
+      "source": "Fatty",
+      "target": "Money",
+      "type": "concerned_with"
+    },
+    {
+      "source": "Feng Shui",
+      "target": "Ancient tombs",
+      "type": "influences"
+    },
+    {
+      "source": "Ancient tombs",
+      "target": "Treasures",
+      "type": "contain"
+    },
+    {
+      "source": "Tomb raiding",
+      "target": "Ancient tombs",
+      "type": "targets"
+    },
+    {
+      "source": "Panjiyuan",
+      "target": "Antiques",
+      "type": "is_a_market_for"
+    },
+    {
+      "source": "Li Chunlai",
+      "target": "Ancient shoe",
+      "type": "possesses"
+    },
+    {
+      "source": "Ancient shoe",
+      "target": "Corpse",
+      "type": "belonged_to"
+    },
+    {
+      "source": "Hanba",
+      "target": "Drought",
+      "type": "causes"
+    },
+    {
+      "source": "Corpse",
+      "target": "Coffin",
+      "type": "found_in"
+    },
+    {
+      "source": "Zombies",
+      "target": "Corpse",
+      "type": "are_reanimated"
+    },
+    {
+      "source": "Dragon脉",
+      "target": "Feng Shui",
+      "type": "key_element_in"
+    },
+    {
+      "source": "Yellow River",
+      "target": "Flood",
+      "type": "subject_to"
+    },
+    {
+      "source": "Flood",
+      "target": "Ancient tombs",
+      "type": "reveals"
+    },
+    {
+      "source": "Shaanxi",
+      "target": "Antiques",
+      "type": "location_for_collecting"
+    }
+  ],
+  "hierarchy": {
+    "main_topics": [
+      "Characters and their interactions",
+      "The nature of Mojin Xiaowei and tomb raiding",
+      "Antique collecting and the market",
+      "Mysterious artifacts and their origins",
+      "Folklore and supernatural elements (Hanba, Zombies)",
+      "Feng Shui and burial practices",
+      "The journey and challenges of the protagonists"
+    ],
+    "structure": "The document follows a chronological narrative, interweaving character dialogue and actions with explanations of relevant concepts and the unfolding plot. It begins with a personal encounter, moves to a business venture, and then delves into a historical anecdote and a geographical journey, all driven by the protagonists' pursuit of artifacts and adventure."
+  }
+}

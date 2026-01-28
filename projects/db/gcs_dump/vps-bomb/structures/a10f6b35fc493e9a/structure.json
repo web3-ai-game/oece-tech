@@ -1,0 +1,96 @@
+{
+  "propositions": [
+    {
+      "id": "1",
+      "text": "The story revolves around personal encounters and relationships in a rural setting.",
+      "level": 1
+    },
+    {
+      "id": "1.1",
+      "text": "Initial meeting by the stream introduces key characters and their interactions.",
+      "level": 2
+    },
+    {
+      "id": "1.2",
+      "text": "The mystery of the stream and 'General Fish' symbolizes deeper themes of transience.",
+      "level": 2
+    },
+    {
+      "id": "1.3",
+      "text": "Childhood experiences in the mountains highlight resilience and hardship.",
+      "level": 2
+    },
+    {
+      "id": "1.4",
+      "text": "Father's teachings emphasize values of companionship and responsibility.",
+      "level": 2
+    },
+    {
+      "id": "1.5",
+      "text": "Emotional conflicts reveal personal struggles and societal pressures.",
+      "level": 2
+    }
+  ],
+  "concepts": [
+    {
+      "name": "General Fish",
+      "frequency": 5,
+      "context": "Symbol of fleeting existence and curiosity in the stream."
+    },
+    {
+      "name": "Stream",
+      "frequency": 10,
+      "context": "Central setting for encounters and daily activities."
+    },
+    {
+      "name": "Childhood",
+      "frequency": 4,
+      "context": "Represents innocence, hardship, and formative experiences."
+    },
+    {
+      "name": "Relationships",
+      "frequency": 8,
+      "context": "Focus on bonds between characters, including friendship and family."
+    },
+    {
+      "name": "Hardship",
+      "frequency": 6,
+      "context": "Depicts struggles of rural life and personal challenges."
+    }
+  ],
+  "relations": [
+    {
+      "source": "General Fish",
+      "target": "Stream",
+      "type": "part_of"
+    },
+    {
+      "source": "Stream",
+      "target": "Childhood",
+      "type": "context_of"
+    },
+    {
+      "source": "Childhood",
+      "target": "Hardship",
+      "type": "implies"
+    },
+    {
+      "source": "Relationships",
+      "target": "Hardship",
+      "type": "influenced_by"
+    },
+    {
+      "source": "Relationships",
+      "target": "Stream",
+      "type": "setting_of"
+    }
+  ],
+  "hierarchy": {
+    "main_topics": [
+      "Personal Encounters",
+      "Rural Life Challenges",
+      "Emotional and Social Bonds"
+    ],
+    "structure": "The document is structured as a narrative with chapters focusing on character interactions, symbolic elements like the stream, and evolving relationships in a rural setting."
+  }
+}

@@ -1,0 +1,372 @@
+{
+  "propositions": [
+    {
+      "id": "1",
+      "text": "The story begins with a 7-year-old girl named Chi Cui.",
+      "level": 1
+    },
+    {
+      "id": "1.1",
+      "text": "She is drawn to the poisonous oleander flowers.",
+      "level": 2
+    },
+    {
+      "id": "1.2",
+      "text": "Her father warns her about the flowers and a dangerous wall.",
+      "level": 2
+    },
+    {
+      "id": "1.3",
+      "text": "She ventures out and encounters a boy near the forbidden wall.",
+      "level": 2
+    },
+    {
+      "id": "1.4",
+      "text": "The boy enters the wall and disappears.",
+      "level": 2
+    },
+    {
+      "id": "1.5",
+      "text": "A lightning strike hits near the wall, terrifying Chi Cui.",
+      "level": 2
+    },
+    {
+      "id": "1.6",
+      "text": "Chi Cui is haunted by the event and dreams of a midnight flute sound.",
+      "level": 2
+    },
+    {
+      "id": "2",
+      "text": "Years later, a young man named Su Xing is called to the hospital.",
+      "level": 1
+    },
+    {
+      "id": "2.1",
+      "text": "He has a premonition that someone is dying.",
+      "level": 2
+    },
+    {
+      "id": "2.2",
+      "text": "He visits his dying flute teacher.",
+      "level": 2
+    },
+    {
+      "id": "2.3",
+      "text": "The teacher gives Su Xing a mysterious box.",
+      "level": 2
+    },
+    {
+      "id": "2.4",
+      "text": "The box contains a flute with the inscription 'Xiao Zhi'.",
+      "level": 2
+    },
+    {
+      "id": "2.5",
+      "text": "The teacher warns Su Xing not to play the flute.",
+      "level": 2
+    },
+    {
+      "id": "2.6",
+      "text": "The teacher's last words are 'midnight flute sound'.",
+      "level": 2
+    },
+    {
+      "id": "2.7",
+      "text": "Su Xing is left with the flute and the mystery.",
+      "level": 2
+    },
+    {
+      "id": "3",
+      "text": "Chi Cui, now 22, works in a subway bookstore.",
+      "level": 1
+    },
+    {
+      "id": "3.1",
+      "text": "She encounters a mysterious man in a black coat who seems to see through her.",
+      "level": 2
+    },
+    {
+      "id": "3.2",
+      "text": "He drops a silk handkerchief embroidered with a flute, which she returns.",
+      "level": 2
+    },
+    {
+      "id": "3.3",
+      "text": "She feels a strong connection to him and is drawn to his eyes.",
+      "level": 2
+    },
+    {
+      "id": "4",
+      "text": "The man returns to the bookstore and exhibits an uncanny ability to know things.",
+      "level": 1
+    },
+    {
+      "id": "4.1",
+      "text": "He helps Chi Cui find a misplaced book.",
+      "level": 2
+    },
+    {
+      "id": "4.2",
+      "text": "Chi Cui asks him who he is, but he leaves before answering.",
+      "level": 2
+    },
+    {
+      "id": "4.3",
+      "text": "Later, Chi Cui hears a flute sound that terrifies her, reminding her of her childhood fears.",
+      "level": 2
+    },
+    {
+      "id": "5",
+      "text": "Chi Cui is struggling with her strict father and her feelings of being a 'sacrifice'.",
+      "level": 1
+    },
+    {
+      "id": "5.1",
+      "text": "She longs to see the man from the bookstore.",
+      "level": 2
+    },
+    {
+      "id": "5.2",
+      "text": "On the subway, she experiences a nosebleed, which she associates with a 'sacrifice to the midnight flute'.",
+      "level": 2
+    },
+    {
+      "id": "5.3",
+      "text": "The mysterious man appears on the subway, tends to her nosebleed with the embroidered handkerchief, and shows an intimate knowledge of her emotions and her recent argument with her father.",
+      "level": 2
+    },
+    {
+      "id": "5.4",
+      "text": "She feels a strange sense of comfort in his presence.",
+      "level": 2
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Chi Cui",
+      "frequency": 20,
+      "context": "The 7-year-old protagonist in Chapter 1 and later a 22-year-old woman in Chapters 2-5. Her childhood experiences with a forbidden wall, poisonous flowers, and her father's warnings heavily influence her."
+    },
+    {
+      "name": "Father",
+      "frequency": 10,
+      "context": "Chi Cui's father, who imposes strict warnings and taboos on her, instilling fear of the outside world and specific dangers."
+    },
+    {
+      "name": "Oleander flowers",
+      "frequency": 5,
+      "context": "Poisonous flowers that attract Chi Cui in her childhood, symbolizing forbidden allure and danger."
+    },
+    {
+      "name": "Wall",
+      "frequency": 7,
+      "context": "A forbidden, dangerous wall from Chi Cui's childhood, associated with legends of 'ghost children' and death."
+    },
+    {
+      "name": "Boy",
+      "frequency": 3,
+      "context": "A mysterious boy encountered by Chi Cui near the forbidden wall, who enters it and disappears."
+    },
+    {
+      "name": "Lightning",
+      "frequency": 2,
+      "context": "A dramatic natural event that occurs as the boy enters the wall, heightening the sense of danger."
+    },
+    {
+      "id": "Midnight flute sound",
+      "frequency": 7,
+      "context": "A recurring motif, a terrifying sound that haunts Chi Cui, associated with her childhood fears and potentially with the supernatural."
+    },
+    {
+      "name": "Su Xing",
+      "frequency": 15,
+      "context": "A young man who is called to the hospital to see his dying flute teacher. He receives a mysterious flute and a warning."
+    },
+    {
+      "name": "Flute teacher",
+      "frequency": 8,
+      "context": "Su Xing's dying teacher, who possesses a mysterious flute and imparts cryptic warnings."
+    },
+    {
+      "name": "Flute",
+      "frequency": 10,
+      "context": "A central object in the narrative, particularly the one given to Su Xing by his teacher, which is associated with mystery and danger."
+    },
+    {
+      "name": "Box",
+      "frequency": 3,
+      "context": "A mysterious box given to Su Xing by his teacher, which contains the flute."
+    },
+    {
+      "name": "Mysterious man",
+      "frequency": 15,
+      "context": "A man in a black coat who frequents the subway bookstore, exhibiting an uncanny ability to perceive Chi Cui's thoughts and emotions. He is associated with the embroidered handkerchief and a flute."
+    },
+    {
+      "name": "Subway bookstore",
+      "frequency": 10,
+      "context": "The setting where Chi Cui works and encounters the mysterious man."
+    },
+    {
+      "name": "Embroidered handkerchief",
+      "frequency": 4,
+      "context": "A silk handkerchief embroidered with a flute, dropped by the mysterious man and returned by Chi Cui. It becomes a symbol of their connection."
+    },
+    {
+      "name": "Eyes",
+      "frequency": 8,
+      "context": "The mysterious man's eyes are described as captivating and all-seeing, playing a significant role in his interactions with Chi Cui."
+    },
+    {
+      "name": "Nosebleed",
+      "frequency": 3,
+      "context": "Chi Cui experiences nosebleeds, which she links to the concept of a 'sacrifice to the midnight flute'."
+    },
+    {
+      "name": "Sacrifice",
+      "frequency": 3,
+      "context": "Chi Cui feels like a sacrifice, particularly in relation to her father's warnings and the perceived supernatural influence of the 'midnight flute'."
+    }
+  ],
+  "relations": [
+    {
+      "source": "Chi Cui",
+      "target": "Father",
+      "type": "warned_by"
+    },
+    {
+      "source": "Chi Cui",
+      "target": "Oleander flowers",
+      "type": "attracted_to"
+    },
+    {
+      "source": "Chi Cui",
+      "target": "Wall",
+      "type": "forbidden_by"
+    },
+    {
+      "source": "Chi Cui",
+      "target": "Boy",
+      "type": "encountered"
+    },
+    {
+      "source": "Boy",
+      "target": "Wall",
+      "type": "entered"
+    },
+    {
+      "source": "Lightning",
+      "target": "Wall",
+      "type": "struck_near"
+    },
+    {
+      "source": "Chi Cui",
+      "target": "Midnight flute sound",
+      "type": "haunted_by"
+    },
+    {
+      "source": "Su Xing",
+      "target": "Flute teacher",
+      "type": "student_of"
+    },
+    {
+      "source": "Flute teacher",
+      "target": "Flute",
+      "type": "possessed"
+    },
+    {
+      "source": "Flute teacher",
+      "target": "Box",
+      "type": "gave"
+    },
+    {
+      "source": "Su Xing",
+      "target": "Flute",
+      "type": "received"
+    },
+    {
+      "source": "Flute teacher",
+      "target": "Su Xing",
+      "type": "warned"
+    },
+    {
+      "source": "Flute teacher",
+      "target": "Midnight flute sound",
+      "type": "last_words_about"
+    },
+    {
+      "source": "Chi Cui",
+      "target": "Mysterious man",
+      "type": "encountered_at"
+    },
+    {
+      "source": "Mysterious man",
+      "target": "Subway bookstore",
+      "type": "frequented"
+    },
+    {
+      "source": "Mysterious man",
+      "target": "Embroidered handkerchief",
+      "type": "dropped"
+    },
+    {
+      "source": "Chi Cui",
+      "target": "Embroidered handkerchief",
+      "type": "returned"
+    },
+    {
+      "source": "Mysterious man",
+      "target": "Eyes",
+      "type": "characterized_by"
+    },
+    {
+      "source": "Mysterious man",
+      "target": "Chi Cui",
+      "type": "perceived_emotions_of"
+    },
+    {
+      "source": "Chi Cui",
+      "target": "Flute sound",
+      "type": "heard_again"
+    },
+    {
+      "source": "Chi Cui",
+      "target": "Sacrifice",
+      "type": "felt_like_a"
+    },
+    {
+      "source": "Chi Cui",
+      "target": "Nosebleed",
+      "type": "experienced"
+    },
+    {
+      "source": "Nosebleed",
+      "target": "Sacrifice to the midnight flute",
+      "type": "associated_with"
+    },
+    {
+      "source": "Mysterious man",
+      "target": "Chi Cui",
+      "type": "provided_comfort_to"
+    },
+    {
+      "source": "Mysterious man",
+      "target": "Chi Cui",
+      "type": "used_handkerchief_on"
+    },
+    {
+      "source": "Mysterious man",
+      "target": "Embroidered handkerchief",
+      "type": "used_for"
+    }
+  ],
+  "hierarchy": {
+    "main_topics": [
+      "Childhood trauma and warnings",
+      "Supernatural mystery",
+      "Enigmatic characters and their connections",
+      "The influence of the past on the present"
+    ],
+    "structure": "The document is structured in chapters, progressing chronologically with flashbacks and alternating perspectives. Chapter 1 introduces the protagonist's childhood trauma. Chapter 2 shifts to a different character and a related mystery involving a flute. Chapters 3-5 focus on the protagonist's adult life and her encounters with a mysterious man, weaving in elements from her past and the supernatural."
+  }
+}

@@ -1,0 +1,487 @@
+{
+  "propositions": [
+    {
+      "id": "1",
+      "text": "王妃七岁了.",
+      "level": 1
+    },
+    {
+      "id": "2",
+      "text": "这是一个楔子.",
+      "level": 2
+    },
+    {
+      "id": "2.1",
+      "text": "对话发生在陆羽和另一人之间.",
+      "level": 3
+    },
+    {
+      "id": "2.1.1",
+      "text": "陆羽自我介绍.",
+      "level": 4
+    },
+    {
+      "id": "2.1.2",
+      "text": "另一人声明陆羽是他的，永远都是他的.",
+      "level": 4
+    },
+    {
+      "id": "2.1.3",
+      "text": "另一人要求陆羽答应.",
+      "level": 4
+    },
+    {
+      "id": "2.2",
+      "text": "陆羽重复的名字.",
+      "level": 3
+    },
+    {
+      "id": "2.3",
+      "text": "对话展现了双方的抗拒与占有欲.",
+      "level": 3
+    },
+    {
+      "id": "2.3.1",
+      "text": "陆羽拒绝了关系，并要求对方放开.",
+      "level": 4
+    },
+    {
+      "id": "2.3.2",
+      "text": "对方坚称陆羽是他的，并且不会放手.",
+      "level": 4
+    },
+    {
+      "id": "2.3.3",
+      "text": "陆羽询问对方的意图.",
+      "level": 4
+    },
+    {
+      "id": "2.3.4",
+      "text": "对方表达了对陆羽的欲望和需要.",
+      "level": 4
+    },
+    {
+      "id": "2.3.5",
+      "text": "陆羽恳求对方放开.",
+      "level": 4
+    },
+    {
+      "id": "2.3.6",
+      "text": "对方称赞陆羽的美丽，并表示得到她会让天下人嫉妒.",
+      "level": 4
+    },
+    {
+      "id": "2.3.7",
+      "text": "陆羽否认并再次恳求对方放开.",
+      "level": 4
+    },
+    {
+      "id": "2.3.8",
+      "text": "对方宣称陆羽逃不掉，无论走到哪里都会找到她.",
+      "level": 4
+    },
+    {
+      "id": "2.3.9",
+      "text": "陆羽发出绝望的呼喊.",
+      "level": 4
+    },
+    {
+      "id": "2.3.10",
+      "text": "对方享受陆羽的恐惧，并因此感到兴奋和更加想要她.",
+      "level": 4
+    },
+    {
+      "id": "2.3.11",
+      "text": "陆羽称对方为疯子并要求他走开.",
+      "level": 4
+    },
+    {
+      "id": "2.3.12",
+      "text": "对方承认自己是疯子，并再次强调他想要的谁也别想抢走，陆羽只属于他.",
+      "level": 4
+    },
+    {
+      "id": "2.3.13",
+      "text": "陆羽再次称对方为疯子并要求放开.",
+      "level": 4
+    },
+    {
+      "id": "2.3.14",
+      "text": "对方否定陆羽的逃脱.",
+      "level": 4
+    },
+    {
+      "id": "2.3.15",
+      "text": "陆羽质问对方为何变成这样.",
+      "level": 4
+    },
+    {
+      "id": "2.3.16",
+      "text": "对方解释说陆羽的反抗让他更加喜欢，并重申她逃不掉.",
+      "level": 4
+    },
+    {
+      "id": "2.3.17",
+      "text": "陆羽再次恳求对方放开.",
+      "level": 4
+    },
+    {
+      "id": "2.3.18",
+      "text": "对方重申陆羽永远也逃不掉.",
+      "level": 4
+    },
+    {
+      "id": "2.3.19",
+      "text": "陆羽质问对方的意图.",
+      "level": 4
+    },
+    {
+      "id": "2.3.20",
+      "text": "对方明确表示只想要陆羽.",
+      "level": 4
+    },
+    {
+      "id": "2.4",
+      "text": "这段对话在内容和结构上被大量重复.",
+      "level": 3
+    },
+    {
+      "id": "3",
+      "text": "文档提供了作品的章节结构.",
+      "level": 2
+    },
+    {
+      "id": "3.1",
+      "text": "第一章：七岁",
+      "level": 3
+    },
+    {
+      "id": "3.1.1",
+      "text": "序章：初遇",
+      "level": 4
+    },
+    {
+      "id": "3.2",
+      "text": "第二章：王妃",
+      "level": 3
+    },
+    {
+      "id": "3.2.1",
+      "text": "宫廷生活",
+      "level": 4
+    },
+    {
+      "id": "3.3",
+      "text": "第三章：成长",
+      "level": 3
+    },
+    {
+      "id": "3.3.1",
+      "text": "宫廷的挑战",
+      "level": 4
+    },
+    {
+      "id": "3.4",
+      "text": "第四章：蜕变",
+      "level": 3
+    },
+    {
+      "id": "3.4.1",
+      "text": "政治的漩涡",
+      "level": 4
+    },
+    {
+      "id": "3.5",
+      "text": "第五章：爱情",
+      "level": 3
+    },
+    {
+      "id": "3.5.1",
+      "text": "隐藏的情愫",
+      "level": 4
+    },
+    {
+      "id": "3.6",
+      "text": "第六章：责任",
+      "level": 3
+    },
+    {
+      "id": "3.6.1",
+      "text": "国家的未来",
+      "level": 4
+    },
+    {
+      "id": "3.7",
+      "text": "第七章：承诺",
+      "level": 3
+    },
+    {
+      "id": "3.7.1",
+      "text": "永恒的羁绊",
+      "level": 4
+    },
+    {
+      "id": "4",
+      "text": "文档末尾包含了一个网站链接.",
+      "level": 2
+    },
+    {
+      "id": "5",
+      "text": "文档末尾包含一些乱码或加密文本.",
+      "level": 2
+    }
+  ],
+  "concepts": [
+    {
+      "name": "陆羽",
+      "frequency": 61,
+      "context": "主要角色之一，被提及和呼唤。"
+    },
+    {
+      "name": "占有欲",
+      "frequency": 27,
+      "context": "对方表现出的强烈的占有欲，多次强调“你是我一个人的”，“你只属于我一个人”。"
+    },
+    {
+      "name": "逃脱/逃不掉",
+      "frequency": 27,
+      "context": "陆羽试图逃脱，但对方坚称她“逃不掉”，“永远也逃不掉”。"
+    },
+    {
+      "name": "欲望/需要",
+      "frequency": 20,
+      "context": "对方多次表达对陆羽的“想要”和“需要”。"
+    },
+    {
+      "name": "反抗",
+      "frequency": 5,
+      "context": "陆羽的反抗被对方视为刺激和喜欢的对象。"
+    },
+    {
+      "name": "疯子",
+      "frequency": 5,
+      "context": "陆羽称对方为“疯子”。"
+    },
+    {
+      "name": "王妃",
+      "frequency": 6,
+      "context": "文档标题，以及第二章的名称。"
+    },
+    {
+      "name": "七岁",
+      "frequency": 2,
+      "context": "文档标题，以及第一章的名称。"
+    },
+    {
+      "name": "承诺",
+      "frequency": 2,
+      "context": "第七章的名称。"
+    },
+    {
+      "name": "爱情",
+      "frequency": 2,
+      "context": "第五章的名称。"
+    },
+    {
+      "name": "成长",
+      "frequency": 2,
+      "context": "第三章的名称。"
+    },
+    {
+      "name": "责任",
+      "frequency": 2,
+      "context": "第六章的名称。"
+    },
+    {
+      "name": "蜕变",
+      "frequency": 2,
+      "context": "第四章的名称。"
+    },
+    {
+      "name": "初遇",
+      "frequency": 1,
+      "context": "第一章序章的名称。"
+    },
+    {
+      "name": "宫廷生活",
+      "frequency": 1,
+      "context": "第二章的子标题。"
+    },
+    {
+      "name": "宫廷的挑战",
+      "frequency": 1,
+      "context": "第三章的子标题。"
+    },
+    {
+      "name": "政治的漩涡",
+      "frequency": 1,
+      "context": "第四章的子标题。"
+    },
+    {
+      "name": "隐藏的情愫",
+      "frequency": 1,
+      "context": "第五章的子标题。"
+    },
+    {
+      "name": "国家的未来",
+      "frequency": 1,
+      "context": "第六章的子标题。"
+    },
+    {
+      "name": "永恒的羁绊",
+      "frequency": 1,
+      "context": "第七章的子标题。"
+    },
+    {
+      "name": "网站链接",
+      "frequency": 1,
+      "context": "文档末尾的 URL。"
+    },
+    {
+      "name": "乱码/加密文本",
+      "frequency": 1,
+      "context": "文档末尾出现的无法识别的字符。"
+    }
+  ],
+  "relations": [
+    {
+      "source": "陆羽",
+      "target": "占有欲",
+      "type": "is_subject_of"
+    },
+    {
+      "source": "陆羽",
+      "target": "逃脱/逃不掉",
+      "type": "is_involved_in"
+    },
+    {
+      "source": "陆羽",
+      "target": "反抗",
+      "type": "is_involved_in"
+    },
+    {
+      "source": "陆羽",
+      "target": "疯子",
+      "type": "is_called"
+    },
+    {
+      "source": "占有欲",
+      "target": "对方",
+      "type": "is_exhibited_by"
+    },
+    {
+      "source": "逃脱/逃不掉",
+      "target": "陆羽",
+      "type": "is_attempted_by"
+    },
+    {
+      "source": "逃脱/逃不掉",
+      "target": "对方",
+      "type": "denies"
+    },
+    {
+      "source": "欲望/需要",
+      "target": "对方",
+      "type": "is_expressed_by"
+    },
+    {
+      "source": "反抗",
+      "target": "对方",
+      "type": "is_perceived_as_stimulus_by"
+    },
+    {
+      "source": "疯子",
+      "target": "对方",
+      "type": "is_labeled_by"
+    },
+    {
+      "source": "王妃",
+      "target": "标题",
+      "type": "is_part_of"
+    },
+    {
+      "source": "七岁",
+      "target": "标题",
+      "type": "is_part_of"
+    },
+    {
+      "source": "承诺",
+      "target": "第七章",
+      "type": "is_name_of"
+    },
+    {
+      "source": "爱情",
+      "target": "第五章",
+      "type": "is_name_of"
+    },
+    {
+      "source": "成长",
+      "target": "第三章",
+      "type": "is_name_of"
+    },
+    {
+      "source": "责任",
+      "target": "第六章",
+      "type": "is_name_of"
+    },
+    {
+      "source": "蜕变",
+      "target": "第四章",
+      "type": "is_name_of"
+    },
+    {
+      "source": "初遇",
+      "target": "第一章序章",
+      "type": "is_name_of"
+    },
+    {
+      "source": "宫廷生活",
+      "target": "第二章",
+      "type": "is_subtitle_of"
+    },
+    {
+      "source": "宫廷的挑战",
+      "target": "第三章",
+      "type": "is_subtitle_of"
+    },
+    {
+      "source": "政治的漩涡",
+      "target": "第四章",
+      "type": "is_subtitle_of"
+    },
+    {
+      "source": "隐藏的情愫",
+      "target": "第五章",
+      "type": "is_subtitle_of"
+    },
+    {
+      "source": "国家的未来",
+      "target": "第六章",
+      "type": "is_subtitle_of"
+    },
+    {
+      "source": "永恒的羁绊",
+      "target": "第七章",
+      "type": "is_subtitle_of"
+    },
+    {
+      "source": "网站链接",
+      "target": "文档",
+      "type": "is_part_of"
+    },
+    {
+      "source": "乱码/加密文本",
+      "target": "文档",
+      "type": "is_part_of"
+    }
+  ],
+  "hierarchy": {
+    "main_topics": [
+      "Document Title",
+      "Prologue",
+      "Chapter Structure",
+      "Extraneous Content"
+    ],
+    "structure": "The document begins with a title, followed by a prologue presented as a dramatic dialogue.  It then outlines the chapter structure of a story, concluding with a website link and some garbled text. The prologue is heavily repetitive, emphasizing themes of obsession and helplessness."
+  }
+}

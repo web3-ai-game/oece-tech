@@ -1,0 +1,336 @@
+{
+  "propositions": [
+    {
+      "id": "1",
+      "text": "《加勒比海岛谋杀案》",
+      "level": 1
+    },
+    {
+      "id": "1.1",
+      "text": "白尔格瑞夫少校讲故事",
+      "level": 2
+    },
+    {
+      "id": "1.2",
+      "text": "玛波小姐作了决定",
+      "level": 2
+    },
+    {
+      "id": "1.3",
+      "text": "饭店中发生人员死亡",
+      "level": 2
+    },
+    {
+      "id": "1.4",
+      "text": "玛波小姐向医师追询",
+      "level": 2
+    },
+    {
+      "id": "2",
+      "text": "白尔格瑞夫少校讲述他在肯亚的经历。",
+      "level": 2
+    },
+    {
+      "id": "3",
+      "text": "玛波小姐思考现代小说和年轻人的性观念。",
+      "level": 2
+    },
+    {
+      "id": "4",
+      "text": "玛波小姐回忆起雷蒙的建议，他安排她去西印度群岛度假。",
+      "level": 2
+    },
+    {
+      "id": "5",
+      "text": "玛波小姐被安排住在金棕榈大饭店，肯道夫妇是这里的经营者。",
+      "level": 2
+    },
+    {
+      "id": "6",
+      "text": "玛波小姐感到海岛生活有些单调，怀念圣米德乡村的事件。",
+      "level": 2
+    },
+    {
+      "id": "7",
+      "text": "玛波小姐回想起圣米德发生的各种事件。",
+      "level": 2
+    },
+    {
+      "id": "8",
+      "text": "白尔格瑞夫少校突然将话题转向西北战线。",
+      "level": 2
+    },
+    {
+      "id": "9",
+      "text": "白尔格瑞夫少校询问玛波小姐对某事的看法。",
+      "level": 2
+    },
+    {
+      "id": "10",
+      "text": "玛波小姐认为在这里应该发生些热闹的事情。",
+      "level": 2
+    },
+    {
+      "id": "11",
+      "text": "白尔格瑞夫少校提到一年前发生过的哈瑞·魏斯登谋杀案。",
+      "level": 2
+    },
+    {
+      "id": "12",
+      "text": "白尔格瑞夫少校讲述了一个关于接连发生自杀事件的奇特故事。",
+      "level": 2
+    },
+    {
+      "id": "13",
+      "text": "白尔格瑞夫少校试图给玛波小姐看一张照片。",
+      "level": 2
+    },
+    {
+      "id": "14",
+      "text": "希林登夫妇和戴森夫妇出现。",
+      "level": 2
+    },
+    {
+      "id": "15",
+      "text": "玛波小姐观察饭店的客人和莫莉·肯道的举止。",
+      "level": 2
+    },
+    {
+      "id": "16",
+      "text": "玛波小姐思考人与人之间的相似之处，并开始对客人进行比较。",
+      "level": 2
+    },
+    {
+      "id": "17",
+      "text": "莫莉·肯道和提姆·肯道讨论饭店的经营状况和他们的未来。",
+      "level": 2
+    },
+    {
+      "id": "18",
+      "text": "玛波小姐收到一张“爪爪”水果。",
+      "level": 2
+    },
+    {
+      "id": "19",
+      "text": "玛波小姐感到岛上的生活单调，但今天有不同寻常的事情发生。",
+      "level": 2
+    },
+    {
+      "id": "20",
+      "text": "玛波小姐遇见莫莉·肯道，得知白尔格瑞夫少校死亡。",
+      "level": 2
+    },
+    {
+      "id": "21",
+      "text": "莫莉·肯道解释白尔格瑞夫少校的死因是高血压，但玛波小姐有所怀疑。",
+      "level": 2
+    },
+    {
+      "id": "22",
+      "text": "玛波小姐回想起白尔格瑞夫少校讲的故事和照片事件，觉得发丧的时机过于巧合。",
+      "level": 2
+    },
+    {
+      "id": "23",
+      "text": "玛波小姐决定去看望葛兰姆医生。",
+      "level": 2
+    },
+    {
+      "id": "24",
+      "text": "玛波小姐以膝盖不适为由请葛兰姆医生来访。",
+      "level": 2
+    },
+    {
+      "id": "25",
+      "text": "玛波小姐谎称需要要回一张自己最疼爱的外甥丹齐尔的照片。",
+      "level": 2
+    },
+    {
+      "id": "26",
+      "text": "葛兰姆医生同意帮助玛波小姐寻找照片，并将在检验白尔格瑞夫少校遗物时帮忙留意。",
+      "level": 2
+    },
+    {
+      "id": "27",
+      "text": "玛波小姐描述了照片的样子。",
+      "level": 2
+    }
+  ],
+  "concepts": [
+    {
+      "name": "白尔格瑞夫少校",
+      "frequency": 15,
+      "context": "一位喜欢讲故事的老军人，曾是少校，在肯亚度过十四年，后来在岛上死亡。"
+    },
+    {
+      "name": "玛波小姐",
+      "frequency": 27,
+      "context": "小说的主角，一位年长的、观察力敏锐的女士，善于从日常生活事件中洞察人性。"
+    },
+    {
+      "name": "肯亚",
+      "frequency": 2,
+      "context": "白尔格瑞夫少校讲述经历的地点。"
+    },
+    {
+      "name": "现代小说",
+      "frequency": 1,
+      "context": "玛波小姐认为难消受，内容多关于“性”和令人厌烦的人。"
+    },
+    {
+      "name": "性经验",
+      "frequency": 3,
+      "context": "玛波小姐和小说中的人物讨论的议题，现代小说中常见。"
+    },
+    {
+      "name": "雷蒙",
+      "frequency": 4,
+      "context": "玛波小姐的侄子，一位小说家，安排她去西印度群岛度假。"
+    },
+    {
+      "name": "西印度群岛",
+      "frequency": 1,
+      "context": "玛波小姐度假的目的地，也是故事发生的地点。"
+    },
+    {
+      "name": "金棕榈大饭店",
+      "frequency": 5,
+      "context": "玛波小姐入住的饭店，位于圣安诺瑞岛。"
+    },
+    {
+      "name": "肯道夫妇",
+      "frequency": 11,
+      "context": "金棕榈大饭店的经营者，包括提姆·肯道和莫莉·肯道。"
+    },
+    {
+      "name": "圣米德",
+      "frequency": 3,
+      "context": "玛波小姐在英国的家乡，她认为那里经常发生有趣的事情。"
+    },
+    {
+      "name": "谋杀案",
+      "frequency": 6,
+      "context": "故事中的关键事件，玛波小姐对此非常感兴趣，多次被提及。"
+    },
+    {
+      "name": "哈瑞·魏斯登",
+      "frequency": 1,
+      "context": "曾在此岛上发生过轰动一时的谋杀案的死者。"
+    },
+    {
+      "name": "希林登上校夫妇",
+      "frequency": 5,
+      "context": "饭店的客人，喜爱植物和鸟类，与戴森夫妇一同出现。"
+    },
+    {
+      "name": "戴森夫妇",
+      "frequency": 7,
+      "context": "饭店的客人，葛瑞格·戴森是蝴蝶方面的作家，与希林登夫妇一同出现。"
+    },
+    {
+      "name": "葛兰姆医生",
+      "frequency": 5,
+      "context": "一位退休的医生，住在饭店里，玛波小姐向他寻求帮助。"
+    },
+    {
+      "name": "照片",
+      "frequency": 6,
+      "context": "白尔格瑞夫少校试图展示给玛波小姐看的一张照片，与一起谋杀案有关。"
+    },
+    {
+      "name": "丹齐尔",
+      "frequency": 2,
+      "context": "玛波小姐已故的外甥，一张他的照片对她意义重大。"
+    },
+    {
+      "name": "高血压",
+      "frequency": 4,
+      "context": "白尔格瑞夫少校的病症，被认为是其死亡原因。"
+    }
+  ],
+  "relations": [
+    {
+      "source": "白尔格瑞夫少校",
+      "target": "肯亚",
+      "type": "has_experience_in"
+    },
+    {
+      "source": "玛波小姐",
+      "target": "雷蒙",
+      "type": "is_related_to (niece/nephew)"
+    },
+    {
+      "source": "雷蒙",
+      "target": "西印度群岛",
+      "type": "arranged_trip_to"
+    },
+    {
+      "source": "玛波小姐",
+      "target": "金棕榈大饭店",
+      "type": "is_staying_at"
+    },
+    {
+      "source": "肯道夫妇",
+      "target": "金棕榈大饭店",
+      "type": "manages"
+    },
+    {
+      "source": "玛波小姐",
+      "target": "圣米德",
+      "type": "hails_from"
+    },
+    {
+      "source": "白尔格瑞夫少校",
+      "target": "谋杀案",
+      "type": "mentioned"
+    },
+    {
+      "source": "玛波小姐",
+      "target": "谋杀案",
+      "type": "is_interested_in"
+    },
+    {
+      "source": "白尔格瑞夫少校",
+      "target": "照片",
+      "type": "possessed"
+    },
+    {
+      "source": "玛波小姐",
+      "target": "照片",
+      "type": "wants_back"
+    },
+    {
+      "source": "希林登上校夫妇",
+      "target": "戴森夫妇",
+      "type": "travels_with"
+    },
+    {
+      "source": "玛波小姐",
+      "target": "葛兰姆医生",
+      "type": "consulted"
+    },
+    {
+      "source": "白尔格瑞夫少校",
+      "target": "高血压",
+      "type": "has_condition"
+    },
+    {
+      "source": "葛兰姆医生",
+      "target": "白尔格瑞夫少校",
+      "type": "examined_deceased"
+    },
+    {
+      "source": "玛波小姐",
+      "target": "丹齐尔",
+      "type": "is_loved_one_of"
+    }
+  ],
+  "hierarchy": {
+    "main_topics": [
+      "Introduction to Setting and Characters",
+      "Initial Observations and Character Interactions",
+      "Suspicious Death and Investigation Begins"
+    ],
+    "structure": "The document is structured chronologically, following Miss Marple's arrival and experiences on the island, punctuated by her observations and interactions. It begins with initial introductions and mundane activities, gradually introducing elements of mystery and suspicion, culminating in a direct investigation by Miss Marple."
+  }
+}

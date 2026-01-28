@@ -1,0 +1,220 @@
+/* 教學系列樣式 */
+.tutorial-series-container {
+  max-width: 1400px;
+  margin: 0 auto;
+  padding: 2rem;
+}
+
+.series-section {
+  margin-bottom: 4rem;
+}
+
+.series-header {
+  display: flex;
+  align-items: center;
+  gap: 1.5rem;
+  margin-bottom: 1.5rem;
+  padding: 1.5rem;
+  background: var(--bg-secondary);
+  border: 2px solid var(--accent-cyan);
+  border-radius: 12px;
+  box-shadow: var(--glow-cyan);
+}
+
+.series-icon {
+  font-size: 3rem;
+  flex-shrink: 0;
+}
+
+.series-info {
+  flex: 1;
+}
+
+.series-title {
+  font-family: 'VT323', 'Noto Sans TC', monospace;
+  font-size: 1.8rem;
+  color: var(--accent-cyan);
+  margin-bottom: 0.5rem;
+  text-shadow: var(--glow-cyan);
+}
+
+.series-description {
+  color: var(--text-secondary);
+  font-size: 1rem;
+  line-height: 1.6;
+}
+
+.series-count {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 1rem;
+  background: var(--bg-tertiary);
+  border: 1px solid var(--accent-pink);
+  border-radius: 8px;
+  min-width: 80px;
+}
+
+.count-number {
+  font-family: 'Press Start 2P', cursive;
+  font-size: 2rem;
+  color: var(--accent-pink);
+  text-shadow: var(--glow-pink);
+}
+
+.count-label {
+  font-size: 0.85rem;
+  color: var(--text-secondary);
+  margin-top: 0.25rem;
+}
+
+/* 系列列表 */
+.series-grid {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+  background: var(--bg-secondary);
+  border-radius: 8px;
+  padding: 1rem;
+}
+
+.tutorial-card {
+  display: flex;
+  align-items: center;
+  gap: 1.5rem;
+  padding: 1rem 1.5rem;
+  background: var(--bg-tertiary);
+  border: 1px solid var(--border-color);
+  border-radius: 6px;
+  text-decoration: none;
+  color: inherit;
+  transition: all 0.3s ease;
+}
+
+.tutorial-card:hover {
+  border-color: var(--accent-cyan);
+  background: rgba(0, 255, 249, 0.05);
+  transform: translateX(5px);
+}
+
+.tutorial-number {
+  font-family: 'IBM Plex Mono', monospace;
+  font-weight: 700;
+  font-size: 1rem;
+  color: var(--accent-cyan);
+  padding: 0.25rem 0.75rem;
+  background: var(--bg-primary);
+  border-radius: 4px;
+  flex-shrink: 0;
+  min-width: 60px;
+  text-align: center;
+}
+
+.tutorial-title {
+  font-family: 'Noto Sans TC', sans-serif;
+  font-size: 1.1rem;
+  font-weight: 700;
+  color: var(--text-primary);
+  margin: 0;
+  flex: 1;
+}
+
+.tutorial-description {
+  font-size: 0.85rem;
+  color: var(--text-secondary);
+  line-height: 1.4;
+  margin: 0;
+  flex: 2;
+  display: -webkit-box;
+  -webkit-line-clamp: 1;
+  line-clamp: 1;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+.tutorial-arrow {
+  color: var(--accent-pink);
+  font-size: 1.2rem;
+  transition: transform 0.3s ease;
+  flex-shrink: 0;
+}
+
+.tutorial-card:hover .tutorial-arrow {
+  transform: translateX(3px);
+}
+
+/* 空狀態 */
+.series-empty {
+  padding: 2rem;
+  background: var(--bg-secondary);
+  border: 2px dashed var(--border-color);
+  border-radius: 10px;
+  text-align: center;
+}
+
+.empty-terminal {
+  font-family: 'IBM Plex Mono', 'Noto Sans TC', monospace;
+  color: var(--text-secondary);
+}
+
+.empty-text {
+  color: var(--accent-cyan);
+  margin-bottom: 0.5rem;
+}
+
+.empty-hint {
+  color: var(--text-secondary);
+  font-size: 0.9rem;
+}
+
+.empty-hint::before {
+  content: '⏳ ';
+}
+
+/* 響應式 */
+@media (max-width: 768px) {
+  .series-header {
+    flex-direction: column;
+    text-align: center;
+  }
+
+  .series-title {
+    font-size: 1.4rem;
+  }
+
+  .tutorial-card {
+    flex-wrap: wrap;
+    gap: 1rem;
+  }
+  
+  .tutorial-description {
+    width: 100%;
+    order: 3;
+  }
+
+  .series-icon {
+    font-size: 2.5rem;
+  }
+}
+
+@media (max-width: 480px) {
+  .tutorial-series-container {
+    padding: 1rem;
+  }
+
+  .series-header {
+    padding: 1rem;
+  }
+
+  .tutorial-card {
+    padding: 1rem;
+  }
+  
+  .tutorial-title {
+    font-size: 0.95rem;
+  }
+  
+  .tutorial-description {
+    font-size: 0.8rem;
+  }
+}

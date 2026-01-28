@@ -1,0 +1,353 @@
+{
+  "propositions": [
+    {
+      "id": "1",
+      "text": "A blind man visits a private detective agency.",
+      "level": 1
+    },
+    {
+      "id": "1.1",
+      "text": "The blind man, Gao Langni, is looking for a young lady.",
+      "level": 2
+    },
+    {
+      "id": "1.1.1",
+      "text": "He describes her appearance: around 25-26 years old, thin, about 5'4\"-5'5\", and weighing 105-107 lbs.",
+      "level": 3
+    },
+    {
+      "id": "1.1.1.1",
+      "text": "He claims to know this information based on her voice and gait.",
+      "level": 4
+    },
+    {
+      "id": "1.1.2",
+      "text": "The young lady was recently injured in a car accident.",
+      "level": 3
+    },
+    {
+      "id": "1.1.2.1",
+      "text": "The accident occurred on a Friday afternoon around 5:45 PM.",
+      "level": 4
+    },
+    {
+      "id": "1.1.2.2",
+      "text": "She was hit by a car and shaken, but initially refused medical attention.",
+      "level": 4
+    },
+    {
+      "id": "1.1.2.3",
+      "text": "She did not return to work on Saturday or Monday, and it is now Tuesday.",
+      "level": 4
+    },
+    {
+      "id": "1.1.3",
+      "text": "Gao Langni offers financial compensation for finding her.",
+      "level": 3
+    },
+    {
+      "id": "1.1.3.1",
+      "text": "He pays a deposit of $100.",
+      "level": 4
+    },
+    {
+      "id": "1.1.3.2",
+      "text": "He specifies a daily work fee of $10, with a minimum of $25.",
+      "level": 4
+    },
+    {
+      "id": "1.2",
+      "text": "The detective, Bai Sha, and her assistant, Ai Qian, take on the case.",
+      "level": 2
+    },
+    {
+      "id": "1.2.1",
+      "text": "Bai Sha is skeptical about Gao Langni's abilities and motives.",
+      "level": 3
+    },
+    {
+      "id": "1.2.2",
+      "text": "Bai Sha investigates the car accident by checking with the traffic division.",
+      "level": 3
+    },
+    {
+      "id": "1.2.2.1",
+      "text": "No accident report is found for the specified time and location.",
+      "level": 4
+    },
+    {
+      "id": "1.2.3",
+      "text": "Bai Sha attempts to contact local hospitals.",
+      "level": 3
+    },
+    {
+      "id": "1.2.3.1",
+      "text": "This proves difficult and time-consuming.",
+      "level": 4
+    },
+    {
+      "id": "1.2.4",
+      "text": "Bai Sha decides to place a classified advertisement in the newspaper.",
+      "level": 3
+    },
+    {
+      "id": "1.2.4.1",
+      "text": "The advertisement seeks witnesses to the car accident, offering a reward for the car's license plate number.",
+      "level": 4
+    },
+    {
+      "id": "1.2.4.2",
+      "text": "The reward is initially $5, then reduced to $2.",
+      "level": 5
+    },
+    {
+      "id": "1.3",
+      "text": "A man claiming to be a witness contacts Bai Sha.",
+      "level": 2
+    },
+    {
+      "id": "1.3.1",
+      "text": "He is evasive about his identity and demands to negotiate terms before revealing information.",
+      "level": 3
+    },
+    {
+      "id": "1.3.2",
+      "text": "He expresses cynicism about the legal system and the role of witnesses.",
+      "level": 3
+    },
+    {
+      "id": "1.3.3",
+      "text": "Bai Sha suspects he is trying to extort money.",
+      "level": 3
+    },
+    {
+      "id": "1.3.4",
+      "text": "Bai Sha tells him that her employer is a blind beggar who is concerned about the injured lady.",
+      "level": 3
+    },
+    {
+      "id": "1.3.5",
+      "text": "Bai Sha then physically escorts the man out of the office.",
+      "level": 3
+    },
+    {
+      "id": "1.3.6",
+      "text": "She instructs Ai Qian to follow him.",
+      "level": 3
+    },
+    {
+      "id": "1.4",
+      "text": "Ai Qian follows the man.",
+      "level": 2
+    },
+    {
+      "id": "1.4.1",
+      "text": "The man first visits the blind beggar, Gao Langni, and drops several silver dollars into his tin can.",
+      "level": 3
+    },
+    {
+      "id": "1.4.2",
+      "text": "He then crosses the street and disappears onto a streetcar.",
+      "level": 3
+    },
+    {
+      "id": "1.4.3",
+      "text": "Ai Qian loses track of him.",
+      "level": 3
+    },
+    {
+      "id": "1.5",
+      "text": "The man, Qian Zilai, returns to Bai Sha's office.",
+      "level": 2
+    },
+    {
+      "id": "1.5.1",
+      "text": "He offers to reveal the injured lady's name and address for a quarter of any compensation she receives.",
+      "level": 3
+    },
+    {
+      "id": "1.5.2",
+      "text": "He states that the lady's name is Desfen, and she lives at the Sparrow Apartments on South Figueroa Street.",
+      "level": 3
+    },
+    {
+      "id": "1.5.3",
+      "text": "He explains that Desfen did not go to the hospital and claims she is losing her job due to her injury.",
+      "level": 3
+    },
+    {
+      "id": "1.5.4",
+      "text": "Bai Sha dismisses him again.",
+      "level": 3
+    },
+    {
+      "id": "1.6",
+      "text": "Bai Sha visits Desfen at the Sparrow Apartments.",
+      "level": 2
+    },
+    {
+      "id": "1.6.1",
+      "text": "Desfen confirms she was in a car accident and lost her job.",
+      "level": 3
+    },
+    {
+      "id": "1.6.2",
+      "text": "She reveals that her boss, Mr. Mei, a writer, has also passed away.",
+      "level": 3
+    },
+    {
+      "id": "1.6.3",
+      "text": "Desfen guesses that Bai Sha's employer is the blind beggar.",
+      "level": 3
+    },
+    {
+      "id": "1.6.4",
+      "text": "She expresses gratitude for his concern and says she will visit him.",
+      "level": 3
+    },
+    {
+      "id": "1.6.5",
+      "text": "Bai Sha offers to help Desfen pursue compensation from the driver.",
+      "level": 3
+    },
+    {
+      "id": "1.6.6",
+      "text": "Desfen only wishes to recover her lost wages and medical expenses, amounting to approximately $25.",
+      "level": 4
+    },
+    {
+      "id": "1.7",
+      "text": "Bai Sha reports back to Gao Langni.",
+      "level": 2
+    },
+    {
+      "id": "1.7.1",
+      "text": "She confirms that Desfen is unharmed and provides her address.",
+      "level": 3
+    },
+    {
+      "id": "1.7.2",
+      "text": "She mentions Desfen's boss, Mr. Mei, has died.",
+      "level": 3
+    },
+    {
+      "id": "1.7.3",
+      "text": "Gao Langni recognizes Mr. Mei as an elderly man he used to see on the street.",
+      "level": 3
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Blindness",
+      "frequency": 15,
+      "context": "The primary characteristic of Gao Langni, influencing his perception and interactions. It also leads to a reliance on other senses and communication methods."
+    },
+    {
+      "name": "Private Detective Agency",
+      "frequency": 8,
+      "context": "The setting for much of the initial interaction and the business of Bai Sha and Ai Qian."
+    },
+    {
+      "name": "Car Accident",
+      "frequency": 10,
+      "context": "The inciting incident that leads to the search for Desfen and the subsequent investigations."
+    },
+    {
+      "name": "Money/Compensation",
+      "frequency": 18,
+      "context": "A recurring theme, representing motivation, payment for services, and the potential outcome for Desfen."
+    },
+    {
+      "name": "Witness",
+      "frequency": 5,
+      "context": "The role of Qian Zilai, his claims, and the difficulties in verifying his testimony."
+    },
+    {
+      "name": "Investigation",
+      "frequency": 7,
+      "context": "The process undertaken by Bai Sha and Ai Qian to gather information about the accident and Desfen."
+    },
+    {
+      "name": "Deception/Trickery",
+      "frequency": 6,
+      "context": "Present in the actions of Qian Zilai and the methods used by Bai Sha to uncover information."
+    },
+    {
+      "name": "Concern/Care",
+      "frequency": 5,
+      "context": "The motivation of Gao Langni for finding Desfen and the implied concern of Bai Sha in her investigation."
+    },
+    {
+      "name": "Job Loss",
+      "frequency": 3,
+      "context": "A consequence of Desfen's injury, highlighting the financial implications of the accident."
+    },
+    {
+      "name": "Death",
+      "frequency": 3,
+      "context": "The passing of Mr. Mei, Desfen's boss, and its potential impact on the narrative."
+    }
+  ],
+  "relations": [
+    {
+      "source": "Gao Langni",
+      "target": "Desfen",
+      "type": "seeks"
+    },
+    {
+      "source": "Gao Langni",
+      "target": "Detective Agency",
+      "type": "employs"
+    },
+    {
+      "source": "Bai Sha",
+      "target": "Gao Langni",
+      "type": "works_for"
+    },
+    {
+      "source": "Car Accident",
+      "target": "Desfen",
+      "type": "involves"
+    },
+    {
+      "source": "Qian Zilai",
+      "target": "Witness",
+      "type": "claims_to_be"
+    },
+    {
+      "source": "Bai Sha",
+      "target": "Investigation",
+      "type": "performs"
+    },
+    {
+      "source": "Money",
+      "target": "Compensation",
+      "type": "is_for"
+    },
+    {
+      "source": "Desfen",
+      "target": "Job Loss",
+      "type": "experiences"
+    },
+    {
+      "source": "Mr. Mei",
+      "target": "Death",
+      "type": "undergoes"
+    },
+    {
+      "source": "Blindness",
+      "target": "Other Senses",
+      "type": "enhances"
+    }
+  ],
+  "hierarchy": {
+    "main_topics": [
+      "The Blind Man's Request",
+      "The Detective's Investigation",
+      "The Witness and His Deception",
+      "Finding the Injured Lady",
+      "The Aftermath and Compensation"
+    ],
+    "structure": "The document follows a narrative structure where a request initiates an investigation, leading to encounters with various characters, the discovery of information, and a resolution, albeit with lingering questions about motives and outcomes. It progresses through distinct chapters, each revealing new plot points and character interactions."
+  }
+}

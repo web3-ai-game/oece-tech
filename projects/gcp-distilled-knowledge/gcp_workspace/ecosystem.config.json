@@ -1,0 +1,26 @@
+{
+  "apps": [{
+    "name": "vector-jet-api",
+    "script": "./server.js",
+    "cwd": "/home/svs-main-key/GCP",
+    "env": {
+      "PORT": "8080",
+      "GEMINI_FREE_KEY": "AIzaSyD_cNll0AKAmKZgO6pOJzMRosKiBJxuUNM",
+      "GEMINI_FREE_MODEL": "gemini-2.5-flash-lite",
+      "TEMP_COLD": "0.1",
+      "TEMP_VECTOR": "0.7",
+      "TEMP_HOT": "1.2",
+      "TEMP_DISTILL": "0.5",
+      "NODE_ENV": "production"
+    },
+    "instances": 1,
+    "exec_mode": "fork",
+    "autorestart": true,
+    "max_restarts": 10,
+    "watch": false,
+    "log_file": "/home/svs-main-key/GCP/logs/vector-jet.log",
+    "out_file": "/home/svs-main-key/GCP/logs/vector-jet-out.log",
+    "error_file": "/home/svs-main-key/GCP/logs/vector-jet-error.log",
+    "time": true
+  }]
+}

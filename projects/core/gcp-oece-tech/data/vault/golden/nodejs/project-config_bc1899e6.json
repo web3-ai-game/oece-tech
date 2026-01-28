@@ -1,0 +1,57 @@
+{
+  "project": {
+    "name": "HotelHub",
+    "version": "2.0.0",
+    "description": "智能酒店管理平台",
+    "organization": "Inistel Technologies"
+  },
+  "paths": {
+    "root": "/Users/svs.loline/Documents/xiangmu/hotel-inistel",
+    "external_storage": "/Volumes/128",
+    "docker_data": "/Volumes/128/docker-data",
+    "docker_volumes": "/Volumes/128/docker-volumes",
+    "backups": "/Volumes/128/backups"
+  },
+  "structure": {
+    "apps": {
+      "frontend": "./apps/web",
+      "backend": "./apps/api",
+      "admin": "./apps/admin"
+    },
+    "packages": {
+      "ui": "./packages/ui",
+      "config": "./packages/config",
+      "database": "./packages/database"
+    },
+    "docs": "./docs",
+    "scripts": "./scripts",
+    "deployments": "./deployments"
+  },
+  "environments": {
+    "development": {
+      "frontend_port": 3000,
+      "backend_port": 5001,
+      "database": "sqlite"
+    },
+    "production": {
+      "frontend_port": 80,
+      "backend_port": 443,
+      "database": "postgresql"
+    }
+  },
+  "docker": {
+    "memory_limit": "512M",
+    "cpu_limit": "1.0",
+    "storage_driver": "overlay2",
+    "data_root": "/Volumes/128/docker-data"
+  },
+  "notion": {
+    "workspace": "Hotel-Inistel-AI-Dev",
+    "databases": {
+      "tasks": "c81a1b1e-5865-4e6d-b1e5-3eb453768366",
+      "code_library": "b6d5090a-4595-41ca-99a2-7b46cdc14641",
+      "documentation": "to_be_created",
+      "scripts": "to_be_created"
+    }
+  }
+}

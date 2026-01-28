@@ -1,0 +1,85 @@
+{
+  "propositions": [
+    {
+      "id": "1",
+      "text": "兰陵旧事 is a narrative exploring themes of power, gender dynamics, and societal structure in a female-dominated world.",
+      "level": 1
+    },
+    {
+      "id": "1.1",
+      "text": "The story unfolds through multiple chapters, each detailing interpersonal conflicts and societal norms.",
+      "level": 2
+    },
+    {
+      "id": "1.2",
+      "text": "Characters engage in dialogues and actions that reflect their roles and struggles within a matriarchal hierarchy.",
+      "level": 2
+    },
+    {
+      "id": "2",
+      "text": "Central themes include loyalty, betrayal, and the quest for personal agency amidst rigid social constraints.",
+      "level": 1
+    },
+    {
+      "id": "2.1",
+      "text": "Loyalty is tested through alliances and conflicts among characters vying for power or survival.",
+      "level": 2
+    },
+    {
+      "id": "2.2",
+      "text": "Betrayal emerges as a recurring motif, driving plot developments and character motivations.",
+      "level": 2
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Matriarchy",
+      "frequency": 10,
+      "context": "The societal structure where women hold primary power, influencing character interactions and conflicts."
+    },
+    {
+      "name": "Power Struggle",
+      "frequency": 8,
+      "context": "Recurring theme of characters competing for dominance or survival within the social hierarchy."
+    },
+    {
+      "name": "Loyalty",
+      "frequency": 6,
+      "context": "A key value tested through relationships and alliances in the narrative."
+    },
+    {
+      "name": "Betrayal",
+      "frequency": 5,
+      "context": "Acts of disloyalty that shape character dynamics and plot progression."
+    }
+  ],
+  "relations": [
+    {
+      "source": "Matriarchy",
+      "target": "Power Struggle",
+      "type": "implies"
+    },
+    {
+      "source": "Power Struggle",
+      "target": "Betrayal",
+      "type": "causes"
+    },
+    {
+      "source": "Loyalty",
+      "target": "Betrayal",
+      "type": "contrasts"
+    },
+    {
+      "source": "Matriarchy",
+      "target": "Loyalty",
+      "type": "influences"
+    }
+  ],
+  "hierarchy": {
+    "main_topics": [
+      "Matriarchal Society",
+      "Interpersonal Conflicts"
+    ],
+    "structure": "The document is structured into multiple chapters, each focusing on different aspects of societal norms and personal struggles within a female-dominated world, with a narrative style that interweaves dialogue and descriptive passages."
+  }
+}

@@ -7,9 +7,9 @@
     "getStarted": "開始使用"
   },
   "hero": {
-    "title": "AI 驅動",
-    "highlight": "知識引擎",
-    "subtitle": "與 Gemini AI 對話，探索知識庫，解鎖未來。"
+    "title": "AI 娛樂",
+    "highlight": "創意工坊",
+    "subtitle": "Gemini 漫畫生成 · 爽文推演 · 前世分析 · MCP 提示詞庫"
   },
   "chat": {
     "placeholder": "問我任何問題...",
@@ -20,17 +20,21 @@
     "docs": "文檔"
   },
   "features": {
-    "gemini": {
-      "title": "Gemini Pro",
-      "desc": "Lite 無限使用"
+    "comic": {
+      "title": "AI 漫畫",
+      "desc": "劇情生成分鏡"
     },
-    "chat": {
-      "title": "智能對話",
-      "desc": "多模態支持"
+    "novel": {
+      "title": "爽文推演",
+      "desc": "自動生成章節"
     },
-    "beta": {
-      "title": "Beta 免費",
-      "desc": "全部功能"
+    "pastlife": {
+      "title": "前世分析",
+      "desc": "AI 占卜推測"
+    },
+    "prompts": {
+      "title": "提示詞庫",
+      "desc": "中英文 MCP"
     }
   },
   "footer": {

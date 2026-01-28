@@ -1,0 +1,500 @@
+{
+  "propositions": [
+    {
+      "id": "1",
+      "text": "夕雨子患有白血病，病情严重，生命垂危。",
+      "level": 1
+    },
+    {
+      "id": "1.1",
+      "text": "她原本被送入医院接受“饱和疗法”，后因费用问题改为“维持疗法”在家中休养。",
+      "level": 2
+    },
+    {
+      "id": "1.2",
+      "text": "夕雨子身体虚弱，头发脱落，皮肤变脆弱。",
+      "level": 2
+    },
+    {
+      "id": "2",
+      "text": "夕雨子的父母贫穷，对女儿的病情感到无能为力。",
+      "level": 1
+    },
+    {
+      "id": "3",
+      "text": "父母在报纸上看到“癌病船”的报道，心生希望。",
+      "level": 1
+    },
+    {
+      "id": "3.1",
+      "text": "癌病船“北斗号”是世界保健组织分支机构，旨在与不治之症作斗争。",
+      "level": 2
+    },
+    {
+      "id": "3.1.1",
+      "text": "它是一艘巨大的医院船，拥有先进的医疗设备和大量医务人员。",
+      "level": 3
+    },
+    {
+      "id": "3.1.2",
+      "text": "其目的是为癌症晚期患者提供治疗、舒适的环境，并让他们欣赏世界风光。",
+      "level": 3
+    },
+    {
+      "id": "3.1.3",
+      "text": "癌病船还承担疑难病症的研究和对落后国家医务人员的培训任务。",
+      "level": 3
+    },
+    {
+      "id": "3.1.4",
+      "text": "癌病船分为不同的等级区域，提供各种娱乐设施和服务。",
+      "level": 3
+    },
+    {
+      "id": "3.2",
+      "text": "癌病船的病房数量有限，为解决分配问题，采用抽签和出售高级病房的方式。",
+      "level": 2
+    },
+    {
+      "id": "3.2.1",
+      "text": "四百间病房标价出售，提供永久居住至死亡。",
+      "level": 3
+    },
+    {
+      "id": "3.2.2",
+      "text": "其余四百间免费供挑选的病员使用，名额按各国人口比例分配。",
+      "level": 3
+    },
+    {
+      "id": "4",
+      "text": "夕雨子的父母决定为女儿申请免费上船。",
+      "level": 1
+    },
+    {
+      "id": "4.1",
+      "text": "夕雨子起初不愿意去，但为了不给家人添麻烦，最终同意。",
+      "level": 2
+    },
+    {
+      "id": "4.2",
+      "text": "她收到了上船通知书。",
+      "level": 2
+    },
+    {
+      "id": "5",
+      "text": "癌病船“北斗号”在日本横滨港举行招待会，船长白鸟铁善主持。",
+      "level": 1
+    },
+    {
+      "id": "5.1",
+      "text": "招待会上有各国政府官员、金融巨头、医学界等人士出席。",
+      "level": 2
+    },
+    {
+      "id": "6",
+      "text": "船长白鸟收到总部电传指令，要求处理一名叫马拉德的阿拉伯人购买高级病房的申请。",
+      "level": 1
+    },
+    {
+      "id": "6.1",
+      "text": "马拉德以高价购买病房，并要求带朋友上船，但他正被其国家政府追捕。",
+      "level": 2
+    },
+    {
+      "id": "6.2",
+      "text": "财团总部为马拉德的高额费用所动，但又担心引发政治纠纷。",
+      "level": 2
+    },
+    {
+      "id": "6.3",
+      "text": "总部授权船长白鸟处理此事。",
+      "level": 2
+    },
+    {
+      "id": "7",
+      "text": "白鸟船长决定同意马拉德上船，但拒绝其随行人员。",
+      "level": 1
+    },
+    {
+      "id": "7.1",
+      "text": "一等水手竹波豪一对此决定表示担忧，认为存在安全风险。",
+      "level": 2
+    },
+    {
+      "id": "7.2",
+      "text": "白鸟强调癌病船的原则是“一视同仁”，并表示将依靠自身力量保卫船只。",
+      "level": 2
+    },
+    {
+      "id": "8",
+      "text": "夕雨子第一次登上“北斗号”，对船的巨大感到震撼。",
+      "level": 1
+    },
+    {
+      "id": "8.1",
+      "text": "她被安排在h层病房，房间设施豪华舒适。",
+      "level": 2
+    },
+    {
+      "id": "8.2",
+      "text": "父母送她上船，父亲请求船长多加关照。",
+      "level": 2
+    },
+    {
+      "id": "9",
+      "text": "船在九月一日上午九时启航，第一站是新加坡。",
+      "level": 1
+    },
+    {
+      "id": "10",
+      "text": "院长巴林松对马拉德上船表示强烈不满，认为其可能威胁船的安全和癌病船的宗旨。",
+      "level": 1
+    },
+    {
+      "id": "10.1",
+      "text": "巴林松认为白鸟船长没有理解癌病船的真正目的。",
+      "level": 2
+    },
+    {
+      "id": "10.2",
+      "text": "白鸟坚持船的原则，并认为马拉德事件是不可避免的挑战。",
+      "level": 2
+    },
+    {
+      "id": "11",
+      "text": "“北斗号”启航驶向公海，船长白鸟凝视大海，预感前程不妙。",
+      "level": 1
+    },
+    {
+      "id": "11.1",
+      "text": "由于马拉德事件，医院方面拒绝出席船方组织的纪念酒会。",
+      "level": 2
+    },
+    {
+      "id": "12",
+      "text": "夕雨子在船上迷路，误入d层餐厅。",
+      "level": 1
+    },
+    {
+      "id": "12.1",
+      "text": "她被一名外国男子粗暴对待，后被乘客石根利秋解救。",
+      "level": 2
+    },
+    {
+      "id": "12.2",
+      "text": "石根利秋是一位患有癌症的乘客，他关心夕雨子，并带她回自己房间。",
+      "level": 2
+    },
+    {
+      "id": "12.3",
+      "text": "夕雨子不愿打电话回家，怕母亲难过。",
+      "level": 3
+    },
+    {
+      "id": "13",
+      "text": "马拉德对登上癌病船感到安心，但他内心仍潜伏着对刺客的恐惧。",
+      "level": 1
+    },
+    {
+      "id": "13.1",
+      "text": "他夜里常感到恐慌，依靠安眠药入睡，并在梦中受到惊吓。",
+      "level": 2
+    },
+    {
+      "id": "13.2",
+      "text": "一天夜里，他听到有人撬门，怀疑是刺客，并与护士巴奈特发生冲突。",
+      "level": 2
+    },
+    {
+      "id": "13.3",
+      "text": "马拉德情绪失控，最终性侵了护士巴奈特。",
+      "level": 3
+    },
+    {
+      "id": "14",
+      "text": "院长巴林松得知护士被强奸后，怒气冲冲地找船长白鸟算账，要求拘留马拉德。",
+      "level": 1
+    },
+    {
+      "id": "14.1",
+      "text": "巴林松再次强调船长未真正理解癌病船的宗旨。",
+      "level": 2
+    },
+    {
+      "id": "15",
+      "text": "船长白鸟指示特工人员调查船上出现的奇怪无线电信号，怀疑与马拉德的敌人有关。",
+      "level": 1
+    },
+    {
+      "id": "15.1",
+      "text": "奇怪信号“ok”被美国第七舰队等船只收到，但“北斗号”上的电讯员却未收到。",
+      "level": 2
+    },
+    {
+      "id": "15.2",
+      "text": "白鸟怀疑是船上的意大利和西班牙电讯员与袭击船只或破坏船只的阴谋有关。",
+      "level": 2
+    },
+    {
+      "id": "16",
+      "text": "白鸟面临着被撤换船长职务的可能，并考虑在新加坡下船。",
+      "level": 1
+    }
+  ],
+  "concepts": [
+    {
+      "name": "癌病船",
+      "frequency": 31,
+      "context": "指巨大的医院船“北斗号”，旨在与癌症作斗争，提供治疗、舒适环境和旅行体验。"
+    },
+    {
+      "name": "北斗号",
+      "frequency": 20,
+      "context": "癌病船的名称，是一艘巨大的医院船，拥有先进的医疗设备和设施。"
+    },
+    {
+      "name": "夕雨子",
+      "frequency": 10,
+      "context": "患有白血病、即将去世的少女，是癌病船的首批免费患者。"
+    },
+    {
+      "name": "白血病",
+      "frequency": 4,
+      "context": "夕雨子患有的疾病，导致她生命垂危。"
+    },
+    {
+      "name": "父母",
+      "frequency": 7,
+      "context": "夕雨子的父母，贫穷但深爱女儿，为女儿的病情和上船事宜担忧。"
+    },
+    {
+      "name": "白鸟",
+      "frequency": 16,
+      "context": "癌病船“北斗号”的船长，一位经验丰富、原则性强的日本人。"
+    },
+    {
+      "name": "马拉德",
+      "frequency": 12,
+      "context": "一位患有肝癌的阿拉伯人，因被本国政府追捕而购买癌病船的高级病房，并引发了一系列事件。"
+    },
+    {
+      "name": "斯克德财团",
+      "frequency": 9,
+      "context": "建造癌病船的组织，致力于与疾病作斗争，但受经济因素影响。"
+    },
+    {
+      "name": "巴林松",
+      "frequency": 7,
+      "context": "癌病船医院的院长，直率且对癌病船的宗旨充满热情，对马拉德上船表示强烈反对。"
+    },
+    {
+      "name": "希望",
+      "frequency": 5,
+      "context": "癌病船带给患者的，也是夕雨子父母面对女儿病情时的寄托。"
+    },
+    {
+      "name": "生命",
+      "frequency": 5,
+      "context": "夕雨子和马拉德等人的生命面临威胁，癌病船旨在延长和改善他们的生命体验。"
+    },
+    {
+      "name": "死亡",
+      "frequency": 5,
+      "context": "夕雨子和马拉德等人的最终命运，癌病船是在与死亡抗争中提供慰藉。"
+    },
+    {
+      "name": "原则",
+      "frequency": 5,
+      "context": "癌病船“一视同仁”的原则，以及白鸟船长坚持的航行原则。"
+    },
+    {
+      "name": "安全",
+      "frequency": 3,
+      "context": "马拉德上船引发的安全担忧，以及船上的特工人员对船只安全的关注。"
+    },
+    {
+      "name": "治疗",
+      "frequency": 4,
+      "context": "癌病船的主要目的，为癌症患者提供治疗和医疗服务。"
+    },
+    {
+      "name": "政治",
+      "frequency": 3,
+      "context": "马拉德的背景和其国家的政治斗争，以及癌病船可能卷入的国际政治漩涡。"
+    },
+    {
+      "name": "抗癌剂",
+      "frequency": 1,
+      "context": "用于治疗夕雨子白血病的药物。"
+    },
+    {
+      "name": "饱和疗法",
+      "frequency": 1,
+      "context": "夕雨子最初接受的癌症治疗方法。"
+    },
+    {
+      "name": "维持疗法",
+      "frequency": 1,
+      "context": "夕雨子在家中接受的癌症治疗方法。"
+    },
+    {
+      "name": "竹波豪一",
+      "frequency": 4,
+      "context": "一等水手，对总部和船长的做法表示不满和担忧。"
+    },
+    {
+      "name": "石根利秋",
+      "frequency": 3,
+      "context": "一名患有癌症的乘客，解救了夕雨子，并与她建立了短暂的友谊。"
+    },
+    {
+      "name": "巴奈特",
+      "frequency": 2,
+      "context": "护士，在马拉德事件中被强奸。"
+    },
+    {
+      "name": "特工",
+      "frequency": 3,
+      "context": "船上雇佣的秘密人员，负责调查船上的异常情况。"
+    },
+    {
+      "name": "无线电信号",
+      "frequency": 3,
+      "context": "船上出现的奇怪信号，引发了对潜在危险的怀疑。"
+    }
+  ],
+  "relations": [
+    {
+      "source": "夕雨子",
+      "target": "白血病",
+      "type": "suffers_from"
+    },
+    {
+      "source": "夕雨子",
+      "target": "父母",
+      "type": "has_family"
+    },
+    {
+      "source": "夕雨子",
+      "target": "癌病船",
+      "type": "is_a_patient_of"
+    },
+    {
+      "source": "父母",
+      "target": "癌病船",
+      "type": "seeks_treatment_at"
+    },
+    {
+      "source": "癌病船",
+      "target": "北斗号",
+      "type": "is_named"
+    },
+    {
+      "source": "癌病船",
+      "target": "希望",
+      "type": "represents"
+    },
+    {
+      "source": "癌病船",
+      "target": "治疗",
+      "type": "provides"
+    },
+    {
+      "source": "癌病船",
+      "target": "死亡",
+      "type": "confronts"
+    },
+    {
+      "source": "白鸟",
+      "target": "北斗号",
+      "type": "is_captain_of"
+    },
+    {
+      "source": "白鸟",
+      "target": "原则",
+      "type": "upholds"
+    },
+    {
+      "source": "马拉德",
+      "target": "肝癌",
+      "type": "suffers_from"
+    },
+    {
+      "source": "马拉德",
+      "target": "追捕",
+      "type": "is_subject_of"
+    },
+    {
+      "source": "马拉德",
+      "target": "癌病船",
+      "type": "is_a_patient_of"
+    },
+    {
+      "source": "巴林松",
+      "target": "癌病船",
+      "type": "is_director_of"
+    },
+    {
+      "source": "巴林松",
+      "target": "原则",
+      "type": "advocates_for"
+    },
+    {
+      "source": "巴林松",
+      "target": "马拉德",
+      "type": "opposes_presence_of"
+    },
+    {
+      "source": "斯克德财团",
+      "target": "癌病船",
+      "type": "funded_construction_of"
+    },
+    {
+      "source": "斯克德财团",
+      "target": "政治",
+      "type": "navigates"
+    },
+    {
+      "source": "无线电信号",
+      "target": "威胁",
+      "type": "indicates"
+    },
+    {
+      "source": "船长",
+      "target": "责任",
+      "type": "holds"
+    },
+    {
+      "source": "船长",
+      "target": "撤换",
+      "type": "faces_possibility_of"
+    },
+    {
+      "source": "马拉德",
+      "target": "巴奈特",
+      "type": "assaults"
+    },
+    {
+      "source": "石根利秋",
+      "target": "夕雨子",
+      "type": "rescues"
+    },
+    {
+      "source": "石根利秋",
+      "target": "夕雨子",
+      "type": "befriends"
+    }
+  ],
+  "hierarchy": {
+    "main_topics": [
+      "Introduction of夕雨子's illness and family situation",
+      "Introduction of the \"Cancer Ship\" concept",
+      "夕雨子's boarding the ship",
+      "Ship's maiden voyage and initial events",
+      "Political intrigue and security concerns",
+      "Passenger experiences and interpersonal conflicts",
+      "Escalation of tensions and potential threats"
+    ],
+    "structure": "The document follows a chronological narrative, beginning with the protagonist's personal tragedy and introducing the central premise of the \"Cancer Ship.\" It then details the ship's maiden voyage, introducing various characters and plotlines, including political intrigue, passenger interactions, and emerging security threats. The structure is episodic, with each section focusing on specific events and character developments."
+  }
+}

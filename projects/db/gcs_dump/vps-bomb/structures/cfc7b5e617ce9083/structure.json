@@ -1,0 +1,1242 @@
+{
+  "propositions": [
+    {
+      "id": "1",
+      "text": "我看见了一个男人。",
+      "level": 1
+    },
+    {
+      "id": "1.1",
+      "text": "他拥有一张非常英俊的脸。",
+      "level": 2
+    },
+    {
+      "id": "1.2",
+      "text": "他穿着一套剪裁合身的蓝色西装。",
+      "level": 2
+    },
+    {
+      "id": "1.3",
+      "text": "他脖子上系着一条深红色的领带。",
+      "level": 2
+    },
+    {
+      "id": "1.4",
+      "text": "他散发着成熟男人的魅力。",
+      "level": 2
+    },
+    {
+      "id": "1.5",
+      "text": "我当时正在街上散步。",
+      "level": 2
+    },
+    {
+      "id": "1.6",
+      "text": "我经过一家古董店。",
+      "level": 2
+    },
+    {
+      "id": "1.7",
+      "text": "当我的目光扫过橱窗时，我被他吸引住了。",
+      "level": 2
+    },
+    {
+      "id": "1.8",
+      "text": "他正从店里走出来。",
+      "level": 2
+    },
+    {
+      "id": "1.9",
+      "text": "他手里提着一个纸袋。",
+      "level": 2
+    },
+    {
+      "id": "2",
+      "text": "他看到我后，眼中闪过一丝惊讶，但很快就恢复了平静。",
+      "level": 1
+    },
+    {
+      "id": "3",
+      "text": "我们四目相对。",
+      "level": 1
+    },
+    {
+      "id": "3.1",
+      "text": "我感觉到一股电流从他眼中传过来。",
+      "level": 2
+    },
+    {
+      "id": "4",
+      "text": "我匆匆移开视线，但我的心却无法平静。",
+      "level": 1
+    },
+    {
+      "id": "5",
+      "text": "“您好，”他开口了，声音低沉而富有磁性。",
+      "level": 1
+    },
+    {
+      "id": "6",
+      "text": "我有些紧张地回答：“您好。”",
+      "level": 1
+    },
+    {
+      "id": "7",
+      "text": "“您喜欢这件衣服吗？”他指着橱窗里的一件晚礼服。",
+      "level": 1
+    },
+    {
+      "id": "8",
+      "text": "“是的，”我回答，“非常漂亮。”",
+      "level": 1
+    },
+    {
+      "id": "9",
+      "text": "“您是这里的常客吗？我好像从来没见过您。”",
+      "level": 1
+    },
+    {
+      "id": "10",
+      "text": "“哦，我是新搬来的，刚来不久。”",
+      "level": 1
+    },
+    {
+      "id": "11",
+      "text": "“是吗？那真是太巧了，我也是。”",
+      "level": 1
+    },
+    {
+      "id": "12",
+      "text": "我们聊了几句。",
+      "level": 1
+    },
+    {
+      "id": "12.1",
+      "text": "他自我介绍说他叫李先生，是一家公司的老板。",
+      "level": 2
+    },
+    {
+      "id": "12.2",
+      "text": "我告诉他我叫王小姐，是一名自由职业者。",
+      "level": 2
+    },
+    {
+      "id": "12.3",
+      "text": "我们互相留下了联系方式。",
+      "level": 2
+    },
+    {
+      "id": "13",
+      "text": "从那天起，我们开始频繁地见面。",
+      "level": 1
+    },
+    {
+      "id": "14",
+      "text": "我发现李先生不仅长得英俊，而且非常有才华，谈吐幽默，待人真诚。",
+      "level": 1
+    },
+    {
+      "id": "15",
+      "text": "和他在一起，我感到非常放松和快乐。",
+      "level": 1
+    },
+    {
+      "id": "16",
+      "text": "我发现李先生非常喜欢我。",
+      "level": 1
+    },
+    {
+      "id": "17",
+      "text": "他会为我做很多事情。",
+      "level": 1
+    },
+    {
+      "id": "17.1",
+      "text": "有一次，我感冒发烧了。",
+      "level": 2
+    },
+    {
+      "id": "17.2",
+      "text": "他整夜守在我身边，给我喂水，给我量体温。",
+      "level": 2
+    },
+    {
+      "id": "17.3",
+      "text": "他甚至还亲自下厨给我做饭，虽然味道不太好，但我能感受到他对我的关心。",
+      "level": 2
+    },
+    {
+      "id": "18",
+      "text": "一天晚上，我们一起散步。",
+      "level": 1
+    },
+    {
+      "id": "18.1",
+      "text": "他突然停下脚步，看着我，眼中充满了爱意。",
+      "level": 2
+    },
+    {
+      "id": "18.2",
+      "text": "“王小姐，”他轻声说道，“我喜欢您。”",
+      "level": 2
+    },
+    {
+      "id": "19",
+      "text": "我的心砰砰直跳。",
+      "level": 1
+    },
+    {
+      "id": "20",
+      "text": "我看着他，心中涌起一股暖流。",
+      "level": 1
+    },
+    {
+      "id": "21",
+      "text": "“我也喜欢您，李先生。”",
+      "level": 1
+    },
+    {
+      "id": "22",
+      "text": "他微笑着，将我拥入怀中。",
+      "level": 1
+    },
+    {
+      "id": "23",
+      "text": "那个夜晚，我感受到了前所未有的幸福。",
+      "level": 1
+    },
+    {
+      "id": "24",
+      "text": "随着时间的推移，我们的感情越来越深。",
+      "level": 1
+    },
+    {
+      "id": "25",
+      "text": "我发现李先生是一个非常负责任的人。",
+      "level": 1
+    },
+    {
+      "id": "26",
+      "text": "他对我的爱也越来越深。",
+      "level": 1
+    },
+    {
+      "id": "27",
+      "text": "他会为我规划未来。",
+      "level": 1
+    },
+    {
+      "id": "28",
+      "text": "他为我准备结婚的房子。",
+      "level": 1
+    },
+    {
+      "id": "29",
+      "text": "他甚至还提到了要孩子。",
+      "level": 1
+    },
+    {
+      "id": "30",
+      "text": "我感到非常幸福，但也有些担心。",
+      "level": 1
+    },
+    {
+      "id": "31",
+      "text": "毕竟，我是一个女人，而他是一个男人。",
+      "level": 2
+    },
+    {
+      "id": "32",
+      "text": "在我们的社会里，女人通常是付出更多的一方。",
+      "level": 2
+    },
+    {
+      "id": "33",
+      "text": "我担心他会因为我的付出而感到压力。",
+      "level": 2
+    },
+    {
+      "id": "34",
+      "text": "我担心他会有一天离开我。",
+      "level": 2
+    },
+    {
+      "id": "35",
+      "text": "“李先生，”有一天，我对他说道，“您爱我吗？”",
+      "level": 1
+    },
+    {
+      "id": "36",
+      "text": "“我当然爱您，”他回答，“非常爱您。”",
+      "level": 1
+    },
+    {
+      "id": "37",
+      "text": "“可是，我是一个女人，您是一个男人。",
+      "level": 1
+    },
+    {
+      "id": "38",
+      "text": "我担心……",
+      "level": 1
+    },
+    {
+      "id": "39",
+      "text": "“别担心，”他打断了我，“我爱您，这就足够了。",
+      "level": 1
+    },
+    {
+      "id": "40",
+      "text": "我会永远和您在一起。”",
+      "level": 1
+    },
+    {
+      "id": "41",
+      "text": "他的话让我感到非常感动。",
+      "level": 1
+    },
+    {
+      "id": "42",
+      "text": "我看着他，眼中充满了泪水。",
+      "level": 1
+    },
+    {
+      "id": "43",
+      "text": "我们结婚了。",
+      "level": 1
+    },
+    {
+      "id": "44",
+      "text": "婚礼非常盛大。",
+      "level": 1
+    },
+    {
+      "id": "45",
+      "text": "我穿着洁白的婚纱，和他一起步入了婚姻的殿堂。",
+      "level": 1
+    },
+    {
+      "id": "46",
+      "text": "婚后，我们的生活非常幸福。",
+      "level": 1
+    },
+    {
+      "id": "47",
+      "text": "我发现李先生是一个非常懂得体贴的丈夫。",
+      "level": 1
+    },
+    {
+      "id": "48",
+      "text": "他会为我分担家务。",
+      "level": 1
+    },
+    {
+      "id": "49",
+      "text": "他会为我做饭。",
+      "level": 1
+    },
+    {
+      "id": "50",
+      "text": "他会为我按摩。",
+      "level": 1
+    },
+    {
+      "id": "51",
+      "text": "他是一个完美的丈夫。",
+      "level": 1
+    },
+    {
+      "id": "52",
+      "text": "我感到非常幸运。",
+      "level": 1
+    },
+    {
+      "id": "53",
+      "text": "有一天，我问他：“李先生，您爱我吗？”",
+      "level": 1
+    },
+    {
+      "id": "54",
+      "text": "“我当然爱您，”他回答，“而且，我将永远爱您。”",
+      "level": 1
+    },
+    {
+      "id": "55",
+      "text": "我微笑着，靠在他的怀里。",
+      "level": 1
+    },
+    {
+      "id": "56",
+      "text": "我感到自己是世界上最幸福的女人。",
+      "level": 1
+    },
+    {
+      "id": "57",
+      "text": "随着时间的推移，我们的感情越来越深。",
+      "level": 1
+    },
+    {
+      "id": "58",
+      "text": "我们一起经历了许多事情，有欢笑，有泪水，但我们始终在一起。",
+      "level": 1
+    },
+    {
+      "id": "59",
+      "text": "我发现李先生是一个非常懂得珍惜的人。",
+      "level": 1
+    },
+    {
+      "id": "60",
+      "text": "他对我的爱也越来越深。",
+      "level": 1
+    },
+    {
+      "id": "61",
+      "text": "他会为我准备惊喜。",
+      "level": 1
+    },
+    {
+      "id": "62",
+      "text": "他会为我庆祝生日。",
+      "level": 1
+    },
+    {
+      "id": "63",
+      "text": "他会为我写情书。",
+      "level": 1
+    },
+    {
+      "id": "64",
+      "text": "他是一个完美的丈夫。",
+      "level": 1
+    },
+    {
+      "id": "65",
+      "text": "我感到非常幸运。",
+      "level": 1
+    },
+    {
+      "id": "66",
+      "text": "一天晚上，我们一起散步。",
+      "level": 1
+    },
+    {
+      "id": "66.1",
+      "text": "他突然停下脚步，看着我，眼中充满了爱意。",
+      "level": 2
+    },
+    {
+      "id": "66.2",
+      "text": "“王小姐，”他轻声说道，“我爱您。”",
+      "level": 2
+    },
+    {
+      "id": "67",
+      "text": "我的心砰砰直跳。",
+      "level": 1
+    },
+    {
+      "id": "68",
+      "text": "我看着他，心中涌起一股暖流。",
+      "level": 1
+    },
+    {
+      "id": "69",
+      "text": "“我也爱您，李先生。”",
+      "level": 1
+    },
+    {
+      "id": "70",
+      "text": "他微笑着，将我拥入怀中。",
+      "level": 1
+    },
+    {
+      "id": "71",
+      "text": "那个夜晚，我感受到了前所未有的幸福。",
+      "level": 1
+    },
+    {
+      "id": "72",
+      "text": "我们已经结婚很多年了，但我们的感情依然如初。",
+      "level": 1
+    },
+    {
+      "id": "73",
+      "text": "我发现李先生是一个非常懂得感恩的人。",
+      "level": 1
+    },
+    {
+      "id": "74",
+      "text": "他对我的爱也越来越深。",
+      "level": 1
+    },
+    {
+      "id": "75",
+      "text": "他会为我准备惊喜。",
+      "level": 1
+    },
+    {
+      "id": "76",
+      "text": "他会为我庆祝生日。",
+      "level": 1
+    },
+    {
+      "id": "77",
+      "text": "他会为我写情书。",
+      "level": 1
+    },
+    {
+      "id": "78",
+      "text": "他是一个完美的丈夫。",
+      "level": 1
+    },
+    {
+      "id": "79",
+      "text": "我感到非常幸运。",
+      "level": 1
+    },
+    {
+      "id": "80",
+      "text": "一天晚上，我们一起散步。",
+      "level": 1
+    },
+    {
+      "id": "80.1",
+      "text": "他突然停下脚步，看着我，眼中充满了爱意。",
+      "level": 2
+    },
+    {
+      "id": "80.2",
+      "text": "“王小姐，”他轻声说道，“我爱您。”",
+      "level": 2
+    },
+    {
+      "id": "81",
+      "text": "我的心砰砰直跳。",
+      "level": 1
+    },
+    {
+      "id": "82",
+      "text": "我看着他，心中涌起一股暖流。",
+      "level": 1
+    },
+    {
+      "id": "83",
+      "text": "“我也爱您，李先生。”",
+      "level": 1
+    },
+    {
+      "id": "84",
+      "text": "他微笑着，将我拥入怀中。",
+      "level": 1
+    },
+    {
+      "id": "85",
+      "text": "那个夜晚，我感受到了前所未有的幸福。",
+      "level": 1
+    }
+  ],
+  "concepts": [
+    {
+      "name": "我",
+      "frequency": 28,
+      "context": "The narrator of the story."
+    },
+    {
+      "name": "男人",
+      "frequency": 3,
+      "context": "Refers to Mr. Li."
+    },
+    {
+      "name": "英俊",
+      "frequency": 2,
+      "context": "Describes Mr. Li's appearance and the narrator's perception."
+    },
+    {
+      "name": "西装",
+      "frequency": 1,
+      "context": "Clothing worn by Mr. Li."
+    },
+    {
+      "name": "领带",
+      "frequency": 1,
+      "context": "Accessory worn by Mr. Li."
+    },
+    {
+      "name": "魅力",
+      "frequency": 1,
+      "context": "Attribute of Mr. Li."
+    },
+    {
+      "name": "散步",
+      "frequency": 4,
+      "context": "Activity the narrator and Mr. Li engage in."
+    },
+    {
+      "name": "古董店",
+      "frequency": 1,
+      "context": "Location where the narrator first saw Mr. Li."
+    },
+    {
+      "name": "橱窗",
+      "frequency": 2,
+      "context": "Part of the antique shop, where the narrator was drawn to Mr. Li."
+    },
+    {
+      "name": "吸引",
+      "frequency": 1,
+      "context": "The narrator's reaction to Mr. Li."
+    },
+    {
+      "name": "惊讶",
+      "frequency": 1,
+      "context": "Mr. Li's initial reaction to seeing the narrator."
+    },
+    {
+      "name": "平静",
+      "frequency": 1,
+      "context": "Mr. Li's demeanor after initial surprise."
+    },
+    {
+      "name": "四目相对",
+      "frequency": 1,
+      "context": "The moment of eye contact between the narrator and Mr. Li."
+    },
+    {
+      "name": "电流",
+      "frequency": 1,
+      "context": "Metaphor for the narrator's strong reaction to Mr. Li's gaze."
+    },
+    {
+      "name": "视线",
+      "frequency": 1,
+      "context": "The act of looking."
+    },
+    {
+      "name": "心",
+      "frequency": 3,
+      "context": "Refers to the narrator's emotional state."
+    },
+    {
+      "name": "平静",
+      "frequency": 1,
+      "context": "The narrator's inability to calm her heart."
+    },
+    {
+      "name": "声音",
+      "frequency": 1,
+      "context": "Description of Mr. Li's voice."
+    },
+    {
+      "name": "磁性",
+      "frequency": 1,
+      "context": "Quality of Mr. Li's voice."
+    },
+    {
+      "name": "紧张",
+      "frequency": 1,
+      "context": "Narrator's emotional state."
+    },
+    {
+      "name": "衣服",
+      "frequency": 1,
+      "context": "Item of clothing discussed."
+    },
+    {
+      "name": "晚礼服",
+      "frequency": 1,
+      "context": "Specific type of clothing in the window."
+    },
+    {
+      "name": "漂亮",
+      "frequency": 1,
+      "context": "Description of the晚礼服."
+    },
+    {
+      "name": "常客",
+      "frequency": 1,
+      "context": "Term used to ask about familiarity."
+    },
+    {
+      "name": "新搬来",
+      "frequency": 1,
+      "context": "Narrator's status."
+    },
+    {
+      "name": "巧合",
+      "frequency": 1,
+      "context": "Circumstance of both being new residents."
+    },
+    {
+      "name": "聊天",
+      "frequency": 1,
+      "context": "Interaction between the narrator and Mr. Li."
+    },
+    {
+      "name": "李先生",
+      "frequency": 16,
+      "context": "The male protagonist, the narrator's love interest."
+    },
+    {
+      "name": "老板",
+      "frequency": 1,
+      "context": "Mr. Li's profession."
+    },
+    {
+      "name": "王小姐",
+      "frequency": 4,
+      "context": "The narrator's name."
+    },
+    {
+      "name": "自由职业者",
+      "frequency": 1,
+      "context": "Narrator's profession."
+    },
+    {
+      "name": "联系方式",
+      "frequency": 1,
+      "context": "Information exchanged between them."
+    },
+    {
+      "name": "见面",
+      "frequency": 1,
+      "context": "Frequency of their encounters."
+    },
+    {
+      "name": "才华",
+      "frequency": 1,
+      "context": "Mr. Li's attribute."
+    },
+    {
+      "name": "谈吐幽默",
+      "frequency": 1,
+      "context": "Mr. Li's conversational style."
+    },
+    {
+      "name": "待人真诚",
+      "frequency": 1,
+      "context": "Mr. Li's character."
+    },
+    {
+      "name": "放松",
+      "frequency": 1,
+      "context": "Narrator's feeling when with Mr. Li."
+    },
+    {
+      "name": "快乐",
+      "frequency": 1,
+      "context": "Narrator's feeling when with Mr. Li."
+    },
+    {
+      "name": "喜欢",
+      "frequency": 5,
+      "context": "Mutual feeling between the narrator and Mr. Li."
+    },
+    {
+      "name": "事情",
+      "frequency": 2,
+      "context": "Actions performed by Mr. Li for the narrator."
+    },
+    {
+      "name": "感冒发烧",
+      "frequency": 1,
+      "context": "Narrator's illness."
+    },
+    {
+      "name": "守在身边",
+      "frequency": 1,
+      "context": "Mr. Li's care during illness."
+    },
+    {
+      "name": "喂水",
+      "frequency": 1,
+      "context": "Mr. Li's action during illness."
+    },
+    {
+      "name": "量体温",
+      "frequency": 1,
+      "context": "Mr. Li's action during illness."
+    },
+    {
+      "name": "下厨",
+      "frequency": 1,
+      "context": "Mr. Li's action during illness."
+    },
+    {
+      "name": "关心",
+      "frequency": 1,
+      "context": "Mr. Li's feeling towards the narrator."
+    },
+    {
+      "name": "爱意",
+      "frequency": 3,
+      "context": "Mr. Li's expression of affection."
+    },
+    {
+      "name": "砰砰直跳",
+      "frequency": 3,
+      "context": "Narrator's physical reaction to affection."
+    },
+    {
+      "name": "暖流",
+      "frequency": 3,
+      "context": "Narrator's emotional feeling."
+    },
+    {
+      "name": "拥入怀中",
+      "frequency": 3,
+      "context": "Physical expression of affection."
+    },
+    {
+      "name": "幸福",
+      "frequency": 6,
+      "context": "Narrator's overall emotional state."
+    },
+    {
+      "name": "时间",
+      "frequency": 2,
+      "context": "Passage of time."
+    },
+    {
+      "name": "感情",
+      "frequency": 5,
+      "context": "The bond between the narrator and Mr. Li."
+    },
+    {
+      "name": "负责任",
+      "frequency": 1,
+      "context": "Mr. Li's character."
+    },
+    {
+      "name": "规划未来",
+      "frequency": 1,
+      "context": "Mr. Li's actions regarding their future."
+    },
+    {
+      "name": "结婚的房子",
+      "frequency": 1,
+      "context": "Preparation for their future."
+    },
+    {
+      "name": "孩子",
+      "frequency": 1,
+      "context": "Discussion about starting a family."
+    },
+    {
+      "name": "担心",
+      "frequency": 4,
+      "context": "Narrator's apprehension."
+    },
+    {
+      "name": "女人",
+      "frequency": 2,
+      "context": "Narrator's gender and societal role."
+    },
+    {
+      "name": "男人",
+      "frequency": 2,
+      "context": "Mr. Li's gender and societal role."
+    },
+    {
+      "name": "社会",
+      "frequency": 1,
+      "context": "Societal context of gender roles."
+    },
+    {
+      "name": "付出",
+      "frequency": 2,
+      "context": "The narrator's concern about her role."
+    },
+    {
+      "name": "压力",
+      "frequency": 1,
+      "context": "Narrator's fear for Mr. Li."
+    },
+    {
+      "name": "离开",
+      "frequency": 1,
+      "context": "Narrator's fear of abandonment."
+    },
+    {
+      "name": "爱",
+      "frequency": 5,
+      "context": "The central emotion of the story."
+    },
+    {
+      "name": "感动",
+      "frequency": 1,
+      "context": "Narrator's reaction to Mr. Li's words."
+    },
+    {
+      "name": "泪水",
+      "frequency": 1,
+      "context": "Narrator's emotional expression."
+    },
+    {
+      "name": "结婚",
+      "frequency": 2,
+      "context": "The union of the narrator and Mr. Li."
+    },
+    {
+      "name": "婚礼",
+      "frequency": 2,
+      "context": "The ceremony of their marriage."
+    },
+    {
+      "name": "婚纱",
+      "frequency": 1,
+      "context": "Narrator's wedding attire."
+    },
+    {
+      "name": "婚姻的殿堂",
+      "frequency": 1,
+      "context": "Metaphor for marriage."
+    },
+    {
+      "name": "婚后",
+      "frequency": 1,
+      "context": "The period after marriage."
+    },
+    {
+      "name": "生活",
+      "frequency": 1,
+      "context": "Their shared existence."
+    },
+    {
+      "name": "体贴",
+      "frequency": 1,
+      "context": "Mr. Li's quality as a husband."
+    },
+    {
+      "name": "丈夫",
+      "frequency": 5,
+      "context": "Mr. Li's role in the marriage."
+    },
+    {
+      "name": "分担家务",
+      "frequency": 1,
+      "context": "Mr. Li's contribution to household chores."
+    },
+    {
+      "name": "做饭",
+      "frequency": 2,
+      "context": "Mr. Li's action."
+    },
+    {
+      "name": "按摩",
+      "frequency": 1,
+      "context": "Mr. Li's action."
+    },
+    {
+      "name": "完美",
+      "frequency": 3,
+      "context": "Description of Mr. Li as a husband."
+    },
+    {
+      "name": "幸运",
+      "frequency": 3,
+      "context": "Narrator's feeling about her marriage."
+    },
+    {
+      "name": "永远",
+      "frequency": 3,
+      "context": "Mr. Li's commitment."
+    },
+    {
+      "name": "靠在怀里",
+      "frequency": 1,
+      "context": "Physical closeness."
+    },
+    {
+      "name": "珍惜",
+      "frequency": 1,
+      "context": "Mr. Li's attitude."
+    },
+    {
+      "name": "惊喜",
+      "frequency": 2,
+      "context": "Mr. Li's actions to delight the narrator."
+    },
+    {
+      "name": "庆祝生日",
+      "frequency": 2,
+      "context": "Mr. Li's actions for the narrator."
+    },
+    {
+      "name": "情书",
+      "frequency": 2,
+      "context": "Mr. Li's written expressions of love."
+    },
+    {
+      "name": "多年",
+      "frequency": 1,
+      "context": "Duration of their marriage."
+    },
+    {
+      "name": "如初",
+      "frequency": 1,
+      "context": "The enduring nature of their feelings."
+    },
+    {
+      "name": "感恩",
+      "frequency": 1,
+      "context": "Mr. Li's character."
+    },
+    {
+      "name": "参考文献",
+      "frequency": 1,
+      "context": "Section for citations."
+    },
+    {
+      "name": "脚注",
+      "frequency": 1,
+      "context": "Section for footnotes."
+    }
+  ],
+  "relations": [
+    {
+      "source": "李先生",
+      "target": "男人",
+      "type": "is_a"
+    },
+    {
+      "source": "李先生",
+      "target": "老板",
+      "type": "is_a"
+    },
+    {
+      "source": "我",
+      "target": "王小姐",
+      "type": "is_a"
+    },
+    {
+      "source": "我",
+      "target": "自由职业者",
+      "type": "is_a"
+    },
+    {
+      "source": "我",
+      "target": "女人",
+      "type": "is_a"
+    },
+    {
+      "source": "李先生",
+      "target": "丈夫",
+      "type": "is_a"
+    },
+    {
+      "source": "李先生",
+      "target": "完美",
+      "type": "has_attribute"
+    },
+    {
+      "source": "我",
+      "target": "幸福",
+      "type": "feels"
+    },
+    {
+      "source": "我",
+      "target": "感动",
+      "type": "feels"
+    },
+    {
+      "source": "我",
+      "target": "幸运",
+      "type": "feels"
+    },
+    {
+      "source": "我",
+      "target": "担心",
+      "type": "feels"
+    },
+    {
+      "source": "李先生",
+      "target": "喜欢",
+      "type": "expresses"
+    },
+    {
+      "source": "李先生",
+      "target": "爱",
+      "type": "expresses"
+    },
+    {
+      "source": "李先生",
+      "target": "关心",
+      "type": "expresses"
+    },
+    {
+      "source": "李先生",
+      "target": "负责任",
+      "type": "has_attribute"
+    },
+    {
+      "source": "李先生",
+      "target": "珍惜",
+      "type": "has_attribute"
+    },
+    {
+      "source": "李先生",
+      "target": "感恩",
+      "type": "has_attribute"
+    },
+    {
+      "source": "李先生",
+      "target": "体贴",
+      "type": "has_attribute"
+    },
+    {
+      "source": "李先生",
+      "target": "英俊",
+      "type": "has_attribute"
+    },
+    {
+      "source": "李先生",
+      "target": "才华",
+      "type": "has_attribute"
+    },
+    {
+      "source": "李先生",
+      "target": "谈吐幽默",
+      "type": "has_attribute"
+    },
+    {
+      "source": "李先生",
+      "target": "待人真诚",
+      "type": "has_attribute"
+    },
+    {
+      "source": "我",
+      "target": "放松",
+      "type": "feels"
+    },
+    {
+      "source": "我",
+      "target": "快乐",
+      "type": "feels"
+    },
+    {
+      "source": "我",
+      "target": "吸引",
+      "type": "experiences"
+    },
+    {
+      "source": "我",
+      "target": "电流",
+      "type": "experiences"
+    },
+    {
+      "source": "我",
+      "target": "心",
+      "type": "experiences"
+    },
+    {
+      "source": "我",
+      "target": "温暖",
+      "type": "experiences"
+    },
+    {
+      "source": "我",
+      "target": "泪水",
+      "type": "experiences"
+    },
+    {
+      "source": "我们",
+      "target": "感情",
+      "type": "shares"
+    },
+    {
+      "source": "我们",
+      "target": "幸福",
+      "type": "shares"
+    },
+    {
+      "source": "我们",
+      "target": "结婚",
+      "type": "participates_in"
+    },
+    {
+      "source": "我们",
+      "target": "散步",
+      "type": "participates_in"
+    },
+    {
+      "source": "我们",
+      "target": "聊天",
+      "type": "participates_in"
+    },
+    {
+      "source": "我",
+      "target": "担心",
+      "type": "expresses"
+    },
+    {
+      "source": "李先生",
+      "target": "规划未来",
+      "type": "performs"
+    },
+    {
+      "source": "李先生",
+      "target": "准备结婚的房子",
+      "type": "performs"
+    },
+    {
+      "source": "李先生",
+      "target": "提到了要孩子",
+      "type": "performs"
+    },
+    {
+      "source": "李先生",
+      "target": "分担家务",
+      "type": "performs"
+    },
+    {
+      "source": "李先生",
+      "target": "做饭",
+      "type": "performs"
+    },
+    {
+      "source": "李先生",
+      "target": "按摩",
+      "type": "performs"
+    },
+    {
+      "source": "李先生",
+      "target": "准备惊喜",
+      "type": "performs"
+    },
+    {
+      "source": "李先生",
+      "target": "庆祝生日",
+      "type": "performs"
+    },
+    {
+      "source": "李先生",
+      "target": "写情书",
+      "type": "performs"
+    },
+    {
+      "source": "李先生",
+      "target": "永远",
+      "type": "promises"
+    },
+    {
+      "source": "社会",
+      "target": "女人",
+      "type": "defines_role_for"
+    },
+    {
+      "source": "社会",
+      "target": "男人",
+      "type": "defines_role_for"
+    }
+  ],
+  "hierarchy": {
+    "main_topics": [
+      "Introduction of Mr. Li",
+      "Developing Relationship",
+      "Marriage and Continued Happiness",
+      "Reflection on Love and Commitment"
+    ],
+    "structure": "The document is structured into six chapters, each detailing a stage in the narrator's relationship with Mr. Li, from their initial meeting to their long-lasting marriage. It follows a chronological narrative with clear progressions in their emotional bond and life together. The final sections include placeholder references and footnotes."
+  }
+}

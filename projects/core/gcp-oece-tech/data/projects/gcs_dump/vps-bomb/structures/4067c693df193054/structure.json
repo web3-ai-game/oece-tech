@@ -1,0 +1,100 @@
+{
+  "propositions": [
+    {
+      "id": "1",
+      "text": "A doctor strives to improve skills and knowledge to better serve patients.",
+      "level": 1
+    },
+    {
+      "id": "1.1",
+      "text": "The doctor believes continuous learning and experience are essential for trust and effectiveness.",
+      "level": 2
+    },
+    {
+      "id": "1.2",
+      "text": "The doctor is successful and admired but acknowledges personal shortcomings.",
+      "level": 2
+    },
+    {
+      "id": "1.3",
+      "text": "The doctor receives praise for skill and ethics, reinforcing their sense of duty.",
+      "level": 2
+    },
+    {
+      "id": "2",
+      "text": "Interactions with patients reflect the doctor's commitment to healing.",
+      "level": 1
+    },
+    {
+      "id": "2.1",
+      "text": "The doctor reassures patients with promises of recovery.",
+      "level": 2
+    },
+    {
+      "id": "2.2",
+      "text": "Patients express gratitude, affirming the doctor's impact.",
+      "level": 2
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Doctor",
+      "frequency": 50,
+      "context": "Central figure dedicated to patient care and self-improvement."
+    },
+    {
+      "name": "Patient",
+      "frequency": 30,
+      "context": "Recipients of care who express gratitude and trust."
+    },
+    {
+      "name": "Knowledge",
+      "frequency": 20,
+      "context": "A key area of focus for the doctor's growth."
+    },
+    {
+      "name": "Duty",
+      "frequency": 15,
+      "context": "The doctor's sense of responsibility towards patients."
+    },
+    {
+      "name": "Health",
+      "frequency": 18,
+      "context": "The ultimate goal of the doctor's efforts."
+    }
+  ],
+  "relations": [
+    {
+      "source": "Doctor",
+      "target": "Patient",
+      "type": "cares_for"
+    },
+    {
+      "source": "Doctor",
+      "target": "Knowledge",
+      "type": "seeks"
+    },
+    {
+      "source": "Doctor",
+      "target": "Duty",
+      "type": "guided_by"
+    },
+    {
+      "source": "Doctor",
+      "target": "Health",
+      "type": "promotes"
+    },
+    {
+      "source": "Patient",
+      "target": "Doctor",
+      "type": "trusts"
+    }
+  ],
+  "hierarchy": {
+    "main_topics": [
+      "Doctor's Dedication",
+      "Patient Interactions"
+    ],
+    "structure": "The document is structured as a series of timestamped entries under a main narrative, focusing on a doctor's journey and patient interactions, with repetitive dialogues emphasizing commitment and gratitude."
+  }
+}

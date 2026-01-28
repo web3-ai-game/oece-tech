@@ -1,0 +1,1743 @@
+{
+  "propositions": [
+    {
+      "id": "1",
+      "text": "The story takes place in the summer of 1947.",
+      "level": 1
+    },
+    {
+      "id": "1.1",
+      "text": "An international passenger ship is sailing towards Qingdao in the darkness.",
+      "level": 2
+    },
+    {
+      "id": "1.2",
+      "text": "The sea is calm at night.",
+      "level": 2
+    },
+    {
+      "id": "1.3",
+      "text": "Most passengers are resting.",
+      "level": 2
+    },
+    {
+      "id": "2",
+      "text": "In a special suite on the top of the ship, a person is preparing clothes.",
+      "level": 1
+    },
+    {
+      "id": "2.1",
+      "text": "This person is wearing a black tight-fitting night suit and a black headscarf, resembling a ninja.",
+      "level": 2
+    },
+    {
+      "id": "2.2",
+      "text": "The person skillfully exits through a ventilation window.",
+      "level": 2
+    },
+    {
+      "id": "3",
+      "text": "In the adjacent suite, three foreigners with blue eyes and yellow hair are present.",
+      "level": 1
+    },
+    {
+      "id": "3.1",
+      "text": "One is a middle-aged man, a colonel, reading a book and smoking a cigar.",
+      "level": 2
+    },
+    {
+      "id": "3.2",
+      "text": "The other two are young men, his attendants.",
+      "level": 2
+    },
+    {
+      "id": "3.3",
+      "text": "They are speaking German, suggesting they are from Germany.",
+      "level": 2
+    },
+    {
+      "id": "4",
+      "text": "The colonel instructs one of the attendants to take the book and wake him before arrival at Qingdao port.",
+      "level": 1
+    },
+    {
+      "id": "5",
+      "text": "The attendant carefully wraps the book and places it in a leather suitcase.",
+      "level": 1
+    },
+    {
+      "id": "6",
+      "text": "The person in the black suit observes all their actions from behind the ventilation window.",
+      "level": 1
+    },
+    {
+      "id": "7",
+      "text": "After the room quiets down, the person in black drops silently from the ventilation window.",
+      "level": 1
+    },
+    {
+      "id": "7.1",
+      "text": "The person lands gracefully and quickly incapacitates the guard with a swift knife attack.",
+      "level": 2
+    },
+    {
+      "id": "7.2",
+      "text": "The person retrieves the book from the suitcase and hides it.",
+      "level": 2
+    },
+    {
+      "id": "8",
+      "text": "One of the young attendants returns and confronts the intruder.",
+      "level": 1
+    },
+    {
+      "id": "9",
+      "text": "A fight ensues between the intruder and the two Germans.",
+      "level": 1
+    },
+    {
+      "id": "10",
+      "text": "The intruder escapes into the corridor and is pursued by other Germans.",
+      "level": 1
+    },
+    {
+      "id": "11",
+      "text": "The story transitions to the first chapter, titled 'Maritime Encounter'.",
+      "level": 1
+    },
+    {
+      "id": "11.1",
+      "text": "Two years have passed since the victory in the World Anti-Fascist War.",
+      "level": 2
+    },
+    {
+      "id": "11.2",
+      "text": "China is still recovering from war and facing civil conflict.",
+      "level": 2
+    },
+    {
+      "id": "12",
+      "text": "Dongfang Kun, a young man who studied abroad, returns to China to serve his country.",
+      "level": 1
+    },
+    {
+      "id": "12.1",
+      "text": "He is on a ship heading to Qingdao.",
+      "level": 2
+    },
+    {
+      "id": "12.2",
+      "text": "Dongfang Kun is excited to return to his homeland for the first time.",
+      "level": 2
+    },
+    {
+      "id": "13",
+      "text": "His father, Dongfang Congjian, is a well-known patriotic overseas Chinese businessman in Southeast Asia.",
+      "level": 1
+    },
+    {
+      "id": "14",
+      "text": "Dongfang Kun was sent to study in the US by his father before the Japanese occupation of Singapore.",
+      "level": 1
+    },
+    {
+      "id": "14.1",
+      "text": "He joined the fight against fascism during the Pacific War and was injured in the Battle of Okinawa.",
+      "level": 2
+    },
+    {
+      "id": "15",
+      "text": "The special suites on the ship are comparable to hotel suites.",
+      "level": 1
+    },
+    {
+      "id": "16",
+      "text": "Dongfang Kun is too excited to sleep, pacing and looking out the window.",
+      "level": 1
+    },
+    {
+      "id": "17",
+      "text": "He goes to the deck to see if he can spot land or the lighthouse at the entrance of Jiaozhou Bay.",
+      "level": 1
+    },
+    {
+      "id": "17.1",
+      "text": "Jiaozhou Bay was forcibly leased by Germany in 1898, occupied by Japan in 1914, and returned to China in 1922.",
+      "level": 2
+    },
+    {
+      "id": "18",
+      "text": "Dongfang Kun feels the sea breeze and calms his mind.",
+      "level": 1
+    },
+    {
+      "id": "19",
+      "text": "Suddenly, sounds of a fierce fight are heard from the stern of the ship.",
+      "level": 1
+    },
+    {
+      "id": "20",
+      "text": "Curiosity leads Dongfang Kun to investigate.",
+      "level": 1
+    },
+    {
+      "id": "21",
+      "text": "On the rear deck, he sees three burly men attacking a small, black-clad figure, with another man observing.",
+      "level": 1
+    },
+    {
+      "id": "21.1",
+      "text": "The attackers are foreigners.",
+      "level": 2
+    },
+    {
+      "id": "22",
+      "text": "The observing man, identified as a colonel, urges his men in German to capture the intruder and retrieve stolen goods.",
+      "level": 1
+    },
+    {
+      "id": "23",
+      "text": "Dongfang Kun realizes they are Germans and suspects they might be Nazi remnants.",
+      "level": 1
+    },
+    {
+      "id": "24",
+      "text": "He notices the black-clad figure appears to be a woman.",
+      "level": 1
+    },
+    {
+      "id": "25",
+      "text": "The woman tries to escape towards Dongfang Kun's side but is overwhelmed.",
+      "level": 1
+    },
+    {
+      "id": "26",
+      "text": "She is kicked and falls to the deck in front of Dongfang Kun.",
+      "level": 1
+    },
+    {
+      "id": "26.1",
+      "text": "A soft cry confirms she is a woman.",
+      "level": 2
+    },
+    {
+      "id": "27",
+      "text": "Enraged by three men attacking a woman, Dongfang Kun intervenes.",
+      "level": 1
+    },
+    {
+      "id": "28",
+      "text": "He incapacitates one of the attackers with a kick and then engages the others in a fight.",
+      "level": 1
+    },
+    {
+      "id": "29",
+      "text": "Dongfang Kun, trained in Chinese martial arts and military combat, easily fends off their attacks.",
+      "level": 1
+    },
+    {
+      "id": "30",
+      "text": "One of the Germans draws a dagger, but Dongfang Kun disarms and subdues him.",
+      "level": 1
+    },
+    {
+      "id": "31",
+      "text": "The colonel draws a pistol, but Dongfang Kun uses one of the subdued Germans as a shield and throws the dagger, hitting the colonel's wrist.",
+      "level": 1
+    },
+    {
+      "id": "32",
+      "text": "Dongfang Kun then seizes the pistol and aims it at the remaining Germans.",
+      "level": 1
+    },
+    {
+      "id": "33",
+      "text": "He recognizes the Walther PPK pistol as belonging to high-ranking German officers or secret agents, further confirming their identity.",
+      "level": 1
+    },
+    {
+      "id": "34",
+      "text": "The Germans retreat after realizing they are outmatched.",
+      "level": 1
+    },
+    {
+      "id": "35",
+      "text": "Dongfang Kun turns the black-clad figure over and her headscarf falls off, revealing a beautiful young woman.",
+      "level": 1
+    },
+    {
+      "id": "36",
+      "text": "He carries the unconscious woman to his cabin and gives her water.",
+      "level": 1
+    },
+    {
+      "id": "37",
+      "text": "He finds a rectangular object wrapped in silk on the carpet, which he believes is the stolen item.",
+      "level": 1
+    },
+    {
+      "id": "38",
+      "text": "The object is a yellowed, hard-covered notebook, likely a maritime log.",
+      "level": 1
+    },
+    {
+      "id": "38.1",
+      "text": "The cover has an anchor symbol and the text is in German.",
+      "level": 2
+    },
+    {
+      "id": "38.2",
+      "text": "The log details the sinking of the German ironclad warship 'Prince Wilhelm' from Qingdao in 1914, before WWI.",
+      "level": 2
+    },
+    {
+      "id": "39",
+      "text": "Dongfang Kun, interested in history and exploration, becomes engrossed in the log.",
+      "level": 1
+    },
+    {
+      "id": "40",
+      "text": "A ship's horn signals their imminent arrival at Qingdao port.",
+      "level": 1
+    },
+    {
+      "id": "41",
+      "text": "He realizes the woman has woken up and is smiling at him.",
+      "level": 1
+    },
+    {
+      "id": "42",
+      "text": "He returns the logbook to the woman, who introduces herself as Yan Li and thanks him for saving her.",
+      "level": 1
+    },
+    {
+      "id": "43",
+      "text": "They learn that Dongfang Kun is returning from the US, and Yan Li is also going to Qingdao.",
+      "level": 1
+    },
+    {
+      "id": "44",
+      "text": "Yan Li quickly leaves after thanking Dongfang Kun.",
+      "level": 1
+    },
+    {
+      "id": "45",
+      "text": "Dongfang Kun doesn't realize he has already attracted trouble.",
+      "level": 1
+    },
+    {
+      "id": "46",
+      "text": "Meanwhile, the Germans in another cabin are plotting their next move.",
+      "level": 1
+    },
+    {
+      "id": "47",
+      "text": "The injured German vows revenge on Dongfang Kun.",
+      "level": 1
+    },
+    {
+      "id": "48",
+      "text": "The colonel plans to retrieve the logbook and eliminate both Dongfang Kun and Yan Li, as anyone who knows about the treasure must die.",
+      "level": 1
+    },
+    {
+      "id": "48.1",
+      "text": "They decide to wait until they reach Qingdao port and alert their contacts there.",
+      "level": 2
+    },
+    {
+      "id": "49",
+      "text": "Dongfang Kun packs his luggage, putting the Walther PPK pistol into his suitcase.",
+      "level": 1
+    },
+    {
+      "id": "50",
+      "text": "The ship docks at Qingdao port.",
+      "level": 1
+    },
+    {
+      "id": "51",
+      "text": "Dongfang Kun is met by Ah Qiang, a loyal family servant.",
+      "level": 1
+    },
+    {
+      "id": "52",
+      "text": "They hire rickshaws to go to the train station, and Dongfang Kun is impressed by Qingdao's European architecture.",
+      "level": 1
+    },
+    {
+      "id": "53",
+      "text": "At the train station, Ah Qiang mentions that their hometown, Fangzi town, also has similar European architecture, which was built by the Germans.",
+      "level": 1
+    },
+    {
+      "id": "54",
+      "text": "Ah Qiang also recalls that during renovations at their home, two record books were found in a hidden compartment, one with an anchor symbol on the cover.",
+      "level": 1
+    },
+    {
+      "id": "55",
+      "text": "Dongfang Kun's interest is piqued, as it sounds like the maritime logbook he saw on the ship.",
+      "level": 1
+    },
+    {
+      "id": "56",
+      "text": "They head to the train station to buy tickets to Jinan.",
+      "level": 1
+    },
+    {
+      "id": "57",
+      "text": "Two men in a BMW follow them from the port to the train station.",
+      "level": 1
+    },
+    {
+      "id": "58",
+      "text": "Fangzi town was established due to coal mining and the railway, and was under German and then Japanese colonial rule.",
+      "level": 1
+    },
+    {
+      "id": "59",
+      "text": "During their rule, Fangzi became a significant base for German and Japanese expansion and economic plunder.",
+      "level": 1
+    },
+    {
+      "id": "60",
+      "text": "The train arrives at Fangzi station.",
+      "level": 1
+    },
+    {
+      "id": "61",
+      "text": "Dongfang Kun's parents are waiting at the station, and they have an emotional reunion.",
+      "level": 1
+    },
+    {
+      "id": "62",
+      "text": "Dongfang Kun notices that the Fangzi station is also a typical German-style building.",
+      "level": 1
+    },
+    {
+      "id": "63",
+      "text": "His father, Dongfang Congjian, is a successful industrialist in Fangzi.",
+      "level": 1
+    },
+    {
+      "id": "64",
+      "text": "They arrive at their home, the former German commander's residence, a beautiful German-style villa.",
+      "level": 1
+    },
+    {
+      "id": "65",
+      "text": "Dongfang Kun asks his father about the two notebooks found during renovations.",
+      "level": 1
+    },
+    {
+      "id": "66",
+      "text": "His father promises to show them later, as his mother wants him to bathe and have a family dinner.",
+      "level": 1
+    },
+    {
+      "id": "67",
+      "text": "Dongfang Congjian respects his son's choice to study architecture, despite his initial disappointment.",
+      "level": 1
+    },
+    {
+      "id": "68",
+      "text": "The next day, Dongfang Kun receives the two notebooks, feeling a premonition of a hidden secret.",
+      "level": 1
+    },
+    {
+      "id": "69",
+      "text": "He recognizes one of the notebooks as being identical to the maritime logbook from the ship.",
+      "level": 1
+    },
+    {
+      "id": "70",
+      "text": "He retreats to his study to research the notebooks, discovering an astonishing secret.",
+      "level": 1
+    },
+    {
+      "id": "71",
+      "text": "The notebooks detail the sinking of the German ironclad cruiser 'Prince Wilhelm' before World War I.",
+      "level": 1
+    },
+    {
+      "id": "72",
+      "text": "Japanese militarism coveted the Shandong Peninsula, and the German garrison felt pressure from the Japanese navy.",
+      "level": 1
+    },
+    {
+      "id": "73",
+      "text": "The German acting governor of Jiaozhou, Admiral Dekerner, ordered the treasures plundered from China to be transported back to Germany.",
+      "level": 1
+    },
+    {
+      "id": "74",
+      "text": "The 'Prince Wilhelm' was one of several warships used to smuggle these treasures.",
+      "level": 1
+    },
+    {
+      "id": "75",
+      "text": "The second notebook contains detailed information about the cargo of the 'Prince Wilhelm', including vast amounts of gold and silver, as well as precious cultural relics and national treasures stolen from China.",
+      "level": 1
+    },
+    {
+      "id": "76",
+      "text": "One particular item was highly valued by the Germans: the 'Arrow of Destiny', believed to have been manufactured by Genghis Khan.",
+      "level": 1
+    },
+    {
+      "id": "77",
+      "text": "Legend says the Mongol Empire's conquests were aided by the mystical power of the 'Arrow of Destiny'.",
+      "level": 1
+    },
+    {
+      "id": "78",
+      "text": "Genghis Khan gathered skilled artisans and advanced technology to create superior weapons, including these mystical arrows.",
+      "level": 1
+    },
+    {
+      "id": "79",
+      "text": "The arrows were said to possess divine power, granting dominion over the world to their wielder.",
+      "level": 1
+    },
+    {
+      "id": "80",
+      "text": "Genghis Khan distributed four of these arrows to his sons and kept one for himself, making them symbols of power and strength.",
+      "level": 1
+    },
+    {
+      "id": "81",
+      "text": "The Mongol Empire at its peak was vast, encompassing much of Asia and parts of Europe.",
+      "level": 1
+    },
+    {
+      "id": "82",
+      "text": "Kublai Khan, holding the last 'Arrow of Destiny', was seen as having suzerain rights over the other Khanates.",
+      "level": 1
+    },
+    {
+      "id": "83",
+      "text": "Millennia later, the 'Arrow of Destiny' fell into the hands of the invading German army, who sought to establish a German empire akin to the Mongol Empire.",
+      "level": 1
+    },
+    {
+      "id": "84",
+      "text": "The arrow was placed in a special container crafted by Governor Dekerner and rarely seen by many.",
+      "level": 1
+    },
+    {
+      "id": "85",
+      "text": "In the early summer of 1914, the 'Prince Wilhelm' secretly departed from Qingdao port, carrying the treasure and the 'Arrow of Destiny'.",
+      "level": 1
+    },
+    {
+      "id": "86",
+      "text": "The 'Prince Wilhelm' was one of Germany's most advanced warships at the time.",
+      "level": 1
+    },
+    {
+      "id": "87",
+      "text": "Fearing interception by Japanese ships, the 'Prince Wilhelm' sailed closer to the Chinese mainland.",
+      "level": 1
+    },
+    {
+      "id": "88",
+      "text": "The crew discovered plumes of smoke rising from the seabed, despite no known reefs or islands in the area.",
+      "level": 1
+    },
+    {
+      "id": "89",
+      "text": "The 'Prince Wilhelm' ran aground on a reef, sustaining severe damage to its hull and flooding its compartments.",
+      "level": 1
+    },
+    {
+      "id": "90",
+      "text": "Fearing discovery by Japanese warships, the crew attempted repairs without sending a distress signal.",
+      "level": 1
+    },
+    {
+      "id": "91",
+      "text": "A volcanic island then mysteriously emerged from the seabed near the stranded warship.",
+      "level": 1
+    },
+    {
+      "id": "92",
+      "text": "The ship was unable to move due to its position on a steep underwater mountain range and severe hull damage.",
+      "level": 1
+    },
+    {
+      "id": "93",
+      "text": "Captain Henry Rosenthal ordered the treasures hidden in a cave on the newly formed island, with the entrance sealed.",
+      "level": 1
+    },
+    {
+      "id": "94",
+      "text": "Suddenly, a storm erupted, and the island began to disappear back into the sea, followed by the sinking of the 'Prince Wilhelm'.",
+      "level": 1
+    },
+    {
+      "id": "95",
+      "text": "Only three crew members survived by clinging to a life raft that was subsequently sunk by the waves.",
+      "level": 1
+    },
+    {
+      "id": "96",
+      "text": "The maritime logbook that Dongfang Kun found belonged to these three survivors.",
+      "level": 1
+    },
+    {
+      "id": "97",
+      "text": "Shortly after, World War I began, and Japan declared war on Germany.",
+      "level": 1
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Ghost Island Treasure",
+      "frequency": 1,
+      "context": "Title of the document"
+    },
+    {
+      "name": "Qingdao",
+      "frequency": 12,
+      "context": "Destination port of the ship, location of events, German occupation history"
+    },
+    {
+      "name": "International passenger ship",
+      "frequency": 3,
+      "context": "Setting of the initial events, carrying passengers and secrets"
+    },
+    {
+      "name": "Night",
+      "frequency": 5,
+      "context": "Atmosphere of the initial scenes, setting the mood for mystery"
+    },
+    {
+      "name": "Special suite",
+      "frequency": 3,
+      "context": "Location of key events and characters on the ship"
+    },
+    {
+      "name": "Black suit",
+      "frequency": 3,
+      "context": "Attire of the mysterious intruder, implying stealth and disguise"
+    },
+    {
+      "name": "Ninja",
+      "frequency": 1,
+      "context": "Description of the intruder's appearance"
+    },
+    {
+      "name": "Ventilation window",
+      "frequency": 3,
+      "context": "Point of entry and exit for the intruder"
+    },
+    {
+      "name": "Foreigners",
+      "frequency": 1,
+      "context": "Group of characters on the ship, later identified as Germans"
+    },
+    {
+      "name": "Colonel",
+      "frequency": 4,
+      "context": "Rank of the German antagonist, leader of the group"
+    },
+    {
+      "name": "Attendant",
+      "frequency": 2,
+      "context": "Role of the younger German men, assisting the colonel"
+    },
+    {
+      "name": "German",
+      "frequency": 14,
+      "context": "Nationality of the antagonists, historical context of Qingdao"
+    },
+    {
+      "name": "Book",
+      "frequency": 3,
+      "context": "Item of interest, the maritime logbook, object of the theft"
+    },
+    {
+      "name": "Leather suitcase",
+      "frequency": 1,
+      "context": "Container for the book"
+    },
+    {
+      "name": "Intruder",
+      "frequency": 4,
+      "context": "The mysterious person in black, later revealed to be a woman"
+    },
+    {
+      "name": "Guard",
+      "frequency": 1,
+      "context": "Victim of the intruder's first action"
+    },
+    {
+      "name": "Knife",
+      "frequency": 1,
+      "context": "Weapon used by the intruder"
+    },
+    {
+      "name": "Fight",
+      "frequency": 5,
+      "context": "Action sequences on the ship"
+    },
+    {
+      "name": "Corridor",
+      "frequency": 2,
+      "context": "Passage on the ship where pursuit occurs"
+    },
+    {
+      "name": "Maritime Encounter",
+      "frequency": 1,
+      "context": "Title of the first chapter"
+    },
+    {
+      "name": "World Anti-Fascist War",
+      "frequency": 1,
+      "context": "Historical context of the story's setting"
+    },
+    {
+      "name": "China",
+      "frequency": 20,
+      "context": "Setting of the story, national context, historical events"
+    },
+    {
+      "name": "Civil conflict",
+      "frequency": 1,
+      "context": "Political situation in China post-war"
+    },
+    {
+      "name": "Dongfang Kun",
+      "frequency": 25,
+      "context": "Protagonist of the story, returning from abroad"
+    },
+    {
+      "name": "Studied abroad",
+      "frequency": 2,
+      "context": "Background of Dongfang Kun"
+    },
+    {
+      "name": "Homeland",
+      "frequency": 2,
+      "context": "Dongfang Kun's feeling about returning to China"
+    },
+    {
+      "name": "Dongfang Congjian",
+      "frequency": 8,
+      "context": "Dongfang Kun's father, a prominent businessman"
+    },
+    {
+      "name": "Overseas Chinese businessman",
+      "frequency": 1,
+      "context": "Description of Dongfang Congjian"
+    },
+    {
+      "name": "Southeast Asia",
+      "frequency": 1,
+      "context": "Location of Dongfang Congjian's business"
+    },
+    {
+      "name": "Singapore",
+      "frequency": 2,
+      "context": "Location where Dongfang Congjian did business"
+    },
+    {
+      "name": "Japan",
+      "frequency": 6,
+      "context": "Historical enemy of China, occupying force, antagonist in the past"
+    },
+    {
+      "name": "United States",
+      "frequency": 5,
+      "context": "Dongfang Kun's place of study and military service"
+    },
+    {
+      "name": "Pacific War",
+      "frequency": 1,
+      "context": "Military conflict Dongfang Kun participated in"
+    },
+    {
+      "name": "Okinawa",
+      "frequency": 1,
+      "context": "Location where Dongfang Kun was injured"
+    },
+    {
+      "name": "Hotel suites",
+      "frequency": 1,
+      "context": "Comparison for ship's accommodations"
+    },
+    {
+      "name": "Deck",
+      "frequency": 5,
+      "context": "Location on the ship where events unfold"
+    },
+    {
+      "name": "Jiaozhou Bay",
+      "frequency": 4,
+      "context": "Body of water near Qingdao, historically significant"
+    },
+    {
+      "name": "Lighthouse",
+      "frequency": 1,
+      "context": "Landmark at the entrance of Jiaozhou Bay"
+    },
+    {
+      "name": "Germany",
+      "frequency": 2,
+      "context": "Historical colonizer of Qingdao and Jiaozhou Bay"
+    },
+    {
+      "name": "Sea breeze",
+      "frequency": 1,
+      "context": "Sensory detail on the deck"
+    },
+    {
+      "name": "Fight sounds",
+      "frequency": 1,
+      "context": "Auditory clue leading Dongfang Kun to investigate"
+    },
+    {
+      "name": "Rear deck",
+      "frequency": 1,
+      "context": "Location of the fight scene"
+    },
+    {
+      "name": "Black-clad figure",
+      "frequency": 2,
+      "context": "Description of the person being attacked, later identified as a woman"
+    },
+    {
+      "name": "Foreigners",
+      "frequency": 1,
+      "context": "Description of the attackers"
+    },
+    {
+      "name": "German language",
+      "frequency": 3,
+      "context": "Language spoken by the antagonists"
+    },
+    {
+      "name": "Nazi remnants",
+      "frequency": 1,
+      "context": "Dongfang Kun's suspicion about the Germans' identity"
+    },
+    {
+      "name": "Woman",
+      "frequency": 5,
+      "context": "Identity of the black-clad figure"
+    },
+    {
+      "name": "Intervenes",
+      "frequency": 1,
+      "context": "Dongfang Kun's action to help the woman"
+    },
+    {
+      "name": "Chinese martial arts",
+      "frequency": 1,
+      "context": "Dongfang Kun's fighting background"
+    },
+    {
+      "name": "Military combat training",
+      "frequency": 1,
+      "context": "Dongfang Kun's fighting background"
+    },
+    {
+      "name": "Dagger",
+      "frequency": 1,
+      "context": "Weapon used by an attacker"
+    },
+    {
+      "name": "Pistol",
+      "frequency": 3,
+      "context": "Weapon used by the colonel"
+    },
+    {
+      "name": "Walther PPK",
+      "frequency": 2,
+      "context": "Specific model of the pistol, used to identify the Germans"
+    },
+    {
+      "name": "Treasures",
+      "frequency": 4,
+      "context": "What the Germans are after, what was stolen"
+    },
+    {
+      "name": "Headscarf",
+      "frequency": 1,
+      "context": "Item of clothing that is removed, revealing the woman's face"
+    },
+    {
+      "name": "Beautiful young woman",
+      "frequency": 1,
+      "context": "Description of Yan Li"
+    },
+    {
+      "name": "Cabin",
+      "frequency": 2,
+      "context": "Dongfang Kun's room on the ship"
+    },
+    {
+      "name": "Record book",
+      "frequency": 1,
+      "context": "Description of the object found"
+    },
+    {
+      "name": "Silk wrapping",
+      "frequency": 1,
+      "context": "How the record book was wrapped"
+    },
+    {
+      "name": "Maritime log",
+      "frequency": 3,
+      "context": "Type of record book found, detailing a historical event"
+    },
+    {
+      "name": "Anchor symbol",
+      "frequency": 2,
+      "context": "Design on the logbook cover"
+    },
+    {
+      "name": "German text",
+      "frequency": 2,
+      "context": "Language of the logbook"
+    },
+    {
+      "name": "Prince Wilhelm",
+      "frequency": 4,
+      "context": "Name of the German warship that sank"
+    },
+    {
+      "name": "1914",
+      "frequency": 3,
+      "context": "Year of the sinking of the Prince Wilhelm"
+    },
+    {
+      "name": "World War I",
+      "frequency": 3,
+      "context": "Historical event preceding the sinking"
+    },
+    {
+      "name": "History",
+      "frequency": 1,
+      "context": "Dongfang Kun's interest"
+    },
+    {
+      "name": "Exploration",
+      "frequency": 1,
+      "context": "Dongfang Kun's interest"
+    },
+    {
+      "name": "Ship's horn",
+      "frequency": 1,
+      "context": "Signal of arrival"
+    },
+    {
+      "name": "Yan Li",
+      "frequency": 8,
+      "context": "Name of the mysterious woman, her background is revealed later"
+    },
+    {
+      "name": "Thanks",
+      "frequency": 2,
+      "context": "Yan Li's expression of gratitude"
+    },
+    {
+      "name": "Trouble",
+      "frequency": 1,
+      "context": "Dongfang Kun's unawareness of the danger he is in"
+    },
+    {
+      "name": "Revenge",
+      "frequency": 1,
+      "context": "The injured German's desire"
+    },
+    {
+      "name": "Eliminate",
+      "frequency": 1,
+      "context": "The colonel's plan for Dongfang Kun and Yan Li"
+    },
+    {
+      "name": "Treasure secret",
+      "frequency": 1,
+      "context": "Reason for the need to eliminate witnesses"
+    },
+    {
+      "name": "Luggage",
+      "frequency": 1,
+      "context": "Items to be packed for disembarking"
+    },
+    {
+      "name": "BMW",
+      "frequency": 1,
+      "context": "Type of car used by the pursuers"
+    },
+    {
+      "name": "Train station",
+      "frequency": 5,
+      "context": "Location they travel to from the port"
+    },
+    {
+      "name": "European architecture",
+      "frequency": 4,
+      "context": "Style of buildings in Qingdao and Fangzi"
+    },
+    {
+      "name": "Ah Qiang",
+      "frequency": 8,
+      "context": "Dongfang Kun's loyal servant and childhood friend"
+    },
+    {
+      "name": "Family servant",
+      "frequency": 1,
+      "context": "Ah Qiang's role"
+    },
+    {
+      "name": "Childhood friend",
+      "frequency": 1,
+      "context": "Relationship between Dongfang Kun and Ah Qiang"
+    },
+    {
+      "name": "Fangzi town",
+      "frequency": 7,
+      "context": "Dongfang Kun's hometown, historically significant"
+    },
+    {
+      "name": "Hidden compartment",
+      "frequency": 1,
+      "context": "Where the notebooks were found"
+    },
+    {
+      "name": "Jinan",
+      "frequency": 1,
+      "context": "Destination of the train journey"
+    },
+    {
+      "name": "Colonial rule",
+      "frequency": 2,
+      "context": "Historical context of Fangzi town"
+    },
+    {
+      "name": "Coal mining",
+      "frequency": 1,
+      "context": "Reason for the establishment of Fangzi town"
+    },
+    {
+      "name": "Railway",
+      "frequency": 2,
+      "context": "Infrastructure development in Fangzi town"
+    },
+    {
+      "name": "German colonial rule",
+      "frequency": 1,
+      "context": "Historical period of German presence in Fangzi"
+    },
+    {
+      "name": "Japanese colonial rule",
+      "frequency": 1,
+      "context": "Historical period of Japanese presence in Fangzi"
+    },
+    {
+      "name": "German-style buildings",
+      "frequency": 3,
+      "context": "Architectural style in Fangzi"
+    },
+    {
+      "name": "Steam train",
+      "frequency": 1,
+      "context": "Mode of transportation to Fangzi"
+    },
+    {
+      "name": "Parents",
+      "frequency": 4,
+      "context": "Dongfang Kun's family reunion"
+    },
+    {
+      "name": "Reunion",
+      "frequency": 1,
+      "context": "Emotional event of meeting family"
+    },
+    {
+      "name": "German-style villa",
+      "frequency": 2,
+      "context": "Description of the family home"
+    },
+    {
+      "name": "Architecture",
+      "frequency": 1,
+      "context": "Dongfang Kun's field of study and interest"
+    },
+    {
+      "name": "Notebooks",
+      "frequency": 5,
+      "context": "Items found, subject of investigation"
+    },
+    {
+      "name": "Secret",
+      "frequency": 3,
+      "context": "What is hidden within the notebooks"
+    },
+    {
+      "name": "Study",
+      "frequency": 1,
+      "context": "Dongfang Kun's room for research"
+    },
+    {
+      "name": "Astonishing secret",
+      "frequency": 1,
+      "context": "Nature of the discovery in the notebooks"
+    },
+    {
+      "name": "WWI",
+      "frequency": 1,
+      "context": "Historical context of the events described in the log"
+    },
+    {
+      "name": "Japanese militarism",
+      "frequency": 1,
+      "context": "Threat to the Shandong Peninsula in 1914"
+    },
+    {
+      "name": "German garrison",
+      "frequency": 1,
+      "context": "Military presence in Shandong"
+    },
+    {
+      "name": "Admiral Dekerner",
+      "frequency": 2,
+      "context": "German acting governor, ordered treasure transport"
+    },
+    {
+      "name": "Plundered treasures",
+      "frequency": 1,
+      "context": "Wealth stolen from China"
+    },
+    {
+      "name": "Cargo",
+      "frequency": 1,
+      "context": "Contents of the Prince Wilhelm"
+    },
+    {
+      "name": "Gold",
+      "frequency": 1,
+      "context": "Part of the stolen treasure"
+    },
+    {
+      "name": "Silver",
+      "frequency": 1,
+      "context": "Part of the stolen treasure"
+    },
+    {
+      "name": "Cultural relics",
+      "frequency": 1,
+      "context": "Part of the stolen treasure"
+    },
+    {
+      "name": "National treasures",
+      "frequency": 1,
+      "context": "Part of the stolen treasure"
+    },
+    {
+      "name": "Arrow of Destiny",
+      "frequency": 6,
+      "context": "Most valued item among the treasures, believed to hold mystical power"
+    },
+    {
+      "name": "Genghis Khan",
+      "frequency": 3,
+      "context": "Historical figure associated with the Arrow of Destiny"
+    },
+    {
+      "name": "Mongol Empire",
+      "frequency": 3,
+      "context": "Empire founded with the aid of the Arrow of Destiny"
+    },
+    {
+      "name": "Mystical power",
+      "frequency": 2,
+      "context": "Attribute of the Arrow of Destiny"
+    },
+    {
+      "name": "Skilled artisans",
+      "frequency": 1,
+      "context": "People involved in creating the Arrow of Destiny"
+    },
+    {
+      "name": "Superior weapons",
+      "frequency": 1,
+      "context": "Quality of Mongol weaponry"
+    },
+    {
+      "name": "Divine power",
+      "frequency": 1,
+      "context": "Power attributed to the Arrow of Destiny"
+    },
+    {
+      "name": "Dominion over the world",
+      "frequency": 1,
+      "context": "Power granted by the Arrow of Destiny"
+    },
+    {
+      "name": "Symbols of power",
+      "frequency": 1,
+      "context": "Role of the arrows"
+    },
+    {
+      "name": "Vast empire",
+      "frequency": 1,
+      "context": "Description of the Mongol Empire's size"
+    },
+    {
+      "name": "Kublai Khan",
+      "frequency": 1,
+      "context": "Mongol leader who held the last Arrow of Destiny"
+    },
+    {
+      "name": "Suzerain rights",
+      "frequency": 1,
+      "context": "Authority held by Kublai Khan"
+    },
+    {
+      "name": "Khanates",
+      "frequency": 1,
+      "context": "Divisions of the Mongol Empire"
+    },
+    {
+      "name": "German army",
+      "frequency": 1,
+      "context": "Military force that obtained the Arrow of Destiny"
+    },
+    {
+      "name": "German empire",
+      "frequency": 1,
+      "context": "Ambition of the Germans"
+    },
+    {
+      "name": "Special container",
+      "frequency": 1,
+      "context": "Where the Arrow of Destiny was kept"
+    },
+    {
+      "name": "Warship",
+      "frequency": 3,
+      "context": "Type of vessel used for smuggling and sinking"
+    },
+    {
+      "name": "Advanced warship",
+      "frequency": 1,
+      "context": "Description of the Prince Wilhelm"
+    },
+    {
+      "name": "Japanese ships",
+      "frequency": 1,
+      "context": "Potential threat to the Prince Wilhelm"
+    },
+    {
+      "name": "Chinese mainland",
+      "frequency": 1,
+      "context": "Alternative sailing route"
+    },
+    {
+      "name": "Plumes of smoke",
+      "frequency": 1,
+      "context": "Mysterious phenomenon observed at sea"
+    },
+    {
+      "name": "Seabed",
+      "frequency": 2,
+      "context": "Location of the smoke and the reef"
+    },
+    {
+      "name": "Reef",
+      "frequency": 2,
+      "context": "Cause of the ship running aground"
+    },
+    {
+      "name": "Ruin",
+      "frequency": 1,
+      "context": "State of the ship after grounding"
+    },
+    {
+      "name": "Distress signal",
+      "frequency": 1,
+      "context": "What the crew refrained from sending"
+    },
+    {
+      "name": "Repairs",
+      "frequency": 1,
+      "context": "Attempt to fix the ship"
+    },
+    {
+      "name": "Volcanic island",
+      "frequency": 2,
+      "context": "Mysterious land formation that emerged from the sea"
+    },
+    {
+      "name": "Underwater mountain range",
+      "frequency": 1,
+      "context": "Location where the ship ran aground"
+    },
+    {
+      "name": "Captain Henry Rosenthal",
+      "frequency": 1,
+      "context": "Commander of the Prince Wilhelm"
+    },
+    {
+      "name": "Cave",
+      "frequency": 1,
+      "context": "Location where treasures were hidden"
+    },
+    {
+      "name": "Storm",
+      "frequency": 1,
+      "context": "Weather event that contributed to the sinking"
+    },
+    {
+      "name": "Waves",
+      "frequency": 1,
+      "context": "Force that contributed to the sinking and survival"
+    },
+    {
+      "name": "Sinking",
+      "frequency": 2,
+      "context": "Fate of the Prince Wilhelm"
+    },
+    {
+      "name": "Crew",
+      "frequency": 3,
+      "context": "People on board the Prince Wilhelm"
+    },
+    {
+      "name": "Life raft",
+      "frequency": 1,
+      "context": "Means of escape for the crew"
+    },
+    {
+      "name": "Survivors",
+      "frequency": 1,
+      "context": "Those who escaped the sinking"
+    },
+    {
+      "name": "Distress signal",
+      "frequency": 1,
+      "context": "Action not taken by the crew"
+    },
+    {
+      "name": "Declare war",
+      "frequency": 1,
+      "context": "Action taken by Japan against Germany"
+    }
+  ],
+  "relations": [
+    {
+      "source": "Qingdao",
+      "target": "International passenger ship",
+      "type": "destination_of"
+    },
+    {
+      "source": "Special suite",
+      "target": "International passenger ship",
+      "type": "located_on"
+    },
+    {
+      "source": "Black suit",
+      "target": "Intruder",
+      "type": "worn_by"
+    },
+    {
+      "source": "Intruder",
+      "target": "Ventilation window",
+      "type": "exits_via"
+    },
+    {
+      "source": "Colonel",
+      "target": "German",
+      "type": "is_a"
+    },
+    {
+      "source": "Attendant",
+      "target": "Colonel",
+      "type": "serves"
+    },
+    {
+      "source": "Book",
+      "target": "Colonel",
+      "type": "possessed_by"
+    },
+    {
+      "source": "Book",
+      "target": "Leather suitcase",
+      "type": "stored_in"
+    },
+    {
+      "source": "Intruder",
+      "target": "Book",
+      "type": "steals"
+    },
+    {
+      "source": "Intruder",
+      "target": "Guard",
+      "type": "incapacitates"
+    },
+    {
+      "source": "Intruder",
+      "target": "Fight",
+      "type": "participates_in"
+    },
+    {
+      "source": "Fight",
+      "target": "German",
+      "type": "involves"
+    },
+    {
+      "source": "Dongfang Kun",
+      "target": "China",
+      "type": "returns_to"
+    },
+    {
+      "source": "Dongfang Kun",
+      "target": "United States",
+      "type": "studied_in"
+    },
+    {
+      "source": "Dongfang Kun",
+      "target": "Pacific War",
+      "type": "participated_in"
+    },
+    {
+      "source": "Dongfang Kun",
+      "target": "Okinawa",
+      "type": "injured_in"
+    },
+    {
+      "source": "Dongfang Kun",
+      "target": "Deck",
+      "type": "goes_to"
+    },
+    {
+      "source": "Fight sounds",
+      "target": "Deck",
+      "type": "heard_on"
+    },
+    {
+      "source": "Black-clad figure",
+      "target": "Woman",
+      "type": "is_revealed_to_be"
+    },
+    {
+      "source": "Woman",
+      "target": "Dongfang Kun",
+      "type": "saved_by"
+    },
+    {
+      "source": "Dongfang Kun",
+      "target": "German",
+      "type": "fights"
+    },
+    {
+      "source": "Walther PPK",
+      "target": "German",
+      "type": "used_by"
+    },
+    {
+      "source": "Germans",
+      "target": "Treasures",
+      "type": "seek"
+    },
+    {
+      "source": "Record book",
+      "target": "Maritime log",
+      "type": "is_a"
+    },
+    {
+      "source": "Maritime log",
+      "target": "Prince Wilhelm",
+      "type": "details_sinking_of"
+    },
+    {
+      "source": "Prince Wilhelm",
+      "target": "1914",
+      "type": "sank_in"
+    },
+    {
+      "source": "1914",
+      "target": "World War I",
+      "type": "preceded_by"
+    },
+    {
+      "source": "German",
+      "target": "Qingdao",
+      "type": "occupied"
+    },
+    {
+      "source": "Japanese militarism",
+      "target": "Shandong Peninsula",
+      "type": "coveted"
+    },
+    {
+      "source": "Admiral Dekerner",
+      "target": "Treasures",
+      "type": "ordered_transport_of"
+    },
+    {
+      "source": "Arrow of Destiny",
+      "target": "Genghis Khan",
+      "type": "created_by"
+    },
+    {
+      "source": "Genghis Khan",
+      "target": "Mongol Empire",
+      "type": "founded"
+    },
+    {
+      "source": "Arrow of Destiny",
+      "target": "Mystical power",
+      "type": "possesses"
+    },
+    {
+      "source": "Arrow of Destiny",
+      "target": "German army",
+      "type": "obtained_by"
+    },
+    {
+      "source": "German army",
+      "target": "German empire",
+      "type": "wants_to_establish"
+    },
+    {
+      "source": "Prince Wilhelm",
+      "target": "Qingdao port",
+      "type": "departed_from"
+    },
+    {
+      "source": "Prince Wilhelm",
+      "target": "Japanese ships",
+      "type": "feared_interception_by"
+    },
+    {
+      "source": "Prince Wilhelm",
+      "target": "Reef",
+      "type": "ran_aground_on"
+    },
+    {
+      "source": "Volcanic island",
+      "target": "Seabed",
+      "type": "emerged_from"
+    },
+    {
+      "source": "Captain Henry Rosenthal",
+      "target": "Treasures",
+      "type": "ordered_hidden"
+    },
+    {
+      "source": "Prince Wilhelm",
+      "target": "Sinking",
+      "type": "experienced"
+    },
+    {
+      "source": "Crew",
+      "target": "Survivors",
+      "type": "became"
+    },
+    {
+      "source": "Survivors",
+      "target": "Maritime log",
+      "type": "wrote"
+    },
+    {
+      "source": "Japan",
+      "target": "World War I",
+      "type": "declared_war_in"
+    },
+    {
+      "source": "Dongfang Kun",
+      "target": "Ah Qiang",
+      "type": "met_by"
+    },
+    {
+      "source": "Dongfang Kun",
+      "target": "European architecture",
+      "type": "impressed_by"
+    },
+    {
+      "source": "Ah Qiang",
+      "target": "Fangzi town",
+      "type": "describes_architecture_of"
+    },
+    {
+      "source": "Ah Qiang",
+      "target": "Notebooks",
+      "type": "recalls_finding"
+    },
+    {
+      "source": "Notebooks",
+      "target": "Hidden compartment",
+      "type": "found_in"
+    },
+    {
+      "source": "Dongfang Kun",
+      "target": "Notebooks",
+      "type": "investigates"
+    },
+    {
+      "source": "German",
+      "target": "Fangzi town",
+      "type": "ruled"
+    },
+    {
+      "source": "Japanese",
+      "target": "Fangzi town",
+      "type": "ruled"
+    },
+    {
+      "source": "Train",
+      "target": "Fangzi town",
+      "type": "arrived_at"
+    },
+    {
+      "source": "Dongfang Kun",
+      "target": "Parents",
+      "type": "reunited_with"
+    },
+    {
+      "source": "Parents",
+      "target": "Dongfang Kun",
+      "type": "met_at_station"
+    },
+    {
+      "source": "Dongfang Kun",
+      "target": "Architecture",
+      "type": "studies"
+    },
+    {
+      "source": "Dongfang Congjian",
+      "target": "Fangzi town",
+      "type": "is_industrialist_in"
+    },
+    {
+      "source": "Dongfang Congjian",
+      "target": "German commander's residence",
+      "type": "bought"
+    },
+    {
+      "source": "Dongfang Kun",
+      "target": "Notebooks",
+      "type": "receives"
+    },
+    {
+      "source": "Notebooks",
+      "target": "Secret",
+      "type": "contain"
+    },
+    {
+      "source": "Notebooks",
+      "target": "Maritime log",
+      "type": "includes"
+    },
+    {
+      "source": "Dongfang Kun",
+      "target": "Study",
+      "type": "researches_in"
+    },
+    {
+      "source": "Notebooks",
+      "target": "Astonishing secret",
+      "type": "reveal"
+    },
+    {
+      "source": "Notebooks",
+      "target": "Sinking of Prince Wilhelm",
+      "type": "detail"
+    },
+    {
+      "source": "Japanese militarism",
+      "target": "Shandong Peninsula",
+      "type": "threatened"
+    },
+    {
+      "source": "German garrison",
+      "target": "Japanese",
+      "type": "felt_pressure_from"
+    },
+    {
+      "source": "Admiral Dekerner",
+      "target": "Treasures",
+      "type": "ordered_transport_of"
+    },
+    {
+      "source": "Arrow of Destiny",
+      "target": "Mongol Empire",
+      "type": "aided"
+    },
+    {
+      "source": "Arrow of Destiny",
+      "target": "Genghis Khan",
+      "type": "associated_with"
+    },
+    {
+      "source": "Arrow of Destiny",
+      "target": "German army",
+      "type": "obtained_by"
+    },
+    {
+      "source": "German army",
+      "target": "German empire",
+      "type": "desired_establishment_of"
+    },
+    {
+      "source": "Prince Wilhelm",
+      "target": "Qingdao port",
+      "type": "secretly_departed_from"
+    },
+    {
+      "source": "Prince Wilhelm",
+      "target": "Japanese ships",
+      "type": "feared_interception_by"
+    },
+    {
+      "source": "Prince Wilhelm",
+      "target": "Reef",
+      "type": "ran_aground_on"
+    },
+    {
+      "source": "Volcanic island",
+      "target": "Seabed",
+      "type": "emerged_from"
+    },
+    {
+      "source": "Captain Henry Rosenthal",
+      "target": "Treasures",
+      "type": "ordered_hidden"
+    },
+    {
+      "source": "Prince Wilhelm",
+      "target": "Sinking",
+      "type": "experienced"
+    },
+    {
+      "source": "Crew",
+      "target": "Survivors",
+      "type": "became"
+    },
+    {
+      "source": "Survivors",
+      "target": "Maritime log",
+      "type": "left_by"
+    },
+    {
+      "source": "Japan",
+      "target": "Germany",
+      "type": "declared_war_on"
+    }
+  ],
+  "hierarchy": {
+    "main_topics": [
+      "Introduction and initial events on the ship",
+      "Dongfang Kun's return and return to China",
+      "The fight on the ship and the discovery of the logbook",
+      "Family reunion and discovery of hidden documents",
+      "The historical secret of the 'Arrow of Destiny' and the sinking of the 'Prince Wilhelm'"
+    ],
+    "structure": "The document begins with an intriguing prologue detailing a mysterious event on a ship. It then transitions to introduce the protagonist, Dongfang Kun, and his return to China, weaving in historical context and his personal background. The narrative follows Dongfang Kun's journey, leading to further action and the uncovering of a significant historical secret related to a lost treasure and a sunken warship. The structure moves from immediate plot to character introduction, then to historical exposition and a climactic revelation."
+  }
+}

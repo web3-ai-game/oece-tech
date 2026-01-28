@@ -1,0 +1,196 @@
+{
+  "propositions": [
+    {
+      "id": "1",
+      "text": "“陛下，您真的要这样吗？”",
+      "level": 3
+    },
+    {
+      "id": "2",
+      "text": "“是。”",
+      "level": 3
+    },
+    {
+      "id": "3",
+      "text": "“可是，可是这将意味着王国……”",
+      "level": 3
+    },
+    {
+      "id": "4",
+      "text": "“我知道。”",
+      "level": 3
+    },
+    {
+      "id": "5",
+      "text": "“那您……”",
+      "level": 3
+    },
+    {
+      "id": "6",
+      "text": "“我早已不在乎了。”",
+      "level": 3
+    },
+    {
+      "id": "7",
+      "text": "“可是……”",
+      "level": 3
+    },
+    {
+      "id": "8",
+      "text": "“朕意已决。”",
+      "level": 3
+    },
+    {
+      "id": "9",
+      "text": "“你说得对，朕真的太累了。”",
+      "level": 3
+    },
+    {
+      "id": "10",
+      "text": "“陛下……”",
+      "level": 3
+    },
+    {
+      "id": "11",
+      "text": "“没事，朕今日便要好好歇歇了。”",
+      "level": 3
+    },
+    {
+      "id": "12",
+      "text": "“什么？你说什么？！”",
+      "level": 3
+    },
+    {
+      "id": "13",
+      "text": "“陛下，臣说的都是真的。”",
+      "level": 3
+    },
+    {
+      "id": "14",
+      "text": "“朕真是错信你了。”",
+      "level": 3
+    },
+    {
+      "id": "15",
+      "text": "“陛下，臣……”",
+      "level": 3
+    },
+    {
+      "id": "16",
+      "text": "“闭嘴！”",
+      "level": 3
+    },
+    {
+      "id": "17",
+      "text": "“啊，原来是这样。”",
+      "level": 3
+    },
+    {
+      "id": "18",
+      "text": "“陛下，您……”",
+      "level": 3
+    },
+    {
+      "id": "19",
+      "text": "“无妨，朕今日便要好好看看这山河。”",
+      "level": 3
+    },
+    {
+      "id": "20",
+      "text": "“爱卿，你觉得这天下怎么样？”",
+      "level": 3
+    },
+    {
+      "id": "21",
+      "text": "“陛下，这天下……”",
+      "level": 3
+    },
+    {
+      "id": "22",
+      "text": "“朕知道。”",
+      "level": 3
+    },
+    {
+      "id": "23",
+      "text": "“那……陛下……”",
+      "level": 3
+    },
+    {
+      "id": "24",
+      "text": "“朕今日便要好好想想了。”",
+      "level": 3
+    }
+  ],
+  "concepts": [
+    {
+      "name": "陛下",
+      "frequency": 179,
+      "context": "Used by a subject addressing their ruler, indicating a position of authority and the speaker's subordinate role."
+    },
+    {
+      "name": "朕",
+      "frequency": 179,
+      "context": "The first-person pronoun used by the ruler ('陛下') to refer to themselves, signifying royal address."
+    },
+    {
+      "name": "臣",
+      "frequency": 179,
+      "context": "The first-person pronoun used by the subject ('陛下') when referring to themselves in relation to the ruler, indicating loyalty and subservience."
+    },
+    {
+      "name": "王国",
+      "frequency": 1,
+      "context": "Refers to the realm or territory governed by the ruler, implying political and territorial stakes."
+    },
+    {
+      "name": "天下",
+      "frequency": 179,
+      "context": "Refers to the realm, the world, or the empire, often used in a context of evaluation or contemplation by the ruler."
+    },
+    {
+      "name": "爱卿",
+      "frequency": 179,
+      "context": "A term of endearment or respect used by a ruler towards a trusted minister or official."
+    }
+  ],
+  "relations": [
+    {
+      "source": "陛下",
+      "target": "朕",
+      "type": "uses_pronoun"
+    },
+    {
+      "source": "臣",
+      "target": "陛下",
+      "type": "addressed_by"
+    },
+    {
+      "source": "臣",
+      "target": "朕",
+      "type": "speaks_of_self_as"
+    },
+    {
+      "source": "爱卿",
+      "target": "臣",
+      "type": "term_of_address_for"
+    },
+    {
+      "source": "王国",
+      "target": "陛下",
+      "type": "ruled_by"
+    },
+    {
+      "source": "天下",
+      "target": "陛下",
+      "type": "contemplated_by"
+    }
+  ],
+  "hierarchy": {
+    "main_topics": [
+      "Title: 重生之女王崛起",
+      "Author/Subtitle: 紫魂",
+      "Chapters"
+    ],
+    "structure": "The document is structured with a main title, a subtitle/author, and then a series of chapters, each containing dialogue. The content within the chapters is highly repetitive, suggesting a narrative pattern of questioning, affirmation, and contemplation."
+  }
+}

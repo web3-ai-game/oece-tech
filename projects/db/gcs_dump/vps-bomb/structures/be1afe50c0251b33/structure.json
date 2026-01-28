@@ -1,0 +1,718 @@
+{
+  "propositions": [
+    {
+      "id": "1",
+      "text": "故事的开篇，夜色妖娆，杀手娘子登场。",
+      "level": 1
+    },
+    {
+      "id": "1.1",
+      "text": "杀手娘子的神秘身份和背景。",
+      "level": 2
+    },
+    {
+      "id": "1.2",
+      "text": "故事中涉及的江湖恩怨和爱恨情仇。",
+      "level": 2
+    },
+    {
+      "id": "2",
+      "text": "杀手娘子执行任务的过程，展现其高超的武艺和智慧。",
+      "level": 1
+    },
+    {
+      "id": "2.1",
+      "text": "任务的目标和面临的挑战。",
+      "level": 2
+    },
+    {
+      "id": "2.2",
+      "text": "与对手的较量和智斗。",
+      "level": 2
+    },
+    {
+      "id": "3",
+      "text": "杀手娘子在执行任务过程中遇到的情感纠葛。",
+      "level": 1
+    },
+    {
+      "id": "3.1",
+      "text": "与某个重要角色的感情发展。",
+      "level": 2
+    },
+    {
+      "id": "3.2",
+      "text": "情感上的挣扎和选择。",
+      "level": 2
+    },
+    {
+      "id": "4",
+      "text": "故事的高潮部分，秘密的揭露和最终的决战。",
+      "level": 1
+    },
+    {
+      "id": "4.1",
+      "text": "隐藏的真相浮出水面。",
+      "level": 2
+    },
+    {
+      "id": "4.2",
+      "text": "最终的对决和结局。",
+      "level": 2
+    },
+    {
+      "id": "5",
+      "text": "杀手娘子的成长与蜕变。",
+      "level": 1
+    },
+    {
+      "id": "5.1",
+      "text": "从冷酷杀手到情感的觉醒。",
+      "level": 2
+    },
+    {
+      "id": "5.2",
+      "text": "对人生意义的重新思考。",
+      "level": 2
+    },
+    {
+      "id": "6",
+      "text": "故事的收尾，对未来的展望。",
+      "level": 1
+    },
+    {
+      "id": "6.1",
+      "text": "主角的最终归宿。",
+      "level": 2
+    },
+    {
+      "id": "6.2",
+      "text": "留下悬念或圆满的结局。",
+      "level": 2
+    },
+    {
+      "id": "7",
+      "text": "杀手娘子身怀绝技。",
+      "level": 1
+    },
+    {
+      "id": "7.1",
+      "text": "武艺高强，擅长各类暗杀技巧。",
+      "level": 2
+    },
+    {
+      "id": "8",
+      "text": "隐藏的身份。",
+      "level": 1
+    },
+    {
+      "id": "8.1",
+      "text": "看似普通，实则身怀绝技。",
+      "level": 2
+    },
+    {
+      "id": "9",
+      "text": "江湖的恩怨情仇。",
+      "level": 1
+    },
+    {
+      "id": "9.1",
+      "text": "家族的仇恨或个人恩怨。",
+      "level": 2
+    },
+    {
+      "id": "10",
+      "text": "情感纠葛。",
+      "level": 1
+    },
+    {
+      "id": "10.1",
+      "text": "与男主角的感情。",
+      "level": 2
+    },
+    {
+      "id": "11",
+      "text": "背后的势力。",
+      "level": 1
+    },
+    {
+      "id": "11.1",
+      "text": "神秘组织或家族的操纵。",
+      "level": 2
+    },
+    {
+      "id": "12",
+      "text": "成长与转变。",
+      "level": 1
+    },
+    {
+      "id": "12.1",
+      "text": "从杀戮到寻求救赎。",
+      "level": 2
+    },
+    {
+      "id": "13",
+      "text": "爱情的萌芽。",
+      "level": 1
+    },
+    {
+      "id": "13.1",
+      "text": "与男主角产生情愫。",
+      "level": 2
+    },
+    {
+      "id": "14",
+      "text": "身份的秘密。",
+      "level": 1
+    },
+    {
+      "id": "14.1",
+      "text": "不为人知的过去。",
+      "level": 2
+    },
+    {
+      "id": "15",
+      "text": "复仇的决心。",
+      "level": 1
+    },
+    {
+      "id": "15.1",
+      "text": "为家族或个人复仇。",
+      "level": 2
+    },
+    {
+      "id": "16",
+      "text": "绝世武功。",
+      "level": 1
+    },
+    {
+      "id": "16.1",
+      "text": "传承下来的秘籍或绝技。",
+      "level": 2
+    },
+    {
+      "id": "17",
+      "text": "命运的安排。",
+      "level": 1
+    },
+    {
+      "id": "17.1",
+      "text": "被命运推向未知的道路。",
+      "level": 2
+    },
+    {
+      "id": "18",
+      "text": "隐秘的过往。",
+      "level": 1
+    },
+    {
+      "id": "18.1",
+      "text": "一段不为人知的悲惨经历。",
+      "level": 2
+    },
+    {
+      "id": "19",
+      "text": "恩怨的纠葛。",
+      "level": 1
+    },
+    {
+      "id": "19.1",
+      "text": "与敌人的宿命对决。",
+      "level": 2
+    },
+    {
+      "id": "20",
+      "text": "救赎的可能。",
+      "level": 1
+    },
+    {
+      "id": "20.1",
+      "text": "能否摆脱杀手的命运。",
+      "level": 2
+    },
+    {
+      "id": "21",
+      "text": "误解与信任。",
+      "level": 1
+    },
+    {
+      "id": "21.1",
+      "text": "与他人之间的误会和释怀。",
+      "level": 2
+    },
+    {
+      "id": "22",
+      "text": "师傅的教导。",
+      "level": 1
+    },
+    {
+      "id": "22.1",
+      "text": "师傅传授的生存之道和武艺。",
+      "level": 2
+    },
+    {
+      "id": "23",
+      "text": "隐藏的家族。",
+      "level": 1
+    },
+    {
+      "id": "23.1",
+      "text": "家族的秘密和责任。",
+      "level": 2
+    },
+    {
+      "id": "24",
+      "text": "成为杀手的训练。",
+      "level": 1
+    },
+    {
+      "id": "24.1",
+      "text": "严酷的训练过程。",
+      "level": 2
+    },
+    {
+      "id": "25",
+      "text": "爱情的萌芽与考验。",
+      "level": 1
+    },
+    {
+      "id": "25.1",
+      "text": "在危险中产生的爱情。",
+      "level": 2
+    },
+    {
+      "id": "26",
+      "text": "与男主角的相遇。",
+      "level": 1
+    },
+    {
+      "id": "26.1",
+      "text": "初次相遇的情景。",
+      "level": 2
+    },
+    {
+      "id": "27",
+      "text": "命运的捉弄。",
+      "level": 1
+    },
+    {
+      "id": "27.1",
+      "text": "一系列巧合和意外。",
+      "level": 2
+    },
+    {
+      "id": "28",
+      "text": "对人性的思考。",
+      "level": 1
+    },
+    {
+      "id": "28.1",
+      "text": "在杀戮中对人性的认知。",
+      "level": 2
+    },
+    {
+      "id": "29",
+      "text": "复仇的代价。",
+      "level": 1
+    },
+    {
+      "id": "29.1",
+      "text": "复仇带来的后果。",
+      "level": 2
+    },
+    {
+      "id": "30",
+      "text": "新的开始。",
+      "level": 1
+    },
+    {
+      "id": "30.1",
+      "text": "放下过去，迎接未来。",
+      "level": 2
+    },
+    {
+      "id": "31",
+      "text": "牺牲与成全。",
+      "level": 1
+    },
+    {
+      "id": "31.1",
+      "text": "为爱或正义做出牺牲。",
+      "level": 2
+    },
+    {
+      "id": "32",
+      "text": "情感的升华。",
+      "level": 1
+    },
+    {
+      "id": "32.1",
+      "text": "从爱恨情仇到理解与包容。",
+      "level": 2
+    },
+    {
+      "id": "33",
+      "text": "秘密组织的渗透。",
+      "level": 1
+    },
+    {
+      "id": "33.1",
+      "text": "隐藏在暗处的阴谋。",
+      "level": 2
+    },
+    {
+      "id": "34",
+      "text": "一次意外的邂逅。",
+      "level": 1
+    },
+    {
+      "id": "34.1",
+      "text": "与男主角的初次相遇。",
+      "level": 2
+    },
+    {
+      "id": "35",
+      "text": "命运的转折。",
+      "level": 1
+    },
+    {
+      "id": "35.1",
+      "text": "一系列事件带来的改变。",
+      "level": 2
+    },
+    {
+      "id": "36",
+      "text": "最后的抉择。",
+      "level": 1
+    },
+    {
+      "id": "36.1",
+      "text": "在爱与责任之间的选择。",
+      "level": 2
+    },
+    {
+      "id": "37",
+      "text": "揭开身世之谜。",
+      "level": 1
+    },
+    {
+      "id": "37.1",
+      "text": "身世的真相。",
+      "level": 2
+    },
+    {
+      "id": "38",
+      "text": "爱与恨的交织。",
+      "level": 1
+    },
+    {
+      "id": "38.1",
+      "text": "复杂的情感纠葛。",
+      "level": 2
+    },
+    {
+      "id": "39",
+      "text": "最后的救赎。",
+      "level": 1
+    },
+    {
+      "id": "39.1",
+      "text": "能否摆脱过去的阴影。",
+      "level": 2
+    },
+    {
+      "id": "40",
+      "text": "故事的结局。",
+      "level": 1
+    },
+    {
+      "id": "40.1",
+      "text": "杀手娘子的最终命运。",
+      "level": 2
+    },
+    {
+      "id": "41",
+      "text": "江湖的风云变幻。",
+      "level": 1
+    },
+    {
+      "id": "41.1",
+      "text": "各方势力的较量。",
+      "level": 2
+    },
+    {
+      "id": "42",
+      "text": "情感的羁绊。",
+      "level": 1
+    },
+    {
+      "id": "42.1",
+      "text": "与重要人物的深厚感情。",
+      "level": 2
+    }
+  ],
+  "concepts": [
+    {
+      "name": "杀手娘子",
+      "frequency": 10,
+      "context": "故事的主角，身怀绝技，身份神秘。"
+    },
+    {
+      "name": "夜色",
+      "frequency": 5,
+      "context": "营造故事的神秘和浪漫氛围。"
+    },
+    {
+      "name": "任务",
+      "frequency": 8,
+      "context": "杀手娘子执行的行动，推动剧情发展。"
+    },
+    {
+      "name": "武艺",
+      "frequency": 7,
+      "context": "杀手娘子的高超格斗和暗杀技巧。"
+    },
+    {
+      "name": "情感",
+      "frequency": 9,
+      "context": "故事中人物的情感纠葛和发展。"
+    },
+    {
+      "name": "江湖",
+      "frequency": 6,
+      "context": "故事发生的背景，充满恩怨情仇。"
+    },
+    {
+      "name": "秘密",
+      "frequency": 4,
+      "context": "隐藏的真相和身份。"
+    },
+    {
+      "name": "成长",
+      "frequency": 3,
+      "context": "主角在经历事件后的转变。"
+    },
+    {
+      "name": "爱",
+      "frequency": 5,
+      "context": "故事中的爱情元素。"
+    },
+    {
+      "name": "复仇",
+      "frequency": 3,
+      "context": "主角的复仇动机。"
+    },
+    {
+      "name": "选择",
+      "frequency": 3,
+      "context": "主角在关键时刻做出的决定。"
+    },
+    {
+      "name": "命运",
+      "frequency": 3,
+      "context": "角色经历的不可控因素。"
+    },
+    {
+      "name": "师傅",
+      "frequency": 2,
+      "context": "主角的师长，传授技艺和道理。"
+    },
+    {
+      "name": "家族",
+      "frequency": 2,
+      "context": "主角的出身和背景。"
+    },
+    {
+      "name": "训练",
+      "frequency": 2,
+      "context": "成为杀手所经历的严酷过程。"
+    },
+    {
+      "name": "对手",
+      "frequency": 3,
+      "context": "与主角进行较量的人物。"
+    },
+    {
+      "name": "真相",
+      "frequency": 2,
+      "context": "故事中隐藏的秘密。"
+    },
+    {
+      "name": "救赎",
+      "frequency": 2,
+      "context": "主角摆脱过去，寻求新生。"
+    },
+    {
+      "name": "男主角",
+      "frequency": 3,
+      "context": "故事中的重要男性角色，与杀手娘子有感情线。"
+    },
+    {
+      "name": "势力",
+      "frequency": 2,
+      "context": "故事中存在的各种组织和力量。"
+    }
+  ],
+  "relations": [
+    {
+      "source": "杀手娘子",
+      "target": "夜色",
+      "type": "is_associated_with"
+    },
+    {
+      "source": "杀手娘子",
+      "target": "任务",
+      "type": "performs"
+    },
+    {
+      "source": "杀手娘子",
+      "target": "武艺",
+      "type": "possesses"
+    },
+    {
+      "source": "杀手娘子",
+      "target": "情感",
+      "type": "experiences"
+    },
+    {
+      "source": "杀手娘子",
+      "target": "江湖",
+      "type": "operates_in"
+    },
+    {
+      "source": "杀手娘子",
+      "target": "秘密",
+      "type": "has"
+    },
+    {
+      "source": "杀手娘子",
+      "target": "成长",
+      "type": "undergoes"
+    },
+    {
+      "source": "杀手娘子",
+      "target": "爱",
+      "type": "experiences"
+    },
+    {
+      "source": "杀手娘子",
+      "target": "复仇",
+      "type": "motivated_by"
+    },
+    {
+      "source": "杀手娘子",
+      "target": "选择",
+      "type": "makes"
+    },
+    {
+      "source": "杀手娘子",
+      "target": "命运",
+      "type": "affected_by"
+    },
+    {
+      "source": "杀手娘子",
+      "target": "师傅",
+      "type": "is_taught_by"
+    },
+    {
+      "source": "杀手娘子",
+      "target": "家族",
+      "type": "belongs_to"
+    },
+    {
+      "source": "杀手娘子",
+      "target": "训练",
+      "type": "undergoes"
+    },
+    {
+      "source": "杀手娘子",
+      "target": "对手",
+      "type": "confronts"
+    },
+    {
+      "source": "杀手娘子",
+      "target": "真相",
+      "type": "uncovers"
+    },
+    {
+      "source": "杀手娘子",
+      "target": "救赎",
+      "type": "seeks"
+    },
+    {
+      "source": "杀手娘子",
+      "target": "男主角",
+      "type": "interacts_with"
+    },
+    {
+      "source": "杀手娘子",
+      "target": "势力",
+      "type": "opposes"
+    },
+    {
+      "source": "男主角",
+      "target": "爱",
+      "type": "experiences"
+    },
+    {
+      "source": "任务",
+      "target": "江湖",
+      "type": "takes_place_in"
+    },
+    {
+      "source": "情感",
+      "target": "江湖",
+      "type": "is_part_of"
+    },
+    {
+      "source": "秘密",
+      "target": "真相",
+      "type": "is_related_to"
+    },
+    {
+      "source": "成长",
+      "target": "选择",
+      "type": "is_influenced_by"
+    },
+    {
+      "source": "复仇",
+      "target": "秘密",
+      "type": "is_driven_by"
+    },
+    {
+      "source": "救赎",
+      "target": "成长",
+      "type": "is_a_result_of"
+    },
+    {
+      "source": "师傅",
+      "target": "武艺",
+      "type": "teaches"
+    },
+    {
+      "source": "家族",
+      "target": "复仇",
+      "type": "motivates"
+    },
+    {
+      "source": "对手",
+      "target": "武艺",
+      "type": "possesses"
+    },
+    {
+      "source": "势力",
+      "target": "秘密",
+      "type": "manipulates"
+    }
+  ],
+  "hierarchy": {
+    "main_topics": [
+      "杀手娘子的身份与背景",
+      "任务执行与挑战",
+      "情感的纠葛与发展",
+      "剧情高潮与结局",
+      "主角的成长与蜕变"
+    ],
+    "structure": "The document follows a narrative arc typical of a fictional story, beginning with the introduction of the protagonist and the setting, moving through plot development, climax, and resolution, with a focus on character growth and relationships."
+  }
+}

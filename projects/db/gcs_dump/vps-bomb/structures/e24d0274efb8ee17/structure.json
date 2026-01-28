@@ -1,0 +1,1110 @@
+{
+  "propositions": [
+    {
+      "id": "1",
+      "text": "《第十一根手指》是一部小说，作者是秦明。",
+      "level": 1
+    },
+    {
+      "id": "1.1",
+      "text": "它属于“法医秦明”系列。",
+      "level": 2
+    },
+    {
+      "id": "1.1.1",
+      "text": "《尸语者》是该系列第一季。",
+      "level": 3
+    },
+    {
+      "id": "1.1.2",
+      "text": "《无声的证词》是该系列第二季。",
+      "level": 3
+    },
+    {
+      "id": "1.2",
+      "text": "《第十一根手指》的主题围绕着“第十一根手指”展开。",
+      "level": 2
+    },
+    {
+      "id": "1.2.1",
+      "text": "“手术刀是我们法医的第十一根手指”是这句话的来源。",
+      "level": 3
+    },
+    {
+      "id": "1.2.2",
+      "text": "书中包含一起以“第十一根手指”为线索的杀人案件。",
+      "level": 3
+    },
+    {
+      "id": "1.3",
+      "text": "小说秉承“法医秦明”系列一贯的风格。",
+      "level": 2
+    },
+    {
+      "id": "1.3.1",
+      "text": "以个案为基础，加入全书主线。",
+      "level": 3
+    },
+    {
+      "id": "1.3.2",
+      "text": "以真实案例为蓝本，普及知识，不矫情、不造作、不玄乎。",
+      "level": 3
+    },
+    {
+      "id": "1.3.3",
+      "text": "绝不违背科学精神。",
+      "level": 3
+    },
+    {
+      "id": "1.4",
+      "text": "小说中的案件情节纯属虚构，人名、地名均为化名。",
+      "level": 2
+    },
+    {
+      "id": "1.5",
+      "text": "第三季完成后，作者承诺将继续创作“法医秦明”系列后续作品。",
+      "level": 2
+    },
+    {
+      "id": "2",
+      "text": "第2章“油爆奇案(1)”讲述了地沟油窝点被捣毁的事件。",
+      "level": 1
+    },
+    {
+      "id": "2.1",
+      "text": "警方在“打四黑、除四害”行动中发现一个生产地沟油的地下窝点。",
+      "level": 2
+    },
+    {
+      "id": "2.2",
+      "text": "在窝点中发现了一个令人作呕的泔水桶。",
+      "level": 2
+    },
+    {
+      "id": "2.3",
+      "text": "从泔水桶中发现了一个疑似鸡爪子的黄色物体。",
+      "level": 2
+    },
+    {
+      "id": "2.4",
+      "text": "法医秦明（主角）被一同前往调查。",
+      "level": 2
+    },
+    {
+      "id": "2.5",
+      "text": "经过初步辨认，该物体可能是被油炸后收缩的人类手指。",
+      "level": 2
+    },
+    {
+      "id": "2.6",
+      "text": "秦明在分辨物体身份时遇到困难，未能立即确定。",
+      "level": 2
+    },
+    {
+      "id": "2.7",
+      "text": "通过法医学知识，最终确定该物体是人类的指骨，意味着一起惨无人道的命案发生。",
+      "level": 2
+    },
+    {
+      "id": "2.8",
+      "text": "案件涉及油炸尸体的毁尸手段，引起警方高度重视。",
+      "level": 2
+    },
+    {
+      "id": "3",
+      "text": "第2章“油爆奇案(1)”（续）描述了对泔水进行筛查的过程。",
+      "level": 1
+    },
+    {
+      "id": "3.1",
+      "text": "警方对地沟油窝点的泔水桶进行了仔细筛查。",
+      "level": 2
+    },
+    {
+      "id": "3.2",
+      "text": "筛查过程中发现了可疑的人体组织。",
+      "level": 2
+    },
+    {
+      "id": "3.3",
+      "text": "这些可疑组织被送到DNA实验室进行检验。",
+      "level": 2
+    },
+    {
+      "id": "3.4",
+      "text": "推测尸块来源于臀部和四肢。",
+      "level": 2
+    },
+    {
+      "id": "3.5",
+      "text": "案件被定性为恶劣的命案，引起媒体关注。",
+      "level": 2
+    },
+    {
+      "id": "4",
+      "text": "第3章“油爆奇案(2)”讲述了公安部特案组的介入。",
+      "level": 1
+    },
+    {
+      "id": "4.1",
+      "text": "原定专案会因作者（秦明）的师父出差而改变。",
+      "level": 2
+    },
+    {
+      "id": "4.2",
+      "text": "公安部特案组成员（画龙、包斩、苏眉、梁教授）赶到协助破案。",
+      "level": 2
+    },
+    {
+      "id": "4.3",
+      "text": "DNA检验结果确认，发现的组织全部属于同一名女性。",
+      "level": 2
+    },
+    {
+      "id": "4.4",
+      "text": "尸块主要来源于臀部、手指和脚趾。",
+      "level": 2
+    },
+    {
+      "id": "4.5",
+      "text": "通过分析尸块上的黑色物质（淤泥），推断尸块是从下水道打捞上来的。",
+      "level": 2
+    },
+    {
+      "id": "4.6",
+      "text": "梁教授指出，对尸块进行部位分析的目的是为了在下水道搜索时找到更多有用的尸块。",
+      "level": 2
+    },
+    {
+      "id": "5",
+      "text": "第4章“油爆奇案(3)”描述了对下水道的搜寻。",
+      "level": 1
+    },
+    {
+      "id": "5.1",
+      "text": "审讯结果未能明确打捞地沟油的具体位置。",
+      "level": 2
+    },
+    {
+      "id": "5.2",
+      "text": "苏眉利用电脑模拟技术，确定了抛尸可能性最大的位置。",
+      "level": 2
+    },
+    {
+      "id": "5.3",
+      "text": "警方进入下水道进行搜寻。",
+      "level": 2
+    },
+    {
+      "id": "5.4",
+      "text": "搜寻过程中找到了女性的股骨和骨盆。",
+      "level": 2
+    },
+    {
+      "id": "5.5",
+      "text": "拼凑的尸骨显示死者身材“不太协调”，腿骨过长过粗，肋骨也有些问题。",
+      "level": 2
+    },
+    {
+      "id": "5.6",
+      "text": "警方排查出可能的受害者是失踪的家庭主妇连倩倩，其丈夫夏洪是国际大酒店餐饮部经理。",
+      "level": 2
+    },
+    {
+      "id": "5.7",
+      "text": "夏洪在两周前辞职，去向不明。",
+      "level": 2
+    },
+    {
+      "id": "6",
+      "text": "第5章“油爆奇案(4)”描述了对嫌疑人住宅的搜查。",
+      "level": 1
+    },
+    {
+      "id": "6.1",
+      "text": "在连倩倩的家中发现了从卫生间到主卧室的淡血痕迹。",
+      "level": 2
+    },
+    {
+      "id": "6.2",
+      "text": "在衣柜里发现了两张被剥下的人皮。",
+      "level": 2
+    },
+    {
+      "id": "6.3",
+      "text": "DNA室电话通知，夏洪也已死亡。",
+      "level": 2
+    },
+    {
+      "id": "6.4",
+      "text": "拼凑的尸骨显示，骨盆是女性，但腿骨是男性，这说明夏洪的尸体也被处理了。",
+      "level": 2
+    },
+    {
+      "id": "7",
+      "text": "第6章“纸面青尸(1)”详细描述了受害者的尸体处理方式。",
+      "level": 1
+    },
+    {
+      "id": "7.1",
+      "text": "两张人皮被取下，分别属于男性和女性。",
+      "level": 2
+    },
+    {
+      "id": "7.2",
+      "text": "死者（夏洪和连倩倩）是被残忍地剥皮、分尸、油炸。",
+      "level": 2
+    },
+    {
+      "id": "7.3",
+      "text": "女性乳头皮肤上的纹线具有鉴定价值。",
+      "level": 2
+    },
+    {
+      "id": "7.4",
+      "text": "凶手很可能在剥离乳头时摘下手套，以便追求手感。",
+      "level": 2
+    },
+    {
+      "id": "7.5",
+      "text": "案件性质恶劣，需要尽快破案。",
+      "level": 2
+    },
+    {
+      "id": "7.6",
+      "text": "初步判断凶手是熟人作案，但前期调查未发现明显的矛盾关系。",
+      "level": 2
+    },
+    {
+      "id": "7.7",
+      "text": "门窗完好，凶手可能是和平进入现场。",
+      "level": 2
+    },
+    {
+      "id": "7.8",
+      "text": "建议继续搜索下水道，并对现场进行复勘。",
+      "level": 2
+    },
+    {
+      "id": "8",
+      "text": "第7章“纸面青尸(2)”描述了对现场的复勘和血迹颜色的差异。",
+      "level": 1
+    },
+    {
+      "id": "8.1",
+      "text": "现场窗户均安装防盗窗，凶手不可能通过窗户进入。",
+      "level": 2
+    },
+    {
+      "id": "8.2",
+      "text": "苏眉发现滴落状血迹的颜色存在差异。",
+      "level": 2
+    },
+    {
+      "id": "8.3",
+      "text": "血迹颜色差异反映了暴露在空气中的时间长短不同。",
+      "level": 2
+    },
+    {
+      "id": "8.4",
+      "text": "这表明凶手分多次携带尸块从卫生间转移到厨房。",
+      "level": 2
+    }
+  ],
+  "concepts": [
+    {
+      "name": "法医",
+      "frequency": 16,
+      "context": "作为主角身份以及案件侦破的核心职业。"
+    },
+    {
+      "name": "秦明",
+      "frequency": 7,
+      "context": "小说的主角，法医，也是“法医秦明”系列作者的化身。"
+    },
+    {
+      "name": "尸体",
+      "frequency": 15,
+      "context": "案件侦破的核心对象，包括尸块、骸骨、人皮等。"
+    },
+    {
+      "name": "血迹",
+      "frequency": 11,
+      "context": "现场勘查的重要物证，颜色、形态、分布等提供案件信息。"
+    },
+    {
+      "name": "下水道",
+      "frequency": 8,
+      "context": "案件发生地之一，也是搜寻尸块的重要场所。"
+    },
+    {
+      "name": "油炸",
+      "frequency": 7,
+      "context": "一种残忍的毁尸手段，贯穿案件始终。"
+    },
+    {
+      "name": "分尸",
+      "frequency": 5,
+      "context": "案件的残忍性体现，也是侦破的关键环节。"
+    },
+    {
+      "name": "泔水",
+      "frequency": 5,
+      "context": "与地沟油窝点相关，其中发现了疑似人体组织。"
+    },
+    {
+      "name": "骨盆",
+      "frequency": 5,
+      "context": "人体结构的重要组成部分，在尸骨拼凑中提供信息。"
+    },
+    {
+      "name": "DNA",
+      "frequency": 4,
+      "context": "法医鉴定技术，用于身份认定和种族鉴定。"
+    },
+    {
+      "name": "特案组",
+      "frequency": 5,
+      "context": "公安部负责侦破重大案件的专家团队，协助主角破案。"
+    },
+    {
+      "name": "人皮",
+      "frequency": 4,
+      "context": "案件的极端残忍性体现，作为重要的尸体发现。"
+    },
+    {
+      "name": "心理",
+      "frequency": 4,
+      "context": "涉及凶手的作案动机和犯罪心理分析。"
+    },
+    {
+      "name": "熟人作案",
+      "frequency": 4,
+      "context": "案件的可能性质，是侦查方向之一。"
+    },
+    {
+      "name": "指纹",
+      "frequency": 3,
+      "context": "现场勘查的重要物证，用于识别犯罪嫌疑人。"
+    },
+    {
+      "name": "手套",
+      "frequency": 3,
+      "context": "凶手为避免留下证据而使用的物品，也可能暴露其作案细节。"
+    },
+    {
+      "name": "梁教授",
+      "frequency": 4,
+      "context": "特案组成员，法医学专家，提供重要指导。"
+    },
+    {
+      "name": "林涛",
+      "frequency": 7,
+      "context": "主角的同事，一同参与案件侦破。"
+    },
+    {
+      "name": "苏眉",
+      "frequency": 4,
+      "context": "特案组成员，擅长技术分析，提供关键线索。"
+    },
+    {
+      "name": "画龙",
+      "frequency": 4,
+      "context": "特案组成员，负责侦查执行，性格直接。"
+    },
+    {
+      "name": "包斩",
+      "frequency": 4,
+      "context": "特案组成员，嗅觉灵敏，搜寻能力强。"
+    },
+    {
+      "name": "鸡爪子",
+      "frequency": 2,
+      "context": "地沟油窝点中发现的疑似物体，引发了对人体手指的联想。"
+    },
+    {
+      "name": "指骨",
+      "frequency": 2,
+      "context": "经过法医鉴定确认的物体，证实了人体存在的可能。"
+    },
+    {
+      "name": "淤泥",
+      "frequency": 3,
+      "context": "尸块上发现的物质，提示了尸块的来源（下水道）。"
+    },
+    {
+      "name": "犯罪心理",
+      "frequency": 1,
+      "context": "对凶手的动机和心理状态的推测。"
+    },
+    {
+      "name": "现场勘查",
+      "frequency": 4,
+      "context": "法医和侦查员在犯罪现场搜集证据的过程。"
+    },
+    {
+      "name": "地沟油",
+      "frequency": 3,
+      "context": "案件发生的背景，与犯罪窝点相关。"
+    },
+    {
+      "name": "师父",
+      "frequency": 3,
+      "context": "主角的师父，一位经验丰富的法医，提供指导。"
+    },
+    {
+      "name": "排查",
+      "frequency": 2,
+      "context": "侦查过程中的重要手段，用于搜集线索和排除嫌疑。"
+    },
+    {
+      "name": "矛盾关系",
+      "frequency": 2,
+      "context": "调查受害者生前关系，寻找作案动机。"
+    },
+    {
+      "name": "腿骨",
+      "frequency": 3,
+      "context": "尸骨拼凑中的重要部分，显示出异常特征。"
+    },
+    {
+      "name": "乳头",
+      "frequency": 2,
+      "context": "女性身体部位，其皮肤上的纹线具有鉴定价值。"
+    },
+    {
+      "name": "纹线",
+      "frequency": 2,
+      "context": "皮肤上的特殊痕迹，可用于个体识别。"
+    },
+    {
+      "name": "连倩倩",
+      "frequency": 4,
+      "context": "女性受害者。"
+    },
+    {
+      "name": "夏洪",
+      "frequency": 4,
+      "context": "男性受害者，连倩倩的丈夫。"
+    },
+    {
+      "name": "IPC",
+      "frequency": 1,
+      "context": "国际大酒店，与夏洪的工作单位相关。"
+    },
+    {
+      "name": "洗脚妹",
+      "frequency": 1,
+      "context": "连倩倩的职业背景。"
+    },
+    {
+      "name": "餐饮部经理",
+      "frequency": 1,
+      "context": "夏洪的职业。"
+    },
+    {
+      "name": "孤儿",
+      "frequency": 1,
+      "context": "夏洪的成长背景。"
+    },
+    {
+      "name": "爱情模范",
+      "frequency": 1,
+      "context": "夏洪和连倩倩在小区里的关系表现。"
+    },
+    {
+      "name": "血迹颜色",
+      "frequency": 2,
+      "context": "血迹的差异性，反映了时间线索。"
+    },
+    {
+      "name": "时间线索",
+      "frequency": 1,
+      "context": "通过血迹颜色等信息推断案件发生时间。"
+    }
+  ],
+  "relations": [
+    {
+      "source": "秦明",
+      "target": "法医",
+      "type": "is_a"
+    },
+    {
+      "source": "《第十一根手指》",
+      "target": "秦明",
+      "type": "written_by"
+    },
+    {
+      "source": "《第十一根手指》",
+      "target": "法医秦明系列",
+      "type": "part_of"
+    },
+    {
+      "source": "《尸语者》",
+      "target": "法医秦明系列",
+      "type": "part_of"
+    },
+    {
+      "source": "《无声的证词》",
+      "target": "法医秦明系列",
+      "type": "part_of"
+    },
+    {
+      "source": "“手术刀是我们法医的第十一根手指”",
+      "target": "《第十一根手指》",
+      "type": "is_the_origin_of_title"
+    },
+    {
+      "source": "地沟油窝点",
+      "target": "泔水",
+      "type": "produces"
+    },
+    {
+      "source": "泔水桶",
+      "target": "疑似鸡爪子",
+      "type": "contains"
+    },
+    {
+      "source": "疑似鸡爪子",
+      "target": "人类手指",
+      "type": "potential_identity"
+    },
+    {
+      "source": "人类手指",
+      "target": "油炸",
+      "type": "subjected_to"
+    },
+    {
+      "source": "指骨",
+      "target": "人类",
+      "type": "is_a"
+    },
+    {
+      "source": "油炸尸体",
+      "target": "命案",
+      "type": "is_a_method_of"
+    },
+    {
+      "source": "警方",
+      "target": "地沟油窝点",
+      "type": "investigates"
+    },
+    {
+      "source": "可疑人体组织",
+      "target": "DNA实验室",
+      "type": "sent_to"
+    },
+    {
+      "source": "尸块",
+      "target": "臀部",
+      "type": "originates_from"
+    },
+    {
+      "source": "尸块",
+      "target": "四肢",
+      "type": "originates_from"
+    },
+    {
+      "source": "公安部特案组",
+      "target": "《第十一根手指》案件",
+      "type": "assists_in_solving"
+    },
+    {
+      "source": "DNA检验",
+      "target": "同一名女性",
+      "type": "identifies_victim_as"
+    },
+    {
+      "source": "淤泥",
+      "target": "尸块",
+      "type": "adhered_to"
+    },
+    {
+      "source": "淤泥",
+      "target": "下水道",
+      "type": "indicates_origin_from"
+    },
+    {
+      "source": "苏眉",
+      "target": "电脑模拟",
+      "type": "uses"
+    },
+    {
+      "source": "电脑模拟",
+      "target": "抛尸可能性最大位置",
+      "type": "determines"
+    },
+    {
+      "source": "警方",
+      "target": "下水道",
+      "type": "searches"
+    },
+    {
+      "source": "股骨",
+      "target": "女性",
+      "type": "belongs_to"
+    },
+    {
+      "source": "骨盆",
+      "target": "女性",
+      "type": "belongs_to"
+    },
+    {
+      "source": "尸骨拼凑",
+      "target": "不协调身材",
+      "type": "reveals"
+    },
+    {
+      "source": "连倩倩",
+      "target": "失踪",
+      "type": "experienced"
+    },
+    {
+      "source": "夏洪",
+      "target": "辞职",
+      "type": "experienced"
+    },
+    {
+      "source": "夏洪",
+      "target": "连倩倩",
+      "type": "husband_of"
+    },
+    {
+      "source": "连倩倩",
+      "target": "夏洪",
+      "type": "wife_of"
+    },
+    {
+      "source": "淡血痕迹",
+      "target": "卫生间",
+      "type": "originates_from"
+    },
+    {
+      "source": "人皮",
+      "target": "夏洪",
+      "type": "belongs_to"
+    },
+    {
+      "source": "人皮",
+      "target": "连倩倩",
+      "type": "belongs_to"
+    },
+    {
+      "source": "夏洪",
+      "target": "死亡",
+      "type": "experienced"
+    },
+    {
+      "source": "尸骨拼凑",
+      "target": "腿骨",
+      "type": "reveals_male_origin"
+    },
+    {
+      "source": "骨盆",
+      "target": "女性",
+      "type": "reveals_female_origin"
+    },
+    {
+      "source": "夏洪",
+      "target": "连倩倩",
+      "type": "murdered"
+    },
+    {
+      "source": "连倩倩",
+      "target": "夏洪",
+      "type": "murdered"
+    },
+    {
+      "source": "剥皮",
+      "target": "尸体",
+      "type": "is_a_method_of"
+    },
+    {
+      "source": "分尸",
+      "target": "尸体",
+      "type": "is_a_method_of"
+    },
+    {
+      "source": "油炸",
+      "target": "尸块",
+      "type": "applied_to"
+    },
+    {
+      "source": "女性乳头皮肤",
+      "target": "纹线",
+      "type": "contains"
+    },
+    {
+      "source": "纹线",
+      "target": "鉴定价值",
+      "type": "has"
+    },
+    {
+      "source": "凶手",
+      "target": "手套",
+      "type": "wears"
+    },
+    {
+      "source": "凶手",
+      "target": "乳头",
+      "type": "touches"
+    },
+    {
+      "source": "凶手",
+      "target": "手套",
+      "type": "removes"
+    },
+    {
+      "source": "案件",
+      "target": "极其恶劣",
+      "type": "is_a"
+    },
+    {
+      "source": "凶手",
+      "target": "熟人",
+      "type": "is_likely"
+    },
+    {
+      "source": "凶手",
+      "target": "和平进入",
+      "type": "did"
+    },
+    {
+      "source": "门窗",
+      "target": "完好",
+      "type": "are"
+    },
+    {
+      "source": "滴落状血迹",
+      "target": "颜色差异",
+      "type": "has"
+    },
+    {
+      "source": "血迹颜色差异",
+      "target": "暴露在空气中的时间",
+      "type": "reflects"
+    },
+    {
+      "source": "凶手",
+      "target": "尸块",
+      "type": "transfers"
+    },
+    {
+      "source": "尸块",
+      "target": "卫生间",
+      "type": "moved_from"
+    },
+    {
+      "source": "尸块",
+      "target": "厨房",
+      "type": "moved_to"
+    },
+    {
+      "source": "时间",
+      "target": "金钱",
+      "type": "is"
+    },
+    {
+      "source": "包斩",
+      "target": "鼻子",
+      "type": "is_sensitive"
+    },
+    {
+      "source": "鼻子",
+      "target": "警犬",
+      "type": "compared_to"
+    },
+    {
+      "source": "下水道",
+      "target": "恶臭",
+      "type": "is_filled_with"
+    },
+    {
+      "source": "血迹",
+      "target": "稀释",
+      "type": "is"
+    },
+    {
+      "source": "浴缸",
+      "target": "流注状血迹",
+      "type": "contains"
+    },
+    {
+      "source": "凶手",
+      "target": "浴缸",
+      "type": "dissects_in"
+    },
+    {
+      "source": "炒锅",
+      "target": "酱油色液体",
+      "type": "contains"
+    },
+    {
+      "source": "炒锅",
+      "target": "白色物质",
+      "type": "floats_on"
+    },
+    {
+      "source": "炒锅",
+      "target": "肌肉纤维",
+      "type": "contains"
+    },
+    {
+      "source": "炒锅",
+      "target": "油炸尸体",
+      "type": "is_first_scene_of"
+    },
+    {
+      "source": "纱布手套",
+      "target": "指纹",
+      "type": "prevents_detection_of"
+    },
+    {
+      "source": "夏洪",
+      "target": "国际大酒店餐饮部经理",
+      "type": "is_a"
+    },
+    {
+      "source": "连倩倩",
+      "target": "洗脚妹",
+      "type": "is_a"
+    },
+    {
+      "source": "夏洪",
+      "target": "孤儿",
+      "type": "is_an"
+    },
+    {
+      "source": "夏洪",
+      "target": "国际大酒店",
+      "type": "works_at"
+    },
+    {
+      "source": "夏洪",
+      "target": "IPC",
+      "type": "works_at"
+    },
+    {
+      "source": "连倩倩",
+      "target": "夏洪",
+      "type": "married_to"
+    },
+    {
+      "source": "夏洪",
+      "target": "连倩倩",
+      "type": "married_to"
+    },
+    {
+      "source": "夏洪",
+      "target": "两周前辞职",
+      "type": "did"
+    },
+    {
+      "source": "夏洪",
+      "target": "新单位",
+      "type": "will_work_for"
+    },
+    {
+      "source": "夏洪",
+      "target": "被怀疑",
+      "type": "is"
+    },
+    {
+      "source": "两周前辞职",
+      "target": "正常行为",
+      "type": "is_considered"
+    },
+    {
+      "source": "血迹腐败程度",
+      "target": "死亡时间",
+      "type": "indicates"
+    },
+    {
+      "source": "死亡时间",
+      "target": "大约两周",
+      "type": "is"
+    },
+    {
+      "source": "凶手",
+      "target": "从容油炸尸体",
+      "type": "did"
+    },
+    {
+      "source": "夏洪",
+      "target": "下落不明",
+      "type": "is"
+    },
+    {
+      "source": "尸块",
+      "target": "黏附血水比较淡",
+      "type": "had"
+    },
+    {
+      "source": "大衣柜",
+      "target": "人皮",
+      "type": "contained"
+    },
+    {
+      "source": "人皮",
+      "target": "压扁了的人",
+      "type": "resembled"
+    },
+    {
+      "source": "人皮",
+      "target": "剥了",
+      "type": "was"
+    },
+    {
+      "source": "两具尸骨",
+      "target": "拼在一起",
+      "type": "were"
+    },
+    {
+      "source": "骨盆",
+      "target": "女",
+      "type": "was"
+    },
+    {
+      "source": "腿骨",
+      "target": "男",
+      "type": "was"
+    },
+    {
+      "source": "人皮",
+      "target": "衣服",
+      "type": "underneath"
+    },
+    {
+      "source": "剥皮",
+      "target": "刀具",
+      "type": "done_with_sharp"
+    },
+    {
+      "source": "人皮",
+      "target": "宽胶带",
+      "type": "attached_with"
+    },
+    {
+      "source": "剥皮",
+      "target": "法医",
+      "type": "superior_to"
+    },
+    {
+      "source": "女性人皮",
+      "target": "乳头",
+      "type": "had_removed"
+    },
+    {
+      "source": "乳头皮肤",
+      "target": "血迹",
+      "type": "had_attached"
+    },
+    {
+      "source": "纹线",
+      "target": "鉴定价值",
+      "type": "has"
+    },
+    {
+      "source": "凶手",
+      "target": "杀妻",
+      "type": "committed"
+    },
+    {
+      "source": "凶手",
+      "target": "分尸",
+      "type": "committed"
+    },
+    {
+      "source": "夏洪",
+      "target": "连倩倩",
+      "type": "relationship_to"
+    },
+    {
+      "source": "杀人",
+      "target": "狠手",
+      "type": "requires_great"
+    },
+    {
+      "source": "小两口儿",
+      "target": "温和",
+      "type": "were"
+    },
+    {
+      "source": "小两口儿",
+      "target": "深仇大恨",
+      "type": "did_not_have"
+    },
+    {
+      "source": "凶手",
+      "target": "撬门撬窗",
+      "type": "did_not_do"
+    },
+    {
+      "source": "熟人作案",
+      "target": "矛盾点",
+      "type": "has_prominent"
+    },
+    {
+      "source": "监控",
+      "target": "小区门口",
+      "type": "located_at"
+    },
+    {
+      "source": "杀人时间",
+      "target": "无法准确断定",
+      "type": "is"
+    },
+    {
+      "source": "监控",
+      "target": "泛泛地查",
+      "type": "is_difficult_to"
+    },
+    {
+      "source": "苏眉",
+      "target": "电脑",
+      "type": "uses"
+    },
+    {
+      "source": "苏眉",
+      "target": "血迹颜色差异",
+      "type": "observes"
+    },
+    {
+      "source": "女人",
+      "target": "颜色敏感",
+      "type": "is_considered"
+    },
+    {
+      "source": "血迹",
+      "target": "暴露在空气中的时间",
+      "type": "reflects"
+    },
+    {
+      "source": "血迹",
+      "target": "颜色",
+      "type": "has"
+    },
+    {
+      "source": "血迹",
+      "target": "深浅不一",
+      "type": "is"
+    },
+    {
+      "source": "凶手",
+      "target": "分好几次",
+      "type": "transfers_in"
+    }
+  ],
+  "hierarchy": {
+    "main_topics": [
+      "《第十一根手指》小说概述",
+      "油爆奇案（地沟油窝点与人骨发现）",
+      "特案组介入与尸块分析",
+      "下水道搜寻与连倩倩/夏洪失踪",
+      "连倩倩家中搜查与双重谋杀",
+      "残忍分尸与油炸处理",
+      "血迹分析与时间推断"
+    ],
+    "structure": "小说以章节形式展开，从作者序言引入小说背景，然后通过“油爆奇案”系列章节详细叙述案件的侦破过程，包括现场勘查、法医鉴定、特案组协作、下水道搜寻、嫌疑人住宅搜查以及对残忍作案手法的分析。每个章节内部又包含多个子情节和细节。"
+  }
+}

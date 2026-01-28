@@ -1,0 +1,522 @@
+{
+  "propositions": [
+    {
+      "id": "1",
+      "text": "远诚友加意识到他错误的可怕，因剧痛倒地。",
+      "level": 1
+    },
+    {
+      "id": "1.1",
+      "text": "他向人们伸出了戴着刻有标记金戒指的手指。",
+      "level": 2
+    },
+    {
+      "id": "2",
+      "text": "戴维向苏珊·弗莱切求婚。",
+      "level": 1
+    },
+    {
+      "id": "2.1",
+      "text": "苏珊·弗莱切从睡梦中被电话铃声惊醒。",
+      "level": 2
+    },
+    {
+      "id": "2.2",
+      "text": "戴维因紧急任务需要推迟与苏珊的出行。",
+      "level": 2
+    },
+    {
+      "id": "2.3",
+      "text": "戴维匆忙挂断电话离开。",
+      "level": 3
+    },
+    {
+      "id": "3",
+      "text": "苏珊·弗莱切接到斯特拉思莫尔局长电话。",
+      "level": 1
+    },
+    {
+      "id": "3.1",
+      "text": "局长要求苏珊立即前往，称是紧急任务。",
+      "level": 2
+    },
+    {
+      "id": "4",
+      "text": "戴维·贝克在飞机上，困扰于无法联系苏珊。",
+      "level": 1
+    },
+    {
+      "id": "4.1",
+      "text": "飞机上的电话故障。",
+      "level": 2
+    },
+    {
+      "id": "4.2",
+      "text": "他被告知不能拒绝某些人。",
+      "level": 2
+    },
+    {
+      "id": "5",
+      "text": "苏珊·弗莱切抵达国家安全局（NSA）。",
+      "level": 1
+    },
+    {
+      "id": "5.1",
+      "text": "她经过多重安全检查。",
+      "level": 2
+    },
+    {
+      "id": "5.2",
+      "text": "她通过了声音检测。",
+      "level": 3
+    },
+    {
+      "id": "6",
+      "text": "戴维·贝克在NSA工作。",
+      "level": 1
+    },
+    {
+      "id": "6.1",
+      "text": "贝克是乔治敦大学的正教授，精通多门语言。",
+      "level": 2
+    },
+    {
+      "id": "6.2",
+      "text": "贝克因翻译工作与苏珊相识。",
+      "level": 3
+    },
+    {
+      "id": "6.3",
+      "text": "他被NSA雇佣，从事“语言辨认”工作。",
+      "level": 4
+    },
+    {
+      "id": "6.4",
+      "text": "贝克帮助NSA破解了涉及日本汉字的密码。",
+      "level": 5
+    },
+    {
+      "id": "6.5",
+      "text": "贝克与苏珊·弗莱切相遇。",
+      "level": 6
+    },
+    {
+      "id": "6.6",
+      "text": "苏珊·弗莱切是NSA密码破译部的主任。",
+      "level": 7
+    },
+    {
+      "id": "7",
+      "text": "戴维·贝克和苏珊·弗莱切发展了恋爱关系。",
+      "level": 1
+    },
+    {
+      "id": "7.1",
+      "text": "他们谈论密码学和NSA。",
+      "level": 2
+    },
+    {
+      "id": "7.2",
+      "text": "苏珊向贝克描述了NSA的运作和通信情报系统。",
+      "level": 3
+    },
+    {
+      "id": "7.3",
+      "text": "他们探讨了密码的破解方法，从凯撒密码到Enigma。",
+      "level": 4
+    },
+    {
+      "id": "7.4",
+      "text": "贝克破解了苏珊给的简单密码。",
+      "level": 5
+    },
+    {
+      "id": "7.5",
+      "text": "贝克被苏珊吸引。",
+      "level": 6
+    },
+    {
+      "id": "7.6",
+      "text": "戴维向苏珊求婚。",
+      "level": 7
+    },
+    {
+      "id": "8",
+      "text": "NSA建造了“万能解密机”。",
+      "level": 1
+    },
+    {
+      "id": "8.1",
+      "text": "公钥加密法出现，使得传统破解方法失效。",
+      "level": 2
+    },
+    {
+      "id": "8.2",
+      "text": "万能解密机旨在破解复杂的公钥加密。",
+      "level": 3
+    },
+    {
+      "id": "8.3",
+      "text": "万能解密机取得了巨大的成功，破解了大量密码。",
+      "level": 4
+    },
+    {
+      "id": "8.4",
+      "text": "NSA散布谣言，制造邮件加密无法破解的假象。",
+      "level": 5
+    },
+    {
+      "id": "9",
+      "text": "苏珊·弗莱切在密码破译部工作。",
+      "level": 1
+    },
+    {
+      "id": "9.1",
+      "text": "密码破译部通常在周末无人，除非紧急任务。",
+      "level": 2
+    },
+    {
+      "id": "9.2",
+      "text": "她对万能解密机的工作原理感到敬畏。",
+      "level": 3
+    }
+  ],
+  "concepts": [
+    {
+      "name": "远诚友加",
+      "frequency": 4,
+      "context": "角色，故事开头出现"
+    },
+    {
+      "name": "时间",
+      "frequency": 1,
+      "context": "故事的设定"
+    },
+    {
+      "name": "地点",
+      "frequency": 1,
+      "context": "故事的设定"
+    },
+    {
+      "name": "金戒指",
+      "frequency": 1,
+      "context": "远诚友加的物品"
+    },
+    {
+      "name": "戴维",
+      "frequency": 1,
+      "context": "角色，苏珊的未婚夫"
+    },
+    {
+      "name": "苏珊·弗莱切",
+      "frequency": 22,
+      "context": "主角之一，NSA密码破译部主任"
+    },
+    {
+      "name": "电话",
+      "frequency": 6,
+      "context": "通信工具，引发情节发展"
+    },
+    {
+      "name": "斯特拉思莫尔",
+      "frequency": 3,
+      "context": "NSA局长"
+    },
+    {
+      "name": "紧急任务",
+      "frequency": 3,
+      "context": "推动情节发展的关键事件"
+    },
+    {
+      "name": "戴维·贝克",
+      "frequency": 15,
+      "context": "主角之一，NSA的语言专家，后成为苏珊的恋人"
+    },
+    {
+      "name": "飞机",
+      "frequency": 2,
+      "context": "交通工具，戴维出差的工具"
+    },
+    {
+      "name": "国家安全局（NSA）",
+      "frequency": 16,
+      "context": "重要机构，故事背景"
+    },
+    {
+      "name": "密码破译部",
+      "frequency": 9,
+      "context": "苏珊·弗莱切工作的部门"
+    },
+    {
+      "name": "安全检查",
+      "frequency": 4,
+      "context": "进入NSA的流程"
+    },
+    {
+      "name": "声音检测",
+      "frequency": 2,
+      "context": "一种安全验证方式"
+    },
+    {
+      "name": "教授",
+      "frequency": 2,
+      "context": "戴维·贝克的职业"
+    },
+    {
+      "name": "语言",
+      "frequency": 3,
+      "context": "戴维·贝克擅长的领域"
+    },
+    {
+      "name": "翻译",
+      "frequency": 2,
+      "context": "戴维·贝克的工作内容"
+    },
+    {
+      "name": "密码",
+      "frequency": 16,
+      "context": "故事的核心概念"
+    },
+    {
+      "name": "日本汉字",
+      "frequency": 2,
+      "context": "破解密码的关键信息"
+    },
+    {
+      "name": "恋爱",
+      "frequency": 1,
+      "context": "戴维和苏珊的关系发展"
+    },
+    {
+      "name": "通信情报系统",
+      "frequency": 2,
+      "context": "NSA的部门"
+    },
+    {
+      "name": "凯撒密码",
+      "frequency": 1,
+      "context": "历史上的密码技术"
+    },
+    {
+      "name": "Enigma",
+      "frequency": 1,
+      "context": "二战时期的加密机器"
+    },
+    {
+      "name": "公钥加密法",
+      "frequency": 6,
+      "context": "现代密码学技术"
+    },
+    {
+      "name": "万能解密机",
+      "frequency": 7,
+      "context": "NSA的超级计算机"
+    },
+    {
+      "name": "电子邮件",
+      "frequency": 3,
+      "context": "通信方式，与密码学相关"
+    },
+    {
+      "name": "量子计算",
+      "frequency": 1,
+      "context": "前沿科学技术，与万能解密机相关"
+    },
+    {
+      "name": "求婚",
+      "frequency": 1,
+      "context": "戴维和苏珊关系的关键事件"
+    }
+  ],
+  "relations": [
+    {
+      "source": "远诚友加",
+      "target": "错误",
+      "type": "perceived"
+    },
+    {
+      "source": "戴维",
+      "target": "苏珊·弗莱切",
+      "type": "proposes_marriage_to"
+    },
+    {
+      "source": "苏珊·弗莱切",
+      "target": "电话",
+      "type": "receives"
+    },
+    {
+      "source": "斯特拉思莫尔",
+      "target": "苏珊·弗莱切",
+      "type": "calls"
+    },
+    {
+      "source": "紧急任务",
+      "target": "苏珊·弗莱切",
+      "type": "assigned_to"
+    },
+    {
+      "source": "戴维·贝克",
+      "target": "苏珊·弗莱切",
+      "type": "wants_to_contact"
+    },
+    {
+      "source": "电话",
+      "target": "故障",
+      "type": "is_in_state"
+    },
+    {
+      "source": "苏珊·弗莱切",
+      "target": "国家安全局（NSA）",
+      "type": "goes_to"
+    },
+    {
+      "source": "国家安全局（NSA）",
+      "target": "安全检查",
+      "type": "requires"
+    },
+    {
+      "source": "苏珊·弗莱切",
+      "target": "声音检测",
+      "type": "passes"
+    },
+    {
+      "source": "戴维·贝克",
+      "target": "国家安全局（NSA）",
+      "type": "works_at"
+    },
+    {
+      "source": "戴维·贝克",
+      "target": "密码",
+      "type": "works_with"
+    },
+    {
+      "source": "戴维·贝克",
+      "target": "翻译",
+      "type": "performs"
+    },
+    {
+      "source": "戴维·贝克",
+      "target": "日本汉字",
+      "type": "uses_in_decryption"
+    },
+    {
+      "source": "戴维·贝克",
+      "target": "苏珊·弗莱切",
+      "type": "meets"
+    },
+    {
+      "source": "苏珊·弗莱切",
+      "target": "密码破译部",
+      "type": "heads"
+    },
+    {
+      "source": "苏珊·弗莱切",
+      "target": "密码",
+      "type": "works_with"
+    },
+    {
+      "source": "戴维·贝克",
+      "target": "苏珊·弗莱切",
+      "type": "romantically_involved_with"
+    },
+    {
+      "source": "戴维·贝克",
+      "target": "密码学",
+      "type": "discusses"
+    },
+    {
+      "source": "苏珊·弗莱切",
+      "target": "国家安全局（NSA）",
+      "type": "describes"
+    },
+    {
+      "source": "通信情报系统",
+      "target": "国家安全局（NSA）",
+      "type": "is_part_of"
+    },
+    {
+      "source": "密码",
+      "target": "凯撒密码",
+      "type": "includes_historical_form"
+    },
+    {
+      "source": "密码",
+      "target": "Enigma",
+      "type": "includes_historical_form"
+    },
+    {
+      "source": "苏珊·弗莱切",
+      "target": "密码",
+      "type": "demonstrates_breaking_of"
+    },
+    {
+      "source": "戴维·贝克",
+      "target": "密码",
+      "type": "learns_to_break"
+    },
+    {
+      "source": "国家安全局（NSA）",
+      "target": "万能解密机",
+      "type": "builds"
+    },
+    {
+      "source": "公钥加密法",
+      "target": "密码",
+      "type": "is_a_form_of"
+    },
+    {
+      "source": "万能解密机",
+      "target": "公钥加密法",
+      "type": "designed_to_break"
+    },
+    {
+      "source": "万能解密机",
+      "target": "密码",
+      "type": "breaks"
+    },
+    {
+      "source": "电子邮件",
+      "target": "密码",
+      "type": "uses"
+    },
+    {
+      "source": "量子计算",
+      "target": "万能解密机",
+      "type": "utilizes"
+    },
+    {
+      "source": "戴维·贝克",
+      "target": "求婚",
+      "type": "initiates"
+    },
+    {
+      "source": "苏珊·弗莱切",
+      "target": "求婚",
+      "type": "accepts"
+    },
+    {
+      "source": "密码破译部",
+      "target": "苏珊·弗莱切",
+      "type": "is_head_of"
+    },
+    {
+      "source": "密码破译部",
+      "target": "星期六",
+      "type": "usually_empty_on"
+    },
+    {
+      "source": "万能解密机",
+      "target": "密码破译部",
+      "type": "is_located_in"
+    }
+  ],
+  "hierarchy": {
+    "main_topics": [
+      "Character Introductions and Initial Plot Setup",
+      "NSA Operations and Character Roles",
+      "Development of Romance and Understanding of Cryptography",
+      "The Creation and Impact of the Universal Decryptor"
+    ],
+    "structure": "The document is structured chronologically, introducing characters and their initial situations, then detailing their involvement with the National Security Agency, exploring their developing relationship and understanding of cryptography, and finally focusing on the technological advancement of the Universal Decryptor and its implications."
+  }
+}

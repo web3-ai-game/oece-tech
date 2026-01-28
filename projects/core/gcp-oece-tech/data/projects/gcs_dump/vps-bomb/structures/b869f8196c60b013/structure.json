@@ -1,0 +1,110 @@
+{
+  "propositions": [
+    {
+      "id": "1",
+      "text": "The story revolves around a modern woman who traverses to an ancient era, facing mysteries of her identity and extraordinary skills.",
+      "level": 1
+    },
+    {
+      "id": "1.1",
+      "text": "She navigates survival in a foreign land with her medical expertise and unknown heritage.",
+      "level": 2
+    },
+    {
+      "id": "1.2",
+      "text": "Her journey involves complex romantic entanglements with multiple noble and powerful men.",
+      "level": 2
+    },
+    {
+      "id": "2",
+      "text": "Initial encounters shape her relationships, particularly with a prince who she saves using her medical skills.",
+      "level": 1
+    },
+    {
+      "id": "2.1",
+      "text": "The prince develops feelings for her, initiating a pursuit marked by caution and sincerity.",
+      "level": 2
+    },
+    {
+      "id": "3",
+      "text": "Court intrigues entangle her in power struggles, linking her mysterious past to the palace.",
+      "level": 1
+    },
+    {
+      "id": "3.1",
+      "text": "She becomes a focal point in political conflicts, using wit to protect herself and others.",
+      "level": 2
+    },
+    {
+      "id": "4",
+      "text": "Romantic rivalries emerge as her charm attracts multiple suitors, intensifying emotional conflicts.",
+      "level": 1
+    },
+    {
+      "id": "5",
+      "text": "Her true identity is revealed, leading to critical decisions affecting her fate and the kingdom's future.",
+      "level": 1
+    },
+    {
+      "id": "5.1",
+      "text": "She resolves her destiny with resilience, crafting a legendary tale of her own.",
+      "level": 2
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Traversal",
+      "frequency": 3,
+      "context": "Modern woman crossing into an ancient world."
+    },
+    {
+      "name": "Identity Mystery",
+      "frequency": 5,
+      "context": "Unknown heritage and past connections to the palace."
+    },
+    {
+      "name": "Medical Skills",
+      "frequency": 4,
+      "context": "Her expertise as a tool for survival and influence."
+    },
+    {
+      "name": "Romantic Entanglements",
+      "frequency": 6,
+      "context": "Complex relationships with multiple male figures."
+    },
+    {
+      "name": "Power Struggles",
+      "frequency": 3,
+      "context": "Court intrigues and political conflicts."
+    }
+  ],
+  "relations": [
+    {
+      "source": "Traversal",
+      "target": "Identity Mystery",
+      "type": "implies"
+    },
+    {
+      "source": "Identity Mystery",
+      "target": "Power Struggles",
+      "type": "part_of"
+    },
+    {
+      "source": "Medical Skills",
+      "target": "Romantic Entanglements",
+      "type": "enables"
+    },
+    {
+      "source": "Romantic Entanglements",
+      "target": "Power Struggles",
+      "type": "complicates"
+    }
+  ],
+  "hierarchy": {
+    "main_topics": [
+      "Traversal and Survival",
+      "Romantic and Political Conflicts"
+    ],
+    "structure": "The document follows a chronological narrative structure, divided into chapters that trace the protagonist's journey from traversal to resolution of identity and romantic-political conflicts."
+  }
+}

@@ -1,0 +1,206 @@
+{
+  "propositions": [
+    {
+      "id": "1",
+      "text": "The document is titled '（古代重生）重生之尽风流---似是故人来'.",
+      "level": 1
+    },
+    {
+      "id": "1.1",
+      "text": "The document contains a prologue labeled '楔子'.",
+      "level": 2
+    },
+    {
+      "id": "1.1.1",
+      "text": "The prologue describes a sentiment of '风流倜傥，快意恩仇'.",
+      "level": 3
+    },
+    {
+      "id": "1.2",
+      "text": "The document contains a chapter labeled '第一章'.",
+      "level": 2
+    },
+    {
+      "id": "1.2.1",
+      "text": "Chapter 1 begins with a quote: '既见君子，乐且有仪。'",
+      "level": 3
+    },
+    {
+      "id": "1.2.2",
+      "text": "A descriptive sentence follows: '风儿轻轻地吹过，带走了夏日炎炎的燥热。'",
+      "level": 3
+    },
+    {
+      "id": "1.2.3",
+      "text": "A numbered list is presented under section '1.2'.",
+      "level": 3
+    },
+    {
+      "id": "1.2.3.1",
+      "text": "The first item in the list is '第一点。'",
+      "level": 4
+    },
+    {
+      "id": "1.2.3.2",
+      "text": "The second item in the list is '第二点。'",
+      "level": 4
+    },
+    {
+      "id": "1.2.3.3",
+      "text": "The third item in the list is '第三点。'",
+      "level": 4
+    },
+    {
+      "id": "1.2.4",
+      "text": "A multi-line quote is presented: '故人西辞黄鹤楼，烟花三月下扬州。孤帆远影碧空尽，唯见长江天际流。'",
+      "level": 3
+    },
+    {
+      "id": "1.2.5",
+      "text": "A Python code block is included: 'def hello_world(): print(\"Hello, world!\")'.",
+      "level": 3
+    },
+    {
+      "id": "1.2.6",
+      "text": "A section labeled '1.3' follows, containing a repetition of the document title.",
+      "level": 3
+    }
+  ],
+  "concepts": [
+    {
+      "name": "（古代重生）重生之尽风流---似是故人来",
+      "frequency": 2,
+      "context": "The main title of the document and repeated in section 1.3."
+    },
+    {
+      "name": "楔子",
+      "frequency": 1,
+      "context": "Label for the prologue section."
+    },
+    {
+      "name": "风流倜傥，快意恩仇",
+      "frequency": 1,
+      "context": "Descriptive phrase within the prologue."
+    },
+    {
+      "name": "第一章",
+      "frequency": 1,
+      "context": "Label for the first chapter."
+    },
+    {
+      "name": "既见君子，乐且有仪",
+      "frequency": 1,
+      "context": "A quote opening Chapter 1."
+    },
+    {
+      "name": "风儿轻轻地吹过，带走了夏日炎炎的燥热",
+      "frequency": 1,
+      "context": "Descriptive sentence in Chapter 1."
+    },
+    {
+      "name": "第一点",
+      "frequency": 1,
+      "context": "First item in a numbered list."
+    },
+    {
+      "name": "第二点",
+      "frequency": 1,
+      "context": "Second item in a numbered list."
+    },
+    {
+      "name": "第三点",
+      "frequency": 1,
+      "context": "Third item in a numbered list."
+    },
+    {
+      "name": "故人西辞黄鹤楼，烟花三月下扬州。孤帆远影碧空尽，唯见长江天际流",
+      "frequency": 1,
+      "context": "A multi-line quote in Chapter 1."
+    },
+    {
+      "name": "def hello_world(): print(\"Hello, world!\")",
+      "frequency": 1,
+      "context": "A Python code block in Chapter 1."
+    },
+    {
+      "name": "1.3",
+      "frequency": 1,
+      "context": "A section label within Chapter 1."
+    }
+  ],
+  "relations": [
+    {
+      "source": "（古代重生）重生之尽风流---似是故人来",
+      "target": "楔子",
+      "type": "contains_section"
+    },
+    {
+      "source": "楔子",
+      "target": "风流倜傥，快意恩仇",
+      "type": "describes"
+    },
+    {
+      "source": "（古代重生）重生之尽风流---似是故人来",
+      "target": "第一章",
+      "type": "contains_section"
+    },
+    {
+      "source": "第一章",
+      "target": "既见君子，乐且有仪",
+      "type": "starts_with_quote"
+    },
+    {
+      "source": "第一章",
+      "target": "风儿轻轻地吹过，带走了夏日炎炎的燥热",
+      "type": "contains_proposition"
+    },
+    {
+      "source": "第一章",
+      "target": "1.2",
+      "type": "contains_section"
+    },
+    {
+      "source": "1.2",
+      "target": "第一点",
+      "type": "contains_list_item"
+    },
+    {
+      "source": "1.2",
+      "target": "第二点",
+      "type": "contains_list_item"
+    },
+    {
+      "source": "1.2",
+      "target": "第三点",
+      "type": "contains_list_item"
+    },
+    {
+      "source": "第一章",
+      "target": "故人西辞黄鹤楼，烟花三月下扬州。孤帆远影碧空尽，唯见长江天际流",
+      "type": "contains_quote"
+    },
+    {
+      "source": "第一章",
+      "target": "def hello_world(): print(\"Hello, world!\")",
+      "type": "contains_code"
+    },
+    {
+      "source": "第一章",
+      "target": "1.3",
+      "type": "contains_section"
+    },
+    {
+      "source": "1.3",
+      "target": "（古代重生）重生之尽风流---似是故人来",
+      "type": "repeats_title"
+    }
+  ],
+  "hierarchy": {
+    "main_topics": [
+      "（古代重生）重生之尽风流---似是故人来",
+      "楔子",
+      "第一章"
+    ],
+    "structure": "The document is organized into a main title, a prologue (楔子), and a first chapter (第一章). The first chapter contains sub-sections, quotes, and code examples."
+  }
+}

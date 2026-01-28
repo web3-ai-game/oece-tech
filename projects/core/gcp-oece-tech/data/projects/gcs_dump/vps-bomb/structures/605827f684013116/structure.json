@@ -1,0 +1,373 @@
+{
+  "propositions": [
+    {
+      "id": "1",
+      "text": "The story begins in Vancouver with the narrator working late in a Chinese restaurant.",
+      "level": 1
+    },
+    {
+      "id": "1.1",
+      "text": "A stranger named Mr. Cai enters the restaurant and shares his story.",
+      "level": 2
+    },
+    {
+      "id": "1.1.1",
+      "text": "Mr. Cai claims to have an 'old corpse' in his home.",
+      "level": 3
+    },
+    {
+      "id": "2",
+      "text": "The narrator, a physics teacher, recounts his seemingly normal family life.",
+      "level": 1
+    },
+    {
+      "id": "2.1",
+      "text": "He encounters a fortune teller who warns him of impending disaster and mentions 'old corpses'.",
+      "level": 2
+    },
+    {
+      "id": "2.1.1",
+      "text": "The fortune teller initially mistakes the narrator for an 'old corpse' due to his 'heavy yin energy'.",
+      "level": 3
+    },
+    {
+      "id": "2.1.2",
+      "text": "She reveals that his stepmother, who works at a funeral home as a makeup artist, might be involved with 'old corpses'.",
+      "level": 3
+    },
+    {
+      "id": "2.1.3",
+      "text": "The fortune teller provides a cryptic warning and a method to kill a 'thousand-year-old corpse' using aged vinegar during a full moon at midnight.",
+      "level": 3
+    },
+    {
+      "id": "2.2",
+      "text": "The narrator dismisses the fortune teller's words but later discovers red markings on his calendar, indicating full moon nights.",
+      "level": 2
+    },
+    {
+      "id": "2.3",
+      "text": "He suspects his stepmother is the 'old corpse'.",
+      "level": 2
+    },
+    {
+      "id": "2.4",
+      "text": "The narrator attempts to use a ritualistic method with aged vinegar to expose the 'old corpse'.",
+      "level": 2
+    },
+    {
+      "id": "2.4.1",
+      "text": "The ritual with aged vinegar fails to reveal the 'old corpse' within his stepmother.",
+      "level": 3
+    },
+    {
+      "id": "2.5",
+      "text": "He confronts his stepmother, who reveals that she too is aware of the 'old corpse' phenomenon.",
+      "level": 2
+    },
+    {
+      "id": "2.6",
+      "text": "The stepmother is subsequently revealed to be the narrator, who is actually a 'thousand-year-old corpse'.",
+      "level": 2
+    },
+    {
+      "id": "2.7",
+      "text": "The narrator's father is revealed to be the true 'old corpse'.",
+      "level": 2
+    },
+    {
+      "id": "2.8",
+      "text": "The narrator's wife is revealed to be a 'red-faced old corpse'.",
+      "level": 2
+    },
+    {
+      "id": "2.9",
+      "text": "The narrator's son is cleared of being an 'old corpse' when his heart is found to be beating.",
+      "level": 2
+    },
+    {
+      "id": "2.10",
+      "text": "The narrator learns that his wife's CT scan results showing no internal organs were confused with his own.",
+      "level": 2
+    },
+    {
+      "id": "3",
+      "text": "The narrative shifts to an 'Old Corpse Inn' in the Tang Dynasty, involving Li Chunfeng and Yuan Tiangang searching for an imperial tomb.",
+      "level": 1
+    },
+    {
+      "id": "3.1",
+      "text": "A lone orphan boy with a dog named Ah Huang lives in a small village.",
+      "level": 2
+    },
+    {
+      "id": "3.1.1",
+      "text": "The boy decides to sell his house and move to Xianyang to find work.",
+      "level": 3
+    },
+    {
+      "id": "3.2",
+      "text": "In Xianyang, he is unable to find work and decides to enroll in a private detective training class.",
+      "level": 2
+    },
+    {
+      "id": "3.2.1",
+      "text": "He is told he cannot bring his dog, Ah Huang, to the training.",
+      "level": 3
+    },
+    {
+      "id": "3.3",
+      "text": "A young girl and a man offer him chocolate for his dog, Ah Huang.",
+      "level": 2
+    },
+    {
+      "id": "4",
+      "text": "Mr. Cai, the narrator of the initial story, is revealed to be an 'old corpse' from Huangshan.",
+      "level": 1
+    },
+    {
+      "id": "4.1",
+      "text": "He explains that the aged vinegar he used was a modern chemical concoction and lacked the efficacy of traditional vinegar.",
+      "level": 2
+    },
+    {
+      "id": "4.2",
+      "text": "Mr. Cai explains that he became an 'old corpse' after a coma in the Huangshan hospital a year prior.",
+      "level": 2
+    },
+    {
+      "id": "5",
+      "text": "The narrator of the initial story reveals himself to be an 'old corpse' as well.",
+      "level": 1
+    }
+  ],
+  "concepts": [
+    {
+      "name": "老尸 (Old Corpse)",
+      "frequency": 24,
+      "context": "The central supernatural entity or state in the story, referring to a corpse that has retained a form of life or consciousness, and can possess or inhabit a living body. There are different types and origins of 'old corpses'."
+    },
+    {
+      "name": "月圆之夜 (Full Moon Night)",
+      "frequency": 9,
+      "context": "A recurring motif, specifically the night of the full moon, which is crucial for the 'old corpse's' rituals, particularly '蜕皮' (skin shedding)."
+    },
+    {
+      "name": "子时 (Midnight)",
+      "frequency": 6,
+      "context": "The specific hour of midnight, often paired with the full moon night, during which the 'old corpse's' '蜕皮' (skin shedding) is most potent."
+    },
+    {
+      "name": "山西老醋 (Shanxi Aged Vinegar)",
+      "frequency": 7,
+      "context": "A key element in the folk remedy for dealing with 'old corpses'. Its effectiveness is debated and dependent on its traditional brewing."
+    },
+    {
+      "name": "蜕皮 (Skin Shedding)",
+      "frequency": 5,
+      "context": "The process by which an 'old corpse' rejuvenates or sheds its older form, typically occurring during the full moon at midnight."
+    },
+    {
+      "name": "算命先生 (Fortune Teller)",
+      "frequency": 3,
+      "context": "Characters who possess knowledge of the supernatural and attempt to warn or guide others about 'old corpses'."
+    },
+    {
+      "name": "后妈 (Stepmother)",
+      "frequency": 8,
+      "context": "A significant character who is initially suspected of being an 'old corpse' but is later revealed to be a protector and aware of the supernatural phenomena."
+    },
+    {
+      "name": "父亲 (Father)",
+      "frequency": 10,
+      "context": "Initially perceived as a normal father, later revealed to be a 'thousand-year-old corpse' who visits a bathhouse to pray for his deceased wife."
+    },
+    {
+      "name": "妻子 (Wife)",
+      "frequency": 11,
+      "context": "The narrator's wife, who is eventually revealed to be a 'red-faced old corpse' and the true antagonist responsible for murders."
+    },
+    {
+      "name": "儿子 (Son)",
+      "frequency": 10,
+      "context": "The narrator's son, who is initially suspected of being an 'old corpse' but is later confirmed to be human."
+    },
+    {
+      "name": "CT扫描 (CT Scan)",
+      "frequency": 5,
+      "context": "A medical diagnostic tool that becomes a crucial piece of evidence, leading to misunderstandings about the son's health and the wife's identity."
+    },
+    {
+      "name": "黄山医院 (Huangshan Hospital)",
+      "frequency": 3,
+      "context": "The location where the narrator's son was treated after a car accident, and where the 'old corpse' phenomenon likely began for Mr. Cai."
+    },
+    {
+      "name": "洗浴中心 (Bathhouse/Spa)",
+      "frequency": 3,
+      "context": "The place where the narrator's father visits monthly to pray for his deceased wife, which is mistaken for a 'skin shedding' ritual."
+    },
+    {
+      "name": "符 (Talisman/Charm)",
+      "frequency": 2,
+      "context": "A charm provided by the fortune teller, intended to help expel an 'old corpse' when burned and mixed with tea."
+    },
+    {
+      "name": "李淳风 (Li Chunfeng)",
+      "frequency": 1,
+      "context": "Historical figure from the Tang Dynasty, involved in a prologue about searching for an imperial tomb."
+    },
+    {
+      "name": "袁天罡 (Yuan Tiangang)",
+      "frequency": 1,
+      "context": "Historical figure from the Tang Dynasty, involved in a prologue about searching for an imperial tomb."
+    },
+    {
+      "name": "阿黄 (Ah Huang)",
+      "frequency": 5,
+      "context": "The narrator's loyal and large dog, who accompanies him and is believed to have potential as a 'detective dog'."
+    },
+    {
+      "name": "私家侦探 (Private Detective)",
+      "frequency": 2,
+      "context": "The profession the narrator aspires to, linked to solving mysteries and investigating cases."
+    },
+    {
+      "name": "皮屑 (Dandruff/Skin Flakes)",
+      "frequency": 3,
+      "context": "Physical evidence found on the bedsheets, initially leading to suspicion about the wife and later revealed to be the narrator's own shedding."
+    }
+  ],
+  "relations": [
+    {
+      "source": "老尸",
+      "target": "月圆之夜",
+      "type": "occurs_on"
+    },
+    {
+      "source": "老尸",
+      "target": "子时",
+      "type": "occurs_on"
+    },
+    {
+      "source": "老尸",
+      "target": "蜕皮",
+      "type": "performs"
+    },
+    {
+      "source": "山西老醋",
+      "target": "老尸",
+      "type": "used_to_kill"
+    },
+    {
+      "source": "算命先生",
+      "target": "老尸",
+      "type": "knows_about"
+    },
+    {
+      "source": "算命先生",
+      "target": "符",
+      "type": "provides"
+    },
+    {
+      "source": "后妈",
+      "target": "老尸",
+      "type": "suspected_of_being"
+    },
+    {
+      "source": "父亲",
+      "target": "老尸",
+      "type": "is_a"
+    },
+    {
+      "source": "妻子",
+      "target": "老尸",
+      "type": "is_a"
+    },
+    {
+      "source": "儿子",
+      "target": "老尸",
+      "type": "initially_suspected_of_being"
+    },
+    {
+      "source": "儿子",
+      "target": "心脏",
+      "type": "has"
+    },
+    {
+      "source": "CT扫描",
+      "target": "儿子",
+      "type": "shows_results_for"
+    },
+    {
+      "source": "CT扫描",
+      "target": "妻子",
+      "type": "shows_results_for"
+    },
+    {
+      "source": "黄山医院",
+      "target": "CT扫描",
+      "type": "performed_at"
+    },
+    {
+      "source": "洗浴中心",
+      "target": "父亲",
+      "type": "visits"
+    },
+    {
+      "source": "洗浴中心",
+      "target": "祈祷",
+      "type": "location_for"
+    },
+    {
+      "source": "阿黄",
+      "target": "狗",
+      "type": "is_a"
+    },
+    {
+      "source": "阿黄",
+      "target": "私家侦探",
+      "type": "potential_assistant_to"
+    },
+    {
+      "source": "皮屑",
+      "target": "床单",
+      "type": "found_on"
+    },
+    {
+      "source": "皮屑",
+      "target": "叙述者",
+      "type": "originates_from"
+    },
+    {
+      "source": "李淳风",
+      "target": "唐仪凤年间",
+      "type": "active_in"
+    },
+    {
+      "source": "袁天罡",
+      "target": "唐仪凤年间",
+      "type": "active_in"
+    },
+    {
+      "source": "李淳风",
+      "target": "陵寝",
+      "type": "searches_for"
+    },
+    {
+      "source": "袁天罡",
+      "target": "陵寝",
+      "type": "searches_for"
+    }
+  ],
+  "hierarchy": {
+    "main_topics": [
+      "The Nature of 'Old Corpses'",
+      "Supernatural Encounters and Folk Remedies",
+      "Family Secrets and Deception",
+      "The 'Old Corpse Inn' Prologue and Orphan's Journey",
+      "Unraveling the Mystery of the 'Old Corpse'"
+    ],
+    "structure": "The document is structured in a nonlinear fashion, beginning with a framing narrative in Vancouver, then delving into a complex, interwoven story of supernatural events, mistaken identities, and family secrets. It includes a prologue set in the Tang Dynasty and a separate narrative about an orphan aspiring to be a private detective, which seems to connect later. The core of the story revolves around the narrator's investigation into 'old corpses' within his own family, leading to dramatic revelations and betrayals. The narrative progresses through multiple chapters, often jumping between different characters' perspectives and timelines, culminating in the narrator's own realization and the final unveiling of the 'true' old corpses."
+  }
+}

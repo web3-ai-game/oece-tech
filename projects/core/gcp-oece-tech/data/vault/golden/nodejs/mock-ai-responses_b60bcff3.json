@@ -1,0 +1,51 @@
+{
+  "visa-assistant": {
+    "thailand": {
+      "question": "我想去泰国做数字游民，应该申请什么签证？",
+      "response": "根据你的情况，我推荐以下签证选项：\n\n1. **DTV数字游民签证**（最推荐）\n   - 有效期：5年多次往返\n   - 每次停留：180天\n   - 费用：约10,000泰铢\n   - 要求：月收入$3,500以上\n\n2. **Smart Visa**\n   - 适合技术人才\n   - 有效期：4年\n   - 无需90天报到\n\n建议优先申请DTV，性价比最高！"
+    }
+  },
+  "cost-of-living": {
+    "bangkok": {
+      "city": "曼谷",
+      "monthlyBudget": {
+        "low": 800,
+        "medium": 1500,
+        "high": 3000
+      },
+      "breakdown": {
+        "rent": { "low": 300, "medium": 600, "high": 1200 },
+        "food": { "low": 200, "medium": 400, "high": 800 },
+        "transport": { "low": 50, "medium": 100, "high": 200 },
+        "utilities": { "low": 50, "medium": 100, "high": 200 },
+        "entertainment": { "low": 200, "medium": 300, "high": 600 }
+      }
+    }
+  },
+  "planner": {
+    "seAsia3Months": {
+      "title": "东南亚3个月深度游",
+      "itinerary": [
+        {
+          "city": "曼谷",
+          "duration": "30天",
+          "highlights": ["大皇宫", "Chatuchak周末市场", "Coworking Space"],
+          "estimated_cost": "$1,500"
+        },
+        {
+          "city": "清迈",
+          "duration": "30天",
+          "highlights": ["古城", "Doi Suthep", "数字游民社群"],
+          "estimated_cost": "$1,200"
+        },
+        {
+          "city": "巴厘岛",
+          "duration": "30天",
+          "highlights": ["乌布", "Canggu冲浪", "瑜伽静修"],
+          "estimated_cost": "$1,800"
+        }
+      ],
+      "total_cost": "$4,500"
+    }
+  }
+}

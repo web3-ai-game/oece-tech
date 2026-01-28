@@ -1,0 +1,37 @@
+{
+  "name": "oece-tech",
+  "version": "1.0.0",
+  "description": "Digital Nomad Dev Blog - oece.tech",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start -p 3000",
+    "pm2:start": "pm2 start ecosystem.config.js",
+    "pm2:stop": "pm2 stop ecosystem.config.js",
+    "pm2:reload": "pm2 reload ecosystem.config.js",
+    "pm2:restart": "pm2 restart ecosystem.config.js",
+    "pm2:delete": "pm2 delete ecosystem.config.js",
+    "pm2:logs": "pm2 logs oece-web",
+    "pm2:monit": "pm2 monit"
+  },
+  "dependencies": {
+    "gray-matter": "^4.0.3",
+    "lucide-react": "^0.546.0",
+    "next": "^14.0.0",
+    "pm2": "^6.0.9",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-markdown": "^9.0.0",
+    "remark-gfm": "^4.0.0",
+    "serve": "^14.2.1"
+  },
+  "devDependencies": {
+    "@types/node": "20.19.23",
+    "@types/react": "^18.2.0",
+    "http-server": "^14.1.1",
+    "typescript": "5.9.3"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "propositions": [
+    {
+      "id": "1",
+      "text": "Time is the source of human social civilization and plays a crucial role in its development.",
+      "level": 1
+    },
+    {
+      "id": "1.1",
+      "text": "Human progress is viewed from the perspective of humanity itself.",
+      "level": 2
+    },
+    {
+      "id": "1.2",
+      "text": "Time is integral to our lives and personal development.",
+      "level": 2
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Time",
+      "frequency": 100,
+      "context": "Central theme related to human civilization and personal life"
+    },
+    {
+      "name": "Human Civilization",
+      "frequency": 5,
+      "context": "Development and progress of society"
+    },
+    {
+      "name": "Progress",
+      "frequency": 3,
+      "context": "Advancement from a human perspective"
+    }
+  ],
+  "relations": [
+    {
+      "source": "Time",
+      "target": "Human Civilization",
+      "type": "influences"
+    },
+    {
+      "source": "Human Civilization",
+      "target": "Progress",
+      "type": "results_in"
+    },
+    {
+      "source": "Time",
+      "target": "Progress",
+      "type": "enables"
+    }
+  ],
+  "hierarchy": {
+    "main_topics": [
+      "Time",
+      "Human Civilization and Progress"
+    ],
+    "structure": "The document starts with a focus on time as a foundational element of human civilization, branching into discussions of progress and personal life."
+  }
+}

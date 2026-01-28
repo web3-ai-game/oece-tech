@@ -1,0 +1,259 @@
+{
+  "propositions": [
+    {
+      "id": "1",
+      "text": "《天机二·罗刹之国》是一部引人入胜的作品，探讨了在一个名为“罗刹之国”的奇特领域中，一位名叫“罗刹”的人物所经历的冒险。",
+      "level": 1
+    },
+    {
+      "id": "1.1",
+      "text": "这篇文章通过详细的叙述，揭示了罗刹的内心世界、他所面临的挑战以及他如何在这个充满神秘和危险的世界中寻找自己的道路。",
+      "level": 2
+    },
+    {
+      "id": "2",
+      "text": "罗刹，一个在罗刹之国中长大的年轻人，从小就对这个世界的秘密着迷。",
+      "level": 1
+    },
+    {
+      "id": "2.1",
+      "text": "他身怀绝技，以其非凡的勇气和智慧闻名。",
+      "level": 2
+    },
+    {
+      "id": "2.2",
+      "text": "故事开始于罗刹接受一项危险的任务，这次任务将他带入罗刹之国的核心地带，那里隐藏着足以改变世界命运的古老秘密。",
+      "level": 2
+    },
+    {
+      "id": "3",
+      "text": "罗刹之国是一个独特的地方，其社会结构、文化习俗以及居民的信仰都与众不同。",
+      "level": 1
+    },
+    {
+      "id": "3.1",
+      "text": "罗刹在这样的环境中长大，深受其影响，但也因此对世界的运转方式产生了深刻的疑问。",
+      "level": 2
+    },
+    {
+      "id": "4",
+      "text": "罗刹的冒险充满了未知和挑战。",
+      "level": 1
+    },
+    {
+      "id": "4.1",
+      "text": "他穿越了险峻的山脉，潜入了幽深的洞穴，甚至与传说中的生物进行了搏斗。",
+      "level": 2
+    },
+    {
+      "id": "5",
+      "text": "在旅途中，罗刹遭遇了许多意想不到的困难。",
+      "level": 1
+    },
+    {
+      "id": "5.1",
+      "text": "他曾被强大的敌人追击，也曾面临艰难的选择，每一次挑战都让他对生命和勇气有了更深刻的理解。",
+      "level": 2
+    },
+    {
+      "id": "5.1.1",
+      "text": "罗刹面对的敌人并非只有武力强大，他们还擅长心理战术，试图动摇罗刹的决心。",
+      "level": 3
+    },
+    {
+      "id": "5.1.2",
+      "text": "罗刹之国的环境本身就是一种考验，无论是恶劣的天气还是危险的地形，都给他的旅途增添了难度。",
+      "level": 3
+    },
+    {
+      "id": "5.1.3",
+      "text": "除了外部的挑战，罗刹也必须面对自己内心的恐惧和疑虑。",
+      "level": 3
+    },
+    {
+      "id": "6",
+      "text": "随着冒险的深入，罗刹逐渐意识到自己肩负的使命比他最初想象的要重要得多。",
+      "level": 1
+    },
+    {
+      "id": "6.1",
+      "text": "他开始探索自己的潜能，并在这个过程中获得了成长。",
+      "level": 2
+    },
+    {
+      "id": "7",
+      "text": "罗刹通过不断的实践和学习，不断提升自己的战斗技巧和应变能力。",
+      "level": 1
+    },
+    {
+      "id": "8",
+      "text": "“每一次的失败都是通往成功的垫脚石。”",
+      "level": 2
+    },
+    {
+      "id": "9",
+      "text": "罗刹从一个单纯的冒险者，逐渐成长为一个有责任感、有担当的领袖。",
+      "level": 1
+    },
+    {
+      "id": "9.1",
+      "text": "他对世界的看法也发生了深刻的转变，从最初的好奇变成了对守护的决心。",
+      "level": 2
+    },
+    {
+      "id": "10",
+      "text": "罗刹之国隐藏着一个关于其起源和命运的古老秘密。",
+      "level": 1
+    },
+    {
+      "id": "10.1",
+      "text": "这个秘密不仅关乎罗刹的个人命运，更可能影响整个世界的未来。",
+      "level": 2
+    },
+    {
+      "id": "11",
+      "text": "关于罗刹之国，流传着一个古老的预言，预言着一位英雄的出现，他将带领这个国家走出黑暗，迎来光明。",
+      "level": 1
+    },
+    {
+      "id": "12",
+      "text": "罗刹最终完成了他的使命，但也付出了巨大的代价。",
+      "level": 1
+    },
+    {
+      "id": "12.1",
+      "text": "他在这个过程中所获得的经验和教训，不仅影响了他自己，也为罗刹之国带来了新的希望。",
+      "level": 2
+    },
+    {
+      "id": "13",
+      "text": "罗刹的勇气和牺牲，为罗刹之国带来了和平与繁荣。",
+      "level": 1
+    },
+    {
+      "id": "14",
+      "text": "故事也深入探讨了人性中的善与恶，勇气与怯懦，以及爱与失去。",
+      "level": 1
+    }
+  ],
+  "concepts": [
+    {
+      "name": "罗刹之国",
+      "frequency": 10,
+      "context": "The unique realm where the story takes place, characterized by its distinct social structure, culture, and beliefs, and holding ancient secrets about its origin and destiny."
+    },
+    {
+      "name": "罗刹",
+      "frequency": 15,
+      "context": "The protagonist of the story, a young man from the '罗刹之国' who embarks on an adventure, facing challenges, growing, and eventually fulfilling a mission."
+    },
+    {
+      "name": "冒险",
+      "frequency": 4,
+      "context": "The central activity of the protagonist, involving travel through dangerous terrains, encounters with mythical creatures, and facing various challenges."
+    },
+    {
+      "name": "秘密",
+      "frequency": 3,
+      "context": "Ancient secrets hidden within the '罗刹之国' that are crucial to the protagonist's destiny and potentially the world's future."
+    },
+    {
+      "name": "挑战",
+      "frequency": 5,
+      "context": "The obstacles and difficulties faced by the protagonist during his adventure, including enemies, environmental hazards, and internal struggles."
+    },
+    {
+      "name": "成长",
+      "frequency": 4,
+      "context": "The development of the protagonist, both in terms of skills and character, throughout his journey and experiences."
+    },
+    {
+      "name": "预言",
+      "frequency": 2,
+      "context": "An ancient prophecy related to the '罗刹之国' foretelling the rise of a hero."
+    },
+    {
+      "name": "人性",
+      "frequency": 2,
+      "context": "A theme explored in the story, encompassing aspects like good and evil, courage and cowardice, love and loss."
+    }
+  ],
+  "relations": [
+    {
+      "source": "罗刹",
+      "target": "罗刹之国",
+      "type": "resides_in"
+    },
+    {
+      "source": "罗刹",
+      "target": "冒险",
+      "type": "undertakes"
+    },
+    {
+      "source": "罗刹",
+      "target": "挑战",
+      "type": "faces"
+    },
+    {
+      "source": "罗刹",
+      "target": "成长",
+      "type": "undergoes"
+    },
+    {
+      "source": "罗刹之国",
+      "target": "秘密",
+      "type": "contains"
+    },
+    {
+      "source": "罗刹之国",
+      "target": "预言",
+      "type": "associated_with"
+    },
+    {
+      "source": "罗刹",
+      "target": "人性",
+      "type": "explores"
+    },
+    {
+      "source": "冒险",
+      "target": "挑战",
+      "type": "involves"
+    },
+    {
+      "source": "挑战",
+      "target": "敌人",
+      "type": "includes"
+    },
+    {
+      "source": "挑战",
+      "target": "环境",
+      "type": "includes"
+    },
+    {
+      "source": "挑战",
+      "target": "内心斗争",
+      "type": "includes"
+    },
+    {
+      "source": "秘密",
+      "target": "罗刹的命运",
+      "type": "affects"
+    },
+    {
+      "source": "预言",
+      "target": "英雄",
+      "type": "foretells"
+    }
+  ],
+  "hierarchy": {
+    "main_topics": [
+      "Introduction",
+      "Protagonist's Background",
+      "Protagonist's Adventure",
+      "Protagonist's Growth and Awakening",
+      "Secrets of the '罗刹之国'",
+      "Conclusion and Reflection"
+    ],
+    "structure": "The document is structured hierarchically with a main title, followed by numbered sections that are further subdivided into sub-sections, creating a clear outline of the narrative's progression and thematic elements."
+  }
+}

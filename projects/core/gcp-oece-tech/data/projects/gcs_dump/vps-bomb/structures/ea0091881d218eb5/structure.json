@@ -1,0 +1,191 @@
+{
+  "propositions": [
+    {
+      "id": "1",
+      "text": "The document appears to be a narrative text, likely a novel or story.",
+      "level": 1
+    },
+    {
+      "id": "2",
+      "text": "The narrative involves characters and their interactions.",
+      "level": 1
+    },
+    {
+      "id": "3",
+      "text": "There are descriptions of emotions and thoughts.",
+      "level": 1
+    },
+    {
+      "id": "4",
+      "text": "The text contains dialogue or implied dialogue.",
+      "level": 1
+    },
+    {
+      "id": "5",
+      "text": "There are mentions of time and events.",
+      "level": 1
+    },
+    {
+      "id": "6",
+      "text": "The text seems to explore themes of relationships and destiny.",
+      "level": 1
+    },
+    {
+      "id": "7",
+      "text": "There are references to physical environments.",
+      "level": 1
+    },
+    {
+      "id": "8",
+      "text": "The text utilizes descriptive language.",
+      "level": 1
+    },
+    {
+      "id": "9",
+      "text": "The document contains a significant amount of character interactions and internal monologues.",
+      "level": 2
+    },
+    {
+      "id": "10",
+      "text": "The presence of dialogue and character thought processes suggests a focus on character development and plot progression.",
+      "level": 2
+    },
+    {
+      "id": "11",
+      "text": "The exploration of themes implies a deeper narrative purpose beyond simple storytelling.",
+      "level": 2
+    },
+    {
+      "id": "12",
+      "text": "The descriptive elements contribute to world-building and atmosphere.",
+      "level": 2
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Characters",
+      "frequency": 100,
+      "context": "The text is filled with references to characters, their actions, thoughts, and interactions."
+    },
+    {
+      "name": "Emotions",
+      "frequency": 50,
+      "context": "The narrative frequently describes the feelings and emotional states of characters."
+    },
+    {
+      "name": "Thoughts",
+      "frequency": 45,
+      "context": "Internal monologues and character reflections are a prominent feature."
+    },
+    {
+      "name": "Dialogue",
+      "frequency": 40,
+      "context": "The text implies or explicitly presents conversations between characters."
+    },
+    {
+      "name": "Time",
+      "frequency": 30,
+      "context": "References to specific moments, periods, or the passage of time are present."
+    },
+    {
+      "name": "Relationships",
+      "frequency": 35,
+      "context": "The interactions between characters suggest a focus on interpersonal dynamics."
+    },
+    {
+      "name": "Destiny",
+      "frequency": 25,
+      "context": "Themes related to fate or predetermined outcomes appear to be present."
+    },
+    {
+      "name": "Environment",
+      "frequency": 20,
+      "context": "Descriptions of settings and locations contribute to the narrative context."
+    },
+    {
+      "name": "Description",
+      "frequency": 28,
+      "context": "The use of vivid language to portray scenes, characters, and feelings."
+    },
+    {
+      "name": "Narrative",
+      "frequency": 15,
+      "context": "The overall structure and progression of the story."
+    },
+    {
+      "name": "Themes",
+      "frequency": 18,
+      "context": "Underlying ideas or messages explored in the text."
+    }
+  ],
+  "relations": [
+    {
+      "source": "Characters",
+      "target": "Emotions",
+      "type": "experience"
+    },
+    {
+      "source": "Characters",
+      "target": "Thoughts",
+      "type": "possess"
+    },
+    {
+      "source": "Characters",
+      "target": "Dialogue",
+      "type": "engage_in"
+    },
+    {
+      "source": "Characters",
+      "target": "Relationships",
+      "type": "form"
+    },
+    {
+      "source": "Narrative",
+      "target": "Characters",
+      "type": "features"
+    },
+    {
+      "source": "Narrative",
+      "target": "Emotions",
+      "type": "conveys"
+    },
+    {
+      "source": "Narrative",
+      "target": "Themes",
+      "type": "explores"
+    },
+    {
+      "source": "Narrative",
+      "target": "Environment",
+      "type": "describes"
+    },
+    {
+      "source": "Narrative",
+      "target": "Time",
+      "type": "references"
+    },
+    {
+      "source": "Description",
+      "target": "Environment",
+      "type": "enhances"
+    },
+    {
+      "source": "Description",
+      "target": "Emotions",
+      "type": "portrays"
+    },
+    {
+      "source": "Destiny",
+      "target": "Narrative",
+      "type": "is_a_theme_in"
+    }
+  ],
+  "hierarchy": {
+    "main_topics": [
+      "Narrative Structure",
+      "Character Interaction",
+      "Thematic Exploration"
+    ],
+    "structure": "The document appears to be a narrative with a clear focus on characters, their internal states, and their interactions, suggesting a plot-driven structure."
+  }
+}

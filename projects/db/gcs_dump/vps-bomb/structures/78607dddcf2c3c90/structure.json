@@ -1,0 +1,146 @@
+{
+  "propositions": [
+    {
+      "id": "1",
+      "text": "Sea Demon as a central theme in literature",
+      "level": 1
+    },
+    {
+      "id": "1.1",
+      "text": "Introduction to the author Nuwa and her literary style",
+      "level": 2
+    },
+    {
+      "id": "1.2",
+      "text": "Cultural and historical background of the Sea Demon legend",
+      "level": 2
+    },
+    {
+      "id": "1.3",
+      "text": "Nuwa's literary journey and achievements",
+      "level": 2
+    },
+    {
+      "id": "1.4",
+      "text": "Themes and stylistic elements in Nuwa's works",
+      "level": 2
+    },
+    {
+      "id": "2",
+      "text": "Narrative structure of 'Sea Demon' story",
+      "level": 1
+    },
+    {
+      "id": "2.1",
+      "text": "Encounter at the seaside with a mysterious sea cat",
+      "level": 2
+    },
+    {
+      "id": "2.2",
+      "text": "Legends and myths surrounding the Sea Demon",
+      "level": 2
+    },
+    {
+      "id": "2.3",
+      "text": "Protagonist's adventure into the ocean",
+      "level": 2
+    },
+    {
+      "id": "2.4",
+      "text": "Revelation of the Sea Demon's true nature",
+      "level": 2
+    },
+    {
+      "id": "3",
+      "text": "Character and thematic analysis",
+      "level": 1
+    },
+    {
+      "id": "3.1",
+      "text": "Main characters and their symbolic roles",
+      "level": 2
+    },
+    {
+      "id": "3.2",
+      "text": "Exploration of human-nature relationship and other themes",
+      "level": 2
+    },
+    {
+      "id": "4",
+      "text": "Conclusion and future outlook of 'Sea Demon'",
+      "level": 1
+    },
+    {
+      "id": "4.1",
+      "text": "Literary value and critical reception",
+      "level": 2
+    },
+    {
+      "id": "4.2",
+      "text": "Potential for future works and adaptations",
+      "level": 2
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Sea Demon",
+      "frequency": 15,
+      "context": "Central mythical figure representing fear and desire"
+    },
+    {
+      "name": "Nuwa",
+      "frequency": 10,
+      "context": "Author with a focus on fantasy and human nature"
+    },
+    {
+      "name": "Human-Nature Relationship",
+      "frequency": 8,
+      "context": "Theme exploring exploitation and fear of nature"
+    },
+    {
+      "name": "Taiwan Strait",
+      "frequency": 3,
+      "context": "Geographical and cultural setting of the story"
+    },
+    {
+      "name": "Sea Cat",
+      "frequency": 5,
+      "context": "Mysterious creature linking human and supernatural"
+    }
+  ],
+  "relations": [
+    {
+      "source": "Sea Demon",
+      "target": "Human-Nature Relationship",
+      "type": "symbolizes"
+    },
+    {
+      "source": "Sea Demon",
+      "target": "Sea Cat",
+      "type": "associated_with"
+    },
+    {
+      "source": "Nuwa",
+      "target": "Sea Demon",
+      "type": "creates"
+    },
+    {
+      "source": "Taiwan Strait",
+      "target": "Sea Demon",
+      "type": "setting_for"
+    },
+    {
+      "source": "Sea Demon",
+      "target": "Love and Revenge",
+      "type": "embodies"
+    }
+  ],
+  "hierarchy": {
+    "main_topics": [
+      "Sea Demon Legend",
+      "Nuwa's Literary Contribution",
+      "Narrative and Themes"
+    ],
+    "structure": "The document is organized into four main chapters: author introduction and background, story narrative, character and thematic analysis, and conclusion with future outlook."
+  }
+}

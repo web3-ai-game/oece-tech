@@ -1,0 +1,146 @@
+{
+  "propositions": [
+    {
+      "id": "1",
+      "text": "The protagonist unexpectedly traverses to an ancient world.",
+      "level": 1
+    },
+    {
+      "id": "1.1",
+      "text": "The protagonist awakens in a dilapidated village, assuming the identity of a poor boy named Ah Dai.",
+      "level": 2
+    },
+    {
+      "id": "1.2",
+      "text": "Ah Dai possesses a pass to enter the city, but lacks the funds (ten taels of silver) to use it.",
+      "level": 2
+    },
+    {
+      "id": "2",
+      "text": "Ah Dai begins working in the village to earn money.",
+      "level": 1
+    },
+    {
+      "id": "2.1",
+      "text": "He takes up a job carrying water, earning a small income.",
+      "level": 2
+    },
+    {
+      "id": "3",
+      "text": "Ah Dai encounters challenges at the market while seeking a cheaper pass.",
+      "level": 1
+    },
+    {
+      "id": "3.1",
+      "text": "He fails to afford the pass and witnesses a young woman, Xiao Xue, being harassed by thugs.",
+      "level": 2
+    },
+    {
+      "id": "3.2",
+      "text": "Ah Dai intervenes despite his weakness, and both are rescued by a nobleman, Li Yunze.",
+      "level": 2
+    },
+    {
+      "id": "4",
+      "text": "Ah Dai is employed by Li Yunze and starts a new life in the mansion.",
+      "level": 1
+    },
+    {
+      "id": "4.1",
+      "text": "He performs miscellaneous tasks and befriends Xiao Xue, who helps him navigate mansion rules.",
+      "level": 2
+    },
+    {
+      "id": "5",
+      "text": "Tensions arise in the mansion due to external conflicts.",
+      "level": 1
+    },
+    {
+      "id": "5.1",
+      "text": "Ah Dai overhears disputes involving Li Yunze and learns of a rivalry with another prominent family.",
+      "level": 2
+    },
+    {
+      "id": "6",
+      "text": "A crisis emerges as Li Yunze is arrested, prompting Ah Dai and Xiao Xue to act.",
+      "level": 1
+    },
+    {
+      "id": "6.1",
+      "text": "They sneak into the rival family’s mansion and uncover evidence of a plot against Li Yunze.",
+      "level": 2
+    },
+    {
+      "id": "7",
+      "text": "The truth is revealed, leading to Li Yunze’s release and rewards for Ah Dai and Xiao Xue.",
+      "level": 1
+    },
+    {
+      "id": "7.1",
+      "text": "Ah Dai uses the reward to buy the pass and begins a new life in the city.",
+      "level": 2
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Traversal",
+      "frequency": 3,
+      "context": "The act of moving from the modern world to an ancient setting."
+    },
+    {
+      "name": "Pass",
+      "frequency": 6,
+      "context": "A document required to enter the city, symbolizing opportunity."
+    },
+    {
+      "name": "Social Hierarchy",
+      "frequency": 4,
+      "context": "The strict class distinctions in the ancient world."
+    },
+    {
+      "name": "Conflict",
+      "frequency": 5,
+      "context": "Rivalries and disputes between families or individuals."
+    },
+    {
+      "name": "Courage",
+      "frequency": 3,
+      "context": "Ah Dai’s bravery in confronting thugs and aiding others."
+    }
+  ],
+  "relations": [
+    {
+      "source": "Ah Dai",
+      "target": "Xiao Xue",
+      "type": "allies"
+    },
+    {
+      "source": "Ah Dai",
+      "target": "Li Yunze",
+      "type": "employee_employer"
+    },
+    {
+      "source": "Li Yunze",
+      "target": "Rival Family",
+      "type": "adversary"
+    },
+    {
+      "source": "Pass",
+      "target": "City Entry",
+      "type": "enables"
+    },
+    {
+      "source": "Traversal",
+      "target": "Ancient World",
+      "type": "leads_to"
+    }
+  ],
+  "hierarchy": {
+    "main_topics": [
+      "Traversal and Adaptation",
+      "Social Struggles and Alliances",
+      "Conflict and Resolution"
+    ],
+    "structure": "The document follows a linear narrative structure, progressing from the protagonist’s traversal to an ancient world, through personal and social challenges, to a resolution involving uncovering a conspiracy and achieving a new status."
+  }
+}

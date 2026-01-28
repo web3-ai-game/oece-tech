@@ -1,0 +1,346 @@
+{
+  "propositions": [
+    {
+      "id": "1",
+      "text": "The story begins on a winter night at Fenglingdu on the Yellow River in Shanxi.",
+      "level": 1
+    },
+    {
+      "id": "1.1",
+      "text": "A man leaves an infant at the doorstep of an old house.",
+      "level": 2
+    },
+    {
+      "id": "1.2",
+      "text": "The infant is found by an old man named Guo.",
+      "level": 2
+    },
+    {
+      "id": "1.3",
+      "text": "The man who left the infant disappears into the Yellow River.",
+      "level": 2
+    },
+    {
+      "id": "2",
+      "text": "The story then shifts to Jiangnan in March, in the village of Wuyuan in Jiangxi.",
+      "level": 1
+    },
+    {
+      "id": "2.1",
+      "text": "Two men from the Pinkerton Private Detective Agency arrive at the Nanshan Rural Hospital.",
+      "level": 2
+    },
+    {
+      "id": "2.2",
+      "text": "They inform the hospital director, Zhu Hansheng, that they have concluded their six-year search for the missing girl, Zu Mo.",
+      "level": 2
+    },
+    {
+      "id": "2.3",
+      "text": "Their investigation suggests Zu Mo may have died six years prior.",
+      "level": 2
+    },
+    {
+      "id": "2.4",
+      "text": "They mention finding a Thai grand master, Monrachawong. Kunba, who last saw Zu Mo.",
+      "level": 2
+    },
+    {
+      "id": "3",
+      "text": "Hansheng's adopted son, Shen Caihua, believes Zu Mo is still alive.",
+      "level": 1
+    },
+    {
+      "id": "3.1",
+      "text": "Caihua has a unique characteristic of spitting, which he remembers as a trait of Zu Mo.",
+      "level": 2
+    },
+    {
+      "id": "4",
+      "text": "Hansheng and his father-in-law, Wu Chushanren, plan to travel to Yunnan to search for Zu Mo.",
+      "level": 1
+    },
+    {
+      "id": "4.1",
+      "text": "Wu Chushanren suggests that Zu Mo might be hidden in China, as foreigners would have difficulty navigating the system.",
+      "level": 2
+    },
+    {
+      "id": "4.2",
+      "text": "He also points to the border region between Myanmar and Yunnan as a potential location.",
+      "level": 2
+    },
+    {
+      "id": "5",
+      "text": "Caihua, with his parrot Dudu, decides to find Zu Mo himself.",
+      "level": 1
+    },
+    {
+      "id": "5.1",
+      "text": "Dudu, an intelligent and learned macaw, secretly teaches Caihua and offers advice.",
+      "level": 2
+    },
+    {
+      "id": "6",
+      "text": "Caihua and Dudu plan to seek help from a mysterious figure known as 'Ling Ge' in Hukou County.",
+      "level": 1
+    },
+    {
+      "id": "6.1",
+      "text": "Ling Ge is rumored to be a spirit inside a deceased boy who can predict the future.",
+      "level": 2
+    },
+    {
+      "id": "7",
+      "text": "Caihua and Dudu embark on their journey to Hukou.",
+      "level": 1
+    },
+    {
+      "id": "7.1",
+      "text": "They hitch a ride on a truck carrying pigs.",
+      "level": 2
+    },
+    {
+      "id": "8",
+      "text": "Upon arrival at Stone Bell Mountain, Caihua and Dudu encounter police and curious onlookers gathered at the house where Ling Ge resides.",
+      "level": 1
+    },
+    {
+      "id": "8.1",
+      "text": "Caihua's unusual parrot draws significant attention.",
+      "level": 2
+    },
+    {
+      "id": "9",
+      "text": "Inside the house, experts debate the nature of Ling Ge, with some espousing materialistic views and others embracing scientific possibilities.",
+      "level": 1
+    },
+    {
+      "id": "9.1",
+      "text": "Caihua attempts to communicate with Ling Ge to ask about Zu Mo.",
+      "level": 2
+    },
+    {
+      "id": "9.2",
+      "text": "Ling Ge responds, but enigmatically.",
+      "level": 2
+    },
+    {
+      "id": "10",
+      "text": "The authorities decide to dissect the boy's body to extract Ling Ge.",
+      "level": 1
+    },
+    {
+      "id": "10.1",
+      "text": "A ritual is performed by Daoist priest Fei Ziyun before the dissection.",
+      "level": 2
+    },
+    {
+      "id": "10.2",
+      "text": "During the dissection, a small figure emerges from a tumor in the boy's abdomen.",
+      "level": 2
+    },
+    {
+      "id": "10.3",
+      "text": "The emergence of this figure triggers a condition known as 'koro' (缩阳症) among the onlookers.",
+      "level": 2
+    },
+    {
+      "id": "11",
+      "text": "The small figure, identified as a 'Fengzi Gui' (枫子鬼) or 'Ling Ge', escapes.",
+      "level": 1
+    },
+    {
+      "id": "11.1",
+      "text": "The blind fortune teller reveals information about Fengzi Gui, explaining they are 'ghost immortals' that can inhabit human bodies.",
+      "level": 2
+    },
+    {
+      "id": "11.2",
+      "text": "The fortune teller's true motive is to capture Fengzi Gui, having already captured 'Ling Jie'.",
+      "level": 2
+    },
+    {
+      "id": "12",
+      "text": "Meanwhile, a lavish dinner is being prepared for the experts and local officials, featuring a giant fish head from Poyang Lake.",
+      "level": 1
+    },
+    {
+      "id": "12.1",
+      "text": "The county magistrate elaborates on the cultural significance and culinary aspects of the fish head.",
+      "level": 2
+    },
+    {
+      "id": "12.2",
+      "text": "The conversation at dinner turns to Ling Ge's ability to help solve past criminal cases.",
+      "level": 2
+    },
+    {
+      "id": "12.3",
+      "text": "Yu Lao, an elder, expresses skepticism about Ling Ge's abilities, attributing them to technology rather than supernatural phenomena.",
+      "level": 2
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Fenglingdu",
+      "frequency": 2,
+      "context": "Location of the initial scene, a historical ferry crossing on the Yellow River."
+    },
+    {
+      "name": "Zu Mo",
+      "frequency": 7,
+      "context": "The missing girl whose whereabouts are being sought throughout the story."
+    },
+    {
+      "name": "Monrachawong. Kunba",
+      "frequency": 1,
+      "context": "A Thai grand master who was the last person to see Zu Mo."
+    },
+    {
+      "name": "Pinkerton Private Detective Agency",
+      "frequency": 2,
+      "context": "An organization hired to investigate Zu Mo's disappearance."
+    },
+    {
+      "name": "Zhu Hansheng",
+      "frequency": 5,
+      "context": "Director of Nanshan Rural Hospital and caretaker of Zu Mo's case."
+    },
+    {
+      "name": "Shen Caihua",
+      "frequency": 11,
+      "context": "Hansheng's adopted son who is determined to find Zu Mo."
+    },
+    {
+      "name": "Dudu",
+      "frequency": 11,
+      "context": "Caihua's intelligent and talking macaw, who aids him in his quest."
+    },
+    {
+      "name": "Ling Ge",
+      "frequency": 15,
+      "context": "A mysterious entity residing within a deceased boy, capable of predicting the future."
+    },
+    {
+      "name": "Hukou County",
+      "frequency": 4,
+      "context": "The location where Ling Ge is found and where Caihua seeks information."
+    },
+    {
+      "name": "Stone Bell Mountain",
+      "frequency": 3,
+      "context": "The specific location in Hukou County where the Ling Ge phenomenon occurs."
+    },
+    {
+      "name": "Fengzi Gui",
+      "frequency": 3,
+      "context": "A type of 'ghost immortal' identified as Ling Ge, originating from maple tree galls."
+    },
+    {
+      "name": "Koro (缩阳症)",
+      "frequency": 3,
+      "context": "A psychological condition causing genital retraction, triggered by the emergence of Ling Ge."
+    },
+    {
+      "name": "Fei Ziyun",
+      "frequency": 4,
+      "context": "A Daoist priest and researcher of human potential, involved in the investigation of Ling Ge."
+    },
+    {
+      "name": "Yu Lao",
+      "frequency": 4,
+      "context": "An elder who adheres to materialistic scientific principles and is skeptical of supernatural phenomena."
+    },
+    {
+      "name": "Monrachawong. Bing",
+      "frequency": 2,
+      "context": "Mentioned as the person who abducted Zu Mo from the jungle in Myanmar."
+    }
+  ],
+  "relations": [
+    {
+      "source": "Zu Mo",
+      "target": "Monrachawong. Bing",
+      "type": "was abducted by"
+    },
+    {
+      "source": "Zu Mo",
+      "target": "Pinkerton Private Detective Agency",
+      "type": "was searched for by"
+    },
+    {
+      "source": "Zu Mo",
+      "target": "Zhu Hansheng",
+      "type": "is concerned by"
+    },
+    {
+      "source": "Shen Caihua",
+      "target": "Zu Mo",
+      "type": "is searching for"
+    },
+    {
+      "source": "Shen Caihua",
+      "target": "Dudu",
+      "type": "is accompanied by"
+    },
+    {
+      "source": "Shen Caihua",
+      "target": "Ling Ge",
+      "type": "seeks information from"
+    },
+    {
+      "source": "Dudu",
+      "target": "Shen Caihua",
+      "type": "aids"
+    },
+    {
+      "source": "Ling Ge",
+      "target": "Fengzi Gui",
+      "type": "is a"
+    },
+    {
+      "source": "Ling Ge",
+      "target": "deceased boy",
+      "type": "inhabits"
+    },
+    {
+      "source": "Fei Ziyun",
+      "target": "Ling Ge",
+      "type": "researches"
+    },
+    {
+      "source": "Yu Lao",
+      "target": "Ling Ge",
+      "type": "is skeptical of"
+    },
+    {
+      "source": "Koro (缩阳症)",
+      "target": "Ling Ge",
+      "type": "is triggered by"
+    },
+    {
+      "source": "Fengzi Gui",
+      "target": "blind fortune teller",
+      "type": "is pursued by"
+    },
+    {
+      "source": "Fenglingdu",
+      "target": "Yellow River",
+      "type": "is located on"
+    },
+    {
+      "source": "Monrachawong. Kunba",
+      "target": "Zu Mo",
+      "type": "last saw"
+    }
+  ],
+  "hierarchy": {
+    "main_topics": [
+      "The search for Zu Mo",
+      "The mystery of Ling Ge",
+      "The supernatural and scientific debate"
+    ],
+    "structure": "The document follows a narrative structure, starting with an inciting incident in the past, then moving to the present investigation, the development of a new lead (Ling Ge), and the subsequent unfolding of events and debates surrounding this phenomenon. It is divided into chapters, indicating a serialized or novelistic format."
+  }
+}

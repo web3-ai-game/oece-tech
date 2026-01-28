@@ -1,0 +1,203 @@
+version: '3.8'
+
+# ========================================
+# DeepWeay 微服务容器架构
+# 主站 + BBS + AI工具 + Bots
+# ========================================
+
+networks:
+  deepweay-network:
+    driver: bridge
+
+volumes:
+  nginx-logs:
+  certbot-conf:
+  certbot-www:
+
+services:
+  # ========================================
+  # Nginx 反向代理 + SSL
+  # ========================================
+  nginx:
+    build:
+      context: ./nginx
+      dockerfile: Dockerfile
+    container_name: deepweay-nginx
+    restart: always
+    ports:
+      - "80:80"
+      - "443:443"
+    volumes:
+      - certbot-conf:/etc/letsencrypt
+      - certbot-www:/var/www/certbot
+      - nginx-logs:/var/log/nginx
+    depends_on:
+      web-main:
+        condition: service_healthy
+      web-bbs:
+        condition: service_healthy
+      web-ai-tools:
+        condition: service_healthy
+    networks:
+      - deepweay-network
+    environment:
+      - DOMAIN=deepweay.me
+    labels:
+      com.datadoghq.ad.logs: '[{"source": "nginx", "service": "deepweay-nginx"}]'
+
+  # ========================================
+  # 主站容器 (Next.js)
+  # 首页 + 登录 + Dashboard + 文章
+  # ========================================
+  web-main:
+    build:
+      context: ./services/web-main
+      dockerfile: Dockerfile
+    container_name: deepweay-web-main
+    restart: always
+    expose:
+      - "3000"
+    env_file:
+      - .env.production
+    environment:
+      - NODE_ENV=production
+      - PORT=3000
+      - HOSTNAME=0.0.0.0
+      - SERVICE_NAME=web-main
+    networks:
+      - deepweay-network
+    labels:
+      com.datadoghq.ad.logs: '[{"source": "nextjs", "service": "deepweay-web-main"}]'
+    healthcheck:
+      test: ["CMD", "wget", "--quiet", "--tries=1", "--spider", "http://localhost:3000/api/health"]
+      interval: 30s
+      timeout: 5s
+      retries: 3
+      start_period: 40s
+
+  # ========================================
+  # BBS论坛容器 (Next.js)
+  # 论坛列表 + 发帖 + 回复
+  # ========================================
+  web-bbs:
+    build:
+      context: ./services/web-bbs
+      dockerfile: Dockerfile
+    container_name: deepweay-web-bbs
+    restart: always
+    expose:
+      - "3001"
+    env_file:
+      - .env.production
+    environment:
+      - NODE_ENV=production
+      - PORT=3001
+      - HOSTNAME=0.0.0.0
+      - SERVICE_NAME=web-bbs
+      - MAIN_SERVICE_URL=http://web-main:3000
+    networks:
+      - deepweay-network
+    labels:
+      com.datadoghq.ad.logs: '[{"source": "nextjs", "service": "deepweay-web-bbs"}]'
+    healthcheck:
+      test: ["CMD", "wget", "--quiet", "--tries=1", "--spider", "http://localhost:3001/api/health"]
+      interval: 30s
+      timeout: 5s
+      retries: 3
+      start_period: 40s
+
+  # ========================================
+  # AI工具容器 (Next.js + Genkit)
+  # 6个AI工具 + Gemini集成
+  # ========================================
+  web-ai-tools:
+    build:
+      context: ./services/web-ai-tools
+      dockerfile: Dockerfile
+    container_name: deepweay-web-ai-tools
+    restart: always
+    expose:
+      - "3002"
+    env_file:
+      - .env.production
+    environment:
+      - NODE_ENV=production
+      - PORT=3002
+      - HOSTNAME=0.0.0.0
+      - SERVICE_NAME=web-ai-tools
+      - MAIN_SERVICE_URL=http://web-main:3000
+      - GOOGLE_GENAI_API_KEY=${GOOGLE_GENAI_API_KEY}
+    networks:
+      - deepweay-network
+    labels:
+      com.datadoghq.ad.logs: '[{"source": "nextjs", "service": "deepweay-web-ai-tools"}]'
+    healthcheck:
+      test: ["CMD", "wget", "--quiet", "--tries=1", "--spider", "http://localhost:3002/api/health"]
+      interval: 30s
+      timeout: 5s
+      retries: 3
+      start_period: 40s
+
+  # ========================================
+  # Bot统一容器 (Node.js)
+  # 2个TG Bot + 1个Slack Bot
+  # ========================================
+  bots-unified:
+    build:
+      context: ./services/bots-unified
+      dockerfile: Dockerfile
+    container_name: deepweay-bots-unified
+    restart: always
+    expose:
+      - "4000"  # Webhook服务器端口
+    env_file:
+      - .env.production
+    environment:
+      - NODE_ENV=production
+      - PORT=4000
+      - MAIN_SERVICE_URL=http://web-main:3000
+      - TELEGRAM_BOT_TOKEN_1=${TELEGRAM_BOT_TOKEN_1}
+      - TELEGRAM_BOT_TOKEN_2=${TELEGRAM_BOT_TOKEN_2}
+      - SLACK_BOT_TOKEN=${SLACK_BOT_TOKEN}
+      - SLACK_SIGNING_SECRET=${SLACK_SIGNING_SECRET}
+    networks:
+      - deepweay-network
+    labels:
+      com.datadoghq.ad.logs: '[{"source": "nodejs", "service": "deepweay-bots"}]'
+    healthcheck:
+      test: ["CMD", "wget", "--quiet", "--tries=1", "--spider", "http://localhost:4000/health"]
+      interval: 30s
+      timeout: 5s
+      retries: 3
+      start_period: 10s
+
+  # ========================================
+  # Datadog Agent (监控)
+  # ========================================
+  datadog:
+    image: gcr.io/datadoghq/agent:7
+    container_name: deepweay-datadog
+    restart: always
+    environment:
+      - DD_API_KEY=${DATADOG_API_KEY}
+      - DD_SITE=${DD_SITE}
+      - DD_ENV=production
+      - DD_LOGS_ENABLED=true
+      - DD_LOGS_CONFIG_CONTAINER_COLLECT_ALL=true
+      - DD_CONTAINER_EXCLUDE="name:deepweay-datadog"
+      - DD_APM_ENABLED=true
+      - DD_APM_NON_LOCAL_TRAFFIC=true
+    volumes:
+      - /var/run/docker.sock:/var/run/docker.sock:ro
+      - /proc/:/host/proc/:ro
+      - /sys/fs/cgroup/:/host/sys/fs/cgroup:ro
+    networks:
+      - deepweay-network
+    ports:
+      - "8125:8125/udp"  # DogStatsD
+      - "8126:8126/tcp"  # APM
+
+# ========================================
+# 开发模式 docker-compose
+# 使用: docker-compose -f docker-compose.microservices.yml up
+# ========================================

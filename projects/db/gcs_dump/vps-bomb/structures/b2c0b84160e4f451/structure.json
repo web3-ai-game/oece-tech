@@ -1,0 +1,161 @@
+{
+  "propositions": [
+    {
+      "id": "1",
+      "text": "穿越到一个古代世界成为丑女",
+      "level": 1
+    },
+    {
+      "id": "1.1",
+      "text": "对穿越感到震惊并希望回到现代",
+      "level": 2
+    },
+    {
+      "id": "2",
+      "text": "探索身世之谜并寻找身份",
+      "level": 1
+    },
+    {
+      "id": "2.1",
+      "text": "身处大家族中地位不高，寻求改变",
+      "level": 2
+    },
+    {
+      "id": "3",
+      "text": "初遇古代美男并试图接近",
+      "level": 1
+    },
+    {
+      "id": "3.1",
+      "text": "美男为国师，拥有权力，可能是改变命运的关键",
+      "level": 2
+    },
+    {
+      "id": "4",
+      "text": "艰难适应古代生活",
+      "level": 1
+    },
+    {
+      "id": "4.1",
+      "text": "内心充满不安，接受无法回现代的现实",
+      "level": 2
+    },
+    {
+      "id": "5",
+      "text": "通过化妆改变形象",
+      "level": 1
+    },
+    {
+      "id": "5.1",
+      "text": "使用古代化妆品改善外貌",
+      "level": 2
+    },
+    {
+      "id": "6",
+      "text": "面对金钱与生存困境",
+      "level": 1
+    },
+    {
+      "id": "6.1",
+      "text": "身无分文，找到微薄收入工作",
+      "level": 2
+    },
+    {
+      "id": "7",
+      "text": "与国师产生情感纠葛",
+      "level": 1
+    },
+    {
+      "id": "7.1",
+      "text": "国师态度复杂，情感关系不明",
+      "level": 2
+    },
+    {
+      "id": "8",
+      "text": "卷入阴谋与危机",
+      "level": 1
+    },
+    {
+      "id": "8.1",
+      "text": "穿越和国师身份可能涉及更大计划",
+      "level": 2
+    },
+    {
+      "id": "9",
+      "text": "经历挫折后成长与蜕变",
+      "level": 1
+    },
+    {
+      "id": "9.1",
+      "text": "变得坚强，决心改变自己",
+      "level": 2
+    },
+    {
+      "id": "10",
+      "text": "面临最终抉择",
+      "level": 1
+    },
+    {
+      "id": "10.1",
+      "text": "选择留在古代或回到现代",
+      "level": 2
+    }
+  ],
+  "concepts": [
+    {
+      "name": "穿越",
+      "frequency": 6,
+      "context": "主角意外穿越到古代世界"
+    },
+    {
+      "name": "丑女",
+      "frequency": 3,
+      "context": "主角穿越后外貌不佳"
+    },
+    {
+      "name": "国师",
+      "frequency": 5,
+      "context": "关键人物，拥有权力和复杂情感"
+    },
+    {
+      "name": "命运",
+      "frequency": 4,
+      "context": "主角试图改变自己的处境"
+    },
+    {
+      "name": "阴谋",
+      "frequency": 2,
+      "context": "主角卷入复杂的权力斗争"
+    }
+  ],
+  "relations": [
+    {
+      "source": "穿越",
+      "target": "丑女",
+      "type": "implies"
+    },
+    {
+      "source": "国师",
+      "target": "命运",
+      "type": "influences"
+    },
+    {
+      "source": "穿越",
+      "target": "阴谋",
+      "type": "part_of"
+    },
+    {
+      "source": "国师",
+      "target": "阴谋",
+      "type": "part_of"
+    }
+  ],
+  "hierarchy": {
+    "main_topics": [
+      "穿越与适应",
+      "情感与阴谋",
+      "成长与抉择"
+    ],
+    "structure": "Document follows a linear narrative structure with chapters detailing the protagonist's journey from shock and adaptation to emotional entanglements, conspiracies, personal growth, and a final decision."
+  }
+}

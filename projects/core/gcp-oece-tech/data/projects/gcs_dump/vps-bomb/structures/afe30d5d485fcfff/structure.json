@@ -1,0 +1,381 @@
+{
+  "propositions": [
+    {
+      "id": "1",
+      "text": "The story begins on the eve of Winter Solstice, a time of long nights and cold.",
+      "level": 1
+    },
+    {
+      "id": "1.1",
+      "text": "Westerners celebrate Christmas, while Easterners observe the Winter Solstice.",
+      "level": 2
+    },
+    {
+      "id": "1.2",
+      "text": "The eve of Winter Solstice is considered inauspicious, especially by traditional elders.",
+      "level": 2
+    },
+    {
+      "id": "2",
+      "text": "The narrator receives an urgent email from his friend Lin Shu, requesting him to come over immediately.",
+      "level": 1
+    },
+    {
+      "id": "2.1",
+      "text": "Lin Shu's message is brief and emphasizes the urgency of the request.",
+      "level": 2
+    },
+    {
+      "id": "3",
+      "text": "Despite reservations about the cold and distance, the narrator decides to go to Lin Shu's place.",
+      "level": 1
+    },
+    {
+      "id": "3.1",
+      "text": "Lin Shu is described as a serious person, making the urgent request seem genuine.",
+      "level": 2
+    },
+    {
+      "id": "4",
+      "text": "The journey to Lin Shu's is fraught with an eerie atmosphere.",
+      "level": 1
+    },
+    {
+      "id": "4.1",
+      "text": "The narrator encounters yellow ash on the ground, possibly from burning spirit money.",
+      "level": 2
+    },
+    {
+      "id": "4.2",
+      "text": "The weather is extremely cold, and the streets are deserted.",
+      "level": 2
+    },
+    {
+      "id": "4.3",
+      "text": "A taxi driver makes a superstitious remark about ghosts needing taxis on this night.",
+      "level": 2
+    },
+    {
+      "id": "5",
+      "text": "Upon arrival, the narrator finds Lin Shu dead at the foot of his building.",
+      "level": 1
+    },
+    {
+      "id": "5.1",
+      "text": "Lin Shu appears to have jumped from his apartment.",
+      "level": 2
+    },
+    {
+      "id": "5.2",
+      "text": "The narrator checks his watch and realizes it is midnight, the exact moment of the Winter Solstice.",
+      "level": 2
+    },
+    {
+      "id": "6",
+      "text": "The narrator wakes up, realizing the event was real and that Lin Shu committed suicide.",
+      "level": 1
+    },
+    {
+      "id": "6.1",
+      "text": "He spent the night reporting the incident to the police.",
+      "level": 2
+    },
+    {
+      "id": "7",
+      "text": "The narrator accepts an invitation to go out with colleagues on Christmas Eve, his mood still heavy.",
+      "level": 1
+    },
+    {
+      "id": "8",
+      "text": "He visits a cemetery on Winter Solstice and reflects on the deceased.",
+      "level": 1
+    },
+    {
+      "id": "8.1",
+      "text": "He sees people performing traditional rituals to honor their ancestors.",
+      "level": 2
+    },
+    {
+      "id": "9",
+      "text": "The narrator contemplates Lin Shu's unexpected suicide, struggling to find a reason.",
+      "level": 1
+    },
+    {
+      "id": "9.1",
+      "text": "Lin Shu had recently secured a dream job after multiple rejections, which should have brought him joy.",
+      "level": 2
+    },
+    {
+      "id": "10",
+      "text": "The narrator experiences a hallucination or dream of a woman named Xiangxiang.",
+      "level": 1
+    },
+    {
+      "id": "11",
+      "text": "On Christmas Eve, the narrator is out with friends, including Lu Bai and his girlfriend Huang Yun.",
+      "level": 1
+    },
+    {
+      "id": "11.1",
+      "text": "Lu Bai and Huang Yun announce their engagement, surprising everyone as they had recently seemed to be breaking up.",
+      "level": 2
+    },
+    {
+      "id": "12",
+      "text": "Near midnight, Huang Yun screams, and Lu Bai jumps into the Huangpu River and drowns.",
+      "level": 1
+    },
+    {
+      "id": "12.1",
+      "text": "Despite the chaos, no one dares to jump in to save him, and he is later recovered as a corpse.",
+      "level": 2
+    },
+    {
+      "id": "12.2",
+      "text": "Huang Yun's account of Lu Bai's actions before jumping is confused and describes him looking at unseen things.",
+      "level": 2
+    },
+    {
+      "id": "13",
+      "text": "The narrator meets with Huang Yun to discuss Lu Bai's death.",
+      "level": 1
+    },
+    {
+      "id": "13.1",
+      "text": "Huang Yun reveals that Lu Bai's seemingly inexplicable suicide was preceded by her mother's successful surgery, which he prayed for at Mount Putuo.",
+      "level": 2
+    },
+    {
+      "id": "13.2",
+      "text": "She admits she married him out of gratitude and impulse, not love, and regrets her actions.",
+      "level": 2
+    },
+    {
+      "id": "13.3",
+      "text": "Huang Yun suggests the narrator seek help from a psychologist, giving him a business card.",
+      "level": 2
+    },
+    {
+      "id": "14",
+      "text": "The narrator receives a call from Dr. Mo, a psychologist, insisting he needs treatment and offering free sessions.",
+      "level": 1
+    },
+    {
+      "id": "15",
+      "text": "The narrator visits Dr. Mo's clinic and encounters a girl named Rose.",
+      "level": 1
+    },
+    {
+      "id": "15.1",
+      "text": "He recognizes a familiar scent on Rose, connecting her to a past memory or person.",
+      "level": 2
+    },
+    {
+      "id": "16",
+      "text": "The narrator observes Dr. Mo's therapy sessions, which involve patients recounting past lives.",
+      "level": 1
+    },
+    {
+      "id": "16.1",
+      "text": "One patient recounts a memory of being in 1930s Shanghai, connected to the clinic's location.",
+      "level": 2
+    },
+    {
+      "id": "16.2",
+      "text": "Another patient recounts a harrowing experience as a soldier during the Nanjing Massacre in 1937.",
+      "level": 2
+    },
+    {
+      "id": "17",
+      "text": "Dr. Mo attempts to treat the narrator by having him sit on the floor, close his eyes, and relax, leading to a feeling of losing his identity.",
+      "level": 1
+    },
+    {
+      "id": "17.1",
+      "text": "The narrator insists he doesn't believe in past lives but is commanded to participate.",
+      "level": 2
+    },
+    {
+      "id": "17.2",
+      "text": "After the session, the narrator claims to have said nothing, but Dr. Mo insists he spoke of being an emperor.",
+      "level": 2
+    },
+    {
+      "id": "18",
+      "text": "The narrator leaves the clinic, feeling disillusioned with Dr. Mo's methods.",
+      "level": 1
+    },
+    {
+      "id": "19",
+      "text": "He encounters Huang Yun outside the clinic, who is also seeking treatment from Dr. Mo.",
+      "level": 1
+    },
+    {
+      "id": "19.1",
+      "text": "Huang Yun appears less distressed than before, and they discuss their respective treatments.",
+      "level": 2
+    },
+    {
+      "id": "19.2",
+      "text": "She asks if he has a girlfriend, which he denies.",
+      "level": 2
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Winter Solstice",
+      "frequency": 12,
+      "context": "The narrative centers around the eve of and the actual day of the Winter Solstice, a time marked by darkness and cold, and associated with spiritual or supernatural events."
+    },
+    {
+      "name": "Night",
+      "frequency": 10,
+      "context": "The story frequently describes the darkness of night, contributing to the eerie and unsettling atmosphere, especially during the Winter Solstice."
+    },
+    {
+      "name": "Death",
+      "frequency": 7,
+      "context": "The narrative features multiple deaths: Lin Shu's suicide, Lu Bai's drowning, and the implied deaths during the Nanjing Massacre, and the potential deaths of those buried in tombs."
+    },
+    {
+      "name": "Psychology/Therapy",
+      "frequency": 6,
+      "context": "A significant portion of the latter half of the story revolves around the narrator's encounters with a psychologist, Dr. Mo, and his unconventional therapy methods, including past-life regression."
+    },
+    {
+      "name": "Past Life",
+      "frequency": 6,
+      "context": "Dr. Mo's therapy involves patients recounting their past lives, including experiences from 1930s Shanghai and the Qin Dynasty, and the Nanjing Massacre."
+    },
+    {
+      "name": "Fear/Anxiety",
+      "frequency": 5,
+      "context": "The narrator consistently experiences feelings of fear, anxiety, and unease, heightened by the supernatural elements and unsettling events."
+    },
+    {
+      "name": "Mystery",
+      "frequency": 4,
+      "context": "The reasons behind Lin Shu's and Lu Bai's deaths, as well as the nature of Dr. Mo's therapy, contribute to the overall mystery of the narrative."
+    },
+    {
+      "name": "Superstition",
+      "frequency": 3,
+      "context": "The taxi driver's comments about ghosts and the narrator's initial hesitation to dismiss traditional beliefs introduce elements of superstition."
+    },
+    {
+      "name": "Memory",
+      "frequency": 3,
+      "context": "The story explores both personal memories and the concept of recalling past lives, particularly in the context of therapy."
+    },
+    {
+      "name": "Christmas Eve",
+      "frequency": 2,
+      "context": "The story contrasts the Western Christmas Eve with the Eastern Winter Solstice, and the narrator is out with friends on Christmas Eve."
+    },
+    {
+      "name": "Rose",
+      "frequency": 3,
+      "context": "A mysterious character named Rose works at the psychological clinic and seems to have a connection to the narrator and Dr. Mo's treatment."
+    },
+    {
+      "name": "Huang Yun",
+      "frequency": 5,
+      "context": "Lu Bai's girlfriend, who is involved in his death and later seeks therapy from Dr. Mo."
+    },
+    {
+      "name": "Lin Shu",
+      "frequency": 5,
+      "context": "The narrator's friend whose apparent suicide triggers the unfolding events."
+    },
+    {
+      "name": "Lu Bai",
+      "frequency": 5,
+      "context": "A colleague of the narrator whose suspicious death by drowning occurs on Christmas Eve."
+    },
+    {
+      "name": "Dr. Mo",
+      "frequency": 6,
+      "context": "A psychologist who employs unusual methods, including past-life regression, as a form of therapy."
+    }
+  ],
+  "relations": [
+    {
+      "source": "Winter Solstice",
+      "target": "Night",
+      "type": "is_associated_with"
+    },
+    {
+      "source": "Winter Solstice",
+      "target": "Death",
+      "type": "is_associated_with"
+    },
+    {
+      "source": "Lin Shu",
+      "target": "Death",
+      "type": "undergoes"
+    },
+    {
+      "source": "Lu Bai",
+      "target": "Death",
+      "type": "undergoes"
+    },
+    {
+      "source": "Dr. Mo",
+      "target": "Psychology/Therapy",
+      "type": "practices"
+    },
+    {
+      "source": "Psychology/Therapy",
+      "target": "Past Life",
+      "type": "involves"
+    },
+    {
+      "source": "Narrator",
+      "target": "Fear/Anxiety",
+      "type": "experiences"
+    },
+    {
+      "source": "Huang Yun",
+      "target": "Death",
+      "type": "is_affected_by"
+    },
+    {
+      "source": "Huang Yun",
+      "target": "Psychology/Therapy",
+      "type": "seeks"
+    },
+    {
+      "source": "Rose",
+      "target": "Psychology/Therapy",
+      "type": "works_at"
+    },
+    {
+      "source": "Narrator",
+      "target": "Rose",
+      "type": "encounters"
+    },
+    {
+      "source": "Narrator",
+      "target": "Dr. Mo",
+      "type": "is_treated_by"
+    },
+    {
+      "source": "Dr. Mo",
+      "target": "Narrator",
+      "type": "treats"
+    },
+    {
+      "source": "Past Life",
+      "target": "Memory",
+      "type": "is_a_form_of"
+    }
+  ],
+  "hierarchy": {
+    "main_topics": [
+      "Winter Solstice and its atmosphere",
+      "Mysterious Deaths and their aftermath",
+      "Psychological Therapy and Past Life Regression"
+    ],
+    "structure": "The document is structured chronologically, beginning with the eve of Winter Solstice and progressing through Christmas Eve and into the New Year. It moves from a focus on supernatural atmosphere and mysterious deaths to an exploration of psychological therapy and the concept of past lives, with recurring characters and themes."
+  }
+}

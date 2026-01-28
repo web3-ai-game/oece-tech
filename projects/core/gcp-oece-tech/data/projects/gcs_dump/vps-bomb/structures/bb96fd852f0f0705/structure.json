@@ -1,0 +1,106 @@
+{
+  "propositions": [
+    {
+      "id": "1",
+      "text": "The narrative explores themes of personal struggle and societal expectations.",
+      "level": 1
+    },
+    {
+      "id": "1.1",
+      "text": "Characters face internal conflicts regarding identity and gender roles.",
+      "level": 2
+    },
+    {
+      "id": "1.2",
+      "text": "Societal pressures influence individual decisions and aspirations.",
+      "level": 2
+    },
+    {
+      "id": "2",
+      "text": "The story delves into the pursuit of personal goals and dreams.",
+      "level": 1
+    },
+    {
+      "id": "2.1",
+      "text": "Participation in competitive events like exams symbolizes striving for success.",
+      "level": 2
+    },
+    {
+      "id": "2.2",
+      "text": "Personal relationships impact the journey towards achieving goals.",
+      "level": 2
+    },
+    {
+      "id": "3",
+      "text": "Mystery and unexpected events shape the narrative's progression.",
+      "level": 1
+    },
+    {
+      "id": "3.1",
+      "text": "Sudden incidents and discoveries create tension and drive the plot.",
+      "level": 2
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Gender Roles",
+      "frequency": 10,
+      "context": "Exploration of traditional and reversed gender expectations."
+    },
+    {
+      "name": "Competition",
+      "frequency": 8,
+      "context": "Focus on exams and personal achievements."
+    },
+    {
+      "name": "Identity",
+      "frequency": 7,
+      "context": "Characters questioning their societal roles and personal desires."
+    },
+    {
+      "name": "Mystery",
+      "frequency": 5,
+      "context": "Unexpected events and hidden truths in the storyline."
+    },
+    {
+      "name": "Relationships",
+      "frequency": 6,
+      "context": "Interactions influencing personal growth and decisions."
+    }
+  ],
+  "relations": [
+    {
+      "source": "Gender Roles",
+      "target": "Identity",
+      "type": "influences"
+    },
+    {
+      "source": "Competition",
+      "target": "Personal Goals",
+      "type": "drives"
+    },
+    {
+      "source": "Relationships",
+      "target": "Identity",
+      "type": "shapes"
+    },
+    {
+      "source": "Mystery",
+      "target": "Narrative Tension",
+      "type": "creates"
+    },
+    {
+      "source": "Societal Expectations",
+      "target": "Gender Roles",
+      "type": "defines"
+    }
+  ],
+  "hierarchy": {
+    "main_topics": [
+      "Gender and Identity",
+      "Competition and Success",
+      "Mystery and Discovery"
+    ],
+    "structure": "The document follows a narrative structure with interwoven personal and societal themes, focusing on character development through dialogue and events."
+  }
+}

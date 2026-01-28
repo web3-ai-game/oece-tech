@@ -1,0 +1,27 @@
+{
+  "name": "svs-ai-tools",
+  "version": "1.0.0",
+  "description": "AI Tools & Utilities Service",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "node --watch src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ai",
+    "tools",
+    "utilities"
+  ],
+  "author": "web3-ai-game",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.21.2",
+    "dotenv": "^16.4.5",
+    "winston": "^3.17.0",
+    "cors": "^2.8.5",
+    "node-cache": "^5.1.2",
+    "express-rate-limit": "^7.4.1"
+  }
+}

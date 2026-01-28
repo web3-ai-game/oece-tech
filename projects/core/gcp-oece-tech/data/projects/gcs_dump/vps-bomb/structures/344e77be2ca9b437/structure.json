@@ -1,0 +1,468 @@
+{
+  "propositions": [
+    {
+      "id": "1",
+      "text": "连星得知失散多年的母亲的地址。",
+      "level": 1
+    },
+    {
+      "id": "1.1",
+      "text": "他得知母亲名叫连城。",
+      "level": 2
+    },
+    {
+      "id": "2",
+      "text": "连星决定立即动身前往直隶新昌县连家堡。",
+      "level": 1
+    },
+    {
+      "id": "2.1",
+      "text": "何阮君和小龙女决定一同前往。",
+      "level": 2
+    },
+    {
+      "id": "3",
+      "text": "四人（连星、小龙女、何阮君、大魁）抵达连家堡。",
+      "level": 1
+    },
+    {
+      "id": "4",
+      "text": "连星向一位中年妇女询问连城下落。",
+      "level": 1
+    },
+    {
+      "id": "4.1",
+      "text": "中年妇女告知连城已死。",
+      "level": 2
+    },
+    {
+      "id": "5",
+      "text": "中年妇女得知连星身份后承认撒谎。",
+      "level": 1
+    },
+    {
+      "id": "5.1",
+      "text": "她解释说对外人说连城已死是为了躲避打探丈夫之事的人。",
+      "level": 2
+    },
+    {
+      "id": "6",
+      "text": "连星与母亲连城重逢。",
+      "level": 1
+    },
+    {
+      "id": "6.1",
+      "text": "连城起初精神错乱，误将连星当作其在肚兜上的小连星。",
+      "level": 2
+    },
+    {
+      "id": "6.2",
+      "text": "连星展示金龙锁片，使连城认出他。",
+      "level": 2
+    },
+    {
+      "id": "7",
+      "text": "连城因大悲大喜晕厥。",
+      "level": 1
+    },
+    {
+      "id": "7.1",
+      "text": "何阮君诊断出连城需要火狼肝来治疗阴寒之气。",
+      "level": 2
+    },
+    {
+      "id": "7.2",
+      "text": "小龙女也中了阴毒，同样需要火狼肝。",
+      "level": 2
+    },
+    {
+      "id": "8",
+      "text": "连星等人得知寻找火狼肝的任务艰巨。",
+      "level": 1
+    },
+    {
+      "id": "9",
+      "text": "阿四叔告知寻找火狼的线索。",
+      "level": 1
+    },
+    {
+      "id": "9.1",
+      "text": "他建议去找一个名叫司徒的人。",
+      "level": 2
+    },
+    {
+      "id": "10",
+      "text": "四人动身前往吉林龙岗龙泉沟寻找司徒。",
+      "level": 1
+    },
+    {
+      "id": "11",
+      "text": "他们在龙泉沟找到司徒。",
+      "level": 1
+    },
+    {
+      "id": "11.1",
+      "text": "司徒被描述为尖嘴猴腮的中年汉子。",
+      "level": 2
+    },
+    {
+      "id": "12",
+      "text": "连星等人将阿四叔送来的七宝雕龙琉璃盏交给司徒。",
+      "level": 1
+    },
+    {
+      "id": "13",
+      "text": "司徒讲述了七宝雕龙琉璃盏的来历。",
+      "level": 1
+    },
+    {
+      "id": "13.1",
+      "text": "阿四叔和老林为打猎火狼而冒险进入地洞。",
+      "level": 2
+    },
+    {
+      "id": "13.2",
+      "text": "他们在地洞中发现了七宝雕龙琉璃盏和狼群。",
+      "level": 2
+    },
+    {
+      "id": "13.3",
+      "text": "阿四叔为救司徒（当时在洞外）被火狼咬掉一只手臂，并堵死了地洞。",
+      "level": 2
+    },
+    {
+      "id": "14",
+      "text": "司徒答应帮助连星等人寻找火狼。",
+      "level": 1
+    },
+    {
+      "id": "15",
+      "text": "（第五章 开始）四人在龙岗遇到一间简陋的棚屋。",
+      "level": 1
+    },
+    {
+      "id": "16",
+      "text": "棚屋主人是一位白发苍苍的老者。",
+      "level": 1
+    },
+    {
+      "id": "17",
+      "text": "棚屋里挂着一张巨大的白虎皮。",
+      "level": 1
+    },
+    {
+      "id": "18",
+      "text": "夜里，老者行为诡异，后被发现屋内藏有一具枯骨。",
+      "level": 1
+    },
+    {
+      "id": "19",
+      "text": "众人推测老者是鬼。",
+      "level": 1
+    },
+    {
+      "id": "20",
+      "text": "一巨型蜘蛛出现并攻击棚屋。",
+      "level": 1
+    },
+    {
+      "id": "20.1",
+      "text": "连星砍断蜘蛛的一只脚。",
+      "level": 2
+    },
+    {
+      "id": "21",
+      "text": "四人逃出棚屋，与巨型蜘蛛搏斗。",
+      "level": 1
+    },
+    {
+      "id": "21.1",
+      "text": "双枭前来助战，啄瞎巨型蜘蛛的双眼。",
+      "level": 2
+    },
+    {
+      "id": "22",
+      "text": "巨型蜘蛛逃走，老者和棚屋消失。",
+      "level": 1
+    },
+    {
+      "id": "23",
+      "text": "大魁取走白虎皮。",
+      "level": 1
+    },
+    {
+      "id": "24",
+      "text": "众人抵达龙泉沟。",
+      "level": 1
+    },
+    {
+      "id": "25",
+      "text": "连星认出龙泉沟。",
+      "level": 1
+    },
+    {
+      "id": "26",
+      "text": "连星等人找到司徒。",
+      "level": 1
+    },
+    {
+      "id": "27",
+      "text": "小龙女和司徒打赌。",
+      "level": 1
+    },
+    {
+      "id": "28",
+      "text": "司徒讲述了阿四叔得到七宝雕龙琉璃盏的经过。",
+      "level": 1
+    },
+    {
+      "id": "29",
+      "text": "阿四叔和老林为打猎火狼而进入地洞。",
+      "level": 1
+    },
+    {
+      "id": "30",
+      "text": "他们在地洞中发现了七宝雕龙琉璃盏、死人头颅和狼群。",
+      "level": 1
+    },
+    {
+      "id": "31",
+      "text": "火狼引诱他们进入地洞，狼群围攻。",
+      "level": 1
+    },
+    {
+      "id": "32",
+      "text": "阿四叔为救老林（未遂）和司徒（因火狼扑来）而与火狼搏斗。",
+      "level": 1
+    },
+    {
+      "id": "33",
+      "text": "阿四叔失去左臂，堵死了地洞。",
+      "level": 1
+    },
+    {
+      "id": "34",
+      "text": "司徒确认火狼仍在山上。",
+      "level": 1
+    },
+    {
+      "id": "35",
+      "text": "连星需要决定是否继续寻找火狼。",
+      "level": 1
+    }
+  ],
+  "concepts": [
+    {
+      "name": "连星",
+      "frequency": 30,
+      "context": "主角，寻找母亲。"
+    },
+    {
+      "name": "母亲",
+      "frequency": 8,
+      "context": "连星失散多年的亲人，名叫连城。"
+    },
+    {
+      "name": "连城",
+      "frequency": 10,
+      "context": "连星的母亲，生病后精神恍惚。"
+    },
+    {
+      "name": "大魁",
+      "frequency": 25,
+      "context": "连星的同伴，性格粗犷。"
+    },
+    {
+      "name": "小龙女",
+      "frequency": 20,
+      "context": "连星的同伴，医术高明，身中阴毒。"
+    },
+    {
+      "name": "何阮君",
+      "frequency": 15,
+      "context": "连星的同伴，医术高明，身份神秘。"
+    },
+    {
+      "name": "火狼",
+      "frequency": 12,
+      "context": "一种珍贵的药材，也是危险的生物。"
+    },
+    {
+      "name": "火狼肝",
+      "frequency": 5,
+      "context": "治疗连城和小龙女阴寒之症的关键药材。"
+    },
+    {
+      "name": "尸獒",
+      "frequency": 2,
+      "context": "一种凶猛的犬类生物，对连星很亲热。"
+    },
+    {
+      "name": "阿四婶",
+      "frequency": 10,
+      "context": "连城在家堡堡的邻居，帮助了连星一行。"
+    },
+    {
+      "name": "阿四叔",
+      "frequency": 6,
+      "context": "阿四婶的丈夫，猎户，失去了一只手臂。"
+    },
+    {
+      "name": "司徒",
+      "frequency": 10,
+      "context": "算命先生，知道火狼的下落。"
+    },
+    {
+      "name": "七宝雕龙琉璃盏",
+      "frequency": 7,
+      "context": "一件珍贵的明朝古物，是寻找火狼的交换条件。"
+    },
+    {
+      "name": "白虎皮",
+      "frequency": 3,
+      "context": "在简陋棚屋中发现的珍贵虎皮。"
+    },
+    {
+      "name": "巨型蜘蛛",
+      "frequency": 5,
+      "context": "在简陋棚屋外攻击四人的巨大蜘蛛。"
+    },
+    {
+      "name": "双枭",
+      "frequency": 5,
+      "context": "连星的坐骑，擅长飞行和战斗。"
+    },
+    {
+      "name": "老林",
+      "frequency": 3,
+      "context": "阿四叔打猎的同伴，在地洞中丧生。"
+    }
+  ],
+  "relations": [
+    {
+      "source": "连星",
+      "target": "母亲",
+      "type": "seeks"
+    },
+    {
+      "source": "连星",
+      "target": "连城",
+      "type": "is_son_of"
+    },
+    {
+      "source": "连星",
+      "target": "大魁",
+      "type": "travels_with"
+    },
+    {
+      "source": "连星",
+      "target": "小龙女",
+      "type": "travels_with"
+    },
+    {
+      "source": "连星",
+      "target": "何阮君",
+      "type": "travels_with"
+    },
+    {
+      "source": "连城",
+      "target": "阴寒之气",
+      "type": "afflicted_by"
+    },
+    {
+      "source": "小龙女",
+      "target": "阴毒",
+      "type": "afflicted_by"
+    },
+    {
+      "source": "火狼肝",
+      "target": "连城",
+      "type": "is_cure_for"
+    },
+    {
+      "source": "火狼肝",
+      "target": "小龙女",
+      "type": "is_cure_for"
+    },
+    {
+      "source": "司徒",
+      "target": "火狼",
+      "type": "knows_location_of"
+    },
+    {
+      "source": "阿四叔",
+      "target": "火狼",
+      "type": "attacked_by"
+    },
+    {
+      "source": "阿四叔",
+      "target": "手臂",
+      "type": "lost_part_of"
+    },
+    {
+      "source": "阿四叔",
+      "target": "七宝雕龙琉璃盏",
+      "type": "found"
+    },
+    {
+      "source": "司徒",
+      "target": "七宝雕龙琉璃盏",
+      "type": "receives"
+    },
+    {
+      "source": "司徒",
+      "target": "火狼",
+      "type": "agrees_to_hunt"
+    },
+    {
+      "source": "巨型蜘蛛",
+      "target": "棚屋",
+      "type": "attacks"
+    },
+    {
+      "source": "巨型蜘蛛",
+      "target": "连星",
+      "type": "attacks"
+    },
+    {
+      "source": "双枭",
+      "target": "巨型蜘蛛",
+      "type": "fights"
+    },
+    {
+      "source": "大魁",
+      "target": "白虎皮",
+      "type": "takes"
+    },
+    {
+      "source": "连星",
+      "target": "龙泉沟",
+      "type": "recognizes"
+    },
+    {
+      "source": "小龙女",
+      "target": "司徒",
+      "type": "bets_with"
+    },
+    {
+      "source": "老林",
+      "target": "狼群",
+      "type": "killed_by"
+    },
+    {
+      "source": "阿四叔",
+      "target": "老林",
+      "type": "hunting_companion_of"
+    }
+  ],
+  "hierarchy": {
+    "main_topics": [
+      "连星寻找母亲",
+      "寻找火狼",
+      "遭遇巨型蜘蛛",
+      "与司徒的会面",
+      "七宝雕龙琉璃盏的来历"
+    ],
+    "structure": "The document is structured as a narrative, progressing through chapters that detail the protagonist's journey, encounters, and the unfolding of mysteries. It follows a linear plot progression with interspersed backstory revelations."
+  }
+}

@@ -1,0 +1,228 @@
+{
+  "metadata": {
+    "object": "page",
+    "id": "2b291acc-4dd5-81ac-8e4b-e693c282b13b",
+    "created_time": "2025-11-21T18:13:00.000Z",
+    "last_edited_time": "2025-11-21T18:13:00.000Z",
+    "created_by": {
+      "object": "user",
+      "id": "269d872b-594c-81d1-9fe1-00029c482d4b"
+    },
+    "last_edited_by": {
+      "object": "user",
+      "id": "269d872b-594c-81d1-9fe1-00029c482d4b"
+    },
+    "cover": null,
+    "icon": {
+      "type": "external",
+      "external": {
+        "url": "https://www.notion.so/icons/compass_lightgray.svg"
+      }
+    },
+    "parent": {
+      "type": "workspace",
+      "workspace": true
+    },
+    "archived": false,
+    "in_trash": false,
+    "is_locked": false,
+    "properties": {
+      "title": {
+        "id": "title",
+        "type": "title",
+        "title": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Teamspace Home",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Teamspace Home",
+            "href": null
+          }
+        ]
+      }
+    },
+    "url": "https://www.notion.so/Teamspace-Home-2b291acc4dd581ac8e4be693c282b13b",
+    "public_url": null,
+    "request_id": "e787991f-fcf0-44b1-b0fc-e01d1ec333f8"
+  },
+  "blocks": [
+    {
+      "object": "block",
+      "id": "2b291acc-4dd5-814a-9f33-cf12dfc31da1",
+      "parent": {
+        "type": "page_id",
+        "page_id": "2b291acc-4dd5-81ac-8e4b-e693c282b13b"
+      },
+      "created_time": "2025-11-21T18:13:00.000Z",
+      "last_edited_time": "2025-11-21T18:13:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "269d872b-594c-81d1-9fe1-00029c482d4b"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "269d872b-594c-81d1-9fe1-00029c482d4b"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Give your colleagues a place to learn about your team, and what you’re working on. Use the + buttons in your left-hand sidebar to add more pages, like process docs or a project roadmap.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Give your colleagues a place to learn about your team, and what you’re working on. Use the + buttons in your left-hand sidebar to add more pages, like process docs or a project roadmap.",
+            "href": null
+          }
+        ],
+        "color": "gray"
+      }
+    },
+    {
+      "object": "block",
+      "id": "2b291acc-4dd5-8108-9a33-e4bb199d5ce1",
+      "parent": {
+        "type": "page_id",
+        "page_id": "2b291acc-4dd5-81ac-8e4b-e693c282b13b"
+      },
+      "created_time": "2025-11-21T18:13:00.000Z",
+      "last_edited_time": "2025-11-21T18:13:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "269d872b-594c-81d1-9fe1-00029c482d4b"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "269d872b-594c-81d1-9fe1-00029c482d4b"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      }
+    },
+    {
+      "object": "block",
+      "id": "2b291acc-4dd5-81eb-a29e-c564817648ae",
+      "parent": {
+        "type": "page_id",
+        "page_id": "2b291acc-4dd5-81ac-8e4b-e693c282b13b"
+      },
+      "created_time": "2025-11-21T18:13:00.000Z",
+      "last_edited_time": "2025-11-21T18:13:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "269d872b-594c-81d1-9fe1-00029c482d4b"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "269d872b-594c-81d1-9fe1-00029c482d4b"
+      },
+      "has_children": true,
+      "archived": false,
+      "in_trash": false,
+      "type": "callout",
+      "callout": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Welcome to the team! Our mission is to…",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Welcome to the team! Our mission is to…",
+            "href": null
+          }
+        ],
+        "icon": {
+          "type": "emoji",
+          "emoji": "👋"
+        },
+        "color": "yellow_background"
+      }
+    },
+    {
+      "object": "block",
+      "id": "2b291acc-4dd5-81b6-ab4f-d4946c4d7234",
+      "parent": {
+        "type": "page_id",
+        "page_id": "2b291acc-4dd5-81ac-8e4b-e693c282b13b"
+      },
+      "created_time": "2025-11-21T18:13:00.000Z",
+      "last_edited_time": "2025-11-21T18:13:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "269d872b-594c-81d1-9fe1-00029c482d4b"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "269d872b-594c-81d1-9fe1-00029c482d4b"
+      },
+      "has_children": true,
+      "archived": false,
+      "in_trash": false,
+      "type": "column_list",
+      "column_list": {}
+    },
+    {
+      "object": "block",
+      "id": "2b291acc-4dd5-8119-b7db-d3c14ede5c7b",
+      "parent": {
+        "type": "page_id",
+        "page_id": "2b291acc-4dd5-81ac-8e4b-e693c282b13b"
+      },
+      "created_time": "2025-11-21T18:13:00.000Z",
+      "last_edited_time": "2025-11-21T18:13:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "269d872b-594c-81d1-9fe1-00029c482d4b"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "269d872b-594c-81d1-9fe1-00029c482d4b"
+      },
+      "has_children": false,
+      "archived": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      }
+    }
+  ],
+  "fetched_at": "2025-11-26T13:32:09.686Z"
+}

@@ -1,0 +1,447 @@
+{
+  "propositions": [
+    {
+      "id": "1",
+      "text": "《粗心爱神》是一本书。",
+      "level": 1
+    },
+    {
+      "id": "1.1",
+      "text": "这本书的作者是厄尔·斯坦利·加德纳。",
+      "level": 2
+    },
+    {
+      "id": "2",
+      "text": "本书包含一个序言。",
+      "level": 1
+    },
+    {
+      "id": "2.1",
+      "text": "序言介绍了约翰·皮尔彻博士的开创业绩。",
+      "level": 2
+    },
+    {
+      "id": "2.2",
+      "text": "约翰·皮尔彻博士的开创性工作是在法医学界。",
+      "level": 3
+    },
+    {
+      "id": "2.3",
+      "text": "法医学界的工作涉及处理各种死亡事件。",
+      "level": 3
+    },
+    {
+      "id": "2.4",
+      "text": "死亡事件可能涉及法律问题，如保险索赔。",
+      "level": 4
+    },
+    {
+      "id": "2.5",
+      "text": "死亡事件可能涉及劳工赔偿法。",
+      "level": 4
+    },
+    {
+      "id": "2.6",
+      "text": "死亡事件可能引发继承问题。",
+      "level": 4
+    },
+    {
+      "id": "2.7",
+      "text": "死亡事件可能涉及凶杀问题。",
+      "level": 4
+    },
+    {
+      "id": "2.8",
+      "text": "死亡事件的分类通常包括自然原因、意外事故、他杀和自杀。",
+      "level": 3
+    },
+    {
+      "id": "2.9",
+      "text": "法医学专家需要通过技能和经验来断定死亡原因。",
+      "level": 3
+    },
+    {
+      "id": "2.10",
+      "text": "德克萨斯州在医学检验系统方面存在不足。",
+      "level": 3
+    },
+    {
+      "id": "2.11",
+      "text": "约翰·皮尔彻博士认识到法医学的必要性。",
+      "level": 3
+    },
+    {
+      "id": "2.12",
+      "text": "皮尔彻博士在考帕克利斯替市私人执业，并向司法机关提供医学服务。",
+      "level": 3
+    },
+    {
+      "id": "2.13",
+      "text": "皮尔彻博士曾是德克萨斯州东南部地区唯一的病理学家。",
+      "level": 4
+    },
+    {
+      "id": "2.14",
+      "text": "皮尔彻博士的案例卷宗精彩，如同侦探小说。",
+      "level": 3
+    },
+    {
+      "id": "2.15",
+      "text": "皮尔彻博士的同事称他为“带枪的病理学家”。",
+      "level": 4
+    },
+    {
+      "id": "2.16",
+      "text": "皮尔彻博士致力于在全州范围内建立医学检验系统。",
+      "level": 3
+    },
+    {
+      "id": "2.17",
+      "text": "约翰·皮尔彻的妻子埃塔·梅是摄影专家。",
+      "level": 3
+    },
+    {
+      "id": "2.18",
+      "text": "作者厄尔·斯坦利·加德纳与皮尔彻博士是多年的朋友。",
+      "level": 3
+    },
+    {
+      "id": "2.19",
+      "text": "作者钦佩皮尔彻博士以专业观点探讨死亡问题的态度。",
+      "level": 4
+    },
+    {
+      "id": "2.20",
+      "text": "作者将此书献给约翰·皮尔彻博士。",
+      "level": 3
+    },
+    {
+      "id": "3",
+      "text": "第一章描述了塞尔玛·安森在餐厅的经历。",
+      "level": 1
+    },
+    {
+      "id": "3.1",
+      "text": "塞尔玛·安森注意到一个男人跟踪她。",
+      "level": 2
+    },
+    {
+      "id": "3.2",
+      "text": "塞尔玛·安森质问跟踪她的男人。",
+      "level": 2
+    },
+    {
+      "id": "3.3",
+      "text": "男人否认跟踪。",
+      "level": 3
+    },
+    {
+      "id": "3.4",
+      "text": "塞尔玛·安森威胁要打跟踪者的耳光。",
+      "level": 2
+    },
+    {
+      "id": "3.5",
+      "text": "跟踪者威胁要起诉塞尔玛·安森。",
+      "level": 3
+    },
+    {
+      "id": "4",
+      "text": "第二章描述了塞尔玛·安森拜访律师佩里·梅森。",
+      "level": 1
+    },
+    {
+      "id": "4.1",
+      "text": "塞尔玛·安森咨询关于打跟踪者的耳光可能产生的法律后果。",
+      "level": 2
+    },
+    {
+      "id": "4.2",
+      "text": "佩里·梅森建议塞尔玛·安森先找侦探了解情况。",
+      "level": 2
+    },
+    {
+      "id": "4.3",
+      "text": "佩里·梅森建议塞尔玛·安森联系保罗·德雷克侦探所。",
+      "level": 3
+    },
+    {
+      "id": "4.4",
+      "text": "塞尔玛·安森询问侦探的费用。",
+      "level": 2
+    },
+    {
+      "id": "4.5",
+      "text": "佩里·梅森收取了100美元的律师费。",
+      "level": 3
+    },
+    {
+      "id": "4.6",
+      "text": "保罗·德雷克应邀前来与塞尔玛·安森见面。",
+      "level": 2
+    },
+    {
+      "id": "4.7",
+      "text": "佩里·梅森向德雷克介绍了塞尔玛·安森的情况。",
+      "level": 3
+    },
+    {
+      "id": "4.8",
+      "text": "德雷克解释了文侦探和武侦探的区别。",
+      "level": 3
+    },
+    {
+      "id": "4.9",
+      "text": "梅森解释了“套儿”的概念。",
+      "level": 3
+    },
+    {
+      "id": "4.10",
+      "text": "塞尔玛·安森讲述了她最近结识的新朋友多萝西·格雷格。",
+      "level": 3
+    },
+    {
+      "id": "4.11",
+      "text": "塞尔玛·安森支付了150美元给德雷克侦探所。",
+      "level": 2
+    },
+    {
+      "id": "4.12",
+      "text": "德雷克安排侦探跟踪跟踪者。",
+      "level": 3
+    },
+    {
+      "id": "5",
+      "text": "第三章报道了保罗·德雷克的调查结果。",
+      "level": 1
+    },
+    {
+      "id": "5.1",
+      "text": "跟踪者是拉尔夫·贝尔·贝尔德。",
+      "level": 2
+    },
+    {
+      "id": "5.2",
+      "text": "拉尔夫·贝尔·贝尔德为乔治·罗斯特·芬德利工作。",
+      "level": 2
+    },
+    {
+      "id": "5.3",
+      "text": "乔治·芬德利是“供您挑选”旧车行的汽车推销员。",
+      "level": 3
+    },
+    {
+      "id": "5.4",
+      "text": "德雷克认为塞尔玛·安森认识乔治·芬德利。",
+      "level": 3
+    },
+    {
+      "id": "5.5",
+      "text": "塞尔玛·安森似乎害怕了。",
+      "level": 3
+    },
+    {
+      "id": "5.6",
+      "text": "塞尔玛·安森再次拜访佩里·梅森。",
+      "level": 2
+    },
+    {
+      "id": "5.7",
+      "text": "塞尔玛·安森恋爱了，对象是德莱恩·阿林顿。",
+      "level": 3
+    },
+    {
+      "id": "5.8",
+      "text": "德莱恩·阿林顿的侄女米尔德里德不喜欢塞尔玛·安森。",
+      "level": 3
+    },
+    {
+      "id": "5.9",
+      "text": "乔治·芬德利是米尔德里德的男朋友。",
+      "level": 4
+    },
+    {
+      "id": "5.10",
+      "text": "乔治·芬德利试图找出关于塞尔玛·安森的不利信息。",
+      "level": 3
+    },
+    {
+      "id": "5.11",
+      "text": "乔治·芬德利散布谣言，说塞尔玛·安森谋杀了她的丈夫。",
+      "level": 4
+    },
+    {
+      "id": "5.12",
+      "text": "塞尔玛·安森聘请佩里·梅森处理此事，并支付了1000美元。",
+      "level": 3
+    }
+  ],
+  "concepts": [
+    {
+      "name": "约翰·皮尔彻博士",
+      "frequency": 10,
+      "context": "介绍法医学领域的先驱者，他的工作和经历。"
+    },
+    {
+      "name": "法医学",
+      "frequency": 7,
+      "context": "讨论其重要性、在死亡事件分类中的作用以及在德克萨斯州的现状。"
+    },
+    {
+      "name": "死亡事件",
+      "frequency": 6,
+      "context": "涉及各种法律问题，包括意外死亡、继承和凶杀。"
+    },
+    {
+      "name": "塞尔玛·安森",
+      "frequency": 12,
+      "context": "故事的主要人物，被跟踪，咨询律师，并陷入一段新恋情。"
+    },
+    {
+      "name": "跟踪",
+      "frequency": 8,
+      "context": "一个关键的情节，涉及塞尔玛·安森被跟踪，并促使她寻求法律帮助。"
+    },
+    {
+      "name": "佩里·梅森",
+      "frequency": 10,
+      "context": "律师，接受塞尔玛·安森的委托，并提供法律建议和调查安排。"
+    },
+    {
+      "name": "保罗·德雷克",
+      "frequency": 8,
+      "context": "侦探，受佩里·梅森委托调查跟踪事件，并汇报了调查结果。"
+    },
+    {
+      "name": "乔治·芬德利",
+      "frequency": 7,
+      "context": "反派人物，雇佣跟踪者，并散布关于塞尔玛·安森的谣言。"
+    },
+    {
+      "name": "德莱恩·阿林顿",
+      "frequency": 3,
+      "context": "塞尔玛·安森的新恋人，一位富有的鳏夫。"
+    },
+    {
+      "name": "米尔德里德",
+      "frequency": 3,
+      "context": "德莱恩·阿林顿的侄女，反对塞尔玛·安森。"
+    },
+    {
+      "name": "律师费",
+      "frequency": 4,
+      "context": "塞尔玛·安森为咨询和调查支付的费用。"
+    },
+    {
+      "name": "侦探",
+      "frequency": 5,
+      "context": "讨论其类型（文侦探、武侦探）和在案件调查中的作用。"
+    }
+  ],
+  "relations": [
+    {
+      "source": "约翰·皮尔彻博士",
+      "target": "法医学",
+      "type": "is_a_pioneer_in"
+    },
+    {
+      "source": "法医学",
+      "target": "死亡事件",
+      "type": "deals_with"
+    },
+    {
+      "source": "死亡事件",
+      "target": "法律问题",
+      "type": "can_involve"
+    },
+    {
+      "source": "死亡事件",
+      "target": "保险索赔",
+      "type": "can_involve"
+    },
+    {
+      "source": "死亡事件",
+      "target": "劳工赔偿",
+      "type": "can_involve"
+    },
+    {
+      "source": "死亡事件",
+      "target": "继承问题",
+      "type": "can_involve"
+    },
+    {
+      "source": "死亡事件",
+      "target": "凶杀",
+      "type": "can_involve"
+    },
+    {
+      "source": "塞尔玛·安森",
+      "target": "跟踪",
+      "type": "is_subject_of"
+    },
+    {
+      "source": "塞尔玛·安森",
+      "target": "佩里·梅森",
+      "type": "consults"
+    },
+    {
+      "source": "佩里·梅森",
+      "target": "保罗·德雷克",
+      "type": "recommends"
+    },
+    {
+      "source": "保罗·德雷克",
+      "target": "跟踪",
+      "type": "investigates"
+    },
+    {
+      "source": "拉尔夫·贝尔·贝尔德",
+      "target": "跟踪",
+      "type": "performs"
+    },
+    {
+      "source": "拉尔夫·贝尔·贝尔德",
+      "target": "乔治·芬德利",
+      "type": "works_for"
+    },
+    {
+      "source": "乔治·芬德利",
+      "target": "米尔德里德",
+      "type": "is_boyfriend_of"
+    },
+    {
+      "source": "米尔德里德",
+      "target": "德莱恩·阿林顿",
+      "type": "is_niece_of"
+    },
+    {
+      "source": "塞尔玛·安森",
+      "target": "德莱恩·阿林顿",
+      "type": "is_in_relationship_with"
+    },
+    {
+      "source": "乔治·芬德利",
+      "target": "塞尔玛·安森",
+      "type": "spreads_rumors_about"
+    },
+    {
+      "source": "塞尔玛·安森",
+      "target": "佩里·梅森",
+      "type": "hires"
+    },
+    {
+      "source": "佩里·梅森",
+      "target": "保罗·德雷克",
+      "type": "hires"
+    }
+  ],
+  "hierarchy": {
+    "main_topics": [
+      "Introduction to Forensic Medicine and Dr. John Pilcher",
+      "Selma Anson's Encounter with a Stalker",
+      "Legal Consultation and Investigation",
+      "Investigation Findings and New Developments"
+    ],
+    "structure": "The document follows a narrative structure, starting with an introduction to the field of forensic medicine and a key figure, then introducing the protagonist and her immediate problem, followed by legal consultation and an investigation, and finally revealing new complications and relationships."
+  }
+}

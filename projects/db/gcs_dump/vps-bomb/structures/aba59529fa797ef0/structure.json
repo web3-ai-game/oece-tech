@@ -1,0 +1,287 @@
+{
+  "propositions": [
+    {
+      "id": "1",
+      "text": "A father and daughter are fleeing from unknown pursuers in New York City.",
+      "level": 1
+    },
+    {
+      "id": "1.1",
+      "text": "The father, Andy, is exhausted and fearful, worried about his daughter, Charlie.",
+      "level": 2
+    },
+    {
+      "id": "1.2",
+      "text": "The pursuers are in a green car and appear to be closing in.",
+      "level": 2
+    },
+    {
+      "id": "2",
+      "text": "Andy has a psychic ability, a form of mind control, which he fears is fading.",
+      "level": 1
+    },
+    {
+      "id": "2.1",
+      "text": "He has used this ability previously to help others, but now fears the consequences.",
+      "level": 2
+    },
+    {
+      "id": "3",
+      "text": "Andy and Charlie are trying to reach Albany.",
+      "level": 1
+    },
+    {
+      "id": "3.1",
+      "text": "They manage to escape in a taxi after Andy uses his ability to manipulate the driver.",
+      "level": 2
+    },
+    {
+      "id": "3.2",
+      "text": "Andy's ability causes him significant physical pain and exhaustion.",
+      "level": 2
+    },
+    {
+      "id": "4",
+      "text": "Flashbacks reveal Andy's past and the origin of his abilities and his current predicament.",
+      "level": 1
+    },
+    {
+      "id": "4.1",
+      "text": "Andy participated in a mind-altering experiment at Harrison University, led by Dr. Waris.",
+      "level": 2
+    },
+    {
+      "id": "4.2",
+      "text": "This experiment was linked to an organization called 'Itah'.",
+      "level": 2
+    },
+    {
+      "id": "4.3",
+      "text": "Andy met his future wife, Vicky, during his time at university.",
+      "level": 2
+    },
+    {
+      "id": "4.4",
+      "text": "Vicky was also involved in experiments and seemingly died due to them or related circumstances.",
+      "level": 2
+    },
+    {
+      "id": "4.5",
+      "text": "Andy and Vicky's daughter, Charlie, also possesses psychic abilities.",
+      "level": 2
+    },
+    {
+      "id": "5",
+      "text": "Charlie demonstrates her own developing psychic abilities.",
+      "level": 1
+    },
+    {
+      "id": "5.1",
+      "text": "She needs to find money to help her father, who is incapacitated by a severe headache.",
+      "level": 2
+    },
+    {
+      "id": "5.2",
+      "text": "She uses her ability to 'push' objects and potentially start fires.",
+      "level": 2
+    },
+    {
+      "id": "5.3",
+      "text": "She attempts to steal money from a payphone.",
+      "level": 2
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Andy",
+      "frequency": 28,
+      "context": "The protagonist, a father with fading psychic abilities who is on the run with his daughter."
+    },
+    {
+      "name": "Charlie",
+      "frequency": 21,
+      "context": "Andy's young daughter who also possesses psychic abilities."
+    },
+    {
+      "name": "Psychic ability",
+      "frequency": 13,
+      "context": "The supernatural power of mind control and object manipulation possessed by Andy and Charlie."
+    },
+    {
+      "name": "Pursuers",
+      "frequency": 9,
+      "context": "Unknown individuals in a green car who are chasing Andy and Charlie."
+    },
+    {
+      "name": "Itah",
+      "frequency": 4,
+      "context": "A mysterious organization that seems to be involved in experiments and pursuing Andy and Charlie."
+    },
+    {
+      "name": "Dr. Waris",
+      "frequency": 6,
+      "context": "A psychologist who conducted mind-altering experiments at Harrison University."
+    },
+    {
+      "name": "Vicky",
+      "frequency": 6,
+      "context": "Andy's deceased wife, Charlie's mother, who also seemingly had connections to the experiments."
+    },
+    {
+      "name": "Headache",
+      "frequency": 6,
+      "context": "A severe symptom Andy experiences when overusing his psychic abilities."
+    },
+    {
+      "name": "New York City",
+      "frequency": 4,
+      "context": "The setting for the initial escape scene."
+    },
+    {
+      "name": "Albany",
+      "frequency": 4,
+      "context": "The destination Andy is trying to reach with Charlie."
+    },
+    {
+      "name": "Taxi",
+      "frequency": 4,
+      "context": "The mode of transport Andy and Charlie use to escape from New York."
+    },
+    {
+      "name": "Experiment",
+      "frequency": 4,
+      "context": "The scientific studies involving psychic abilities and mind-altering substances."
+    },
+    {
+      "name": "Money",
+      "frequency": 4,
+      "context": "A critical need for Andy and Charlie to survive and escape."
+    }
+  ],
+  "relations": [
+    {
+      "source": "Andy",
+      "target": "Charlie",
+      "type": "father_of"
+    },
+    {
+      "source": "Charlie",
+      "target": "Andy",
+      "type": "daughter_of"
+    },
+    {
+      "source": "Andy",
+      "target": "Psychic ability",
+      "type": "possesses"
+    },
+    {
+      "source": "Charlie",
+      "target": "Psychic ability",
+      "type": "possesses"
+    },
+    {
+      "source": "Pursuers",
+      "target": "Andy",
+      "type": "chasing"
+    },
+    {
+      "source": "Pursuers",
+      "target": "Charlie",
+      "type": "chasing"
+    },
+    {
+      "source": "Andy",
+      "target": "Itah",
+      "type": "pursued_by"
+    },
+    {
+      "source": "Charlie",
+      "target": "Itah",
+      "type": "pursued_by"
+    },
+    {
+      "source": "Dr. Waris",
+      "target": "Experiment",
+      "type": "conducts"
+    },
+    {
+      "source": "Experiment",
+      "target": "Itah",
+      "type": "related_to"
+    },
+    {
+      "source": "Andy",
+      "target": "Vicky",
+      "type": "husband_of"
+    },
+    {
+      "source": "Vicky",
+      "target": "Andy",
+      "type": "wife_of"
+    },
+    {
+      "source": "Vicky",
+      "target": "Charlie",
+      "type": "mother_of"
+    },
+    {
+      "source": "Charlie",
+      "target": "Vicky",
+      "type": "daughter_of"
+    },
+    {
+      "source": "Andy",
+      "target": "Headache",
+      "type": "experiences"
+    },
+    {
+      "source": "Psychic ability",
+      "target": "Headache",
+      "type": "causes"
+    },
+    {
+      "source": "Andy",
+      "target": "Albany",
+      "type": "trying_to_reach"
+    },
+    {
+      "source": "Charlie",
+      "target": "Albany",
+      "type": "trying_to_reach"
+    },
+    {
+      "source": "Andy",
+      "target": "Taxi",
+      "type": "uses_to_escape"
+    },
+    {
+      "source": "Charlie",
+      "target": "Taxi",
+      "type": "uses_to_escape"
+    },
+    {
+      "source": "Andy",
+      "target": "Money",
+      "type": "needs"
+    },
+    {
+      "source": "Charlie",
+      "target": "Money",
+      "type": "needs"
+    },
+    {
+      "source": "Charlie",
+      "target": "Psychic ability",
+      "type": "uses_to_obtain_money"
+    }
+  ],
+  "hierarchy": {
+    "main_topics": [
+      "Escape and Pursuit",
+      "Psychic Abilities and Their Consequences",
+      "Past Experiments and Their Legacy",
+      "Charlie's Developing Powers"
+    ],
+    "structure": "The document follows a non-linear structure, interweaving present-day action with flashbacks to explain the characters' origins and predicament. The narrative progresses through chapters: 'Mysterious Flame,' 'The Past Returns as an Image,' and 'Albany Arrives.'"
+  }
+}

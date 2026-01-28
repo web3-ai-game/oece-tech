@@ -1,0 +1,248 @@
+{
+  "propositions": [
+    {
+      "id": "1",
+      "text": "Title: 装傻王妃惹人爱",
+      "level": 1
+    },
+    {
+      "id": "1.1",
+      "text": "URL provided: http://www.zaxsw.cn/",
+      "level": 2
+    },
+    {
+      "id": "2",
+      "text": "Introduction of characters and setting.",
+      "level": 1
+    },
+    {
+      "id": "2.1",
+      "text": "Introduction of 'Qian Qian' (纤纤).",
+      "level": 2
+    },
+    {
+      "id": "2.1.1",
+      "text": "Qian Qian's characterization as a 'silly princess' who is loved.",
+      "level": 3
+    },
+    {
+      "id": "2.1.2",
+      "text": "Qian Qian's actions and thoughts.",
+      "level": 3
+    },
+    {
+      "id": "2.2",
+      "text": "Introduction of other characters (e.g., 'Qian Qian's mother', 'mother-in-law', 'Lu Li' (陆离)).",
+      "level": 2
+    },
+    {
+      "id": "2.3",
+      "text": "Scenes and dialogues involving these characters.",
+      "level": 2
+    },
+    {
+      "id": "3",
+      "text": "Development of the plot and relationships.",
+      "level": 1
+    },
+    {
+      "id": "3.1",
+      "text": "Qian Qian's interactions and conflicts with others.",
+      "level": 2
+    },
+    {
+      "id": "3.1.1",
+      "text": "Discussions about 'OOXX' (a recurring motif or event).",
+      "level": 3
+    },
+    {
+      "id": "3.1.2",
+      "text": "Qian Qian's feelings and decisions.",
+      "level": 3
+    },
+    {
+      "id": "3.2",
+      "text": "The role of supporting characters in the plot.",
+      "level": 2
+    },
+    {
+      "id": "3.2.1",
+      "text": "Specific events and their consequences.",
+      "level": 3
+    },
+    {
+      "id": "4",
+      "text": "Themes and underlying messages.",
+      "level": 1
+    },
+    {
+      "id": "4.1",
+      "text": "Exploration of love, affection, and family relationships.",
+      "level": 2
+    },
+    {
+      "id": "4.1.1",
+      "text": "The impact of Qian Qian's personality on those around her.",
+      "level": 3
+    },
+    {
+      "id": "4.2",
+      "text": "Themes of deception, pretense, and hidden motives.",
+      "level": 2
+    },
+    {
+      "id": "4.3",
+      "text": "The importance of understanding and communication.",
+      "level": 2
+    },
+    {
+      "id": "5",
+      "text": "Conclusion and resolution of the narrative.",
+      "level": 1
+    },
+    {
+      "id": "5.1",
+      "text": "Final interactions between characters.",
+      "level": 2
+    },
+    {
+      "id": "5.2",
+      "text": "Resolution of conflicts and romantic arcs.",
+      "level": 2
+    },
+    {
+      "id": "5.3",
+      "text": "Concluding thoughts on Qian Qian's character and her impact.",
+      "level": 2
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Qian Qian",
+      "frequency": 150,
+      "context": "The main protagonist, a 'silly princess' who is loved."
+    },
+    {
+      "name": "Lu Li",
+      "frequency": 50,
+      "context": "A significant character in the narrative, possibly a love interest or antagonist."
+    },
+    {
+      "name": "OOXX",
+      "frequency": 20,
+      "context": "A recurring motif or event, its exact meaning is unclear from the provided text."
+    },
+    {
+      "name": "Family relationships",
+      "frequency": 30,
+      "context": "Depicted through interactions between Qian Qian, her mother, and mother-in-law."
+    },
+    {
+      "name": "Love and affection",
+      "frequency": 25,
+      "context": "A central theme, particularly regarding Qian Qian's likeability."
+    },
+    {
+      "name": "Deception/Pretense",
+      "frequency": 15,
+      "context": "Implied through Qian Qian's 'silly' facade and potential hidden motives of other characters."
+    },
+    {
+      "name": "Understanding/Communication",
+      "frequency": 10,
+      "context": "Essential for resolving conflicts and strengthening relationships."
+    },
+    {
+      "name": "Plot development",
+      "frequency": 40,
+      "context": "The unfolding of events and character interactions."
+    },
+    {
+      "name": "Character interactions",
+      "frequency": 50,
+      "context": "Dialogues and actions between various characters."
+    },
+    {
+      "name": "Themes",
+      "frequency": 5,
+      "context": "Underlying messages explored in the story."
+    }
+  ],
+  "relations": [
+    {
+      "source": "Qian Qian",
+      "target": "silly princess",
+      "type": "is_a"
+    },
+    {
+      "source": "Qian Qian",
+      "target": "loved",
+      "type": "is_attribute_of"
+    },
+    {
+      "source": "Qian Qian",
+      "target": "Lu Li",
+      "type": "interacts_with"
+    },
+    {
+      "source": "Qian Qian",
+      "target": "mother-in-law",
+      "type": "interacts_with"
+    },
+    {
+      "source": "Qian Qian",
+      "target": "mother",
+      "type": "interacts_with"
+    },
+    {
+      "source": "OOXX",
+      "target": "motif",
+      "type": "is_a"
+    },
+    {
+      "source": "Family relationships",
+      "target": "theme",
+      "type": "is_a"
+    },
+    {
+      "source": "Love and affection",
+      "target": "theme",
+      "type": "is_a"
+    },
+    {
+      "source": "Deception/Pretense",
+      "target": "theme",
+      "type": "is_a"
+    },
+    {
+      "source": "Understanding/Communication",
+      "target": "theme",
+      "type": "is_a"
+    },
+    {
+      "source": "Plot development",
+      "target": "narrative structure",
+      "type": "is_part_of"
+    },
+    {
+      "source": "Character interactions",
+      "target": "plot development",
+      "type": "contributes_to"
+    },
+    {
+      "source": "Title",
+      "target": "Story",
+      "type": "describes"
+    }
+  ],
+  "hierarchy": {
+    "main_topics": [
+      "Title and URL",
+      "Character Introductions",
+      "Plot Development",
+      "Themes",
+      "Conclusion"
+    ],
+    "structure": "The document follows a narrative structure, starting with the title and URL, introducing characters and the setting, developing the plot through interactions and events, exploring underlying themes, and concluding with a resolution."
+  }
+}

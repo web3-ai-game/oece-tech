@@ -1,0 +1,195 @@
+{
+  "propositions": [
+    {
+      "id": "1",
+      "text": "Autumn is the best season in the plains.",
+      "level": 2
+    },
+    {
+      "id": "2",
+      "text": "A horse-drawn carriage is traveling through autumn fields.",
+      "level": 2
+    },
+    {
+      "id": "3",
+      "text": "The protagonist, nicknamed Gaze, returns to his hometown after many years.",
+      "level": 2
+    },
+    {
+      "id": "4",
+      "text": "Gaze is a courageous and resourceful individual, formerly a soldier.",
+      "level": 2
+    },
+    {
+      "id": "5",
+      "text": "Gaze cleverly retrieves a lost water bucket, impressing the passengers.",
+      "level": 2
+    },
+    {
+      "id": "6",
+      "text": "Gaze's true identity as a former fighter against Japanese invaders is revealed.",
+      "level": 2
+    },
+    {
+      "id": "7",
+      "text": "The narrative flashes back to Gaze's childhood as a mischievous boy named Guo Xiang.",
+      "level": 2
+    },
+    {
+      "id": "8",
+      "text": "Guo Xiang gets into trouble with a landlord's son, leading to his family's humiliation.",
+      "level": 2
+    },
+    {
+      "id": "9",
+      "text": "Guo Xiang, seeking revenge, devises a plan to steal the landlord's hunting eagles.",
+      "level": 2
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Plains",
+      "frequency": 8,
+      "context": "Describing the setting"
+    },
+    {
+      "name": "Autumn",
+      "frequency": 4,
+      "context": "Best season for plains"
+    },
+    {
+      "name": "Horse-drawn carriage",
+      "frequency": 10,
+      "context": "Mode of transport"
+    },
+    {
+      "name": "Hometown",
+      "frequency": 2,
+      "context": "Protagonist's return"
+    },
+    {
+      "name": "Gaze (嘎子)",
+      "frequency": 14,
+      "context": "Protagonist's nickname"
+    },
+    {
+      "name": "Soldier",
+      "frequency": 3,
+      "context": "Protagonist's past"
+    },
+    {
+      "name": "Childhood",
+      "frequency": 4,
+      "context": "Flashback to Guo Xiang"
+    },
+    {
+      "name": "Landlord",
+      "frequency": 7,
+      "context": "Antagonist figure"
+    },
+    {
+      "name": "Eagles",
+      "frequency": 5,
+      "context": "Hunting birds"
+    },
+    {
+      "name": "Revenge",
+      "frequency": 2,
+      "context": "Protagonist's motive"
+    },
+    {
+      "name": "Humiliation",
+      "frequency": 2,
+      "context": "Family's experience"
+    },
+    {
+      "name": "Willow flute",
+      "frequency": 4,
+      "context": "Childhood gift/symbol"
+    },
+    {
+      "name": "Betrayal",
+      "frequency": 1,
+      "context": "Childhood event"
+    },
+    {
+      "name": "Courage",
+      "frequency": 2,
+      "context": "Protagonist's trait"
+    },
+    {
+      "name": "Resourcefulness",
+      "frequency": 2,
+      "context": "Protagonist's trait"
+    }
+  ],
+  "relations": [
+    {
+      "source": "Autumn",
+      "target": "Plains",
+      "type": "characterizes"
+    },
+    {
+      "source": "Horse-drawn carriage",
+      "target": "Autumn fields",
+      "type": "travels_through"
+    },
+    {
+      "source": "Gaze",
+      "target": "Hometown",
+      "type": "returns_to"
+    },
+    {
+      "source": "Gaze",
+      "target": "Soldier",
+      "type": "was_a"
+    },
+    {
+      "source": "Gaze",
+      "target": "Childhood (Guo Xiang)",
+      "type": "is_former_self_of"
+    },
+    {
+      "source": "Landlord",
+      "target": "Guo Xiang",
+      "type": "antagonizes"
+    },
+    {
+      "source": "Guo Xiang",
+      "target": "Landlord's son",
+      "type": "conflicts_with"
+    },
+    {
+      "source": "Revenge",
+      "target": "Guo Xiang",
+      "type": "motivates"
+    },
+    {
+      "source": "Willow flute",
+      "target": "Guo Xiang",
+      "type": "creates"
+    },
+    {
+      "source": "Eagles",
+      "target": "Landlord",
+      "type": "owned_by"
+    },
+    {
+      "source": "Gaze",
+      "target": "Resourcefulness",
+      "type": "exhibits"
+    },
+    {
+      "source": "Gaze",
+      "target": "Courage",
+      "type": "exhibits"
+    }
+  ],
+  "hierarchy": {
+    "main_topics": [
+      "The Return",
+      "Childhood Memories"
+    ],
+    "structure": "The document is structured into two main sections: '故乡' (Hometown) detailing Gaze's present-day return and encounters, and '柳笛' (Willow Flute) which delves into his childhood experiences and the events that shaped him."
+  }
+}

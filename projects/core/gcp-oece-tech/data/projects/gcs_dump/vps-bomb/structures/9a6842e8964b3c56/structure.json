@@ -1,0 +1,672 @@
+{
+  "propositions": [
+    {
+      "id": "1",
+      "text": "清见月第一次见到他的狐狸，是在一个落雨的清晨。",
+      "level": 1
+    },
+    {
+      "id": "1.1",
+      "text": "雨水顺着屋檐滴滴答答地落下，在青石板上晕开一圈圈涟漪。",
+      "level": 2
+    },
+    {
+      "id": "1.2",
+      "text": "清见月打着伞，走在湿漉漉的街道上，空气中弥漫着泥土和青草混合的清新气息。",
+      "level": 2
+    },
+    {
+      "id": "1.3",
+      "text": "他拐进一条僻静的小巷，那里有一家古老的狐狸祭祀神社，是这座城市里鲜为人知的角落。",
+      "level": 2
+    },
+    {
+      "id": "1.4",
+      "text": "神社已经被岁月侵蚀得斑驳陆离，红色的鸟居褪去了鲜艳，只剩下沉淀的历史感。",
+      "level": 2
+    },
+    {
+      "id": "1.5",
+      "text": "清见月轻轻推开神社那扇饱经风霜的木门，一股陈旧的气息扑面而来。",
+      "level": 2
+    },
+    {
+      "id": "1.6",
+      "text": "院子里空无一人，只有几株老樱花树，此刻正值雨季，花瓣早已落尽。",
+      "level": 2
+    },
+    {
+      "id": "1.7",
+      "text": "他走到神社正殿前，低头祈祷。",
+      "level": 2
+    },
+    {
+      "id": "1.8",
+      "text": "就在他闭上眼睛的瞬间，一阵轻柔的微风拂过，带着一丝若有若无的清香。",
+      "level": 2
+    },
+    {
+      "id": "1.9",
+      "text": "清见月猛地睁开眼睛，看向正殿的案台。",
+      "level": 2
+    },
+    {
+      "id": "1.10",
+      "text": "案台上，静静地坐着一只白色的狐狸。",
+      "level": 2
+    },
+    {
+      "id": "1.11",
+      "text": "它有着雪白的毛发，油光水滑，在昏暗的光线下泛着淡淡的光泽。",
+      "level": 2
+    },
+    {
+      "id": "1.12",
+      "text": "一双琥珀色的眼睛，如同最纯粹的宝石，闪烁着灵动而又古老的光芒。",
+      "level": 2
+    },
+    {
+      "id": "1.13",
+      "text": "它静静地看着清见月，没有一丝的恐惧，反而带着一种悠然自得的姿态。",
+      "level": 2
+    },
+    {
+      "id": "1.14",
+      "text": "清见月的心脏猛地漏跳了一拍。",
+      "level": 2
+    },
+    {
+      "id": "1.15",
+      "text": "他从未见过如此美丽的生灵，它仿佛是从画卷中走出的精灵，又像是神话传说中的神祇。",
+      "level": 2
+    },
+    {
+      "id": "1.16",
+      "text": "“你……”清见月试图开口，声音却有些嘶哑。",
+      "level": 2
+    },
+    {
+      "id": "1.17",
+      "text": "白狐狸歪了歪头，似乎在回应他的话。",
+      "level": 2
+    },
+    {
+      "id": "1.18",
+      "text": "“你是……神的使者吗？”清见月继续问道，眼神中充满了惊奇和一丝不易察觉的激动。",
+      "level": 2
+    },
+    {
+      "id": "1.19",
+      "text": "白狐狸并没有说话，只是用它那双灵动的眼睛看着清见月，然后，它轻轻摇了摇尾巴，仿佛在示意他不必拘谨。",
+      "level": 2
+    },
+    {
+      "id": "1.20",
+      "text": "清见月走到案台前，小心翼翼地伸出手。",
+      "level": 2
+    },
+    {
+      "id": "1.21",
+      "text": "白狐狸并没有躲闪，反而主动向前凑了凑，用毛茸茸的脑袋蹭了蹭他的指尖。",
+      "level": 2
+    },
+    {
+      "id": "1.22",
+      "text": "那触感如同最柔软的丝绸，带着一丝奇异的温暖。",
+      "level": 2
+    },
+    {
+      "id": "1.23",
+      "text": "“你……能听懂我说话？”清见月不敢置信地问道。",
+      "level": 2
+    },
+    {
+      "id": "1.24",
+      "text": "白狐狸再次摇了摇尾巴，这一次，它的琥珀色眼睛里闪过一丝不易察觉的笑意。",
+      "level": 2
+    },
+    {
+      "id": "1.25",
+      "text": "从那一刻起，清见月知道，他与这只白狐狸之间，注定会发生一些不寻常的故事。",
+      "level": 2
+    },
+    {
+      "id": "2",
+      "text": "清见月给白狐狸取名为“雪”。",
+      "level": 1
+    },
+    {
+      "id": "2.1",
+      "text": "他每天都会来神社，给雪带些食物，比如新鲜的鱼，或者一些用糯米做的点心。",
+      "level": 2
+    },
+    {
+      "id": "2.2",
+      "text": "雪似乎很喜欢他带来的食物，总是吃得津津有味。",
+      "level": 2
+    },
+    {
+      "id": "2.3",
+      "text": "起初，清见月只是将这一切视为一场奇遇，直到有一天，他被公司调到了一个偏远的乡村任职。",
+      "level": 2
+    },
+    {
+      "id": "2.4",
+      "text": "“雪，我可能要离开这里一段时间了。”清见月抚摸着雪柔软的毛发，语气中充满了不舍。",
+      "level": 2
+    },
+    {
+      "id": "2.5",
+      "text": "雪抬起头，琥珀色的眼睛里流露出一丝不解。",
+      "level": 2
+    },
+    {
+      "id": "2.6",
+      "text": "“我要去一个很远的地方工作，可能会很久才能回来。”清见月解释道。",
+      "level": 2
+    },
+    {
+      "id": "2.7",
+      "text": "雪静静地看着他，然后，它站起身，走到清见月的手边，用鼻子蹭了蹭他的手心。",
+      "level": 2
+    },
+    {
+      "id": "2.8",
+      "text": "清见月的心中涌起一股暖流。",
+      "level": 2
+    },
+    {
+      "id": "2.9",
+      "text": "他知道，雪是明白的，它在用自己的方式表达它的不舍。",
+      "level": 2
+    },
+    {
+      "id": "2.10",
+      "text": "“我会回来看你的。”清见月轻声承诺。",
+      "level": 2
+    },
+    {
+      "id": "2.11",
+      "text": "就在他转身离开的时候，他感觉到身后有一道目光一直追随着他，直到他消失在巷子的尽头。",
+      "level": 2
+    },
+    {
+      "id": "2.12",
+      "text": "乡村的生活并没有清见月想象中的那么平静。",
+      "level": 2
+    },
+    {
+      "id": "2.13",
+      "text": "那里的人们淳朴善良，但生活却也充满了艰辛。",
+      "level": 2
+    },
+    {
+      "id": "2.14",
+      "text": "他每天忙于工作，渐渐地，他对雪的思念也淡了一些。",
+      "level": 2
+    },
+    {
+      "id": "2.15",
+      "text": "直到一个傍晚，他在田埂上散步，突然听到了身后传来一阵熟悉的低语声。",
+      "level": 2
+    },
+    {
+      "id": "2.16",
+      "text": "“清见月……”",
+      "level": 2
+    },
+    {
+      "id": "2.17",
+      "text": "清见月猛地回头。",
+      "level": 2
+    },
+    {
+      "id": "2.18",
+      "text": "他看到了雪，它正静静地站在不远处的稻田边，夕阳的余晖将它的身形勾勒得格外柔和。",
+      "level": 2
+    },
+    {
+      "id": "2.19",
+      "text": "“雪？你怎么会在这里？”清见月惊喜地叫道，他简直不敢相信自己的眼睛。",
+      "level": 2
+    },
+    {
+      "id": "2.20",
+      "text": "雪走了过来，用脑袋蹭了蹭清见月的腿。",
+      "level": 2
+    },
+    {
+      "id": "2.21",
+      "text": "“我……我以为你不会回来了。”清见月蹲下身，将雪拥入怀中。",
+      "level": 2
+    },
+    {
+      "id": "2.22",
+      "text": "雪发出了满足的呼噜声。",
+      "level": 2
+    },
+    {
+      "id": "2.23",
+      "text": "“我怎么可能不回来呢？”清见月轻抚着雪的毛发，心中涌起一股难以言喻的感动。",
+      "level": 2
+    },
+    {
+      "id": "2.24",
+      "text": "从那天起，清见月再也没有离开过雪，他们一起度过了一段宁静而又美好的时光。",
+      "level": 2
+    },
+    {
+      "id": "3",
+      "text": "时间如白驹过隙，转瞬即逝。",
+      "level": 1
+    },
+    {
+      "id": "3.1",
+      "text": "清见月和雪一直生活在那个宁静的乡村。",
+      "level": 2
+    },
+    {
+      "id": "3.2",
+      "text": "他们之间没有惊心动魄的事件，也没有轰轰烈烈的誓言，只有细水长流的陪伴。",
+      "level": 2
+    },
+    {
+      "id": "3.3",
+      "text": "清见月喜欢在雨天抱着雪，听它发出轻柔的呼噜声，感受它温暖的体温。",
+      "level": 2
+    },
+    {
+      "id": "3.4",
+      "text": "雪也喜欢蜷缩在清见月的怀里，享受着那份安宁和归属感。",
+      "level": 2
+    },
+    {
+      "id": "3.5",
+      "text": "他们的生活就像一首舒缓的歌曲，悠扬而又动听。",
+      "level": 2
+    },
+    {
+      "id": "3.6",
+      "text": "直到有一天，清见月在整理旧物时，翻出了一张泛黄的照片。",
+      "level": 2
+    },
+    {
+      "id": "3.7",
+      "text": "照片上，是一个年轻的女子，她有着一头乌黑的长发，笑容灿烂。",
+      "level": 2
+    },
+    {
+      "id": "3.8",
+      "text": "她的身边，站着一只白色的狐狸，正是雪。",
+      "level": 2
+    },
+    {
+      "id": "3.9",
+      "text": "清见月的心猛地一沉。",
+      "level": 2
+    },
+    {
+      "id": "3.10",
+      "text": "他从来不知道，雪还有一个主人。",
+      "level": 2
+    },
+    {
+      "id": "3.11",
+      "text": "他将照片拿给雪看。",
+      "level": 2
+    },
+    {
+      "id": "3.12",
+      "text": "雪的琥珀色眼睛里闪过一丝复杂的情绪，它轻轻地蹭了蹭照片上的女子，然后，它抬起头，看着清见月。",
+      "level": 2
+    },
+    {
+      "id": "3.13",
+      "text": "“她是……你的主人？”清见月轻声问道。",
+      "level": 2
+    },
+    {
+      "id": "3.14",
+      "text": "雪点了点头。",
+      "level": 2
+    },
+    {
+      "id": "3.15",
+      "text": "“她……是不是已经不在了？”清见月的声音充满了担忧。",
+      "level": 2
+    },
+    {
+      "id": "3.16",
+      "text": "雪再次点了点头，它的琥珀色眼睛里，闪烁着一丝悲伤。",
+      "level": 2
+    },
+    {
+      "id": "3.17",
+      "text": "清见月明白了。",
+      "level": 2
+    },
+    {
+      "id": "3.18",
+      "text": "原来，雪一直在等它真正的主人。",
+      "level": 2
+    },
+    {
+      "id": "3.19",
+      "text": "“你……一直在等她？”清见月的声音有些颤抖。",
+      "level": 2
+    },
+    {
+      "id": "3.20",
+      "text": "雪看着清见月，然后，它慢慢地靠了过来，用脑袋蹭了蹭清见月的脸颊。",
+      "level": 2
+    },
+    {
+      "id": "3.21",
+      "text": "“谢谢你，清见月。”",
+      "level": 2
+    },
+    {
+      "id": "3.22",
+      "text": "雪的声音，如同天籁般在清见月的脑海中响起。",
+      "level": 2
+    },
+    {
+      "id": "3.23",
+      "text": "清见月惊愕地看着雪，他从未想过，雪竟然会说话。",
+      "level": 2
+    },
+    {
+      "id": "3.24",
+      "text": "“我……我一直在等你。”雪的声音，带着一丝温暖的笑意。",
+      "level": 2
+    },
+    {
+      "id": "3.25",
+      "text": "清见月怔住了。",
+      "level": 2
+    },
+    {
+      "id": "3.26",
+      "text": "他不知道该如何回应。",
+      "level": 2
+    },
+    {
+      "id": "3.27",
+      "text": "“你不是我的主人，但你给了我一个家。”雪继续说道，“谢谢你，让我不再孤单。”",
+      "level": 2
+    },
+    {
+      "id": "3.28",
+      "text": "雪的声音，渐渐变得模糊，它的身形也开始变得虚幻。",
+      "level": 2
+    },
+    {
+      "id": "3.29",
+      "text": "“雪！你要去哪里？”清见月惊慌地叫道。",
+      "level": 2
+    },
+    {
+      "id": "3.30",
+      "text": "雪看着清见月，它的笑容依旧温暖：“我要去……找我的主人了。”",
+      "level": 2
+    },
+    {
+      "id": "3.31",
+      "text": "白色的身影，在清见月的眼前渐渐消失，最终化为点点星光，消散在空气中。",
+      "level": 2
+    },
+    {
+      "id": "3.32",
+      "text": "清见月呆呆地站在原地，雨水顺着他的脸颊滑落，分不清是雨水还是泪水。",
+      "level": 2
+    },
+    {
+      "id": "3.33",
+      "text": "他知道，雪终于找到了它真正的归宿。",
+      "level": 2
+    },
+    {
+      "id": "3.34",
+      "text": "虽然不舍，但清见月的心中，却也充满了欣慰。",
+      "level": 2
+    },
+    {
+      "id": "3.35",
+      "text": "他会永远记得，那个雨天的清晨，那个雪白的身影，以及它那双如宝石般闪烁的琥珀色眼睛。",
+      "level": 2
+    },
+    {
+      "id": "3.36",
+      "text": "他会永远记得，他的狐狸，雪。",
+      "level": 2
+    },
+    {
+      "id": "4",
+      "text": "《完》",
+      "level": 1
+    }
+  ],
+  "concepts": [
+    {
+      "name": "清见月",
+      "frequency": 25,
+      "context": "The male protagonist who encounters the fox."
+    },
+    {
+      "name": "狐狸",
+      "frequency": 19,
+      "context": "The magical white fox that befriends Qing Jian Yue."
+    },
+    {
+      "name": "雪",
+      "frequency": 16,
+      "context": "The name given to the white fox by Qing Jian Yue."
+    },
+    {
+      "name": "神社",
+      "frequency": 4,
+      "context": "The sacred place where Qing Jian Yue first meets the fox."
+    },
+    {
+      "name": "雨",
+      "frequency": 4,
+      "context": "A recurring element associated with significant moments, like the first meeting and farewell."
+    },
+    {
+      "name": "主人",
+      "frequency": 4,
+      "context": "Refers to the original owner of the fox, whom the fox was waiting for."
+    },
+    {
+      "name": "眼睛",
+      "frequency": 3,
+      "context": "Specifically the fox's amber eyes, described as beautiful and expressive."
+    },
+    {
+      "name": "时间",
+      "frequency": 3,
+      "context": "The progression of events and the passage of seasons."
+    },
+    {
+      "name": "陪伴",
+      "frequency": 2,
+      "context": "The enduring bond between Qing Jian Yue and the fox."
+    },
+    {
+      "name": "照片",
+      "frequency": 2,
+      "context": "A key object that reveals the fox's past and its original owner."
+    },
+    {
+      "name": "家",
+      "frequency": 2,
+      "context": "The sense of belonging and refuge provided by Qing Jian Yue to the fox."
+    },
+    {
+      "name": "离开",
+      "frequency": 2,
+      "context": "The act of parting, both by Qing Jian Yue to the countryside and eventually by the fox."
+    },
+    {
+      "name": "思念",
+      "frequency": 1,
+      "context": "Qing Jian Yue's feelings for the fox when they were apart."
+    },
+    {
+      "name": "乡村",
+      "frequency": 1,
+      "context": "The remote location where Qing Jian Yue was sent for work."
+    },
+    {
+      "name": "承诺",
+      "frequency": 1,
+      "context": "Qing Jian Yue's promise to return to the fox."
+    },
+    {
+      "name": "感动",
+      "frequency": 1,
+      "context": "Qing Jian Yue's emotional response to the fox's loyalty."
+    },
+    {
+      "name": "归宿",
+      "frequency": 1,
+      "context": "The fox's ultimate destination to be with its original owner."
+    },
+    {
+      "name": "欣慰",
+      "frequency": 1,
+      "context": "Qing Jian Yue's feeling of peace despite the fox's departure."
+    },
+    {
+      "name": "毛发",
+      "frequency": 1,
+      "context": "Descriptive detail of the fox's appearance."
+    },
+    {
+      "name": "声音",
+      "frequency": 1,
+      "context": "The fox's ability to speak, revealed towards the end."
+    }
+  ],
+  "relations": [
+    {
+      "source": "清见月",
+      "target": "狐狸",
+      "type": "encounters"
+    },
+    {
+      "source": "清见月",
+      "target": "雪",
+      "type": "names"
+    },
+    {
+      "source": "雪",
+      "target": "狐狸",
+      "type": "is_a"
+    },
+    {
+      "source": "清见月",
+      "target": "神社",
+      "type": "visits"
+    },
+    {
+      "source": "神社",
+      "target": "狐狸",
+      "type": "location_of"
+    },
+    {
+      "source": "雪",
+      "target": "主人",
+      "type": "had_a"
+    },
+    {
+      "source": "雪",
+      "target": "清见月",
+      "type": "develops_bond_with"
+    },
+    {
+      "source": "清见月",
+      "target": "家",
+      "type": "provides"
+    },
+    {
+      "source": "雪",
+      "target": "家",
+      "type": "receives"
+    },
+    {
+      "source": "清见月",
+      "target": "离开",
+      "type": "experiences"
+    },
+    {
+      "source": "雪",
+      "target": "离开",
+      "type": "experiences"
+    },
+    {
+      "source": "清见月",
+      "target": "思念",
+      "type": "feels"
+    },
+    {
+      "source": "雪",
+      "target": "承诺",
+      "type": "receives"
+    },
+    {
+      "source": "雪",
+      "target": "感动",
+      "type": "inspires"
+    },
+    {
+      "source": "雪",
+      "target": "归宿",
+      "type": "finds"
+    },
+    {
+      "source": "清见月",
+      "target": "欣慰",
+      "type": "feels"
+    },
+    {
+      "source": "雪",
+      "target": "主人",
+      "type": "goes_to_find"
+    },
+    {
+      "source": "照片",
+      "target": "雪",
+      "type": "depicts"
+    },
+    {
+      "source": "照片",
+      "target": "主人",
+      "type": "depicts"
+    },
+    {
+      "source": "雪",
+      "target": "声音",
+      "type": "has"
+    },
+    {
+      "source": "雪",
+      "target": "毛发",
+      "type": "has"
+    },
+    {
+      "source": "雪",
+      "target": "眼睛",
+      "type": "has"
+    }
+  ],
+  "hierarchy": {
+    "main_topics": [
+      "The First Encounter",
+      "The Naming and Separation",
+      "The Reunion and Quiet Life",
+      "The Revelation and Farewell"
+    ],
+    "structure": "The document is structured chronologically, following Qing Jian Yue's interactions with the fox. It begins with the initial magical encounter, progresses through the establishment of a bond, a period of separation and reunion, and culminates in a revelation about the fox's past and its eventual departure to find its true owner. The narrative is divided into three chapters, with a concluding remark."
+  }
+}

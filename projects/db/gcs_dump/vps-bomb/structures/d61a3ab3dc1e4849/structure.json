@@ -1,0 +1,525 @@
+{
+  "propositions": [
+    {
+      "id": "1",
+      "text": "《古怪的微笑》是一篇关于离奇死亡事件的小说。",
+      "level": 1
+    },
+    {
+      "id": "1.1",
+      "text": "故事围绕着易士奇和他的朋友李西华展开。",
+      "level": 2
+    },
+    {
+      "id": "1.2",
+      "text": "故事涉及古老的巫术、神秘的蛊毒以及风水学。",
+      "level": 2
+    },
+    {
+      "id": "2",
+      "text": "易士奇收到一份来自外公的遗书。",
+      "level": 1
+    },
+    {
+      "id": "2.1",
+      "text": "遗书中讲述了外公参与盗掘乾隆陵墓的经历。",
+      "level": 2
+    },
+    {
+      "id": "2.2",
+      "text": "外公留下了三枚乾隆通宝铜钱和一段乾隆皇帝的指骨。",
+      "level": 2
+    },
+    {
+      "id": "2.3",
+      "text": "遗书中提到一个云游道士为易士奇更名并预言了师徒之缘。",
+      "level": 2
+    },
+    {
+      "id": "3",
+      "text": "易士奇收到李西华的两封电子邮件。",
+      "level": 1
+    },
+    {
+      "id": "3.1",
+      "text": "第一封邮件讲述了李西华家乡贵州发生的一系列离奇死亡事件。",
+      "level": 2
+    },
+    {
+      "id": "3.2",
+      "text": "死亡事件的特点是死者面带古怪的微笑，并且发生在月圆之夜。",
+      "level": 2
+    },
+    {
+      "id": "3.3",
+      "text": "第二封邮件只有简单的“速来！”二字。",
+      "level": 2
+    },
+    {
+      "id": "3.4",
+      "text": "易士奇得知李西华已去世。",
+      "level": 2
+    },
+    {
+      "id": "4",
+      "text": "易士奇前往贵州调查李西华提到的死亡事件。",
+      "level": 1
+    },
+    {
+      "id": "4.1",
+      "text": "他在火车上遇到一位苗医伊古都。",
+      "level": 2
+    },
+    {
+      "id": "4.2",
+      "text": "伊古都解释了“蛊”是一种导致死亡时面带古怪笑容的巫术。",
+      "level": 2
+    },
+    {
+      "id": "4.3",
+      "text": "他们一同前往山阴村，并得知村庄按北斗七星方位布局，形成“玄武七煞阵”。",
+      "level": 2
+    },
+    {
+      "id": "5",
+      "text": "易士奇和伊古都在山阴村附近的一处茅舍借宿。",
+      "level": 1
+    },
+    {
+      "id": "5.1",
+      "text": "他们遭遇了五色毒蛛的攻击。",
+      "level": 2
+    },
+    {
+      "id": "5.2",
+      "text": "伊古都的“金蚕”蛊吞噬了五色毒蛛。",
+      "level": 2
+    },
+    {
+      "id": "5.3",
+      "text": "老阿婆显露其与蛊有关的身份。",
+      "level": 2
+    },
+    {
+      "id": "6",
+      "text": "到达山阴村后，他们发现村庄寂静且无人居住。",
+      "level": 1
+    },
+    {
+      "id": "6.1",
+      "text": "村庄的房屋布局具有风水意义。",
+      "level": 2
+    },
+    {
+      "id": "6.2",
+      "text": "他们得知李西华等七人已在镇医院冰冻。",
+      "level": 2
+    },
+    {
+      "id": "7",
+      "text": "在镇医院，易士奇和伊古都确认了死者的死亡特征。",
+      "level": 1
+    },
+    {
+      "id": "7.1",
+      "text": "七名死者都带着古怪的微笑死去，但嘴唇紧闭，与癫蛊的特征不符。",
+      "level": 2
+    },
+    {
+      "id": "7.2",
+      "text": "伊古都推测这是一种新的蛊毒。",
+      "level": 2
+    },
+    {
+      "id": "8",
+      "text": "警方允许易士奇和伊古都参与案件调查。",
+      "level": 1
+    },
+    {
+      "id": "8.1",
+      "text": "李西华的笔记本电脑被带回，但磁带为空。",
+      "level": 2
+    },
+    {
+      "id": "9",
+      "text": "伊古都的金蚕在水潭边与一只嗜血水蛭搏斗并获胜。",
+      "level": 1
+    },
+    {
+      "id": "9.1",
+      "text": "一只神秘的手掐断了金蚕的脖颈。",
+      "level": 2
+    },
+    {
+      "id": "10",
+      "text": "第二天，伊古都也在水潭边被发现死亡，死因与之前的人相同。",
+      "level": 1
+    },
+    {
+      "id": "10.1",
+      "text": "易士奇认为老蛊婆是凶手。",
+      "level": 2
+    },
+    {
+      "id": "11",
+      "text": "易士奇向侦破组解释了蛊和老蛊婆的可能性。",
+      "level": 1
+    },
+    {
+      "id": "11.1",
+      "text": "警方对蛊的说法持怀疑态度，但同意寻找老蛊婆。",
+      "level": 2
+    },
+    {
+      "id": "12",
+      "text": "李西华的妹妹李小华带来了李西华遇害前写给易士奇的信。",
+      "level": 1
+    },
+    {
+      "id": "12.1",
+      "text": "信中分析了山阴村死亡事件的五点蹊跷之处。",
+      "level": 2
+    },
+    {
+      "id": "12.2",
+      "text": "李西华表示要作为诱饵查明真相，并委托易士奇照顾李小华。",
+      "level": 2
+    },
+    {
+      "id": "13",
+      "text": "警方得知发现了第八名死者。",
+      "level": 1
+    },
+    {
+      "id": "13.1",
+      "text": "第八名死者是伊古都。",
+      "level": 2
+    }
+  ],
+  "concepts": [
+    {
+      "name": "古怪的微笑",
+      "frequency": 5,
+      "context": "死者面部特征，贯穿全书的核心谜团。"
+    },
+    {
+      "name": "易士奇",
+      "frequency": 15,
+      "context": "小说主角，风水学者，调查者。"
+    },
+    {
+      "name": "鲁班尺",
+      "frequency": 1,
+      "context": "文档名，与风水学相关。"
+    },
+    {
+      "name": "外祖父",
+      "frequency": 4,
+      "context": "易士奇的亲人，遗书的撰写者。"
+    },
+    {
+      "name": "遗书",
+      "frequency": 3,
+      "context": "外公留给易士奇的重要线索。"
+    },
+    {
+      "name": "乾隆皇帝",
+      "frequency": 4,
+      "context": "与陵墓盗窃和铜钱、指骨相关。"
+    },
+    {
+      "name": "指骨",
+      "frequency": 4,
+      "context": "外公留下的神秘物品，具有“煞气”。"
+    },
+    {
+      "name": "铜钱",
+      "frequency": 4,
+      "context": "外公留下的乾隆通宝，具有灵验的卜卦能力。"
+    },
+    {
+      "name": "李西华",
+      "frequency": 12,
+      "context": "易士奇的朋友，CCTV主持人，死亡事件的触发者。"
+    },
+    {
+      "name": "电子邮件",
+      "frequency": 3,
+      "context": "李西华与易士奇联系的媒介。"
+    },
+    {
+      "name": "贵州",
+      "frequency": 1,
+      "context": "李西华的家乡，死亡事件发生地。"
+    },
+    {
+      "name": "月圆之夜",
+      "frequency": 6,
+      "context": "死亡事件发生的固定时间。"
+    },
+    {
+      "name": "伊古都",
+      "frequency": 13,
+      "context": "苗医，协助易士奇调查，掌握蛊的知识。"
+    },
+    {
+      "name": "蛊",
+      "frequency": 16,
+      "context": "一种神秘的巫术，导致死亡时面带古怪笑容。"
+    },
+    {
+      "name": "癫蛊",
+      "frequency": 2,
+      "context": "一种特定的蛊，与死亡时的面部表情有关。"
+    },
+    {
+      "name": "金蚕",
+      "frequency": 7,
+      "context": "伊古都饲养的最厉害的蛊虫，具有强大的战斗力。"
+    },
+    {
+      "name": "山阴村",
+      "frequency": 10,
+      "context": "死亡事件发生的地点，具有神秘的布局。"
+    },
+    {
+      "name": "风水",
+      "frequency": 3,
+      "context": "易士奇的专业领域，与山阴村的房屋布局有关。"
+    },
+    {
+      "name": "玄武七煞阵",
+      "frequency": 1,
+      "context": "山阴村房屋布局的风水阵法。"
+    },
+    {
+      "name": "老阿婆",
+      "frequency": 5,
+      "context": "疑似养蛊者，与山阴村事件有联系。"
+    },
+    {
+      "name": "五色毒蛛",
+      "frequency": 3,
+      "context": "老阿婆放出的蛊虫，被金蚕吞噬。"
+    },
+    {
+      "name": "嗜血水蛭",
+      "frequency": 2,
+      "context": "一种变异的蛊虫，被金蚕和蝙蝠吸引。"
+    },
+    {
+      "name": "蝙蝠",
+      "frequency": 2,
+      "context": "受到嗜血水蛭吸引的生物。"
+    },
+    {
+      "name": "王警官",
+      "frequency": 5,
+      "context": "警方代表，协助易士奇调查。"
+    },
+    {
+      "name": "李小华",
+      "frequency": 4,
+      "context": "李西华的妹妹，受易士奇照顾。"
+    },
+    {
+      "name": "侦破组",
+      "frequency": 4,
+      "context": "负责此案的警方调查小组。"
+    }
+  ],
+  "relations": [
+    {
+      "source": "易士奇",
+      "target": "外祖父",
+      "type": "is_related_to"
+    },
+    {
+      "source": "易士奇",
+      "target": "遗书",
+      "type": "receives"
+    },
+    {
+      "source": "遗书",
+      "target": "乾隆皇帝",
+      "type": "mentions"
+    },
+    {
+      "source": "遗书",
+      "target": "指骨",
+      "type": "mentions"
+    },
+    {
+      "source": "遗书",
+      "target": "铜钱",
+      "type": "mentions"
+    },
+    {
+      "source": "易士奇",
+      "target": "李西华",
+      "type": "is_friend_of"
+    },
+    {
+      "source": "李西华",
+      "target": "电子邮件",
+      "type": "sends"
+    },
+    {
+      "source": "电子邮件",
+      "target": "月圆之夜",
+      "type": "describes_event_time"
+    },
+    {
+      "source": "电子邮件",
+      "target": "古怪的微笑",
+      "type": "describes_death_feature"
+    },
+    {
+      "source": "易士奇",
+      "target": "贵州",
+      "type": "travels_to"
+    },
+    {
+      "source": "易士奇",
+      "target": "伊古都",
+      "type": "meets"
+    },
+    {
+      "source": "伊古都",
+      "target": "蛊",
+      "type": "explains"
+    },
+    {
+      "source": "伊古都",
+      "target": "金蚕",
+      "type": "owns"
+    },
+    {
+      "source": "伊古都",
+      "target": "山阴村",
+      "type": "travels_to"
+    },
+    {
+      "source": "山阴村",
+      "target": "风水",
+      "type": "related_to"
+    },
+    {
+      "source": "山阴村",
+      "target": "玄武七煞阵",
+      "type": "has_layout"
+    },
+    {
+      "source": "易士奇",
+      "target": "老阿婆",
+      "type": "encounters"
+    },
+    {
+      "source": "老阿婆",
+      "target": "蛊",
+      "type": "practices"
+    },
+    {
+      "source": "老阿婆",
+      "target": "五色毒蛛",
+      "type": "releases"
+    },
+    {
+      "source": "金蚕",
+      "target": "五色毒蛛",
+      "type": "defeats"
+    },
+    {
+      "source": "易士奇",
+      "target": "李西华",
+      "type": "investigates_death_of"
+    },
+    {
+      "source": "李西华",
+      "target": "古怪的微笑",
+      "type": "died_with"
+    },
+    {
+      "source": "伊古都",
+      "target": "古怪的微笑",
+      "type": "died_with"
+    },
+    {
+      "source": "伊古都",
+      "target": "蛊",
+      "type": "identifies_as"
+    },
+    {
+      "source": "易士奇",
+      "target": "王警官",
+      "type": "collaborates_with"
+    },
+    {
+      "source": "金蚕",
+      "target": "嗜血水蛭",
+      "type": "defeats"
+    },
+    {
+      "source": "易士奇",
+      "target": "老阿婆",
+      "type": "suspects"
+    },
+    {
+      "source": "易士奇",
+      "target": "蛊",
+      "type": "explains_to"
+    },
+    {
+      "source": "李小华",
+      "target": "李西华",
+      "type": "is_sister_of"
+    },
+    {
+      "source": "李西华",
+      "target": "信",
+      "type": "writes"
+    },
+    {
+      "source": "信",
+      "target": "古怪的微笑",
+      "type": "analyzes"
+    },
+    {
+      "source": "信",
+      "target": "月圆之夜",
+      "type": "analyzes_frequency"
+    },
+    {
+      "source": "信",
+      "target": "易士奇",
+      "type": "addressed_to"
+    },
+    {
+      "source": "易士奇",
+      "target": "李小华",
+      "type": "cares_for"
+    },
+    {
+      "source": "王警官",
+      "target": "伊古都",
+      "type": "reports_death_of"
+    },
+    {
+      "source": "易士奇",
+      "target": "伊古都",
+      "type": "mourns"
+    }
+  ],
+  "hierarchy": {
+    "main_topics": [
+      "The Mysterious Legacy",
+      "The Cryptic Summons",
+      "The Perilous Journey",
+      "The Shadow of Gu",
+      "The Unsettling Village",
+      "The Investigation Deepens",
+      "The Tragic Climax"
+    ],
+    "structure": "The document is structured as a narrative novel, divided into six chapters, following a chronological progression of events driven by mystery and investigation. It begins with a foundational element (the will), introduces the central mystery through communication (emails), follows the protagonist's journey and discoveries (chapters 3-6), and culminates in further investigation and tragic revelations."
+  }
+}

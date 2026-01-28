@@ -1,0 +1,357 @@
+{
+  "propositions": [
+    {
+      "id": "1",
+      "text": "雪国仙子 (一女N男，非穿越)",
+      "level": 1
+    },
+    {
+      "id": "1.1",
+      "text": "第一章",
+      "level": 2
+    },
+    {
+      "id": "1.1.1",
+      "text": "内容摘要",
+      "level": 3
+    },
+    {
+      "id": "1.1.2",
+      "text": "故事背景介绍，可能包含人物关系、时代背景等",
+      "level": 3
+    },
+    {
+      "id": "1.2",
+      "text": "第二章",
+      "level": 2
+    },
+    {
+      "id": "1.2.1",
+      "text": "新的情节发展，可能包含新的事件、冲突、情感纠葛等",
+      "level": 3
+    },
+    {
+      "id": "1.3",
+      "text": "第三章",
+      "level": 2
+    },
+    {
+      "id": "1.3.1",
+      "text": "高潮部分，可能包含关键转折、冲突升级、情感爆发等",
+      "level": 3
+    },
+    {
+      "id": "1.4",
+      "text": "第四章",
+      "level": 2
+    },
+    {
+      "id": "1.4.1",
+      "text": "结局部分，可能包含故事的收尾、人物命运的交代、情感的升华等",
+      "level": 3
+    },
+    {
+      "id": "2",
+      "text": "参考文献",
+      "level": 1
+    },
+    {
+      "id": "2.1",
+      "text": "此处为占位符，实际应包含文中引用过的书籍、文章、研究等。",
+      "level": 2
+    },
+    {
+      "id": "3",
+      "text": "附录",
+      "level": 1
+    },
+    {
+      "id": "3.1",
+      "text": "此处为占位符，实际可能包含人物关系图、重要概念解释等。",
+      "level": 2
+    }
+  ],
+  "concepts": [
+    {
+      "name": "雪国仙子",
+      "frequency": 1,
+      "context": "Title of the document."
+    },
+    {
+      "name": "一女N男",
+      "frequency": 1,
+      "context": "Describes the romantic/relationship structure."
+    },
+    {
+      "name": "非穿越",
+      "frequency": 1,
+      "context": "Specifies a plot constraint (not time-travel/isekai)."
+    },
+    {
+      "name": "章节",
+      "frequency": 4,
+      "context": "Structural divisions of the narrative."
+    },
+    {
+      "name": "内容摘要",
+      "frequency": 1,
+      "context": "Summary of content within a chapter."
+    },
+    {
+      "name": "故事背景",
+      "frequency": 1,
+      "context": "Introduction to the setting and circumstances."
+    },
+    {
+      "name": "人物关系",
+      "frequency": 2,
+      "context": "Connections between characters."
+    },
+    {
+      "name": "时代背景",
+      "frequency": 1,
+      "context": "Historical or temporal setting."
+    },
+    {
+      "name": "情节发展",
+      "frequency": 1,
+      "context": "Progression of the story's events."
+    },
+    {
+      "name": "事件",
+      "frequency": 1,
+      "context": "Occurrences within the narrative."
+    },
+    {
+      "name": "冲突",
+      "frequency": 2,
+      "context": "Struggles or disagreements within the story."
+    },
+    {
+      "name": "情感纠葛",
+      "frequency": 1,
+      "context": "Complex emotional relationships."
+    },
+    {
+      "name": "高潮",
+      "frequency": 1,
+      "context": "Peak of the story's action or emotion."
+    },
+    {
+      "name": "关键转折",
+      "frequency": 1,
+      "context": "Significant turning points in the plot."
+    },
+    {
+      "name": "情感爆发",
+      "frequency": 1,
+      "context": "Intense emotional expressions."
+    },
+    {
+      "name": "结局",
+      "frequency": 1,
+      "context": "The conclusion of the story."
+    },
+    {
+      "name": "故事收尾",
+      "frequency": 1,
+      "context": "Concluding the narrative."
+    },
+    {
+      "name": "人物命运",
+      "frequency": 1,
+      "context": "The ultimate fate of characters."
+    },
+    {
+      "name": "情感升华",
+      "frequency": 1,
+      "context": "Deepening or improving emotional states."
+    },
+    {
+      "name": "参考文献",
+      "frequency": 1,
+      "context": "List of sources cited."
+    },
+    {
+      "name": "占位符",
+      "frequency": 2,
+      "context": "Placeholder text indicating missing actual content."
+    },
+    {
+      "name": "引用",
+      "frequency": 1,
+      "context": "Mention of sources used within the text."
+    },
+    {
+      "name": "书籍",
+      "frequency": 1,
+      "context": "Type of source material."
+    },
+    {
+      "name": "文章",
+      "frequency": 1,
+      "context": "Type of source material."
+    },
+    {
+      "name": "研究",
+      "frequency": 1,
+      "context": "Type of source material."
+    },
+    {
+      "name": "附录",
+      "frequency": 1,
+      "context": "Supplementary material."
+    },
+    {
+      "name": "人物关系图",
+      "frequency": 1,
+      "context": "Visual representation of character connections."
+    },
+    {
+      "name": "概念解释",
+      "frequency": 1,
+      "context": "Explanations of key terms."
+    }
+  ],
+  "relations": [
+    {
+      "source": "雪国仙子",
+      "target": "一女N男",
+      "type": "describes"
+    },
+    {
+      "source": "雪国仙子",
+      "target": "非穿越",
+      "type": "describes"
+    },
+    {
+      "source": "第一章",
+      "target": "内容摘要",
+      "type": "contains"
+    },
+    {
+      "source": "第一章",
+      "target": "故事背景介绍",
+      "type": "contains"
+    },
+    {
+      "source": "故事背景介绍",
+      "target": "人物关系",
+      "type": "includes"
+    },
+    {
+      "source": "故事背景介绍",
+      "target": "时代背景",
+      "type": "includes"
+    },
+    {
+      "source": "第二章",
+      "target": "情节发展",
+      "type": "contains"
+    },
+    {
+      "source": "情节发展",
+      "target": "事件",
+      "type": "includes"
+    },
+    {
+      "source": "情节发展",
+      "target": "冲突",
+      "type": "includes"
+    },
+    {
+      "source": "情节发展",
+      "target": "情感纠葛",
+      "type": "includes"
+    },
+    {
+      "source": "第三章",
+      "target": "高潮",
+      "type": "contains"
+    },
+    {
+      "source": "高潮",
+      "target": "关键转折",
+      "type": "includes"
+    },
+    {
+      "source": "高潮",
+      "target": "冲突升级",
+      "type": "includes"
+    },
+    {
+      "source": "高潮",
+      "target": "情感爆发",
+      "type": "includes"
+    },
+    {
+      "source": "第四章",
+      "target": "结局",
+      "type": "contains"
+    },
+    {
+      "source": "结局",
+      "target": "故事收尾",
+      "type": "includes"
+    },
+    {
+      "source": "结局",
+      "target": "人物命运",
+      "type": "includes"
+    },
+    {
+      "source": "结局",
+      "target": "情感升华",
+      "type": "includes"
+    },
+    {
+      "source": "参考文献",
+      "target": "占位符",
+      "type": "is_a"
+    },
+    {
+      "source": "占位符",
+      "target": "引用",
+      "type": "represents"
+    },
+    {
+      "source": "引用",
+      "target": "书籍",
+      "type": "can_be"
+    },
+    {
+      "source": "引用",
+      "target": "文章",
+      "type": "can_be"
+    },
+    {
+      "source": "引用",
+      "target": "研究",
+      "type": "can_be"
+    },
+    {
+      "source": "附录",
+      "target": "占位符",
+      "type": "is_a"
+    },
+    {
+      "source": "占位符",
+      "target": "人物关系图",
+      "type": "can_be"
+    },
+    {
+      "source": "占位符",
+      "target": "概念解释",
+      "type": "can_be"
+    }
+  ],
+  "hierarchy": {
+    "main_topics": [
+      "Title and Description",
+      "Chapters",
+      "References",
+      "Appendix"
+    ],
+    "structure": "The document is structured with a main title, followed by numbered chapters detailing plot progression and background. It concludes with sections for References and Appendix, which are currently placeholders."
+  }
+}

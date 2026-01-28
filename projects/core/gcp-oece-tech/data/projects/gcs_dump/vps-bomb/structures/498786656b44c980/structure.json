@@ -1,0 +1,387 @@
+{
+  "propositions": [
+    {
+      "id": "1",
+      "text": "这是一个关于一位现代佣兵女王穿越到古代官家嫡女的故事。",
+      "level": 1
+    },
+    {
+      "id": "1.1",
+      "text": "主角在一次任务失败后，魂归异世。",
+      "level": 2
+    },
+    {
+      "id": "1.2",
+      "text": "她醒来发现自己成为了一个受欺凌的官家嫡女。",
+      "level": 2
+    },
+    {
+      "id": "2",
+      "text": "故事围绕主角如何在新身份下生存和发展展开。",
+      "level": 1
+    },
+    {
+      "id": "2.1",
+      "text": "她需要适应古代的生活和人际关系。",
+      "level": 2
+    },
+    {
+      "id": "2.2",
+      "text": "她将面临庶女的挑衅、家族的斗争以及侯府的风波。",
+      "level": 2
+    },
+    {
+      "id": "2.3",
+      "text": "她将运用前世的智慧和勇气，书写属于自己的传奇。",
+      "level": 2
+    },
+    {
+      "id": "3",
+      "text": "故事包含章节信息。",
+      "level": 1
+    },
+    {
+      "id": "3.1",
+      "text": "第一章：魂归异世",
+      "level": 2
+    },
+    {
+      "id": "3.2",
+      "text": "第二章：落水之谜",
+      "level": 2
+    },
+    {
+      "id": "3.3",
+      "text": "第三章：初识暗影",
+      "level": 2
+    },
+    {
+      "id": "3.4",
+      "text": "第四章：侯府风波",
+      "level": 2
+    },
+    {
+      "id": "3.5",
+      "text": "第五章：宴上交锋",
+      "level": 2
+    },
+    {
+      "id": "3.6",
+      "text": "第六章：庶女挑衅",
+      "level": 2
+    },
+    {
+      "id": "3.7",
+      "text": "第七章：惩治刁奴",
+      "level": 2
+    },
+    {
+      "id": "3.8",
+      "text": "第八章：嫡女风采",
+      "level": 2
+    },
+    {
+      "id": "3.9",
+      "text": "第九章：侯爷垂青",
+      "level": 2
+    },
+    {
+      "id": "3.10",
+      "text": "第十章：意外之喜",
+      "level": 2
+    },
+    {
+      "id": "4",
+      "text": "故事中穿插了学术引用和作者笔记。",
+      "level": 1
+    },
+    {
+      "id": "4.1",
+      "text": "学术引用强调了嫡女命运的非注定性。",
+      "level": 2
+    },
+    {
+      "id": "4.2",
+      "text": "作者笔记表达了对读者的感谢。",
+      "level": 2
+    },
+    {
+      "id": "5",
+      "text": "文章提供了参考文献和代码示例。",
+      "level": 1
+    },
+    {
+      "id": "5.1",
+      "text": "参考文献涉及古代女性生存法则和宅斗策略。",
+      "level": 2
+    },
+    {
+      "id": "5.2",
+      "text": "代码示例是一个简单的获取下一章节的Python函数。",
+      "level": 2
+    },
+    {
+      "id": "6",
+      "text": "文章包含一个脚注，解释了佣兵女王身份对主角的影响。",
+      "level": 1
+    },
+    {
+      "id": "7",
+      "text": "主角在成为嫡女后，面临新的挑战。",
+      "level": 1
+    },
+    {
+      "id": "7.1",
+      "text": "穿越到一个陌生的时代，与前世截然不同。",
+      "level": 2
+    },
+    {
+      "id": "7.2",
+      "text": "她需要适应古代的闺房、丫鬟和汤药。",
+      "level": 2
+    },
+    {
+      "id": "7.3",
+      "text": "她需要了解自己的新身份和家族背景（安国公府）。",
+      "level": 2
+    },
+    {
+      "id": "7.4",
+      "text": "她决心勇敢面对未来的挑战，好好活下去。",
+      "level": 2
+    }
+  ],
+  "concepts": [
+    {
+      "name": "穿越",
+      "frequency": 4,
+      "context": "贯穿故事的核心概念，指现代灵魂进入古代身体。"
+    },
+    {
+      "name": "官家嫡女",
+      "frequency": 3,
+      "context": "主角的新身份，暗示了其在古代社会中的地位和潜在的命运。"
+    },
+    {
+      "name": "佣兵女王",
+      "frequency": 3,
+      "context": "主角的前世身份，赋予其战斗技能和策略思维。"
+    },
+    {
+      "name": "古代",
+      "frequency": 5,
+      "context": "故事发生的时代背景，与现代形成对比。"
+    },
+    {
+      "name": "灵魂",
+      "frequency": 1,
+      "context": "指主角的现代意识。"
+    },
+    {
+      "name": "任务",
+      "frequency": 1,
+      "context": "与主角前世的佣兵生涯相关。"
+    },
+    {
+      "name": "挑战",
+      "frequency": 2,
+      "context": "主角在新生活中将面临的困难。"
+    },
+    {
+      "name": "传奇",
+      "frequency": 2,
+      "context": "主角在新生活中期望书写的人生篇章。"
+    },
+    {
+      "name": "章节",
+      "frequency": 1,
+      "context": "故事的结构划分。"
+    },
+    {
+      "name": "嫡女",
+      "frequency": 2,
+      "context": "主角身份的一部分，与庶女相对。"
+    },
+    {
+      "name": "庶女",
+      "frequency": 2,
+      "context": "与嫡女相对，预示着家族内的冲突。"
+    },
+    {
+      "name": "丞相府",
+      "frequency": 1,
+      "context": "主角的临时身份所在地。"
+    },
+    {
+      "name": "安国公府",
+      "frequency": 1,
+      "context": "主角所属的大家族。"
+    },
+    {
+      "name": "智慧",
+      "frequency": 2,
+      "context": "主角应对困境的手段之一。"
+    },
+    {
+      "name": "勇气",
+      "frequency": 2,
+      "context": "主角面对困难的态度。"
+    },
+    {
+      "name": "命运",
+      "frequency": 2,
+      "context": "关于主角在古代的走向。"
+    },
+    {
+      "name": "生存",
+      "frequency": 2,
+      "context": "主角在新环境下的基本目标。"
+    }
+  ],
+  "relations": [
+    {
+      "source": "佣兵女王",
+      "target": "魂归异世",
+      "type": "leads_to"
+    },
+    {
+      "source": "佣兵女王",
+      "target": "战斗技能",
+      "type": "provides"
+    },
+    {
+      "source": "佣兵女王",
+      "target": "策略思维",
+      "type": "provides"
+    },
+    {
+      "source": "穿越",
+      "target": "官家嫡女",
+      "type": "results_in"
+    },
+    {
+      "source": "官家嫡女",
+      "target": "古代",
+      "type": "is_in"
+    },
+    {
+      "source": "官家嫡女",
+      "target": "受欺凌",
+      "type": "is_characterized_by"
+    },
+    {
+      "source": "主角",
+      "target": "新身份",
+      "type": "adopts"
+    },
+    {
+      "source": "新身份",
+      "target": "生存",
+      "type": "requires"
+    },
+    {
+      "source": "新身份",
+      "target": "发展",
+      "type": "requires"
+    },
+    {
+      "source": "主角",
+      "target": "智慧",
+      "type": "utilizes"
+    },
+    {
+      "source": "主角",
+      "target": "勇气",
+      "type": "utilizes"
+    },
+    {
+      "source": "主角",
+      "target": "传奇",
+      "type": "aims_to_write"
+    },
+    {
+      "source": "庶女",
+      "target": "挑衅",
+      "type": "performs"
+    },
+    {
+      "source": "家族",
+      "target": "斗争",
+      "type": "involves"
+    },
+    {
+      "source": "侯府",
+      "target": "风波",
+      "type": "experiences"
+    },
+    {
+      "source": "学术引用",
+      "target": "嫡女命运",
+      "type": "discusses"
+    },
+    {
+      "source": "作者笔记",
+      "target": "读者",
+      "type": "addresses"
+    },
+    {
+      "source": "参考文献",
+      "target": "古代女性生存法则",
+      "type": "includes"
+    },
+    {
+      "source": "参考文献",
+      "target": "宅斗智慧",
+      "type": "includes"
+    },
+    {
+      "source": "代码示例",
+      "target": "获取下一章节",
+      "type": "demonstrates"
+    },
+    {
+      "source": "佣兵女王身份",
+      "target": "主角",
+      "type": "is_of"
+    },
+    {
+      "source": "主角",
+      "target": "古代生活",
+      "type": "adapts_to"
+    },
+    {
+      "source": "主角",
+      "target": "人际关系",
+      "type": "adapts_to"
+    },
+    {
+      "source": "主角",
+      "target": "新环境",
+      "type": "faces"
+    },
+    {
+      "source": "主角",
+      "target": "决意",
+      "type": "forms"
+    },
+    {
+      "source": "决意",
+      "target": "勇敢面对",
+      "type": "involves"
+    },
+    {
+      "source": "决意",
+      "target": "好好活下去",
+      "type": "involves"
+    }
+  ],
+  "hierarchy": {
+    "main_topics": [
+      "故事梗概",
+      "主要角色",
+      "情节发展",
+      "结构与补充内容"
+    ],
+    "structure": "文档整体呈现为一部小说的介绍性内容，包含标题、章节目录、楔子、章节示例、引用、笔记、参考文献、代码示例和脚注。内容从宏观的故事概述逐渐深入到具体的章节和细节。"
+  }
+}

@@ -1,0 +1,354 @@
+{
+  "propositions": [
+    {
+      "id": "1",
+      "text": "《喋血替身1941》是一部小说。",
+      "level": 1
+    },
+    {
+      "id": "1.1",
+      "text": "该小说的背景设定在1941年。",
+      "level": 2
+    },
+    {
+      "id": "2",
+      "text": "小说讲述了林峰成为军统替身的故事。",
+      "level": 1
+    },
+    {
+      "id": "2.1",
+      "text": "林峰的目的是清除我党叛徒吴克忍、营救地下工作者王毅、获取军统山羊计划。",
+      "level": 2
+    },
+    {
+      "id": "2.2",
+      "text": "林峰面临着与长嫂同居的尴尬处境和来自军统的质疑。",
+      "level": 2
+    },
+    {
+      "id": "3",
+      "text": "林峰在八个月大时被父亲遗弃在末河南岸。",
+      "level": 1
+    },
+    {
+      "id": "3.1",
+      "text": "他的母亲在逃亡中被追兵击中身亡。",
+      "level": 2
+    },
+    {
+      "id": "3.2",
+      "text": "父亲在遗弃林峰时，在他身边插了一把短剑。",
+      "level": 2
+    },
+    {
+      "id": "3.3",
+      "text": "一个年轻女人发现了林峰并给他喂奶。",
+      "level": 2
+    },
+    {
+      "id": "4",
+      "text": "林峰后来加入了中国共产党，并成为老秦的上级。",
+      "level": 1
+    },
+    {
+      "id": "4.1",
+      "text": "他当前的身份是中统平凉情报小组组长，但已“死去”。",
+      "level": 2
+    },
+    {
+      "id": "4.2",
+      "text": "他被命令模仿军统特务的声音、习惯和经历。",
+      "level": 2
+    },
+    {
+      "id": "4.3",
+      "text": "他的任务是成为一个替身，并要忘掉自己是谁。",
+      "level": 2
+    },
+    {
+      "id": "5",
+      "text": "林峰的孪生哥哥是军统特务，已死亡。",
+      "level": 1
+    },
+    {
+      "id": "5.1",
+      "text": "林峰的哥哥后心中枪死亡，与林峰母亲的死状相似。",
+      "level": 2
+    },
+    {
+      "id": "5.2",
+      "text": "林峰即将要替身的人是他的孪生哥哥。",
+      "level": 2
+    },
+    {
+      "id": "6",
+      "text": "林峰在平凉担任教育科长，秘密身份是中统平凉情报小组组长。",
+      "level": 1
+    },
+    {
+      "id": "6.1",
+      "text": "蓝县长的女儿蓝金枝对林峰情有独钟，但林峰不解风情。",
+      "level": 2
+    },
+    {
+      "id": "6.2",
+      "text": "林峰的女友红梅从天津来到平凉。",
+      "level": 2
+    },
+    {
+      "id": "7",
+      "text": "林峰面临着派遣密件的紧急任务。",
+      "level": 1
+    },
+    {
+      "id": "7.1",
+      "text": "他需要将一份密件在下午三点前安全送出。",
+      "level": 2
+    },
+    {
+      "id": "7.2",
+      "text": "他利用晾晒皮鞋的信号方法来传递情报。",
+      "level": 2
+    },
+    {
+      "id": "7.3",
+      "text": "蓝金枝的行为和老贾、老高、蓝县长的出现增加了局势的复杂性。",
+      "level": 2
+    },
+    {
+      "id": "8",
+      "text": "蓝金枝与田秘书发生冲突，导致一场闹剧。",
+      "level": 1
+    },
+    {
+      "id": "8.1",
+      "text": "蓝金枝抢走了林峰放在窗台上的皮鞋。",
+      "level": 2
+    },
+    {
+      "id": "8.2",
+      "text": "皮鞋飞出窗口，落在了“李四羊肉面馆”门前。",
+      "level": 2
+    }
+  ],
+  "concepts": [
+    {
+      "name": "林峰",
+      "frequency": 10,
+      "context": "主角，军统替身，地下党员。"
+    },
+    {
+      "name": "军统",
+      "frequency": 5,
+      "context": "小说中的主要情报组织。"
+    },
+    {
+      "name": "替身",
+      "frequency": 5,
+      "context": "林峰的任务，替代他人身份。"
+    },
+    {
+      "name": "延安",
+      "frequency": 2,
+      "context": "故事发生地，中共中心。"
+    },
+    {
+      "name": "平凉",
+      "frequency": 5,
+      "context": "林峰的公开身份所在地。"
+    },
+    {
+      "name": "老秦",
+      "frequency": 4,
+      "context": "林峰的上级，中共党员。"
+    },
+    {
+      "name": "蓝金枝",
+      "frequency": 7,
+      "context": "蓝县长的女儿，对林峰有好感。"
+    },
+    {
+      "name": "密件",
+      "frequency": 3,
+      "context": "需要传递的重要情报。"
+    },
+    {
+      "name": "皮鞋",
+      "frequency": 5,
+      "context": "传递密件的载体。"
+    },
+    {
+      "name": "父亲",
+      "frequency": 3,
+      "context": "遗弃林峰的人物。"
+    },
+    {
+      "name": "母亲",
+      "frequency": 3,
+      "context": "在逃亡中牺牲的人物。"
+    },
+    {
+      "name": "孪生哥哥",
+      "frequency": 2,
+      "context": "林峰的哥哥，军统特务。"
+    },
+    {
+      "name": "田秘书",
+      "frequency": 4,
+      "context": "林峰的同事，似乎对蓝金枝有意思。"
+    },
+    {
+      "name": "蓝县长",
+      "frequency": 4,
+      "context": "蓝金枝的父亲。"
+    },
+    {
+      "name": "红梅",
+      "frequency": 2,
+      "context": "林峰的女友。"
+    },
+    {
+      "name": "李四羊肉面馆",
+      "frequency": 3,
+      "context": "后街的地点，皮鞋最终落点。"
+    },
+    {
+      "name": "老贾",
+      "frequency": 3,
+      "context": "蓝县长的秘书，曾是军统的人。"
+    },
+    {
+      "name": "老高",
+      "frequency": 2,
+      "context": "县府财务科会计。"
+    }
+  ],
+  "relations": [
+    {
+      "source": "林峰",
+      "target": "军统",
+      "type": "is_a"
+    },
+    {
+      "source": "林峰",
+      "target": "替身",
+      "type": "undertakes_role_of"
+    },
+    {
+      "source": "林峰",
+      "target": "老秦",
+      "type": "reports_to"
+    },
+    {
+      "source": "林峰",
+      "target": "蓝金枝",
+      "type": "has_unrequited_affection_from"
+    },
+    {
+      "source": "林峰",
+      "target": "红梅",
+      "type": "is_in_relationship_with"
+    },
+    {
+      "source": "林峰",
+      "target": "父亲",
+      "type": "is_abandoned_by"
+    },
+    {
+      "source": "林峰",
+      "target": "母亲",
+      "type": "is_child_of"
+    },
+    {
+      "source": "林峰",
+      "target": "孪生哥哥",
+      "type": "is_twin_of"
+    },
+    {
+      "source": "林峰",
+      "target": "田秘书",
+      "type": "colleague_of"
+    },
+    {
+      "source": "林峰",
+      "target": "皮鞋",
+      "type": "uses_for_communication"
+    },
+    {
+      "source": "蓝金枝",
+      "target": "蓝县长",
+      "type": "is_daughter_of"
+    },
+    {
+      "source": "蓝金枝",
+      "target": "田秘书",
+      "type": "has_complex_interaction_with"
+    },
+    {
+      "source": "蓝金枝",
+      "target": "林峰",
+      "type": "pursues"
+    },
+    {
+      "source": "蓝金枝",
+      "target": "皮鞋",
+      "type": "throws"
+    },
+    {
+      "source": "老秦",
+      "target": "林峰",
+      "type": "superior_of"
+    },
+    {
+      "source": "皮鞋",
+      "target": "密件",
+      "type": "carries"
+    },
+    {
+      "source": "皮鞋",
+      "target": "李四羊肉面馆",
+      "type": "lands_at"
+    },
+    {
+      "source": "老贾",
+      "target": "蓝县长",
+      "type": "secretary_of"
+    },
+    {
+      "source": "老贾",
+      "target": "军统",
+      "type": "former_member_of"
+    },
+    {
+      "source": "老高",
+      "target": "县府财务科",
+      "type": "works_at"
+    },
+    {
+      "source": "田秘书",
+      "target": "蓝金枝",
+      "type": "interacts_with"
+    },
+    {
+      "source": "母亲",
+      "target": "追兵",
+      "type": "is_killed_by"
+    },
+    {
+      "source": "父亲",
+      "target": "林峰",
+      "type": "abandons"
+    }
+  ],
+  "hierarchy": {
+    "main_topics": [
+      "Introduction and Premise",
+      "Character Background and Early Life",
+      "Current Mission and Identity",
+      "Personal Relationships and Complications",
+      "Operational Challenges and Espionage Tactics",
+      "Confrontation and Climax"
+    ],
+    "structure": "The document is structured as a novel narrative, progressing chronologically and thematically through chapters. It begins with an introduction to the story and protagonist, delves into his backstory, establishes his current mission and the intricate web of his relationships and the political landscape. Subsequent sections detail the operational challenges faced and culminate in a dramatic confrontation."
+  }
+}

@@ -1,0 +1,148 @@
+{
+  "propositions": [
+    {
+      "id": "1",
+      "text": "Life is a complex journey filled with emotions, relationships, and responsibilities.",
+      "level": 1
+    },
+    {
+      "id": "1.1",
+      "text": "Emotional connections and losses shape personal experiences.",
+      "level": 2
+    },
+    {
+      "id": "1.1.1",
+      "text": "A profound connection with 'her' led to deep pain upon separation.",
+      "level": 3
+    },
+    {
+      "id": "1.1.2",
+      "text": "Loneliness and self-consolation follow loss, with an acceptance of life's hardships.",
+      "level": 3
+    },
+    {
+      "id": "1.2",
+      "text": "Daily life is a struggle with mundane challenges and sudden crises.",
+      "level": 2
+    },
+    {
+      "id": "1.2.1",
+      "text": "Everyday life feels burdensome, like a snail carrying a heavy shell.",
+      "level": 3
+    },
+    {
+      "id": "1.2.2",
+      "text": "Sudden health issues and the fragility of life are stark reminders of vulnerability.",
+      "level": 3
+    },
+    {
+      "id": "1.3",
+      "text": "Family provides both warmth and pressure as a central pillar of life.",
+      "level": 2
+    },
+    {
+      "id": "1.3.1",
+      "text": "Interactions with a child bring joy and a sense of purpose.",
+      "level": 3
+    },
+    {
+      "id": "1.3.2",
+      "text": "Spousal support offers comfort amidst the burdens of responsibility.",
+      "level": 3
+    },
+    {
+      "id": "1.4",
+      "text": "Reflection on past struggles fosters personal growth and future aspirations.",
+      "level": 2
+    },
+    {
+      "id": "1.4.1",
+      "text": "Past difficulties teach resilience and the importance of family.",
+      "level": 3
+    },
+    {
+      "id": "1.4.2",
+      "text": "Future hopes center on peace, family safety, and perseverance.",
+      "level": 3
+    },
+    {
+      "id": "1.5",
+      "text": "Life's trivialities and emotional complexities add depth to existence.",
+      "level": 2
+    },
+    {
+      "id": "1.5.1",
+      "text": "Daily routines and small joys with family create a sense of fulfillment.",
+      "level": 3
+    },
+    {
+      "id": "1.5.2",
+      "text": "Emotional relationships are intricate, requiring effort and understanding.",
+      "level": 3
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Loss",
+      "frequency": 5,
+      "context": "Emotional pain from separation and loneliness."
+    },
+    {
+      "name": "Family",
+      "frequency": 8,
+      "context": "Central source of joy, responsibility, and support."
+    },
+    {
+      "name": "Life",
+      "frequency": 10,
+      "context": "A journey of struggles, mundane tasks, and hopes."
+    },
+    {
+      "name": "Love",
+      "frequency": 6,
+      "context": "Complex emotion involving sacrifice and understanding."
+    },
+    {
+      "name": "Responsibility",
+      "frequency": 4,
+      "context": "Burden of family and personal duties."
+    }
+  ],
+  "relations": [
+    {
+      "source": "Loss",
+      "target": "Loneliness",
+      "type": "implies"
+    },
+    {
+      "source": "Family",
+      "target": "Responsibility",
+      "type": "part_of"
+    },
+    {
+      "source": "Love",
+      "target": "Family",
+      "type": "part_of"
+    },
+    {
+      "source": "Life",
+      "target": "Struggle",
+      "type": "part_of"
+    },
+    {
+      "source": "Family",
+      "target": "Joy",
+      "type": "implies"
+    }
+  ],
+  "hierarchy": {
+    "main_topics": [
+      "Emotional Experiences",
+      "Daily Life",
+      "Family Dynamics",
+      "Personal Growth",
+      "Life Reflections"
+    ],
+    "structure": "The document is organized into chapters focusing on personal emotions, daily struggles, family interactions, reflections on past and future, and miscellaneous thoughts, following a narrative progression from pain to hope."
+  }
+}

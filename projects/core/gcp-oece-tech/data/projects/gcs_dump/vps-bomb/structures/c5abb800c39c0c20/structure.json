@@ -1,0 +1,113 @@
+{
+  "propositions": [
+    {
+      "id": "1",
+      "text": "She is the Emperor, navigating a treacherous palace environment.",
+      "level": 1
+    },
+    {
+      "id": "1.1",
+      "text": "Her initial encounters are filled with tension and hidden motives.",
+      "level": 2
+    },
+    {
+      "id": "1.2",
+      "text": "Palace intrigues reveal conspiracies against her.",
+      "level": 2
+    },
+    {
+      "id": "1.3",
+      "text": "Emotional connections develop amidst danger.",
+      "level": 2
+    },
+    {
+      "id": "1.4",
+      "text": "Crises and assassination attempts test her resilience.",
+      "level": 2
+    },
+    {
+      "id": "1.5",
+      "text": "Political struggles and difficult decisions define her rule.",
+      "level": 2
+    },
+    {
+      "id": "1.6",
+      "text": "Secrets of her lineage and betrayals are uncovered.",
+      "level": 2
+    },
+    {
+      "id": "1.7",
+      "text": "A climactic confrontation resolves past grievances.",
+      "level": 2
+    },
+    {
+      "id": "1.8",
+      "text": "A new beginning emerges after turmoil.",
+      "level": 2
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Power",
+      "frequency": 10,
+      "context": "Central theme of control and authority in the palace."
+    },
+    {
+      "name": "Betrayal",
+      "frequency": 8,
+      "context": "Recurring motif in conspiracies and personal relationships."
+    },
+    {
+      "name": "Revenge",
+      "frequency": 6,
+      "context": "Driving force behind the protagonist's actions against enemies."
+    },
+    {
+      "name": "Love",
+      "frequency": 5,
+      "context": "Emotional undercurrent amidst political struggles."
+    },
+    {
+      "name": "Secrecy",
+      "frequency": 7,
+      "context": "Hidden truths about lineage and motives."
+    }
+  ],
+  "relations": [
+    {
+      "source": "Power",
+      "target": "Betrayal",
+      "type": "implies"
+    },
+    {
+      "source": "Betrayal",
+      "target": "Revenge",
+      "type": "causes"
+    },
+    {
+      "source": "Love",
+      "target": "Secrecy",
+      "type": "complicates"
+    },
+    {
+      "source": "Secrecy",
+      "target": "Betrayal",
+      "type": "enables"
+    },
+    {
+      "source": "Power",
+      "target": "Revenge",
+      "type": "motivates"
+    }
+  ],
+  "hierarchy": {
+    "main_topics": [
+      "Palace Intrigue",
+      "Personal Struggles",
+      "Political Maneuvering",
+      "Emotional Bonds",
+      "Ultimate Resolution"
+    ],
+    "structure": "The document follows a chronological narrative divided into chapters, each focusing on a specific aspect of the protagonist's journey from initial challenges to final resolution."
+  }
+}

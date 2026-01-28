@@ -1,0 +1,21 @@
+{
+  "name": "gemini-cli-global",
+  "version": "1.0.0",
+  "description": "Global Gemini CLI tool for local development",
+  "main": "gemini-cli.js",
+  "bin": {
+    "gemini-cli": "./gemini-cli.js"
+  },
+  "scripts": {
+    "install-global": "npm install -g ."
+  },
+  "dependencies": {
+    "@google/generative-ai": "^0.21.0"
+  },
+  "engines": {
+    "node": ">=16.0.0"
+  },
+  "keywords": ["gemini", "ai", "cli", "google"],
+  "author": "Developer",
+  "license": "MIT"
+}

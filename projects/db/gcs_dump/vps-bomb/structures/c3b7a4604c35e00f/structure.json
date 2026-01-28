@@ -1,0 +1,199 @@
+{
+  "propositions": [
+    {
+      "id": "1",
+      "text": "怜香惜玉录 is a narrative work.",
+      "level": 1
+    },
+    {
+      "id": "1.1",
+      "text": "The work is structured into sections.",
+      "level": 2
+    },
+    {
+      "id": "1.1.1",
+      "text": "There is an 'Overture' (序曲).",
+      "level": 3
+    },
+    {
+      "id": "1.1.2",
+      "text": "There are three main 'Chapters' (篇章).",
+      "level": 3
+    },
+    {
+      "id": "1.1.2.1",
+      "text": "Chapter One (篇章一) includes 'Dawn' (拂晓), 'Noon' (晌午), and 'Dusk' (黄昏).",
+      "level": 4
+    },
+    {
+      "id": "1.1.2.2",
+      "text": "Chapter Two (篇章二) includes 'First Meeting' (初遇), 'Getting Acquainted' (相知), and 'Parting' (离别).",
+      "level": 4
+    },
+    {
+      "id": "1.1.2.3",
+      "text": "Chapter Three (篇章三) includes 'Longing' (思念), 'Reunion' (重逢), and 'Eternity' (永恒).",
+      "level": 4
+    },
+    {
+      "id": "1.1.3",
+      "text": "There is a 'Finale' (尾声).",
+      "level": 3
+    }
+  ],
+  "concepts": [
+    {
+      "name": "怜香惜玉录",
+      "frequency": 1,
+      "context": "The title of the work."
+    },
+    {
+      "name": "序曲",
+      "frequency": 1,
+      "context": "The introductory section of the work."
+    },
+    {
+      "name": "篇章",
+      "frequency": 3,
+      "context": "The main divisions or chapters of the work."
+    },
+    {
+      "name": "拂晓",
+      "frequency": 1,
+      "context": "A sub-section within Chapter One, indicating 'Dawn'."
+    },
+    {
+      "name": "晌午",
+      "frequency": 1,
+      "context": "A sub-section within Chapter One, indicating 'Noon'."
+    },
+    {
+      "name": "黄昏",
+      "frequency": 1,
+      "context": "A sub-section within Chapter One, indicating 'Dusk'."
+    },
+    {
+      "name": "初遇",
+      "frequency": 1,
+      "context": "A sub-section within Chapter Two, indicating 'First Meeting'."
+    },
+    {
+      "name": "相知",
+      "frequency": 1,
+      "context": "A sub-section within Chapter Two, indicating 'Getting Acquainted'."
+    },
+    {
+      "name": "离别",
+      "frequency": 1,
+      "context": "A sub-section within Chapter Two, indicating 'Parting'."
+    },
+    {
+      "name": "思念",
+      "frequency": 1,
+      "context": "A sub-section within Chapter Three, indicating 'Longing'."
+    },
+    {
+      "name": "重逢",
+      "frequency": 1,
+      "context": "A sub-section within Chapter Three, indicating 'Reunion'."
+    },
+    {
+      "name": "永恒",
+      "frequency": 1,
+      "context": "A sub-section within Chapter Three, indicating 'Eternity'."
+    },
+    {
+      "name": "尾声",
+      "frequency": 1,
+      "context": "The concluding section of the work."
+    }
+  ],
+  "relations": [
+    {
+      "source": "序曲",
+      "target": "怜香惜玉录",
+      "type": "part_of"
+    },
+    {
+      "source": "篇章",
+      "target": "怜香惜玉录",
+      "type": "part_of"
+    },
+    {
+      "source": "尾声",
+      "target": "怜香惜玉录",
+      "type": "part_of"
+    },
+    {
+      "source": "拂晓",
+      "target": "篇章一",
+      "type": "part_of"
+    },
+    {
+      "source": "晌午",
+      "target": "篇章一",
+      "type": "part_of"
+    },
+    {
+      "source": "黄昏",
+      "target": "篇章一",
+      "type": "part_of"
+    },
+    {
+      "source": "初遇",
+      "target": "篇章二",
+      "type": "part_of"
+    },
+    {
+      "source": "相知",
+      "target": "篇章二",
+      "type": "part_of"
+    },
+    {
+      "source": "离别",
+      "target": "篇章二",
+      "type": "part_of"
+    },
+    {
+      "source": "思念",
+      "target": "篇章三",
+      "type": "part_of"
+    },
+    {
+      "source": "重逢",
+      "target": "篇章三",
+      "type": "part_of"
+    },
+    {
+      "source": "永恒",
+      "target": "篇章三",
+      "type": "part_of"
+    },
+    {
+      "source": "篇章一",
+      "target": "篇章",
+      "type": "is_a_type_of"
+    },
+    {
+      "source": "篇章二",
+      "target": "篇章",
+      "type": "is_a_type_of"
+    },
+    {
+      "source": "篇章三",
+      "target": "篇章",
+      "type": "is_a_type_of"
+    }
+  ],
+  "hierarchy": {
+    "main_topics": [
+      "怜香惜玉录",
+      "序曲",
+      "篇章一",
+      "篇章二",
+      "篇章三",
+      "尾声"
+    ],
+    "structure": "The document is a hierarchical structure with a main title, followed by an overture, three main chapters, each containing sub-sections, and a finale. The chapter titles suggest a narrative progression."
+  }
+}

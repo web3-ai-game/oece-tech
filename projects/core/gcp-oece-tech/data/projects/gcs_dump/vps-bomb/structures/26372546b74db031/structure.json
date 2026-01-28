@@ -1,0 +1,1081 @@
+{
+  "propositions": [
+    {
+      "id": "1",
+      "text": "阿加莎·克里斯蒂写给詹姆斯的一封信，解释说这本书是特别为他而写的，以满足他对“血淋淋的暴力谋杀”的渴望。",
+      "level": 1
+    },
+    {
+      "id": "1.1",
+      "text": "作者抱怨读者认为她的谋杀事件“太文雅了，事实上是太贫血了”。",
+      "level": 2
+    },
+    {
+      "id": "2",
+      "text": "斯蒂芬·法尔在车站感到厌恶，并思念南非。",
+      "level": 1
+    },
+    {
+      "id": "2.1",
+      "text": "斯蒂芬对伦敦的兴奋感已经消退，认为它像一块“闪闪发光的假钻石”。",
+      "level": 2
+    },
+    {
+      "id": "2.2",
+      "text": "斯蒂芬在火车上发现了一个令他着迷的女人，皮拉尔·埃斯特拉瓦多斯。",
+      "level": 2
+    },
+    {
+      "id": "2.3",
+      "text": "斯蒂芬和皮拉尔在火车上交谈，讨论了他们的背景和对生活和死亡的看法。",
+      "level": 2
+    },
+    {
+      "id": "2.4",
+      "text": "斯蒂芬看到皮拉尔行李标签上的地址“戈斯顿府”，这让他感到困惑和怨恨。",
+      "level": 2
+    },
+    {
+      "id": "3",
+      "text": "在戈斯顿府，艾尔弗雷德·李和他的妻子莉迪亚正在讨论圣诞节计划，并对艾尔弗雷德的父亲西米恩·李表达了他们的担忧。",
+      "level": 1
+    },
+    {
+      "id": "3.1",
+      "text": "莉迪亚认为西米恩·李是一个“暴君”，并且完全控制了他们的生活。",
+      "level": 2
+    },
+    {
+      "id": "3.2",
+      "text": "艾尔弗雷德认为父亲对他们很好，尤其是在金钱方面。",
+      "level": 2
+    },
+    {
+      "id": "3.3",
+      "text": "莉迪亚表达了对西米恩·李的不喜欢，认为他“恶毒而暴虐”。",
+      "level": 2
+    },
+    {
+      "id": "3.4",
+      "text": "他们讨论了即将到来的客人，包括戴维、希尔达、乔治和马格达伦。",
+      "level": 2
+    },
+    {
+      "id": "3.5",
+      "text": "管家霍伯里通知他们，还有两位客人——一位先生和一位年轻女士——将要来。",
+      "level": 2
+    },
+    {
+      "id": "3.6",
+      "text": "莉迪亚认为西米恩·李正在为自己策划一个“小小的圣诞节娱乐节目”。",
+      "level": 2
+    },
+    {
+      "id": "3.7",
+      "text": "艾尔弗雷德描述了他的母亲是一个“可怜虫”，总是在生病和哭泣。",
+      "level": 2
+    },
+    {
+      "id": "3.8",
+      "text": "莉迪亚在花园里创作微缩景观，包括死海。",
+      "level": 2
+    },
+    {
+      "id": "4",
+      "text": "戴维·李正在读一封信，并与他的妻子希尔达讨论是否应该去戈斯顿府过圣诞节。",
+      "level": 1
+    },
+    {
+      "id": "4.1",
+      "text": "戴维对他的父亲西米恩·李有着深刻的仇恨，因为他认为父亲导致了他母亲的死亡。",
+      "level": 2
+    },
+    {
+      "id": "4.2",
+      "text": "戴维提到他的兄弟们，哈里、艾尔弗雷德和乔治，以及他们与父亲的关系。",
+      "level": 2
+    },
+    {
+      "id": "4.3",
+      "text": "希尔达认为戴维应该放下过去的怨恨，去戈斯顿府，并“永远地摆脱掉那个怪物”。",
+      "level": 2
+    },
+    {
+      "id": "5",
+      "text": "乔治·李和他的妻子马格达伦讨论去戈斯顿府过圣诞节的计划。",
+      "level": 1
+    },
+    {
+      "id": "5.1",
+      "text": "乔治认为他们有义务去，并且可以节省开销。",
+      "level": 2
+    },
+    {
+      "id": "5.2",
+      "text": "马格达伦认为乔治的父亲“不太——正派”，并且对莉迪亚说话的方式感到不满。",
+      "level": 2
+    },
+    {
+      "id": "5.3",
+      "text": "马格达伦对乔治的兄弟哈里感到惊讶，并认为他“声名狼藉”。",
+      "level": 2
+    },
+    {
+      "id": "5.4",
+      "text": "马格达伦讨厌去戈斯顿府，觉得艾尔弗雷德沉闷乏味，莉迪亚瞧不起她，并且讨厌霍伯里。",
+      "level": 2
+    },
+    {
+      "id": "5.5",
+      "text": "马格达伦在给莉迪亚打电话告知他们明天的到达时间后，感到不知所措。",
+      "level": 2
+    },
+    {
+      "id": "6",
+      "text": "故事介绍了住在戈斯顿府的老西米恩·李。",
+      "level": 1
+    }
+  ],
+  "concepts": [
+    {
+      "name": "波洛",
+      "frequency": 1,
+      "context": "阿加莎·克里斯蒂的著名侦探，书中名字出现，但未直接参与情节。"
+    },
+    {
+      "name": "圣诞节",
+      "frequency": 10,
+      "context": "故事发生的背景和主要事件的驱动因素。"
+    },
+    {
+      "name": "谋杀",
+      "frequency": 2,
+      "context": "阿加莎·克里斯蒂作品的常见主题，在信中被提及。"
+    },
+    {
+      "name": "斯蒂芬·法尔",
+      "frequency": 6,
+      "context": "在火车上遇到皮拉尔的男人，对伦敦感到厌恶，对南非充满思念。"
+    },
+    {
+      "name": "伦敦",
+      "frequency": 4,
+      "context": "斯蒂芬感到厌恶的城市，被描绘成“肮脏”且“沉闷”。"
+    },
+    {
+      "name": "南非",
+      "frequency": 4,
+      "context": "斯蒂芬思念的故乡，代表着阳光、自由和广阔。"
+    },
+    {
+      "name": "皮拉尔·埃斯特拉瓦多斯",
+      "frequency": 9,
+      "context": "在火车上遇到的神秘而迷人的年轻女子，引起斯蒂芬的兴趣。"
+    },
+    {
+      "name": "戈斯顿府",
+      "frequency": 14,
+      "context": "李家的宅邸，是故事的主要发生地，圣诞节聚会的地点。"
+    },
+    {
+      "name": "艾尔弗雷德·李",
+      "frequency": 14,
+      "context": "西米恩·李的儿子，戈斯顿府的现任主人，温和但受父亲影响。"
+    },
+    {
+      "name": "莉迪亚",
+      "frequency": 13,
+      "context": "艾尔弗雷德的妻子，精力充沛，对西米恩·李有强烈的负面看法。"
+    },
+    {
+      "name": "西米恩·李",
+      "frequency": 11,
+      "context": "艾尔弗雷德的父亲，一个年迈、独裁且富有的人，掌控着家人的生活。"
+    },
+    {
+      "name": "戴维·李",
+      "frequency": 9,
+      "context": "西米恩·李的儿子，艺术家，对父亲怀有极深的怨恨。"
+    },
+    {
+      "name": "希尔达",
+      "frequency": 7,
+      "context": "戴维的妻子，冷静、有力量，劝说戴维去戈斯顿府。"
+    },
+    {
+      "name": "乔治·李",
+      "frequency": 9,
+      "context": "西米恩·李的儿子，国会议员，受父亲影响，关心金钱。"
+    },
+    {
+      "name": "马格达伦",
+      "frequency": 10,
+      "context": "乔治的妻子，物质主义，对西米恩·李和他的家人持怀疑态度。"
+    },
+    {
+      "name": "哈里",
+      "frequency": 3,
+      "context": "西米恩·李的儿子，声名狼藉，多年未与家人联系。"
+    },
+    {
+      "name": "詹妮弗",
+      "frequency": 1,
+      "context": "西米恩·李的女儿，已故，曾与西班牙艺术家结婚。"
+    },
+    {
+      "name": "霍伯里",
+      "frequency": 4,
+      "context": "戈斯顿府的男管家，被描述为“蹑手蹑脚”和“虚伪”。"
+    },
+    {
+      "name": "特雷西利安",
+      "frequency": 2,
+      "context": "戈斯顿府的老男管家，被描述为忠诚和值得信赖。"
+    },
+    {
+      "name": "家庭",
+      "frequency": 9,
+      "context": "故事的核心主题，围绕着李家的聚会和矛盾展开。"
+    },
+    {
+      "name": "金钱",
+      "frequency": 6,
+      "context": "西米恩·李的财富及其对家庭成员的影响是讨论的重点。"
+    },
+    {
+      "name": "怨恨",
+      "frequency": 3,
+      "context": "戴维对父亲的深层怨恨是他的主要动机之一。"
+    },
+    {
+      "name": "记忆",
+      "frequency": 3,
+      "context": "戴维对过去的执着是故事的一个重要方面。"
+    },
+    {
+      "name": "父亲",
+      "frequency": 14,
+      "context": "西米恩·李的角色，是家庭冲突的中心。"
+    },
+    {
+      "name": "儿子",
+      "frequency": 7,
+      "context": "西米恩·李的儿子们，他们与父亲和彼此之间的关系是故事的焦点。"
+    },
+    {
+      "name": "妻子",
+      "frequency": 11,
+      "context": "艾尔弗雷德的妻子莉迪亚和乔治的妻子马格达伦，她们对家庭动态有重要影响。"
+    },
+    {
+      "name": "西班牙",
+      "frequency": 3,
+      "context": "皮拉尔的国籍，暗示着异国情调和潜在的秘密。"
+    },
+    {
+      "name": "火车",
+      "frequency": 7,
+      "context": "斯蒂芬和皮拉尔相遇的地点，象征着旅程和命运的交汇。"
+    },
+    {
+      "name": "视觉",
+      "frequency": 4,
+      "context": "对人物外貌和环境的细致描绘，如皮拉尔的眼睛，戈斯顿府的豪华。"
+    },
+    {
+      "name": "对话",
+      "frequency": 20,
+      "context": "故事主要通过人物之间的交流来推动情节和揭示性格。"
+    },
+    {
+      "name": "情绪",
+      "frequency": 10,
+      "context": "人物的各种情感，如厌恶、思念、爱、恨、怨恨、困惑等，贯穿全文。"
+    },
+    {
+      "name": "社会阶层",
+      "frequency": 3,
+      "context": "提及佣人、国会议员等，暗示了故事的社会背景。"
+    },
+    {
+      "name": "道德",
+      "frequency": 3,
+      "context": "关于责任、忠诚、原谅等议题在人物对话中有所体现。"
+    },
+    {
+      "name": "冲突",
+      "frequency": 5,
+      "context": "家庭内部的矛盾，尤其是西米恩·李与他儿子们之间的冲突。"
+    },
+    {
+      "name": "神秘",
+      "frequency": 3,
+      "context": "皮拉尔的身份和来意，以及两位神秘客人的到来，增加了悬念。"
+    },
+    {
+      "name": "性格",
+      "frequency": 15,
+      "context": "人物的性格特征是故事发展的关键，如斯蒂芬的厌恶，皮拉尔的冷酷，艾尔弗雷德的温顺，莉迪亚的锐利，戴维的执着，乔治的务实，马格达伦的虚荣。"
+    },
+    {
+      "name": "象征",
+      "frequency": 4,
+      "context": "如南非象征自由，火车象征旅程，微缩景观可能象征人物内心的世界。"
+    },
+    {
+      "name": "过去",
+      "frequency": 5,
+      "context": "人物过去的经历，尤其是西米恩·李的“冒险生活”和戴维母亲的遭遇，对现在产生影响。"
+    },
+    {
+      "name": "未来",
+      "frequency": 2,
+      "context": "圣诞节的到来象征着新的开始或延续，也可能包含潜在的危险。"
+    }
+  ],
+  "relations": [
+    {
+      "source": "阿加莎·克里斯蒂",
+      "target": "詹姆斯",
+      "type": "is_addressed_to"
+    },
+    {
+      "source": "谋杀事件",
+      "target": "文雅",
+      "type": "described_as"
+    },
+    {
+      "source": "谋杀事件",
+      "target": "贫血",
+      "type": "described_as"
+    },
+    {
+      "source": "斯蒂芬·法尔",
+      "target": "伦敦",
+      "type": "dislikes"
+    },
+    {
+      "source": "斯蒂芬·法尔",
+      "target": "南非",
+      "type": "misses"
+    },
+    {
+      "source": "斯蒂芬·法尔",
+      "target": "皮拉尔",
+      "type": "is_fascinated_by"
+    },
+    {
+      "source": "皮拉尔",
+      "target": "西班牙",
+      "type": "is_from"
+    },
+    {
+      "source": "皮拉尔",
+      "target": "戈斯顿府",
+      "type": "going_to"
+    },
+    {
+      "source": "艾尔弗雷德·李",
+      "target": "西米恩·李",
+      "type": "is_son_of"
+    },
+    {
+      "source": "莉迪亚",
+      "target": "艾尔弗雷德·李",
+      "type": "is_wife_of"
+    },
+    {
+      "source": "莉迪亚",
+      "target": "西米恩·李",
+      "type": "dislikes"
+    },
+    {
+      "source": "西米恩·李",
+      "target": "家人",
+      "type": "controls"
+    },
+    {
+      "source": "戴维·李",
+      "target": "西米恩·李",
+      "type": "resents"
+    },
+    {
+      "source": "希尔达",
+      "target": "戴维·李",
+      "type": "is_wife_of"
+    },
+    {
+      "source": "乔治·李",
+      "target": "西米恩·李",
+      "type": "is_son_of"
+    },
+    {
+      "source": "马格达伦",
+      "target": "乔治·李",
+      "type": "is_wife_of"
+    },
+    {
+      "source": "乔治·李",
+      "target": "马格达伦",
+      "type": "discusses_plans_with"
+    },
+    {
+      "source": "霍伯里",
+      "target": "戈斯顿府",
+      "type": "is_staff_at"
+    },
+    {
+      "source": "特雷西利安",
+      "target": "戈斯顿府",
+      "type": "is_staff_at"
+    },
+    {
+      "source": "戴维·李",
+      "target": "母亲",
+      "type": "remembers_suffering_of"
+    },
+    {
+      "source": "西米恩·李",
+      "target": "母亲",
+      "type": "caused_suffering_to"
+    },
+    {
+      "source": "火车",
+      "target": "斯蒂芬·法尔",
+      "type": "carries"
+    },
+    {
+      "source": "火车",
+      "target": "皮拉尔",
+      "type": "carries"
+    },
+    {
+      "source": "皮拉尔",
+      "target": "戈斯顿府",
+      "type": "is_going_to"
+    },
+    {
+      "source": "斯蒂芬·法尔",
+      "target": "戈斯顿府",
+      "type": "is_going_to"
+    },
+    {
+      "source": "戴维·李",
+      "target": "戈斯顿府",
+      "type": "invited_to"
+    },
+    {
+      "source": "希尔达",
+      "target": "戈斯顿府",
+      "type": "invited_to"
+    },
+    {
+      "source": "乔治·李",
+      "target": "戈斯顿府",
+      "type": "invited_to"
+    },
+    {
+      "source": "马格达伦",
+      "target": "戈斯顿府",
+      "type": "invited_to"
+    },
+    {
+      "source": "艾尔弗雷德·李",
+      "target": "戈斯顿府",
+      "type": "lives_at"
+    },
+    {
+      "source": "莉迪亚",
+      "target": "戈斯顿府",
+      "type": "lives_at"
+    },
+    {
+      "source": "西米恩·李",
+      "target": "戈斯顿府",
+      "type": "lives_at"
+    },
+    {
+      "source": "哈里",
+      "target": "李家",
+      "type": "is_disgraceful_to"
+    },
+    {
+      "source": "詹妮弗",
+      "target": "西班牙艺术家",
+      "type": "married_to"
+    },
+    {
+      "source": "詹妮弗",
+      "target": "戴维·李",
+      "type": "is_sister_of"
+    },
+    {
+      "source": "艾尔弗雷德·李",
+      "target": "詹妮弗",
+      "type": "is_brother_of"
+    },
+    {
+      "source": "乔治·李",
+      "target": "詹妮弗",
+      "type": "is_brother_of"
+    },
+    {
+      "source": "戴维·李",
+      "target": "詹妮弗",
+      "type": "is_brother_of"
+    },
+    {
+      "source": "詹妮弗",
+      "target": "女儿",
+      "type": "has_a"
+    },
+    {
+      "source": "詹妮弗的女儿",
+      "target": "西米恩·李",
+      "type": "is_granddaughter_of"
+    },
+    {
+      "source": "詹妮弗的女儿",
+      "target": "艾尔弗雷德·李",
+      "type": "is_niece_of"
+    },
+    {
+      "source": "詹妮弗的女儿",
+      "target": "戴维·李",
+      "type": "is_niece_of"
+    },
+    {
+      "source": "詹妮弗的女儿",
+      "target": "乔治·李",
+      "type": "is_niece_of"
+    },
+    {
+      "source": "马格达伦",
+      "target": "乔治·李",
+      "type": "is_wife_of"
+    },
+    {
+      "source": "马格达伦",
+      "target": "西米恩·李",
+      "type": "dislikes_treatment_by"
+    },
+    {
+      "source": "马格达伦",
+      "target": "莉迪亚",
+      "type": "is_looked_down_upon_by"
+    },
+    {
+      "source": "马格达伦",
+      "target": "霍伯里",
+      "type": "dislikes"
+    },
+    {
+      "source": "马格达伦",
+      "target": "佣人",
+      "type": "complains_about"
+    },
+    {
+      "source": "艾尔弗雷德·李",
+      "target": "莉迪亚",
+      "type": "loves"
+    },
+    {
+      "source": "莉迪亚",
+      "target": "艾尔弗雷德·李",
+      "type": "loves"
+    },
+    {
+      "source": "艾尔弗雷德·李",
+      "target": "母亲",
+      "type": "describes_as_pitiful"
+    },
+    {
+      "source": "莉迪亚",
+      "target": "艾尔弗雷德·李",
+      "type": "admires_loyalty_of"
+    },
+    {
+      "source": "戴维·李",
+      "target": "希尔达",
+      "type": "relies_on"
+    },
+    {
+      "source": "希尔达",
+      "target": "戴维·李",
+      "type": "calms"
+    },
+    {
+      "source": "西米恩·李",
+      "target": "财产",
+      "type": "possesses_vast"
+    },
+    {
+      "source": "西米恩·李",
+      "target": "儿子们",
+      "type": "plans_inheritance_for"
+    },
+    {
+      "source": "艾尔弗雷德·李",
+      "target": "遗产",
+      "type": "expects_more_of"
+    },
+    {
+      "source": "乔治·李",
+      "target": "遗产",
+      "type": "expects_less_of"
+    },
+    {
+      "source": "戴维·李",
+      "target": "遗产",
+      "type": "expects_least_of"
+    },
+    {
+      "source": "斯蒂芬·法尔",
+      "target": "皮拉尔",
+      "type": "observes"
+    },
+    {
+      "source": "皮拉尔",
+      "target": "斯蒂芬·法尔",
+      "type": "observes"
+    },
+    {
+      "source": "皮拉尔",
+      "target": "英国人",
+      "type": "finds_strange"
+    },
+    {
+      "source": "斯蒂芬·法尔",
+      "target": "英国人",
+      "type": "finds_disgusting"
+    },
+    {
+      "source": "艾尔弗雷德·李",
+      "target": "莉迪亚",
+      "type": "describes_as_elegant"
+    },
+    {
+      "source": "莉迪亚",
+      "target": "艾尔弗雷德·李",
+      "type": "describes_as_slow_witted"
+    },
+    {
+      "source": "莉迪亚",
+      "target": "西米恩·李",
+      "type": "considers_tyrannical"
+    },
+    {
+      "source": "艾尔弗雷德·李",
+      "target": "西米恩·李",
+      "type": "defends"
+    },
+    {
+      "source": "戴维·李",
+      "target": "父亲",
+      "type": "blames_for_mother's_death"
+    },
+    {
+      "source": "希尔达",
+      "target": "戴维·李",
+      "type": "urges_to_move_on"
+    },
+    {
+      "source": "乔治·李",
+      "target": "父亲",
+      "type": "worries_about_money_from"
+    },
+    {
+      "source": "马格达伦",
+      "target": "乔治·李",
+      "type": "pressures_about_money_from_father"
+    },
+    {
+      "source": "西米恩·李",
+      "target": "哈里",
+      "type": "disowns"
+    },
+    {
+      "source": "西米恩·李",
+      "target": "戴维·李",
+      "type": "warns_about_inheritance_to"
+    },
+    {
+      "source": "莉迪亚",
+      "target": "微缩景观",
+      "type": "creates"
+    },
+    {
+      "source": "斯蒂芬·法尔",
+      "target": "皮拉尔",
+      "type": "interacts_with"
+    },
+    {
+      "source": "艾尔弗雷德·李",
+      "target": "莉迪亚",
+      "type": "interacts_with"
+    },
+    {
+      "source": "戴维·李",
+      "target": "希尔达",
+      "type": "interacts_with"
+    },
+    {
+      "source": "乔治·李",
+      "target": "马格达伦",
+      "type": "interacts_with"
+    },
+    {
+      "source": "西米恩·李",
+      "target": "儿子们",
+      "type": "dominates"
+    },
+    {
+      "source": "马格达伦",
+      "target": "艾尔弗雷德",
+      "type": "finds_boring"
+    },
+    {
+      "source": "马格达伦",
+      "target": "莉迪亚",
+      "type": "is_disliked_by"
+    },
+    {
+      "source": "马格达伦",
+      "target": "霍伯里",
+      "type": "finds_unnerving"
+    },
+    {
+      "source": "乔治·李",
+      "target": "马格达伦",
+      "type": "is_married_to"
+    },
+    {
+      "source": "戴维·李",
+      "target": "希尔达",
+      "type": "is_married_to"
+    },
+    {
+      "source": "艾尔弗雷德·李",
+      "target": "莉迪亚",
+      "type": "is_married_to"
+    },
+    {
+      "source": "乔治·李",
+      "target": "哈里",
+      "type": "is_brother_of"
+    },
+    {
+      "source": "乔治·李",
+      "target": "戴维·李",
+      "type": "is_brother_of"
+    },
+    {
+      "source": "艾尔弗雷德·李",
+      "target": "乔治·李",
+      "type": "is_brother_of"
+    },
+    {
+      "source": "艾尔弗雷德·李",
+      "target": "戴维·李",
+      "type": "is_brother_of"
+    },
+    {
+      "source": "艾尔弗雷德·李",
+      "target": "哈里",
+      "type": "is_brother_of"
+    },
+    {
+      "source": "戴维·李",
+      "target": "乔治·李",
+      "type": "is_brother_of"
+    },
+    {
+      "source": "戴维·李",
+      "target": "哈里",
+      "type": "is_brother_of"
+    },
+    {
+      "source": "哈里",
+      "target": "乔治·李",
+      "type": "is_brother_of"
+    },
+    {
+      "source": "哈里",
+      "target": "戴维·李",
+      "type": "is_brother_of"
+    },
+    {
+      "source": "哈里",
+      "target": "艾尔弗雷德·李",
+      "type": "is_brother_of"
+    },
+    {
+      "source": "詹妮弗",
+      "target": "西班牙艺术家",
+      "type": "married_to"
+    },
+    {
+      "source": "詹妮弗",
+      "target": "戴维·李",
+      "type": "is_sister_of"
+    },
+    {
+      "source": "詹妮弗",
+      "target": "艾尔弗雷德·李",
+      "type": "is_sister_of"
+    },
+    {
+      "source": "詹妮弗",
+      "target": "乔治·李",
+      "type": "is_sister_of"
+    },
+    {
+      "source": "詹妮弗",
+      "target": "哈里",
+      "type": "is_sister_of"
+    },
+    {
+      "source": "詹妮弗的女儿",
+      "target": "詹妮弗",
+      "type": "is_daughter_of"
+    },
+    {
+      "source": "詹妮弗的女儿",
+      "target": "西班牙艺术家",
+      "type": "is_daughter_of"
+    },
+    {
+      "source": "詹妮弗的女儿",
+      "target": "西米恩·李",
+      "type": "is_granddaughter_of"
+    },
+    {
+      "source": "詹妮弗的女儿",
+      "target": "艾尔弗雷德·李",
+      "type": "is_niece_of"
+    },
+    {
+      "source": "詹妮弗的女儿",
+      "target": "戴维·李",
+      "type": "is_niece_of"
+    },
+    {
+      "source": "詹妮弗的女儿",
+      "target": "乔治·李",
+      "type": "is_niece_of"
+    },
+    {
+      "source": "詹妮弗的女儿",
+      "target": "哈里",
+      "type": "is_niece_of"
+    },
+    {
+      "source": "乔治·李",
+      "target": "马格达伦",
+      "type": "is_married_to"
+    },
+    {
+      "source": "马格达伦",
+      "target": "乔治·李",
+      "type": "is_married_to"
+    },
+    {
+      "source": "戴维·李",
+      "target": "希尔达",
+      "type": "is_married_to"
+    },
+    {
+      "source": "希尔达",
+      "target": "戴维·李",
+      "type": "is_married_to"
+    },
+    {
+      "source": "艾尔弗雷德·李",
+      "target": "莉迪亚",
+      "type": "is_married_to"
+    },
+    {
+      "source": "莉迪亚",
+      "target": "艾尔弗雷德·李",
+      "type": "is_married_to"
+    },
+    {
+      "source": "西米恩·李",
+      "target": "艾尔弗雷德·李",
+      "type": "is_father_of"
+    },
+    {
+      "source": "西米恩·李",
+      "target": "乔治·李",
+      "type": "is_father_of"
+    },
+    {
+      "source": "西米恩·李",
+      "target": "戴维·李",
+      "type": "is_father_of"
+    },
+    {
+      "source": "西米恩·李",
+      "target": "哈里",
+      "type": "is_father_of"
+    },
+    {
+      "source": "西米恩·李",
+      "target": "詹妮弗",
+      "type": "is_father_of"
+    },
+    {
+      "source": "斯蒂芬·法尔",
+      "target": "皮拉尔",
+      "type": "communicates_with"
+    },
+    {
+      "source": "艾尔弗雷德·李",
+      "target": "莉迪亚",
+      "type": "communicates_with"
+    },
+    {
+      "source": "戴维·李",
+      "target": "希尔达",
+      "type": "communicates_with"
+    },
+    {
+      "source": "乔治·李",
+      "target": "马格达伦",
+      "type": "communicates_with"
+    },
+    {
+      "source": "西米恩·李",
+      "target": "霍伯里",
+      "type": "gives_instructions_to"
+    },
+    {
+      "source": "霍伯里",
+      "target": "西米恩·李",
+      "type": "reports_to"
+    },
+    {
+      "source": "莉迪亚",
+      "target": "霍伯里",
+      "type": "addresses_sharply"
+    },
+    {
+      "source": "艾尔弗雷德·李",
+      "target": "霍伯里",
+      "type": "respects"
+    },
+    {
+      "source": "马格达伦",
+      "target": "特雷西利安",
+      "type": "dislikes"
+    },
+    {
+      "source": "艾尔弗雷德·李",
+      "target": "特雷西利安",
+      "type": "respects"
+    },
+    {
+      "source": "莉迪亚",
+      "target": "特雷西利安",
+      "type": "trusts"
+    },
+    {
+      "source": "斯蒂芬·法尔",
+      "target": "火车",
+      "type": "travels_on"
+    },
+    {
+      "source": "皮拉尔",
+      "target": "火车",
+      "type": "travels_on"
+    },
+    {
+      "source": "艾尔弗雷德·李",
+      "target": "西米恩·李",
+      "type": "is_subservient_to"
+    },
+    {
+      "source": "莉迪亚",
+      "target": "西米恩·李",
+      "type": "resists"
+    },
+    {
+      "source": "戴维·李",
+      "target": "西米恩·李",
+      "type": "avoids"
+    },
+    {
+      "source": "乔治·李",
+      "target": "西米恩·李",
+      "type": "is_dependent_on"
+    },
+    {
+      "source": "马格达伦",
+      "target": "西米恩·李",
+      "type": "is_intrigued_by_wealth_of"
+    },
+    {
+      "source": "西米恩·李",
+      "target": "过去的冒险生活",
+      "type": "had"
+    },
+    {
+      "source": "艾尔弗雷德·李",
+      "target": "母亲",
+      "type": "remembers_as_weak"
+    },
+    {
+      "source": "希尔达",
+      "target": "戴维",
+      "type": "advises"
+    },
+    {
+      "source": "马格达伦",
+      "target": "乔治",
+      "type": "advises"
+    },
+    {
+      "source": "莉迪亚",
+      "target": "戈斯顿府",
+      "type": "decorates"
+    },
+    {
+      "source": "斯蒂芬·法尔",
+      "target": "皮拉尔",
+      "type": "dialogues_with"
+    },
+    {
+      "source": "艾尔弗雷德·李",
+      "target": "莉迪亚",
+      "type": "dialogues_with"
+    },
+    {
+      "source": "戴维·李",
+      "target": "希尔达",
+      "type": "dialogues_with"
+    },
+    {
+      "source": "乔治·李",
+      "target": "马格达伦",
+      "type": "dialogues_with"
+    },
+    {
+      "source": "阿加莎·克里斯蒂",
+      "target": "波洛",
+      "type": "author_of_stories_about"
+    },
+    {
+      "source": "波洛",
+      "target": "圣诞探案",
+      "type": "is_associated_with"
+    }
+  ],
+  "hierarchy": {
+    "main_topics": [
+      "The Lee Family and their Christmas gathering",
+      "Stephen Farral's encounter with Pilar",
+      "Themes of family dynamics, past grievances, and wealth"
+    ],
+    "structure": "The document is structured into chapters, each focusing on different characters and their perspectives leading up to the Christmas gathering at Goston Hall. It begins with an author's note, followed by an introduction to key characters and their interactions, culminating in a description of the patriarch, Simeon Lee."
+  }
+}

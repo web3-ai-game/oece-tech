@@ -1,0 +1,1254 @@
+import React, { useState, useEffect } from 'react';
+import { Link } from 'react-router-dom';
+
+interface SystemPreviewProps {
+  isDarkMode?: boolean;
+}
+
+const SystemPreview: React.FC<SystemPreviewProps> = ({ isDarkMode = false }) => {
+  const [currentView, setCurrentView] = useState<'dashboard' | 'rooms' | 'bookings' | 'analytics' | 'reviews'>('dashboard');
+
+  const previewData = {
+    dashboard: {
+      title: '智能仪表盘',
+      stats: [
+        { label: '今日入住', value: '126', trend: '+12%' },
+        { label: '房间入住率', value: '87.5%', trend: '+5.2%' },
+        { label: '今日营收', value: '¥45,678', trend: '+18%' },
+        { label: '待处理', value: '8', trend: '-3' }
+      ]
+    },
+    rooms: {
+      title: '房态总览',
+      rooms: [
+        { number: '101', status: 'occupied', type: '豪华双床房' },
+        { number: '102', status: 'available', type: '商务大床房' },
+        { number: '103', status: 'maintenance', type: '豪华套房' },
+        { number: '201', status: 'occupied', type: '商务大床房' }
+      ]
+    },
+    bookings: {
+      title: '预订管理',
+      bookings: [
+        { guest: 'SVS Zhang', room: '301', checkin: '今天', status: 'confirmed' },
+        { guest: 'TT Wang', room: '205', checkin: '明天', status: 'pending' },
+        { guest: 'Lisa Chen', room: '102', checkin: '今天', status: 'checked-in' }
+      ]
+    },
+    analytics: {
+      title: 'AI分析报告',
+      insights: [
+        { type: 'revenue', title: '收益预测', value: '¥67,890', trend: '+23%', confidence: '95%' },
+        { type: 'occupancy', title: '入住率预测', value: '92%', trend: '+8%', confidence: '88%' },
+        { type: 'satisfaction', title: '客户满意度', value: '4.8/5', trend: '+0.3', confidence: '92%' },
+        { type: 'maintenance', title: '设备健康度', value: '98%', trend: '+2%', confidence: '96%' }
+      ]
+    },
+    reviews: {
+      title: '客户评价分析',
+      reviews: [
+        { name: '张先生', rating: 5, comment: '系统非常智能，操作简便！', sentiment: 'positive' },
+        { name: '王女士', rating: 4, comment: '界面美观，功能齐全，推荐！', sentiment: 'positive' },
+        { name: '李先生', rating: 5, comment: 'AI分析很准确，帮了大忙！', sentiment: 'positive' },
+        { name: '陈女士', rating: 4, comment: '数据同步快，管理方便！', sentiment: 'positive' }
+      ]
+    }
+  };
+
+  return (
+    <div className={`rounded-xl border p-6 w-full max-w-2xl ${isDarkMode 
+      ? 'bg-gray-900 border-gray-700' 
+      : 'bg-white/80 backdrop-blur-sm border-orange-200 shadow-xl'
+    }`}>
+      <div className="flex flex-wrap gap-2 mb-6">
+        {[
+          { key: 'dashboard', icon: '📊', label: '仪表盘' },
+          { key: 'analytics', icon: '🤖', label: 'AI分析' },
+          { key: 'rooms', icon: '🏨', label: '房态' },
+          { key: 'bookings', icon: '📋', label: '预订' },
+          { key: 'reviews', icon: '💬', label: '评价' }
+        ].map((view) => (
+          <button
+            key={view.key}
+            onClick={() => setCurrentView(view.key as any)}
+            className={`px-3 py-2 rounded-lg text-sm font-medium transition-all ${
+              currentView === view.key
+                ? isDarkMode 
+                  ? 'bg-blue-600 text-white shadow-lg'
+                  : 'bg-orange-500 text-white shadow-lg'
+                : isDarkMode
+                  ? 'bg-gray-800 text-gray-300 hover:bg-gray-700'
+                  : 'bg-orange-100 text-orange-700 hover:bg-orange-200'
+            }`}
+          >
+            {view.icon} {view.label}
+          </button>
+        ))}
+      </div>
+
+      <div className="h-80 overflow-y-auto">
+        {currentView === 'dashboard' && (
+          <div className="space-y-4">
+            <h3 className={`font-bold text-lg ${isDarkMode ? 'text-white' : 'text-amber-900'}`}>
+              {previewData.dashboard.title}
+            </h3>
+            <div className="grid grid-cols-2 gap-3">
+              {previewData.dashboard.stats.map((stat, idx) => (
+                <div key={idx} className={`p-3 rounded-lg ${isDarkMode 
+                  ? 'bg-gray-800' 
+                  : 'bg-orange-50 border border-orange-100'
+                }`}>
+                  <div className={`text-xs ${isDarkMode ? 'text-gray-400' : 'text-amber-600'}`}>
+                    {stat.label}
+                  </div>
+                  <div className={`font-bold text-lg ${isDarkMode ? 'text-white' : 'text-amber-900'}`}>
+                    {stat.value}
+                  </div>
+                  <div className="text-green-600 text-xs font-semibold">{stat.trend}</div>
+                </div>
+              ))}
+            </div>
+          </div>
+        )}
+
+        {currentView === 'analytics' && (
+          <div className="space-y-4">
+            <h3 className={`font-bold text-lg ${isDarkMode ? 'text-white' : 'text-amber-900'}`}>
+              {previewData.analytics.title}
+            </h3>
+            <div className="grid grid-cols-2 gap-3">
+              {previewData.analytics.insights.map((insight, idx) => (
+                <div key={idx} className={`p-3 rounded-lg ${isDarkMode 
+                  ? 'bg-gray-800' 
+                  : 'bg-orange-50 border border-orange-100'
+                }`}>
+                  <div className={`text-xs ${isDarkMode ? 'text-gray-400' : 'text-amber-600'}`}>
+                    {insight.title}
+                  </div>
+                  <div className={`font-bold text-base ${isDarkMode ? 'text-white' : 'text-amber-900'}`}>
+                    {insight.value}
+                  </div>
+                  <div className="flex justify-between items-center">
+                    <div className="text-green-600 text-xs font-semibold">{insight.trend}</div>
+                    <div className={`text-xs ${isDarkMode ? 'text-blue-400' : 'text-blue-600'}`}>
+                      {insight.confidence}置信度
+                    </div>
+                  </div>
+                </div>
+              ))}
+            </div>
+          </div>
+        )}
+
+        {currentView === 'rooms' && (
+          <div className="space-y-4">
+            <h3 className={`font-bold text-lg ${isDarkMode ? 'text-white' : 'text-amber-900'}`}>
+              {previewData.rooms.title}
+            </h3>
+            <div className="space-y-2">
+              {previewData.rooms.rooms.map((room, idx) => (
+                <div key={idx} className={`p-3 rounded-lg flex justify-between items-center ${isDarkMode 
+                  ? 'bg-gray-800' 
+                  : 'bg-orange-50 border border-orange-100'
+                }`}>
+                  <div>
+                    <span className={`font-medium ${isDarkMode ? 'text-white' : 'text-amber-900'}`}>
+                      房间 {room.number}
+                    </span>
+                    <span className={`text-sm ml-2 ${isDarkMode ? 'text-gray-400' : 'text-amber-600'}`}>
+                      {room.type}
+                    </span>
+                  </div>
+                  <span className={`px-2 py-1 rounded text-xs ${
+                    room.status === 'occupied' ? 'bg-red-600 text-white' :
+                    room.status === 'available' ? 'bg-green-600 text-white' :
+                    'bg-yellow-600 text-white'
+                  }`}>
+                    {room.status === 'occupied' && '占用'}
+                    {room.status === 'available' && '空闲'}
+                    {room.status === 'maintenance' && '维护'}
+                  </span>
+                </div>
+              ))}
+            </div>
+          </div>
+        )}
+
+        {currentView === 'bookings' && (
+          <div className="space-y-4">
+            <h3 className={`font-bold text-lg ${isDarkMode ? 'text-white' : 'text-amber-900'}`}>
+              {previewData.bookings.title}
+            </h3>
+            <div className="space-y-2">
+              {previewData.bookings.bookings.map((booking, idx) => (
+                <div key={idx} className={`p-3 rounded-lg ${isDarkMode 
+                  ? 'bg-gray-800' 
+                  : 'bg-orange-50 border border-orange-100'
+                }`}>
+                  <div className="flex justify-between items-center">
+                    <div>
+                      <div className={`font-medium ${isDarkMode ? 'text-white' : 'text-amber-900'}`}>
+                        {booking.guest}
+                      </div>
+                      <div className={`text-sm ${isDarkMode ? 'text-gray-400' : 'text-amber-600'}`}>
+                        房间 {booking.room} • {booking.checkin}
+                      </div>
+                    </div>
+                    <span className={`px-2 py-1 rounded text-xs ${
+                      booking.status === 'confirmed' ? 'bg-blue-600 text-white' :
+                      booking.status === 'pending' ? 'bg-yellow-600 text-white' :
+                      'bg-green-600 text-white'
+                    }`}>
+                      {booking.status === 'confirmed' && '已确认'}
+                      {booking.status === 'pending' && '待确认'}
+                      {booking.status === 'checked-in' && '已入住'}
+                    </span>
+                  </div>
+                </div>
+              ))}
+            </div>
+          </div>
+        )}
+
+        {currentView === 'reviews' && (
+          <div className="space-y-4">
+            <h3 className={`font-bold text-lg ${isDarkMode ? 'text-white' : 'text-amber-900'}`}>
+              {previewData.reviews.title}
+            </h3>
+            <div className="space-y-3">
+              {previewData.reviews.reviews.map((review, idx) => (
+                <div key={idx} className={`p-3 rounded-lg ${isDarkMode 
+                  ? 'bg-gray-800' 
+                  : 'bg-orange-50 border border-orange-100'
+                }`}>
+                  <div className="flex items-start justify-between">
+                    <div className="flex-1">
+                      <div className="flex items-center space-x-2 mb-1">
+                        <span className={`font-medium ${isDarkMode ? 'text-white' : 'text-amber-900'}`}>
+                          {review.name}
+                        </span>
+                        <div className="flex">
+                          {[...Array(review.rating)].map((_, i) => (
+                            <span key={i} className="text-yellow-400 text-sm">★</span>
+                          ))}
+                        </div>
+                      </div>
+                      <p className={`text-sm ${isDarkMode ? 'text-gray-300' : 'text-amber-700'}`}>
+                        {review.comment}
+                      </p>
+                    </div>
+                    <span className={`px-2 py-1 rounded text-xs ${
+                      review.sentiment === 'positive' ? 'bg-green-600 text-white' : 'bg-gray-600 text-white'
+                    }`}>
+                      {review.sentiment === 'positive' ? '好评' : '中性'}
+                    </span>
+                  </div>
+                </div>
+              ))}
+            </div>
+          </div>
+        )}
+      </div>
+      
+      <div className="mt-4 text-center">
+        <Link
+          to="/dashboard"
+          className="inline-flex items-center px-4 py-2 bg-gradient-to-r from-blue-600 to-purple-600 text-white rounded-lg hover:from-blue-700 hover:to-purple-700 transition-all font-medium"
+        >
+          🚀 进入完整系统
+        </Link>
+      </div>
+    </div>
+  );
+};
+
+const HomePage: React.FC = () => {
+  const [statsAnimation, setStatsAnimation] = useState(false);
+  const [isDarkMode, setIsDarkMode] = useState(false);
+
+  useEffect(() => {
+    setStatsAnimation(true);
+  }, []);
+
+  // 🔥 超强数据展示 - AI赋能酒店管理生态
+  const megaStats = [
+    { value: '4,826', label: '全球合作酒店', icon: '🏨', trend: '+23%', color: 'from-blue-600 to-cyan-600', desc: 'AI全覆盖' },
+    { value: '287,546', label: '智能管理房间', icon: '🛏️', trend: '+35%', color: 'from-purple-600 to-pink-600', desc: '预测入住率' },
+    { value: '¥2.8亿', label: 'AI优化收益', icon: '🤖', trend: '+89%', color: 'from-yellow-600 to-orange-600', desc: 'Claude API驱动' },
+    { value: '156,780', label: '日分析报告', icon: '📊', trend: '+67%', color: 'from-orange-600 to-red-600', desc: '专业级分析' },
+    { value: '99.7%', label: 'AI准确率', icon: '🎯', trend: '+2.1%', color: 'from-green-600 to-emerald-600', desc: '趋势预测' },
+    { value: '¥199/月', label: '超低定价', icon: '💎', trend: '不涨价', color: 'from-pink-600 to-rose-600', desc: '每月2-3份报告' }
+  ];
+
+  // 🎮 专业功能模块 - Claude API驱动的AI分析师生态
+  const professionalFeatures = [
+    {
+      icon: '🧠',
+      title: 'Claude API专业分析师',
+      description: '每月2-3份专业级分析报告，涵盖收益预测、亏损评判、市场趋势。仅¥199/月，比请一个分析师便宜100倍',
+      tech: 'Claude API + Advanced Analytics',
+      highlight: true,
+      features: ['亏损预警', '收益优化', '市场分析', '策略建议'],
+      improvement: '每月仅¥199，专业分析师级别'
+    },
+    {
+      icon: '📈',
+      title: 'AI趋势预估与收益分析',
+      description: '实时监控市场变化，预测未来3-6个月收益趋势，智能识别亏损风险点，提供具体改进方案',
+      tech: 'Revenue Forecasting AI',
+      highlight: true,
+      features: ['收益预测', '亏损识别', '风险评估', '优化建议'],
+      improvement: '+67% 收益预测准确率'
+    },
+    {
+      icon: '💬',
+      title: '智能评价分析系统',
+      description: '自动收集各平台好评差评，AI分析客户情感，生成专业改进建议，提升服务质量和客户满意度',
+      tech: 'Sentiment Analysis AI',
+      highlight: true,
+      features: ['评价收集', '情感分析', '问题识别', '改进方案'],
+      improvement: '+45% 客户满意度提升'
+    },
+    {
+      icon: '📊',
+      title: '老板专属财务仪表盘',
+      description: '实时财务数据展示，支持无限刷新查看，所有收入一目了然，防止前台私收现金',
+      tech: 'Real-time Dashboard',
+      highlight: true,
+      features: ['实时数据', '无限刷新', '收入透明', '防盗监控'],
+      improvement: '100% 收入透明化'
+    },
+    {
+      icon: '🔄',
+      title: '双向评价系统',
+      description: '客户评价酒店，酒店也可拍照评价客户，建立客户信用档案，防范问题客户',
+      tech: 'Bidirectional Rating',
+      highlight: true,
+      features: ['拍照记录', '信用档案', '问题预警', '黑名单共享'],
+      improvement: '95% 问题客户识别'
+    },
+    {
+      icon: '🌐',
+      title: '全网酒店数据互通',
+      description: '加盟酒店数据实时共享，客户在任意酒店的消费记录全网可见，提升服务质量',
+      tech: 'Network Synchronization',
+      highlight: false,
+      features: ['数据共享', '客户档案', '消费记录', '服务优化'],
+      improvement: '全网生态协同'
+    },
+    {
+      icon: '🎯',
+      title: '统一积分等级体系',
+      description: '客户在任意酒店消费都累积积分，达到等级可在全网酒店享受折扣优惠',
+      tech: 'Loyalty System',
+      highlight: true,
+      features: ['积分累积', '等级晋升', '跨店折扣', '专属服务'],
+      improvement: '+67% 客户复购率'
+    },
+    {
+      icon: '🛡️',
+      title: '防盗支付系统',
+      description: '客户扫码直接支付，前台无法接触现金，所有交易透明化，杜绝跑冒滴漏',
+      tech: 'Anti-theft Payment',
+      highlight: false,
+      features: ['扫码支付', '无现金化', '交易记录', '防盗监控'],
+      improvement: '零现金丢失风险'
+    },
+    {
+      icon: '🏨',
+      title: '可视化房态管理',
+      description: '拖拽式房间状态管理，支持批量操作，实时同步所有渠道房态信息',
+      tech: 'Visual Management',
+      highlight: false,
+      features: ['房态网格', '拖拽操作', '批量更新', '状态同步'],
+      improvement: '90% 操作效率提升'
+    },
+    {
+      icon: '👑',
+      title: '三级权限管理',
+      description: 'Admin超级权限→酒店老板权限→前台员工权限，严格控制数据访问和操作范围',
+      tech: 'Permission Control',
+      highlight: false,
+      features: ['权限分级', '账户管理', '操作日志', '安全控制'],
+      improvement: '100% 数据安全保障'
+    },
+    {
+      icon: '🤝',
+      title: 'AI智能推荐引擎',
+      description: '基于客户历史数据和AI算法，智能推荐房型升级、增值服务，自动生成个性化营销方案',
+      tech: 'AI Recommendation Engine',
+      highlight: true,
+      features: ['智能推荐', '房型升级', '增值服务', '营销自动化'],
+      improvement: '+35% 平均客单价提升'
+    },
+    {
+      icon: '🔮',
+      title: '预测性维护系统',
+      description: '监控设备运行状态，AI预测故障风险，提前安排维修保养，避免设备突然故障影响客户体验',
+      tech: 'Predictive Maintenance AI',
+      highlight: true,
+      features: ['设备监控', '故障预测', '维护计划', '成本优化'],
+      improvement: '+60% 设备稳定性提升'
+    }
+  ];
+
+  // 🔥 技术栈展示 - 基于酒店管理策略文档
+  const techStack = [
+    { name: 'React 18', desc: '现代化前端框架', color: 'text-blue-400' },
+    { name: 'Material-UI', desc: '企业级组件库', color: 'text-purple-400' },
+    { name: 'Google Cloud', desc: '云原生架构', color: 'text-green-400' },
+    { name: 'Firebase', desc: '实时数据同步', color: 'text-orange-400' },
+    { name: 'Cloud Run', desc: '容器化部署', color: 'text-cyan-400' },
+    { name: 'BigQuery', desc: '大数据分析', color: 'text-yellow-400' }
+  ];
+
+  // 🎯 使用案例展示
+  const useCases = [
+    {
+      title: '小型精品酒店',
+      description: '30间房以下的精品酒店，AI智能定价+客户评价分析',
+      benefits: ['智能定价提升收益', '客户评价自动分析', '设备预测性维护'],
+      icon: '🏨',
+      size: 'small'
+    },
+    {
+      title: '中型连锁酒店',
+      description: '100间房规模的连锁酒店，多店数据统一管理',
+      benefits: ['全网积分统一', '跨店客户管理', '财务数据实时同步'],
+      icon: '🏢',
+      size: 'medium'
+    },
+    {
+      title: '大型度假酒店',
+      description: '200+间房的度假酒店，OTA集成+收益最大化',
+      benefits: ['OTA自动同步', '收益预测优化', '客户体验提升'],
+      icon: '🏖️',
+      size: 'large'
+    }
+  ];
+
+  // 💼 客户成功案例
+  const successStories = [
+    {
+      name: '曼谷精品酒店',
+      location: '泰国 · 曼谷',
+      achievement: '收益提升67%',
+      story: '使用AI分析师后，淡季入住率从45%提升到75%，每月节省¥15,000人工成本',
+      rating: 5
+    },
+    {
+      name: '胡志明市商务酒店',
+      location: '越南 · 胡志明',
+      achievement: '客户满意度+45%',
+      story: '智能评价分析帮助快速响应客户需求，OTA评分从4.2提升到4.8分',
+      rating: 5
+    },
+    {
+      name: '雅加达连锁酒店',
+      location: '印尼 · 雅加达',
+      achievement: '运营效率+90%',
+      story: '房态管理效率大幅提升，员工从原来的8人减少到5人，节省成本40%',
+      rating: 4
+    }
+  ];
+
+  // 🌍 多语言支持数据 - 6种语言全覆盖
+  const languages = [
+    { code: 'zh', name: '中文', flag: '🇨🇳', coverage: '100%' },
+    { code: 'en', name: 'English', flag: '🇺🇸', coverage: '100%' },
+    { code: 'jp', name: '日本語', flag: '🇯🇵', coverage: '95%' },
+    { code: 'th', name: 'ไทย', flag: '🇹🇭', coverage: '90%' },
+    { code: 'vi', name: 'Tiếng Việt', flag: '🇻🇳', coverage: '85%' },
+    { code: 'id', name: 'Bahasa Indonesia', flag: '🇮🇩', coverage: '80%' }
+  ];
+
+  return (    <div className={`min-h-screen relative ${isDarkMode 
+      ? 'bg-gradient-to-br from-gray-900 via-black to-gray-900' 
+      : 'bg-gradient-to-br from-amber-50 via-orange-50 to-red-50'
+    }`}>
+      {/* 🎨 Claude级别噪点纹理 */}
+      <div 
+        className="absolute inset-0 opacity-[0.03] pointer-events-none"
+        style={{
+          backgroundImage: `url("data:image/svg+xml,%3Csvg viewBox='0 0 400 400' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='noiseFilter'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='4' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23noiseFilter)'/%3E%3C/svg%3E")`,
+          backgroundSize: '180px 180px'
+        }}
+      />
+      
+      {/* 🏜️ 主题自适应导航栏 */}
+      <nav className={`relative z-50 backdrop-blur-xl border-b shadow-sm ${isDarkMode 
+        ? 'bg-black/80 border-gray-800' 
+        : 'bg-white/90 border-orange-200'
+      }`}>
+        <div className="max-w-7xl mx-auto px-6">
+          <div className="flex items-center justify-between h-20">
+            <div className="flex items-center space-x-8">
+              <div className="text-2xl font-bold bg-gradient-to-r from-orange-600 to-red-600 bg-clip-text text-transparent">
+                Hotel Inistel
+              </div>
+              <div className="hidden md:flex space-x-8">
+                <a href="#features" className="text-amber-700 hover:text-orange-600 transition-colors font-medium">功能特色</a>
+                <a href="#preview" className="text-amber-700 hover:text-orange-600 transition-colors font-medium">系统预览</a>
+                <a href="#pricing" className="text-amber-700 hover:text-orange-600 transition-colors font-medium">价格方案</a>
+              </div>
+            </div>
+            <div className="flex items-center space-x-4">
+              {/* 🎛️ 专业拨片开关 */}
+              <div className="flex items-center space-x-3">
+                <span className={`text-sm font-medium ${isDarkMode ? 'text-gray-400' : 'text-amber-600'}`}>
+                  浅色
+                </span>
+                <button
+                  onClick={() => setIsDarkMode(!isDarkMode)}
+                  className={`relative inline-flex h-7 w-12 items-center rounded-full transition-colors duration-300 ${
+                    isDarkMode 
+                      ? 'bg-blue-600' 
+                      : 'bg-gray-300'
+                  }`}
+                  title={isDarkMode ? '切换到浅色模式' : '切换到深色模式'}
+                >
+                  <span
+                    className={`inline-block h-5 w-5 transform rounded-full bg-white shadow-lg transition-transform duration-300 ${
+                      isDarkMode ? 'translate-x-6' : 'translate-x-1'
+                    }`}
+                  />
+                </button>
+                <span className={`text-sm font-medium ${isDarkMode ? 'text-blue-400' : 'text-gray-400'}`}>
+                  深色
+                </span>
+              </div>
+              
+              <Link
+                to="/login"
+                className={`px-4 py-2 transition-colors font-medium ${isDarkMode 
+                  ? 'text-gray-300 hover:text-white' 
+                  : 'text-amber-700 hover:text-orange-600'
+                }`}
+              >
+                酒店老板登录
+              </Link>
+              <Link
+                to="/dashboard"
+                className={`px-6 py-3 rounded-lg font-medium transition-all shadow-lg ${isDarkMode 
+                  ? 'bg-gradient-to-r from-blue-600 to-purple-600 text-white hover:from-blue-700 hover:to-purple-700 hover:shadow-blue-500/25' 
+                  : 'bg-gradient-to-r from-orange-500 to-red-500 text-white hover:from-orange-600 hover:to-red-600 hover:shadow-orange-500/25'
+                }`}
+              >
+                🎯 立即体验
+              </Link>
+            </div>
+          </div>
+        </div>
+      </nav>
+
+      {/* 🏜️ 主英雄区域 - 专业响应式设计 */}
+      <section className="relative overflow-hidden">
+        <div className={`absolute inset-0 ${isDarkMode 
+          ? 'bg-gradient-to-r from-gray-900/50 to-black/50' 
+          : 'bg-gradient-to-r from-orange-100/30 to-red-100/30'
+        }`}></div>
+        <div className="relative max-w-7xl mx-auto px-4 sm:px-6 py-12 sm:py-20">
+          <div className="grid grid-cols-1 lg:grid-cols-2 gap-8 lg:gap-16 items-center">
+            <div className="space-y-8">
+              <div className="space-y-4">
+                <div className={`inline-flex items-center px-4 py-2 rounded-full text-sm font-medium ${isDarkMode
+                  ? 'bg-gradient-to-r from-blue-900/30 to-purple-900/30 border border-blue-500/30 text-blue-300'
+                  : 'bg-gradient-to-r from-orange-200/50 to-red-200/50 border border-orange-300 text-orange-700'
+                }`}>
+                  🤖 Claude API驱动 · AI分析师赋能 · 每月仅¥199
+                </div>
+                <h1 className={`text-6xl font-bold leading-tight ${isDarkMode ? 'text-white' : 'text-amber-900'}`}>
+                  Hotel <span className="bg-gradient-to-r from-orange-600 to-red-600 bg-clip-text text-transparent">Inistel</span>
+                </h1>
+                <h2 className={`text-3xl font-semibold leading-relaxed ${isDarkMode ? 'text-gray-300' : 'text-amber-800'}`}>
+                  AI分析师 + 零成本撬动酒店帝国
+                </h2>
+                <p className={`text-xl leading-relaxed ${isDarkMode ? 'text-gray-400' : 'text-amber-700'}`}>
+                  <span className="text-orange-600 font-bold">Claude API专业分析师</span>每月2-3份深度报告，
+                  <span className="text-green-600 font-bold">收益预测</span> + <span className="text-blue-600 font-bold">亏损分析</span> + <span className="text-purple-600 font-bold">改进建议</span>
+                  <br />比传统分析师便宜<span className="text-red-600 font-bold text-2xl">100倍</span>，效果提升<span className="text-green-600 font-bold text-2xl">500%</span>
+                </p>
+              </div>
+
+              <div className="flex flex-col sm:flex-row gap-4">
+                <Link
+                  to="/dashboard"
+                  className={`inline-flex items-center justify-center px-8 py-4 text-white text-lg font-bold rounded-xl transition-all shadow-2xl transform hover:scale-105 ${isDarkMode
+                    ? 'bg-gradient-to-r from-blue-600 to-purple-600 hover:from-blue-700 hover:to-purple-700 hover:shadow-blue-500/50'
+                    : 'bg-gradient-to-r from-orange-500 to-red-500 hover:from-orange-600 hover:to-red-600 hover:shadow-orange-500/50'
+                  }`}
+                >
+                  🎯 免费体验完整系统
+                </Link>
+                <Link
+                  to="/login"
+                  className={`inline-flex items-center justify-center px-8 py-4 text-lg font-medium rounded-xl transition-all border ${isDarkMode
+                    ? 'bg-slate-800 text-gray-300 hover:bg-slate-700 border-slate-600'
+                    : 'bg-amber-100 text-amber-800 hover:bg-amber-200 border-orange-300'
+                  }`}
+                >
+                  👑 酒店老板专属登录
+                </Link>
+              </div>
+
+              {/* 🔥 超级统计数据展示 - 专业响应式 */}
+              <div className="grid grid-cols-2 sm:grid-cols-3 gap-4 pt-8">
+                {megaStats.map((stat, idx) => (
+                  <div key={idx} className={`p-4 rounded-xl border transition-all shadow-lg hover:scale-105 ${isDarkMode
+                    ? 'bg-slate-800/80 border-slate-700 hover:border-slate-600'
+                    : 'bg-white/70 border-orange-200 hover:border-orange-300'
+                  }`}>
+                    <div className="flex items-center space-x-2 mb-2">
+                      <span className="text-xl sm:text-2xl">{stat.icon}</span>
+                      <div className={`text-lg sm:text-2xl font-bold bg-gradient-to-r ${stat.color} bg-clip-text text-transparent ${statsAnimation ? 'animate-pulse' : ''}`}>
+                        {stat.value}
+                      </div>
+                    </div>
+                    <div className={`font-medium text-sm ${isDarkMode ? 'text-white' : 'text-amber-900'}`}>
+                      {stat.label}
+                    </div>
+                    <div className={`text-xs ${isDarkMode ? 'text-gray-400' : 'text-amber-600'}`}>
+                      {stat.desc}
+                    </div>
+                    <div className="text-xs text-green-500 mt-1 font-semibold">{stat.trend}</div>
+                  </div>
+                ))}
+              </div>
+            </div>
+
+            {/* 🎮 右侧内容区域 - 系统预览+特色功能 */}
+            <div className="space-y-8">
+              {/* 系统预览 */}
+              <div className="flex justify-center">
+                <SystemPreview isDarkMode={isDarkMode} />
+              </div>
+              
+              {/* 核心优势展示 */}
+              <div className={`p-6 rounded-2xl border ${isDarkMode 
+                ? 'bg-slate-800/80 border-slate-700' 
+                : 'bg-white/80 backdrop-blur-sm border-orange-200 shadow-lg'
+              }`}>
+                <h3 className={`text-2xl font-bold mb-4 text-center ${isDarkMode ? 'text-white' : 'text-amber-900'}`}>
+                  🚀 为什么选择我们？
+                </h3>
+                <div className="grid grid-cols-2 gap-4">
+                  <div className="text-center">
+                    <div className="text-3xl mb-2">⚡</div>
+                    <div className={`font-bold ${isDarkMode ? 'text-blue-400' : 'text-orange-600'}`}>5分钟部署</div>
+                    <div className={`text-sm ${isDarkMode ? 'text-gray-400' : 'text-amber-600'}`}>即装即用</div>
+                  </div>
+                  <div className="text-center">
+                    <div className="text-3xl mb-2">🛡️</div>
+                    <div className={`font-bold ${isDarkMode ? 'text-blue-400' : 'text-orange-600'}`}>银行级安全</div>
+                    <div className={`text-sm ${isDarkMode ? 'text-gray-400' : 'text-amber-600'}`}>数据加密</div>
+                  </div>
+                  <div className="text-center">
+                    <div className="text-3xl mb-2">📞</div>
+                    <div className={`font-bold ${isDarkMode ? 'text-blue-400' : 'text-orange-600'}`}>7×24客服</div>
+                    <div className={`text-sm ${isDarkMode ? 'text-gray-400' : 'text-amber-600'}`}>随时支持</div>
+                  </div>
+                  <div className="text-center">
+                    <div className="text-3xl mb-2">💰</div>
+                    <div className={`font-bold ${isDarkMode ? 'text-blue-400' : 'text-orange-600'}`}>30天退款</div>
+                    <div className={`text-sm ${isDarkMode ? 'text-gray-400' : 'text-amber-600'}`}>无风险试用</div>
+                  </div>
+                </div>
+              </div>
+              
+              {/* 使用案例展示 */}
+              <div className={`p-6 rounded-2xl border ${isDarkMode 
+                ? 'bg-slate-800/80 border-slate-700' 
+                : 'bg-white/80 backdrop-blur-sm border-orange-200 shadow-lg'
+              }`}>
+                <h3 className={`text-xl font-bold mb-4 text-center ${isDarkMode ? 'text-white' : 'text-amber-900'}`}>
+                  🎯 适用场景
+                </h3>
+                <div className="space-y-3">
+                  {useCases.map((useCase, idx) => (
+                    <div key={idx} className={`p-3 rounded-lg ${isDarkMode ? 'bg-slate-700/50' : 'bg-orange-50'}`}>
+                      <div className="flex items-center space-x-2 mb-2">
+                        <span className="text-2xl">{useCase.icon}</span>
+                        <div>
+                          <div className={`font-medium ${isDarkMode ? 'text-white' : 'text-amber-900'}`}>
+                            {useCase.title}
+                          </div>
+                          <div className={`text-xs ${isDarkMode ? 'text-gray-400' : 'text-amber-600'}`}>
+                            {useCase.description}
+                          </div>
+                        </div>
+                      </div>
+                      <div className="flex flex-wrap gap-1">
+                        {useCase.benefits.map((benefit, bidx) => (
+                          <span key={bidx} className={`px-2 py-1 text-xs rounded ${isDarkMode 
+                            ? 'bg-slate-600 text-slate-300' 
+                            : 'bg-orange-100 text-orange-700'
+                          }`}>
+                            {benefit}
+                          </span>
+                        ))}
+                      </div>
+                    </div>
+                  ))}
+                </div>
+              </div>
+
+              {/* 成功案例 */}
+              <div className={`p-6 rounded-2xl border ${isDarkMode 
+                ? 'bg-slate-800/80 border-slate-700' 
+                : 'bg-white/80 backdrop-blur-sm border-orange-200 shadow-lg'
+              }`}>
+                <h3 className={`text-xl font-bold mb-4 text-center ${isDarkMode ? 'text-white' : 'text-amber-900'}`}>
+                  🏆 成功案例
+                </h3>
+                <div className="space-y-3">
+                  {successStories.map((story, idx) => (
+                    <div key={idx} className={`p-3 rounded-lg ${isDarkMode ? 'bg-slate-700/50' : 'bg-orange-50'}`}>
+                      <div className="flex items-start justify-between mb-2">
+                        <div className="flex-1">
+                          <div className={`font-medium ${isDarkMode ? 'text-white' : 'text-amber-900'}`}>
+                            {story.name}
+                          </div>
+                          <div className={`text-xs ${isDarkMode ? 'text-gray-400' : 'text-amber-600'}`}>
+                            {story.location}
+                          </div>
+                        </div>
+                        <div className="text-right">
+                          <div className="text-green-500 font-bold text-sm">{story.achievement}</div>
+                          <div className="flex">
+                            {[...Array(story.rating)].map((_, i) => (
+                              <span key={i} className="text-yellow-400 text-xs">★</span>
+                            ))}
+                          </div>
+                        </div>
+                      </div>
+                      <p className={`text-sm ${isDarkMode ? 'text-gray-300' : 'text-amber-700'}`}>
+                        {story.story}
+                      </p>
+                    </div>
+                  ))}
+                </div>
+              </div>
+
+              {/* 快速开始指南 */}
+              <div className={`p-6 rounded-2xl border ${isDarkMode 
+                ? 'bg-slate-800/80 border-slate-700' 
+                : 'bg-white/80 backdrop-blur-sm border-orange-200 shadow-lg'
+              }`}>
+                <h3 className={`text-xl font-bold mb-4 text-center ${isDarkMode ? 'text-white' : 'text-amber-900'}`}>
+                  🚀 快速开始
+                </h3>
+                <div className="space-y-3">
+                  <div className={`p-3 rounded-lg ${isDarkMode ? 'bg-slate-700/50' : 'bg-orange-50'}`}>
+                    <div className="flex items-center space-x-3">
+                      <span className="text-2xl">📋</span>
+                      <div>
+                        <div className={`font-medium ${isDarkMode ? 'text-white' : 'text-amber-900'}`}>
+                          1. 注册账号
+                        </div>
+                        <div className={`text-sm ${isDarkMode ? 'text-gray-400' : 'text-amber-600'}`}>
+                          3分钟完成注册，立即获得试用权限
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <div className={`p-3 rounded-lg ${isDarkMode ? 'bg-slate-700/50' : 'bg-orange-50'}`}>
+                    <div className="flex items-center space-x-3">
+                      <span className="text-2xl">⚙️</span>
+                      <div>
+                        <div className={`font-medium ${isDarkMode ? 'text-white' : 'text-amber-900'}`}>
+                          2. 系统配置
+                        </div>
+                        <div className={`text-sm ${isDarkMode ? 'text-gray-400' : 'text-amber-600'}`}>
+                          导入酒店信息，5分钟完成基础设置
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <div className={`p-3 rounded-lg ${isDarkMode ? 'bg-slate-700/50' : 'bg-orange-50'}`}>
+                    <div className="flex items-center space-x-3">
+                      <span className="text-2xl">📊</span>
+                      <div>
+                        <div className={`font-medium ${isDarkMode ? 'text-white' : 'text-amber-900'}`}>
+                          3. 开始使用
+                        </div>
+                        <div className={`text-sm ${isDarkMode ? 'text-gray-400' : 'text-amber-600'}`}>
+                          立即获得AI分析报告，优化酒店运营
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+
+              {/* 技术支持 */}
+              <div className={`p-6 rounded-2xl border ${isDarkMode 
+                ? 'bg-slate-800/80 border-slate-700' 
+                : 'bg-white/80 backdrop-blur-sm border-orange-200 shadow-lg'
+              }`}>
+                <h3 className={`text-xl font-bold mb-4 text-center ${isDarkMode ? 'text-white' : 'text-amber-900'}`}>
+                  🛠️ 技术支持
+                </h3>
+                <div className="grid grid-cols-2 gap-4">
+                  <div className="text-center">
+                    <div className="text-3xl mb-2">📞</div>
+                    <div className={`font-bold ${isDarkMode ? 'text-blue-400' : 'text-orange-600'}`}>7×24小时</div>
+                    <div className={`text-sm ${isDarkMode ? 'text-gray-400' : 'text-amber-600'}`}>电话支持</div>
+                  </div>
+                  <div className="text-center">
+                    <div className="text-3xl mb-2">💬</div>
+                    <div className={`font-bold ${isDarkMode ? 'text-blue-400' : 'text-orange-600'}`}>在线客服</div>
+                    <div className={`text-sm ${isDarkMode ? 'text-gray-400' : 'text-amber-600'}`}>实时响应</div>
+                  </div>
+                  <div className="text-center">
+                    <div className="text-3xl mb-2">📚</div>
+                    <div className={`font-bold ${isDarkMode ? 'text-blue-400' : 'text-orange-600'}`}>视频教程</div>
+                    <div className={`text-sm ${isDarkMode ? 'text-gray-400' : 'text-amber-600'}`}>操作指南</div>
+                  </div>
+                  <div className="text-center">
+                    <div className="text-3xl mb-2">🔄</div>
+                    <div className={`font-bold ${isDarkMode ? 'text-blue-400' : 'text-orange-600'}`}>远程协助</div>
+                    <div className={`text-sm ${isDarkMode ? 'text-gray-400' : 'text-amber-600'}`}>专业指导</div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      {/* 💎 商业卖点区域 - 专为老板设计 */}
+      <section className={`py-16 border-y ${isDarkMode 
+        ? 'bg-gradient-to-r from-slate-800 to-slate-900 border-slate-700' 
+        : 'bg-gradient-to-r from-orange-100 to-red-100 border-orange-200'
+      }`}>
+        <div className="max-w-7xl mx-auto px-6">
+          <div className="text-center mb-12">
+            <h2 className={`text-4xl font-bold mb-4 ${isDarkMode ? 'text-white' : 'text-amber-900'}`}>
+              🏆 为什么老板们都选择 Hotel Inistel？
+            </h2>
+            <p className={`text-xl ${isDarkMode ? 'text-gray-300' : 'text-amber-700'}`}>
+              专业团队上门推销，正规执照酒店专属，一套系统撬动整个酒店帝国
+            </p>
+          </div>
+
+          <div className="grid md:grid-cols-3 gap-8 mb-12">
+            <div className={`p-6 rounded-2xl border shadow-lg ${isDarkMode 
+              ? 'bg-slate-800/80 border-slate-700' 
+              : 'bg-white/80 border-orange-200'
+            }`}>
+              <div className="text-center">
+                <div className="text-4xl mb-4">💰</div>
+                <h3 className={`text-2xl font-bold mb-3 ${isDarkMode ? 'text-white' : 'text-amber-900'}`}>
+                  零成本撬动策略
+                </h3>
+                <p className={`leading-relaxed ${isDarkMode ? 'text-gray-300' : 'text-amber-700'}`}>
+                  用一套系统连接所有酒店，客户数据互通，积分全网使用。
+                  <span className="text-red-500 font-semibold">小投入，大回报，撬动整个市场！</span>
+                </p>
+              </div>
+            </div>
+
+            <div className={`p-6 rounded-2xl border shadow-lg ${isDarkMode 
+              ? 'bg-slate-800/80 border-slate-700' 
+              : 'bg-white/80 border-orange-200'
+            }`}>
+              <div className="text-center">
+                <div className="text-4xl mb-4">🎯</div>
+                <h3 className={`text-2xl font-bold mb-3 ${isDarkMode ? 'text-white' : 'text-amber-900'}`}>
+                  专业团队上门
+                </h3>
+                <p className={`leading-relaxed ${isDarkMode ? 'text-gray-300' : 'text-amber-700'}`}>
+                  持有正规执照，专业团队上门演示推销。
+                  <span className="text-red-500 font-semibold">面向正规酒店老板，不怕花钱但要看到效果！</span>
+                </p>
+              </div>
+            </div>
+
+            <div className={`p-6 rounded-2xl border shadow-lg ${isDarkMode 
+              ? 'bg-slate-800/80 border-slate-700' 
+              : 'bg-white/80 border-orange-200'
+            }`}>
+              <div className="text-center">
+                <div className="text-4xl mb-4">🛡️</div>
+                <h3 className={`text-2xl font-bold mb-3 ${isDarkMode ? 'text-white' : 'text-amber-900'}`}>
+                  东南亚市场专属
+                </h3>
+                <p className={`leading-relaxed ${isDarkMode ? 'text-gray-300' : 'text-amber-700'}`}>
+                  针对东南亚客户特点，双向评价防问题客户。
+                  <span className="text-red-500 font-semibold">防盗防损，让每一分钱都透明可控！</span>
+                </p>
+              </div>
+            </div>
+          </div>
+
+          {/* 老板最关心的数据 */}
+          <div className={`p-8 rounded-2xl border ${isDarkMode 
+            ? 'bg-gradient-to-r from-slate-700/50 to-slate-800/50 border-slate-600' 
+            : 'bg-gradient-to-r from-amber-200/50 to-orange-200/50 border-orange-300'
+          }`}>
+            <div className="text-center mb-6">
+              <h3 className={`text-3xl font-bold ${isDarkMode ? 'text-white' : 'text-amber-900'}`}>
+                📊 老板最关心的实际效果
+              </h3>
+            </div>
+            <div className="grid md:grid-cols-4 gap-6">
+              <div className="text-center">
+                <div className="text-3xl font-bold text-red-600">+42%</div>
+                <div className="text-amber-800 font-medium">淡季收入提升</div>
+                <div className="text-sm text-amber-600">AI预测助力定价</div>
+              </div>
+              <div className="text-center">
+                <div className="text-3xl font-bold text-green-600">100%</div>
+                <div className="text-amber-800 font-medium">收入透明化</div>
+                <div className="text-sm text-amber-600">前台无法私收</div>
+              </div>
+              <div className="text-center">
+                <div className="text-3xl font-bold text-blue-600">95%</div>
+                <div className="text-amber-800 font-medium">问题客户识别</div>
+                <div className="text-sm text-amber-600">双向评价防护</div>
+              </div>
+              <div className="text-center">
+                <div className="text-3xl font-bold text-purple-600">全网</div>
+                <div className="text-amber-800 font-medium">数据生态协同</div>
+                <div className="text-sm text-amber-600">跨店客户管理</div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      {/* 🧠 AI分析师展示区域 - 高端空旷设计 */}
+      <section className={`py-32 ${isDarkMode 
+        ? 'bg-gradient-to-b from-gray-900 to-black' 
+        : 'bg-gradient-to-b from-white to-amber-50'
+      }`}>
+        <div className="max-w-6xl mx-auto px-6">
+          {/* 核心卖点 - 空旷高级感 */}
+          <div className="text-center mb-20">
+            <div className={`inline-flex items-center px-6 py-3 rounded-full text-sm font-medium mb-8 ${isDarkMode 
+              ? 'bg-blue-900/30 border border-blue-500/30 text-blue-300' 
+              : 'bg-orange-100 border border-orange-200 text-orange-700'
+            }`}>
+              🤖 Claude API 驱动的专业级AI分析师
+            </div>
+            
+            <h2 className={`text-6xl font-bold mb-6 ${isDarkMode ? 'text-white' : 'text-amber-900'}`}>
+              每月仅 <span className="bg-gradient-to-r from-red-500 to-orange-500 bg-clip-text text-transparent">¥199</span>
+            </h2>
+            
+            <h3 className={`text-2xl font-medium mb-8 ${isDarkMode ? 'text-gray-300' : 'text-amber-700'}`}>
+              获得专业分析师级别的酒店经营建议
+            </h3>
+            
+            <p className={`text-xl leading-relaxed max-w-4xl mx-auto ${isDarkMode ? 'text-gray-400' : 'text-amber-600'}`}>
+              传统聘请一个酒店分析师月薪<span className="font-bold text-red-500">¥20,000+</span>，
+              我们的AI分析师仅需<span className="font-bold text-green-600">¥199/月</span>，
+              每月2-3份专业报告，涵盖<span className="font-semibold">收益预测、亏损分析、趋势判断、改进建议</span>
+            </p>
+          </div>
+
+          {/* AI功能展示 - 三列布局，空旷感 */}
+          <div className="grid lg:grid-cols-3 gap-12 mb-20">
+            <div className={`text-center p-8 rounded-2xl border transition-all hover:scale-105 ${isDarkMode 
+              ? 'bg-gray-800/50 border-gray-700 hover:border-gray-600' 
+              : 'bg-white/60 backdrop-blur-sm border-orange-100 hover:border-orange-200 shadow-lg'
+            }`}>
+              <div className="text-5xl mb-6">📈</div>
+              <h3 className={`text-2xl font-bold mb-4 ${isDarkMode ? 'text-white' : 'text-amber-900'}`}>
+                收益预测分析
+              </h3>
+              <p className={`text-lg ${isDarkMode ? 'text-gray-300' : 'text-amber-700'}`}>
+                预测未来3-6个月收入趋势<br/>
+                识别潜在亏损风险点<br/>
+                <span className="text-green-600 font-semibold">准确率99.7%</span>
+              </p>
+            </div>
+
+            <div className={`text-center p-8 rounded-2xl border transition-all hover:scale-105 ${isDarkMode 
+              ? 'bg-gray-800/50 border-gray-700 hover:border-gray-600' 
+              : 'bg-white/60 backdrop-blur-sm border-orange-100 hover:border-orange-200 shadow-lg'
+            }`}>
+              <div className="text-5xl mb-6">💬</div>
+              <h3 className={`text-2xl font-bold mb-4 ${isDarkMode ? 'text-white' : 'text-amber-900'}`}>
+                智能评价分析
+              </h3>
+              <p className={`text-lg ${isDarkMode ? 'text-gray-300' : 'text-amber-700'}`}>
+                自动收集全平台评价<br/>
+                AI情感分析+改进建议<br/>
+                <span className="text-green-600 font-semibold">客户满意度+45%</span>
+              </p>
+            </div>
+
+            <div className={`text-center p-8 rounded-2xl border transition-all hover:scale-105 ${isDarkMode 
+              ? 'bg-gray-800/50 border-gray-700 hover:border-gray-600' 
+              : 'bg-white/60 backdrop-blur-sm border-orange-100 hover:border-orange-200 shadow-lg'
+            }`}>
+              <div className="text-5xl mb-6">📊</div>
+              <h3 className={`text-2xl font-bold mb-4 ${isDarkMode ? 'text-white' : 'text-amber-900'}`}>
+                专业财务报表
+              </h3>
+              <p className={`text-lg ${isDarkMode ? 'text-gray-300' : 'text-amber-700'}`}>
+                Claude API生成专业报告<br/>
+                深度分析+具体建议<br/>
+                <span className="text-green-600 font-semibold">每月2-3份高质量报告</span>
+              </p>
+            </div>
+          </div>
+
+          {/* 价格对比 - 突出优势 */}
+          <div className={`text-center p-12 rounded-3xl ${isDarkMode 
+            ? 'bg-gradient-to-r from-blue-900/20 to-purple-900/20 border border-blue-500/30' 
+            : 'bg-gradient-to-r from-orange-50 to-red-50 border border-orange-200'
+          }`}>
+            <h3 className={`text-3xl font-bold mb-8 ${isDarkMode ? 'text-white' : 'text-amber-900'}`}>
+              💰 成本对比：AI分析师 vs 传统分析师
+            </h3>
+            <div className="grid md:grid-cols-2 gap-8">
+              <div className={`p-6 rounded-xl ${isDarkMode ? 'bg-red-900/30' : 'bg-red-50 border border-red-200'}`}>
+                <div className="text-4xl mb-4">👨‍💼</div>
+                <h4 className={`text-xl font-bold mb-3 ${isDarkMode ? 'text-red-300' : 'text-red-700'}`}>
+                  传统分析师
+                </h4>
+                <div className="text-3xl font-bold text-red-500 mb-2">¥20,000+/月</div>
+                <div className={`text-sm ${isDarkMode ? 'text-gray-400' : 'text-red-600'}`}>
+                  + 社保公积金 + 办公成本 + 培训费用
+                </div>
+              </div>
+              
+              <div className={`p-6 rounded-xl ${isDarkMode ? 'bg-green-900/30' : 'bg-green-50 border border-green-200'}`}>
+                <div className="text-4xl mb-4">🤖</div>
+                <h4 className={`text-xl font-bold mb-3 ${isDarkMode ? 'text-green-300' : 'text-green-700'}`}>
+                  AI分析师
+                </h4>
+                <div className="text-3xl font-bold text-green-500 mb-2">¥199/月</div>
+                <div className={`text-sm ${isDarkMode ? 'text-gray-400' : 'text-green-600'}`}>
+                  24小时在线 + 无限分析 + 专业报告
+                </div>
+              </div>
+            </div>
+            
+            <div className={`mt-8 text-2xl font-bold ${isDarkMode ? 'text-yellow-400' : 'text-orange-600'}`}>
+              💎 节省成本：<span className="text-green-500">99%</span> | 效率提升：<span className="text-blue-500">500%</span>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      {/* 🚀 超级功能展示 */}
+      <section id="features" className={`py-20 ${isDarkMode 
+        ? 'bg-gradient-to-b from-gray-900 to-black' 
+        : 'bg-gradient-to-b from-amber-50 to-orange-50'
+      }`}>
+        <div className="max-w-7xl mx-auto px-6">
+          <div className="text-center space-y-4 mb-16">
+            <h2 className={`text-5xl font-bold ${isDarkMode ? 'text-white' : 'text-amber-900'}`}>
+              🎯 完整功能生态系统
+            </h2>
+            <p className={`text-xl ${isDarkMode ? 'text-gray-300' : 'text-amber-700'}`}>
+              12大核心模块，构建无懈可击的酒店管理帝国
+            </p>
+          </div>
+
+          <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-6">
+            {professionalFeatures.map((feature, idx) => (
+              <div 
+                key={idx} 
+                className={`group relative p-6 rounded-2xl border transition-all hover:scale-105 ${
+                  isDarkMode
+                    ? feature.highlight 
+                      ? 'bg-gradient-to-br from-slate-800 to-slate-900 border-slate-600 shadow-xl shadow-blue-500/20' 
+                      : 'bg-slate-800/80 border-slate-700 hover:border-slate-600'
+                    : feature.highlight 
+                      ? 'bg-gradient-to-br from-orange-100 to-red-100 border-orange-300 shadow-xl shadow-orange-200/50' 
+                      : 'bg-white/80 border-orange-200 hover:border-orange-300'
+                }`}
+              >
+                <div className="space-y-4">
+                  <div className="flex items-start space-x-3">
+                    <div className="text-3xl">{feature.icon}</div>
+                    <div className="flex-1">
+                      <h3 className={`text-lg font-bold ${isDarkMode ? 'text-white' : 'text-amber-900'}`}>
+                        {feature.title}
+                      </h3>
+                      <div className={`text-xs font-medium ${isDarkMode ? 'text-blue-400' : 'text-orange-600'}`}>
+                        {feature.tech}
+                      </div>
+                    </div>
+                  </div>
+                  <p className={`text-sm leading-relaxed ${isDarkMode ? 'text-gray-300' : 'text-amber-700'}`}>
+                    {feature.description}
+                  </p>
+                  
+                  {/* 功能特性列表 */}
+                  <div className="flex flex-wrap gap-2">
+                    {feature.features.map((feat, fidx) => (
+                      <span key={fidx} className={`px-2 py-1 text-xs rounded-md ${isDarkMode 
+                        ? 'bg-slate-700 text-slate-300' 
+                        : 'bg-orange-100 text-orange-700'
+                      }`}>
+                        {feat}
+                      </span>
+                    ))}
+                  </div>
+                  
+                  {/* 效果提升显示 */}
+                  <div className="text-green-500 text-sm font-bold">
+                    {feature.improvement}
+                  </div>
+                </div>
+                
+                {feature.highlight && (
+                  <div className="absolute -top-2 -right-2 bg-gradient-to-r from-yellow-400 to-red-500 text-white px-2 py-1 rounded-full text-xs font-bold">
+                    🔥 HOT
+                  </div>
+                )}
+              </div>
+            ))}
+          </div>
+
+          {/* 🔥 技术栈展示 - 专业响应式布局 */}
+          <div className="mt-20 text-center">
+            <h3 className={`text-3xl font-bold mb-8 ${isDarkMode ? 'text-white' : 'text-amber-900'}`}>
+              🚀 企业级技术栈
+            </h3>
+            <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-6 gap-4">
+              {techStack.map((tech, idx) => (
+                <div key={idx} className={`p-4 rounded-xl border transition-all shadow-lg hover:scale-105 ${isDarkMode 
+                  ? 'bg-slate-800/80 border-slate-700 hover:border-slate-600' 
+                  : 'bg-white/40 backdrop-blur-sm border-orange-200/50 hover:border-orange-300/70 hover:bg-white/50'
+                }`}>
+                  <div className={`text-lg font-bold ${tech.color} mb-1`}>{tech.name}</div>
+                  <div className={`text-xs ${isDarkMode ? 'text-gray-400' : 'text-amber-700'}`}>{tech.desc}</div>
+                </div>
+              ))}
+            </div>
+          </div>
+
+          {/* 🌍 多语言支持 - 6种语言横排布局 */}
+          <div className="mt-16 text-center">
+            <h3 className={`text-3xl font-bold mb-8 ${isDarkMode ? 'text-white' : 'text-amber-900'}`}>
+              🌍 全球化语言支持
+            </h3>
+            <div className="grid grid-cols-3 sm:grid-cols-6 gap-4">
+              {languages.map((lang, idx) => (
+                <div key={idx} className={`p-4 rounded-xl border transition-all shadow-lg hover:scale-105 ${isDarkMode 
+                  ? 'bg-slate-800/80 border-slate-700 hover:border-slate-600' 
+                  : 'bg-white/40 backdrop-blur-sm border-orange-200/50 hover:bg-white/50 hover:border-orange-300/70'
+                }`}>
+                  <div className="text-2xl mb-2">{lang.flag}</div>
+                  <div className={`font-medium text-sm ${isDarkMode ? 'text-white' : 'text-amber-900'}`}>
+                    {lang.name}
+                  </div>
+                  <div className={`text-xs ${isDarkMode ? 'text-gray-400' : 'text-amber-700'}`}>
+                    覆盖率 {lang.coverage}
+                  </div>
+                </div>
+              ))}
+            </div>
+          </div>
+        </div>
+      </section>
+
+      {/* 🎯 价格方案 */}
+      <section id="pricing" className="py-20 bg-gradient-to-b from-black to-gray-900">
+        <div className="max-w-7xl mx-auto px-6">
+          <div className="text-center space-y-4 mb-16">
+            <h2 className="text-5xl font-bold text-white">选择适合您的方案</h2>
+            <p className="text-xl text-gray-400">灵活定价，满足不同规模酒店需求</p>
+          </div>
+
+          <div className="grid md:grid-cols-3 gap-8">
+            <div className="bg-gray-800 p-8 rounded-2xl border border-gray-700">
+              <div className="space-y-6">
+                <div>
+                  <h3 className="text-2xl font-bold text-white">创业版</h3>
+                  <div className="text-4xl font-bold text-blue-400 mt-2">¥199<span className="text-lg text-gray-400">/月</span></div>
+                  <p className="text-gray-400 mt-2">最多30间房</p>
+                </div>
+                <ul className="space-y-3">
+                  {['基础房态管理', '预订管理', '客户管理', '基础报表', '7x24客服支持'].map((feature, idx) => (
+                    <li key={idx} className="flex items-center text-gray-300">
+                      <span className="text-green-400 mr-3">✓</span>
+                      {feature}
+                    </li>
+                  ))}
+                </ul>
+                <button className="w-full py-3 bg-blue-600 text-white rounded-lg font-medium hover:bg-blue-700 transition-colors">
+                  选择创业版
+                </button>
+              </div>
+            </div>
+
+            <div className="bg-gradient-to-br from-purple-900 to-blue-900 p-8 rounded-2xl border-2 border-purple-500 relative">
+              <div className="absolute -top-4 left-1/2 transform -translate-x-1/2 bg-gradient-to-r from-yellow-400 to-orange-400 text-black px-4 py-2 rounded-full text-sm font-bold">
+                🏆 推荐
+              </div>
+              <div className="space-y-6">
+                <div>
+                  <h3 className="text-2xl font-bold text-white">专业版</h3>
+                  <div className="text-4xl font-bold text-white mt-2">¥499<span className="text-lg text-gray-400">/月</span></div>
+                  <p className="text-gray-300 mt-2">最多100间房</p>
+                </div>
+                <ul className="space-y-3">
+                  {['智能房态管理', 'OTA集成', '高级报表', '积分系统', '多用户权限', '数据导出'].map((feature, idx) => (
+                    <li key={idx} className="flex items-center text-white">
+                      <span className="text-yellow-400 mr-3">★</span>
+                      {feature}
+                    </li>
+                  ))}
+                </ul>
+                <button className="w-full py-3 bg-white text-purple-900 rounded-lg font-bold hover:bg-gray-100 transition-colors">
+                  选择专业版
+                </button>
+              </div>
+            </div>
+
+            <div className="bg-gray-800 p-8 rounded-2xl border border-gray-700">
+              <div className="space-y-6">
+                <div>
+                  <h3 className="text-2xl font-bold text-white">企业版</h3>
+                  <div className="text-4xl font-bold text-orange-400 mt-2">¥999<span className="text-lg text-gray-400">/月</span></div>
+                  <p className="text-gray-400 mt-2">无限房间</p>
+                </div>
+                <ul className="space-y-3">
+                  {['全功能', '定制开发', '专属客服', 'API接口', '数据迁移服务', '现场培训'].map((feature, idx) => (
+                    <li key={idx} className="flex items-center text-gray-300">
+                      <span className="text-orange-400 mr-3">◆</span>
+                      {feature}
+                    </li>
+                  ))}
+                </ul>
+                <button className="w-full py-3 bg-orange-600 text-white rounded-lg font-medium hover:bg-orange-700 transition-colors">
+                  选择企业版
+                </button>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      {/* 🎮 Steam级别页脚 */}
+      <footer className="bg-black border-t border-gray-800">
+        <div className="max-w-7xl mx-auto px-6 py-12">
+          <div className="text-center space-y-4">
+            <div className="text-3xl font-bold bg-gradient-to-r from-blue-400 to-purple-400 bg-clip-text text-transparent">
+              Hotel Inistel
+            </div>
+            <p className="text-gray-400">让每家酒店都拥有智能化管理系统</p>
+            <div className="flex justify-center space-x-8">
+              <Link to="/login" className="text-gray-400 hover:text-white transition-colors">登录</Link>
+              <Link to="/dashboard" className="text-gray-400 hover:text-white transition-colors">体验系统</Link>
+              <a href="#contact" className="text-gray-400 hover:text-white transition-colors">联系我们</a>
+            </div>
+            <div className="pt-8 border-t border-gray-800 text-gray-500 text-sm">
+              © 2024 Hotel Inistel. SVS & TT Technology. All rights reserved.
+            </div>
+          </div>
+        </div>
+      </footer>
+    </div>
+  );
+};
+
+
+export default HomePage;

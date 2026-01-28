@@ -1,0 +1,459 @@
+{
+  "propositions": [
+    {
+      "id": "1",
+      "text": "The document is titled \"《零时》\".",
+      "level": 1
+    },
+    {
+      "id": "1.1",
+      "text": "The narrative begins with a prologue titled \"楔子：十一月十九日\".",
+      "level": 2
+    },
+    {
+      "id": "1.1.1",
+      "text": "A group of people, mostly lawyers, are gathered near a fireplace.",
+      "level": 3
+    },
+    {
+      "id": "1.1.1.1",
+      "text": "Notable individuals include Mr. Justice Clive, Mr. Justice Croft, Sir Justice Clive, Mr. Llewellyn, and Mr. Quivey.",
+      "level": 4
+    },
+    {
+      "id": "1.1.1.2",
+      "text": "Mr. Quivey is an experienced and highly respected criminalogy expert, approaching eighty years old.",
+      "level": 4
+    },
+    {
+      "id": "1.1.2",
+      "text": "The conversation centers on a recently concluded murder trial where the defendant was acquitted.",
+      "level": 3
+    },
+    {
+      "id": "1.1.2.1",
+      "text": "The prosecution made a mistake by relying on one witness, leading to the defendant's release.",
+      "level": 4
+    },
+    {
+      "id": "1.1.2.2",
+      "text": "The jury's decision was based on the maid's testimony, despite contradictory medical evidence.",
+      "level": 4
+    },
+    {
+      "id": "1.1.3",
+      "text": "The group waits for Mr. Quivey to offer his opinion.",
+      "level": 3
+    },
+    {
+      "id": "1.1.4",
+      "text": "Mr. Quivey expresses his thought that the core of the case lies not in legal aspects, but in the people involved.",
+      "level": 3
+    },
+    {
+      "id": "1.1.5",
+      "text": "He elaborates that a crime story begins long before the murder, with the accumulation of reasons and events that bring people together.",
+      "level": 3
+    },
+    {
+      "id": "1.1.6",
+      "text": "He uses the maid's situation and other intricate connections as examples of these preceding events.",
+      "level": 3
+    },
+    {
+      "id": "1.1.7",
+      "text": "Mr. Quivey describes this convergence of events as a \"zero hour\" for an attack.",
+      "level": 3
+    },
+    {
+      "id": "1.1.8",
+      "text": "He leaves, feeling a chill, and reflects on his own life and the concept of \"zero hour.\"",
+      "level": 3
+    },
+    {
+      "id": "1.1.9",
+      "text": "Upon returning home, Mr. Quivey receives a letter that deeply unsettles him, changing his plans.",
+      "level": 3
+    },
+    {
+      "id": "1.2",
+      "text": "Chapter One is titled \"第一章：一开门，所有的人都在那里\".",
+      "level": 2
+    },
+    {
+      "id": "1.2.1",
+      "text": "The chapter opens on January 11th with a patient, Andrew MacWhite, in pain and distress.",
+      "level": 3
+    },
+    {
+      "id": "1.2.2",
+      "text": "He reflects on his failed suicide attempt and his predicament of being charged with attempted suicide.",
+      "level": 3
+    },
+    {
+      "id": "1.2.3",
+      "text": "He recounts the reasons for his despair: job loss, marital issues, poor health, and lack of hope.",
+      "level": 3
+    },
+    {
+      "id": "1.2.4",
+      "text": "A young, red-haired nurse tries to offer comfort and medication, but Andrew resists.",
+      "level": 3
+    },
+    {
+      "id": "1.2.5",
+      "text": "Andrew expresses his frustration with the intervention and the perceived lack of understanding from others.",
+      "level": 3
+    },
+    {
+      "id": "1.2.6",
+      "text": "The nurse argues that suicide is wrong and that one must continue to live for the sake of others.",
+      "level": 3
+    },
+    {
+      "id": "1.2.7",
+      "text": "Andrew shares his backstory: a car accident, his refusal to lie to his boss, leading to job loss and his wife leaving him for a friend.",
+      "level": 3
+    },
+    {
+      "id": "1.2.8",
+      "text": "He developed alcoholism and suffered organ damage, leading him to believe that ending his life was the only option.",
+      "level": 3
+    },
+    {
+      "id": "1.2.9",
+      "text": "Despite his despair, Andrew suddenly feels he will not attempt suicide again.",
+      "level": 3
+    },
+    {
+      "id": "1.2.10",
+      "text": "He asserts his right to his own life, but the nurse counters with religious reasoning.",
+      "level": 3
+    },
+    {
+      "id": "1.2.11",
+      "text": "The nurse, from the west coast of Scotland, has a family with \"foresight\" and might be subtly predicting his future.",
+      "level": 3
+    },
+    {
+      "id": "1.3",
+      "text": "The narrative shifts to February 14th, where a person is meticulously planning a murder.",
+      "level": 2
+    },
+    {
+      "id": "1.3.1",
+      "text": "This individual is in a state of calm, intelligent control, driven by a single purpose: the destruction of another person.",
+      "level": 3
+    },
+    {
+      "id": "1.3.2",
+      "text": "Every contingency and possibility is considered in the plan, aiming for perfection.",
+      "level": 3
+    },
+    {
+      "id": "1.3.3",
+      "text": "The plan is meticulously crafted, involving time, place, method, and target.",
+      "level": 3
+    },
+    {
+      "id": "1.3.4",
+      "text": "The planner smiles with a \"not quite sane\" expression, acknowledging the grim nature of the outcome.",
+      "level": 3
+    },
+    {
+      "id": "1.3.5",
+      "text": "The plan is then destroyed by fire, with its details now residing solely in the planner's mind.",
+      "level": 3
+    },
+    {
+      "id": "1.4",
+      "text": "The narrative moves to March 8th, focusing on Inspector Battle.",
+      "level": 2
+    },
+    {
+      "id": "1.4.1",
+      "text": "Inspector Battle is informed of his youngest daughter, Sylvia's, involvement in petty theft at her boarding school.",
+      "level": 3
+    },
+    {
+      "id": "1.4.2",
+      "text": "The headmistress, Miss Anfrey, believes in using psychological methods and wants to discuss the situation delicately.",
+      "level": 3
+    },
+    {
+      "id": "1.4.3",
+      "text": "Inspector Battle meets Miss Anfrey, who explains her methods of observation and a word-association test used to elicit Sylvia's confession.",
+      "level": 3
+    },
+    {
+      "id": "1.4.4",
+      "text": "Battle meets Sylvia and quickly realizes she is not a thief but an unusual liar, pressured by Miss Anfrey's psychological manipulation.",
+      "level": 3
+    },
+    {
+      "id": "1.4.5",
+      "text": "He resolves to clear his daughter's name and asks for a police investigation.",
+      "level": 3
+    },
+    {
+      "id": "1.4.6",
+      "text": "He identifies a likely suspect, Olivia Parsons, based on her demeanor.",
+      "level": 3
+    },
+    {
+      "id": "1.5",
+      "text": "The story progresses to April 19th, introducing Neville Strudgett, a successful athlete.",
+      "level": 2
+    },
+    {
+      "id": "1.5.1",
+      "text": "Neville is presented as a seemingly perfect man, but a shadow of worry looms over him.",
+      "level": 3
+    },
+    {
+      "id": "1.5.2",
+      "text": "He discusses plans with his wife, Kay, regarding a visit to his godmother, Mrs. Camilla.",
+      "level": 3
+    },
+    {
+      "id": "1.5.3",
+      "text": "Kay expresses her dislike for Mrs. Camilla and her family, feeling unwelcome due to her perceived lack of background and status.",
+      "level": 3
+    },
+    {
+      "id": "1.5.4",
+      "text": "Neville reveals he has met his ex-wife, Audrey, and suggests that Kay and Audrey could become friends, perhaps even staying at \"Seagull's Nest\" together.",
+      "level": 3
+    },
+    {
+      "id": "1.5.5",
+      "text": "Kay is surprised and suspicious of this idea, sensing Neville's unhappiness and Audrey's lingering influence.",
+      "level": 3
+    },
+    {
+      "id": "1.5.6",
+      "text": "Neville admits to feeling he has wronged Audrey and believes reconciliation would bring him happiness.",
+      "level": 3
+    },
+    {
+      "id": "1.5.7",
+      "text": "Kay insists that Audrey's shadow is a constant presence and that Neville doesn't truly know her.",
+      "level": 3
+    },
+    {
+      "id": "1.6",
+      "text": "The narrative concludes on April 30th with Mrs. Trevillian and Mary O'Din discussing Neville's letter.",
+      "level": 2
+    },
+    {
+      "id": "1.6.1",
+      "text": "Mrs. Trevillian, an elderly and sharp-minded woman, finds Neville's suggestion of reconciliation \"absurd.\"",
+      "level": 3
+    },
+    {
+      "id": "1.6.2",
+      "text": "They suspect Kay is behind this idea, deeming it \"common and vulgar.\"",
+      "level": 3
+    },
+    {
+      "id": "1.6.3",
+      "text": "Mrs. Trevillian expresses her dislike for Kay, finding her intrusive and lacking in social graces.",
+      "level": 3
+    },
+    {
+      "id": "1.6.4",
+      "text": "She mentions Kay's father's disreputable past, implying a lack of \"breeding.\"",
+      "level": 3
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Lawyers",
+      "frequency": 4,
+      "context": "A group of lawyers are introduced at the beginning of the prologue, discussing a legal case."
+    },
+    {
+      "name": "Mr. Quivey",
+      "frequency": 7,
+      "context": "A central figure in the prologue, an experienced and respected legal expert who offers a unique perspective on crime."
+    },
+    {
+      "name": "Murder Trial",
+      "frequency": 3,
+      "context": "The central legal case discussed in the prologue, leading to the acquittal of the defendant."
+    },
+    {
+      "name": "Jury",
+      "frequency": 2,
+      "context": "Their decision in the murder trial is discussed as being unpredictable."
+    },
+    {
+      "name": "Zero Hour",
+      "frequency": 3,
+      "context": "A concept introduced by Mr. Quivey, representing the critical moment when events converge for a significant outcome."
+    },
+    {
+      "name": "Andrew MacWhite",
+      "frequency": 8,
+      "context": "The protagonist of the first chapter, a man who attempted suicide and is now in the hospital."
+    },
+    {
+      "name": "Suicide",
+      "frequency": 6,
+      "context": "A major theme in Chapter 1, discussed by Andrew and the nurse, and a central element of his backstory."
+    },
+    {
+      "name": "Nurse",
+      "frequency": 6,
+      "context": "A character who interacts with Andrew MacWhite, offering comfort and engaging in a philosophical debate about life and death."
+    },
+    {
+      "name": "Psychology",
+      "frequency": 4,
+      "context": "Miss Anfrey uses psychological methods to investigate Sylvia's alleged theft."
+    },
+    {
+      "name": "Inspector Battle",
+      "frequency": 11,
+      "context": "A police inspector who investigates his daughter's situation and demonstrates a keen understanding of human nature."
+    },
+    {
+      "name": "Sylvia Battle",
+      "frequency": 8,
+      "context": "Inspector Battle's daughter, accused of theft at her boarding school."
+    },
+    {
+      "name": "Miss Anfrey",
+      "frequency": 7,
+      "context": "The headmistress of Sylvia's boarding school, who uses questionable psychological tactics."
+    },
+    {
+      "name": "Neville Strudgett",
+      "frequency": 13,
+      "context": "A successful athlete who appears to have a perfect life but is troubled by past relationships and current marital dynamics."
+    },
+    {
+      "name": "Kay Strudgett",
+      "frequency": 13,
+      "context": "Neville's wife, who is beautiful but harbors resentment towards his family and former wife."
+    },
+    {
+      "name": "Audrey Strudgett",
+      "frequency": 9,
+      "context": "Neville's ex-wife, whose presence and influence continue to affect Neville and Kay."
+    },
+    {
+      "name": "Mrs. Trevillian",
+      "frequency": 7,
+      "context": "An elderly, sharp-witted woman who disapproves of Kay and Neville's proposed reconciliation."
+    },
+    {
+      "name": "Mary O'Din",
+      "frequency": 5,
+      "context": "Mrs. Trevillian's companion, who is more measured in her opinions."
+    },
+    {
+      "name": "Seagull's Nest",
+      "frequency": 5,
+      "context": "The ancestral home associated with Neville's godmother, Camilla."
+    }
+  ],
+  "relations": [
+    {
+      "source": "Mr. Quivey",
+      "target": "Legal System",
+      "type": "expert_in"
+    },
+    {
+      "source": "Murder Trial",
+      "target": "Acquittal",
+      "type": "results_in"
+    },
+    {
+      "source": "Jury",
+      "target": "Decision",
+      "type": "makes"
+    },
+    {
+      "source": "Zero Hour",
+      "target": "Convergence of Events",
+      "type": "represents"
+    },
+    {
+      "source": "Andrew MacWhite",
+      "target": "Suicide Attempt",
+      "type": "involved_in"
+    },
+    {
+      "source": "Nurse",
+      "target": "Andrew MacWhite",
+      "type": "interacts_with"
+    },
+    {
+      "source": "Psychology",
+      "target": "Miss Anfrey",
+      "type": "used_by"
+    },
+    {
+      "source": "Inspector Battle",
+      "target": "Sylvia Battle",
+      "type": "father_of"
+    },
+    {
+      "source": "Miss Anfrey",
+      "target": "Sylvia Battle",
+      "type": "accuses_of"
+    },
+    {
+      "source": "Neville Strudgett",
+      "target": "Kay Strudgett",
+      "type": "husband_of"
+    },
+    {
+      "source": "Neville Strudgett",
+      "target": "Audrey Strudgett",
+      "type": "ex_husband_of"
+    },
+    {
+      "source": "Kay Strudgett",
+      "target": "Audrey Strudgett",
+      "type": "resentful_of"
+    },
+    {
+      "source": "Neville Strudgett",
+      "target": "Mrs. Trevillian",
+      "type": "godson_of"
+    },
+    {
+      "source": "Mrs. Trevillian",
+      "target": "Kay Strudgett",
+      "type": "disapproves_of"
+    },
+    {
+      "source": "Mrs. Trevillian",
+      "target": "Neville Strudgett",
+      "type": "related_to"
+    },
+    {
+      "source": "Mary O'Din",
+      "target": "Mrs. Trevillian",
+      "type": "companion_of"
+    },
+    {
+      "source": "Seagull's Nest",
+      "target": "Neville Strudgett",
+      "type": "home_of"
+    }
+  ],
+  "hierarchy": {
+    "main_topics": [
+      "Introduction to the story and legal discussions",
+      "The psychological struggles and contemplation of suicide",
+      "A meticulously planned murder",
+      "Police investigation into a family matter",
+      "Complex marital relationships and past regrets",
+      "Social judgments and family dynamics"
+    ],
+    "structure": "The document is structured into a prologue and several chapters, each marked by a date, progressing the narrative through different characters and plotlines."
+  }
+}

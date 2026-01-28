@@ -1,0 +1,2088 @@
+{
+  "propositions": [
+    {
+      "id": "1",
+      "text": "The author apologizes for the upcoming hiatus in updates for \"Image\" due to interest from magazines and publishers.",
+      "level": 1
+    },
+    {
+      "id": "1.1",
+      "text": "The author plans to release \"The Seventh Reader\" and \"Image\" in physical book form.",
+      "level": 2
+    },
+    {
+      "id": "1.2",
+      "text": "The author promises to continue updating \"Image\" as soon as conditions allow and to gift books to long-term supporters if the book is successfully published.",
+      "level": 2
+    },
+    {
+      "id": "2",
+      "text": "The prologue describes the narrator's recurring nightmare of headless, burnt bodies and a voice telling him, \"Actually, you are the same as me.\"",
+      "level": 1
+    },
+    {
+      "id": "2.1",
+      "text": "The narrator is a solitary individual who observes others meticulously.",
+      "level": 2
+    },
+    {
+      "id": "2.2",
+      "text": "The narrator lives in room 313, Block B, South Campus Dormitory 5 at J University, with his roommate Du Yu.",
+      "level": 2
+    },
+    {
+      "id": "2.3",
+      "text": "Du Yu's girlfriend, Zhang Yao, sees gruesome images of a murdered and dismembered person on the narrator's computer and vomits, calling the narrator a \"monster.\"",
+      "level": 2
+    },
+    {
+      "id": "2.4",
+      "text": "The narrator is the sole survivor of a disaster that occurred two years prior.",
+      "level": 2
+    },
+    {
+      "id": "3",
+      "text": "Chapter 1 introduces detective Tai Wei investigating a series of brutal murders in J City.",
+      "level": 1
+    },
+    {
+      "id": "3.1",
+      "text": "The first victim, Chen, was found dead from mechanical asphyxiation, with her body eviscerated.",
+      "level": 2
+    },
+    {
+      "id": "3.2",
+      "text": "Two more similar murders of women aged 25-35 occurred over the next month, with the victims being eviscerated and their blood mixed with other substances.",
+      "level": 2
+    },
+    {
+      "id": "3.3",
+      "text": "A visiting detective, Ding Shucheng, suggests consulting a criminal psychology graduate student from J University.",
+      "level": 2
+    },
+    {
+      "id": "3.4",
+      "text": "In C City, a series of four rape-murder cases in 2001 were solved with the help of a graduate named Fang Mu.",
+      "level": 2
+    },
+    {
+      "id": "3.5",
+      "text": "Fang Mu accurately described the perpetrator's characteristics, leading to the arrest of Huang Yongxiao.",
+      "level": 2
+    },
+    {
+      "id": "3.6",
+      "text": "Fang Mu's analysis of the crime scenes, particularly the post-mortem evisceration and the post-mortem rape in a rear-entry position, suggested the killer was driven by a desire to \"rape the city.\"",
+      "level": 2
+    },
+    {
+      "id": "3.7",
+      "text": "Fang Mu's insights included the killer's likely age (under 25), lack of female elder influence, failed life experiences, familiarity with construction sites, and potential patronage of low-end video halls.",
+      "level": 2
+    },
+    {
+      "id": "3.8",
+      "text": "Fang Mu also deduced the presence of a watch on the killer's left wrist based on a torn fingernail and victim's skin tissue.",
+      "level": 2
+    },
+    {
+      "id": "3.9",
+      "text": "Fang Mu requested a private meeting with Huang Yongxiao before his trial, during which he learned about Huang's troubled childhood, including parental divorce, witnessing his father's infidelity, and a disturbing encounter with a female classmate.",
+      "level": 2
+    },
+    {
+      "id": "4",
+      "text": "Chapter 2 begins with Fang Mu's first criminal law class, taught by Professor Song Yaoyang.",
+      "level": 1
+    },
+    {
+      "id": "4.1",
+      "text": "Meng Fanzhe, a law student, exhibits extreme nervousness during roll call, unable to say \"here.\"",
+      "level": 2
+    },
+    {
+      "id": "4.2",
+      "text": "Fang Mu realizes Meng Fanzhe's fear of roll call and helps him by interrupting the process, allowing him to respond.",
+      "level": 2
+    },
+    {
+      "id": "4.3",
+      "text": "Meng Fanzhe confesses to Fang Mu that he has a fear of roll call, which he cannot explain, and that it has significantly impacted his university life.",
+      "level": 2
+    },
+    {
+      "id": "4.4",
+      "text": "Fang Mu suggests that Meng Fanzhe's fear is a psychological barrier and reassures him that it is not a serious mental illness.",
+      "level": 2
+    },
+    {
+      "id": "5",
+      "text": "Chapter 3 describes a new murder at Mingzhu residential complex.",
+      "level": 1
+    },
+    {
+      "id": "5.1",
+      "text": "The victim, a single woman, was murdered by mechanical asphyxiation and evisceration, with the killer using a kitchen knife left at the scene.",
+      "level": 2
+    },
+    {
+      "id": "5.2",
+      "text": "Fang Mu arrives at the scene and, despite feeling nauseous, deduces that there is another victim, possibly a child, based on a Mickey Mouse button found nearby and the missing medium-sized kitchen knife.",
+      "level": 2
+    },
+    {
+      "id": "5.3",
+      "text": "Fang Mu's description of the potential second victim – a male, 25-30 years old, around 170cm, thin, with long messy hair, carrying a checkered bag, and a vacant look – prompts Tai Wei to issue an alert.",
+      "level": 2
+    },
+    {
+      "id": "5.4",
+      "text": "Following Fang Mu's direction, the police discover the body of a young girl, also eviscerated, stuffed into a cement pipe in a deserted factory.",
+      "level": 2
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Author",
+      "frequency": 1,
+      "context": "The author of the novel \"Image\" announces an upcoming hiatus."
+    },
+    {
+      "name": "Image",
+      "frequency": 5,
+      "context": "The title of the novel and the subject of the author's announcement and potential publication."
+    },
+    {
+      "name": "Update",
+      "frequency": 2,
+      "context": "Refers to the continuation of the novel's publication online."
+    },
+    {
+      "name": "Magazine",
+      "frequency": 1,
+      "context": "One of the entities interested in publishing \"Image.\""
+    },
+    {
+      "name": "Publisher",
+      "frequency": 1,
+      "context": "One of the entities interested in publishing \"Image.\""
+    },
+    {
+      "name": "Physical book",
+      "frequency": 1,
+      "context": "The intended format for the future release of \"Image\" and \"The Seventh Reader.\""
+    },
+    {
+      "name": "The Seventh Reader",
+      "frequency": 1,
+      "context": "Another novel by the author, also slated for physical release."
+    },
+    {
+      "name": "Gift",
+      "frequency": 1,
+      "context": "A promised gesture from the author to loyal readers."
+    },
+    {
+      "name": "Prologue",
+      "frequency": 1,
+      "context": "The introductory section of the novel."
+    },
+    {
+      "name": "Nightmare",
+      "frequency": 1,
+      "context": "A recurring disturbing dream experienced by the narrator."
+    },
+    {
+      "name": "Burnt bodies",
+      "frequency": 1,
+      "context": "Visual elements of the narrator's nightmare."
+    },
+    {
+      "name": "Narrator",
+      "frequency": 5,
+      "context": "The first-person perspective character in the novel, later identified as Fang Mu."
+    },
+    {
+      "name": "Solitary",
+      "frequency": 1,
+      "context": "Describes the narrator's personality."
+    },
+    {
+      "name": "Observation",
+      "frequency": 1,
+      "context": "The narrator's habit of watching others."
+    },
+    {
+      "name": "J University",
+      "frequency": 3,
+      "context": "The academic institution where the narrator studies."
+    },
+    {
+      "name": "Du Yu",
+      "frequency": 2,
+      "context": "The narrator's roommate."
+    },
+    {
+      "name": "Zhang Yao",
+      "frequency": 2,
+      "context": "Du Yu's girlfriend."
+    },
+    {
+      "name": "Monster",
+      "frequency": 2,
+      "context": "A label applied to the narrator by Zhang Yao after seeing gruesome images."
+    },
+    {
+      "name": "Gruesome images",
+      "frequency": 1,
+      "context": "Photographs of a murder scene viewed by Zhang Yao."
+    },
+    {
+      "name": "Disaster",
+      "frequency": 1,
+      "context": "An event in the narrator's past, of which he is the sole survivor."
+    },
+    {
+      "name": "Chapter 1",
+      "frequency": 1,
+      "context": "The first chapter of the novel."
+    },
+    {
+      "name": "Detective",
+      "frequency": 3,
+      "context": "A police officer involved in the investigation, specifically Tai Wei."
+    },
+    {
+      "name": "J City",
+      "frequency": 5,
+      "context": "The primary setting for the unfolding murder investigations."
+    },
+    {
+      "name": "Murder",
+      "frequency": 5,
+      "context": "The central crime being investigated."
+    },
+    {
+      "name": "Victim",
+      "frequency": 6,
+      "context": "Individuals who have been killed."
+    },
+    {
+      "name": "Mechanical asphyxiation",
+      "frequency": 2,
+      "context": "The cause of death for some victims."
+    },
+    {
+      "name": "Evisceration",
+      "frequency": 4,
+      "context": "The act of disemboweling the victims."
+    },
+    {
+      "name": "Kitchen knife",
+      "frequency": 2,
+      "context": "A weapon used in the murders."
+    },
+    {
+      "name": "Rape",
+      "frequency": 2,
+      "context": "A crime that occurred in some of the cases."
+    },
+    {
+      "name": "C City",
+      "frequency": 3,
+      "context": "A city where a previous series of crimes occurred."
+    },
+    {
+      "name": "Criminal psychology",
+      "frequency": 1,
+      "context": "A field of study relevant to the investigation."
+    },
+    {
+      "name": "Graduate student",
+      "frequency": 3,
+      "context": "Fang Mu's academic status."
+    },
+    {
+      "name": "Fang Mu",
+      "frequency": 11,
+      "context": "The brilliant criminal psychology student who assists the police."
+    },
+    {
+      "name": "Perpetrator",
+      "frequency": 2,
+      "context": "The individual committing the crimes."
+    },
+    {
+      "name": "Characteristics",
+      "frequency": 3,
+      "context": "Descriptive traits of the criminal."
+    },
+    {
+      "name": "Arrest",
+      "frequency": 1,
+      "context": "The apprehension of a suspect."
+    },
+    {
+      "name": "Huang Yongxiao",
+      "frequency": 4,
+      "context": "The perpetrator of the C City crimes."
+    },
+    {
+      "name": "Crime scene",
+      "frequency": 5,
+      "context": "The location where a crime has taken place."
+    },
+    {
+      "name": "Post-mortem evisceration",
+      "frequency": 1,
+      "context": "The disemboweling of victims after death."
+    },
+    {
+      "name": "Post-mortem rape",
+      "frequency": 1,
+      "context": "Sexual assault occurring after death."
+    },
+    {
+      "name": "Rear-entry position",
+      "frequency": 1,
+      "context": "A specific sexual position described in relation to the crimes."
+    },
+    {
+      "name": "Rape the city",
+      "frequency": 1,
+      "context": "Fang Mu's interpretation of the killer's motive."
+    },
+    {
+      "name": "Construction sites",
+      "frequency": 2,
+      "context": "Locations familiar to the killer."
+    },
+    {
+      "name": "Video halls",
+      "frequency": 2,
+      "context": "Establishments frequented by the killer."
+    },
+    {
+      "name": "Watch",
+      "frequency": 2,
+      "context": "An item worn by the killer."
+    },
+    {
+      "name": "Fingernail",
+      "frequency": 1,
+      "context": "A piece of evidence found at a crime scene."
+    },
+    {
+      "name": "Private meeting",
+      "frequency": 1,
+      "context": "Fang Mu's request to interview Huang Yongxiao."
+    },
+    {
+      "name": "Childhood",
+      "frequency": 1,
+      "context": "The early life experiences of Huang Yongxiao."
+    },
+    {
+      "name": "Troubled childhood",
+      "frequency": 1,
+      "context": "The difficult upbringing of Huang Yongxiao."
+    },
+    {
+      "name": "Parental divorce",
+      "frequency": 1,
+      "context": "A family circumstance of Huang Yongxiao."
+    },
+    {
+      "name": "Infidelity",
+      "frequency": 1,
+      "context": "A behavior of Huang Yongxiao's father."
+    },
+    {
+      "name": "Female classmate",
+      "frequency": 1,
+      "context": "An individual involved in a disturbing incident with Huang Yongxiao."
+    },
+    {
+      "name": "Chapter 2",
+      "frequency": 1,
+      "context": "The second chapter of the novel."
+    },
+    {
+      "name": "Criminal law class",
+      "frequency": 1,
+      "context": "A course Fang Mu is attending."
+    },
+    {
+      "name": "Professor Song Yaoyang",
+      "frequency": 1,
+      "context": "The instructor of the criminal law class."
+    },
+    {
+      "name": "Meng Fanzhe",
+      "frequency": 7,
+      "context": "A law student with a fear of roll call."
+    },
+    {
+      "name": "Roll call",
+      "frequency": 4,
+      "context": "The act of taking attendance in class."
+    },
+    {
+      "name": "Nervousness",
+      "frequency": 2,
+      "context": "Meng Fanzhe's emotional state."
+    },
+    {
+      "name": "Fear",
+      "frequency": 4,
+      "context": "Meng Fanzhe's primary emotion regarding roll call."
+    },
+    {
+      "name": "Psychological barrier",
+      "frequency": 1,
+      "context": "Fang Mu's description of Meng Fanzhe's fear."
+    },
+    {
+      "name": "Chapter 3",
+      "frequency": 1,
+      "context": "The third chapter of the novel."
+    },
+    {
+      "name": "Mingzhu residential complex",
+      "frequency": 1,
+      "context": "The location of a recent murder."
+    },
+    {
+      "name": "Kitchen knife",
+      "frequency": 1,
+      "context": "A tool used in the murder."
+    },
+    {
+      "name": "Mickey Mouse button",
+      "frequency": 1,
+      "context": "A clue found at the crime scene."
+    },
+    {
+      "name": "Second victim",
+      "frequency": 2,
+      "context": "An additional person believed to have been harmed."
+    },
+    {
+      "name": "Child",
+      "frequency": 3,
+      "context": "A young person, possibly a victim."
+    },
+    {
+      "name": "Alert",
+      "frequency": 1,
+      "context": "A notification issued by the police."
+    },
+    {
+      "name": "Body",
+      "frequency": 3,
+      "context": "The remains of a deceased person."
+    },
+    {
+      "name": "Cement pipe",
+      "frequency": 1,
+      "context": "Where the second victim's body was found."
+    },
+    {
+      "name": "Deserted factory",
+      "frequency": 1,
+      "context": "The location where the second victim's body was discovered."
+    },
+    {
+      "name": "Tai Wei",
+      "frequency": 7,
+      "context": "The lead detective investigating the murders."
+    },
+    {
+      "name": "Nauseous",
+      "frequency": 1,
+      "context": "Fang Mu's physical reaction to the crime scene."
+    },
+    {
+      "name": "Clue",
+      "frequency": 2,
+      "context": "A piece of evidence that aids the investigation."
+    },
+    {
+      "name": "Bag",
+      "frequency": 2,
+      "context": "An item carried by a suspect."
+    },
+    {
+      "name": "Vacant look",
+      "frequency": 1,
+      "context": "A characteristic of a potential suspect."
+    },
+    {
+      "name": "Police",
+      "frequency": 5,
+      "context": "Law enforcement officers involved in the investigation."
+    },
+    {
+      "name": "Location",
+      "frequency": 3,
+      "context": "A place relevant to the crime or investigation."
+    },
+    {
+      "name": "Evidence",
+      "frequency": 2,
+      "context": "Information or objects that prove or disprove a fact."
+    },
+    {
+      "name": "Analysis",
+      "frequency": 1,
+      "context": "The process of examining something in detail."
+    },
+    {
+      "name": "Motive",
+      "frequency": 1,
+      "context": "The reason behind a person's actions."
+    },
+    {
+      "name": "Psychology",
+      "frequency": 1,
+      "context": "The study of the mind and behavior."
+    },
+    {
+      "name": "Life experience",
+      "frequency": 1,
+      "context": "Events that shape a person's development."
+    },
+    {
+      "name": "Suspect",
+      "frequency": 2,
+      "context": "A person thought to be guilty of a crime."
+    },
+    {
+      "name": "Interview",
+      "frequency": 1,
+      "context": "A meeting to obtain information."
+    },
+    {
+      "name": "Childhood",
+      "frequency": 1,
+      "context": "The early years of a person's life."
+    },
+    {
+      "name": "Family",
+      "frequency": 1,
+      "context": "A group of people related by blood or marriage."
+    },
+    {
+      "name": "Behavior",
+      "frequency": 1,
+      "context": "The way a person acts."
+    },
+    {
+      "name": "Class",
+      "frequency": 4,
+      "context": "A scheduled period of instruction."
+    },
+    {
+      "name": "Student",
+      "frequency": 4,
+      "context": "A person who is studying."
+    },
+    {
+      "name": "Law",
+      "frequency": 2,
+      "context": "A system of rules recognized by a country."
+    },
+    {
+      "name": "Instruction",
+      "frequency": 1,
+      "context": "Teaching or educating someone."
+    },
+    {
+      "name": "Attendance",
+      "frequency": 2,
+      "context": "The act of being present."
+    },
+    {
+      "name": "Emotion",
+      "frequency": 1,
+      "context": "A strong feeling."
+    },
+    {
+      "name": "Interruption",
+      "frequency": 1,
+      "context": "An act of causing a pause or delay."
+    },
+    {
+      "name": "Response",
+      "frequency": 1,
+      "context": "An answer or reaction."
+    },
+    {
+      "name": "Confession",
+      "frequency": 1,
+      "context": "A formal statement admitting guilt."
+    },
+    {
+      "name": "Impact",
+      "frequency": 1,
+      "context": "The effect of something."
+    },
+    {
+      "name": "University life",
+      "frequency": 1,
+      "context": "The experience of being a student at a university."
+    },
+    {
+      "name": "Mental illness",
+      "frequency": 1,
+      "context": "A condition that affects a person's thinking, feeling, mood, or behavior."
+    },
+    {
+      "name": "Reassurance",
+      "frequency": 1,
+      "context": "The act of removing someone's doubts or fears."
+    },
+    {
+      "name": "Location",
+      "frequency": 2,
+      "context": "A particular place."
+    },
+    {
+      "name": "Weapon",
+      "frequency": 1,
+      "context": "An object used to inflict injury or death."
+    },
+    {
+      "name": "Crime",
+      "frequency": 2,
+      "context": "An action or omission that constitutes an offense."
+    },
+    {
+      "name": "Investigation",
+      "frequency": 5,
+      "context": "The systematic inquiry into something."
+    },
+    {
+      "name": "Series",
+      "frequency": 1,
+      "context": "A number of similar or related events."
+    },
+    {
+      "name": "Circumstance",
+      "frequency": 1,
+      "context": "A fact or condition connected with an event."
+    },
+    {
+      "name": "Interpretation",
+      "frequency": 1,
+      "context": "The action of explaining the meaning of something."
+    },
+    {
+      "name": "Deduction",
+      "frequency": 1,
+      "context": "The process of reaching a conclusion."
+    },
+    {
+      "name": "Presence",
+      "frequency": 1,
+      "context": "The state or fact of existing."
+    },
+    {
+      "name": "Appearance",
+      "frequency": 1,
+      "context": "The way someone or something looks."
+    },
+    {
+      "name": "Description",
+      "frequency": 1,
+      "context": "A spoken or written representation or account."
+    },
+    {
+      "name": "Familiarity",
+      "frequency": 1,
+      "context": "Knowledge of someone or something."
+    },
+    {
+      "name": "Patronage",
+      "frequency": 1,
+      "context": "The support given to someone or something."
+    },
+    {
+      "name": "Item",
+      "frequency": 1,
+      "context": "A thing."
+    },
+    {
+      "name": "Piece of evidence",
+      "frequency": 1,
+      "context": "An item of information that proves or disproves a fact."
+    },
+    {
+      "name": "Obtain",
+      "frequency": 1,
+      "context": "Get or receive something."
+    },
+    {
+      "name": "Action",
+      "frequency": 1,
+      "context": "The process of doing something."
+    },
+    {
+      "name": "Omission",
+      "frequency": 1,
+      "context": "The act of leaving something out."
+    },
+    {
+      "name": "Offense",
+      "frequency": 1,
+      "context": "An illegal act."
+    },
+    {
+      "name": "Inquiry",
+      "frequency": 1,
+      "context": "An act of asking for information."
+    },
+    {
+      "name": "Systematic",
+      "frequency": 1,
+      "context": "Done or acting according to a fixed plan."
+    },
+    {
+      "name": "Related",
+      "frequency": 1,
+      "context": "Connected by some relation."
+    },
+    {
+      "name": "Event",
+      "frequency": 1,
+      "context": "A thing that happens."
+    },
+    {
+      "name": "Blood",
+      "frequency": 2,
+      "context": "The red fluid that circulates in the arteries and veins."
+    },
+    {
+      "name": "Tissue",
+      "frequency": 1,
+      "context": "A group of cells forming a distinct structural unit."
+    },
+    {
+      "name": "Fingernail",
+      "frequency": 1,
+      "context": "The horny covering on the upper surface of the tip of the finger."
+    },
+    {
+      "name": "Skin",
+      "frequency": 2,
+      "context": "The outer covering of the body."
+    },
+    {
+      "name": "Organ",
+      "frequency": 1,
+      "context": "A part of the body that performs a specific function."
+    },
+    {
+      "name": "Ribs",
+      "frequency": 1,
+      "context": "Curved bone forming the chest."
+    },
+    {
+      "name": "Throat",
+      "frequency": 1,
+      "context": "The part of the neck behind the mouth and nasal cavity."
+    },
+    {
+      "name": "Neck",
+      "frequency": 1,
+      "context": "The part of the body connecting the head to the torso."
+    },
+    {
+      "name": "Chest",
+      "frequency": 1,
+      "context": "The upper front part of the body."
+    },
+    {
+      "name": "Head",
+      "frequency": 1,
+      "context": "The upper part of the body."
+    },
+    {
+      "name": "Torso",
+      "frequency": 1,
+      "context": "The body, excluding the head and limbs."
+    },
+    {
+      "name": "Limb",
+      "frequency": 1,
+      "context": "A leg or arm."
+    },
+    {
+      "name": "Leg",
+      "frequency": 1,
+      "context": "A limb used for walking."
+    },
+    {
+      "name": "Arm",
+      "frequency": 1,
+      "context": "A limb used for reaching."
+    },
+    {
+      "name": "Hand",
+      "frequency": 2,
+      "context": "The part of the body at the end of the arm."
+    },
+    {
+      "name": "Finger",
+      "frequency": 1,
+      "context": "One of the digits of the hand."
+    },
+    {
+      "name": "Digit",
+      "frequency": 1,
+      "context": "A finger or toe."
+    },
+    {
+      "name": "Toe",
+      "frequency": 1,
+      "context": "One of the digits of the foot."
+    },
+    {
+      "name": "Foot",
+      "frequency": 1,
+      "context": "The lower extremity of the leg."
+    },
+    {
+      "name": "Ear",
+      "frequency": 1,
+      "context": "The organ of hearing."
+    },
+    {
+      "name": "Hearing",
+      "frequency": 1,
+      "context": "The faculty of perceiving sound."
+    },
+    {
+      "name": "Sound",
+      "frequency": 1,
+      "context": "Vibrations that stimulate the organs of hearing."
+    },
+    {
+      "name": "Organ of hearing",
+      "frequency": 1,
+      "context": "The ear."
+    },
+    {
+      "name": "Nose",
+      "frequency": 1,
+      "context": "The part of the face that protrudes and is used for breathing and smelling."
+    },
+    {
+      "name": "Breathing",
+      "frequency": 1,
+      "context": "The process of inhaling and exhaling."
+    },
+    {
+      "name": "Exhaling",
+      "frequency": 1,
+      "context": "The process of breathing out."
+    },
+    {
+      "name": "Inhaling",
+      "frequency": 1,
+      "context": "The process of breathing in."
+    },
+    {
+      "name": "Mouth",
+      "frequency": 2,
+      "context": "The opening in the lower part of the face."
+    },
+    {
+      "name": "Face",
+      "frequency": 1,
+      "context": "The front part of a person's head."
+    },
+    {
+      "name": "Eye",
+      "frequency": 2,
+      "context": "The organ of sight."
+    },
+    {
+      "name": "Sight",
+      "frequency": 1,
+      "context": "The ability to see."
+    },
+    {
+      "name": "See",
+      "frequency": 1,
+      "context": "Perceive with the eyes."
+    },
+    {
+      "name": "Perceive",
+      "frequency": 1,
+      "context": "Become aware of through the senses."
+    },
+    {
+      "name": "Sense",
+      "frequency": 1,
+      "context": "A faculty by which the body perceives an external stimulus."
+    },
+    {
+      "name": "Stimulus",
+      "frequency": 1,
+      "context": "A thing that rouses activity or energy."
+    },
+    {
+      "name": "Activity",
+      "frequency": 1,
+      "context": "The condition in which things are happening."
+    },
+    {
+      "name": "Energy",
+      "frequency": 1,
+      "context": "The strength and vitality required for sustained physical or mental activity."
+    },
+    {
+      "name": "Physical",
+      "frequency": 1,
+      "context": "Relating to the body."
+    },
+    {
+      "name": "Mental",
+      "frequency": 1,
+      "context": "Relating to the mind."
+    },
+    {
+      "name": "Mind",
+      "frequency": 1,
+      "context": "The element of a person that enables them to be aware of the world."
+    },
+    {
+      "name": "World",
+      "frequency": 1,
+      "context": "The earth and all life upon it."
+    },
+    {
+      "name": "Earth",
+      "frequency": 1,
+      "context": "The planet on which we live."
+    },
+    {
+      "name": "Planet",
+      "frequency": 1,
+      "context": "A celestial body moving in an elliptical orbit."
+    },
+    {
+      "name": "Celestial body",
+      "frequency": 1,
+      "context": "Any natural object in space."
+    },
+    {
+      "name": "Space",
+      "frequency": 1,
+      "context": "The dimensions of height, depth, and width."
+    },
+    {
+      "name": "Dimension",
+      "frequency": 1,
+      "context": "A measurable extent of some kind."
+    },
+    {
+      "name": "Extent",
+      "frequency": 1,
+      "context": "The degree to which something extends."
+    },
+    {
+      "name": "Degree",
+      "frequency": 1,
+      "context": "The extent to which something happens or is true."
+    },
+    {
+      "name": "Truth",
+      "frequency": 1,
+      "context": "The quality of being true."
+    },
+    {
+      "name": "True",
+      "frequency": 1,
+      "context": "In accordance with fact or reality."
+    },
+    {
+      "name": "Fact",
+      "frequency": 1,
+      "context": "A thing that is known or proved to be true."
+    },
+    {
+      "name": "Reality",
+      "frequency": 1,
+      "context": "The state of things as they actually exist."
+    },
+    {
+      "name": "Exist",
+      "frequency": 1,
+      "context": "Be real."
+    },
+    {
+      "name": "Real",
+      "frequency": 1,
+      "context": "Actual."
+    },
+    {
+      "name": "Actual",
+      "frequency": 1,
+      "context": "Existing in fact."
+    },
+    {
+      "name": "Matter",
+      "frequency": 1,
+      "context": "Physical substance in particular."
+    },
+    {
+      "name": "Substance",
+      "frequency": 1,
+      "context": "The real physical matter of something."
+    },
+    {
+      "name": "Physical matter",
+      "frequency": 1,
+      "context": "The tangible substance of the universe."
+    },
+    {
+      "name": "Universe",
+      "frequency": 1,
+      "context": "All existing things considered as a whole."
+    },
+    {
+      "name": "Whole",
+      "frequency": 1,
+      "context": "All of something; everything."
+    },
+    {
+      "name": "Everything",
+      "frequency": 1,
+      "context": "All existing things."
+    },
+    {
+      "name": "Thing",
+      "frequency": 1,
+      "context": "An item."
+    },
+    {
+      "name": "Item",
+      "frequency": 1,
+      "context": "A single article or unit."
+    },
+    {
+      "name": "Unit",
+      "frequency": 1,
+      "context": "An indivisible whole."
+    },
+    {
+      "name": "Whole",
+      "frequency": 1,
+      "context": "Completely undivided."
+    },
+    {
+      "name": "Undivided",
+      "frequency": 1,
+      "context": "Not divided."
+    },
+    {
+      "name": "Divided",
+      "frequency": 1,
+      "context": "Separated into parts."
+    },
+    {
+      "name": "Separated",
+      "frequency": 1,
+      "context": "Forming or existing in two or more parts."
+    },
+    {
+      "name": "Part",
+      "frequency": 1,
+      "context": "A portion or share."
+    },
+    {
+      "name": "Portion",
+      "frequency": 1,
+      "context": "A part of a larger amount."
+    },
+    {
+      "name": "Amount",
+      "frequency": 1,
+      "context": "A quantity of something."
+    },
+    {
+      "name": "Quantity",
+      "frequency": 1,
+      "context": "An amount or number."
+    },
+    {
+      "name": "Number",
+      "frequency": 1,
+      "context": "A mathematical object."
+    },
+    {
+      "name": "Mathematical object",
+      "frequency": 1,
+      "context": "An abstract entity used in mathematics."
+    },
+    {
+      "name": "Abstract entity",
+      "frequency": 1,
+      "context": "A concept or idea."
+    },
+    {
+      "name": "Concept",
+      "frequency": 1,
+      "context": "An idea."
+    },
+    {
+      "name": "Idea",
+      "frequency": 1,
+      "context": "A thought or suggestion."
+    },
+    {
+      "name": "Thought",
+      "frequency": 1,
+      "context": "An idea or opinion."
+    },
+    {
+      "name": "Opinion",
+      "frequency": 1,
+      "context": "A view or judgment."
+    },
+    {
+      "name": "View",
+      "frequency": 1,
+      "context": "A particular attitude or way of considering a matter."
+    },
+    {
+      "name": "Attitude",
+      "frequency": 1,
+      "context": "A settled way of thinking or feeling about someone or something."
+    },
+    {
+      "name": "Feeling",
+      "frequency": 1,
+      "context": "An emotional state or reaction."
+    },
+    {
+      "name": "Reaction",
+      "frequency": 1,
+      "context": "An action performed or feeling experienced."
+    },
+    {
+      "name": "Performed",
+      "frequency": 1,
+      "context": "Carried out."
+    },
+    {
+      "name": "Carried out",
+      "frequency": 1,
+      "context": "Executed."
+    },
+    {
+      "name": "Execute",
+      "frequency": 1,
+      "context": "Carry out or put into effect."
+    },
+    {
+      "name": "Effect",
+      "frequency": 1,
+      "context": "A result or consequence."
+    },
+    {
+      "name": "Consequence",
+      "frequency": 1,
+      "context": "A result or effect of an action or condition."
+    },
+    {
+      "name": "Condition",
+      "frequency": 1,
+      "context": "The state of something."
+    },
+    {
+      "name": "State",
+      "frequency": 1,
+      "context": "The particular condition that someone or something is in."
+    },
+    {
+      "name": "Someone",
+      "frequency": 1,
+      "context": "An unidentified person."
+    },
+    {
+      "name": "Person",
+      "frequency": 1,
+      "context": "A human being."
+    },
+    {
+      "name": "Human being",
+      "frequency": 1,
+      "context": "A person."
+    },
+    {
+      "name": "Being",
+      "frequency": 1,
+      "context": "Existence."
+    },
+    {
+      "name": "Existence",
+      "frequency": 1,
+      "context": "The fact or state of living."
+    },
+    {
+      "name": "Living",
+      "frequency": 1,
+      "context": "Being alive."
+    },
+    {
+      "name": "Alive",
+      "frequency": 1,
+      "context": "Having life."
+    },
+    {
+      "name": "Life",
+      "frequency": 1,
+      "context": "The condition that distinguishes animals and plants from inorganic matter."
+    },
+    {
+      "name": "Matter",
+      "frequency": 1,
+      "context": "Physical substance."
+    },
+    {
+      "name": "Physical",
+      "frequency": 1,
+      "context": "Relating to the body."
+    },
+    {
+      "name": "Body",
+      "frequency": 1,
+      "context": "The physical structure of a person."
+    },
+    {
+      "name": "Structure",
+      "frequency": 1,
+      "context": "The arrangement of and relations between the parts or elements."
+    },
+    {
+      "name": "Arrangement",
+      "frequency": 1,
+      "context": "The way in which things are placed."
+    },
+    {
+      "name": "Way",
+      "frequency": 1,
+      "context": "A manner of doing something."
+    },
+    {
+      "name": "Manner",
+      "frequency": 1,
+      "context": "A way in which a thing is done or happens."
+    },
+    {
+      "name": "Thing",
+      "frequency": 1,
+      "context": "An event or object."
+    },
+    {
+      "name": "Event",
+      "frequency": 1,
+      "context": "A thing that happens."
+    },
+    {
+      "name": "Happens",
+      "frequency": 1,
+      "context": "Occurs."
+    },
+    {
+      "name": "Occur",
+      "frequency": 1,
+      "context": "Take place."
+    },
+    {
+      "name": "Take place",
+      "frequency": 1,
+      "context": "Happen."
+    },
+    {
+      "name": "Happen",
+      "frequency": 1,
+      "context": "Occur."
+    },
+    {
+      "name": "Narrator's nightmare",
+      "frequency": 1,
+      "context": "The recurring dream of the main character."
+    },
+    {
+      "name": "Gruesome images",
+      "frequency": 1,
+      "context": "Disturbing photographs of a crime scene."
+    },
+    {
+      "name": "J City murders",
+      "frequency": 1,
+      "context": "The series of homicides under investigation in J City."
+    },
+    {
+      "name": "C City case",
+      "frequency": 1,
+      "context": "The previous case solved by Fang Mu in C City."
+    },
+    {
+      "name": "Fang Mu's deduction",
+      "frequency": 1,
+      "context": "The process by which Fang Mu reaches conclusions about criminals."
+    },
+    {
+      "name": "Meng Fanzhe's fear",
+      "frequency": 1,
+      "context": "The phobia experienced by the law student Meng Fanzhe."
+    },
+    {
+      "name": "Second victim",
+      "frequency": 1,
+      "context": "The existence of another victim in the Mingzhu complex murder."
+    },
+    {
+      "name": "Clues",
+      "frequency": 1,
+      "context": " Pieces of evidence that help solve a crime."
+    },
+    {
+      "name": "Suspect description",
+      "frequency": 1,
+      "context": "The physical and behavioral traits of a potential perpetrator."
+    },
+    {
+      "name": "Discovery of body",
+      "frequency": 1,
+      "context": "The finding of a deceased person."
+    },
+    {
+      "name": "Crime scene investigation",
+      "frequency": 1,
+      "context": "The process of examining a crime scene."
+    },
+    {
+      "name": "Psychological analysis",
+      "frequency": 1,
+      "context": "The study of mental processes and behavior."
+    },
+    {
+      "name": "Author's apology",
+      "frequency": 1,
+      "context": "The author's statement of regret."
+    },
+    {
+      "name": "Future publication plans",
+      "frequency": 1,
+      "context": "The author's intentions for releasing the novel."
+    },
+    {
+      "name": "Narrator's past trauma",
+      "frequency": 1,
+      "context": "The traumatic event in the narrator's history."
+    },
+    {
+      "name": "Detective's investigation",
+      "frequency": 1,
+      "context": "The process of solving crimes by a detective."
+    },
+    {
+      "name": "Criminal profiling",
+      "frequency": 1,
+      "context": "The identification of characteristics of criminals."
+    },
+    {
+      "name": "Student's phobia",
+      "frequency": 1,
+      "context": "A psychological condition affecting a student."
+    },
+    {
+      "name": "Secondary victim identification",
+      "frequency": 1,
+      "context": "The recognition of another victim in a crime."
+    },
+    {
+      "name": "Forensic analysis",
+      "frequency": 1,
+      "context": "The application of scientific methods to crime investigations."
+    }
+  ],
+  "relations": [
+    {
+      "source": "Author",
+      "target": "Image",
+      "type": "writes"
+    },
+    {
+      "source": "Author",
+      "target": "Update",
+      "type": "plans"
+    },
+    {
+      "source": "Author",
+      "target": "Physical book",
+      "type": "intends_to_publish"
+    },
+    {
+      "source": "Author",
+      "target": "The Seventh Reader",
+      "type": "writes"
+    },
+    {
+      "source": "Author",
+      "target": "Gift",
+      "type": "promises"
+    },
+    {
+      "source": "Prologue",
+      "target": "Nightmare",
+      "type": "describes"
+    },
+    {
+      "source": "Narrator",
+      "target": "Solitary",
+      "type": "is_a"
+    },
+    {
+      "source": "Narrator",
+      "target": "J University",
+      "type": "studies_at"
+    },
+    {
+      "source": "Narrator",
+      "target": "Du Yu",
+      "type": "roommate_of"
+    },
+    {
+      "source": "Narrator",
+      "target": "Zhang Yao",
+      "type": "labeled_as_monster_by"
+    },
+    {
+      "source": "Narrator",
+      "target": "Disaster",
+      "type": "survivor_of"
+    },
+    {
+      "source": "Chapter 1",
+      "target": "Detective",
+      "type": "introduces"
+    },
+    {
+      "source": "Detective",
+      "target": "Tai Wei",
+      "type": "is_a"
+    },
+    {
+      "source": "Detective",
+      "target": "J City",
+      "type": "investigates_in"
+    },
+    {
+      "source": "Murder",
+      "target": "Victim",
+      "type": "affects"
+    },
+    {
+      "source": "Victim",
+      "target": "Mechanical asphyxiation",
+      "type": "cause_of_death"
+    },
+    {
+      "source": "Victim",
+      "target": "Evisceration",
+      "type": "undergoes"
+    },
+    {
+      "source": "Murder",
+      "target": "Kitchen knife",
+      "type": "weapon_used"
+    },
+    {
+      "source": "Murder",
+      "target": "Rape",
+      "type": "associated_with"
+    },
+    {
+      "source": "Detective",
+      "target": "C City",
+      "type": "visited"
+    },
+    {
+      "source": "Detective",
+      "target": "Criminal psychology",
+      "type": "consults"
+    },
+    {
+      "source": "Graduate student",
+      "target": "Fang Mu",
+      "type": "is_a"
+    },
+    {
+      "source": "Fang Mu",
+      "target": "Perpetrator",
+      "type": "identifies"
+    },
+    {
+      "source": "Fang Mu",
+      "target": "J City",
+      "type": "assists_investigation_in"
+    },
+    {
+      "source": "Fang Mu",
+      "target": "Crime scene",
+      "type": "analyzes"
+    },
+    {
+      "source": "Fang Mu",
+      "target": "Rape the city",
+      "type": "interprets_motive_as"
+    },
+    {
+      "source": "Fang Mu",
+      "target": "Construction sites",
+      "type": "familiar_to"
+    },
+    {
+      "source": "Fang Mu",
+      "target": "Video halls",
+      "type": "frequented_by"
+    },
+    {
+      "source": "Fang Mu",
+      "target": "Watch",
+      "type": "deduces_presence_of"
+    },
+    {
+      "source": "Fang Mu",
+      "target": "Fingernail",
+      "type": "uses_evidence_of"
+    },
+    {
+      "source": "Fang Mu",
+      "target": "Private meeting",
+      "type": "requests"
+    },
+    {
+      "source": "Fang Mu",
+      "target": "Huang Yongxiao",
+      "type": "interviews"
+    },
+    {
+      "source": "Huang Yongxiao",
+      "target": "Childhood",
+      "type": "has"
+    },
+    {
+      "source": "Huang Yongxiao",
+      "target": "Troubled childhood",
+      "type": "experienced"
+    },
+    {
+      "source": "Huang Yongxiao",
+      "target": "Parental divorce",
+      "type": "experienced"
+    },
+    {
+      "source": "Huang Yongxiao",
+      "target": "Infidelity",
+      "type": "witnessed"
+    },
+    {
+      "source": "Huang Yongxiao",
+      "target": "Female classmate",
+      "type": "involved_with"
+    },
+    {
+      "source": "Chapter 2",
+      "target": "Class",
+      "type": "begins_with"
+    },
+    {
+      "source": "Class",
+      "target": "Criminal law",
+      "type": "subject_of"
+    },
+    {
+      "source": "Class",
+      "target": "Professor Song Yaoyang",
+      "type": "taught_by"
+    },
+    {
+      "source": "Meng Fanzhe",
+      "target": "Fear",
+      "type": "experiences"
+    },
+    {
+      "source": "Meng Fanzhe",
+      "target": "Roll call",
+      "type": "fears"
+    },
+    {
+      "source": "Fang Mu",
+      "target": "Meng Fanzhe",
+      "type": "helps"
+    },
+    {
+      "source": "Fang Mu",
+      "target": "Interruption",
+      "type": "uses_to_help"
+    },
+    {
+      "source": "Fang Mu",
+      "target": "Response",
+      "type": "enables"
+    },
+    {
+      "source": "Meng Fanzhe",
+      "target": "Confession",
+      "type": "makes_to"
+    },
+    {
+      "source": "Fang Mu",
+      "target": "Psychological barrier",
+      "type": "describes_as"
+    },
+    {
+      "source": "Chapter 3",
+      "target": "Murder",
+      "type": "describes"
+    },
+    {
+      "source": "Murder",
+      "target": "Mingzhu residential complex",
+      "type": "occurs_at"
+    },
+    {
+      "source": "Victim",
+      "target": "Mechanical asphyxiation",
+      "type": "cause_of_death"
+    },
+    {
+      "source": "Victim",
+      "target": "Evisceration",
+      "type": "undergoes"
+    },
+    {
+      "source": "Murder",
+      "target": "Kitchen knife",
+      "type": "weapon_used"
+    },
+    {
+      "source": "Fang Mu",
+      "target": "Nauseous",
+      "type": "feels"
+    },
+    {
+      "source": "Fang Mu",
+      "target": "Second victim",
+      "type": "deduces_existence_of"
+    },
+    {
+      "source": "Second victim",
+      "target": "Child",
+      "type": "possibly_is"
+    },
+    {
+      "source": "Fang Mu",
+      "target": "Clue",
+      "type": "uses"
+    },
+    {
+      "source": "Fang Mu",
+      "target": "Mickey Mouse button",
+      "type": "finds"
+    },
+    {
+      "source": "Fang Mu",
+      "target": "Bag",
+      "type": "associates_with"
+    },
+    {
+      "source": "Fang Mu",
+      "target": "Suspect description",
+      "type": "provides"
+    },
+    {
+      "source": "Tai Wei",
+      "target": "Alert",
+      "type": "issues"
+    },
+    {
+      "source": "Police",
+      "target": "Discovery of body",
+      "type": "makes"
+    },
+    {
+      "source": "Body",
+      "target": "Cement pipe",
+      "type": "found_in"
+    },
+    {
+      "source": "Body",
+      "target": "Deserted factory",
+      "type": "found_in"
+    },
+    {
+      "source": "Detective",
+      "target": "Investigation",
+      "type": "conducts"
+    },
+    {
+      "source": "Crime scene investigation",
+      "target": "Analysis",
+      "type": "involves"
+    },
+    {
+      "source": "Psychological analysis",
+      "target": "Behavior",
+      "type": "studies"
+    },
+    {
+      "source": "Author's apology",
+      "target": "Future publication plans",
+      "type": "related_to"
+    },
+    {
+      "source": "Narrator's past trauma",
+      "target": "Narrator",
+      "type": "affects"
+    },
+    {
+      "source": "Detective's investigation",
+      "target": "Criminal profiling",
+      "type": "utilizes"
+    },
+    {
+      "source": "Student's phobia",
+      "target": "Meng Fanzhe",
+      "type": "affects"
+    },
+    {
+      "source": "Secondary victim identification",
+      "target": "Fang Mu",
+      "type": "achieves"
+    },
+    {
+      "source": "Forensic analysis",
+      "target": "Crime scene investigation",
+      "type": "supports"
+    },
+    {
+      "source": "Image",
+      "target": "Author",
+      "type": "written_by"
+    },
+    {
+      "source": "Image",
+      "target": "Update",
+      "type": "is_subject_of"
+    },
+    {
+      "source": "The Seventh Reader",
+      "target": "Author",
+      "type": "written_by"
+    },
+    {
+      "source": "Gift",
+      "target": "Readers",
+      "type": "intended_for"
+    },
+    {
+      "source": "Prologue",
+      "target": "Narrator",
+      "type": "features"
+    },
+    {
+      "source": "Nightmare",
+      "target": "Narrator",
+      "type": "experienced_by"
+    },
+    {
+      "source": "Narrator",
+      "target": "Solitary",
+      "type": "is_described_as"
+    },
+    {
+      "source": "Narrator",
+      "target": "J University",
+      "type": "is_a_student_at"
+    },
+    {
+      "source": "Du Yu",
+      "target": "Narrator",
+      "type": "is_roommate_of"
+    },
+    {
+      "source": "Zhang Yao",
+      "target": "Narrator",
+      "type": "calls_monster"
+    },
+    {
+      "source": "Narrator",
+      "target": "Disaster",
+      "type": "survived"
+    },
+    {
+      "source": "Chapter 1",
+      "target": "Detective Tai Wei",
+      "type": "introduces"
+    },
+    {
+      "source": "Detective Tai Wei",
+      "target": "J City",
+      "type": "investigates_in"
+    },
+    {
+      "source": "Murder",
+      "target": "Victim",
+      "type": "happens_to"
+    },
+    {
+      "source": "Victim",
+      "target": "Mechanical asphyxiation",
+      "type": "died_from"
+    },
+    {
+      "source": "Victim",
+      "target": "Evisceration",
+      "type": "suffered"
+    },
+    {
+      "source": "Murder",
+      "target": "Kitchen knife",
+      "type": "used_in"
+    },
+    {
+      "source": "Murder",
+      "target": "Rape",
+      "type": "involved_in"
+    },
+    {
+      "source": "Detective",
+      "target": "C City",
+      "type": "prior_case_in"
+    },
+    {
+      "source": "Fang Mu",
+      "target": "Criminal psychology",
+      "type": "specializes_in"
+    },
+    {
+      "source": "Fang Mu",
+      "target": "Perpetrator",
+      "type": "profiles"
+    },
+    {
+      "source": "Fang Mu",
+      "target": "J City",
+      "type": "assists_police_in"
+    },
+    {
+      "source": "Fang Mu",
+      "target": "Crime scene",
+      "type": "analyzes_meticulously"
+    },
+    {
+      "source": "Fang Mu",
+      "target": "Motive",
+      "type": "interprets"
+    },
+    {
+      "source": "Fang Mu",
+      "target": "Construction sites",
+      "type": "recognizes_familiarity_with"
+    },
+    {
+      "source": "Fang Mu",
+      "target": "Video halls",
+      "type": "identifies_as_haunt"
+    },
+    {
+      "source": "Fang Mu",
+      "target": "Watch",
+      "type": "deduces_wearing_of"
+    },
+    {
+      "source": "Fang Mu",
+      "target": "Fingernail",
+      "type": "uses_evidence_from"
+    },
+    {
+      "source": "Fang Mu",
+      "target": "Interview",
+      "type": "conducts"
+    },
+    {
+      "source": "Fang Mu",
+      "target": "Huang Yongxiao",
+      "type": "analyzes_past_of"
+    },
+    {
+      "source": "Huang Yongxiao",
+      "target": "Childhood",
+      "type": "had"
+    },
+    {
+      "source": "Huang Yongxiao",
+      "target": "Divorce",
+      "type": "witnessed_parental"
+    },
+    {
+      "source": "Huang Yongxiao",
+      "target": "Infidelity",
+      "type": "witnessed_father's"
+    },
+    {
+      "source": "Huang Yongxiao",
+      "target": "Disturbing incident",
+      "type": "involved_in"
+    },
+    {
+      "source": "Chapter 2",
+      "target": "Class",
+      "type": "features"
+    },
+    {
+      "source": "Class",
+      "target": "Criminal law",
+      "type": "is_about"
+    },
+    {
+      "source": "Class",
+      "target": "Professor Song Yaoyang",
+      "type": "lectures_in"
+    },
+    {
+      "source": "Meng Fanzhe",
+      "target": "Fear of roll call",
+      "type": "suffers_from"
+    },
+    {
+      "source": "Fang Mu",
+      "target": "Meng Fanzhe",
+      "type": "observes"
+    },
+    {
+      "source": "Fang Mu",
+      "target": "Interruption",
+      "type": "uses_strategically"
+    },
+    {
+      "source": "Meng Fanzhe",
+      "target": "Confession",
+      "type": "makes_to Fang Mu"
+    },
+    {
+      "source": "Fang Mu",
+      "target": "Psychological barrier",
+      "type": "identifies"
+    },
+    {
+      "source": "Chapter 3",
+      "target": "New murder",
+      "type": "details"
+    },
+    {
+      "source": "Murder",
+      "target": "Mingzhu residential complex",
+      "type": "location_of"
+    },
+    {
+      "source": "Fang Mu",
+      "target": "Second victim",
+      "type": "suspects_existence_of"
+    },
+    {
+      "source": "Fang Mu",
+      "target": "Clue",
+      "type": "discovers"
+    },
+    {
+      "source": "Fang Mu",
+      "target": "Bag",
+      "type": "links_to_suspect"
+    },
+    {
+      "source": "Fang Mu",
+      "target": "Description",
+      "type": "provides_of_suspect"
+    },
+    {
+      "source": "Tai Wei",
+      "target": "Alert",
+      "type": "issues_based_on"
+    },
+    {
+      "source": "Police",
+      "target": "Body",
+      "type": "finds"
+    },
+    {
+      "source": "Body",
+      "target": "Cement pipe",
+      "type": "hidden_in"
+    },
+    {
+      "source": "Detective",
+      "target": "Investigation",
+      "type": "leads"
+    },
+    {
+      "source": "Crime scene investigation",
+      "target": "Evidence",
+      "type": "collects"
+    },
+    {
+      "source": "Psychological analysis",
+      "target": "Behavior",
+      "type": "explains"
+    },
+    {
+      "source": "Author's apology",
+      "target": "Reason",
+      "type": "is_publication_interest"
+    },
+    {
+      "source": "Narrator's past trauma",
+      "target": "Narrator",
+      "type": "explains_behavior"
+    },
+    {
+      "source": "Detective's investigation",
+      "target": "Criminal profiling",
+      "type": "aids"
+    },
+    {
+      "source": "Student's phobia",
+      "target": "Meng Fanzhe",
+      "type": "affects_academics"
+    },
+    {
+      "source": "Secondary victim identification",
+      "target": "Fang Mu",
+      "type": "achieves_through_deduction"
+    },
+    {
+      "source": "Forensic analysis",
+      "target": "Crime scene investigation",
+      "type": "supports"
+    }
+  ],
+  "hierarchy": {
+    "main_topics": [
+      "Author's Announcement",
+      "Prologue: The Narrator's Inner World",
+      "Chapter 1: The J City Murders and Fang Mu's Introduction",
+      "Chapter 2: Meng Fanzhe's Fear and Fang Mu's Observation",
+      "Chapter 3: The Mingzhu Complex Murder and the Discovery of a Second Victim"
+    ],
+    "structure": "The document is structured into an author's note, a prologue, and three chapters. Each chapter introduces a new development in the ongoing criminal investigation, often with Fang Mu playing a pivotal role in unraveling the complexities of the cases. The narrative alternates between the immediate investigation and flashbacks or character backstories."
+  }
+}

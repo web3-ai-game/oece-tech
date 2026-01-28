@@ -1,0 +1,19 @@
+rules_version = '2';
+
+service cloud.firestore {
+  match /databases/{database}/documents {
+    // Users can only read and write their own profile
+    match /users/{userId} {
+      // 允許用戶讀寫自己的數據
+      // 允許 Admin 角色讀寫所有用戶數據 (預留)
+      allow read, write: if request.auth.uid == userId;
+    }
+
+    // 暫時開放所有認證用戶讀寫帖子，為了快速開發論壇
+    match /posts/{postId} {
+      allow read: if true; // 所有人可讀
+      allow create: if request.auth.uid != null; // 登錄才能發
+      allow update, delete: if request.auth.uid == resource.data.authorId; // 只有作者能刪改
+    }
+  }
+}

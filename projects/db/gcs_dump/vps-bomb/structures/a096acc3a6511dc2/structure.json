@@ -1,0 +1,110 @@
+{
+  "propositions": [
+    {
+      "id": "1",
+      "text": "女主现代重生--不做豪门梦的灰姑娘",
+      "level": 1
+    },
+    {
+      "id": "1.1",
+      "text": "2010-4-21 11:21:27",
+      "level": 2
+    },
+    {
+      "id": "1.2",
+      "text": "2010-4-4 20:29:25",
+      "level": 2
+    },
+    {
+      "id": "2",
+      "text": "北京，我从来没来过北京，我想去北京。",
+      "level": 1
+    },
+    {
+      "id": "3",
+      "text": "我从来没去过北京，我想到北京去。",
+      "level": 1
+    },
+    {
+      "id": "4",
+      "text": "真的吗？我想到北京去。",
+      "level": 1
+    },
+    {
+      "id": "5",
+      "text": "真的吗？我想去北京。",
+      "level": 1
+    }
+  ],
+  "concepts": [
+    {
+      "name": "女主",
+      "frequency": 1,
+      "context": "Title: 女主现代重生"
+    },
+    {
+      "name": "现代重生",
+      "frequency": 1,
+      "context": "Title: 女主现代重生"
+    },
+    {
+      "name": "灰姑娘",
+      "frequency": 1,
+      "context": "Title: 不做豪门梦的灰姑娘"
+    },
+    {
+      "name": "豪门梦",
+      "frequency": 1,
+      "context": "Title: 不做豪门梦的灰姑娘"
+    },
+    {
+      "name": "北京",
+      "frequency": 250,
+      "context": "Dialogues: '我想去北京', '从来没来过北京'"
+    },
+    {
+      "name": "去",
+      "frequency": 250,
+      "context": "Dialogues: '我想去北京'"
+    },
+    {
+      "name": "真的吗",
+      "frequency": 248,
+      "context": "Dialogues: '真的吗？我想去北京。'"
+    }
+  ],
+  "relations": [
+    {
+      "source": "女主",
+      "target": "现代重生",
+      "type": "is_a"
+    },
+    {
+      "source": "女主",
+      "target": "灰姑娘",
+      "type": "is_a"
+    },
+    {
+      "source": "灰姑娘",
+      "target": "豪门梦",
+      "type": "does_not_have"
+    },
+    {
+      "source": "北京",
+      "target": "去",
+      "type": "implies"
+    },
+    {
+      "source": "真的吗",
+      "target": "我想去北京",
+      "type": "expresses_incredulity_or_confirmation_of"
+    }
+  ],
+  "hierarchy": {
+    "main_topics": [
+      "Title and Metadata",
+      "Dialogue"
+    ],
+    "structure": "The document starts with a title and timestamps, followed by a repeated dialogue expressing a desire to go to Beijing."
+  }
+}

@@ -1,0 +1,371 @@
+{
+  "propositions": [
+    {
+      "id": "1",
+      "text": "《萍小姐的主意》导读",
+      "level": 1
+    },
+    {
+      "id": "1.1",
+      "text": "露西的故事",
+      "level": 2
+    },
+    {
+      "id": "1.1.1",
+      "text": "露西，披头士的歌与考古发现的“女性”骸骨",
+      "level": 3
+    },
+    {
+      "id": "1.1.2",
+      "text": "阿加莎·克里斯蒂与约瑟芬·铁伊对人物描写的不同态度",
+      "level": 3
+    },
+    {
+      "id": "1.2",
+      "text": "扁人与圆人",
+      "level": 2
+    },
+    {
+      "id": "1.2.1",
+      "text": "E. M. Forster关于小说人物角色的分类概念",
+      "level": 3
+    },
+    {
+      "id": "1.2.2",
+      "text": "扁形人物的定义、特点与优点",
+      "level": 3
+    },
+    {
+      "id": "1.2.3",
+      "text": "圆形人物的定义、特点与识别难度",
+      "level": 3
+    },
+    {
+      "id": "1.3",
+      "text": "共相与个相",
+      "level": 2
+    },
+    {
+      "id": "1.3.1",
+      "text": "扁形人物与共相，圆形人物与个相",
+      "level": 3
+    },
+    {
+      "id": "1.3.2",
+      "text": "扁形人物捕捉的共相是表象的，深层理解源于差异和扭曲",
+      "level": 3
+    },
+    {
+      "id": "1.4",
+      "text": "公鹅与母鹅",
+      "level": 2
+    },
+    {
+      "id": "1.4.1",
+      "text": "Trollope与Christie创作风格的对比",
+      "level": 3
+    },
+    {
+      "id": "1.4.2",
+      "text": "文学阅读的“公鹅与母鹅”之辨，强调“各从其类”",
+      "level": 3
+    },
+    {
+      "id": "2",
+      "text": "第一章",
+      "level": 1
+    },
+    {
+      "id": "2.1",
+      "text": "萍小姐被早晨的铃声吵醒",
+      "level": 2
+    },
+    {
+      "id": "2.1.1",
+      "text": "露西·萍的个人背景、职业转变与写作缘起",
+      "level": 3
+    },
+    {
+      "id": "2.1.2",
+      "text": "露西·萍的书出版并畅销的过程",
+      "level": 3
+    },
+    {
+      "id": "2.1.3",
+      "text": "露西·萍接受涵妲的邀请前往体育学校演讲",
+      "level": 3
+    },
+    {
+      "id": "2.2",
+      "text": "露西·萍在体育学校的初体验",
+      "level": 2
+    },
+    {
+      "id": "2.2.1",
+      "text": "露西·萍对学校作息和学生生活的初步观察",
+      "level": 3
+    },
+    {
+      "id": "2.2.2",
+      "text": "露西·萍听到学生们的对话，对她们的生活和关系产生好奇",
+      "level": 3
+    },
+    {
+      "id": "3",
+      "text": "第二章",
+      "level": 1
+    },
+    {
+      "id": "3.1",
+      "text": "露西·萍决定提前离开",
+      "level": 2
+    },
+    {
+      "id": "3.1.1",
+      "text": "露西·萍对学校住宿和洗浴条件的担忧",
+      "level": 3
+    },
+    {
+      "id": "3.1.2",
+      "text": "纳什小姐的拜访与邀请",
+      "level": 3
+    },
+    {
+      "id": "3.1.3",
+      "text": "露西·萍通过纳什小姐了解学校的课程安排和学生生活",
+      "level": 3
+    },
+    {
+      "id": "3.2",
+      "text": "露西·萍在浴室的经历",
+      "level": 2
+    },
+    {
+      "id": "3.2.1",
+      "text": "露西·萍遇到戴克丝小姐和欧唐娜小姐",
+      "level": 3
+    },
+    {
+      "id": "3.2.2",
+      "text": "戴克丝小姐误以为露西是模仿者，闹出小误会",
+      "level": 3
+    },
+    {
+      "id": "3.2.3",
+      "text": "学生们对露西的期待与邀请",
+      "level": 3
+    }
+  ],
+  "concepts": [
+    {
+      "name": "萍小姐",
+      "frequency": 19,
+      "context": "女心理学家，主人公，作者。"
+    },
+    {
+      "name": "露西",
+      "frequency": 8,
+      "context": "萍小姐的名字，也指考古发现的“夏娃”。"
+    },
+    {
+      "name": "约瑟芬·铁伊",
+      "frequency": 1,
+      "context": "《萍小姐的主意》的作者。"
+    },
+    {
+      "name": "披头士",
+      "frequency": 4,
+      "context": "乐队，歌曲《Lucy’s in the Sky with Diamonds》与露西相关。"
+    },
+    {
+      "name": "露西（骸骨）",
+      "frequency": 3,
+      "context": "300万到350万年前的女性人类学骸骨，被命名为露西。"
+    },
+    {
+      "name": "阿法南猿",
+      "frequency": 1,
+      "context": "人类学上对露西（骸骨）的称呼。"
+    },
+    {
+      "name": "阿加莎·克里斯蒂",
+      "frequency": 3,
+      "context": "古典推理第二黄金期女作家，与约瑟芬·铁伊对比。"
+    },
+    {
+      "name": "扁形人物",
+      "frequency": 7,
+      "context": "E. M. Forster提出的，性格扁平的人物类型。"
+    },
+    {
+      "name": "圆形人物",
+      "frequency": 6,
+      "context": "E. M. Forster提出的，性格复杂的人物类型。"
+    },
+    {
+      "name": "共相",
+      "frequency": 3,
+      "context": "普遍性，与扁形人物相关。"
+    },
+    {
+      "name": "个相",
+      "frequency": 3,
+      "context": "个体独特性，与圆形人物相关。"
+    },
+    {
+      "name": "涵妲",
+      "frequency": 7,
+      "context": "萍小姐在学校的联系人，院长。"
+    },
+    {
+      "name": "铃声",
+      "frequency": 10,
+      "context": "学校的信号，贯穿故事始终。"
+    },
+    {
+      "name": "发卷",
+      "frequency": 2,
+      "context": "萍小姐为了见涵妲而做的准备。"
+    },
+    {
+      "name": "心理学",
+      "frequency": 5,
+      "context": "露西·萍的专业领域和写作内容。"
+    },
+    {
+      "name": "斯塔拉先生",
+      "frequency": 1,
+      "context": "出版社审稿人，发掘了露西·萍的著作。"
+    },
+    {
+      "name": "纳什小姐",
+      "frequency": 11,
+      "context": "高年级班代表，邀请萍小姐参加午茶。"
+    },
+    {
+      "name": "戴克丝",
+      "frequency": 6,
+      "context": "学生，在浴室事件中与萍小姐互动。"
+    },
+    {
+      "name": "安全别针",
+      "frequency": 3,
+      "context": "学生间的物品借用，与拉链对比。"
+    },
+    {
+      "name": "浴室",
+      "frequency": 6,
+      "context": "故事中发生情节的重要场所。"
+    },
+    {
+      "name": "欧唐娜",
+      "frequency": 3,
+      "context": "学生，在浴室事件中与萍小姐互动。"
+    }
+  ],
+  "relations": [
+    {
+      "source": "萍小姐",
+      "target": "露西",
+      "type": "is_a"
+    },
+    {
+      "source": "露西（骸骨）",
+      "target": "露西",
+      "type": "related_to"
+    },
+    {
+      "source": "露西（骸骨）",
+      "target": "披头士",
+      "type": "related_to"
+    },
+    {
+      "source": "阿加莎·克里斯蒂",
+      "target": "约瑟芬·铁伊",
+      "type": "contrasts_with"
+    },
+    {
+      "source": "扁形人物",
+      "target": "E. M. Forster",
+      "type": "defined_by"
+    },
+    {
+      "source": "圆形人物",
+      "target": "E. M. Forster",
+      "type": "defined_by"
+    },
+    {
+      "source": "扁形人物",
+      "target": "共相",
+      "type": "emphasizes"
+    },
+    {
+      "source": "圆形人物",
+      "target": "个相",
+      "type": "emphasizes"
+    },
+    {
+      "source": "萍小姐",
+      "target": "涵妲",
+      "type": "invited_by"
+    },
+    {
+      "source": "萍小姐",
+      "target": "心理学",
+      "type": "specializes_in"
+    },
+    {
+      "source": "斯塔拉先生",
+      "target": "萍小姐",
+      "type": "discovers"
+    },
+    {
+      "source": "纳什小姐",
+      "target": "萍小姐",
+      "type": "invites"
+    },
+    {
+      "source": "纳什小姐",
+      "target": "戴克丝",
+      "type": "interacts_with"
+    },
+    {
+      "source": "纳什小姐",
+      "target": "欧唐娜",
+      "type": "interacts_with"
+    },
+    {
+      "source": "戴克丝",
+      "target": "安全别针",
+      "type": "uses"
+    },
+    {
+      "source": "欧唐娜",
+      "target": "萍小姐",
+      "type": "interacts_with"
+    },
+    {
+      "source": "浴室",
+      "target": "萍小姐",
+      "type": "experiences"
+    },
+    {
+      "source": "浴室",
+      "target": "戴克丝",
+      "type": "experiences"
+    },
+    {
+      "source": "浴室",
+      "target": "欧唐娜",
+      "type": "experiences"
+    }
+  ],
+  "hierarchy": {
+    "main_topics": [
+      "《萍小姐的主意》导读",
+      "第一章",
+      "第二章"
+    ],
+    "structure": "The document is structured as a literary analysis ('导读') followed by the beginning chapters of the novel. The '导读' section is further divided into thematic discussions ('露西的故事', '扁人与圆人', '共相与个相', '公鹅与母鹅'). The novel chapters are presented chronologically, detailing the protagonist's arrival and initial experiences at a girls' sports school."
+  }
+}

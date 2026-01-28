@@ -1,0 +1,31 @@
+# Multi-stage build for Cloud Run optimization
+FROM node:18-alpine AS builder
+
+WORKDIR /app
+COPY package*.json ./
+COPY apps/api/package*.json ./apps/api/
+COPY apps/web/package*.json ./apps/web/
+
+RUN npm ci --only=production
+
+FROM node:18-alpine AS runtime
+WORKDIR /app
+
+# Copy built dependencies
+COPY --from=builder /app/node_modules ./node_modules
+COPY --from=builder /app/apps/api/node_modules ./apps/api/node_modules
+
+# Copy application code
+COPY apps/api ./apps/api
+COPY hotel-ui ./hotel-ui
+COPY packages ./packages
+
+# Set Cloud Run environment
+ENV NODE_ENV=production
+ENV PORT=8080
+EXPOSE 8080
+
+# Use non-root user for security
+USER node
+
+CMD ["node", "apps/api/src/server.js"]

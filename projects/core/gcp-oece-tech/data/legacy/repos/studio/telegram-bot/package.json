@@ -1,0 +1,23 @@
+{
+  "name": "deepweay-telegram-bot",
+  "version": "1.0.0",
+  "description": "DeepWeay Telegram Bot with Gemini AI",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "node --watch src/index.js",
+    "bot1": "BOT_NUM=1 node src/index.js",
+    "bot2": "BOT_NUM=2 node src/index.js"
+  },
+  "keywords": ["telegram", "bot", "gemini", "ai"],
+  "author": "DeepWeay",
+  "license": "MIT",
+  "dependencies": {
+    "grammy": "^1.19.2",
+    "@grammyjs/storage-free": "^2.4.0",
+    "@supabase/supabase-js": "^2.39.0",
+    "@google/generative-ai": "^0.1.3",
+    "dotenv": "^16.3.1"
+  }
+}

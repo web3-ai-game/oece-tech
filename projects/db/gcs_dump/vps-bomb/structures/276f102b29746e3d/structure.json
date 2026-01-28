@@ -1,0 +1,404 @@
+{
+  "propositions": [
+    {
+      "id": "1",
+      "text": "The protagonist receives a cryptic message about a \"fish\" that draws his attention.",
+      "level": 1
+    },
+    {
+      "id": "1.1",
+      "text": "He speculates if the fish refers to the \"snake-browed bronze fish\" he has encountered before.",
+      "level": 2
+    },
+    {
+      "id": "1.2",
+      "text": "He considers if the sender of the message might be one of the individuals who disappeared in the past.",
+      "level": 2
+    },
+    {
+      "id": "1.3",
+      "text": "The message was posted two years prior and was found on a website.",
+      "level": 2
+    },
+    {
+      "id": "1.4",
+      "text": "The sender left no name or contact information, which the protagonist finds peculiar for a search for missing persons.",
+      "level": 2
+    },
+    {
+      "id": "2",
+      "text": "The protagonist searches for more information online but finds no other relevant posts.",
+      "level": 1
+    },
+    {
+      "id": "3",
+      "text": "After a storm passes, the protagonist and his companions prepare to leave the island.",
+      "level": 1
+    },
+    {
+      "id": "3.1",
+      "text": "They find that A Ning has been taken away by a group of foreigners during the storm.",
+      "level": 2
+    },
+    {
+      "id": "4",
+      "text": "The protagonist returns to Hangzhou and rests for two weeks.",
+      "level": 1
+    },
+    {
+      "id": "5",
+      "text": "He inquires about his uncle's whereabouts through relatives and his uncle's shop.",
+      "level": 1
+    },
+    {
+      "id": "5.1",
+      "text": "An employee at his uncle's shop informs him that someone claiming to be his brother was looking for him.",
+      "level": 2
+    },
+    {
+      "id": "5.2",
+      "text": "The employee describes the person as having a stutter, glasses, an earring, and a somewhat foreign appearance.",
+      "level": 2
+    },
+    {
+      "id": "6",
+      "text": "The protagonist realizes the person is his old friend, Lao Yang, who has just been released from prison.",
+      "level": 1
+    },
+    {
+      "id": "7",
+      "text": "Lao Yang explains that he was imprisoned for three years for tomb raiding in the Qinling Mountains.",
+      "level": 1
+    },
+    {
+      "id": "7.1",
+      "text": "He implies that the protagonist's past boasting about his grandfather's adventures may have inspired his own tomb raiding activities.",
+      "level": 2
+    },
+    {
+      "id": "8",
+      "text": "Lao Yang invites the protagonist for a reunion dinner.",
+      "level": 1
+    },
+    {
+      "id": "9",
+      "text": "During dinner, the protagonist questions Lao Yang about what he actually found during his tomb raiding.",
+      "level": 1
+    },
+    {
+      "id": "9.1",
+      "text": "Lao Yang initially evades the question but eventually describes drawing a strange shape on the table with wine.",
+      "level": 2
+    },
+    {
+      "id": "9.2",
+      "text": "He reveals that it was a \"hand-wrist thick bronze tree fork.\"",
+      "level": 2
+    },
+    {
+      "id": "9.3",
+      "text": "The protagonist recognizes the description as potentially similar to the bronze \"divine trees\" found at Sanxingdui.",
+      "level": 2
+    },
+    {
+      "id": "10",
+      "text": "Lao Yang recounts the story of his tomb raiding expedition in Qinling.",
+      "level": 1
+    },
+    {
+      "id": "10.1",
+      "text": "They found themselves in a strange valley with a vast banyan tree forest.",
+      "level": 2
+    },
+    {
+      "id": "10.2",
+      "text": "Following an ancient path, they discovered a stone statue, possibly a guardian of a tomb.",
+      "level": 2
+    },
+    {
+      "id": "10.3",
+      "text": "They eventually emerged from the forest into a massive inverted pyramid-shaped stone pit, resembling a large \"dou\" (a type of ancient Chinese vessel).",
+      "level": 2
+    },
+    {
+      "id": "10.4",
+      "text": "They descended into the pit and found a well where they dug and discovered fragments of pottery and jade, indicating a sacrificial site.",
+      "level": 2
+    },
+    {
+      "id": "10.5",
+      "text": "Continuing to dig deeper, they unearthed a large bronze object, described as a \"bronze tree branch.\"",
+      "level": 2
+    },
+    {
+      "id": "10.6",
+      "text": "Estimates suggested the bronze object was at least thirty meters long, leading them to believe it was part of something even larger and potentially world-shattering.",
+      "level": 2
+    },
+    {
+      "id": "10.7",
+      "text": "They were apprehended after Lao Yang's companion became erratic and revealed their activities.",
+      "level": 2
+    },
+    {
+      "id": "11",
+      "text": "Lao Yang reveals that he kept a \"six-angled bell\" from the sacrificial pit as a souvenir.",
+      "level": 1
+    },
+    {
+      "id": "11.1",
+      "text": "The protagonist recognizes this bell as similar to ones he encountered in the \"Corpse Cave\" and \"Underwater Tomb.\"",
+      "level": 2
+    },
+    {
+      "id": "11.2",
+      "text": "Lao Yang claims he took the bell from a \"zombie\" (deceased person) in the pit, implying it was a valuable ancient bronze artifact.",
+      "level": 2
+    },
+    {
+      "id": "12",
+      "text": "The protagonist explains his own encounters with similar bells, suggesting a connection between their experiences.",
+      "level": 1
+    },
+    {
+      "id": "13",
+      "text": "Lao Yang proposes they return to Qinling to find more treasures, as he knows the location.",
+      "level": 1
+    },
+    {
+      "id": "14",
+      "text": "The protagonist is hesitant due to the risks but agrees after Lao Yang reveals he needs a significant amount of money (four million) for a \"life-threatening issue.\"",
+      "level": 1
+    },
+    {
+      "id": "14.1",
+      "text": "Lao Yang suggests they explore other potential tombs in the area, specifically targeting imperial tombs.",
+      "level": 2
+    },
+    {
+      "id": "15",
+      "text": "The protagonist seeks advice from an elder antique dealer, Grandpa Qi, about the six-angled bell.",
+      "level": 1
+    },
+    {
+      "id": "15.1",
+      "text": "Grandpa Qi identifies the bell's craftsmanship as potentially dating back to the Xia or Western Zhou Dynasty, linked to a mysterious ancient state called \"She\" (厍国).",
+      "level": 2
+    },
+    {
+      "id": "15.2",
+      "text": "The \"She\" people worshipped a \"snake god tree\" and used a \"double-bodied human-faced snake\" as their totem.",
+      "level": 2
+    },
+    {
+      "id": "16",
+      "text": "The protagonist and Lao Yang travel to Xi'an to begin their expedition.",
+      "level": 1
+    },
+    {
+      "id": "17",
+      "text": "They overhear a conversation at a food stall that suggests they are being identified as tomb raiders by locals.",
+      "level": 1
+    },
+    {
+      "id": "18",
+      "text": "They narrowly avoid an encounter with potential rivals by quickly leaving the area.",
+      "level": 1
+    },
+    {
+      "id": "19",
+      "text": "The journey to Qinling is arduous, and they witness evidence of active tomb raiding (an explosion).",
+      "level": 1
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Snake-browed bronze fish",
+      "frequency": 2,
+      "context": "Protagonist speculates if a cryptic message refers to this object."
+    },
+    {
+      "name": "A Ning",
+      "frequency": 2,
+      "context": "She is taken away by foreigners during a storm."
+    },
+    {
+      "name": "Lao Yang",
+      "frequency": 20,
+      "context": "Protagonist's childhood friend, recently released from prison for tomb raiding. He plays a central role in the narrative, recounting his experiences and proposing further expeditions."
+    },
+    {
+      "name": "Qinling Mountains",
+      "frequency": 7,
+      "context": "The primary location of Lao Yang's past tomb raiding and the proposed new expedition."
+    },
+    {
+      "name": "Tomb raiding",
+      "frequency": 12,
+      "context": "Central activity driving the plot, undertaken by Lao Yang, the protagonist, and others."
+    },
+    {
+      "name": "Bronze tree fork",
+      "frequency": 2,
+      "context": "Lao Yang describes a large bronze object he found during his past tomb raid."
+    },
+    {
+      "name": "Sanxingdui",
+      "frequency": 1,
+      "context": "Mentioned as a site where similar bronze trees were found."
+    },
+    {
+      "name": "Sacrificial site",
+      "frequency": 2,
+      "context": "The nature of the pit discovered by Lao Yang and his companion."
+    },
+    {
+      "name": "Six-angled bell",
+      "frequency": 7,
+      "context": "A recurring artifact found by the protagonist in previous adventures and by Lao Yang in the Qinling pit. It is a key link between different locations and mysteries."
+    },
+    {
+      "name": "Corpse Cave",
+      "frequency": 1,
+      "context": "A previous location where the protagonist found a similar bell."
+    },
+    {
+      "name": "Underwater Tomb",
+      "frequency": 1,
+      "context": "Another previous location where the protagonist found a similar bell."
+    },
+    {
+      "name": "Imperial tombs",
+      "frequency": 1,
+      "context": "The new target for exploration, potentially containing greater treasures."
+    },
+    {
+      "name": "Grandpa Qi",
+      "frequency": 5,
+      "context": "An elder antique dealer and expert on ethnic minorities who helps identify the six-angled bell."
+    },
+    {
+      "name": "She (厍国)",
+      "frequency": 6,
+      "context": "A mysterious ancient state linked to the six-angled bells and the \"snake god tree.\""
+    },
+    {
+      "name": "Snake god tree",
+      "frequency": 2,
+      "context": "A legendary sacred tree worshipped by the She people."
+    },
+    {
+      "name": "Double-bodied human-faced snake",
+      "frequency": 3,
+      "context": "The totem of the She people and a recurring motif in their art."
+    },
+    {
+      "name": "Tomb raider slang",
+      "frequency": 2,
+      "context": "Lao Yang recognizes overheard slang indicating they are being targeted."
+    },
+    {
+      "name": "Explosion",
+      "frequency": 2,
+      "context": "Witnessed by the protagonists, indicating active tomb raiding in the area."
+    }
+  ],
+  "relations": [
+    {
+      "source": "Protagonist",
+      "target": "Lao Yang",
+      "type": "friend"
+    },
+    {
+      "source": "Lao Yang",
+      "target": "Qinling Mountains",
+      "type": "associated_with"
+    },
+    {
+      "source": "Lao Yang",
+      "target": "Tomb raiding",
+      "type": "activities"
+    },
+    {
+      "source": "Bronze tree fork",
+      "target": "Lao Yang",
+      "type": "found_by"
+    },
+    {
+      "source": "Six-angled bell",
+      "target": "Protagonist",
+      "type": "found_in"
+    },
+    {
+      "source": "Six-angled bell",
+      "target": "Lao Yang",
+      "type": "found_in"
+    },
+    {
+      "source": "Six-angled bell",
+      "target": "Corpse Cave",
+      "type": "found_in"
+    },
+    {
+      "source": "Six-angled bell",
+      "target": "Underwater Tomb",
+      "type": "found_in"
+    },
+    {
+      "source": "Grandpa Qi",
+      "target": "Six-angled bell",
+      "type": "identifies"
+    },
+    {
+      "source": "She (厍国)",
+      "target": "Six-angled bell",
+      "type": "originates_from"
+    },
+    {
+      "source": "She (厍国)",
+      "target": "Snake god tree",
+      "type": "worships"
+    },
+    {
+      "source": "She (厍国)",
+      "target": "Double-bodied human-faced snake",
+      "type": "uses_as_totem"
+    },
+    {
+      "source": "Lao Yang",
+      "target": "Four million",
+      "type": "needs"
+    },
+    {
+      "source": "Protagonist",
+      "target": "Qinling Mountains",
+      "type": "travels_to"
+    },
+    {
+      "source": "Protagonist",
+      "target": "Lao Yang",
+      "type": "travels_with"
+    },
+    {
+      "source": "Explosion",
+      "target": "Qinling Mountains",
+      "type": "observed_in"
+    },
+    {
+      "source": "Tomb raider slang",
+      "target": "Protagonist",
+      "target_type": "Lao Yang",
+      "type": "overheard_by"
+    }
+  ],
+  "hierarchy": {
+    "main_topics": [
+      "Lao Yang's Release and Reunion",
+      "Lao Yang's Past Tomb Raid",
+      "The Six-Angled Bell and the She Kingdom",
+      "Preparation for the Qinling Expedition",
+      "Journey and Initial Encounters in Qinling"
+    ],
+    "structure": "The document is structured chronologically, beginning with the protagonist's personal reflections and inquiries, then detailing Lao Yang's past experiences and the motivations for a new adventure. It transitions into the journey and early challenges faced in Qinling. The narrative is driven by dialogue, flashbacks, and the unfolding mystery of the artifacts and locations."
+  }
+}

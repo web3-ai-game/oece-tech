@@ -1,0 +1,418 @@
+{
+  "propositions": [
+    {
+      "id": "1",
+      "text": "The narrator is pushed at a train station, narrowly avoiding falling onto the tracks.",
+      "level": 1
+    },
+    {
+      "id": "1.1",
+      "text": "He suspects this was a deliberate attempt on his life.",
+      "level": 2
+    },
+    {
+      "id": "2",
+      "text": "The narrator discovers an electrified extension cord in the shower, which he believes was intended to electrocute him.",
+      "level": 1
+    },
+    {
+      "id": "2.1",
+      "text": "The safety switch tripped, preventing electrocution.",
+      "level": 2
+    },
+    {
+      "id": "3",
+      "text": "A flower pot is pushed from a window, narrowly missing the narrator.",
+      "level": 1
+    },
+    {
+      "id": "3.1",
+      "text": "He considers this the third attempt on his life.",
+      "level": 2
+    },
+    {
+      "id": "4",
+      "text": "The narrator reflects on his career as a teacher, his initial reluctance, and his adaptation to the profession.",
+      "level": 1
+    },
+    {
+      "id": "4.1",
+      "text": "He entered teaching as a \"natural\" outcome after a career in information engineering.",
+      "level": 2
+    },
+    {
+      "id": "4.2",
+      "text": "His mother persuaded him to become a teacher, suggesting private schools.",
+      "level": 2
+    },
+    {
+      "id": "4.3",
+      "text": "He found teaching initially difficult due to being under constant scrutiny by students.",
+      "level": 2
+    },
+    {
+      "id": "4.4",
+      "text": "He eventually became accustomed to student attention and realized their limited interest in teachers.",
+      "level": 2
+    },
+    {
+      "id": "4.5",
+      "text": "He finds the behavior of both students and some teachers perplexing.",
+      "level": 2
+    },
+    {
+      "id": "5",
+      "text": "The narrator describes his experience with student Takara Yoko.",
+      "level": 1
+    },
+    {
+      "id": "5.1",
+      "text": "Yoko asked him to accompany her to Shinshu, presenting him with a train ticket.",
+      "level": 2
+    },
+    {
+      "id": "5.2",
+      "text": "He refused her request, citing school regulations.",
+      "level": 2
+    },
+    {
+      "id": "5.3",
+      "text": "Yoko threatened to hate him if he didn't go, and later called him after the planned trip.",
+      "level": 2
+    },
+    {
+      "id": "5.4",
+      "text": "Yoko is now a problem student, possibly due to her father's remarriage and the departure of her previous maid.",
+      "level": 2
+    },
+    {
+      "id": "6",
+      "text": "The narrator encounters Sugita Keiko, the archery club president.",
+      "level": 1
+    },
+    {
+      "id": "6.1",
+      "text": "Keiko asks him to guide practice due to her own busy schedule.",
+      "level": 2
+    },
+    {
+      "id": "6.2",
+      "text": "He recalls an incident during a training camp where they kissed.",
+      "level": 2
+    },
+    {
+      "id": "6.3",
+      "text": "He is unsure if Keiko remembers or takes the incident seriously.",
+      "level": 2
+    },
+    {
+      "id": "7",
+      "text": "Principal Kurihara asks the narrator to investigate Aso Kyoko's relationship status.",
+      "level": 1
+    },
+    {
+      "id": "7.1",
+      "text": "Kyoko is being considered as a potential marriage partner for the principal's son, Kiwa.",
+      "level": 2
+    },
+    {
+      "id": "7.2",
+      "text": "Kyoko has not yet given a definitive answer.",
+      "level": 2
+    },
+    {
+      "id": "8",
+      "text": "The narrator reports the recent attack to the principal.",
+      "level": 1
+    },
+    {
+      "id": "8.1",
+      "text": "The principal dismisses the attacks as student misbehavior and discourages involving the police.",
+      "level": 2
+    },
+    {
+      "id": "8.2",
+      "text": "The principal asks for patience, stating this will be the last time he intervenes.",
+      "level": 2
+    },
+    {
+      "id": "9",
+      "text": "The narrator witnesses a confrontation between Murahashi and Hojo Masami.",
+      "level": 1
+    },
+    {
+      "id": "9.1",
+      "text": "Masami is protesting Murahashi's use of profanity in class.",
+      "level": 2
+    },
+    {
+      "id": "9.2",
+      "text": "Masami is the top student and leader of a movement to relax school regulations.",
+      "level": 2
+    },
+    {
+      "id": "10",
+      "text": "A group of motorcyclists, possibly a biker gang, disrupt a class.",
+      "level": 1
+    },
+    {
+      "id": "10.1",
+      "text": "The students are distracted and their attention is drawn to the motorcycles.",
+      "level": 2
+    },
+    {
+      "id": "10.2",
+      "text": "One of the motorcyclists appears to be waving at the teacher.",
+      "level": 2
+    },
+    {
+      "id": "10.3",
+      "text": "Murahashi and another individual approach the motorcyclists.",
+      "level": 2
+    }
+  ],
+  "concepts": [
+    {
+      "name": "narrator",
+      "frequency": 19,
+      "context": "The protagonist of the story, a male teacher."
+    },
+    {
+      "name": "teacher",
+      "frequency": 16,
+      "context": "The profession of the narrator and other characters."
+    },
+    {
+      "name": "student",
+      "frequency": 29,
+      "context": "The individuals being taught by the narrator and others."
+    },
+    {
+      "name": "attack",
+      "frequency": 7,
+      "context": "Attempts on the narrator's life."
+    },
+    {
+      "name": "school",
+      "frequency": 23,
+      "context": "The setting for most of the events, Qinghua Girls High School."
+    },
+    {
+      "name": "Yoko Takara",
+      "frequency": 10,
+      "context": "A student with a troubled past."
+    },
+    {
+      "name": "Keiko Sugita",
+      "frequency": 13,
+      "context": "President of the archery club, involved with the narrator."
+    },
+    {
+      "name": "Principal Kurihara",
+      "frequency": 9,
+      "context": "The head of the school."
+    },
+    {
+      "name": "Murahashi",
+      "frequency": 8,
+      "context": "A disciplinary official with a harsh demeanor."
+    },
+    {
+      "name": "Masami Hojo",
+      "frequency": 8,
+      "context": "A top student leading a movement for reform."
+    },
+    {
+      "name": "Kyoko Aso",
+      "frequency": 5,
+      "context": "A woman being considered for marriage by the principal's son."
+    },
+    {
+      "name": "assassination attempt",
+      "frequency": 3,
+      "context": "The deliberate actions taken against the narrator."
+    },
+    {
+      "name": "training camp",
+      "frequency": 4,
+      "context": "An event where students and teachers interact closely."
+    },
+    {
+      "name": "music",
+      "frequency": 3,
+      "context": "Mentioned in the context of a piano player."
+    },
+    {
+      "name": "poetry",
+      "frequency": 1,
+      "context": "What a club was making."
+    },
+    {
+      "name": "mathematics",
+      "frequency": 5,
+      "context": "The subject taught by the narrator."
+    },
+    {
+      "name": "archery club",
+      "frequency": 7,
+      "context": "A club associated with Keiko and the narrator."
+    },
+    {
+      "name": "disciplinary action",
+      "frequency": 4,
+      "context": "Punishments and reprimands for students."
+    },
+    {
+      "name": "regulations",
+      "frequency": 4,
+      "context": "Rules governing student behavior."
+    },
+    {
+      "name": "family",
+      "frequency": 5,
+      "context": "Background details of some characters."
+    },
+    {
+      "name": "investigation",
+      "frequency": 2,
+      "context": "The principal's request regarding Kyoko."
+    },
+    {
+      "name": "motorcycles",
+      "frequency": 3,
+      "context": "Associated with a disruptive group."
+    },
+    {
+      "name": "biker gang",
+      "frequency": 1,
+      "context": "Speculation about the motorcyclists."
+    }
+  ],
+  "relations": [
+    {
+      "source": "narrator",
+      "target": "teacher",
+      "type": "is_a"
+    },
+    {
+      "source": "narrator",
+      "target": "student",
+      "type": "teaches"
+    },
+    {
+      "source": "narrator",
+      "target": "attack",
+      "type": "is_victim_of"
+    },
+    {
+      "source": "school",
+      "target": "teacher",
+      "type": "employs"
+    },
+    {
+      "source": "school",
+      "target": "student",
+      "type": "enrolls"
+    },
+    {
+      "source": "Yoko Takara",
+      "target": "student",
+      "type": "is_a"
+    },
+    {
+      "source": "Yoko Takara",
+      "target": "narrator",
+      "type": "approaches"
+    },
+    {
+      "source": "Keiko Sugita",
+      "target": "student",
+      "type": "is_a"
+    },
+    {
+      "source": "Keiko Sugita",
+      "target": "archery club",
+      "type": "is_president_of"
+    },
+    {
+      "source": "Keiko Sugita",
+      "target": "narrator",
+      "type": "interacts_with"
+    },
+    {
+      "source": "Principal Kurihara",
+      "target": "school",
+      "type": "is_head_of"
+    },
+    {
+      "source": "Principal Kurihara",
+      "target": "narrator",
+      "type": "requests_task_from"
+    },
+    {
+      "source": "Murahashi",
+      "target": "school",
+      "type": "works_at"
+    },
+    {
+      "source": "Murahashi",
+      "target": "student",
+      "type": "disciplines"
+    },
+    {
+      "source": "Masami Hojo",
+      "target": "student",
+      "type": "is_a"
+    },
+    {
+      "source": "Masami Hojo",
+      "target": "school",
+      "type": "is_top_student_at"
+    },
+    {
+      "source": "Masami Hojo",
+      "target": "regulations",
+      "type": "challenges"
+    },
+    {
+      "source": "Kyoko Aso",
+      "target": "Principal Kurihara",
+      "type": "involved_with"
+    },
+    {
+      "source": "assassination attempt",
+      "target": "narrator",
+      "type": "aims_at"
+    },
+    {
+      "source": "training camp",
+      "target": "student",
+      "type": "involves"
+    },
+    {
+      "source": "training camp",
+      "target": "narrator",
+      "type": "attends"
+    },
+    {
+      "source": "motorcycles",
+      "target": "school",
+      "type": "disrupts_activity_at"
+    },
+    {
+      "source": "biker gang",
+      "target": "motorcycles",
+      "type": "operates"
+    }
+  ],
+  "hierarchy": {
+    "main_topics": [
+      "Incidents and Suspicions",
+      "Narrator's Background and Profession",
+      "Student Interactions and School Dynamics",
+      "School Administration and Politics",
+      "Unresolved Conflicts and Mysteries"
+    ],
+    "structure": "The document is structured into chapters and sections, progressing chronologically through the narrator's experiences and observations. It interweaves plot developments (attempts on his life, student interactions) with reflections on his past and the school environment."
+  }
+}

@@ -1,0 +1,1091 @@
+{
+  "propositions": [
+    {
+      "id": "1",
+      "text": "The document is a title for a reborn Xianxia novel titled 'Rebirth: Soul Hooking and Captivating Heart' by Jin Xin.",
+      "level": 1
+    },
+    {
+      "id": "2",
+      "text": "The prologue serves as an introductory section.",
+      "level": 1
+    },
+    {
+      "id": "2.1",
+      "text": "The raw text begins with a website address and garbled characters, likely a header or footer.",
+      "level": 2
+    },
+    {
+      "id": "2.2",
+      "text": "The actual novel content starts after the header.",
+      "level": 2
+    },
+    {
+      "id": "3",
+      "text": "The story begins by describing a person's physical appearance and surroundings, establishing a melancholic or reflective tone.",
+      "level": 1
+    },
+    {
+      "id": "3.1",
+      "text": "The use of colors, water, and sky suggests a focus on sensory details and atmosphere.",
+      "level": 2
+    },
+    {
+      "id": "4",
+      "text": "A sense of longing or detachment is conveyed through phrases related to wanting to understand or know something.",
+      "level": 1
+    },
+    {
+      "id": "4.1",
+      "text": "There is an emphasis on searching for something or someone, and a feeling of inability to grasp or retain it.",
+      "level": 2
+    },
+    {
+      "id": "5",
+      "text": "The passage transitions to an introspective mood, focusing on internal thoughts and feelings.",
+      "level": 1
+    },
+    {
+      "id": "5.1",
+      "text": "The character reflects on their current state and circumstances.",
+      "level": 2
+    },
+    {
+      "id": "6",
+      "text": "A key theme emerging is the pursuit of something lost or unattainable, symbolized by elusive references ('it' or 'that').",
+      "level": 1
+    },
+    {
+      "id": "6.1",
+      "text": "There is a sense of struggle against an unseen force or internal conflict.",
+      "level": 2
+    },
+    {
+      "id": "7",
+      "text": "The text delves into the character's emotional landscape, describing feelings of emptiness and a persistent sense of searching.",
+      "level": 1
+    },
+    {
+      "id": "7.1",
+      "text": "The character grapples with their identity and place in the world.",
+      "level": 2
+    },
+    {
+      "id": "8",
+      "text": "There is a powerful expression of yearning for connection and understanding, hinting at an incomplete or unfulfilled past or present.",
+      "level": 1
+    },
+    {
+      "id": "8.1",
+      "text": "The character's interactions, or lack thereof, shape their internal experience.",
+      "level": 2
+    },
+    {
+      "id": "9",
+      "text": "The narrative uses metaphors of light and darkness, possibly symbolizing hope/despair or clarity/confusion.",
+      "level": 1
+    },
+    {
+      "id": "9.1",
+      "text": "The character's journey appears to be one of self-discovery and emotional resilience.",
+      "level": 2
+    },
+    {
+      "id": "10",
+      "text": "The story progresses through emotional ups and downs, with moments of vulnerability and strength.",
+      "level": 1
+    },
+    {
+      "id": "10.1",
+      "text": "The character's resolve is tested, and they confront fears and insecurities.",
+      "level": 2
+    },
+    {
+      "id": "11",
+      "text": "Imagery of time and seasons could indicate the cyclical nature of life and passage of time, influencing the emotional state.",
+      "level": 1
+    },
+    {
+      "id": "11.1",
+      "text": "The struggle to retain memories or feelings is evident.",
+      "level": 2
+    },
+    {
+      "id": "12",
+      "text": "A sense of profundity in the character's perspective suggests a deep understanding of life's complexities.",
+      "level": 1
+    },
+    {
+      "id": "12.1",
+      "text": "The narrative explores themes of fate, destiny, and shaping choices.",
+      "level": 2
+    },
+    {
+      "id": "13",
+      "text": "The text hints at potential for growth and transformation.",
+      "level": 1
+    },
+    {
+      "id": "13.1",
+      "text": "Despite hardships, there's an underlying current of hope and a drive to overcome obstacles.",
+      "level": 2
+    },
+    {
+      "id": "14",
+      "text": "The character's journey is marked by introspection leading to deeper self-awareness.",
+      "level": 1
+    },
+    {
+      "id": "15",
+      "text": "The narrative emphasizes the importance of inner strength and the capacity for love and compassion.",
+      "level": 1
+    },
+    {
+      "id": "16",
+      "text": "The character's capacity to endure and find meaning is highlighted.",
+      "level": 1
+    },
+    {
+      "id": "17",
+      "text": "The story appears to be building towards a resolution of peace or understanding.",
+      "level": 1
+    },
+    {
+      "id": "17.1",
+      "text": "This resolution may come through acceptance of circumstances or finding a new purpose.",
+      "level": 2
+    },
+    {
+      "id": "18",
+      "text": "Character interactions, though sparsely detailed, suggest a dynamic relationship influencing the protagonist's journey.",
+      "level": 1
+    },
+    {
+      "id": "18.1",
+      "text": "Other individuals challenge or support the character's development.",
+      "level": 2
+    },
+    {
+      "id": "19",
+      "text": "The 'Summary and Outlook' section would typically summarize themes and plot points, offering a glimpse into the future and the story's message.",
+      "level": 1
+    },
+    {
+      "id": "19.1",
+      "text": "The provided raw text lacks sufficient content for a comprehensive summary.",
+      "level": 2
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Rebirth",
+      "frequency": 2,
+      "context": "Indicated by the title '(重生仙侠) Rebirth: Soul Hooking and Captivating Heart'"
+    },
+    {
+      "name": "Xianxia",
+      "frequency": 1,
+      "context": "Genre indicated in the title '(重生仙侠)'"
+    },
+    {
+      "name": "Soul Hooking",
+      "frequency": 1,
+      "context": "Part of the novel's title 'Soul Hooking and Captivating Heart'"
+    },
+    {
+      "name": "Captivating Heart",
+      "frequency": 1,
+      "context": "Part of the novel's title 'Soul Hooking and Captivating Heart'"
+    },
+    {
+      "name": "Prologue",
+      "frequency": 1,
+      "context": "The section labeled '序言'"
+    },
+    {
+      "name": "Narrative",
+      "frequency": 1,
+      "context": "The overarching story structure described."
+    },
+    {
+      "name": "Physical Appearance",
+      "frequency": 1,
+      "context": "Described at the beginning of the story."
+    },
+    {
+      "name": "Surroundings",
+      "frequency": 1,
+      "context": "Setting described at the beginning of the story."
+    },
+    {
+      "name": "Melancholic Tone",
+      "frequency": 1,
+      "context": "Conveyed by the initial description."
+    },
+    {
+      "name": "Reflective Tone",
+      "frequency": 1,
+      "context": "Conveyed by the initial description."
+    },
+    {
+      "name": "Sensory Details",
+      "frequency": 1,
+      "context": "Focus through the use of colors, water, and sky."
+    },
+    {
+      "name": "Atmosphere",
+      "frequency": 1,
+      "context": "Focus through the use of colors, water, and sky."
+    },
+    {
+      "name": "Longing",
+      "frequency": 1,
+      "context": "A conveyed emotion."
+    },
+    {
+      "name": "Detachment",
+      "frequency": 1,
+      "context": "A conveyed emotion."
+    },
+    {
+      "name": "Understanding",
+      "frequency": 2,
+      "context": "A key element characters seek or struggle with."
+    },
+    {
+      "name": "Searching",
+      "frequency": 3,
+      "context": "A prominent activity and theme for the character."
+    },
+    {
+      "name": "Introspection",
+      "frequency": 2,
+      "context": "A shift in focus for the character's thoughts."
+    },
+    {
+      "name": "Internal Thoughts",
+      "frequency": 1,
+      "context": "Focus of introspection."
+    },
+    {
+      "name": "Internal Feelings",
+      "frequency": 1,
+      "context": "Focus of introspection."
+    },
+    {
+      "name": "Current State",
+      "frequency": 1,
+      "context": "The character reflects upon this."
+    },
+    {
+      "name": "Circumstances",
+      "frequency": 2,
+      "context": "The character reflects upon these, and potentially accepts them."
+    },
+    {
+      "name": "Lost",
+      "frequency": 1,
+      "context": "Describes something the character pursues."
+    },
+    {
+      "name": "Unattainable",
+      "frequency": 1,
+      "context": "Describes something the character pursues."
+    },
+    {
+      "name": "Elusive",
+      "frequency": 1,
+      "context": "Symbolizes the pursued object/concept."
+    },
+    {
+      "name": "Struggle",
+      "frequency": 2,
+      "context": "A key element of the character's experience."
+    },
+    {
+      "name": "Unseen Force",
+      "frequency": 1,
+      "context": "Something the character struggles against."
+    },
+    {
+      "name": "Internal Conflict",
+      "frequency": 1,
+      "context": "A struggle the character experiences."
+    },
+    {
+      "name": "Emotional Landscape",
+      "frequency": 1,
+      "context": "The text delves into this."
+    },
+    {
+      "name": "Emptiness",
+      "frequency": 1,
+      "context": "A described feeling."
+    },
+    {
+      "name": "Unspoken Words",
+      "frequency": 1,
+      "context": "A described emotional weight."
+    },
+    {
+      "name": "Identity",
+      "frequency": 1,
+      "context": "The character grapples with this."
+    },
+    {
+      "name": "Place in the World",
+      "frequency": 1,
+      "context": "The character grapples with this."
+    },
+    {
+      "name": "Yearning",
+      "frequency": 1,
+      "context": "A powerful emotion expressed."
+    },
+    {
+      "name": "Connection",
+      "frequency": 1,
+      "context": "Something the character yearns for."
+    },
+    {
+      "name": "Past",
+      "frequency": 1,
+      "context": "Hinted at as incomplete."
+    },
+    {
+      "name": "Present",
+      "frequency": 1,
+      "context": "Hinted at as unfulfilled."
+    },
+    {
+      "name": "Interactions",
+      "frequency": 2,
+      "context": "Between characters, shaping internal experience and development."
+    },
+    {
+      "name": "Metaphors",
+      "frequency": 1,
+      "context": "Used for light and darkness."
+    },
+    {
+      "name": "Light",
+      "frequency": 1,
+      "context": "Metaphorical element."
+    },
+    {
+      "name": "Darkness",
+      "frequency": 1,
+      "context": "Metaphorical element."
+    },
+    {
+      "name": "Hope",
+      "frequency": 2,
+      "context": "Symbolized by light, an underlying current."
+    },
+    {
+      "name": "Despair",
+      "frequency": 1,
+      "context": "Symbolized by darkness."
+    },
+    {
+      "name": "Clarity",
+      "frequency": 1,
+      "context": "Possible symbolism of light."
+    },
+    {
+      "name": "Confusion",
+      "frequency": 1,
+      "context": "Possible symbolism of darkness."
+    },
+    {
+      "name": "Self-discovery",
+      "frequency": 1,
+      "context": "A journey the character undertakes."
+    },
+    {
+      "name": "Emotional Resilience",
+      "frequency": 1,
+      "context": "A characteristic developed by the character."
+    },
+    {
+      "name": "Emotional Ups and Downs",
+      "frequency": 1,
+      "context": "The story progresses through these."
+    },
+    {
+      "name": "Vulnerability",
+      "frequency": 1,
+      "context": "Moments experienced by the character."
+    },
+    {
+      "name": "Strength",
+      "frequency": 2,
+      "context": "Moments experienced by the character and an emphasized importance."
+    },
+    {
+      "name": "Resolve",
+      "frequency": 1,
+      "context": "Tested by circumstances."
+    },
+    {
+      "name": "Fears",
+      "frequency": 1,
+      "context": "Confronted by the character."
+    },
+    {
+      "name": "Insecurities",
+      "frequency": 1,
+      "context": "Confronted by the character."
+    },
+    {
+      "name": "Time",
+      "frequency": 1,
+      "context": "Imagery related to it influences emotional state."
+    },
+    {
+      "name": "Seasons",
+      "frequency": 1,
+      "context": "Imagery related to them influences emotional state."
+    },
+    {
+      "name": "Cyclical Nature of Life",
+      "frequency": 1,
+      "context": "Indicated by time and season imagery."
+    },
+    {
+      "name": "Passage of Time",
+      "frequency": 1,
+      "context": "Indicated by time and season imagery."
+    },
+    {
+      "name": "Memories",
+      "frequency": 1,
+      "context": "Struggle to hold onto them."
+    },
+    {
+      "name": "Profundity",
+      "frequency": 1,
+      "context": "Describes the character's perspective."
+    },
+    {
+      "name": "Life's Complexities",
+      "frequency": 1,
+      "context": "Deep understanding of these is suggested."
+    },
+    {
+      "name": "Fate",
+      "frequency": 1,
+      "context": "A theme explored."
+    },
+    {
+      "name": "Destiny",
+      "frequency": 1,
+      "context": "A theme explored."
+    },
+    {
+      "name": "Choices",
+      "frequency": 1,
+      "context": "Shape one's path, a theme explored."
+    },
+    {
+      "name": "Growth",
+      "frequency": 1,
+      "context": "Potential for it is hinted at."
+    },
+    {
+      "name": "Transformation",
+      "frequency": 1,
+      "context": "Potential for it is hinted at."
+    },
+    {
+      "name": "Obstacles",
+      "frequency": 1,
+      "context": "Drive to overcome them."
+    },
+    {
+      "name": "Self-awareness",
+      "frequency": 1,
+      "context": "Deeper levels achieved through introspection."
+    },
+    {
+      "name": "Inner Strength",
+      "frequency": 1,
+      "context": "Emphasized importance."
+    },
+    {
+      "name": "Love",
+      "frequency": 1,
+      "context": "Capacity for it is highlighted."
+    },
+    {
+      "name": "Compassion",
+      "frequency": 1,
+      "context": "Capacity for it is highlighted."
+    },
+    {
+      "name": "Endurance",
+      "frequency": 1,
+      "context": "Character's capacity for it is highlighted."
+    },
+    {
+      "name": "Meaning",
+      "frequency": 1,
+      "context": "Character's capacity to find it is highlighted."
+    },
+    {
+      "name": "Resolution",
+      "frequency": 1,
+      "context": "The story appears to be building towards one."
+    },
+    {
+      "name": "Peace",
+      "frequency": 1,
+      "context": "A possible outcome of resolution."
+    },
+    {
+      "name": "Acceptance",
+      "frequency": 1,
+      "context": "A means to resolution."
+    },
+    {
+      "name": "Purpose",
+      "frequency": 1,
+      "context": "A new one may be found for resolution."
+    },
+    {
+      "name": "Protagonist",
+      "frequency": 1,
+      "context": "Journey influenced by character interactions."
+    },
+    {
+      "name": "Development",
+      "frequency": 2,
+      "context": "Character interactions influence it, and other individuals challenge or support it."
+    },
+    {
+      "name": "Summary",
+      "frequency": 1,
+      "context": "Content typically found in a 'Summary and Outlook' section."
+    },
+    {
+      "name": "Outlook",
+      "frequency": 1,
+      "context": "Content typically found in a 'Summary and Outlook' section."
+    },
+    {
+      "name": "Plot Points",
+      "frequency": 1,
+      "context": "Summarized in a 'Summary and Outlook' section."
+    },
+    {
+      "name": "Future Trajectory",
+      "frequency": 1,
+      "context": "A glimpse offered in a 'Summary and Outlook' section."
+    },
+    {
+      "name": "Overall Message",
+      "frequency": 1,
+      "context": "A glimpse offered in a 'Summary and Outlook' section."
+    }
+  ],
+  "relations": [
+    {
+      "source": "Rebirth",
+      "target": "Xianxia",
+      "type": "is_a_genre_of"
+    },
+    {
+      "source": "Soul Hooking",
+      "target": "Captivating Heart",
+      "type": "is_part_of"
+    },
+    {
+      "source": "Prologue",
+      "target": "Introductory section",
+      "type": "is_a"
+    },
+    {
+      "source": "Raw text header/footer",
+      "target": "Website address",
+      "type": "contains"
+    },
+    {
+      "source": "Narrative",
+      "target": "Physical Appearance",
+      "type": "begins_with"
+    },
+    {
+      "source": "Physical Appearance",
+      "target": "Surroundings",
+      "type": "is_described_with"
+    },
+    {
+      "source": "Description",
+      "target": "Melancholic Tone",
+      "type": "conveys"
+    },
+    {
+      "source": "Description",
+      "target": "Reflective Tone",
+      "type": "conveys"
+    },
+    {
+      "source": "Use of colors",
+      "target": "Sensory Details",
+      "type": "focuses_on"
+    },
+    {
+      "source": "Use of water",
+      "target": "Sensory Details",
+      "type": "focuses_on"
+    },
+    {
+      "source": "Use of sky",
+      "target": "Sensory Details",
+      "type": "focuses_on"
+    },
+    {
+      "source": "Use of colors",
+      "target": "Atmosphere",
+      "type": "focuses_on"
+    },
+    {
+      "source": "Use of water",
+      "target": "Atmosphere",
+      "type": "focuses_on"
+    },
+    {
+      "source": "Use of sky",
+      "target": "Atmosphere",
+      "type": "focuses_on"
+    },
+    {
+      "source": "Phrases related to knowing",
+      "target": "Longing",
+      "type": "conveys"
+    },
+    {
+      "source": "Phrases related to knowing",
+      "target": "Detachment",
+      "type": "conveys"
+    },
+    {
+      "source": "Emphasis on looking",
+      "target": "Searching",
+      "type": "highlights"
+    },
+    {
+      "source": "Feeling of inability",
+      "target": "Grasp",
+      "type": "describes"
+    },
+    {
+      "source": "Feeling of inability",
+      "target": "Retain",
+      "type": "describes"
+    },
+    {
+      "source": "Passage",
+      "target": "Introspection",
+      "type": "transitions_to"
+    },
+    {
+      "source": "Introspection",
+      "target": "Internal Thoughts",
+      "type": "focuses_on"
+    },
+    {
+      "source": "Introspection",
+      "target": "Internal Feelings",
+      "type": "focuses_on"
+    },
+    {
+      "source": "Character",
+      "target": "Current State",
+      "type": "reflects_on"
+    },
+    {
+      "source": "Character",
+      "target": "Circumstances",
+      "type": "reflects_on"
+    },
+    {
+      "source": "Key theme",
+      "target": "Pursuit",
+      "type": "emerges_as"
+    },
+    {
+      "source": "Pursuit",
+      "target": "Something lost",
+      "type": "is_of"
+    },
+    {
+      "source": "Pursuit",
+      "target": "Something unattainable",
+      "type": "is_of"
+    },
+    {
+      "source": "Elusive references",
+      "target": "Symbolizes",
+      "type": "serves_to"
+    },
+    {
+      "source": "Elusive references",
+      "target": "'it' or 'that'",
+      "type": "are"
+    },
+    {
+      "source": "Sense of struggle",
+      "target": "Unseen force",
+      "type": "against"
+    },
+    {
+      "source": "Sense of struggle",
+      "target": "Internal conflict",
+      "type": "against"
+    },
+    {
+      "source": "Text",
+      "target": "Emotional Landscape",
+      "type": "delves_into"
+    },
+    {
+      "source": "Emotional Landscape",
+      "target": "Emptiness",
+      "type": "describes"
+    },
+    {
+      "source": "Emotional Landscape",
+      "target": "Weight of unspoken words",
+      "type": "describes"
+    },
+    {
+      "source": "Emotional Landscape",
+      "target": "Persistent sense of searching",
+      "type": "describes"
+    },
+    {
+      "source": "Character",
+      "target": "Identity",
+      "type": "grapples_with"
+    },
+    {
+      "source": "Character",
+      "target": "Place in the world",
+      "type": "grapples_with"
+    },
+    {
+      "source": "Expression",
+      "target": "Yearning",
+      "type": "is_powerful"
+    },
+    {
+      "source": "Yearning",
+      "target": "Connection",
+      "type": "is_for"
+    },
+    {
+      "source": "Yearning",
+      "target": "Understanding",
+      "type": "is_for"
+    },
+    {
+      "source": "Yearning",
+      "target": "Past",
+      "type": "hints_at_incompleteness_of"
+    },
+    {
+      "source": "Yearning",
+      "target": "Present",
+      "type": "hints_at_unfulfillment_of"
+    },
+    {
+      "source": "Interactions",
+      "target": "Internal experience",
+      "type": "shape"
+    },
+    {
+      "source": "Lack of interactions",
+      "target": "Internal experience",
+      "type": "shape"
+    },
+    {
+      "source": "Narrative",
+      "target": "Metaphors",
+      "type": "uses"
+    },
+    {
+      "source": "Metaphors",
+      "target": "Light",
+      "type": "of"
+    },
+    {
+      "source": "Metaphors",
+      "target": "Darkness",
+      "type": "of"
+    },
+    {
+      "source": "Light",
+      "target": "Hope",
+      "type": "symbolizes"
+    },
+    {
+      "source": "Light",
+      "target": "Clarity",
+      "type": "symbolizes"
+    },
+    {
+      "source": "Darkness",
+      "target": "Despair",
+      "type": "symbolizes"
+    },
+    {
+      "source": "Darkness",
+      "target": "Confusion",
+      "type": "symbolizes"
+    },
+    {
+      "source": "Character's journey",
+      "target": "Self-discovery",
+      "type": "is_a_journey_of"
+    },
+    {
+      "source": "Character's journey",
+      "target": "Emotional Resilience",
+      "type": "is_a_journey_of"
+    },
+    {
+      "source": "Story",
+      "target": "Emotional ups and downs",
+      "type": "progresses_through"
+    },
+    {
+      "source": "Emotional ups and downs",
+      "target": "Vulnerability",
+      "type": "includes_moments_of"
+    },
+    {
+      "source": "Emotional ups and downs",
+      "target": "Strength",
+      "type": "includes_moments_of"
+    },
+    {
+      "source": "Character's resolve",
+      "target": "Tested",
+      "type": "is"
+    },
+    {
+      "source": "Character",
+      "target": "Fears",
+      "type": "confronts"
+    },
+    {
+      "source": "Character",
+      "target": "Insecurities",
+      "type": "confronts"
+    },
+    {
+      "source": "Imagery of time",
+      "target": "Cyclical nature of life",
+      "type": "indicates"
+    },
+    {
+      "source": "Imagery of time",
+      "target": "Passage of time",
+      "type": "indicates"
+    },
+    {
+      "source": "Imagery of seasons",
+      "target": "Cyclical nature of life",
+      "type": "indicates"
+    },
+    {
+      "source": "Imagery of seasons",
+      "target": "Passage of time",
+      "type": "indicates"
+    },
+    {
+      "source": "Cyclical nature of life",
+      "target": "Character's emotional state",
+      "type": "influences"
+    },
+    {
+      "source": "Passage of time",
+      "target": "Character's emotional state",
+      "type": "influences"
+    },
+    {
+      "source": "Struggle to hold onto",
+      "target": "Memories",
+      "type": "is_evident"
+    },
+    {
+      "source": "Struggle to hold onto",
+      "target": "Feelings",
+      "type": "is_evident"
+    },
+    {
+      "source": "Profundity",
+      "target": "Character's perspective",
+      "type": "describes"
+    },
+    {
+      "source": "Character's perspective",
+      "target": "Life's complexities",
+      "type": "suggests_deep_understanding_of"
+    },
+    {
+      "source": "Narrative",
+      "target": "Fate",
+      "type": "explores_themes_of"
+    },
+    {
+      "source": "Narrative",
+      "target": "Destiny",
+      "type": "explores_themes_of"
+    },
+    {
+      "source": "Narrative",
+      "target": "Choices",
+      "type": "explores_themes_of"
+    },
+    {
+      "source": "Choices",
+      "target": "One's path",
+      "type": "shape"
+    },
+    {
+      "source": "Text",
+      "target": "Potential for growth",
+      "type": "hints_at"
+    },
+    {
+      "source": "Text",
+      "target": "Potential for transformation",
+      "type": "hints_at"
+    },
+    {
+      "source": "Underlying current",
+      "target": "Hope",
+      "type": "is_of"
+    },
+    {
+      "source": "Underlying current",
+      "target": "Drive to overcome obstacles",
+      "type": "is_of"
+    },
+    {
+      "source": "Character's journey",
+      "target": "Introspection",
+      "type": "is_marked_by"
+    },
+    {
+      "source": "Introspection",
+      "target": "Deeper self-awareness",
+      "type": "leads_to"
+    },
+    {
+      "source": "Narrative",
+      "target": "Importance of inner strength",
+      "type": "emphasizes"
+    },
+    {
+      "source": "Narrative",
+      "target": "Capacity for love",
+      "type": "emphasizes"
+    },
+    {
+      "source": "Narrative",
+      "target": "Capacity for compassion",
+      "type": "emphasizes"
+    },
+    {
+      "source": "Character's capacity",
+      "target": "Endure",
+      "type": "is_highlighted"
+    },
+    {
+      "source": "Character's capacity",
+      "target": "Find meaning",
+      "type": "is_highlighted"
+    },
+    {
+      "source": "Story",
+      "target": "Resolution",
+      "type": "appears_to_be_building_towards"
+    },
+    {
+      "source": "Resolution",
+      "target": "Peace",
+      "type": "may_involve"
+    },
+    {
+      "source": "Resolution",
+      "target": "Understanding",
+      "type": "may_involve"
+    },
+    {
+      "source": "Peace",
+      "target": "Acceptance of circumstances",
+      "type": "may_come_through"
+    },
+    {
+      "source": "Understanding",
+      "target": "Finding a new purpose",
+      "type": "may_come_through"
+    },
+    {
+      "source": "Character interactions",
+      "target": "Protagonist's journey",
+      "type": "influence"
+    },
+    {
+      "source": "Other individuals",
+      "target": "Character's development",
+      "type": "challenge"
+    },
+    {
+      "source": "Other individuals",
+      "target": "Character's development",
+      "type": "support"
+    },
+    {
+      "source": "Summary and Outlook section",
+      "target": "Main themes",
+      "type": "typically_summarizes"
+    },
+    {
+      "source": "Summary and Outlook section",
+      "target": "Plot points",
+      "type": "typically_summarizes"
+    },
+    {
+      "source": "Summary and Outlook section",
+      "target": "Character's future trajectory",
+      "type": "offers_glimpse_into"
+    },
+    {
+      "source": "Summary and Outlook section",
+      "target": "Overall message of the story",
+      "type": "offers_glimpse_into"
+    },
+    {
+      "source": "Provided raw text",
+      "target": "Comprehensive summary",
+      "type": "lacks_content_for"
+    }
+  ],
+  "hierarchy": {
+    "main_topics": [
+      "Novel Title and Genre",
+      "Prologue Content",
+      "Story Beginning and Atmosphere",
+      "Character's Internal State and Themes",
+      "Emotional Development and Resilience",
+      "Growth and Resolution",
+      "Character Interaction",
+      "Summary and Outlook"
+    ],
+    "structure": "The document is structured with a title and chapter-like headings (序言, 故事开端, 心境描摹, 情感波澜, 情感的升华, 角色互动, 总结与展望), each containing descriptive text analyzing the fictional novel's content. The analysis follows a progression from introduction to plot elements, character emotions, thematic exploration, and potential resolution, concluding with a note on the summary section."
+  }
+}

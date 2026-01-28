@@ -1,0 +1,318 @@
+{
+  "propositions": [
+    {
+      "id": "1",
+      "text": "贝雷斯福德夫妇在婚后生活中感到无聊，渴望刺激。",
+      "level": 1
+    },
+    {
+      "id": "1.1",
+      "text": "塔彭丝希望发生一些“令人兴奋的事”，怀念过去追捕德国间谍的日子。",
+      "level": 2
+    },
+    {
+      "id": "1.2",
+      "text": "汤米认为希望发生事情是合情合理的，但所发生的事情可能会令人不快。",
+      "level": 2
+    },
+    {
+      "id": "2",
+      "text": "塔彭丝梦想着浪漫的冒险，但内心忠于婚姻誓言。",
+      "level": 1
+    },
+    {
+      "id": "2.1",
+      "text": "她幻想邂逅一位英俊、强壮、棕皮肤的男人，并对他一见钟情。",
+      "level": 2
+    },
+    {
+      "id": "2.2",
+      "text": "尽管如此，她强调自己会保持贞操，信守结婚誓言。",
+      "level": 2
+    },
+    {
+      "id": "3",
+      "text": "汤米暗示自己也渴望浪漫，但并不像塔彭丝那样拘泥于幻想。",
+      "level": 1
+    },
+    {
+      "id": "3.1",
+      "text": "他希望邂逅一位金发碧眼的美丽姑娘，并且不会像塔彭丝那样拒绝对方。",
+      "level": 2
+    },
+    {
+      "id": "4",
+      "text": "汤米和塔彭丝最终被卷入一项由政府部门安排的侦探任务。",
+      "level": 1
+    },
+    {
+      "id": "4.1",
+      "text": "卡特先生因为原所长西奥多·布伦特办事轻率而被捕，需要有人接手“国际侦探所”。",
+      "level": 2
+    },
+    {
+      "id": "4.2",
+      "text": "汤米被提议以布伦特的名义经营侦探所六个月，并被交待了与俄国火腿商和数字“十六”相关的特殊任务。",
+      "level": 2
+    },
+    {
+      "id": "4.3",
+      "text": "这项任务旨在满足塔彭丝的好奇心，让她有机会尝试侦探工作。",
+      "level": 2
+    },
+    {
+      "id": "5",
+      "text": "贝雷斯福德夫妇开始了他们在“国际侦探所”的工作，但初期委托寥寥无几。",
+      "level": 1
+    },
+    {
+      "id": "5.1",
+      "text": "他们的办公室位于布卢姆斯伯里，艾伯特担任勤杂工。",
+      "level": 2
+    },
+    {
+      "id": "5.2",
+      "text": "他们的第一个顾客是史密斯（真名劳伦斯·圣文森特），他来寻找一位失踪的漂亮姑娘珍妮特。",
+      "level": 2
+    },
+    {
+      "id": "5.3",
+      "text": "珍妮特在维奥莱特夫人帽店工作，圣文森特对她一见钟情，但她却突然失踪。",
+      "level": 2
+    },
+    {
+      "id": "5.4",
+      "text": "塔彭丝迅速找到了珍妮特，她就在隔壁的办公室里，而汤米则被首相先生紧急召走。",
+      "level": 2
+    },
+    {
+      "id": "6",
+      "text": "贝雷斯福德夫妇尝试学习侦探大师的破案风格。",
+      "level": 1
+    },
+    {
+      "id": "6.1",
+      "text": "汤米阅读侦探小说，并购买了照相器材，模仿歇洛克·福尔摩斯。",
+      "level": 2
+    },
+    {
+      "id": "6.2",
+      "text": "塔彭丝认为自己也能成为侦探大师，并尝试模仿波尔顿。",
+      "level": 2
+    },
+    {
+      "id": "7",
+      "text": "新的委托人金斯顿·布鲁斯小姐来到侦探所，报告“粉红色珍珠案”。",
+      "level": 1
+    },
+    {
+      "id": "7.1",
+      "text": "金斯顿·布鲁斯小姐的母亲住在家中，一位名叫劳拉·巴顿的女士丢失了一颗价值连城的粉红色珍珠。",
+      "level": 2
+    },
+    {
+      "id": "7.2",
+      "text": "劳拉·巴顿是已故卡罗韦伯爵的千金，其兄长曾在上议院发表演讲。",
+      "level": 2
+    },
+    {
+      "id": "7.3",
+      "text": "贝茨一家美国朋友的到来，使得珍珠的丢失更加复杂。",
+      "level": 2
+    },
+    {
+      "id": "7.4",
+      "text": "汤米和塔彭丝认为金斯顿·布鲁斯小姐本人可能偷了珠宝。",
+      "level": 2
+    },
+    {
+      "id": "7.5",
+      "text": "他们决定前往劳雷尔邸宅展开调查，汤米打算扮演桑代克，塔彭丝则扮演波尔顿。",
+      "level": 2
+    }
+  ],
+  "concepts": [
+    {
+      "name": "贝雷斯福德夫妇",
+      "frequency": 10,
+      "context": "The main protagonists, Tommy and Tuppence Beresford, who are married and bored with their domestic life, seeking adventure."
+    },
+    {
+      "name": "塔彭丝",
+      "frequency": 25,
+      "context": "One of the protagonists, Tuppence, who is restless and dreams of excitement and romance."
+    },
+    {
+      "name": "汤米",
+      "frequency": 20,
+      "context": "The other protagonist, Tommy, Tuppence's husband, who is more grounded but also open to adventure."
+    },
+    {
+      "name": "侦探所",
+      "frequency": 15,
+      "context": "The 'International Detective Agency' established by Tommy and Tuppence, a central location for their investigations."
+    },
+    {
+      "name": "冒险",
+      "frequency": 8,
+      "context": "A recurring theme and desire for the protagonists, driving their decision to open a detective agency."
+    },
+    {
+      "name": "刺激",
+      "frequency": 7,
+      "context": "The feeling of excitement and novelty that Tuppence craves in her life."
+    },
+    {
+      "name": "失踪",
+      "frequency": 5,
+      "context": "A common element in the cases encountered by the detectives, such as the disappearance of Tuppence's client, Janet."
+    },
+    {
+      "name": "珠宝",
+      "frequency": 4,
+      "context": "Valuable items that are often at the center of criminal investigations, like the pink pearl in the third chapter."
+    },
+    {
+      "name": "帽子",
+      "frequency": 5,
+      "context": "A detail related to Tuppence's shopping habits and her visit to a hat shop."
+    },
+    {
+      "name": "艾伯特",
+      "frequency": 5,
+      "context": "The reliable office boy who assists Tommy and Tuppence at the detective agency."
+    },
+    {
+      "name": "卡特先生",
+      "frequency": 3,
+      "context": "A character from the police force who recruits Tommy and Tuppence for the detective agency."
+    },
+    {
+      "name": "圣文森特",
+      "frequency": 5,
+      "context": "The real name of the client 'Smith', who is seeking a missing young woman."
+    },
+    {
+      "name": "珍妮特",
+      "frequency": 4,
+      "context": "The young woman who has gone missing and is the subject of the first client's investigation."
+    },
+    {
+      "name": "维奥莱特夫人帽店",
+      "frequency": 2,
+      "context": "A hat shop where Janet works, and where Tuppence also visits."
+    },
+    {
+      "name": "粉红色珍珠",
+      "frequency": 3,
+      "context": "A valuable jewel that is stolen in the third chapter, leading to a new investigation."
+    },
+    {
+      "name": "金斯顿·布鲁斯小姐",
+      "frequency": 4,
+      "context": "The daughter of Colonel Kingston Bruce, who reports the stolen pearl and is a client."
+    },
+    {
+      "name": "劳雷尔邱宅",
+      "frequency": 3,
+      "context": "The large estate where the Kingston Bruce family lives, the scene of the pearl theft."
+    },
+    {
+      "name": "侦探大师",
+      "frequency": 3,
+      "context": "Renowned fictional detectives like Sherlock Holmes and Dr. Thorndyke, whose styles Tommy and Tuppence try to emulate."
+    }
+  ],
+  "relations": [
+    {
+      "source": "塔彭丝",
+      "target": "汤米",
+      "type": "is_married_to"
+    },
+    {
+      "source": "贝雷斯福德夫妇",
+      "target": "国际侦探所",
+      "type": "establishes"
+    },
+    {
+      "source": "国际侦探所",
+      "target": "布伦特",
+      "type": "initially_led_by"
+    },
+    {
+      "source": "卡特先生",
+      "target": "国际侦探所",
+      "type": "recruits_for"
+    },
+    {
+      "source": "汤米",
+      "target": "布伦特",
+      "type": "impersonates"
+    },
+    {
+      "source": "塔彭丝",
+      "target": "鲁宾逊小姐",
+      "type": "impersonates"
+    },
+    {
+      "source": "圣文森特",
+      "target": "珍妮特",
+      "type": "seeks_missing"
+    },
+    {
+      "source": "珍妮特",
+      "target": "维奥莱特夫人帽店",
+      "type": "works_at"
+    },
+    {
+      "source": "劳拉·巴顿",
+      "target": "粉红色珍珠",
+      "type": "owns"
+    },
+    {
+      "source": "粉红色珍珠",
+      "target": "被盗",
+      "type": "event"
+    },
+    {
+      "source": "金斯顿·布鲁斯小姐",
+      "target": "劳雷尔邱宅",
+      "type": "resides_at"
+    },
+    {
+      "source": "金斯顿·布鲁斯上校",
+      "target": "劳雷尔邱宅",
+      "type": "resides_at"
+    },
+    {
+      "source": "汤米",
+      "target": "歇洛克·福尔摩斯",
+      "type": "emulates"
+    },
+    {
+      "source": "塔彭丝",
+      "target": "波尔顿",
+      "type": "emulates"
+    },
+    {
+      "source": "汤米",
+      "target": "照相器材",
+      "type": "uses"
+    },
+    {
+      "source": "塔彭丝",
+      "target": "帽子",
+      "type": "buys"
+    }
+  ],
+  "hierarchy": {
+    "main_topics": [
+      "Introduction and Boredom",
+      "Establishment of the Detective Agency",
+      "Early Cases and Investigations",
+      "Learning and Emulation of Detective Styles",
+      "The Pink Pearl Case"
+    ],
+    "structure": "The document is structured as a narrative, divided into chapters, detailing the characters' lives, the establishment of their detective agency, and their subsequent cases. Each chapter introduces new characters and plot developments, building towards a resolution or a new investigation."
+  }
+}

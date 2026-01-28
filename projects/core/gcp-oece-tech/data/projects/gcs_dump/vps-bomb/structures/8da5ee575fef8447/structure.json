@@ -1,0 +1,443 @@
+{
+  "propositions": [
+    {
+      "id": "1",
+      "text": "《空中疑案(云中奇案)》提供了经典的文学名著、武侠小说、言情小说、人文社科类书籍在线阅读，并提供TXT电子书手机免费下载阅读。",
+      "level": 1
+    },
+    {
+      "id": "1.1",
+      "text": "TXT小说天堂是提供经典文学名著、武侠小说、言情小说、人文社科类书籍在线阅读的文学网站。",
+      "level": 2
+    },
+    {
+      "id": "2",
+      "text": "飞机在9月9日的下午起飞，准备前往克罗伊登。",
+      "level": 1
+    },
+    {
+      "id": "2.1",
+      "text": "简·格雷在飞机上找到了自己的座位16号。",
+      "level": 2
+    },
+    {
+      "id": "3",
+      "text": "简·格雷在派尼特因赌博赢了100英镑。",
+      "level": 1
+    },
+    {
+      "id": "3.1",
+      "text": "简·格雷计划用一部分钱去旅行。",
+      "level": 2
+    },
+    {
+      "id": "3.2",
+      "text": "简·格雷在派尼特度过了10天的旅行，期间每晚参加“愉快赌博”。",
+      "level": 2
+    },
+    {
+      "id": "3.3",
+      "text": "简·格雷在赌桌上与一位年轻人发生互动，该年轻人暗示她赢了赌注。",
+      "level": 2
+    },
+    {
+      "id": "4",
+      "text": "飞机上发生了一起谋杀案：吉赛尔夫人死亡。",
+      "level": 1
+    },
+    {
+      "id": "4.1",
+      "text": "乘务员发现吉赛尔夫人的身体从座位上塌了下来。",
+      "level": 2
+    },
+    {
+      "id": "4.2",
+      "text": "布赖恩特大夫确认吉赛尔夫人已死。",
+      "level": 2
+    },
+    {
+      "id": "4.3",
+      "text": "死者脖子上发现一个痕迹，是细小的针眼。",
+      "level": 2
+    },
+    {
+      "id": "4.4",
+      "text": "在死者附近发现一个橙黑色的物品，一头是丝绒，另一头是染色针尖，被波洛识别为原始部落的武器。",
+      "level": 2
+    },
+    {
+      "id": "4.5",
+      "text": "赫邱里·波洛推测针尖上涂有毒素。",
+      "level": 2
+    },
+    {
+      "id": "5",
+      "text": "玛丽·莫里索，又名吉赛尔夫人，是一位知名的巴黎放债人。",
+      "level": 1
+    },
+    {
+      "id": "5.1",
+      "text": "梅特·亚历山大于听证会上证明死者是他的客户玛丽·安杰利克·莫里索，又名吉赛尔夫人。",
+      "level": 2
+    },
+    {
+      "id": "5.2",
+      "text": "吉赛尔夫人的业务客户多为上层和职业人士。",
+      "level": 2
+    },
+    {
+      "id": "6",
+      "text": "飞机的乘务员亨利·米切尔和艾伯特·戴维斯提供了关于发现尸体的情况。",
+      "level": 1
+    },
+    {
+      "id": "7",
+      "text": "布赖恩特大夫初步判断死者已死亡至少半个小时。",
+      "level": 1
+    },
+    {
+      "id": "8",
+      "text": "老杜邦和小杜邦是两位知名的考古学家，他们正在讨论史前陶器。",
+      "level": 1
+    },
+    {
+      "id": "9",
+      "text": "侦探小说作家克兰西先生承认购买过一支吹管，并试图将其与谋杀案撇清关系。",
+      "level": 1
+    },
+    {
+      "id": "9.1",
+      "text": "克兰西先生声称他购买的吹管是用于研究，并且现在不在他身边。",
+      "level": 2
+    },
+    {
+      "id": "10",
+      "text": "诺曼·盖尔是一位牙科医生，他在派尼特见过简·格雷。",
+      "level": 1
+    },
+    {
+      "id": "11",
+      "text": "詹姆斯·赖德先生在听证会上表示，他坐在死者前面，没有看到任何情况，除了前面的人去过洗手间。",
+      "level": 1
+    },
+    {
+      "id": "12",
+      "text": "法医詹姆斯·惠斯勒确认死因是毒素渗入血管，心脏骤然瘫痪。",
+      "level": 1
+    },
+    {
+      "id": "13",
+      "text": "政府在罕见毒品方面的首席权威亨利·温特斯普确认针头上蘸有南非剧毒蛇类“布姆斯兰”的毒汁。",
+      "level": 1
+    },
+    {
+      "id": "14",
+      "text": "警官贾普认为法国父子嫌疑最大，但波洛指出他们是考古学家。",
+      "level": 1
+    },
+    {
+      "id": "15",
+      "text": "警官贾普和赫邱里·波洛讨论案件的调查方向。",
+      "level": 1
+    },
+    {
+      "id": "15.1",
+      "text": "波洛建议详细列出乘客物品清单。",
+      "level": 2
+    },
+    {
+      "id": "16",
+      "text": "霍布里夫人对被扣留表示不满，并声称不认识死者。",
+      "level": 1
+    },
+    {
+      "id": "17",
+      "text": "维尼夏·克尔夫人提到后排有乘客在抓黄蜂，并弄死了它。",
+      "level": 1
+    },
+    {
+      "id": "18",
+      "text": "在9号座位（波洛的座位）下发现了一支由原始工艺制造的吹管，但没有指纹。",
+      "level": 1
+    },
+    {
+      "id": "19",
+      "text": "简·格雷在法庭休会后与诺曼·盖尔交谈，并接受了他的茶邀请。",
+      "level": 1
+    },
+    {
+      "id": "19.1",
+      "text": "简·格雷担心自己会因为卷入谋杀案而影响工作。",
+      "level": 2
+    },
+    {
+      "id": "20",
+      "text": "法庭审理玛丽·莫里索谋杀案，但陪审团无法确定凶手。",
+      "level": 1
+    },
+    {
+      "id": "20.1",
+      "text": "陪审团一致同意死者中毒而亡，但没有足够的证明是谁下的毒。",
+      "level": 2
+    },
+    {
+      "id": "21",
+      "text": "波洛先生认为陪审团的裁决对他不利，并且有人怀疑他是凶手。",
+      "level": 1
+    },
+    {
+      "id": "22",
+      "text": "波洛先生在案件调查中发现了一个被撕去的价格标签的吹管。",
+      "level": 1
+    }
+  ],
+  "concepts": [
+    {
+      "name": "飞机",
+      "frequency": 20,
+      "context": "空中疑案的发生地点，是整个故事的主要场景。"
+    },
+    {
+      "name": "谋杀案",
+      "frequency": 15,
+      "context": "案件的核心事件，即吉赛尔夫人的死亡。"
+    },
+    {
+      "name": "赫邱里·波洛",
+      "frequency": 12,
+      "context": "著名的侦探，参与调查此案，提供关键性的线索和推理。"
+    },
+    {
+      "name": "简·格雷",
+      "frequency": 10,
+      "context": "故事的主要视角人物之一，也是潜在的嫌疑人之一。"
+    },
+    {
+      "name": "毒素",
+      "frequency": 8,
+      "context": "导致吉赛尔夫人死亡的媒介，是案件的关键物证。"
+    },
+    {
+      "name": "吹管",
+      "frequency": 8,
+      "context": "用于发射毒针的武器，是案件的重要线索。"
+    },
+    {
+      "name": "针眼",
+      "frequency": 5,
+      "context": "死者颈部发现的致命痕迹。"
+    },
+    {
+      "name": "乘客",
+      "frequency": 15,
+      "context": "飞机上的所有人员，包括嫌疑人和证人。"
+    },
+    {
+      "name": "乘务员",
+      "frequency": 7,
+      "context": "飞机上的工作人员，提供案发时的信息。"
+    },
+    {
+      "name": "大夫",
+      "frequency": 6,
+      "context": "医学专业人士，对死者进行初步检查和判断。"
+    },
+    {
+      "name": "黄蜂",
+      "frequency": 5,
+      "context": "在飞机上出现，曾被误认为是杀人原因，后成为干扰线索。"
+    },
+    {
+      "name": "听证会",
+      "frequency": 6,
+      "context": "案件的官方调查过程，对证人进行讯问。"
+    },
+    {
+      "name": "派尼特",
+      "frequency": 5,
+      "context": "简·格雷和诺曼·盖尔的共同经历地，一个与度假和赌博相关的地方。"
+    },
+    {
+      "name": "诺曼·盖尔",
+      "frequency": 5,
+      "context": "牙科医生，与简·格雷有交集，也是潜在嫌疑人之一。"
+    },
+    {
+      "name": "吉赛尔夫人",
+      "frequency": 5,
+      "context": "受害者，身份为巴黎放债人。"
+    },
+    {
+      "name": "毒蛇",
+      "frequency": 2,
+      "context": "与毒素的来源相关，一种名为“布姆斯兰”的南非剧毒蛇。"
+    },
+    {
+      "name": "杜邦父子",
+      "frequency": 4,
+      "context": "考古学家，他们正在讨论学术问题，但也被怀疑。"
+    },
+    {
+      "name": "克兰西先生",
+      "frequency": 4,
+      "context": "侦探小说作家，承认拥有吹管，增加案件的复杂性。"
+    }
+  ],
+  "relations": [
+    {
+      "source": "飞机",
+      "target": "谋杀案",
+      "type": "setting_for"
+    },
+    {
+      "source": "赫邱里·波洛",
+      "target": "谋杀案",
+      "type": "investigates"
+    },
+    {
+      "source": "简·格雷",
+      "target": "飞机",
+      "type": "passenger_on"
+    },
+    {
+      "source": "毒素",
+      "target": "吉赛尔夫人",
+      "type": "cause_of_death_for"
+    },
+    {
+      "source": "吹管",
+      "target": "毒素",
+      "type": "delivers"
+    },
+    {
+      "source": "针眼",
+      "target": "毒素",
+      "type": "result_of"
+    },
+    {
+      "source": "吉赛尔夫人",
+      "target": "毒素",
+      "type": "killed_by"
+    },
+    {
+      "source": "乘客",
+      "target": "飞机",
+      "type": "on_board"
+    },
+    {
+      "source": "乘务员",
+      "target": "飞机",
+      "type": "works_on"
+    },
+    {
+      "source": "大夫",
+      "target": "谋杀案",
+      "type": "examines_victim_in"
+    },
+    {
+      "source": "黄蜂",
+      "target": "飞机",
+      "type": "present_on"
+    },
+    {
+      "source": "听证会",
+      "target": "谋杀案",
+      "type": "investigates"
+    },
+    {
+      "source": "派尼特",
+      "target": "简·格雷",
+      "type": "visited_by"
+    },
+    {
+      "source": "派尼特",
+      "target": "诺曼·盖尔",
+      "type": "visited_by"
+    },
+    {
+      "source": "诺曼·盖尔",
+      "target": "简·格雷",
+      "type": "met_at"
+    },
+    {
+      "source": "吉赛尔夫人",
+      "target": "放债人",
+      "type": "is_a"
+    },
+    {
+      "source": "毒蛇",
+      "target": "毒素",
+      "type": "source_of"
+    },
+    {
+      "source": "杜邦父子",
+      "target": "考古学家",
+      "type": "is_a"
+    },
+    {
+      "source": "克兰西先生",
+      "target": "侦探小说作家",
+      "type": "is_a"
+    },
+    {
+      "source": "克兰西先生",
+      "target": "吹管",
+      "type": "owns"
+    },
+    {
+      "source": "霍布里夫人",
+      "target": "乘客",
+      "type": "is_a"
+    },
+    {
+      "source": "维尼夏·克尔夫人",
+      "target": "乘客",
+      "type": "is_a"
+    },
+    {
+      "source": "吹管",
+      "target": "9号座位",
+      "type": "found_under"
+    },
+    {
+      "source": "9号座位",
+      "target": "赫邱里·波洛",
+      "type": "belonged_to"
+    },
+    {
+      "source": "简·格雷",
+      "target": "诺曼·盖尔",
+      "type": "converses_with"
+    },
+    {
+      "source": "陪审团",
+      "target": "谋杀案",
+      "type": "deliberates_on"
+    },
+    {
+      "source": "赫邱里·波洛",
+      "target": "陪审团",
+      "type": "criticizes_decision_of"
+    },
+    {
+      "source": "吹管",
+      "target": "价格标签",
+      "type": "had"
+    },
+    {
+      "source": "法庭",
+      "target": "玛丽·莫里索谋杀案",
+      "type": "holds_trial_for"
+    }
+  ],
+  "hierarchy": {
+    "main_topics": [
+      "The Setting and Initial Exposition",
+      "The Murder and Initial Investigation",
+      "The Investigation and Suspects",
+      "The Court Hearing and Verdict",
+      "Post-Trial Interactions and Ongoing Investigation"
+    ],
+    "structure": "The document is structured chronologically, following the discovery of the crime, the initial investigation by the detective, the court proceedings, and concluding with the unresolved aspects of the case and character interactions."
+  }
+}

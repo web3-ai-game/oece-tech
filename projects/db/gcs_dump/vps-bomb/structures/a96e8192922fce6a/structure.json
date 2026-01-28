@@ -1,0 +1,237 @@
+{
+  "propositions": [
+    {
+      "id": "1",
+      "text": "The narrator, Dr. Watson, returns to London after serving as a medical officer in Afghanistan, where he was wounded.",
+      "level": 1
+    },
+    {
+      "id": "1.1",
+      "text": "Watson contracted typhoid fever during his service and was sent back to England to recover.",
+      "level": 2
+    },
+    {
+      "id": "1.2",
+      "text": "He found himself in London with no friends or family and limited funds.",
+      "level": 2
+    },
+    {
+      "id": "2",
+      "text": "Watson encounters his former acquaintance, Stamford, in London.",
+      "level": 1
+    },
+    {
+      "id": "2.1",
+      "text": "Watson explains his difficult circumstances and his need for affordable accommodation.",
+      "level": 2
+    },
+    {
+      "id": "2.2",
+      "text": "Stamford mentions his acquaintance, Sherlock Holmes, who is looking for a flatmate.",
+      "level": 2
+    },
+    {
+      "id": "3",
+      "text": "Watson meets Sherlock Holmes and they agree to share lodgings at 221B Baker Street.",
+      "level": 1
+    },
+    {
+      "id": "3.1",
+      "text": "Holmes reveals his unique method of observation and deduction, impressing Watson.",
+      "level": 2
+    },
+    {
+      "id": "3.2",
+      "text": "Holmes demonstrates his knowledge by deducing Watson's military background and his origin from Afghanistan.",
+      "level": 2
+    },
+    {
+      "id": "4",
+      "text": "Watson observes Holmes's unusual habits and eclectic knowledge base.",
+      "level": 1
+    },
+    {
+      "id": "4.1",
+      "text": "Holmes possesses deep knowledge in specific areas such as chemistry, anatomy, and criminal lore, but is ignorant of general subjects like literature and philosophy.",
+      "level": 2
+    },
+    {
+      "id": "4.2",
+      "text": "Holmes explains his selective approach to knowledge acquisition, focusing only on what is useful for his work.",
+      "level": 2
+    },
+    {
+      "id": "5",
+      "text": "Holmes reveals his profession as a consulting detective.",
+      "level": 1
+    },
+    {
+      "id": "5.1",
+      "text": "He explains that he assists official and private detectives with difficult cases.",
+      "level": 2
+    },
+    {
+      "id": "5.2",
+      "text": "He claims to solve cases by applying his keen observation and deductive reasoning skills, often far exceeding those of other detectives.",
+      "level": 2
+    },
+    {
+      "id": "6",
+      "text": "A murder occurs at Lauriston Gardens, and Holmes and Watson are called to the scene.",
+      "level": 1
+    },
+    {
+      "id": "6.1",
+      "text": "The initial investigation by the police is puzzled by the lack of apparent motive, evidence of robbery, or visible wounds on the deceased.",
+      "level": 2
+    },
+    {
+      "id": "6.2",
+      "text": "Holmes demonstrates his deductive abilities by identifying a postman as a former Marine Sergeant based on subtle clues.",
+      "level": 2
+    },
+    {
+      "id": "7",
+      "text": "At the crime scene, Holmes meticulously examines the surroundings, employing his unique observational techniques.",
+      "level": 1
+    },
+    {
+      "id": "7.1",
+      "text": "He finds clues that the police have overlooked, hinting at a complex and unusual case.",
+      "level": 2
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Sherlock Holmes",
+      "frequency": 50,
+      "context": "The central character, a consulting detective with extraordinary observational and deductive abilities."
+    },
+    {
+      "name": "Dr. Watson",
+      "frequency": 35,
+      "context": "The narrator and chronicler of Holmes's cases, a medical doctor and former military officer."
+    },
+    {
+      "name": "Deduction",
+      "frequency": 15,
+      "context": "Holmes's primary method of solving mysteries, involving logical reasoning from observations."
+    },
+    {
+      "name": "Observation",
+      "frequency": 18,
+      "context": "Holmes's ability to notice minute details that others miss."
+    },
+    {
+      "name": "Afghanistan",
+      "frequency": 8,
+      "context": "The location of Watson's military service and the source of his injuries and experiences."
+    },
+    {
+      "name": "London",
+      "frequency": 12,
+      "context": "The setting for the story, where the characters live and the mysteries unfold."
+    },
+    {
+      "name": "Crime",
+      "frequency": 10,
+      "context": "The central subject of Holmes's investigations."
+    },
+    {
+      "name": "Detective",
+      "frequency": 10,
+      "context": "The profession of Sherlock Holmes and the subject of discussion with other detectives."
+    },
+    {
+      "name": "Medical Doctor",
+      "frequency": 5,
+      "context": "Watson's profession and a characteristic that Holmes can deduce."
+    },
+    {
+      "name": "Chemicals",
+      "frequency": 6,
+      "context": "Used by Holmes in his experiments and related to his scientific knowledge."
+    },
+    {
+      "name": "Case",
+      "frequency": 7,
+      "context": "A specific investigation or mystery that Holmes undertakes."
+    },
+    {
+      "name": "Evidence",
+      "frequency": 5,
+      "context": "Details and clues used by Holmes to solve cases."
+    },
+    {
+      "name": "Scotland Yard",
+      "frequency": 3,
+      "context": "The official police force in London, often contrasted with Holmes's methods."
+    },
+    {
+      "name": "Lauriston Gardens",
+      "frequency": 5,
+      "context": "The location of the first major case presented in the document."
+    }
+  ],
+  "relations": [
+    {
+      "source": "Dr. Watson",
+      "target": "Sherlock Holmes",
+      "type": "is_flatmate_of"
+    },
+    {
+      "source": "Dr. Watson",
+      "target": "Afghanistan",
+      "type": "served_in"
+    },
+    {
+      "source": "Sherlock Holmes",
+      "target": "Deduction",
+      "type": "uses"
+    },
+    {
+      "source": "Sherlock Holmes",
+      "target": "Observation",
+      "type": "uses"
+    },
+    {
+      "source": "Sherlock Holmes",
+      "target": "Detective",
+      "type": "is_a"
+    },
+    {
+      "source": "Crime",
+      "target": "Sherlock Holmes",
+      "type": "investigated_by"
+    },
+    {
+      "source": "Lauriston Gardens",
+      "target": "Crime",
+      "type": "location_of"
+    },
+    {
+      "source": "Scotland Yard",
+      "target": "Detective",
+      "type": "is_a_type_of"
+    },
+    {
+      "source": "Dr. Watson",
+      "target": "Medical Doctor",
+      "type": "is_a"
+    },
+    {
+      "source": "Sherlock Holmes",
+      "target": "Chemicals",
+      "type": "uses"
+    }
+  ],
+  "hierarchy": {
+    "main_topics": [
+      "Introduction of Dr. Watson and his return to London",
+      "Meeting Sherlock Holmes and establishing lodgings",
+      "Introduction to Sherlock Holmes's methods and profession",
+      "The Lauriston Gardens murder case"
+    ],
+    "structure": "The document follows a chronological narrative, introducing characters and setting before delving into specific cases. It is structured into three numbered sections: '一 歇洛克·福尔摩斯先生' (Mr. Sherlock Holmes), '二 演绎法' (The Science of Deduction), and '三 劳瑞斯顿花园街的惨案' (The Tragedy of Lauriston Gardens)."
+  }
+}

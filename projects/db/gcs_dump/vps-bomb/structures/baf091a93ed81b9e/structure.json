@@ -1,0 +1,336 @@
+{
+  "propositions": [
+    {
+      "id": "1",
+      "text": "The document is titled '凤舞苍穹(女尊)'.",
+      "level": 1
+    },
+    {
+      "id": "1.1",
+      "text": "It begins with a '楔子' (prologue).",
+      "level": 2
+    },
+    {
+      "id": "1.1.1",
+      "text": "The prologue depicts a scene involving the Emperor, Empress, and the Crown Prince.",
+      "level": 3
+    },
+    {
+      "id": "1.1.1.1",
+      "text": "The Empress has gone to catch someone in the act of infidelity.",
+      "level": 4
+    },
+    {
+      "id": "1.1.1.2",
+      "text": "The person caught is identified as the Crown Prince.",
+      "level": 4
+    },
+    {
+      "id": "1.2",
+      "text": "The document is then divided into numbered chapters.",
+      "level": 2
+    },
+    {
+      "id": "1.2.1",
+      "text": "Chapter 1 is titled '偷情' (Adultery).",
+      "level": 3
+    },
+    {
+      "id": "1.2.2",
+      "text": "Chapter 2 is titled '祭天' (Sacrifice to Heaven).",
+      "level": 3
+    },
+    {
+      "id": "1.2.3",
+      "text": "Chapter 3 is titled '醉酒' (Drunkenness).",
+      "level": 3
+    },
+    {
+      "id": "1.2.4",
+      "text": "Chapter 4 is titled '刺杀' (Assassination).",
+      "level": 3
+    },
+    {
+      "id": "1.2.5",
+      "text": "Chapter 5 is titled '救人' (Saving People).",
+      "level": 3
+    },
+    {
+      "id": "1.2.6",
+      "text": "Chapter 6 is titled '离开' (Leaving).",
+      "level": 3
+    },
+    {
+      "id": "1.2.7",
+      "text": "Chapter 7 is titled '归来' (Returning).",
+      "level": 3
+    },
+    {
+      "id": "1.2.8",
+      "text": "Chapter 8 is titled '权势' (Power).",
+      "level": 3
+    },
+    {
+      "id": "1.2.9",
+      "text": "Chapter 9 is titled '决裂' (Rupture).",
+      "level": 3
+    },
+    {
+      "id": "1.2.10",
+      "text": "Chapter 10 is titled '往事' (Past Events).",
+      "level": 3
+    },
+    {
+      "id": "1.2.11",
+      "text": "Chapter 11 is titled '仇恨' (Hatred).",
+      "level": 3
+    },
+    {
+      "id": "1.2.12",
+      "text": "Chapter 12 is titled '遗嘱' (Will).",
+      "level": 3
+    },
+    {
+      "id": "1.2.13",
+      "text": "Chapter 13 is titled '承诺' (Promise).",
+      "level": 3
+    },
+    {
+      "id": "1.2.14",
+      "text": "Chapter 14 is titled '救赎' (Redemption).",
+      "level": 3
+    },
+    {
+      "id": "1.2.15",
+      "text": "Chapter 15 is titled '终结' (Conclusion).",
+      "level": 3
+    }
+  ],
+  "concepts": [
+    {
+      "name": "凤舞苍穹",
+      "frequency": 1,
+      "context": "Document title, suggesting a celestial or epic theme."
+    },
+    {
+      "name": "女尊",
+      "frequency": 1,
+      "context": "Indicates a 'female-dominant' theme in the story."
+    },
+    {
+      "name": "皇上",
+      "frequency": 1,
+      "context": "Refers to the Emperor, a central figure in the prologue."
+    },
+    {
+      "name": "皇后娘娘",
+      "frequency": 1,
+      "context": "Refers to the Empress, a central figure in the prologue involved in 'catching' someone."
+    },
+    {
+      "name": "东宫太子",
+      "frequency": 1,
+      "context": "Refers to the Crown Prince, implicated in infidelity in the prologue."
+    },
+    {
+      "name": "偷情",
+      "frequency": 1,
+      "context": "Title of Chapter 1, directly related to the prologue's events."
+    },
+    {
+      "name": "祭天",
+      "frequency": 1,
+      "context": "Title of Chapter 2, suggesting a ritualistic or significant event."
+    },
+    {
+      "name": "醉酒",
+      "frequency": 1,
+      "context": "Title of Chapter 3, implying a state of intoxication and its consequences."
+    },
+    {
+      "name": "刺杀",
+      "frequency": 1,
+      "context": "Title of Chapter 4, indicating an act of violence or attempt on someone's life."
+    },
+    {
+      "name": "救人",
+      "frequency": 1,
+      "context": "Title of Chapter 5, suggesting an act of rescue or deliverance."
+    },
+    {
+      "name": "离开",
+      "frequency": 1,
+      "context": "Title of Chapter 6, implying departure or separation."
+    },
+    {
+      "name": "归来",
+      "frequency": 1,
+      "context": "Title of Chapter 7, indicating a return or reappearance."
+    },
+    {
+      "name": "权势",
+      "frequency": 1,
+      "context": "Title of Chapter 8, focusing on themes of power and influence."
+    },
+    {
+      "name": "决裂",
+      "frequency": 1,
+      "context": "Title of Chapter 9, suggesting a breakdown in relationships or alliances."
+    },
+    {
+      "name": "往事",
+      "frequency": 1,
+      "context": "Title of Chapter 10, indicating a focus on past events and history."
+    },
+    {
+      "name": "仇恨",
+      "frequency": 1,
+      "context": "Title of Chapter 11, highlighting themes of animosity and revenge."
+    },
+    {
+      "name": "遗嘱",
+      "frequency": 1,
+      "context": "Title of Chapter 12, suggesting a testament or final instructions."
+    },
+    {
+      "name": "承诺",
+      "frequency": 1,
+      "context": "Title of Chapter 13, implying a pledge or commitment."
+    },
+    {
+      "name": "救赎",
+      "frequency": 1,
+      "context": "Title of Chapter 14, indicating a process of salvation or atonement."
+    },
+    {
+      "name": "终结",
+      "frequency": 1,
+      "context": "Title of Chapter 15, marking the final part of the narrative."
+    }
+  ],
+  "relations": [
+    {
+      "source": "楔子",
+      "target": "皇上",
+      "type": "involves"
+    },
+    {
+      "source": "楔子",
+      "target": "皇后娘娘",
+      "type": "involves"
+    },
+    {
+      "source": "皇后娘娘",
+      "target": "带人去捉奸",
+      "type": "action"
+    },
+    {
+      "source": "楔子",
+      "target": "东宫太子",
+      "type": "involves"
+    },
+    {
+      "source": "东宫太子",
+      "target": "偷情",
+      "type": "implied_action"
+    },
+    {
+      "source": "第一章",
+      "target": "偷情",
+      "type": "is_titled"
+    },
+    {
+      "source": "第二章",
+      "target": "祭天",
+      "type": "is_titled"
+    },
+    {
+      "source": "第三章",
+      "target": "醉酒",
+      "type": "is_titled"
+    },
+    {
+      "source": "第四章",
+      "target": "刺杀",
+      "type": "is_titled"
+    },
+    {
+      "source": "第五章",
+      "target": "救人",
+      "type": "is_titled"
+    },
+    {
+      "source": "第六章",
+      "target": "离开",
+      "type": "is_titled"
+    },
+    {
+      "source": "第七章",
+      "target": "归来",
+      "type": "is_titled"
+    },
+    {
+      "source": "第八章",
+      "target": "权势",
+      "type": "is_titled"
+    },
+    {
+      "source": "第九章",
+      "target": "决裂",
+      "type": "is_titled"
+    },
+    {
+      "source": "第十章",
+      "target": "往事",
+      "type": "is_titled"
+    },
+    {
+      "source": "第十一章",
+      "target": "仇恨",
+      "type": "is_titled"
+    },
+    {
+      "source": "第十二章",
+      "target": "遗嘱",
+      "type": "is_titled"
+    },
+    {
+      "source": "第十三章",
+      "target": "承诺",
+      "type": "is_titled"
+    },
+    {
+      "source": "第十四章",
+      "target": "救赎",
+      "type": "is_titled"
+    },
+    {
+      "source": "第十五章",
+      "target": "终结",
+      "type": "is_titled"
+    },
+    {
+      "source": "凤舞苍穹",
+      "target": "女尊",
+      "type": "contains_theme"
+    },
+    {
+      "source": "偷情",
+      "target": "东宫太子",
+      "type": "theme_related_to"
+    },
+    {
+      "source": "偷情",
+      "target": "皇后娘娘",
+      "type": "theme_related_to"
+    }
+  ],
+  "hierarchy": {
+    "main_topics": [
+      "Title: 凤舞苍穹(女尊)",
+      "Prologue (楔子)",
+      "Chapters (1-15)"
+    ],
+    "structure": "The document is structured with a title, a prologue, and a series of numbered chapters. The prologue sets up an initial conflict, and the subsequent chapters present themes and events that likely develop the narrative. The chapter titles indicate a progression of plot points and thematic elements."
+  }
+}

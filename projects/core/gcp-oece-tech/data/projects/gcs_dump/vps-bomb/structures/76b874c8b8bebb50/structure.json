@@ -1,0 +1,143 @@
+{
+  "propositions": [
+    {
+      "id": "1",
+      "text": "凤舞苍穹 represents a female-dominated world where women are the central figures of power and independence.",
+      "level": 1
+    },
+    {
+      "id": "1.1",
+      "text": "凤舞苍穹 symbolizes freedom, strength, and a transcendent life force through the imagery of a phoenix dancing in the sky.",
+      "level": 2
+    },
+    {
+      "id": "1.2",
+      "text": "In this world, women are not dependents but creators of their destiny, embodying wisdom, courage, and power.",
+      "level": 2
+    },
+    {
+      "id": "2",
+      "text": "凤舞九天 signifies a divine connection and the highest form of glory for women in a female-dominated society.",
+      "level": 1
+    },
+    {
+      "id": "2.1",
+      "text": "It represents a dialogue with the heavens and a recognition of women's value and responsibility.",
+      "level": 2
+    },
+    {
+      "id": "3",
+      "text": "巾帼风华 praises women's beauty, talent, and contributions across various domains in a female-centric world.",
+      "level": 1
+    },
+    {
+      "id": "3.1",
+      "text": "It highlights women's role as protectors and creators who shape the world's structure with their capabilities.",
+      "level": 2
+    },
+    {
+      "id": "4",
+      "text": "巾帼须眉 emphasizes the blend of feminine grace and masculine strength in women, promoting a holistic view of gender roles.",
+      "level": 1
+    },
+    {
+      "id": "5",
+      "text": "勇冠三军 showcases women's military prowess and leadership in battle, redefining traditional gender roles in warfare.",
+      "level": 1
+    },
+    {
+      "id": "6",
+      "text": "巾帼豪情 celebrates women's fearless spirit and heroic deeds in facing challenges and injustices.",
+      "level": 1
+    },
+    {
+      "id": "7",
+      "text": "皇权至上 underscores the absolute power held by female rulers, portraying them as the ultimate authority in governance.",
+      "level": 1
+    },
+    {
+      "id": "8",
+      "text": "宫廷秘史 explores the hidden intrigues and strategic brilliance of women in the political arena of the court.",
+      "level": 1
+    },
+    {
+      "id": "9",
+      "text": "男宠三千 reflects the reversal of traditional gender dynamics, with men as subordinates in a female-ruled society.",
+      "level": 1
+    },
+    {
+      "id": "10",
+      "text": "塞外风云 and 边关明月 depict women's sacrifices and valor in defending national borders, highlighting their dedication.",
+      "level": 1
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Female Dominance",
+      "frequency": 15,
+      "context": "Central theme of women holding power and authority in society."
+    },
+    {
+      "name": "Phoenix Imagery",
+      "frequency": 5,
+      "context": "Symbol of freedom, strength, and transcendence associated with women."
+    },
+    {
+      "name": "Gender Role Reversal",
+      "frequency": 8,
+      "context": "Men as subordinates and women as rulers, challenging traditional norms."
+    },
+    {
+      "name": "Power and Responsibility",
+      "frequency": 10,
+      "context": "Emphasis on women's duty alongside their authority and influence."
+    },
+    {
+      "name": "Military Valor",
+      "frequency": 4,
+      "context": "Women's courage and strategic skills in warfare and defense."
+    }
+  ],
+  "relations": [
+    {
+      "source": "Female Dominance",
+      "target": "Power and Responsibility",
+      "type": "implies"
+    },
+    {
+      "source": "Phoenix Imagery",
+      "target": "Female Dominance",
+      "type": "symbolizes"
+    },
+    {
+      "source": "Gender Role Reversal",
+      "target": "Female Dominance",
+      "type": "part_of"
+    },
+    {
+      "source": "Military Valor",
+      "target": "Female Dominance",
+      "type": "supports"
+    },
+    {
+      "source": "Power and Responsibility",
+      "target": "Military Valor",
+      "type": "entails"
+    }
+  ],
+  "hierarchy": {
+    "main_topics": [
+      "凤舞苍穹",
+      "凤舞九天",
+      "巾帼风华",
+      "巾帼须眉",
+      "勇冠三军",
+      "巾帼豪情",
+      "皇权至上",
+      "宫廷秘史",
+      "男宠三千",
+      "塞外风云"
+    ],
+    "structure": "The document is structured as a series of thematic chapters, each focusing on a specific aspect of female empowerment and societal roles in a female-dominated world, using symbolic titles and narratives to build a cohesive ideological framework."
+  }
+}

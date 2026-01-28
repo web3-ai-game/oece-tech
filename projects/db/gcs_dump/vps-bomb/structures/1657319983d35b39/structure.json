@@ -1,0 +1,502 @@
+{
+  "propositions": [
+    {
+      "id": "1",
+      "text": "The narrator's journey from a treasure appraiser to a tomb raider is recounted.",
+      "level": 1
+    },
+    {
+      "id": "1.1",
+      "text": "The narrator's auction company went bankrupt in Beijing.",
+      "level": 2
+    },
+    {
+      "id": "1.2",
+      "text": "The narrator was forced to move out of the company dormitory immediately.",
+      "level": 2
+    },
+    {
+      "id": "1.3",
+      "text": "Due to high rent and being a 'moonlight clan' (spending all income), the narrator could not afford to rent an apartment in Beijing.",
+      "level": 2
+    },
+    {
+      "id": "1.4",
+      "text": "The narrator had to temporarily live in a basement.",
+      "level": 2
+    },
+    {
+      "id": "1.5",
+      "text": "The narrator spent three months searching for a job, waiting for calls outside the basement due to no phone signal.",
+      "level": 2
+    },
+    {
+      "id": "1.6",
+      "text": "The narrator's father fell ill with appendicitis, requiring money for surgery.",
+      "level": 2
+    },
+    {
+      "id": "1.7",
+      "text": "The narrator's family was poor and could not afford the surgery costs.",
+      "level": 2
+    },
+    {
+      "id": "1.8",
+      "text": "The narrator decided to pawn a butterfly-shaped jade pendant.",
+      "level": 2
+    },
+    {
+      "id": "1.9",
+      "text": "The jade pendant was identified as a relic from the Spring and Autumn and Warring States periods.",
+      "level": 2
+    },
+    {
+      "id": "1.10",
+      "text": "The jade pendant was incomplete, reducing its value.",
+      "level": 2
+    },
+    {
+      "id": "1.11",
+      "text": "The narrator pawned the jade pendant for 3,000 yuan, which was insufficient for the surgery.",
+      "level": 2
+    },
+    {
+      "id": "1.12",
+      "text": "The narrator asked the pawnbroker to lend more money, explaining the situation.",
+      "level": 2
+    },
+    {
+      "id": "1.13",
+      "text": "The pawnbroker could not lend more due to company regulations and personal financial responsibilities.",
+      "level": 2
+    },
+    {
+      "id": "1.14",
+      "text": "The pawnbroker suggested selling the jade pendant to the company for more money.",
+      "level": 2
+    },
+    {
+      "id": "1.15",
+      "text": "The narrator agreed to sell the jade pendant.",
+      "level": 2
+    },
+    {
+      "id": "1.16",
+      "text": "The pawnbroker's manager, Tao Dahai, appraised the jade pendant.",
+      "level": 2
+    },
+    {
+      "id": "1.17",
+      "text": "The narrator revealed he was a former treasure appraiser.",
+      "level": 2
+    },
+    {
+      "id": "1.18",
+      "text": "Tao Dahai recognized the narrator's former company and agreed to buy the jade pendant for 8,000 yuan.",
+      "level": 2
+    },
+    {
+      "id": "1.19",
+      "text": "With the money, the narrator's financial problems were resolved, and he resumed his job search.",
+      "level": 2
+    },
+    {
+      "id": "1.20",
+      "text": "Tao Dahai contacted the narrator, inviting him to his place for a favor.",
+      "level": 2
+    },
+    {
+      "id": "1.21",
+      "text": "Tao Dahai explained that a client was interested in the jade pendant and wanted to meet the narrator.",
+      "level": 2
+    },
+    {
+      "id": "1.22",
+      "text": "Tao Dahai drove the narrator to a villa.",
+      "level": 2
+    },
+    {
+      "id": "1.23",
+      "text": "At the villa, they met Mr. Cai Yufei and his daughter, Cai Lin.",
+      "level": 2
+    },
+    {
+      "id": "1.24",
+      "text": "Cai Yufei was interested in the origin of the jade pendant.",
+      "level": 2
+    },
+    {
+      "id": "1.25",
+      "text": "The narrator recounted finding the jade pendant in a tomb discovered by a bricklayer near his grandmother's village in Xiangxi.",
+      "level": 2
+    },
+    {
+      "id": "1.26",
+      "text": "The tomb was described as a long, greenish, ancient structure with inscriptions.",
+      "level": 2
+    },
+    {
+      "id": "1.27",
+      "text": "Cai Yufei revealed he was also an archaeology graduate and that the jade pendant was important to his family.",
+      "level": 2
+    },
+    {
+      "id": "1.28",
+      "text": "Cai Yufei and Cai Lin proposed to travel to the narrator's grandmother's village in Xiangxi, offering him 100,000 yuan as labor fee.",
+      "level": 2
+    },
+    {
+      "id": "1.29",
+      "text": "The narrator initially hesitated due to the dangers of the village, which had a history of internal conflict and the prevalence of black witchcraft.",
+      "level": 2
+    },
+    {
+      "id": "1.30",
+      "text": "Cai Lin insisted on going, stating it was a family mission to retrieve something from the ancient tomb.",
+      "level": 2
+    },
+    {
+      "id": "1.31",
+      "text": "The narrator agreed to guide them, refusing payment for the journey itself but requesting reimbursement for travel and living expenses.",
+      "level": 2
+    },
+    {
+      "id": "1.32",
+      "text": "Cai Yufei arranged for the narrator to stay at his villa and depart with Cai Lin the next day.",
+      "level": 2
+    },
+    {
+      "id": "1.33",
+      "text": "The narrator got drunk during dinner with Cai Yufei and Cai Lin, unable to pry information about the item they sought.",
+      "level": 2
+    },
+    {
+      "id": "2",
+      "text": "The narrator wakes up by a river after a night's sleep.",
+      "level": 1
+    },
+    {
+      "id": "2.1",
+      "text": "Cai Lin is also awake and preparing to wash her face by the river.",
+      "level": 2
+    },
+    {
+      "id": "2.2",
+      "text": "They are at the foot of a steep, densely forested mountain.",
+      "level": 2
+    },
+    {
+      "id": "2.3",
+      "text": "The narrator realizes they narrowly escaped being swept away by the turbulent river.",
+      "level": 2
+    },
+    {
+      "id": "2.4",
+      "text": "Cai Lin teases the narrator about his decision to swim towards their current location.",
+      "level": 2
+    },
+    {
+      "id": "2.5",
+      "text": "The narrator expresses confidence in his survival and future.",
+      "level": 2
+    },
+    {
+      "id": "2.6",
+      "text": "The narrator makes a playful remark about Cai Lin resembling his future wife.",
+      "level": 2
+    },
+    {
+      "id": "2.7",
+      "text": "The narrator describes Cai Lin as pure-hearted and a bit naive.",
+      "level": 2
+    },
+    {
+      "id": "2.8",
+      "text": "A playful water fight ensues between the narrator and Cai Lin.",
+      "level": 2
+    },
+    {
+      "id": "2.9",
+      "text": "Cai Lin asks about the direction of Phoenix Village.",
+      "level": 2
+    },
+    {
+      "id": "2.10",
+      "text": "The narrator determines Phoenix Village is to the east and they are to the south, with the river flowing south to east.",
+      "level": 2
+    },
+    {
+      "id": "2.11",
+      "text": "They decide to climb the mountain as the river is not a viable route.",
+      "level": 2
+    },
+    {
+      "id": "2.12",
+      "text": "Lao Qi, a companion, wakes up and asks if they saw Old Wang's (the boatman's) body.",
+      "level": 2
+    },
+    {
+      "id": "2.13",
+      "text": "They confirm they did not see Old Wang's body, assuming it was washed away.",
+      "level": 2
+    },
+    {
+      "id": "2.14",
+      "text": "Lao Qi expresses remorse for Old Wang's presumed death, as he was the one who hired him.",
+      "level": 2
+    },
+    {
+      "id": "2.15",
+      "text": "Cai Lin offers to provide 100,000 yuan for Old Wang's elderly mother as compensation.",
+      "level": 2
+    },
+    {
+      "id": "2.16",
+      "text": "Lao Qi is grateful for their generosity.",
+      "level": 2
+    },
+    {
+      "id": "2.17",
+      "text": "They discuss the impassable river and the necessity of climbing the mountain.",
+      "level": 2
+    },
+    {
+      "id": "2.18",
+      "text": "Lao Qi identifies the mountain as the legendary 'Ghost Mountain,' known for its dangers and rumored inhabitants.",
+      "level": 2
+    },
+    {
+      "id": "2.19",
+      "text": "The narrator explains the 'Ghost Mountain' legend and its history of fatalities.",
+      "level": 2
+    },
+    {
+      "id": "2.20",
+      "text": "Lao Qi decides they will climb the mountain from the east towards Phoenix Village for mutual support.",
+      "level": 2
+    },
+    {
+      "id": "2.21",
+      "text": "Lao Qi collects some ash from the campfire, claiming it might be useful.",
+      "level": 2
+    },
+    {
+      "id": "2.22",
+      "text": "They begin their ascent of the 'Ghost Mountain,' finding it manageable with the help of vines.",
+      "level": 2
+    },
+    {
+      "id": "2.23",
+      "text": "Upon reaching the summit, they discover the mountain is vast and densely forested, with more walking ahead.",
+      "level": 2
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Jade Pendant",
+      "frequency": 10,
+      "context": "Central to the narrator's immediate financial problem and the reason for meeting Cai Yufei and Cai Lin. Its historical significance and incomplete state are discussed."
+    },
+    {
+      "name": "Narrator (Prince An)",
+      "frequency": 20,
+      "context": "The protagonist, detailing his fall from being a treasure appraiser to a tomb raider due to bankruptcy. His personality is revealed through his interactions and thoughts."
+    },
+    {
+      "name": "Tao Dahai",
+      "frequency": 6,
+      "context": "The pawnbroker's manager who buys the jade pendant and later connects the narrator with Cai Yufei. Acts as a facilitator."
+    },
+    {
+      "name": "Cai Yufei",
+      "frequency": 10,
+      "context": "An elder, interested in the narrator's jade pendant and its origin. He reveals a long-standing family quest related to it."
+    },
+    {
+      "name": "Cai Lin",
+      "frequency": 15,
+      "context": "Cai Yufei's daughter, who accompanies the narrator on the journey. She is portrayed as capable and determined, learning self-defense and possessing a strong will."
+    },
+    {
+      "name": "Ancient Tomb",
+      "frequency": 5,
+      "context": "The discovery site of the jade pendant, believed to be from the Chu period. Its description and the surrounding legend are significant."
+    },
+    {
+      "name": "Phoenix Village",
+      "frequency": 10,
+      "context": "The narrator's grandmother's village in Xiangxi, which is a focal point of the family's quest. It is described as remote and having peculiar customs and a history of internal conflict."
+    },
+    {
+      "name": "Witchcraft/Black Magic",
+      "frequency": 8,
+      "context": "Prominent in Phoenix Village, especially the 'black witchcraft' associated with 'gu' (curses/hexes). It is presented as a dangerous and fearful practice."
+    },
+    {
+      "name": "Ghost Mountain",
+      "frequency": 6,
+      "context": "A treacherous mountain on the path to Phoenix Village, known for its dangers and local legends of monsters."
+    },
+    {
+      "name": "Lao Qi",
+      "frequency": 7,
+      "context": "A companion encountered by the narrator and Cai Lin. He is knowledgeable about local legends and shows remorse for the boatman's death, highlighting his compassionate nature."
+    },
+    {
+      "name": "Bankruptcy",
+      "frequency": 2,
+      "context": "The catalyst for the narrator's downfall, leading to his financial struggles and subsequent descent into tomb raiding."
+    },
+    {
+      "name": "Treasure Appraiser",
+      "frequency": 2,
+      "context": "The narrator's former profession, which equipped him with knowledge of artifacts but did not prevent his financial ruin."
+    },
+    {
+      "name": "Tomb Raider",
+      "frequency": 1,
+      "context": "The narrator's current, involuntary profession, driven by necessity."
+    },
+    {
+      "name": "Family Quest",
+      "frequency": 3,
+      "context": "The centuries-long search by Cai Yufei's family for a specific item, connecting to the ancient tomb and Phoenix Village."
+    },
+    {
+      "name": "Gu (Curses/Hexes)",
+      "frequency": 4,
+      "context": "A specific type of black witchcraft feared in Phoenix Village, capable of causing severe illness and death."
+    }
+  ],
+  "relations": [
+    {
+      "source": "Narrator",
+      "target": "Bankruptcy",
+      "type": "cause_of"
+    },
+    {
+      "source": "Narrator",
+      "target": "Jade Pendant",
+      "type": "owns"
+    },
+    {
+      "source": "Narrator",
+      "target": "Tao Dahai",
+      "type": "interacts_with"
+    },
+    {
+      "source": "Tao Dahai",
+      "target": "Cai Yufei",
+      "type": "introduces_to"
+    },
+    {
+      "source": "Narrator",
+      "target": "Cai Yufei",
+      "type": "interacts_with"
+    },
+    {
+      "source": "Narrator",
+      "target": "Cai Lin",
+      "type": "travels_with"
+    },
+    {
+      "source": "Cai Yufei",
+      "target": "Family Quest",
+      "type": "leads"
+    },
+    {
+      "source": "Cai Lin",
+      "target": "Family Quest",
+      "type": "participates_in"
+    },
+    {
+      "source": "Family Quest",
+      "target": "Ancient Tomb",
+      "type": "related_to"
+    },
+    {
+      "source": "Family Quest",
+      "target": "Phoenix Village",
+      "type": "related_to"
+    },
+    {
+      "source": "Phoenix Village",
+      "target": "Witchcraft/Black Magic",
+      "type": "practices"
+    },
+    {
+      "source": "Phoenix Village",
+      "target": "Ghost Mountain",
+      "type": "adjacent_to"
+    },
+    {
+      "source": "Narrator",
+      "target": "Phoenix Village",
+      "type": "guides"
+    },
+    {
+      "source": "Narrator",
+      "target": "Ghost Mountain",
+      "type": "traverses"
+    },
+    {
+      "source": "Narrator",
+      "target": "Lao Qi",
+      "type": "travels_with"
+    },
+    {
+      "source": "Cai Lin",
+      "target": "Lao Qi",
+      "type": "interacts_with"
+    },
+    {
+      "source": "Lao Qi",
+      "target": "Ghost Mountain",
+      "type": "warns_about"
+    },
+    {
+      "source": "Lao Qi",
+      "target": "Old Wang",
+      "type": "employer_of"
+    },
+    {
+      "source": "Old Wang",
+      "target": "River",
+      "type": "lost_in"
+    },
+    {
+      "source": "Cai Lin",
+      "target": "Old Wang's Mother",
+      "type": "offers_support_to"
+    },
+    {
+      "source": "Jade Pendant",
+      "target": "Ancient Tomb",
+      "type": "found_in"
+    },
+    {
+      "source": "Narrator",
+      "target": "Treasure Appraiser",
+      "type": "was_a"
+    },
+    {
+      "source": "Narrator",
+      "target": "Tomb Raider",
+      "type": "became_a"
+    },
+    {
+      "source": "Gu (Curses/Hexes)",
+      "target": "Witchcraft/Black Magic",
+      "type": "is_a_type_of"
+    }
+  ],
+  "hierarchy": {
+    "main_topics": [
+      "Narrator's Downfall and Financial Struggles",
+      "The Jade Pendant and the Encounter with Cai Family",
+      "The Journey to Xiangxi and the Mystery of Phoenix Village",
+      "The 'Ghost Mountain' and the Perils Ahead"
+    ],
+    "structure": "The document follows a chronological narrative, starting with the protagonist's backstory and transition to his current predicament. It then details his interactions with new characters, leading to an unexpected quest, and finally sets the stage for the subsequent journey, highlighting the dangers and mysteries ahead."
+  }
+}

@@ -1,0 +1,181 @@
+{
+  "propositions": [
+    {
+      "id": "1",
+      "text": "The document contains information about Chapter 750.",
+      "level": 1
+    },
+    {
+      "id": "1.1",
+      "text": "The timestamp for Chapter 750 is 08-07-09 20:02.",
+      "level": 2
+    },
+    {
+      "id": "2",
+      "text": "A female official is speaking.",
+      "level": 1
+    },
+    {
+      "id": "2.1",
+      "text": "The female official is smiling discreetly.",
+      "level": 2
+    },
+    {
+      "id": "2.2",
+      "text": "The female official is addressing someone named 'Zhi'.",
+      "level": 2
+    },
+    {
+      "id": "2.3",
+      "text": "The female official indicates that it is almost ten o'clock and they need to rest.",
+      "level": 2
+    },
+    {
+      "id": "2.4",
+      "text": "The female official asks if a task has been completed.",
+      "level": 2
+    },
+    {
+      "id": "3",
+      "text": "A plan was initiated a week prior.",
+      "level": 1
+    },
+    {
+      "id": "3.1",
+      "text": "The plan involves identifying who it is for.",
+      "level": 2
+    },
+    {
+      "id": "3.2",
+      "text": "The plan involves identifying what items are needed.",
+      "level": 2
+    },
+    {
+      "id": "3.3",
+      "text": "The current moment is described as 'just the beginning' of the plan's execution.",
+      "level": 2
+    },
+    {
+      "id": "4",
+      "text": "Someone is questioning the nature of the plan.",
+      "level": 1
+    },
+    {
+      "id": "4.1",
+      "text": "The question is whether the plan is 'just a plan'.",
+      "level": 2
+    },
+    {
+      "id": "4.2",
+      "text": "The response to the question is 'Mm'.",
+      "level": 2
+    },
+    {
+      "id": "5",
+      "text": "The questioner reiterates their doubt about the plan.",
+      "level": 1
+    },
+    {
+      "id": "5.1",
+      "text": "The reiteration uses repeated interrogative phrases ('what, what, you what').",
+      "level": 2
+    },
+    {
+      "id": "5.2",
+      "text": "The response to the reiterated question is also 'Mm'.",
+      "level": 2
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Plan",
+      "frequency": 6,
+      "context": "The concept of a 'plan' is central to the dialogue, with questions about its nature and execution."
+    },
+    {
+      "name": "Time",
+      "frequency": 3,
+      "context": "Refers to both a specific timestamp and the general concept of time in relation to resting."
+    },
+    {
+      "name": "Chapter",
+      "frequency": 1,
+      "context": "Specifically refers to 'Chapter 750'."
+    },
+    {
+      "name": "Official",
+      "frequency": 1,
+      "context": "Identifies a 'female official'."
+    },
+    {
+      "name": "Rest",
+      "frequency": 1,
+      "context": "Indicates the need to cease activity due to the time."
+    },
+    {
+      "name": "Execution",
+      "frequency": 1,
+      "context": "Implied by 'just the beginning' of the plan."
+    },
+    {
+      "name": "Doubt",
+      "frequency": 2,
+      "context": "Expressed through repeated questioning about the plan."
+    }
+  ],
+  "relations": [
+    {
+      "source": "Chapter 750",
+      "target": "Timestamp 08-07-09 20:02",
+      "type": "has_attribute"
+    },
+    {
+      "source": "Female official",
+      "target": "Smile",
+      "type": "exhibits"
+    },
+    {
+      "source": "Female official",
+      "target": "Address Zhi",
+      "type": "performs_action"
+    },
+    {
+      "source": "Female official",
+      "target": "Need to rest",
+      "type": "states"
+    },
+    {
+      "source": "Plan",
+      "target": "Initiated a week prior",
+      "type": "has_temporal_property"
+    },
+    {
+      "source": "Plan",
+      "target": "Requires planning",
+      "type": "is_a"
+    },
+    {
+      "source": "Plan",
+      "target": "Execution",
+      "type": "is_followed_by"
+    },
+    {
+      "source": "Questioner",
+      "target": "Doubt about plan",
+      "type": "expresses"
+    },
+    {
+      "source": "Doubt about plan",
+      "target": "Is it 'just a plan'?",
+      "type": "manifests_as"
+    }
+  ],
+  "hierarchy": {
+    "main_topics": [
+      "Document Structure (Chapter/符录)",
+      "Dialogue and Interaction",
+      "Concept of Planning"
+    ],
+    "structure": "The document is structured with a main title, followed by a 'Table of Contents' (符录) section which contains a specific entry (符录一) that includes chapter information and the beginning of narrative text. The narrative text primarily consists of a dialogue between a female official and another person, discussing a plan."
+  }
+}

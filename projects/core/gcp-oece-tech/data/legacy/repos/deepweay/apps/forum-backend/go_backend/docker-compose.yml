@@ -1,0 +1,60 @@
+version: '3.8'
+
+services:
+  bot:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: svs/telegram-bot:latest
+    container_name: svs-bot-go
+    restart: unless-stopped
+    env_file:
+      - .env
+    environment:
+      - TZ=Asia/Singapore
+    volumes:
+      - ./logs:/logs
+    networks:
+      - svs-network
+    deploy:
+      resources:
+        limits:
+          cpus: '0.5'
+          memory: 128M
+        reservations:
+          cpus: '0.25'
+          memory: 64M
+    healthcheck:
+      test: ["CMD", "/svs-bot", "-health"]
+      interval: 30s
+      timeout: 3s
+      retries: 3
+      start_period: 10s
+    logging:
+      driver: "json-file"
+      options:
+        max-size: "10m"
+        max-file: "3"
+
+  redis:
+    image: redis:7-alpine
+    container_name: svs-redis
+    restart: unless-stopped
+    command: redis-server --appendonly yes
+    volumes:
+      - redis-data:/data
+    networks:
+      - svs-network
+    deploy:
+      resources:
+        limits:
+          cpus: '0.25'
+          memory: 64M
+
+networks:
+  svs-network:
+    driver: bridge
+
+volumes:
+  redis-data:
+    driver: local

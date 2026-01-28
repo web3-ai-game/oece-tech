@@ -1,0 +1,387 @@
+{
+  "propositions": [
+    {
+      "id": "1",
+      "text": "Dr. Shepherd visits Mrs. Ferrars, who has died.",
+      "level": 1
+    },
+    {
+      "id": "1.1",
+      "text": "He arrives at her house and finds she has been dead for several hours.",
+      "level": 2
+    },
+    {
+      "id": "1.2",
+      "text": "Dr. Shepherd reflects on his sister Caroline's gossipy nature.",
+      "level": 2
+    },
+    {
+      "id": "1.3",
+      "text": "Caroline suspects Mrs. Ferrars poisoned her husband.",
+      "level": 2
+    },
+    {
+      "id": "1.4",
+      "text": "Dr. Shepherd suggests Mrs. Ferrars died of an overdose of sleeping pills.",
+      "level": 2
+    },
+    {
+      "id": "1.5",
+      "text": "Caroline insists it was suicide.",
+      "level": 2
+    },
+    {
+      "id": "2",
+      "text": "Introduction to the village of King's Abbot and its inhabitants.",
+      "level": 1
+    },
+    {
+      "id": "2.1",
+      "text": "King's Abbot is a quiet village with a nearby town, Cranchester.",
+      "level": 2
+    },
+    {
+      "id": "2.2",
+      "text": "The village has two notable houses: Fernly Park and the home of Mrs. Ferrars.",
+      "level": 2
+    },
+    {
+      "id": "2.3",
+      "text": "Roger Ackroyd is the owner of Fernly Park and a prominent figure.",
+      "level": 2
+    },
+    {
+      "id": "2.4",
+      "text": "Ackroyd's wife died of alcoholism years ago.",
+      "level": 2
+    },
+    {
+      "id": "2.5",
+      "text": "Ackroyd raised his stepson, Ralph Paton, as his own.",
+      "level": 2
+    },
+    {
+      "id": "2.6",
+      "text": "Rumors circulated about Ackroyd and Mrs. Ferrars.",
+      "level": 2
+    },
+    {
+      "id": "2.7",
+      "text": "There were also speculations about Ackroyd marrying his former housekeeper, Miss Russell.",
+      "level": 2
+    },
+    {
+      "id": "2.8",
+      "text": "Mrs. Cecil Ackroyd, the widow of Roger's brother, also lives at Fernly Park.",
+      "level": 2
+    },
+    {
+      "id": "2.9",
+      "text": "Dr. Shepherd reflects on Mrs. Ferrars' death and the possibility of suicide.",
+      "level": 2
+    },
+    {
+      "id": "2.10",
+      "text": "He recalls seeing Mrs. Ferrars with Ralph Paton shortly before her death.",
+      "level": 2
+    },
+    {
+      "id": "2.11",
+      "text": "Dr. Shepherd meets with Roger Ackroyd, who is deeply distressed.",
+      "level": 2
+    },
+    {
+      "id": "2.12",
+      "text": "Ackroyd invites Dr. Shepherd to dinner.",
+      "level": 2
+    },
+    {
+      "id": "2.13",
+      "text": "Miss Gannett inquires about Mrs. Ferrars' death, hinting at drug addiction and a broken engagement.",
+      "level": 2
+    },
+    {
+      "id": "2.14",
+      "text": "Dr. Shepherd encounters Miss Russell, the housekeeper, who visits for a supposed knee ailment.",
+      "level": 2
+    },
+    {
+      "id": "2.15",
+      "text": "Miss Russell asks about rare poisons and undetectable drugs, suggesting an interest in detective novels.",
+      "level": 2
+    },
+    {
+      "id": "3",
+      "text": "Dr. Shepherd attends dinner at Fernly Park.",
+      "level": 1
+    },
+    {
+      "id": "3.1",
+      "text": "Caroline mentions Ralph Paton is staying in St. Cross and dating Flora Ackroyd.",
+      "level": 2
+    },
+    {
+      "id": "3.2",
+      "text": "Caroline believes Ralph and Flora are secretly engaged.",
+      "level": 2
+    },
+    {
+      "id": "3.3",
+      "text": "The eccentric new neighbor, Monsieur Poirot, is introduced.",
+      "level": 2
+    },
+    {
+      "id": "3.4",
+      "text": "Poirot has a peculiar fascination with pumpkins and a mysterious past.",
+      "level": 2
+    },
+    {
+      "id": "3.5",
+      "text": "Poirot reveals he knows Roger Ackroyd from London and worked as a hairdresser.",
+      "level": 2
+    },
+    {
+      "id": "3.6",
+      "text": "Poirot hints that Ralph Paton has a complex character and is involved in something he cannot understand.",
+      "level": 2
+    },
+    {
+      "id": "3.7",
+      "text": "Dr. Shepherd visits Ralph Paton in St. Cross.",
+      "level": 2
+    },
+    {
+      "id": "3.8",
+      "text": "Ralph is in financial trouble and feels his stepfather may disinherit him.",
+      "level": 2
+    },
+    {
+      "id": "4",
+      "text": "The dinner party at Fernly Park begins.",
+      "level": 1
+    },
+    {
+      "id": "4.1",
+      "text": "Dr. Shepherd arrives and is greeted by the butler, Parker, and Ackroyd's secretary, Raymond.",
+      "level": 2
+    },
+    {
+      "id": "4.2",
+      "text": "Miss Russell is present and appears to be looking for flowers.",
+      "level": 2
+    },
+    {
+      "id": "4.3",
+      "text": "Dr. Shepherd hears a noise from the drawing-room, which he initially misinterprets.",
+      "level": 2
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Dr. Shepherd",
+      "frequency": 18,
+      "context": "The narrator and a physician, a central figure in the story who provides his observations and thoughts."
+    },
+    {
+      "name": "Caroline",
+      "frequency": 17,
+      "context": "Dr. Shepherd's sister, known for her extensive gossip and ability to gather information within the village."
+    },
+    {
+      "name": "Mrs. Ferrars",
+      "frequency": 13,
+      "context": "A recently deceased woman whose death is the initial subject of investigation and speculation."
+    },
+    {
+      "name": "Roger Ackroyd",
+      "frequency": 15,
+      "context": "The owner of Fernly Park, a wealthy and respected member of the community, whose affairs become central to the plot."
+    },
+    {
+      "name": "Ralph Paton",
+      "frequency": 15,
+      "context": "Roger Ackroyd's stepson, a handsome but troubled young man with financial difficulties and a complicated past."
+    },
+    {
+      "name": "King's Abbot",
+      "frequency": 9,
+      "context": "The village where the story takes place, characterized by its quiet nature and the interconnected lives of its inhabitants."
+    },
+    {
+      "name": "Miss Russell",
+      "frequency": 7,
+      "context": "Roger Ackroyd's former housekeeper, a stern and possibly suspicious character."
+    },
+    {
+      "name": "Monsieur Poirot",
+      "frequency": 10,
+      "context": "A mysterious new neighbor with a keen intellect and a penchant for observation, who becomes involved in the investigation."
+    },
+    {
+      "name": "Suicide",
+      "frequency": 6,
+      "context": "A central theory regarding Mrs. Ferrars' death, debated between Dr. Shepherd and Caroline."
+    },
+    {
+      "name": "Overdose",
+      "frequency": 4,
+      "context": "Dr. Shepherd's initial medical explanation for Mrs. Ferrars' death."
+    },
+    {
+      "name": "Gossip",
+      "frequency": 5,
+      "context": "A prevalent activity in King's Abbot, particularly associated with Caroline and Miss Gannett."
+    },
+    {
+      "name": "Fernly Park",
+      "frequency": 5,
+      "context": "Roger Ackroyd's large estate, the primary setting for social gatherings and later events."
+    },
+    {
+      "name": "Flora Ackroyd",
+      "frequency": 5,
+      "context": "Roger Ackroyd's niece, rumored to be engaged to Ralph Paton."
+    },
+    {
+      "name": "Detective novel",
+      "frequency": 3,
+      "context": "Mentioned in relation to Miss Russell's inquiries, suggesting a potential influence on her thoughts or motives."
+    },
+    {
+      "name": "St. Cross",
+      "frequency": 3,
+      "context": "A location where Ralph Paton is staying and where Dr. Shepherd visits him."
+    },
+    {
+      "name": "Financial trouble",
+      "frequency": 2,
+      "context": "A significant concern for Ralph Paton, influencing his actions and motivations."
+    },
+    {
+      "name": "Poison",
+      "frequency": 3,
+      "context": "A topic of discussion related to Mrs. Ferrars' death and Miss Russell's inquiries about rare substances."
+    }
+  ],
+  "relations": [
+    {
+      "source": "Dr. Shepherd",
+      "target": "Caroline",
+      "type": "sibling"
+    },
+    {
+      "source": "Dr. Shepherd",
+      "target": "Mrs. Ferrars",
+      "type": "physician_patient"
+    },
+    {
+      "source": "Dr. Shepherd",
+      "target": "Roger Ackroyd",
+      "type": "acquaintance"
+    },
+    {
+      "source": "Dr. Shepherd",
+      "target": "Ralph Paton",
+      "type": "acquaintance"
+    },
+    {
+      "source": "Dr. Shepherd",
+      "target": "Monsieur Poirot",
+      "type": "neighbor"
+    },
+    {
+      "source": "Dr. Shepherd",
+      "target": "Miss Russell",
+      "type": "physician_patient"
+    },
+    {
+      "source": "Caroline",
+      "target": "Mrs. Ferrars",
+      "type": "suspects"
+    },
+    {
+      "source": "Caroline",
+      "target": "Roger Ackroyd",
+      "type": "acquaintance"
+    },
+    {
+      "source": "Roger Ackroyd",
+      "target": "Mrs. Ferrars",
+      "type": "potential_spouse"
+    },
+    {
+      "source": "Roger Ackroyd",
+      "target": "Ralph Paton",
+      "type": "stepfather_stepson"
+    },
+    {
+      "source": "Roger Ackroyd",
+      "target": "Fernly Park",
+      "type": "owner_of"
+    },
+    {
+      "source": "Roger Ackroyd",
+      "target": "Miss Russell",
+      "type": "former_employer_employee"
+    },
+    {
+      "source": "Roger Ackroyd",
+      "target": "Flora Ackroyd",
+      "type": "uncle_niece"
+    },
+    {
+      "source": "Ralph Paton",
+      "target": "Mrs. Ferrars",
+      "type": "seen_with"
+    },
+    {
+      "source": "Ralph Paton",
+      "target": "Flora Ackroyd",
+      "type": "engaged_to"
+    },
+    {
+      "source": "Ralph Paton",
+      "target": "Roger Ackroyd",
+      "type": "stepson_of"
+    },
+    {
+      "source": "Monsieur Poirot",
+      "target": "Roger Ackroyd",
+      "type": "acquaintance_from_london"
+    },
+    {
+      "source": "Miss Russell",
+      "target": "Roger Ackroyd",
+      "type": "former_housekeeper_of"
+    },
+    {
+      "source": "Mrs. Ferrars",
+      "target": "Mr. Ferrars",
+      "type": "deceased_husband_of"
+    },
+    {
+      "source": "Caroline",
+      "target": "Gossip",
+      "type": "performer_of"
+    },
+    {
+      "source": "Mrs. Ferrars",
+      "target": "Suicide",
+      "type": "suspected_cause_of_death"
+    },
+    {
+      "source": "Mrs. Ferrars",
+      "target": "Overdose",
+      "type": "suspected_cause_of_death"
+    }
+  ],
+  "hierarchy": {
+    "main_topics": [
+      "The Death of Mrs. Ferrars",
+      "Introduction to King's Abbot and its Residents",
+      "The Dinner Party at Fernly Park",
+      "Interactions with Key Characters"
+    ],
+    "structure": "The document is structured chronologically, following Dr. Shepherd's experiences and observations. It progresses from the initial discovery of Mrs. Ferrars' death, to introducing the setting and characters, and then detailing social interactions and early investigations leading up to the dinner party."
+  }
+}

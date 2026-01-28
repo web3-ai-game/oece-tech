@@ -1,0 +1,1110 @@
+{
+  "propositions": [
+    {
+      "id": "1",
+      "text": "Title: 重生-舒鑫（完）",
+      "level": 1
+    },
+    {
+      "id": "2",
+      "text": "Chapter 1",
+      "level": 2
+    },
+    {
+      "id": "2.1",
+      "text": "Section 1.1",
+      "level": 3
+    },
+    {
+      "id": "2.2",
+      "text": "Section 1.2",
+      "level": 3
+    },
+    {
+      "id": "2.3",
+      "text": "Section 1.3",
+      "level": 3
+    },
+    {
+      "id": "3",
+      "text": "Chapter 2",
+      "level": 2
+    },
+    {
+      "id": "3.1",
+      "text": "Section 2.1",
+      "level": 3
+    },
+    {
+      "id": "3.2",
+      "text": "Section 2.2",
+      "level": 3
+    },
+    {
+      "id": "3.3",
+      "text": "Section 2.3",
+      "level": 3
+    },
+    {
+      "id": "4",
+      "text": "Chapter 3",
+      "level": 2
+    },
+    {
+      "id": "4.1",
+      "text": "Section 3.1",
+      "level": 3
+    },
+    {
+      "id": "4.2",
+      "text": "Section 3.2",
+      "level": 3
+    },
+    {
+      "id": "5",
+      "text": "Chapter 4",
+      "level": 2
+    },
+    {
+      "id": "5.1",
+      "text": "Section 4.1",
+      "level": 3
+    },
+    {
+      "id": "5.2",
+      "text": "Section 4.2",
+      "level": 3
+    },
+    {
+      "id": "6",
+      "text": "Chapter 5",
+      "level": 2
+    },
+    {
+      "id": "6.1",
+      "text": "Section 5.1",
+      "level": 3
+    },
+    {
+      "id": "6.2",
+      "text": "Section 5.2",
+      "level": 3
+    },
+    {
+      "id": "7",
+      "text": "Chapter 6",
+      "level": 2
+    },
+    {
+      "id": "7.1",
+      "text": "Section 6.1",
+      "level": 3
+    },
+    {
+      "id": "7.2",
+      "text": "Section 6.2",
+      "level": 3
+    },
+    {
+      "id": "8",
+      "text": "Chapter 7",
+      "level": 2
+    },
+    {
+      "id": "8.1",
+      "text": "Section 7.1",
+      "level": 3
+    },
+    {
+      "id": "8.2",
+      "text": "Section 7.2",
+      "level": 3
+    },
+    {
+      "id": "9",
+      "text": "Chapter 8",
+      "level": 2
+    },
+    {
+      "id": "9.1",
+      "text": "Section 8.1",
+      "level": 3
+    },
+    {
+      "id": "9.2",
+      "text": "Section 8.2",
+      "level": 3
+    },
+    {
+      "id": "10",
+      "text": "Chapter 9",
+      "level": 2
+    },
+    {
+      "id": "10.1",
+      "text": "Section 9.1",
+      "level": 3
+    },
+    {
+      "id": "10.2",
+      "text": "Section 9.2",
+      "level": 3
+    },
+    {
+      "id": "11",
+      "text": "Chapter 10",
+      "level": 2
+    },
+    {
+      "id": "11.1",
+      "text": "Section 10.1",
+      "level": 3
+    },
+    {
+      "id": "11.2",
+      "text": "Section 10.2",
+      "level": 3
+    },
+    {
+      "id": "12",
+      "text": "Chapter 11",
+      "level": 2
+    },
+    {
+      "id": "12.1",
+      "text": "Section 11.1",
+      "level": 3
+    },
+    {
+      "id": "12.2",
+      "text": "Section 11.2",
+      "level": 3
+    },
+    {
+      "id": "13",
+      "text": "Chapter 12",
+      "level": 2
+    },
+    {
+      "id": "13.1",
+      "text": "Section 12.1",
+      "level": 3
+    },
+    {
+      "id": "13.2",
+      "text": "Section 12.2",
+      "level": 3
+    },
+    {
+      "id": "14",
+      "text": "Chapter 13",
+      "level": 2
+    },
+    {
+      "id": "14.1",
+      "text": "Section 13.1",
+      "level": 3
+    },
+    {
+      "id": "14.2",
+      "text": "Section 13.2",
+      "level": 3
+    },
+    {
+      "id": "15",
+      "text": "Chapter 14",
+      "level": 2
+    },
+    {
+      "id": "15.1",
+      "text": "Section 14.1",
+      "level": 3
+    },
+    {
+      "id": "15.2",
+      "text": "Section 14.2",
+      "level": 3
+    },
+    {
+      "id": "16",
+      "text": "Chapter 15",
+      "level": 2
+    },
+    {
+      "id": "16.1",
+      "text": "Section 15.1",
+      "level": 3
+    },
+    {
+      "id": "16.2",
+      "text": "Section 15.2",
+      "level": 3
+    },
+    {
+      "id": "17",
+      "text": "Chapter 16",
+      "level": 2
+    },
+    {
+      "id": "17.1",
+      "text": "Section 16.1",
+      "level": 3
+    },
+    {
+      "id": "17.2",
+      "text": "Section 16.2",
+      "level": 3
+    },
+    {
+      "id": "18",
+      "text": "Chapter 17",
+      "level": 2
+    },
+    {
+      "id": "18.1",
+      "text": "Section 17.1",
+      "level": 3
+    },
+    {
+      "id": "18.2",
+      "text": "Section 17.2",
+      "level": 3
+    },
+    {
+      "id": "19",
+      "text": "Chapter 18",
+      "level": 2
+    },
+    {
+      "id": "19.1",
+      "text": "Section 18.1",
+      "level": 3
+    },
+    {
+      "id": "19.2",
+      "text": "Section 18.2",
+      "level": 3
+    },
+    {
+      "id": "20",
+      "text": "Chapter 19",
+      "level": 2
+    },
+    {
+      "id": "20.1",
+      "text": "Section 19.1",
+      "level": 3
+    },
+    {
+      "id": "20.2",
+      "text": "Section 19.2",
+      "level": 3
+    },
+    {
+      "id": "21",
+      "text": "Chapter 20",
+      "level": 2
+    },
+    {
+      "id": "21.1",
+      "text": "Section 20.1",
+      "level": 3
+    },
+    {
+      "id": "21.2",
+      "text": "Section 20.2",
+      "level": 3
+    },
+    {
+      "id": "22",
+      "text": "Chapter 21",
+      "level": 2
+    },
+    {
+      "id": "22.1",
+      "text": "Section 21.1",
+      "level": 3
+    },
+    {
+      "id": "22.2",
+      "text": "Section 21.2",
+      "level": 3
+    },
+    {
+      "id": "23",
+      "text": "Chapter 22",
+      "level": 2
+    },
+    {
+      "id": "23.1",
+      "text": "Section 22.1",
+      "level": 3
+    },
+    {
+      "id": "23.2",
+      "text": "Section 22.2",
+      "level": 3
+    },
+    {
+      "id": "24",
+      "text": "Chapter 23",
+      "level": 2
+    },
+    {
+      "id": "24.1",
+      "text": "Section 23.1",
+      "level": 3
+    },
+    {
+      "id": "24.2",
+      "text": "Section 23.2",
+      "level": 3
+    },
+    {
+      "id": "25",
+      "text": "Chapter 24",
+      "level": 2
+    },
+    {
+      "id": "25.1",
+      "text": "Section 24.1",
+      "level": 3
+    },
+    {
+      "id": "25.2",
+      "text": "Section 24.2",
+      "level": 3
+    },
+    {
+      "id": "26",
+      "text": "Chapter 25",
+      "level": 2
+    },
+    {
+      "id": "26.1",
+      "text": "Section 25.1",
+      "level": 3
+    },
+    {
+      "id": "26.2",
+      "text": "Section 25.2",
+      "level": 3
+    },
+    {
+      "id": "27",
+      "text": "Chapter 26",
+      "level": 2
+    },
+    {
+      "id": "27.1",
+      "text": "Section 26.1",
+      "level": 3
+    },
+    {
+      "id": "27.2",
+      "text": "Section 26.2",
+      "level": 3
+    },
+    {
+      "id": "28",
+      "text": "Chapter 27",
+      "level": 2
+    },
+    {
+      "id": "28.1",
+      "text": "Section 27.1",
+      "level": 3
+    },
+    {
+      "id": "28.2",
+      "text": "Section 27.2",
+      "level": 3
+    },
+    {
+      "id": "29",
+      "text": "Chapter 28",
+      "level": 2
+    },
+    {
+      "id": "29.1",
+      "text": "Section 28.1",
+      "level": 3
+    },
+    {
+      "id": "29.2",
+      "text": "Section 28.2",
+      "level": 3
+    },
+    {
+      "id": "30",
+      "text": "Chapter 29",
+      "level": 2
+    },
+    {
+      "id": "30.1",
+      "text": "Section 29.1",
+      "level": 3
+    },
+    {
+      "id": "30.2",
+      "text": "Section 29.2",
+      "level": 3
+    },
+    {
+      "id": "31",
+      "text": "Chapter 30",
+      "level": 2
+    },
+    {
+      "id": "31.1",
+      "text": "Section 30.1",
+      "level": 3
+    },
+    {
+      "id": "31.2",
+      "text": "Section 30.2",
+      "level": 3
+    },
+    {
+      "id": "32",
+      "text": "Chapter 31",
+      "level": 2
+    },
+    {
+      "id": "32.1",
+      "text": "Section 31.1",
+      "level": 3
+    },
+    {
+      "id": "32.2",
+      "text": "Section 31.2",
+      "level": 3
+    },
+    {
+      "id": "33",
+      "text": "Chapter 32",
+      "level": 2
+    },
+    {
+      "id": "33.1",
+      "text": "Section 32.1",
+      "level": 3
+    },
+    {
+      "id": "33.2",
+      "text": "Section 32.2",
+      "level": 3
+    },
+    {
+      "id": "34",
+      "text": "Chapter 33",
+      "level": 2
+    },
+    {
+      "id": "34.1",
+      "text": "Section 33.1",
+      "level": 3
+    },
+    {
+      "id": "34.2",
+      "text": "Section 33.2",
+      "level": 3
+    },
+    {
+      "id": "35",
+      "text": "Chapter 34",
+      "level": 2
+    },
+    {
+      "id": "35.1",
+      "text": "Section 34.1",
+      "level": 3
+    },
+    {
+      "id": "35.2",
+      "text": "Section 34.2",
+      "level": 3
+    },
+    {
+      "id": "36",
+      "text": "Chapter 35",
+      "level": 2
+    },
+    {
+      "id": "36.1",
+      "text": "Section 35.1",
+      "level": 3
+    },
+    {
+      "id": "36.2",
+      "text": "Section 35.2",
+      "level": 3
+    },
+    {
+      "id": "37",
+      "text": "Chapter 36",
+      "level": 2
+    },
+    {
+      "id": "37.1",
+      "text": "Section 36.1",
+      "level": 3
+    },
+    {
+      "id": "37.2",
+      "text": "Section 36.2",
+      "level": 3
+    },
+    {
+      "id": "38",
+      "text": "Chapter 37",
+      "level": 2
+    },
+    {
+      "id": "38.1",
+      "text": "Section 37.1",
+      "level": 3
+    },
+    {
+      "id": "38.2",
+      "text": "Section 37.2",
+      "level": 3
+    },
+    {
+      "id": "39",
+      "text": "Chapter 38",
+      "level": 2
+    },
+    {
+      "id": "39.1",
+      "text": "Section 38.1",
+      "level": 3
+    },
+    {
+      "id": "39.2",
+      "text": "Section 38.2",
+      "level": 3
+    },
+    {
+      "id": "40",
+      "text": "Chapter 39",
+      "level": 2
+    },
+    {
+      "id": "40.1",
+      "text": "Section 39.1",
+      "level": 3
+    },
+    {
+      "id": "40.2",
+      "text": "Section 39.2",
+      "level": 3
+    },
+    {
+      "id": "41",
+      "text": "Chapter 40",
+      "level": 2
+    },
+    {
+      "id": "41.1",
+      "text": "Section 40.1",
+      "level": 3
+    },
+    {
+      "id": "41.2",
+      "text": "Section 40.2",
+      "level": 3
+    },
+    {
+      "id": "42",
+      "text": "Chapter 41",
+      "level": 2
+    },
+    {
+      "id": "42.1",
+      "text": "Section 41.1",
+      "level": 3
+    },
+    {
+      "id": "42.2",
+      "text": "Section 41.2",
+      "level": 3
+    }
+  ],
+  "concepts": [
+    {
+      "name": "重生",
+      "frequency": 1,
+      "context": "Title of the document"
+    },
+    {
+      "name": "舒鑫",
+      "frequency": 1,
+      "context": "Part of the title, likely a character name"
+    },
+    {
+      "name": "章节",
+      "frequency": 41,
+      "context": "Hierarchical division of the document"
+    },
+    {
+      "name": "章节编号",
+      "frequency": 41,
+      "context": "Numerical identifier for each chapter"
+    },
+    {
+      "name": "章节小节",
+      "frequency": 82,
+      "context": "Subdivisions within each chapter"
+    }
+  ],
+  "relations": [
+    {
+      "source": "Chapter 1",
+      "target": "Section 1.1",
+      "type": "part_of"
+    },
+    {
+      "source": "Chapter 1",
+      "target": "Section 1.2",
+      "type": "part_of"
+    },
+    {
+      "source": "Chapter 1",
+      "target": "Section 1.3",
+      "type": "part_of"
+    },
+    {
+      "source": "Chapter 2",
+      "target": "Section 2.1",
+      "type": "part_of"
+    },
+    {
+      "source": "Chapter 2",
+      "target": "Section 2.2",
+      "type": "part_of"
+    },
+    {
+      "source": "Chapter 2",
+      "target": "Section 2.3",
+      "type": "part_of"
+    },
+    {
+      "source": "Chapter 3",
+      "target": "Section 3.1",
+      "type": "part_of"
+    },
+    {
+      "source": "Chapter 3",
+      "target": "Section 3.2",
+      "type": "part_of"
+    },
+    {
+      "source": "Chapter 4",
+      "target": "Section 4.1",
+      "type": "part_of"
+    },
+    {
+      "source": "Chapter 4",
+      "target": "Section 4.2",
+      "type": "part_of"
+    },
+    {
+      "source": "Chapter 5",
+      "target": "Section 5.1",
+      "type": "part_of"
+    },
+    {
+      "source": "Chapter 5",
+      "target": "Section 5.2",
+      "type": "part_of"
+    },
+    {
+      "source": "Chapter 6",
+      "target": "Section 6.1",
+      "type": "part_of"
+    },
+    {
+      "source": "Chapter 6",
+      "target": "Section 6.2",
+      "type": "part_of"
+    },
+    {
+      "source": "Chapter 7",
+      "target": "Section 7.1",
+      "type": "part_of"
+    },
+    {
+      "source": "Chapter 7",
+      "target": "Section 7.2",
+      "type": "part_of"
+    },
+    {
+      "source": "Chapter 8",
+      "target": "Section 8.1",
+      "type": "part_of"
+    },
+    {
+      "source": "Chapter 8",
+      "target": "Section 8.2",
+      "type": "part_of"
+    },
+    {
+      "source": "Chapter 9",
+      "target": "Section 9.1",
+      "type": "part_of"
+    },
+    {
+      "source": "Chapter 9",
+      "target": "Section 9.2",
+      "type": "part_of"
+    },
+    {
+      "source": "Chapter 10",
+      "target": "Section 10.1",
+      "type": "part_of"
+    },
+    {
+      "source": "Chapter 10",
+      "target": "Section 10.2",
+      "type": "part_of"
+    },
+    {
+      "source": "Chapter 11",
+      "target": "Section 11.1",
+      "type": "part_of"
+    },
+    {
+      "source": "Chapter 11",
+      "target": "Section 11.2",
+      "type": "part_of"
+    },
+    {
+      "source": "Chapter 12",
+      "target": "Section 12.1",
+      "type": "part_of"
+    },
+    {
+      "source": "Chapter 12",
+      "target": "Section 12.2",
+      "type": "part_of"
+    },
+    {
+      "source": "Chapter 13",
+      "target": "Section 13.1",
+      "type": "part_of"
+    },
+    {
+      "source": "Chapter 13",
+      "target": "Section 13.2",
+      "type": "part_of"
+    },
+    {
+      "source": "Chapter 14",
+      "target": "Section 14.1",
+      "type": "part_of"
+    },
+    {
+      "source": "Chapter 14",
+      "target": "Section 14.2",
+      "type": "part_of"
+    },
+    {
+      "source": "Chapter 15",
+      "target": "Section 15.1",
+      "type": "part_of"
+    },
+    {
+      "source": "Chapter 15",
+      "target": "Section 15.2",
+      "type": "part_of"
+    },
+    {
+      "source": "Chapter 16",
+      "target": "Section 16.1",
+      "type": "part_of"
+    },
+    {
+      "source": "Chapter 16",
+      "target": "Section 16.2",
+      "type": "part_of"
+    },
+    {
+      "source": "Chapter 17",
+      "target": "Section 17.1",
+      "type": "part_of"
+    },
+    {
+      "source": "Chapter 17",
+      "target": "Section 17.2",
+      "type": "part_of"
+    },
+    {
+      "source": "Chapter 18",
+      "target": "Section 18.1",
+      "type": "part_of"
+    },
+    {
+      "source": "Chapter 18",
+      "target": "Section 18.2",
+      "type": "part_of"
+    },
+    {
+      "source": "Chapter 19",
+      "target": "Section 19.1",
+      "type": "part_of"
+    },
+    {
+      "source": "Chapter 19",
+      "target": "Section 19.2",
+      "type": "part_of"
+    },
+    {
+      "source": "Chapter 20",
+      "target": "Section 20.1",
+      "type": "part_of"
+    },
+    {
+      "source": "Chapter 20",
+      "target": "Section 20.2",
+      "type": "part_of"
+    },
+    {
+      "source": "Chapter 21",
+      "target": "Section 21.1",
+      "type": "part_of"
+    },
+    {
+      "source": "Chapter 21",
+      "target": "Section 21.2",
+      "type": "part_of"
+    },
+    {
+      "source": "Chapter 22",
+      "target": "Section 22.1",
+      "type": "part_of"
+    },
+    {
+      "source": "Chapter 22",
+      "target": "Section 22.2",
+      "type": "part_of"
+    },
+    {
+      "source": "Chapter 23",
+      "target": "Section 23.1",
+      "type": "part_of"
+    },
+    {
+      "source": "Chapter 23",
+      "target": "Section 23.2",
+      "type": "part_of"
+    },
+    {
+      "source": "Chapter 24",
+      "target": "Section 24.1",
+      "type": "part_of"
+    },
+    {
+      "source": "Chapter 24",
+      "target": "Section 24.2",
+      "type": "part_of"
+    },
+    {
+      "source": "Chapter 25",
+      "target": "Section 25.1",
+      "type": "part_of"
+    },
+    {
+      "source": "Chapter 25",
+      "target": "Section 25.2",
+      "type": "part_of"
+    },
+    {
+      "source": "Chapter 26",
+      "target": "Section 26.1",
+      "type": "part_of"
+    },
+    {
+      "source": "Chapter 26",
+      "target": "Section 26.2",
+      "type": "part_of"
+    },
+    {
+      "source": "Chapter 27",
+      "target": "Section 27.1",
+      "type": "part_of"
+    },
+    {
+      "source": "Chapter 27",
+      "target": "Section 27.2",
+      "type": "part_of"
+    },
+    {
+      "source": "Chapter 28",
+      "target": "Section 28.1",
+      "type": "part_of"
+    },
+    {
+      "source": "Chapter 28",
+      "target": "Section 28.2",
+      "type": "part_of"
+    },
+    {
+      "source": "Chapter 29",
+      "target": "Section 29.1",
+      "type": "part_of"
+    },
+    {
+      "source": "Chapter 29",
+      "target": "Section 29.2",
+      "type": "part_of"
+    },
+    {
+      "source": "Chapter 30",
+      "target": "Section 30.1",
+      "type": "part_of"
+    },
+    {
+      "source": "Chapter 30",
+      "target": "Section 30.2",
+      "type": "part_of"
+    },
+    {
+      "source": "Chapter 31",
+      "target": "Section 31.1",
+      "type": "part_of"
+    },
+    {
+      "source": "Chapter 31",
+      "target": "Section 31.2",
+      "type": "part_of"
+    },
+    {
+      "source": "Chapter 32",
+      "target": "Section 32.1",
+      "type": "part_of"
+    },
+    {
+      "source": "Chapter 32",
+      "target": "Section 32.2",
+      "type": "part_of"
+    },
+    {
+      "source": "Chapter 33",
+      "target": "Section 33.1",
+      "type": "part_of"
+    },
+    {
+      "source": "Chapter 33",
+      "target": "Section 33.2",
+      "type": "part_of"
+    },
+    {
+      "source": "Chapter 34",
+      "target": "Section 34.1",
+      "type": "part_of"
+    },
+    {
+      "source": "Chapter 34",
+      "target": "Section 34.2",
+      "type": "part_of"
+    },
+    {
+      "source": "Chapter 35",
+      "target": "Section 35.1",
+      "type": "part_of"
+    },
+    {
+      "source": "Chapter 35",
+      "target": "Section 35.2",
+      "type": "part_of"
+    },
+    {
+      "source": "Chapter 36",
+      "target": "Section 36.1",
+      "type": "part_of"
+    },
+    {
+      "source": "Chapter 36",
+      "target": "Section 36.2",
+      "type": "part_of"
+    },
+    {
+      "source": "Chapter 37",
+      "target": "Section 37.1",
+      "type": "part_of"
+    },
+    {
+      "source": "Chapter 37",
+      "target": "Section 37.2",
+      "type": "part_of"
+    },
+    {
+      "source": "Chapter 38",
+      "target": "Section 38.1",
+      "type": "part_of"
+    },
+    {
+      "source": "Chapter 38",
+      "target": "Section 38.2",
+      "type": "part_of"
+    },
+    {
+      "source": "Chapter 39",
+      "target": "Section 39.1",
+      "type": "part_of"
+    },
+    {
+      "source": "Chapter 39",
+      "target": "Section 39.2",
+      "type": "part_of"
+    },
+    {
+      "source": "Chapter 40",
+      "target": "Section 40.1",
+      "type": "part_of"
+    },
+    {
+      "source": "Chapter 40",
+      "target": "Section 40.2",
+      "type": "part_of"
+    },
+    {
+      "source": "Chapter 41",
+      "target": "Section 41.1",
+      "type": "part_of"
+    },
+    {
+      "source": "Chapter 41",
+      "target": "Section 41.2",
+      "type": "part_of"
+    },
+    {
+      "source": "Title: 重生-舒鑫（完）",
+      "target": "Chapter 1",
+      "type": "contains"
+    },
+    {
+      "source": "Chapter 1",
+      "target": "Chapter 2",
+      "type": "follows"
+    },
+    {
+      "source": "Chapter 40",
+      "target": "Chapter 41",
+      "type": "follows"
+    },
+    {
+      "source": "Chapter 3",
+      "target": "Section 3.1",
+      "type": "has_section"
+    }
+  ],
+  "hierarchy": {
+    "main_topics": [
+      "Title",
+      "Chapters"
+    ],
+    "structure": "The document is structured hierarchically, starting with a main title and followed by a sequence of chapters. Each chapter is further divided into numbered sections."
+  }
+}

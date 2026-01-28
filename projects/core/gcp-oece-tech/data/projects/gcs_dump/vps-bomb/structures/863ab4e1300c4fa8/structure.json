@@ -1,0 +1,322 @@
+{
+  "propositions": [
+    {
+      "id": "1",
+      "text": "The story begins with the protagonist realizing they have been reborn.",
+      "level": 1
+    },
+    {
+      "id": "1.1",
+      "text": "The protagonist is born as a daughter but is registered as a son due to circumstances.",
+      "level": 2
+    },
+    {
+      "id": "1.2",
+      "text": "The protagonist's mother is beautiful but not favored.",
+      "level": 2
+    },
+    {
+      "id": "2",
+      "text": "The protagonist's childhood is characterized by their mother's efforts to ensure their well-being and education.",
+      "level": 1
+    },
+    {
+      "id": "2.1",
+      "text": "The protagonist is given the name Shen Ziyi.",
+      "level": 2
+    },
+    {
+      "id": "2.2",
+      "text": "The protagonist attends a noble academy.",
+      "level": 2
+    },
+    {
+      "id": "3",
+      "text": "At the academy, the protagonist encounters new characters and develops relationships.",
+      "level": 1
+    },
+    {
+      "id": "3.1",
+      "text": "The protagonist meets Ou Yang Wuhui, a troublesome student.",
+      "level": 2
+    },
+    {
+      "id": "3.2",
+      "text": "The protagonist introduces football to the academy.",
+      "level": 2
+    },
+    {
+      "id": "3.3",
+      "text": "The protagonist forms a group for playing football, including Su Gu, Sikong Qian, and Zi Mo.",
+      "level": 2
+    },
+    {
+      "id": "4",
+      "text": "Significant political events occur, involving the protagonist's family and acquaintances.",
+      "level": 1
+    },
+    {
+      "id": "4.1",
+      "text": "Chen Genghao, the Minister of War, is impeached and his family is exiled.",
+      "level": 2
+    },
+    {
+      "id": "4.2",
+      "text": "Military and administrative power returns to the young emperor.",
+      "level": 2
+    },
+    {
+      "id": "5",
+      "text": "The protagonist's mother designs new clothing, influencing fashion.",
+      "level": 1
+    },
+    {
+      "id": "5.1",
+      "text": "The protagonist's fashion sense influences Zi Mo and Su Gu, creating a trend.",
+      "level": 2
+    },
+    {
+      "id": "6",
+      "text": "The protagonist learns to ride a horse with Zi Mo's guidance.",
+      "level": 1
+    },
+    {
+      "id": "6.1",
+      "text": "During a horse riding session, Ou Yang Wuhui provokes the protagonist, leading to a chaotic situation.",
+      "level": 2
+    },
+    {
+      "id": "6.2",
+      "text": "Su Gu impulsively takes the protagonist on a wild horse ride.",
+      "level": 2
+    },
+    {
+      "id": "6.3",
+      "text": "The protagonist falls off the horse and is taken to a doctor.",
+      "level": 2
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Rebirth",
+      "frequency": 2,
+      "context": "The protagonist realizes they have been reborn into a new life."
+    },
+    {
+      "name": "Gender Deception",
+      "frequency": 1,
+      "context": "The protagonist is registered as a son despite being born a daughter."
+    },
+    {
+      "name": "Mother's Influence",
+      "frequency": 5,
+      "context": "The protagonist's mother plays a significant role in their upbringing and the story's events, including fashion design."
+    },
+    {
+      "name": "Shen Ziyi",
+      "frequency": 21,
+      "context": "The protagonist's given name."
+    },
+    {
+      "name": "Noble Academy",
+      "frequency": 7,
+      "context": "The setting for a significant portion of the protagonist's early life and interactions."
+    },
+    {
+      "name": "Ou Yang Wuhui",
+      "frequency": 16,
+      "context": "A key character, often depicted as troublesome and aggressive."
+    },
+    {
+      "name": "Football",
+      "frequency": 6,
+      "context": "A sport introduced by the protagonist that becomes a point of interaction."
+    },
+    {
+      "name": "Su Gu",
+      "frequency": 11,
+      "context": "A character described as beautiful, also known as 'human demon'."
+    },
+    {
+      "name": "Sikong Qian",
+      "frequency": 9,
+      "context": "A character initially described as 'ugly' but talented, holding a government position."
+    },
+    {
+      "name": "Zi Mo",
+      "frequency": 13,
+      "context": "A close companion to the protagonist, a member of the Shen family."
+    },
+    {
+      "name": "Chen Genghao",
+      "frequency": 2,
+      "context": "A political figure who is impeached."
+    },
+    {
+      "name": "Emperor",
+      "frequency": 2,
+      "context": "The young ruler who regains power."
+    },
+    {
+      "name": "Fashion",
+      "frequency": 4,
+      "context": "The protagonist's mother's designs become a trend."
+    },
+    {
+      "name": "Horse Riding",
+      "frequency": 6,
+      "context": "An activity that leads to conflict and an accident."
+    },
+    {
+      "name": "Friendship/Relationships",
+      "frequency": 9,
+      "context": "The development of bonds between the protagonist and other characters."
+    },
+    {
+      "name": "Conflict/Fighting",
+      "frequency": 10,
+      "context": "Frequent occurrences of physical altercations and disputes."
+    },
+    {
+      "name": "Plot Development",
+      "frequency": 2,
+      "context": "The progression of the narrative through various events."
+    },
+    {
+      "name": "Deception/Trickery",
+      "frequency": 1,
+      "context": "The initial deception regarding the protagonist's gender."
+    },
+    {
+      "name": "Social Hierarchy",
+      "frequency": 1,
+      "context": "Implied through the interactions between characters of different statuses."
+    },
+    {
+      "name": "Family",
+      "frequency": 4,
+      "context": "The protagonist's family, particularly their mother and their connection to the Shen family."
+    }
+  ],
+  "relations": [
+    {
+      "source": "Protagonist (Shen Ziyi)",
+      "target": "Mother",
+      "type": "is_child_of"
+    },
+    {
+      "source": "Protagonist (Shen Ziyi)",
+      "target": "Zi Mo",
+      "type": "is_friend_of"
+    },
+    {
+      "source": "Protagonist (Shen Ziyi)",
+      "target": "Ou Yang Wuhui",
+      "type": "is_acquaintance_of"
+    },
+    {
+      "source": "Protagonist (Shen Ziyi)",
+      "target": "Su Gu",
+      "type": "is_acquaintance_of"
+    },
+    {
+      "source": "Protagonist (Shen Ziyi)",
+      "target": "Sikong Qian",
+      "type": "is_acquaintance_of"
+    },
+    {
+      "source": "Protagonist (Shen Ziyi)",
+      "target": "Ou Yang Wuhui",
+      "type": "is_rival_of"
+    },
+    {
+      "source": "Protagonist (Shen Ziyi)",
+      "target": "Ou Yang Wuhui",
+      "type": "is_classmate_of"
+    },
+    {
+      "source": "Protagonist (Shen Ziyi)",
+      "target": "Ou Yang Wuhui",
+      "type": "has_conflicting_relationship_with"
+    },
+    {
+      "source": "Zi Mo",
+      "target": "Protagonist (Shen Ziyi)",
+      "type": "is_friend_of"
+    },
+    {
+      "source": "Zi Mo",
+      "target": "Shen Family",
+      "type": "is_part_of"
+    },
+    {
+      "source": "Ou Yang Wuhui",
+      "target": "Noble Academy",
+      "type": "is_student_of"
+    },
+    {
+      "source": "Su Gu",
+      "target": "Protagonist (Shen Ziyi)",
+      "type": "is_acquaintance_of"
+    },
+    {
+      "source": "Sikong Qian",
+      "target": "Protagonist (Shen Ziyi)",
+      "type": "is_acquaintance_of"
+    },
+    {
+      "source": "Sikong Qian",
+      "target": "Government",
+      "type": "holds_position_in"
+    },
+    {
+      "source": "Chen Genghao",
+      "target": "Minister of War",
+      "type": "is_a"
+    },
+    {
+      "source": "Emperor",
+      "target": "Dong Qing Dynasty",
+      "type": "rules"
+    },
+    {
+      "source": "Protagonist's Mother",
+      "target": "Fashion Design",
+      "type": "is_involved_in"
+    },
+    {
+      "source": "Protagonist's Mother",
+      "target": "Protagonist (Shen Ziyi)",
+      "type": "is_parent_of"
+    },
+    {
+      "source": "Football",
+      "target": "Noble Academy",
+      "type": "is_played_at"
+    },
+    {
+      "source": "Su Gu",
+      "target": "Protagonist (Shen Ziyi)",
+      "type": "is_frequently_with"
+    },
+    {
+      "source": "Emperor (Qian Qing)",
+      "target": "Su Gu",
+      "type": "has_relationship_with"
+    },
+    {
+      "source": "Emperor (Qian Qing)",
+      "target": "Protagonist (Shen Ziyi)",
+      "type": "rescues"
+    }
+  ],
+  "hierarchy": {
+    "main_topics": [
+      "Rebirth and Early Life",
+      "Academy Life and Relationships",
+      "Political Intrigue and Power Shifts",
+      "Social Trends and Personal Development"
+    ],
+    "structure": "The document follows a chronological narrative, detailing the protagonist's life from rebirth through childhood, education, and significant social and political events. It is structured into chapters, with each chapter focusing on a specific period or set of interactions. The narrative emphasizes the protagonist's personal experiences, their evolving relationships with other characters, and the broader societal context."
+  }
+}

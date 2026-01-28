@@ -1,0 +1,235 @@
+{
+  "propositions": [
+    {
+      "id": "1",
+      "text": "错嫁良缘之洗冤录",
+      "level": 1
+    },
+    {
+      "id": "1.1",
+      "text": "案情",
+      "level": 2
+    },
+    {
+      "id": "1.1.1",
+      "text": "案情一",
+      "level": 3
+    },
+    {
+      "id": "1.1.1.1",
+      "text": "阎王殿，鬼门关。",
+      "level": 4
+    },
+    {
+      "id": "1.1.1.2",
+      "text": "鬼门关，阎王殿。",
+      "level": 4
+    },
+    {
+      "id": "1.1.1.3",
+      "text": "阎王殿。",
+      "level": 4
+    },
+    {
+      "id": "1.1.1.4",
+      "text": "阎王殿。",
+      "level": 4
+    },
+    {
+      "id": "1.1.1.5",
+      "text": "阎王殿。",
+      "level": 4
+    },
+    {
+      "id": "1.1.1.6",
+      "text": "你说谁？",
+      "level": 4
+    },
+    {
+      "id": "1.1.1.7",
+      "text": "阎王！",
+      "level": 4
+    },
+    {
+      "id": "1.1.1.8",
+      "text": "阎王？",
+      "level": 4
+    },
+    {
+      "id": "1.1.1.9",
+      "text": "阎王！",
+      "level": 4
+    },
+    {
+      "id": "1.1.1.10",
+      "text": "你说啥？",
+      "level": 4
+    },
+    {
+      "id": "1.1.1.11",
+      "text": "阎王！",
+      "level": 4
+    },
+    {
+      "id": "1.1.1.12",
+      "text": "再说一遍！",
+      "level": 4
+    },
+    {
+      "id": "1.1.1.13",
+      "text": "阎王！",
+      "level": 4
+    },
+    {
+      "id": "1.1.1.14",
+      "text": "你说啥？",
+      "level": 4
+    },
+    {
+      "id": "1.1.1.15",
+      "text": "你个傻子！",
+      "level": 4
+    },
+    {
+      "id": "1.1.1.16",
+      "text": "你才傻子！",
+      "level": 4
+    },
+    {
+      "id": "1.1.1.17",
+      "text": "你说啥？",
+      "level": 4
+    },
+    {
+      "id": "1.1.1.18",
+      "text": "你说啥？",
+      "level": 4
+    },
+    {
+      "id": "1.1.1.19",
+      "text": "你说啥？",
+      "level": 4
+    },
+    {
+      "id": "1.1.1.20",
+      "text": "你说啥？",
+      "level": 4
+    },
+    {
+      "id": "1.1.1.21",
+      "text": "你说的！",
+      "level": 4
+    },
+    {
+      "id": "1.1.1.22",
+      "text": "你说的！",
+      "level": 4
+    },
+    {
+      "id": "1.1.1.23",
+      "text": "你说的！",
+      "level": 4
+    },
+    {
+      "id": "1.1.1.24",
+      "text": "我说啥？",
+      "level": 4
+    },
+    {
+      "id": "1.1.1.25",
+      "text": "你说啥？",
+      "level": 4
+    },
+    {
+      "id": "1.1.1.26",
+      "text": "你说啥？",
+      "level": 4
+    },
+    {
+      "id": "1.1.1.27",
+      "text": "你说啥？",
+      "level": 4
+    },
+    {
+      "id": "1.1.1.28",
+      "text": "我说啥？",
+      "level": 4
+    }
+  ],
+  "concepts": [
+    {
+      "name": "阎王殿",
+      "frequency": 5,
+      "context": "Mentioned repeatedly as a location."
+    },
+    {
+      "name": "鬼门关",
+      "frequency": 2,
+      "context": "Mentioned as a location, paired with阎王殿."
+    },
+    {
+      "name": "阎王",
+      "frequency": 4,
+      "context": "Mentioned in dialogue, indicating who is being referred to."
+    },
+    {
+      "name": "傻子",
+      "frequency": 2,
+      "context": "Used as an insult in dialogue."
+    },
+    {
+      "name": "你说啥",
+      "frequency": 31,
+      "context": "Repeated interrogative phrase in dialogue."
+    },
+    {
+      "name": "你说",
+      "frequency": 1,
+      "context": "Used in dialogue: '你说谁？'"
+    },
+    {
+      "name": "再说一遍",
+      "frequency": 1,
+      "context": "Imperative phrase in dialogue."
+    },
+    {
+      "name": "你说的",
+      "frequency": 3,
+      "context": "Repetitive affirmative phrase in dialogue."
+    },
+    {
+      "name": "我说啥",
+      "frequency": 9,
+      "context": "Repeated interrogative phrase in dialogue."
+    }
+  ],
+  "relations": [
+    {
+      "source": "阎王殿",
+      "target": "鬼门关",
+      "type": "associated_with"
+    },
+    {
+      "source": "鬼门关",
+      "target": "阎王殿",
+      "type": "associated_with"
+    },
+    {
+      "source": "阎王",
+      "target": "阎王殿",
+      "type": "inhabitant_of"
+    },
+    {
+      "source": "傻子",
+      "target": "你",
+      "type": "description"
+    }
+  ],
+  "hierarchy": {
+    "main_topics": [
+      "Title",
+      "Case Description"
+    ],
+    "structure": "The document starts with a title, followed by a main section for 'Case Description' which is further divided into specific cases, with detailed dialogues within each case."
+  }
+}

@@ -1,0 +1,143 @@
+{
+  "propositions": [
+    {
+      "id": "1",
+      "text": "Lin Feng's life begins as ordinary and unremarkable.",
+      "level": 1
+    },
+    {
+      "id": "1.1",
+      "text": "Lin Feng describes his mundane background and lack of ambition.",
+      "level": 2
+    },
+    {
+      "id": "1.2",
+      "text": "Lin Feng's personal insecurities and relationships highlight his平凡 nature.",
+      "level": 2
+    },
+    {
+      "id": "2",
+      "text": "A sudden change disrupts Lin Feng's平凡 life.",
+      "level": 1
+    },
+    {
+      "id": "2.1",
+      "text": "An unexpected phone call introduces unease.",
+      "level": 2
+    },
+    {
+      "id": "2.2",
+      "text": "A plane crash marks a turning point in Lin Feng's life.",
+      "level": 2
+    },
+    {
+      "id": "3",
+      "text": "Lin Feng awakens in a mysterious place called Fayun Mountain.",
+      "level": 1
+    },
+    {
+      "id": "3.1",
+      "text": "Fayun Mountain is described as a mystical valley with spiritual energy.",
+      "level": 2
+    },
+    {
+      "id": "3.2",
+      "text": "Lin Feng meets Xiaofeng, a spiritual beast with healing abilities.",
+      "level": 2
+    },
+    {
+      "id": "4",
+      "text": "Lin Feng embarks on a new journey after leaving Fayun Mountain.",
+      "level": 1
+    },
+    {
+      "id": "4.1",
+      "text": "Lin Feng joins an adventure team and grows through challenges.",
+      "level": 2
+    },
+    {
+      "id": "4.2",
+      "text": "Lin Feng gains confidence and purpose through experiences.",
+      "level": 2
+    },
+    {
+      "id": "5",
+      "text": "Lin Feng's destiny is tied to a secret in Fayun Mountain.",
+      "level": 1
+    },
+    {
+      "id": "5.1",
+      "text": "Lin Feng returns to Fayun Mountain to uncover a hidden power.",
+      "level": 2
+    },
+    {
+      "id": "5.2",
+      "text": "Lin Feng is identified as the chosen one to unlock a seal.",
+      "level": 2
+    }
+  ],
+  "concepts": [
+    {
+      "name": "平凡 (Ordinariness)",
+      "frequency": 6,
+      "context": "Describes Lin Feng's initial life state and lack of distinction."
+    },
+    {
+      "name": "命运 (Destiny)",
+      "frequency": 5,
+      "context": "Central theme of Lin Feng's transformation and purpose."
+    },
+    {
+      "name": "法云山 (Fayun Mountain)",
+      "frequency": 7,
+      "context": "Mystical location where Lin Feng undergoes significant change."
+    },
+    {
+      "name": "小风 (Xiaofeng)",
+      "frequency": 4,
+      "context": "Spiritual beast companion aiding Lin Feng."
+    },
+    {
+      "name": "成长 (Growth)",
+      "frequency": 3,
+      "context": "Lin Feng's personal development through challenges."
+    }
+  ],
+  "relations": [
+    {
+      "source": "平凡 (Ordinariness)",
+      "target": "命运 (Destiny)",
+      "type": "contrasts_with"
+    },
+    {
+      "source": "林风 (Lin Feng)",
+      "target": "法云山 (Fayun Mountain)",
+      "type": "transformed_by"
+    },
+    {
+      "source": "林风 (Lin Feng)",
+      "target": "小风 (Xiaofeng)",
+      "type": "guided_by"
+    },
+    {
+      "source": "命运 (Destiny)",
+      "target": "法云山 (Fayun Mountain)",
+      "type": "linked_to"
+    },
+    {
+      "source": "成长 (Growth)",
+      "target": "命运 (Destiny)",
+      "type": "driven_by"
+    }
+  ],
+  "hierarchy": {
+    "main_topics": [
+      "Lin Feng's Ordinary Life",
+      "Unexpected Turning Point",
+      "Mystical Transformation at Fayun Mountain",
+      "Journey of Growth",
+      "Destiny and Secrets"
+    ],
+    "structure": "The document follows a linear narrative structure, progressing from Lin Feng's mundane life to a transformative journey involving mystical elements and personal growth, culminating in a destiny-driven quest."
+  }
+}

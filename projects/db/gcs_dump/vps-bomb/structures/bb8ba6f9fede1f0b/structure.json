@@ -1,0 +1,533 @@
+{
+  "propositions": [
+    {
+      "id": "1",
+      "text": "人生曾经历迷茫。",
+      "level": 1
+    },
+    {
+      "id": "1.1",
+      "text": "在人生的十字路口，作者感到无比迷茫。",
+      "level": 2
+    },
+    {
+      "id": "1.2",
+      "text": "前进的勇气被未知的恐惧吞噬。",
+      "level": 2
+    },
+    {
+      "id": "1.3",
+      "text": "需要一种打破束缚、勇往直前的力量。",
+      "level": 2
+    },
+    {
+      "id": "2",
+      "text": "远赴英国求学是一次重要的转折。",
+      "level": 1
+    },
+    {
+      "id": "2.1",
+      "text": "2005年，作者踏上了前往英国的旅程。",
+      "level": 2
+    },
+    {
+      "id": "2.2",
+      "text": "旅程旨在学习知识和寻找自我。",
+      "level": 2
+    },
+    {
+      "id": "2.3",
+      "text": "在英国的学习生活带来了学术挑战、文化冲击和语言障碍。",
+      "level": 2
+    },
+    {
+      "id": "2.3.1",
+      "text": "课程难度激发了潜能。",
+      "level": 3
+    },
+    {
+      "id": "2.3.2",
+      "text": "不同的文化视角促进了自我审视。",
+      "level": 3
+    },
+    {
+      "id": "2.3.3",
+      "text": "克服了英语流利度的障碍。",
+      "level": 3
+    },
+    {
+      "id": "2.4",
+      "text": "在英国的经历丰富了人生阅历。",
+      "level": 2
+    },
+    {
+      "id": "2.5",
+      "text": "作者尝试新事物，参加活动，认识不同背景的人。",
+      "level": 2
+    },
+    {
+      "id": "2.6",
+      "text": "进行了欧洲和美国游学，拓展了视野。",
+      "level": 2
+    },
+    {
+      "id": "2.6.1",
+      "text": "踏足法国、意大利，感受欧洲历史韵味。",
+      "level": 3
+    },
+    {
+      "id": "2.6.2",
+      "text": "在美国学习，认识科技发展。",
+      "level": 3
+    },
+    {
+      "id": "2.7",
+      "text": "渴望探索世界。",
+      "level": 2
+    },
+    {
+      "id": "3",
+      "text": "回国后，作者进行了职业生涯转型并选择了创业。",
+      "level": 1
+    },
+    {
+      "id": "3.1",
+      "text": "回国后，作者开始了一段新的职业生涯。",
+      "level": 2
+    },
+    {
+      "id": "3.2",
+      "text": "作者决定创业。",
+      "level": 2
+    },
+    {
+      "id": "3.3",
+      "text": "创业面临资金压力、市场竞争和团队建设等挑战。",
+      "level": 2
+    },
+    {
+      "id": "3.3.1",
+      "text": "资金短缺是创业初期最大挑战。",
+      "level": 3
+    },
+    {
+      "id": "3.3.2",
+      "text": "市场竞争激烈。",
+      "level": 3
+    },
+    {
+      "id": "3.3.3",
+      "text": "组建高效团队是成功关键。",
+      "level": 3
+    },
+    {
+      "id": "3.4",
+      "text": "在创业道路上经历了失败与挫折。",
+      "level": 2
+    },
+    {
+      "id": "3.5",
+      "text": "作者从未放弃，坚持内心的不屈。",
+      "level": 2
+    },
+    {
+      "id": "4",
+      "text": "创业的成功带来了事业、财富、家庭的幸福以及人生的升华。",
+      "level": 1
+    },
+    {
+      "id": "4.1",
+      "text": "经过努力，事业逐渐有了起色。",
+      "level": 2
+    },
+    {
+      "id": "4.2",
+      "text": "财富得到了积累。",
+      "level": 2
+    },
+    {
+      "id": "4.3",
+      "text": "作者思考如何将财富回馈社会。",
+      "level": 2
+    },
+    {
+      "id": "4.4",
+      "text": "积极参与慈善事业，帮助他人。",
+      "level": 2
+    },
+    {
+      "id": "4.5",
+      "text": "事业成功带来了家庭的幸福。",
+      "level": 2
+    },
+    {
+      "id": "4.6",
+      "text": "与家人在一起的时光是宝贵的财富。",
+      "level": 2
+    },
+    {
+      "id": "4.7",
+      "text": "人生得到了升华。",
+      "level": 2
+    },
+    {
+      "id": "4.8",
+      "text": "作者将继续努力，书写人生篇章。",
+      "level": 2
+    },
+    {
+      "id": "5",
+      "text": "英国学习的感悟促进了独立思考和批判性思维。",
+      "level": 1
+    },
+    {
+      "id": "5.1",
+      "text": "英国的学习经历让作者受益匪浅。",
+      "level": 2
+    },
+    {
+      "id": "5.2",
+      "text": "培养了独立思考能力。",
+      "level": 2
+    },
+    {
+      "id": "5.3",
+      "text": "鼓励了批判性思维。",
+      "level": 2
+    },
+    {
+      "id": "5.4",
+      "text": "在英国期间，抓紧机会探索周边国家。",
+      "level": 2
+    },
+    {
+      "id": "5.4.1",
+      "text": "进行了法国之旅，感受巴黎浪漫与艺术。",
+      "level": 3
+    },
+    {
+      "id": "5.4.2",
+      "text": "进行了德国探访，了解工业与文化。",
+      "level": 3
+    },
+    {
+      "id": "6",
+      "text": "创业的激情和市场机遇推动了事业发展。",
+      "level": 1
+    },
+    {
+      "id": "6.1",
+      "text": "回国后，作者充满了创业的激情。",
+      "level": 2
+    },
+    {
+      "id": "6.2",
+      "text": "中国改革开放提供了广阔的市场机遇。",
+      "level": 2
+    },
+    {
+      "id": "6.2.1",
+      "text": "国家对创业的支持提供了鼓舞。",
+      "level": 3
+    },
+    {
+      "id": "6.2.2",
+      "text": "市场快速变化需要警惕。",
+      "level": 3
+    },
+    {
+      "id": "7",
+      "text": "作者经历了多次在英国的学习生活。",
+      "level": 1
+    },
+    {
+      "id": "7.1",
+      "text": "1987年，作为学生来到英国。",
+      "level": 2
+    },
+    {
+      "id": "7.2",
+      "text": "深刻体会到“读万卷书，不如行万里路”。",
+      "level": 2
+    },
+    {
+      "id": "7.3",
+      "text": "英国教育体系要求严格，作者乐在其中。",
+      "level": 2
+    },
+    {
+      "id": "7.4",
+      "text": "积极参加课外活动，包括体育运动和文化交流。",
+      "level": 2
+    },
+    {
+      "id": "7.5",
+      "text": "1987年，离开英国继续世界探索。",
+      "level": 2
+    },
+    {
+      "id": "7.6",
+      "text": "探索世界是为了寻找迷茫的自己。",
+      "level": 2
+    },
+    {
+      "id": "8",
+      "text": "回顾人生，作者感慨万千。",
+      "level": 1
+    },
+    {
+      "id": "8.1",
+      "text": "人生没有彩排，每一天都是现场直播。",
+      "level": 2
+    }
+  ],
+  "concepts": [
+    {
+      "name": "人生",
+      "frequency": 13,
+      "context": "贯穿全文，指代作者的生命历程，包括迷茫、成长、奋斗、成功和反思。"
+    },
+    {
+      "name": "迷茫",
+      "frequency": 3,
+      "context": "描述人生初期作者的状态，需要力量去突破。"
+    },
+    {
+      "name": "英国",
+      "frequency": 16,
+      "context": "作者留学和学习的主要地点，象征着新的开始和成长。"
+    },
+    {
+      "name": "学习",
+      "frequency": 9,
+      "context": "包括在英国的学习，以及学习知识和经验的过程。"
+    },
+    {
+      "name": "成长",
+      "frequency": 4,
+      "context": "指作者在经历和学习中的进步和蜕变。"
+    },
+    {
+      "name": "探索",
+      "frequency": 7,
+      "context": "指作者对世界、对自我、对知识的求索。"
+    },
+    {
+      "name": "创业",
+      "frequency": 9,
+      "context": "作者选择的事业道路，充满挑战和机遇。"
+    },
+    {
+      "name": "财富",
+      "frequency": 5,
+      "context": "事业成功带来的物质积累，及其价值的再思考。"
+    },
+    {
+      "name": "慈善",
+      "frequency": 5,
+      "context": "作者回馈社会的方式，带来快乐和满足。"
+    },
+    {
+      "name": "家庭",
+      "frequency": 5,
+      "context": "事业成功后的幸福来源，是心灵的港湾。"
+    },
+    {
+      "name": "激情",
+      "frequency": 4,
+      "context": "驱动作者前进的内在动力，尤其在创业初期。"
+    },
+    {
+      "name": "机遇",
+      "frequency": 4,
+      "context": "指中国改革开放带来的市场机会。"
+    },
+    {
+      "name": "挑战",
+      "frequency": 4,
+      "context": "包括学术、文化、语言、资金、市场、团队等各方面的困难。"
+    },
+    {
+      "name": "坚持",
+      "frequency": 3,
+      "context": "面对挫折和失败时的重要品质。"
+    },
+    {
+      "name": "升华",
+      "frequency": 4,
+      "context": "指人生境界的提升和价值的实现。"
+    },
+    {
+      "name": "1987年",
+      "frequency": 10,
+      "context": "特定时间点，作者在英国的学习经历。"
+    },
+    {
+      "name": "2005年",
+      "frequency": 1,
+      "context": "作者踏上英国旅程的具体年份。"
+    }
+  ],
+  "relations": [
+    {
+      "source": "人生",
+      "target": "迷茫",
+      "type": "characterised_by"
+    },
+    {
+      "source": "迷茫",
+      "target": "力量",
+      "type": "requires"
+    },
+    {
+      "source": "力量",
+      "target": "打破束缚",
+      "type": "enables"
+    },
+    {
+      "source": "力量",
+      "target": "勇往直前",
+      "type": "enables"
+    },
+    {
+      "source": "作者",
+      "target": "英国",
+      "type": "went_to"
+    },
+    {
+      "source": "英国",
+      "target": "学习",
+      "type": "context_for"
+    },
+    {
+      "source": "学习",
+      "target": "成长",
+      "type": "leads_to"
+    },
+    {
+      "source": "学习",
+      "target": "探索",
+      "type": "facilitates"
+    },
+    {
+      "source": "英国",
+      "target": "文化冲击",
+      "type": "experienced"
+    },
+    {
+      "source": "英国",
+      "target": "语言障碍",
+      "type": "experienced"
+    },
+    {
+      "source": "作者",
+      "target": "回国",
+      "type": "returned_to"
+    },
+    {
+      "source": "回国",
+      "target": "职业生涯转型",
+      "type": "followed_by"
+    },
+    {
+      "source": "职业生涯转型",
+      "target": "创业",
+      "type": "involved"
+    },
+    {
+      "source": "创业",
+      "target": "挑战",
+      "type": "involves"
+    },
+    {
+      "source": "创业",
+      "target": "机遇",
+      "type": "benefits_from"
+    },
+    {
+      "source": "创业",
+      "target": "激情",
+      "type": "driven_by"
+    },
+    {
+      "source": "创业",
+      "target": "坚持",
+      "type": "requires"
+    },
+    {
+      "source": "创业",
+      "target": "成功",
+      "type": "can_lead_to"
+    },
+    {
+      "source": "成功",
+      "target": "财富",
+      "type": "results_in"
+    },
+    {
+      "source": "成功",
+      "target": "家庭的幸福",
+      "type": "results_in"
+    },
+    {
+      "source": "成功",
+      "target": "人生的升华",
+      "type": "results_in"
+    },
+    {
+      "source": "财富",
+      "target": "慈善",
+      "type": "enables"
+    },
+    {
+      "source": "慈善",
+      "target": "快乐",
+      "type": "provides"
+    },
+    {
+      "source": "家庭的幸福",
+      "target": "港湾",
+      "type": "is_a"
+    },
+    {
+      "source": "人生",
+      "target": "现场直播",
+      "type": "analogous_to"
+    },
+    {
+      "source": "英国的学习生活",
+      "target": "独立自主",
+      "type": "fosters"
+    },
+    {
+      "source": "英国的学习生活",
+      "target": "批判性思维",
+      "type": "fosters"
+    },
+    {
+      "source": "探索世界的脚步",
+      "target": "寻找自己",
+      "type": "purpose_of"
+    },
+    {
+      "source": "1987年",
+      "target": "英国的学习生活",
+      "type": "period_of"
+    },
+    {
+      "source": "2005年",
+      "target": "前往英国",
+      "type": "year_of"
+    }
+  ],
+  "hierarchy": {
+    "main_topics": [
+      "人生迷茫与突破",
+      "远赴英国求学与成长",
+      "回国后的职业转型与创业",
+      "事业成功及其价值实现",
+      "人生感悟与回顾"
+    ],
+    "structure": "The document is structured chronologically and thematically, detailing the author's life journey from early confusion through international education, entrepreneurship, eventual success, and reflection. It's divided into chapters, each exploring a significant phase or aspect of the author's life, often punctuated by quotes that serve as guiding principles or reflections."
+  }
+}

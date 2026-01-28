@@ -1,0 +1,378 @@
+{
+  "propositions": [
+    {
+      "id": "1",
+      "text": "神女传说",
+      "level": 1
+    },
+    {
+      "id": "1.1",
+      "text": "序章",
+      "level": 2
+    },
+    {
+      "id": "1.2",
+      "text": "第一章：初遇",
+      "level": 2
+    },
+    {
+      "id": "1.2.1",
+      "text": "“外面是谁？”",
+      "level": 3
+    },
+    {
+      "id": "1.2.2",
+      "text": "“是我，iamgod。”",
+      "level": 3
+    },
+    {
+      "id": "1.3",
+      "text": "第二章：神女的传说",
+      "level": 2
+    },
+    {
+      "id": "1.3.1",
+      "text": "神女的出现",
+      "level": 3
+    },
+    {
+      "id": "1.3.2",
+      "text": "尘封的往事",
+      "level": 3
+    },
+    {
+      "id": "1.4",
+      "text": "第三章：命运的交织",
+      "level": 2
+    },
+    {
+      "id": "1.4.1",
+      "text": "宿命的邂逅",
+      "level": 3
+    },
+    {
+      "id": "1.4.2",
+      "text": "隐藏的危机",
+      "level": 3
+    },
+    {
+      "id": "1.5",
+      "text": "第四章：力量的觉醒",
+      "level": 2
+    },
+    {
+      "id": "1.5.1",
+      "text": "神秘的试炼",
+      "level": 3
+    },
+    {
+      "id": "1.5.2",
+      "text": "潜藏的真相",
+      "level": 3
+    },
+    {
+      "id": "1.6",
+      "text": "第五章：爱与羁绊",
+      "level": 2
+    },
+    {
+      "id": "1.6.1",
+      "text": "情感的升华",
+      "level": 3
+    },
+    {
+      "id": "1.6.2",
+      "text": "守护的誓言",
+      "level": 3
+    },
+    {
+      "id": "1.7",
+      "text": "第六章：最终的决战",
+      "level": 2
+    },
+    {
+      "id": "1.7.1",
+      "text": "黑暗的侵袭",
+      "level": 3
+    },
+    {
+      "id": "1.7.2",
+      "text": "希望的曙光",
+      "level": 3
+    },
+    {
+      "id": "1.8",
+      "text": "尾声",
+      "level": 2
+    },
+    {
+      "id": "1.9",
+      "text": "参考文献",
+      "level": 2
+    }
+  ],
+  "concepts": [
+    {
+      "name": "神女",
+      "frequency": 1,
+      "context": "The central theme of the document."
+    },
+    {
+      "name": "序章",
+      "frequency": 1,
+      "context": "The introductory part of the story."
+    },
+    {
+      "name": "第一章",
+      "frequency": 1,
+      "context": "The first chapter, titled '初遇'."
+    },
+    {
+      "name": "iamgod",
+      "frequency": 2,
+      "context": "Appears as a character name and in the references."
+    },
+    {
+      "name": "第二章",
+      "frequency": 1,
+      "context": "The second chapter, titled '神女的传说'."
+    },
+    {
+      "name": "神女的出现",
+      "frequency": 1,
+      "context": "A subsection within the second chapter."
+    },
+    {
+      "name": "尘封的往事",
+      "frequency": 1,
+      "context": "A subsection within the second chapter."
+    },
+    {
+      "name": "第三章",
+      "frequency": 1,
+      "context": "The third chapter, titled '命运的交织'."
+    },
+    {
+      "name": "宿命的邂逅",
+      "frequency": 1,
+      "context": "A subsection within the third chapter."
+    },
+    {
+      "name": "隐藏的危机",
+      "frequency": 1,
+      "context": "A subsection within the third chapter."
+    },
+    {
+      "name": "第四章",
+      "frequency": 1,
+      "context": "The fourth chapter, titled '力量的觉醒'."
+    },
+    {
+      "name": "神秘的试炼",
+      "frequency": 1,
+      "context": "A subsection within the fourth chapter."
+    },
+    {
+      "name": "潜藏的真相",
+      "frequency": 1,
+      "context": "A subsection within the fourth chapter."
+    },
+    {
+      "name": "第五章",
+      "frequency": 1,
+      "context": "The fifth chapter, titled '爱与羁绊'."
+    },
+    {
+      "name": "情感的升华",
+      "frequency": 1,
+      "context": "A subsection within the fifth chapter."
+    },
+    {
+      "name": "守护的誓言",
+      "frequency": 1,
+      "context": "A subsection within the fifth chapter."
+    },
+    {
+      "name": "第六章",
+      "frequency": 1,
+      "context": "The sixth chapter, titled '最终的决战'."
+    },
+    {
+      "name": "黑暗的侵袭",
+      "frequency": 1,
+      "context": "A subsection within the sixth chapter."
+    },
+    {
+      "name": "希望的曙光",
+      "frequency": 1,
+      "context": "A subsection within the sixth chapter."
+    },
+    {
+      "name": "尾声",
+      "frequency": 1,
+      "context": "The concluding part of the story."
+    },
+    {
+      "name": "参考文献",
+      "frequency": 1,
+      "context": "List of references at the end of the document."
+    }
+  ],
+  "relations": [
+    {
+      "source": "神女",
+      "target": "第二章：神女的传说",
+      "type": "is_about"
+    },
+    {
+      "source": "第一章",
+      "target": "初遇",
+      "type": "has_title"
+    },
+    {
+      "source": "第二章",
+      "target": "神女的传说",
+      "type": "has_title"
+    },
+    {
+      "source": "神女的出现",
+      "target": "第二章",
+      "type": "part_of"
+    },
+    {
+      "source": "尘封的往事",
+      "target": "第二章",
+      "type": "part_of"
+    },
+    {
+      "source": "第三章",
+      "target": "命运的交织",
+      "type": "has_title"
+    },
+    {
+      "source": "宿命的邂逅",
+      "target": "第三章",
+      "type": "part_of"
+    },
+    {
+      "source": "隐藏的危机",
+      "target": "第三章",
+      "type": "part_of"
+    },
+    {
+      "source": "第四章",
+      "target": "力量的觉醒",
+      "type": "has_title"
+    },
+    {
+      "source": "神秘的试炼",
+      "target": "第四章",
+      "type": "part_of"
+    },
+    {
+      "source": "潜藏的真相",
+      "target": "第四章",
+      "type": "part_of"
+    },
+    {
+      "source": "第五章",
+      "target": "爱与羁绊",
+      "type": "has_title"
+    },
+    {
+      "source": "情感的升华",
+      "target": "第五章",
+      "type": "part_of"
+    },
+    {
+      "source": "守护的誓言",
+      "target": "第五章",
+      "type": "part_of"
+    },
+    {
+      "source": "第六章",
+      "target": "最终的决战",
+      "type": "has_title"
+    },
+    {
+      "source": "黑暗的侵袭",
+      "target": "第六章",
+      "type": "part_of"
+    },
+    {
+      "source": "希望的曙光",
+      "target": "第六章",
+      "type": "part_of"
+    },
+    {
+      "source": "序章",
+      "target": "神女传说",
+      "type": "part_of"
+    },
+    {
+      "source": "第一章",
+      "target": "神女传说",
+      "type": "part_of"
+    },
+    {
+      "source": "第二章",
+      "target": "神女传说",
+      "type": "part_of"
+    },
+    {
+      "source": "第三章",
+      "target": "神女传说",
+      "type": "part_of"
+    },
+    {
+      "source": "第四章",
+      "target": "神女传说",
+      "type": "part_of"
+    },
+    {
+      "source": "第五章",
+      "target": "神女传说",
+      "type": "part_of"
+    },
+    {
+      "source": "第六章",
+      "target": "神女传说",
+      "type": "part_of"
+    },
+    {
+      "source": "尾声",
+      "target": "神女传说",
+      "type": "part_of"
+    },
+    {
+      "source": "参考文献",
+      "target": "神女传说",
+      "type": "part_of"
+    },
+    {
+      "source": "iamgod",
+      "target": "第一章：初遇",
+      "type": "mentioned_in"
+    },
+    {
+      "source": "iamgod",
+      "target": "参考文献",
+      "type": "mentioned_in"
+    }
+  ],
+  "hierarchy": {
+    "main_topics": [
+      "神女传说",
+      "序章",
+      "第一章：初遇",
+      "第二章：神女的传说",
+      "第三章：命运的交织",
+      "第四章：力量的觉醒",
+      "第五章：爱与羁绊",
+      "第六章：最终的决战",
+      "尾声",
+      "参考文献"
+    ],
+    "structure": "The document is structured as a narrative with a title, an introduction (序章), several chapters (第一章 to 第六章), each containing subsections, and a conclusion (尾声) followed by references. Chapters are numbered and titled, and some subsections are also titled."
+  }
+}

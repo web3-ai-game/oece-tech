@@ -1,0 +1,983 @@
+{
+  "propositions": [
+    {
+      "id": "1",
+      "text": "《穿越事件簿》记录了关于时间穿越的各种事件。",
+      "level": 1
+    },
+    {
+      "id": "1.1",
+      "text": "这些事件包括作者亲身经历、听闻以及想象中的。",
+      "level": 2
+    },
+    {
+      "id": "2",
+      "text": "作者对“如果能回到过去或者前往未来会怎样？”充满好奇。",
+      "level": 1
+    },
+    {
+      "id": "3",
+      "text": "作者接触到了一些关于时间旅行的理论和设想。",
+      "level": 1
+    },
+    {
+      "id": "4",
+      "text": "作者开始尝试将时间旅行的想法融入到创作中。",
+      "level": 1
+    },
+    {
+      "id": "5",
+      "text": "时间的可逆性是一个关于时间穿越的猜想。",
+      "level": 1
+    },
+    {
+      "id": "5.1",
+      "text": "时间是否像一条河流可以逆流而上？",
+      "level": 2
+    },
+    {
+      "id": "5.2",
+      "text": "时间是否更像一个单向通道，只能向前流动？",
+      "level": 2
+    },
+    {
+      "id": "6",
+      "text": "平行宇宙的存在是关于时间穿越的猜想。",
+      "level": 1
+    },
+    {
+      "id": "6.1",
+      "text": "如果改变了过去，是否会创造出一个新的时间线？",
+      "level": 2
+    },
+    {
+      "id": "6.2",
+      "text": "我们所处的现实是否没有被改变？",
+      "level": 2
+    },
+    {
+      "id": "7",
+      "text": "悖论的困扰是关于时间穿越的猜想。",
+      "level": 1
+    },
+    {
+      "id": "7.1",
+      "text": "祖父悖论或任何可能导致逻辑矛盾的时间旅行如何被解决？",
+      "level": 2
+    },
+    {
+      "id": "7.2",
+      "text": "是绝对无法避免，还是有更深层的机制？",
+      "level": 2
+    },
+    {
+      "id": "8",
+      "text": "一切的开端源于一个看似普通的夜晚。",
+      "level": 1
+    },
+    {
+      "id": "9",
+      "text": "作者在浏览一个冷门技术论坛时，发现了“时空扰动异常报告”帖子。",
+      "level": 1
+    },
+    {
+      "id": "9.1",
+      "text": "帖子内容晦涩难懂，充斥着未接触过的物理学概念。",
+      "level": 2
+    },
+    {
+      "id": "9.2",
+      "text": "帖子中的描述隐约指向了“时间旅行”的可能性。",
+      "level": 2
+    },
+    {
+      "id": "10",
+      "text": "“观测到局部时空曲率异常升高，伴随高能粒子流……”",
+      "level": 1
+    },
+    {
+      "id": "10.1",
+      "text": "“初步推测可能为……人为干预……正在尝试稳定……”",
+      "level": 2
+    },
+    {
+      "id": "11",
+      "text": "这段文字种下了探索的欲望。",
+      "level": 1
+    },
+    {
+      "id": "12",
+      "text": "在论坛深处，作者找到了关于一个神秘装置的线索。",
+      "level": 1
+    },
+    {
+      "id": "12.1",
+      "text": "该装置据称是某个未公开实验室项目遗留下的产物。",
+      "level": 2
+    },
+    {
+      "id": "12.2",
+      "text": "该装置具有操纵时空坐标的能力。",
+      "level": 2
+    },
+    {
+      "id": "12.3",
+      "text": "关于装置的具体位置和工作原理，只有模糊的碎片信息。",
+      "level": 2
+    },
+    {
+      "id": "13",
+      "text": "作者花费大量时间和精力搜集技术资料、科学论文及科幻小说。",
+      "level": 1
+    },
+    {
+      "id": "13.1",
+      "text": "目的是拼凑出关于装置的真相。",
+      "level": 2
+    },
+    {
+      "id": "14",
+      "text": "经过不懈努力，作者获得了关键性信息。",
+      "level": 1
+    },
+    {
+      "id": "15",
+      "text": "作者最终在一个废弃科研基地中找到了传说中的装置。",
+      "level": 1
+    },
+    {
+      "id": "15.1",
+      "text": "装置静静地躺在那里，散发着古老而神秘的气息。",
+      "level": 2
+    },
+    {
+      "id": "16",
+      "text": "“这是一个关于时空坐标定位的伪代码片段，用于描述装置的基本功能”",
+      "level": 1
+    },
+    {
+      "id": "17",
+      "text": "作者怀着忐忑与激动的心情启动了装置。",
+      "level": 1
+    },
+    {
+      "id": "18",
+      "text": "伴随着强烈的能量波动和炫目的光芒，作者的人生轨迹发生了翻天覆地的变化。",
+      "level": 1
+    },
+    {
+      "id": "19",
+      "text": "作者的第一次穿越将他带回了遥远的过去。",
+      "level": 1
+    },
+    {
+      "id": "20",
+      "text": "作者亲眼见证了书本上读到的历史事件。",
+      "level": 1
+    },
+    {
+      "id": "20.1",
+      "text": "作者感受到了那个时代的氛围。",
+      "level": 2
+    },
+    {
+      "id": "21",
+      "text": "“历史的洪流滚滚向前，而我，只是一个微不足道的旁观者。”",
+      "level": 1
+    },
+    {
+      "id": "22",
+      "text": "作者小心翼翼地观察，尽量不留下痕迹。",
+      "level": 1
+    },
+    {
+      "id": "22.1",
+      "text": "目的是避免改变历史的进程。",
+      "level": 2
+    },
+    {
+      "id": "23",
+      "text": "即使再小心，也难免会有疏忽。",
+      "level": 1
+    },
+    {
+      "id": "24",
+      "text": "在一次穿越中，作者无意中与一位历史人物产生了互动。",
+      "level": 1
+    },
+    {
+      "id": "24.1",
+      "text": "作者努力纠正，但事后回想仍心有余悸。",
+      "level": 2
+    },
+    {
+      "id": "25",
+      "text": "这让作者更加深刻地认识到，时间旅行并非儿戏。",
+      "level": 1
+    },
+    {
+      "id": "25.1",
+      "text": "每一个微小的举动都可能引发蝴蝶效应。",
+      "level": 2
+    },
+    {
+      "id": "26",
+      "text": "每一次穿越，都像是在为人生添加一小块记忆的拼图。",
+      "level": 1
+    },
+    {
+      "id": "27",
+      "text": "作者开始更加珍惜“现在”。",
+      "level": 1
+    },
+    {
+      "id": "28",
+      "text": "作者也更加敬畏“过去”和“未来”。",
+      "level": 1
+    },
+    {
+      "id": "29",
+      "text": "未来的世界远超作者的想象。",
+      "level": 1
+    },
+    {
+      "id": "29.1",
+      "text": "科技的飞速发展和巨大的社会形态变迁让作者目不暇接。",
+      "level": 2
+    },
+    {
+      "id": "30",
+      "text": "作者看到了人类文明的璀璨成就。",
+      "level": 1
+    },
+    {
+      "id": "31",
+      "text": "作者也看到了潜藏的危机和挑战。",
+      "level": 1
+    },
+    {
+      "id": "32",
+      "text": "未来的某些景象让作者感到警醒。",
+      "level": 1
+    },
+    {
+      "id": "33",
+      "text": "这些景象提醒着作者，人类的未来并非一成不变。",
+      "level": 1
+    },
+    {
+      "id": "34",
+      "text": "作者的未来选择至关重要。",
+      "level": 1
+    },
+    {
+      "id": "35",
+      "text": "“每一个时代，都有它独特的困境，也有它不灭的希望。”",
+      "level": 1
+    },
+    {
+      "id": "36",
+      "text": "作者的时间旅行还在继续。",
+      "level": 1
+    },
+    {
+      "id": "37",
+      "text": "每一次经历都让作者对这个世界有更深的理解。",
+      "level": 1
+    },
+    {
+      "id": "38",
+      "text": "作者不知道旅程会走向何方。",
+      "level": 1
+    },
+    {
+      "id": "39",
+      "text": "作者不知道是否会遇到其他时间旅行者。",
+      "level": 1
+    },
+    {
+      "id": "40",
+      "text": "也许，这本身就是一场永无止境的探索。",
+      "level": 1
+    }
+  ],
+  "concepts": [
+    {
+      "name": "时间穿越",
+      "frequency": 12,
+      "context": "核心概念，贯穿整个文档，包括其可能性、理论、猜想、事件和影响。"
+    },
+    {
+      "name": "事件簿",
+      "frequency": 1,
+      "context": "文档的名称，指代记录时间穿越事件的集合。"
+    },
+    {
+      "name": "作者",
+      "frequency": 16,
+      "context": "文档的叙述者，记录者和亲历者。"
+    },
+    {
+      "name": "时间旅行",
+      "frequency": 8,
+      "context": "与时间穿越同义，指代回到过去或前往未来的能力和行为。"
+    },
+    {
+      "name": "科幻",
+      "frequency": 2,
+      "context": "作者的热爱领域，以及时间旅行题材的归属。"
+    },
+    {
+      "name": "理论",
+      "frequency": 3,
+      "context": "关于时间旅行的科学设想和理论基础。"
+    },
+    {
+      "name": "设想",
+      "frequency": 2,
+      "context": "对时间旅行可能性的推测和构思。"
+    },
+    {
+      "name": "故事",
+      "frequency": 1,
+      "context": "作者将时间旅行想法融入创作的内容。"
+    },
+    {
+      "name": "猜想",
+      "frequency": 3,
+      "context": "对时间旅行本质的初步理解和推测，包括可逆性、平行宇宙、悖论。"
+    },
+    {
+      "name": "时间",
+      "frequency": 5,
+      "context": "与可逆性、单向流动、时间线等概念相关。"
+    },
+    {
+      "name": "河流",
+      "frequency": 1,
+      "context": "用来比喻时间流动方向的意象。"
+    },
+    {
+      "name": "通道",
+      "frequency": 1,
+      "context": "用来比喻时间流动方向的意象。"
+    },
+    {
+      "name": "单向",
+      "frequency": 1,
+      "context": "描述时间的流动方向。"
+    },
+    {
+      "name": "平行宇宙",
+      "frequency": 2,
+      "context": "关于改变过去可能产生新时间线的猜想。"
+    },
+    {
+      "name": "改变",
+      "frequency": 2,
+      "context": "指改变过去的行为及其可能带来的后果。"
+    },
+    {
+      "name": "时间线",
+      "frequency": 1,
+      "context": "与平行宇宙和改变过去相关。"
+    },
+    {
+      "name": "现实",
+      "frequency": 1,
+      "context": "与自身所处的时间线相关。"
+    },
+    {
+      "name": "悖论",
+      "frequency": 2,
+      "context": "时间旅行中可能遇到的逻辑矛盾，如祖父悖论。"
+    },
+    {
+      "name": "逻辑矛盾",
+      "frequency": 1,
+      "context": "与悖论相关。"
+    },
+    {
+      "name": "机制",
+      "frequency": 1,
+      "context": "指解决时间旅行悖论的潜在方式。"
+    },
+    {
+      "name": "夜晚",
+      "frequency": 1,
+      "context": "事件的开端时间点。"
+    },
+    {
+      "name": "论坛",
+      "frequency": 2,
+      "context": "作者获取信息的主要途径。"
+    },
+    {
+      "name": "技术论坛",
+      "frequency": 1,
+      "context": "发现关键信息的特定类型论坛。"
+    },
+    {
+      "name": "冷门",
+      "frequency": 1,
+      "context": "描述技术论坛的特点。"
+    },
+    {
+      "name": "时空扰动异常报告",
+      "frequency": 1,
+      "context": "引起作者注意的帖子标题。"
+    },
+    {
+      "name": "帖子",
+      "frequency": 2,
+      "context": "作者获取信息的载体。"
+    },
+    {
+      "name": "内容",
+      "frequency": 1,
+      "context": "描述帖子包含的信息。"
+    },
+    {
+      "name": "晦涩难懂",
+      "frequency": 1,
+      "context": "描述帖子内容的特点。"
+    },
+    {
+      "name": "物理学概念",
+      "frequency": 1,
+      "context": "帖子中包含的专业术语。"
+    },
+    {
+      "name": "描述",
+      "frequency": 1,
+      "context": "指帖子中关于时间旅行的陈述。"
+    },
+    {
+      "name": "可能性",
+      "frequency": 3,
+      "context": "指时间旅行发生的几率和迹象。"
+    },
+    {
+      "name": "探索",
+      "frequency": 2,
+      "context": "作者对时间旅行的追寻和研究。"
+    },
+    {
+      "name": "欲望",
+      "frequency": 1,
+      "context": "驱动作者探索的内在动力。"
+    },
+    {
+      "name": "神秘装置",
+      "frequency": 2,
+      "context": "用于时间操纵的关键物品。"
+    },
+    {
+      "name": "线索",
+      "frequency": 1,
+      "context": "关于神秘装置的零散信息。"
+    },
+    {
+      "name": "实验室项目",
+      "frequency": 1,
+      "context": "神秘装置的来源。"
+    },
+    {
+      "name": "未公开",
+      "frequency": 1,
+      "context": "描述实验室项目的性质。"
+    },
+    {
+      "name": "遗留",
+      "frequency": 1,
+      "context": "描述装置的来源状态。"
+    },
+    {
+      "name": "产物",
+      "frequency": 1,
+      "context": "指装置的性质。"
+    },
+    {
+      "name": "操纵",
+      "frequency": 1,
+      "context": "描述装置的功能。"
+    },
+    {
+      "name": "时空坐标",
+      "frequency": 1,
+      "context": "装置操纵的目标。"
+    },
+    {
+      "name": "位置",
+      "frequency": 1,
+      "context": "关于装置的信息。"
+    },
+    {
+      "name": "工作原理",
+      "frequency": 1,
+      "context": "关于装置的信息。"
+    },
+    {
+      "name": "碎片信息",
+      "frequency": 1,
+      "context": "关于装置的零散知识。"
+    },
+    {
+      "name": "时间和精力",
+      "frequency": 1,
+      "context": "作者为搜集信息付出的代价。"
+    },
+    {
+      "name": "搜集",
+      "frequency": 1,
+      "context": "作者获取信息的行为。"
+    },
+    {
+      "name": "技术资料",
+      "frequency": 1,
+      "context": "作者搜集的内容。"
+    },
+    {
+      "name": "科学论文",
+      "frequency": 1,
+      "context": "作者搜集的内容。"
+    },
+    {
+      "name": "科幻小说",
+      "frequency": 1,
+      "context": "作者搜集的内容，与时间机器相关。"
+    },
+    {
+      "name": "描写",
+      "frequency": 1,
+      "context": "科幻小说中关于时间机器的陈述。"
+    },
+    {
+      "name": "拼凑",
+      "frequency": 1,
+      "context": "作者整合信息的方式。"
+    },
+    {
+      "name": "真相",
+      "frequency": 1,
+      "context": "作者追求的目标。"
+    },
+    {
+      "name": "不懈努力",
+      "frequency": 1,
+      "context": "作者获取信息的坚持。"
+    },
+    {
+      "name": "关键性信息",
+      "frequency": 1,
+      "context": "作者搜集到的重要知识。"
+    },
+    {
+      "name": "废弃科研基地",
+      "frequency": 1,
+      "context": "找到装置的地点。"
+    },
+    {
+      "name": "传说中",
+      "frequency": 1,
+      "context": "描述装置的神秘性。"
+    },
+    {
+      "name": "气息",
+      "frequency": 1,
+      "context": "描述装置的特质。"
+    },
+    {
+      "name": "伪代码",
+      "frequency": 1,
+      "context": "用于描述装置功能的代码片段。"
+    },
+    {
+      "name": "时空坐标定位",
+      "frequency": 1,
+      "context": "装置的核心功能。"
+    },
+    {
+      "name": "功能",
+      "frequency": 1,
+      "context": "指装置的作用。"
+    },
+    {
+      "name": "忐忑",
+      "frequency": 1,
+      "context": "作者启动装置时的情绪。"
+    },
+    {
+      "name": "激动",
+      "frequency": 1,
+      "context": "作者启动装置时的情绪。"
+    },
+    {
+      "name": "能量波动",
+      "frequency": 1,
+      "context": "启动装置时产生的现象。"
+    },
+    {
+      "name": "光芒",
+      "frequency": 1,
+      "context": "启动装置时产生的现象。"
+    },
+    {
+      "name": "人生轨迹",
+      "frequency": 1,
+      "context": "指作者生命的进程。"
+    },
+    {
+      "name": "翻天覆地",
+      "frequency": 1,
+      "context": "形容人生轨迹的巨大改变。"
+    },
+    {
+      "name": "过去",
+      "frequency": 3,
+      "context": "作者穿越的目的地之一，历史的见证。"
+    },
+    {
+      "name": "历史事件",
+      "frequency": 1,
+      "context": "作者在过去亲眼见证的内容。"
+    },
+    {
+      "name": "书本",
+      "frequency": 1,
+      "context": "作者学习历史的来源。"
+    },
+    {
+      "name": "时代氛围",
+      "frequency": 1,
+      "context": "作者在过去感受到的环境。"
+    },
+    {
+      "name": "历史的洪流",
+      "frequency": 1,
+      "context": "比喻历史的进程。"
+    },
+    {
+      "name": "旁观者",
+      "frequency": 1,
+      "context": "作者在历史中的身份。"
+    },
+    {
+      "name": "小心翼翼",
+      "frequency": 1,
+      "context": "作者在过去的行为方式。"
+    },
+    {
+      "name": "痕迹",
+      "frequency": 1,
+      "context": "避免在过去留下的迹象。"
+    },
+    {
+      "name": "历史进程",
+      "frequency": 1,
+      "context": "作者避免干预的目标。"
+    },
+    {
+      "name": "疏忽",
+      "frequency": 1,
+      "context": "作者在时间旅行中可能犯的错误。"
+    },
+    {
+      "name": "历史人物",
+      "frequency": 1,
+      "context": "作者在过去可能互动的人。"
+    },
+    {
+      "name": "互动",
+      "frequency": 1,
+      "context": "作者与历史人物的接触。"
+    },
+    {
+      "name": "纠正",
+      "frequency": 1,
+      "context": "作者尝试弥补错误的行为。"
+    },
+    {
+      "name": "心有余悸",
+      "frequency": 1,
+      "context": "作者对互动事件的感受。"
+    },
+    {
+      "name": "儿戏",
+      "frequency": 1,
+      "context": "比喻时间旅行的严肃性。"
+    },
+    {
+      "name": "蝴蝶效应",
+      "frequency": 1,
+      "context": "指微小行为可能引发的巨大后果。"
+    },
+    {
+      "name": "记忆",
+      "frequency": 1,
+      "context": "每次穿越的收获。"
+    },
+    {
+      "name": "拼图",
+      "frequency": 1,
+      "context": "比喻记忆的累积。"
+    },
+    {
+      "name": "珍惜",
+      "frequency": 1,
+      "context": "作者对“现在”的态度。"
+    },
+    {
+      "name": "敬畏",
+      "frequency": 1,
+      "context": "作者对“过去”和“未来”的态度。"
+    },
+    {
+      "name": "未来",
+      "frequency": 3,
+      "context": "作者穿越的目的地之一，未来的图景和警示。"
+    },
+    {
+      "name": "想象",
+      "frequency": 1,
+      "context": "描述作者对未来的认知。"
+    },
+    {
+      "name": "科技发展",
+      "frequency": 1,
+      "context": "未来世界的特征。"
+    },
+    {
+      "name": "社会形态",
+      "frequency": 1,
+      "context": "未来世界的特征。"
+    },
+    {
+      "name": "目不暇接",
+      "frequency": 1,
+      "context": "形容作者对未来景象的感受。"
+    },
+    {
+      "name": "文明成就",
+      "frequency": 1,
+      "context": "未来世界的积极方面。"
+    },
+    {
+      "name": "危机",
+      "frequency": 1,
+      "context": "未来世界的消极方面。"
+    },
+    {
+      "name": "挑战",
+      "frequency": 1,
+      "context": "未来世界的消极方面。"
+    },
+    {
+      "name": "警醒",
+      "frequency": 1,
+      "context": "作者从未来景象中获得的启示。"
+    },
+    {
+      "name": "一成不变",
+      "frequency": 1,
+      "context": "描述人类未来的不确定性。"
+    },
+    {
+      "name": "选择",
+      "frequency": 1,
+      "context": "指作者决定未来的行为。"
+    },
+    {
+      "name": "至关重要",
+      "frequency": 1,
+      "context": "形容作者选择的重要性。"
+    },
+    {
+      "name": "时代",
+      "frequency": 1,
+      "context": "不同时期的特点。"
+    },
+    {
+      "name": "困境",
+      "frequency": 1,
+      "context": "每个时代的难题。"
+    },
+    {
+      "name": "希望",
+      "frequency": 1,
+      "context": "每个时代存在的积极力量。"
+    },
+    {
+      "name": "旅程",
+      "frequency": 2,
+      "context": "作者的时间旅行过程。"
+    },
+    {
+      "name": "理解",
+      "frequency": 1,
+      "context": "作者通过经历获得的知识。"
+    },
+    {
+      "name": "走向",
+      "frequency": 1,
+      "context": "指旅程的最终方向。"
+    },
+    {
+      "name": "时间旅行者",
+      "frequency": 1,
+      "context": "可能在旅程中遇到的其他人。"
+    },
+    {
+      "name": "永无止境",
+      "frequency": 1,
+      "context": "形容探索的持续性。"
+    }
+  ],
+  "relations": [
+    {
+      "source": "时间可逆性",
+      "target": "猜想",
+      "type": "is_a"
+    },
+    {
+      "source": "平行宇宙",
+      "target": "猜想",
+      "type": "is_a"
+    },
+    {
+      "source": "悖论",
+      "target": "猜想",
+      "type": "is_a"
+    },
+    {
+      "source": "帖子",
+      "target": "时间旅行",
+      "type": "implies_possibility_of"
+    },
+    {
+      "source": "神秘装置",
+      "target": "操纵时空坐标",
+      "type": "can_do"
+    },
+    {
+      "source": "作者",
+      "target": "神秘装置",
+      "type": "finds"
+    },
+    {
+      "source": "作者",
+      "target": "时间机器",
+      "type": "uses"
+    },
+    {
+      "source": "时间机器",
+      "target": "设置时空坐标",
+      "type": "has_function"
+    },
+    {
+      "source": "时间机器",
+      "target": "激活",
+      "type": "has_function"
+    },
+    {
+      "source": "时间机器",
+      "target": "旅行",
+      "type": "has_function"
+    },
+    {
+      "source": "第一次穿越",
+      "target": "过去",
+      "type": "travels_to"
+    },
+    {
+      "source": "作者",
+      "target": "历史事件",
+      "type": "witnesses"
+    },
+    {
+      "source": "作者",
+      "target": "历史进程",
+      "type": "avoids_changing"
+    },
+    {
+      "source": "互动",
+      "target": "历史人物",
+      "type": "involves"
+    },
+    {
+      "source": "互动",
+      "target": "蝴蝶效应",
+      "type": "can_cause"
+    },
+    {
+      "source": "时间旅行",
+      "target": "儿戏",
+      "type": "is_not"
+    },
+    {
+      "source": "穿越",
+      "target": "记忆",
+      "type": "adds_to"
+    },
+    {
+      "source": "作者",
+      "target": "现在",
+      "type": "cherishes_more"
+    },
+    {
+      "source": "作者",
+      "target": "过去",
+      "type": "respects_more"
+    },
+    {
+      "source": "作者",
+      "target": "未来",
+      "type": "respects_more"
+    },
+    {
+      "source": "未来",
+      "target": "想象",
+      "type": "exceeds"
+    },
+    {
+      "source": "未来景象",
+      "target": "警醒",
+      "type": "causes"
+    },
+    {
+      "source": "人类未来",
+      "target": "一成不变",
+      "type": "is_not"
+    },
+    {
+      "source": "作者选择",
+      "target": "人类未来",
+      "type": "influences"
+    },
+    {
+      "source": "时间旅行",
+      "target": "探索",
+      "type": "is_a"
+    },
+    {
+      "source": "参考资料",
+      "target": "时间旅行理论基础",
+      "type": "links_to"
+    },
+    {
+      "source": "参考资料",
+      "target": "相对论与时空",
+      "type": "links_to"
+    }
+  ],
+  "hierarchy": {
+    "main_topics": [
+      "《穿越事件簿》",
+      "时间旅行猜想",
+      "初次接触",
+      "过去的碎片",
+      "未来的回响"
+    ],
+    "structure": "文档采用章节式结构，从序章引入概念，然后分卷叙述时间旅行的经历和感悟，最后包含参考资料和注释。"
+  }
+}

@@ -1,0 +1,361 @@
+{
+  "propositions": [
+    {
+      "id": "1",
+      "text": "The story begins with the narrator, a journalist named Na Duo, being woken up for an important interview.",
+      "level": 1
+    },
+    {
+      "id": "1.1",
+      "text": "The interview is about a significant archaeological discovery in Delingha City, Qinghai Province.",
+      "level": 2
+    },
+    {
+      "id": "1.2",
+      "text": "This discovery is so important that it could rewrite the history of the Neolithic Age.",
+      "level": 2
+    },
+    {
+      "id": "2",
+      "text": "The reason for the discovery's significance is the finding of iron tools in a Neolithic village, which contradicts established historical timelines.",
+      "level": 1
+    },
+    {
+      "id": "2.1",
+      "text": "The village's existence is also estimated to predate the Neolithic Age.",
+      "level": 2
+    },
+    {
+      "id": "3",
+      "text": "The narrator travels to Delingha to cover the story, encountering other journalists and facing the challenges of reaching the remote archaeological site.",
+      "level": 1
+    },
+    {
+      "id": "3.1",
+      "text": "He emphasizes the importance of timely reporting in journalism.",
+      "level": 2
+    },
+    {
+      "id": "3.2",
+      "text": "Upon arrival at the site, the narrator observes the media frenzy and the efforts of the archaeological team to manage the situation.",
+      "level": 2
+    },
+    {
+      "id": "4",
+      "text": "At a press conference, Professor Wu Renjie, the head of the archaeological team, presents the findings.",
+      "level": 1
+    },
+    {
+      "id": "4.1",
+      "text": "He confirms the discovery of iron tools, despite the site belonging to the Neolithic period.",
+      "level": 2
+    },
+    {
+      "id": "4.2",
+      "text": "The team has found no evidence of kilns or other means of iron smelting, making the origin of the iron artifacts a mystery.",
+      "level": 2
+    },
+    {
+      "id": "4.3",
+      "text": "Questions arise about natural iron formation, supernatural phenomena, and extraterrestrial involvement, which Professor Wu dismisses for lack of scientific evidence.",
+      "level": 2
+    },
+    {
+      "id": "5",
+      "text": "The narrator tours the excavation site, examining the iron artifacts and an ancient stone slab with intricate carvings.",
+      "level": 1
+    },
+    {
+      "id": "5.1",
+      "text": "The stone slab features geometric patterns, human figures with unique symbols, and depictions of a serpent and an oval shape with tentacles.",
+      "level": 2
+    },
+    {
+      "id": "5.2",
+      "text": "Professor Wu orders carbon-14 dating for the findings.",
+      "level": 2
+    },
+    {
+      "id": "6",
+      "text": "Returning to Delingha, the narrator learns about the 'twin lakes' – Keluk Lake (freshwater) and Tosu Lake (saltwater) – and a local legend about Bai Gong Mountain.",
+      "level": 1
+    },
+    {
+      "id": "6.1",
+      "text": "A local waiter warns him against visiting Bai Gong Mountain, calling it a place of bad luck and home to 'demonic iron'.",
+      "level": 2
+    },
+    {
+      "id": "7",
+      "text": "The narrator visits Bai Gong Mountain, finding it cordoned off by soldiers and bearing a sign that reads 'Delingha City Alien Ruins'.",
+      "level": 1
+    },
+    {
+      "id": "7.1",
+      "text": "He learns that news of the 'alien ruins' has been widely reported but also met with skepticism and claims of it being a hoax.",
+      "level": 2
+    },
+    {
+      "id": "8",
+      "text": "A week later, the narrator's friend, Ye Tong, who is from Qinghai and has a mysterious tribal background, visits him.",
+      "level": 1
+    },
+    {
+      "id": "8.1",
+      "text": "Ye Tong invites the narrator to return to Delingha with her for a significant tribal event called a 'Great Sacrifice'.",
+      "level": 2
+    },
+    {
+      "id": "8.2",
+      "text": "She explains that her tribe is known as 'Demirxi', which means 'gatekeeper of hell', and that a sacred 'divine box' containing the finger of a vanquished demon is central to the ritual.",
+      "level": 2
+    },
+    {
+      "id": "9",
+      "text": "The narrator agrees to accompany Ye Tong, driven by curiosity about the tribal legends and the mysteries surrounding Delingha.",
+      "level": 1
+    },
+    {
+      "id": "10",
+      "text": "They travel back to Delingha, where they encounter Ye Tong's reclusive tribal members who are gathering for the 'Great Sacrifice'.",
+      "level": 1
+    },
+    {
+      "id": "10.1",
+      "text": "The narrator observes the locals' fear and avoidance of Ye Tong's people, reinforcing the legend of 'Demirxi'.",
+      "level": 2
+    },
+    {
+      "id": "10.2",
+      "text": "They meet the tribal elder, 'Grandma', who is initially hesitant to allow the narrator to observe the ceremony but eventually agrees.",
+      "level": 2
+    },
+    {
+      "id": "11",
+      "text": "The 'Great Sacrifice' ceremony begins with a bonfire and a sacred altar featuring the 'divine box'.",
+      "level": 1
+    },
+    {
+      "id": "11.1",
+      "text": "The ceremony involves participants throwing sand into a glass of water, with the person who causes it to overflow being chosen as a 'warrior'.",
+      "level": 2
+    },
+    {
+      "id": "11.2",
+      "text": "Ye Tong deliberately causes the water to overflow, selecting her as the 'warrior'.",
+      "level": 2
+    },
+    {
+      "id": "11.3",
+      "text": "The elder's reaction suggests this outcome is significant and potentially ominous.",
+      "level": 3
+    },
+    {
+      "id": "12",
+      "text": "The narrator and Ye Tong are led to a dark underground room where further events unfold.",
+      "level": 1
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Archaeological Discovery",
+      "frequency": 7,
+      "context": "The central event of the initial part of the story, driving the plot and investigation."
+    },
+    {
+      "name": "Iron Age",
+      "frequency": 3,
+      "context": "The discovery of iron in the Neolithic period challenges the understanding of this historical era."
+    },
+    {
+      "name": "Neolithic Age",
+      "frequency": 4,
+      "context": "The historical period associated with the ancient village and its artifacts."
+    },
+    {
+      "name": "Journalism",
+      "frequency": 4,
+      "context": "The narrator's profession and the narrative perspective."
+    },
+    {
+      "name": "Delingha City",
+      "frequency": 9,
+      "context": "The geographical setting for both the archaeological discovery and the tribal events."
+    },
+    {
+      "name": "Qinghai Province",
+      "frequency": 4,
+      "context": "The broader region where Delingha is located."
+    },
+    {
+      "name": "Press Conference",
+      "frequency": 3,
+      "context": "The event where the archaeological findings are officially presented."
+    },
+    {
+      "name": "Professor Wu Renjie",
+      "frequency": 4,
+      "context": "The lead archaeologist presenting the findings."
+    },
+    {
+      "name": "Iron Artifacts",
+      "frequency": 5,
+      "context": "The key anomalous findings at the archaeological site."
+    },
+    {
+      "name": "Stone Slab Carvings",
+      "frequency": 3,
+      "context": "Mysterious carvings found at the archaeological site, adding to the enigma."
+    },
+    {
+      "name": "Twin Lakes",
+      "frequency": 3,
+      "context": "Keluk Lake and Tosu Lake, significant geographical features near the archaeological site."
+    },
+    {
+      "name": "Bai Gong Mountain",
+      "frequency": 5,
+      "context": "A mountain associated with local legends and an 'alien ruins' site."
+    },
+    {
+      "name": "Alien Ruins",
+      "frequency": 3,
+      "context": "The controversial designation for the site on Bai Gong Mountain."
+    },
+    {
+      "name": "Ye Tong",
+      "frequency": 10,
+      "context": "The narrator's friend with a mysterious tribal background."
+    },
+    {
+      "name": "Demirxi (Tribe)",
+      "frequency": 6,
+      "context": "Ye Tong's tribe, known for their secrecy and the legend of 'gatekeepers of hell'."
+    },
+    {
+      "name": "Great Sacrifice",
+      "frequency": 4,
+      "context": "A significant tribal ritual that the narrator witnesses."
+    },
+    {
+      "name": "Divine Box",
+      "frequency": 3,
+      "context": "A sacred artifact within Ye Tong's tribe, believed to contain a demon's finger."
+    },
+    {
+      "name": "Curiosity",
+      "frequency": 4,
+      "context": "A driving force for the narrator's actions and involvement in the events."
+    },
+    {
+      "name": "Mystery",
+      "frequency": 5,
+      "context": "A pervasive theme throughout the narrative, surrounding the archaeological findings and tribal lore."
+    },
+    {
+      "name": "Legend",
+      "frequency": 4,
+      "context": "Oral traditions and stories that shape the understanding of the events."
+    }
+  ],
+  "relations": [
+    {
+      "source": "Iron Artifacts",
+      "target": "Neolithic Age",
+      "type": "contradicts"
+    },
+    {
+      "source": "Archaeological Discovery",
+      "target": "Iron Artifacts",
+      "type": "includes"
+    },
+    {
+      "source": "Archaeological Discovery",
+      "target": "Delingha City",
+      "type": "located_in"
+    },
+    {
+      "source": "Journalism",
+      "target": "Narrator (Na Duo)",
+      "type": "is_profession_of"
+    },
+    {
+      "source": "Professor Wu Renjie",
+      "target": "Archaeological Discovery",
+      "type": "leads"
+    },
+    {
+      "source": "Ye Tong",
+      "target": "Demirxi (Tribe)",
+      "type": "belongs_to"
+    },
+    {
+      "source": "Ye Tong",
+      "target": "Great Sacrifice",
+      "type": "participates_in"
+    },
+    {
+      "source": "Demirxi (Tribe)",
+      "target": "Delingha City",
+      "type": "inhabits_near"
+    },
+    {
+      "source": "Demirxi (Tribe)",
+      "target": "Divine Box",
+      "type": "possesses"
+    },
+    {
+      "source": "Divine Box",
+      "target": "Great Sacrifice",
+      "type": "central_to"
+    },
+    {
+      "source": "Bai Gong Mountain",
+      "target": "Alien Ruins",
+      "type": "site_of"
+    },
+    {
+      "source": "Twin Lakes",
+      "target": "Delingha City",
+      "type": "near"
+    },
+    {
+      "source": "Curiosity",
+      "target": "Narrator (Na Duo)",
+      "type": "motivates"
+    },
+    {
+      "source": "Mystery",
+      "target": "Archaeological Discovery",
+      "type": "surrounds"
+    },
+    {
+      "source": "Mystery",
+      "target": "Demirxi (Tribe)",
+      "type": "surrounds"
+    },
+    {
+      "source": "Legend",
+      "target": "Demirxi (Tribe)",
+      "type": "pertains_to"
+    },
+    {
+      "source": "Narrator (Na Duo)",
+      "target": "Ye Tong",
+      "type": "is_friend_of"
+    },
+    {
+      "source": "Great Sacrifice",
+      "target": "Ye Tong",
+      "type": "involves_selection_of"
+    }
+  ],
+  "hierarchy": {
+    "main_topics": [
+      "Archaeological Enigma in Delingha",
+      "Tribal Rituals and Ancient Legends",
+      "The Narrator's Investigative Journey"
+    ],
+    "structure": "The document is structured chronologically and thematically, divided into sections that follow the narrator's journey and discoveries. It begins with the inciting incident of the archaeological find, progresses to the investigation and a secondary mysterious site, and culminates in the narrator's involvement in a tribal ritual. The narrative moves from factual reporting to the exploration of folklore and personal experience."
+  }
+}

@@ -1,0 +1,188 @@
+{
+  "propositions": [
+    {
+      "id": "1",
+      "text": "The document aims to represent structured Markdown for content from \"推理银版1202.PDF\".",
+      "level": 1
+    },
+    {
+      "id": "2",
+      "text": "Original text undergoes OCR, resulting in杂乱字符,多余空格, and断行.",
+      "level": 1
+    },
+    {
+      "id": "3",
+      "text": "The process involves cleaning and structuring the text into Markdown.",
+      "level": 1
+    },
+    {
+      "id": "4",
+      "text": "Elements like titles, code blocks, lists, and quotes are identified and formatted.",
+      "level": 1
+    },
+    {
+      "id": "5",
+      "text": "Markdown formatting is applied to headers, paragraphs, lists, quotes, and code blocks.",
+      "level": 1
+    },
+    {
+      "id": "6",
+      "text": "Academic references, footnotes, and bibliographies are also considered for formatting.",
+      "level": 1
+    },
+    {
+      "id": "7",
+      "text": "The output is a structured Markdown document from the original PDF content.",
+      "level": 1
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Markdown",
+      "frequency": 15,
+      "context": "Structured representation, formatting, output"
+    },
+    {
+      "name": "Text",
+      "frequency": 12,
+      "context": "Original, structured, cleaned, formatted"
+    },
+    {
+      "name": "OCR",
+      "frequency": 5,
+      "context": "Processing, errors, cleaning"
+    },
+    {
+      "name": "Structure",
+      "frequency": 5,
+      "context": "Logical, structured Markdown, content"
+    },
+    {
+      "name": "Formatting",
+      "frequency": 6,
+      "context": "Text, Markdown, elements, applied"
+    },
+    {
+      "name": "Content",
+      "frequency": 4,
+      "context": "Original, structured, example"
+    },
+    {
+      "name": "PDF",
+      "frequency": 2,
+      "context": "Original document format"
+    },
+    {
+      "name": "Elements",
+      "frequency": 4,
+      "context": "Titles, code blocks, lists, quotes"
+    },
+    {
+      "name": "Cleaning",
+      "frequency": 4,
+      "context": "Text, OCR errors, process"
+    },
+    {
+      "name": "Headers",
+      "frequency": 4,
+      "context": "Titles, Markdown levels"
+    },
+    {
+      "name": "Lists",
+      "frequency": 4,
+      "context": "Bulleted, numbered, formatted"
+    },
+    {
+      "name": "Code blocks",
+      "frequency": 4,
+      "context": "Formatted, language tags"
+    },
+    {
+      "name": "Quotes",
+      "frequency": 3,
+      "context": "Formatted, distinguished"
+    },
+    {
+      "name": "References",
+      "frequency": 3,
+      "context": "Academic, footnotes, bibliography"
+    },
+    {
+      "name": "Errors",
+      "frequency": 2,
+      "context": "OCR,杂乱字符,多余空格"
+    }
+  ],
+  "relations": [
+    {
+      "source": "OCR",
+      "target": "Text",
+      "type": "processes"
+    },
+    {
+      "source": "Cleaning",
+      "target": "Text",
+      "type": "applies to"
+    },
+    {
+      "source": "Formatting",
+      "target": "Markdown",
+      "type": "is part of"
+    },
+    {
+      "source": "Markdown",
+      "target": "Structure",
+      "type": "represents"
+    },
+    {
+      "source": "Elements",
+      "target": "Formatting",
+      "type": "are subject to"
+    },
+    {
+      "source": "PDF",
+      "target": "Text",
+      "type": "original format of"
+    },
+    {
+      "source": "Headers",
+      "target": "Markdown",
+      "type": "are formatted as"
+    },
+    {
+      "source": "Lists",
+      "target": "Markdown",
+      "type": "are formatted as"
+    },
+    {
+      "source": "Code blocks",
+      "target": "Markdown",
+      "type": "are formatted as"
+    },
+    {
+      "source": "Quotes",
+      "target": "Markdown",
+      "type": "are formatted as"
+    },
+    {
+      "source": "References",
+      "target": "Markdown",
+      "type": "are considered for"
+    },
+    {
+      "source": "Errors",
+      "target": "OCR",
+      "type": "are produced by"
+    }
+  ],
+  "hierarchy": {
+    "main_topics": [
+      "Document Analysis",
+      "Text Cleaning & Formatting",
+      "Markdown Structure",
+      "Element Formatting (Headers, Lists, Code, Quotes)",
+      "Academic Content Handling"
+    ],
+    "structure": "The document begins with an introduction to the task of representing PDF content in Markdown. It details the process of cleaning OCR errors, formatting various text elements (headers, paragraphs, lists, quotes, code blocks), and handling academic references. The output is a structured Markdown document."
+  }
+}

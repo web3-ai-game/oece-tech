@@ -1,0 +1,299 @@
+{
+  "propositions": [
+    {
+      "id": "1",
+      "text": "The document is a personal account of a supernatural experience, likely a horror story.",
+      "level": 1
+    },
+    {
+      "id": "1.1",
+      "text": "The narrator is writing to their parents to explain their unusual behavior and a disturbing event.",
+      "level": 2
+    },
+    {
+      "id": "1.1.1",
+      "text": "The narrator claims to be possessed by a ghost.",
+      "level": 3
+    },
+    {
+      "id": "1.2",
+      "text": "The narrator recounts moving into a new apartment with friends.",
+      "level": 2
+    },
+    {
+      "id": "1.2.1",
+      "text": "The apartment is a detached wooden house in a former resort area.",
+      "level": 3
+    },
+    {
+      "id": "1.2.2",
+      "text": "The narrator was living with his girlfriend, Li, and his friend Lei and his girlfriend, Yuan.",
+      "level": 3
+    },
+    {
+      "id": "1.3",
+      "text": "The narrator and his friends decide to play 'Ouija board' (笔仙).",
+      "level": 2
+    },
+    {
+      "id": "1.3.1",
+      "text": "The girls, Li and Yuan, are initially hesitant, warning against playing.",
+      "level": 3
+    },
+    {
+      "id": "1.3.2",
+      "text": "The narrator and Lei are skeptical and eager to try.",
+      "level": 3
+    },
+    {
+      "id": "1.4",
+      "text": "During the game, strange occurrences begin.",
+      "level": 2
+    },
+    {
+      "id": "1.4.1",
+      "text": "The pen moves on its own to draw circles.",
+      "level": 3
+    },
+    {
+      "id": "1.4.2",
+      "text": "A howling cat sound is heard from the mountain.",
+      "level": 3
+    },
+    {
+      "id": "1.5",
+      "text": "Following the Ouija board session, unsettling events escalate.",
+      "level": 2
+    },
+    {
+      "id": "1.5.1",
+      "text": "A black cat appears repeatedly in their vicinity.",
+      "level": 3
+    },
+    {
+      "id": "1.5.2",
+      "text": "An apparent car accident occurs, where the left front tire explodes despite the driver swerving to avoid a cat on the right.",
+      "level": 3
+    },
+    {
+      "id": "1.5.3",
+      "text": "The narrator and Lei experience unsettling phenomena like the car's interior light turning on and off by itself and getting lost on a road that seems to disappear.",
+      "level": 3
+    },
+    {
+      "id": "1.5.4",
+      "text": "The black cat appears directly on the windshield, leading to a near-crash.",
+      "level": 3
+    },
+    {
+      "id": "1.5.5",
+      "text": "The narrator realizes they took a wrong turn home, implying they emerged from the mountain instead of the road.",
+      "level": 3
+    },
+    {
+      "id": "1.6",
+      "text": "The narrator and Lei are increasingly fearful and believe they are being targeted by a supernatural force.",
+      "level": 2
+    },
+    {
+      "id": "1.6.1",
+      "text": "Their relationships with their girlfriends begin to deteriorate.",
+      "level": 3
+    },
+    {
+      "id": "1.6.2",
+      "text": "The narrator and Lei become heavy smokers due to stress.",
+      "level": 3
+    },
+    {
+      "id": "1.7",
+      "text": "The narrator expresses deep fear and a sense of impending doom.",
+      "level": 2
+    }
+  ],
+  "concepts": [
+    {
+      "name": "笔仙 (Ouija Board)",
+      "frequency": 10,
+      "context": "The central element that triggers the supernatural events."
+    },
+    {
+      "name": "鬼 (Ghost/Spirit)",
+      "frequency": 3,
+      "context": "The narrator's belief and fear of being possessed."
+    },
+    {
+      "name": "猫 (Cat)",
+      "frequency": 12,
+      "context": "A recurring symbol and harbinger of misfortune and the supernatural."
+    },
+    {
+      "name": "黑猫 (Black Cat)",
+      "frequency": 8,
+      "context": "Specifically, a black cat is the primary manifestation of the supernatural threat."
+    },
+    {
+      "name": "车祸 (Car Accident)",
+      "frequency": 3,
+      "context": "A near-fatal incident attributed to the supernatural presence."
+    },
+    {
+      "name": "迷路 (Getting Lost)",
+      "frequency": 5,
+      "context": "A recurring motif symbolizing the characters' disorientation and entrapment."
+    },
+    {
+      "name": "恐惧 (Fear)",
+      "frequency": 15,
+      "context": "The dominant emotion experienced by the narrator and Lei."
+    },
+    {
+      "name": "父母 (Parents)",
+      "frequency": 4,
+      "context": "The intended recipients of the narrator's letter."
+    },
+    {
+      "name": "科学 (Science)",
+      "frequency": 3,
+      "context": "The narrator's initial belief system, which is challenged by the events."
+    },
+    {
+      "name": "公寓 (Apartment/House)",
+      "frequency": 5,
+      "context": "The location where the supernatural events unfold."
+    },
+    {
+      "name": "木结构 (Wooden Structure)",
+      "frequency": 2,
+      "context": "A detail of the house's construction, possibly contributing to the atmosphere."
+    },
+    {
+      "name": "阴气 (Yin Energy/Ethereal Cold)",
+      "frequency": 2,
+      "context": "A description of the unsettling atmosphere of the house."
+    },
+    {
+      "name": "雷山 (Lei Mountain)",
+      "frequency": 4,
+      "context": "A geographical feature associated with the supernatural occurrences."
+    },
+    {
+      "name": "丽 (Li)",
+      "frequency": 15,
+      "context": "The narrator's girlfriend, who is increasingly distanced."
+    },
+    {
+      "name": "磊 (Lei)",
+      "frequency": 20,
+      "context": "The narrator's friend, who shares the terrifying experiences."
+    },
+    {
+      "name": "媛 (Yuan)",
+      "frequency": 12,
+      "context": "Lei's girlfriend."
+    },
+    {
+      "name": "星期五 (Friday)",
+      "frequency": 2,
+      "context": "A day associated with the supernatural occurrences, possibly seven days after the Ouija game."
+    },
+    {
+      "name": "电话 (Telephone)",
+      "frequency": 3,
+      "context": "The primary means of communication between the narrator and parents."
+    },
+    {
+      "name": "电子邮件 (Email)",
+      "frequency": 1,
+      "context": "The format of the letter to the parents."
+    }
+  ],
+  "relations": [
+    {
+      "source": "笔仙 (Ouija Board)",
+      "target": "鬼 (Ghost/Spirit)",
+      "type": "invokes"
+    },
+    {
+      "source": "猫 (Cat)",
+      "target": "恐惧 (Fear)",
+      "type": "evokes"
+    },
+    {
+      "source": "黑猫 (Black Cat)",
+      "target": "车祸 (Car Accident)",
+      "type": "causes"
+    },
+    {
+      "source": "迷路 (Getting Lost)",
+      "target": "恐惧 (Fear)",
+      "type": "induces"
+    },
+    {
+      "source": "磊 (Lei)",
+      "target": "笔仙 (Ouija Board)",
+      "type": "plays"
+    },
+    {
+      "source": "磊 (Lei)",
+      "target": "我 (Narrator)",
+      "type": "collaborates_with"
+    },
+    {
+      "source": "丽 (Li)",
+      "target": "我 (Narrator)",
+      "type": "is_girlfriend_of"
+    },
+    {
+      "source": "媛 (Yuan)",
+      "target": "磊 (Lei)",
+      "type": "is_girlfriend_of"
+    },
+    {
+      "source": "我 (Narrator)",
+      "target": "父母 (Parents)",
+      "type": "writes_to"
+    },
+    {
+      "source": "公寓 (Apartment/House)",
+      "target": "阴气 (Yin Energy/Ethereal Cold)",
+      "type": "is_characterized_by"
+    },
+    {
+      "source": "雷山 (Lei Mountain)",
+      "target": "猫 (Cat)",
+      "type": "is_location_of"
+    },
+    {
+      "source": "笔仙 (Ouija Board)",
+      "target": "星期五 (Friday)",
+      "type": "is_played_on"
+    },
+    {
+      "source": "车祸 (Car Accident)",
+      "target": "黑猫 (Black Cat)",
+      "type": "is_caused_by"
+    },
+    {
+      "source": "我 (Narrator)",
+      "target": "科学 (Science)",
+      "type": "initially_believes_in"
+    },
+    {
+      "source": "鬼 (Ghost/Spirit)",
+      "target": "科学 (Science)",
+      "type": "contradicts"
+    }
+  ],
+  "hierarchy": {
+    "main_topics": [
+      "The Narrator's Letter",
+      "The Decision to Play Ouija",
+      "The Ouija Game and its Aftermath",
+      "Escalating Supernatural Events",
+      "Fear and Deteriorating Relationships",
+      "The Implication of the Supernatural"
+    ],
+    "structure": "The document follows a chronological narrative of unsettling events, starting with an explanation to parents and progressing through the inciting incident (Ouija game), escalating paranormal phenomena, a car accident, getting lost, and the growing psychological toll on the protagonists."
+  }
+}

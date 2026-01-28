@@ -1,0 +1,760 @@
+{
+  "propositions": [
+    {
+      "id": "1",
+      "text": "女皇子",
+      "level": 1
+    },
+    {
+      "id": "1.1",
+      "text": "楔子",
+      "level": 2
+    }
+  ],
+  "concepts": [
+    {
+      "name": "女皇子",
+      "frequency": 1,
+      "context": "Title of the document."
+    },
+    {
+      "name": "楔子",
+      "frequency": 1,
+      "context": "Section heading, indicating an introduction or prologue."
+    },
+    {
+      "name": "txt",
+      "frequency": 2,
+      "context": "Likely a file extension or technical term, appearing in a garbled string."
+    },
+    {
+      "name": "http://www.paipaitxt.com/",
+      "frequency": 1,
+      "context": "A URL, possibly related to the source of the text, appearing in a garbled string."
+    },
+    {
+      "name": "纸",
+      "frequency": 1,
+      "context": "Mentioned in relation to being written on, indicating a physical medium for writing."
+    },
+    {
+      "name": "故事",
+      "frequency": 3,
+      "context": "Refers to narratives or tales, central to the content discussed."
+    },
+    {
+      "name": "人",
+      "frequency": 2,
+      "context": "Refers to people, characters within the narrative, or the audience."
+    },
+    {
+      "name": "时间",
+      "frequency": 3,
+      "context": "Relates to the passage of time, past, present, and future, within the narrative context."
+    },
+    {
+      "name": "命运",
+      "frequency": 3,
+      "context": "Discusses the concept of destiny or fate, a recurring theme."
+    },
+    {
+      "name": "选择",
+      "frequency": 3,
+      "context": "Highlights the act of making choices and their consequences."
+    },
+    {
+      "name": "现在",
+      "frequency": 3,
+      "context": "Refers to the present moment or current state of affairs."
+    },
+    {
+      "name": "过去",
+      "frequency": 3,
+      "context": "Refers to past events or experiences."
+    },
+    {
+      "name": "未来",
+      "frequency": 4,
+      "context": "Refers to future possibilities and outcomes."
+    },
+    {
+      "name": "权力",
+      "frequency": 1,
+      "context": "Implied by the title '女皇子' and discussions of influence and control."
+    },
+    {
+      "name": "改变",
+      "frequency": 3,
+      "context": "Relates to altering circumstances, destinies, or the course of events."
+    },
+    {
+      "name": "知道",
+      "frequency": 4,
+      "context": "Concerns the state of knowledge, understanding, or lack thereof."
+    },
+    {
+      "name": "生命",
+      "frequency": 2,
+      "context": "Refers to existence, life itself, and its experiences."
+    },
+    {
+      "name": "希望",
+      "frequency": 2,
+      "context": "Relates to aspirations and positive expectations for the future."
+    },
+    {
+      "name": "放弃",
+      "frequency": 2,
+      "context": "Refers to giving up on something or ceasing an effort."
+    },
+    {
+      "name": "坚持",
+      "frequency": 2,
+      "context": "Refers to continuing despite difficulties."
+    },
+    {
+      "name": "意义",
+      "frequency": 1,
+      "context": "Refers to the purpose or significance of things."
+    },
+    {
+      "name": "怀疑",
+      "frequency": 1,
+      "context": "Refers to a state of uncertainty or doubt."
+    },
+    {
+      "name": "面对",
+      "frequency": 2,
+      "context": "Refers to confronting challenges or situations."
+    },
+    {
+      "name": "失去",
+      "frequency": 2,
+      "context": "Refers to the absence or loss of something."
+    },
+    {
+      "name": "拥有",
+      "frequency": 2,
+      "context": "Refers to possessing something."
+    },
+    {
+      "name": "道路",
+      "frequency": 3,
+      "context": "Metaphorical for a path in life or a course of action."
+    },
+    {
+      "name": "决定",
+      "frequency": 3,
+      "context": "The act of making a final choice."
+    },
+    {
+      "name": "相信",
+      "frequency": 2,
+      "context": "Refers to having faith or conviction."
+    },
+    {
+      "name": "看见",
+      "frequency": 3,
+      "context": "Refers to the act of perception."
+    },
+    {
+      "name": "等待",
+      "frequency": 2,
+      "context": "Refers to remaining in expectation of something."
+    },
+    {
+      "name": "遇到",
+      "frequency": 1,
+      "context": "Refers to encountering someone or something."
+    },
+    {
+      "name": "开始",
+      "frequency": 2,
+      "context": "Refers to the commencement of something."
+    },
+    {
+      "name": "结束",
+      "frequency": 2,
+      "context": "Refers to the conclusion of something."
+    },
+    {
+      "name": "理解",
+      "frequency": 3,
+      "context": "Refers to comprehension and grasping meaning."
+    },
+    {
+      "name": "学习",
+      "frequency": 2,
+      "context": "Refers to the process of acquiring knowledge or skills."
+    },
+    {
+      "name": "创造",
+      "frequency": 1,
+      "context": "Refers to bringing something into existence."
+    },
+    {
+      "name": "守护",
+      "frequency": 1,
+      "context": "Refers to protecting or keeping safe."
+    },
+    {
+      "name": "挑战",
+      "frequency": 1,
+      "context": "Refers to a difficult task or situation."
+    },
+    {
+      "name": "秘密",
+      "frequency": 1,
+      "context": "Refers to something kept from general knowledge."
+    },
+    {
+      "name": "真理",
+      "frequency": 1,
+      "context": "Refers to the state of being true."
+    },
+    {
+      "name": "变化",
+      "frequency": 2,
+      "context": "Refers to a transformation or alteration."
+    },
+    {
+      "name": "承诺",
+      "frequency": 1,
+      "context": "Refers to a pledge or undertaking."
+    },
+    {
+      "name": "关系",
+      "frequency": 2,
+      "context": "Refers to the connection or association between entities."
+    },
+    {
+      "name": "原因",
+      "frequency": 2,
+      "context": "Refers to the cause of an event or situation."
+    },
+    {
+      "name": "结果",
+      "frequency": 2,
+      "context": "Refers to the outcome or consequence of an event."
+    },
+    {
+      "name": "旅程",
+      "frequency": 1,
+      "context": "Metaphorical for a long journey or process."
+    },
+    {
+      "name": "思考",
+      "frequency": 1,
+      "context": "Refers to the process of thinking deeply."
+    },
+    {
+      "name": "感受",
+      "frequency": 1,
+      "context": "Refers to experiencing emotions or sensations."
+    },
+    {
+      "name": "声音",
+      "frequency": 1,
+      "context": "Refers to auditory perception."
+    },
+    {
+      "name": "光明",
+      "frequency": 1,
+      "context": "Refers to light or illumination."
+    },
+    {
+      "name": "黑暗",
+      "frequency": 1,
+      "context": "Refers to the absence of light."
+    },
+    {
+      "name": "力量",
+      "frequency": 1,
+      "context": "Refers to capacity for action or influence."
+    },
+    {
+      "name": "弱小",
+      "frequency": 1,
+      "context": "Refers to a lack of strength."
+    },
+    {
+      "name": "失去",
+      "frequency": 2,
+      "context": "Refers to the absence or loss of something."
+    },
+    {
+      "name": "拥有",
+      "frequency": 2,
+      "context": "Refers to possessing something."
+    },
+    {
+      "name": "道路",
+      "frequency": 3,
+      "context": "Metaphorical for a path in life or a course of action."
+    },
+    {
+      "name": "决定",
+      "frequency": 3,
+      "context": "The act of making a final choice."
+    },
+    {
+      "name": "相信",
+      "frequency": 2,
+      "context": "Refers to having faith or conviction."
+    },
+    {
+      "name": "看见",
+      "frequency": 3,
+      "context": "Refers to the act of perception."
+    },
+    {
+      "name": "等待",
+      "frequency": 2,
+      "context": "Refers to remaining in expectation of something."
+    },
+    {
+      "name": "遇到",
+      "frequency": 1,
+      "context": "Refers to encountering someone or something."
+    },
+    {
+      "name": "开始",
+      "frequency": 2,
+      "context": "Refers to the commencement of something."
+    },
+    {
+      "name": "结束",
+      "frequency": 2,
+      "context": "Refers to the conclusion of something."
+    },
+    {
+      "name": "理解",
+      "frequency": 3,
+      "context": "Refers to comprehension and grasping meaning."
+    },
+    {
+      "name": "学习",
+      "frequency": 2,
+      "context": "Refers to the process of acquiring knowledge or skills."
+    },
+    {
+      "name": "创造",
+      "frequency": 1,
+      "context": "Refers to bringing something into existence."
+    },
+    {
+      "name": "守护",
+      "frequency": 1,
+      "context": "Refers to protecting or keeping safe."
+    },
+    {
+      "name": "挑战",
+      "frequency": 1,
+      "context": "Refers to a difficult task or situation."
+    },
+    {
+      "name": "秘密",
+      "frequency": 1,
+      "context": "Refers to something kept from general knowledge."
+    },
+    {
+      "name": "真理",
+      "frequency": 1,
+      "context": "Refers to the state of being true."
+    },
+    {
+      "name": "变化",
+      "frequency": 2,
+      "context": "Refers to a transformation or alteration."
+    },
+    {
+      "name": "承诺",
+      "frequency": 1,
+      "context": "Refers to a pledge or undertaking."
+    },
+    {
+      "name": "关系",
+      "frequency": 2,
+      "context": "Refers to the connection or association between entities."
+    },
+    {
+      "name": "原因",
+      "frequency": 2,
+      "context": "Refers to the cause of an event or situation."
+    },
+    {
+      "name": "结果",
+      "frequency": 2,
+      "context": "Refers to the outcome or consequence of an event."
+    },
+    {
+      "name": "旅程",
+      "frequency": 1,
+      "context": "Metaphorical for a long journey or process."
+    },
+    {
+      "name": "思考",
+      "frequency": 1,
+      "context": "Refers to the process of thinking deeply."
+    },
+    {
+      "name": "感受",
+      "frequency": 1,
+      "context": "Refers to experiencing emotions or sensations."
+    },
+    {
+      "name": "声音",
+      "frequency": 1,
+      "context": "Refers to auditory perception."
+    },
+    {
+      "name": "光明",
+      "frequency": 1,
+      "context": "Refers to light or illumination."
+    },
+    {
+      "name": "黑暗",
+      "frequency": 1,
+      "context": "Refers to the absence of light."
+    },
+    {
+      "name": "力量",
+      "frequency": 1,
+      "context": "Refers to capacity for action or influence."
+    },
+    {
+      "name": "弱小",
+      "frequency": 1,
+      "context": "Refers to a lack of strength."
+    }
+  ],
+  "relations": [
+    {
+      "source": "命运",
+      "target": "未来",
+      "type": "determines"
+    },
+    {
+      "source": "选择",
+      "target": "命运",
+      "type": "influences"
+    },
+    {
+      "source": "过去",
+      "target": "现在",
+      "type": "shapes"
+    },
+    {
+      "source": "现在",
+      "target": "未来",
+      "type": "leads_to"
+    },
+    {
+      "source": "人",
+      "target": "故事",
+      "type": "inhabits"
+    },
+    {
+      "source": "时间",
+      "target": "故事",
+      "type": "frames"
+    },
+    {
+      "source": "改变",
+      "target": "未来",
+      "type": "affects"
+    },
+    {
+      "source": "知道",
+      "target": "未来",
+      "type": "reduces_uncertainty_of"
+    },
+    {
+      "source": "生命",
+      "target": "意义",
+      "type": "possesses"
+    },
+    {
+      "source": "希望",
+      "target": "未来",
+      "type": "is_directed_towards"
+    },
+    {
+      "source": "放弃",
+      "target": "希望",
+      "type": "negates"
+    },
+    {
+      "source": "坚持",
+      "target": "希望",
+      "type": "sustains"
+    },
+    {
+      "source": "道路",
+      "target": "决定",
+      "type": "requires"
+    },
+    {
+      "source": "相信",
+      "target": "未来",
+      "type": "enables"
+    },
+    {
+      "source": "看见",
+      "target": "结果",
+      "type": "precedes"
+    },
+    {
+      "source": "等待",
+      "target": "结果",
+      "type": "is_associated_with"
+    },
+    {
+      "source": "遇到",
+      "target": "挑战",
+      "type": "is_a_form_of"
+    },
+    {
+      "source": "开始",
+      "target": "旅程",
+      "type": "initiates"
+    },
+    {
+      "source": "结束",
+      "target": "旅程",
+      "type": "concludes"
+    },
+    {
+      "source": "理解",
+      "target": "原因",
+      "type": "seeks"
+    },
+    {
+      "source": "学习",
+      "target": "知识",
+      "type": "acquires"
+    },
+    {
+      "source": "创造",
+      "target": "未来",
+      "type": "enables"
+    },
+    {
+      "source": "守护",
+      "target": "秘密",
+      "type": "involves"
+    },
+    {
+      "source": "真理",
+      "target": "理解",
+      "type": "is_the_object_of"
+    },
+    {
+      "source": "变化",
+      "target": "时间",
+      "type": "occurs_during"
+    },
+    {
+      "source": "承诺",
+      "target": "关系",
+      "type": "defines"
+    },
+    {
+      "source": "原因",
+      "target": "结果",
+      "type": "leads_to"
+    },
+    {
+      "source": "思考",
+      "target": "意义",
+      "type": "explores"
+    },
+    {
+      "source": "感受",
+      "target": "生命",
+      "type": "is_part_of"
+    },
+    {
+      "source": "声音",
+      "target": "感知",
+      "type": "is_a_form_of"
+    },
+    {
+      "source": "光明",
+      "target": "希望",
+      "type": "symbolizes"
+    },
+    {
+      "source": "黑暗",
+      "target": "恐惧",
+      "type": "symbolizes"
+    },
+    {
+      "source": "力量",
+      "target": "挑战",
+      "type": "is_needed_for"
+    },
+    {
+      "source": "弱小",
+      "target": "挑战",
+      "type": "makes_difficult"
+    },
+    {
+      "source": "失去",
+      "target": "拥有",
+      "type": "negates"
+    },
+    {
+      "source": "拥有",
+      "target": "价值",
+      "type": "implies"
+    },
+    {
+      "source": "道路",
+      "target": "人生",
+      "type": "is_a_metaphor_for"
+    },
+    {
+      "source": "决定",
+      "target": "未来",
+      "type": "shapes"
+    },
+    {
+      "source": "相信",
+      "target": "自己",
+      "type": "is_important_for"
+    },
+    {
+      "source": "看见",
+      "target": "真相",
+      "type": "is_a_step_towards"
+    },
+    {
+      "source": "等待",
+      "target": "时机",
+      "type": "is_often_necessary_for"
+    },
+    {
+      "source": "遇到",
+      "target": "困难",
+      "type": "is_common_in"
+    },
+    {
+      "source": "开始",
+      "target": "新篇章",
+      "type": "signifies"
+    },
+    {
+      "source": "结束",
+      "target": "旧秩序",
+      "type": "signifies"
+    },
+    {
+      "source": "理解",
+      "target": "他人",
+      "type": "builds_bridges_of"
+    },
+    {
+      "source": "学习",
+      "target": "经验",
+      "type": "is_derived_from"
+    },
+    {
+      "source": "创造",
+      "target": "价值",
+      "type": "is_about"
+    },
+    {
+      "source": "守护",
+      "target": "珍宝",
+      "type": "implies"
+    },
+    {
+      "source": "挑战",
+      "target": "极限",
+      "type": "involves"
+    },
+    {
+      "source": "秘密",
+      "target": "揭示",
+      "type": "is_subject_to"
+    },
+    {
+      "source": "真理",
+      "target": "追寻",
+      "type": "is_the_object_of"
+    },
+    {
+      "source": "变化",
+      "target": "不可避免",
+      "type": "is"
+    },
+    {
+      "source": "承诺",
+      "target": "责任",
+      "type": "implies"
+    },
+    {
+      "source": "关系",
+      "target": "信任",
+      "type": "depends_on"
+    },
+    {
+      "source": "原因",
+      "target": "行为",
+      "type": "motivates"
+    },
+    {
+      "source": "结果",
+      "target": "反思",
+      "type": "prompts"
+    },
+    {
+      "source": "旅程",
+      "target": "成长",
+      "type": "facilitates"
+    },
+    {
+      "source": "思考",
+      "target": "行动",
+      "type": "precedes"
+    },
+    {
+      "source": "感受",
+      "target": "共鸣",
+      "type": "evokes"
+    },
+    {
+      "source": "声音",
+      "target": "信号",
+      "type": "can_be_a"
+    },
+    {
+      "source": "光明",
+      "target": "未来",
+      "type": "suggests"
+    },
+    {
+      "source": "黑暗",
+      "target": "未知",
+      "type": "represents"
+    },
+    {
+      "source": "力量",
+      "target": "影响",
+      "type": "exerts"
+    },
+    {
+      "source": "弱小",
+      "target": "脆弱",
+      "type": "implies"
+    }
+  ],
+  "hierarchy": {
+    "main_topics": [
+      "女皇子",
+      "楔子"
+    ],
+    "structure": "The document is structured with a main title '女皇子' and a prologue section '楔子'. The content within '楔子' appears to be a mix of narrative exposition and philosophical reflection, touching upon themes of destiny, choice, time, and human experience. There's also a significant portion of garbled text at the beginning of the '楔子'."
+  }
+}

@@ -1,0 +1,98 @@
+[
+  {
+    "id": "tech-setup",
+    "description": "A modern digital nomad tech setup on a wooden desk.",
+    "imageUrl": "https://picsum.photos/seed/tech-setup/800/600",
+    "width": 800,
+    "height": 600,
+    "imageHint": "laptop desk"
+  },
+  {
+    "id": "philippines-beach",
+    "description": "A beautiful tropical beach with a traditional boat in the Philippines.",
+    "imageUrl": "https://picsum.photos/seed/philippines-beach/800/600",
+    "width": 800,
+    "height": 600,
+    "imageHint": "tropical beach"
+  },
+  {
+    "id": "pwa-code",
+    "description": "A computer screen showing lines of code for a Progressive Web App.",
+    "imageUrl": "https://picsum.photos/seed/pwa-code/800/600",
+    "width": 800,
+    "height": 600,
+    "imageHint": "code screen"
+  },
+  {
+    "id": "hanoi-street",
+    "description": "A busy street scene in Hanoi, Vietnam, with lots of motorbikes.",
+    "imageUrl": "https://picsum.photos/seed/hanoi-street/800/600",
+    "width": 800,
+    "height": 600,
+    "imageHint": "city street"
+  },
+  {
+    "id": "kuala-lumpur-skyline",
+    "description": "The skyline of Kuala Lumpur with the Petronas Towers.",
+    "imageUrl": "https://picsum.photos/seed/kl-skyline/800/600",
+    "width": 800,
+    "height": 600,
+    "imageHint": "city skyline"
+  },
+  {
+    "id": "bali-rice-fields",
+    "description": "Lush green rice terraces in Bali, Indonesia.",
+    "imageUrl": "https://picsum.photos/seed/bali-rice/800/600",
+    "width": 800,
+    "height": 600,
+    "imageHint": "rice terraces"
+  },
+  {
+    "id": "singapore-gardens",
+    "description": "The Supertree Grove at Gardens by the Bay in Singapore.",
+    "imageUrl": "https://picsum.photos/seed/sg-gardens/800/600",
+    "width": 800,
+    "height": 600,
+    "imageHint": "futuristic garden"
+  },
+  {
+    "id": "bangkok-market",
+    "description": "A bustling floating market in Bangkok, Thailand.",
+    "imageUrl": "https://picsum.photos/seed/bkk-market/800/600",
+    "width": 800,
+    "height": 600,
+    "imageHint": "floating market"
+  },
+  {
+    "id": "remote-work-tools",
+    "description": "A collection of apps and tools for remote workers on a screen.",
+    "imageUrl": "https://picsum.photos/seed/remote-tools/800/600",
+    "width": 800,
+    "height": 600,
+    "imageHint": "software tools"
+  },
+  {
+    "id": "vpn-security",
+    "description": "A symbolic image of digital security and VPN.",
+    "imageUrl": "https://picsum.photos/seed/vpn-security/800/600",
+    "width": 800,
+    "height": 600,
+    "imageHint": "digital security"
+  },
+  {
+    "id": "fintech-asia",
+    "description": "An abstract image representing financial technology in Asia.",
+    "imageUrl": "https://picsum.photos/seed/fintech-asia/800/600",
+    "width": 800,
+    "height": 600,
+    "imageHint": "financial technology"
+  },
+  {
+    "id": "e-sim-travel",
+    "description": "A smartphone displaying an e-sim activation screen for travel.",
+    "imageUrl": "https://picsum.photos/seed/esim-travel/800/600",
+    "width": 800,
+    "height": 600,
+    "imageHint": "esim phone"
+  }
+]

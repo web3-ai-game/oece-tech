@@ -1,0 +1,298 @@
+{
+  "propositions": [
+    {
+      "id": "1",
+      "text": "一名现代杀手，代号“夜玫瑰”，在执行任务时意外穿越到古代，成为了王妃。",
+      "level": 1
+    },
+    {
+      "id": "1.1",
+      "text": "她醒来后发现自己身处一个陌生的王府，并得知自己的身份是王妃。",
+      "level": 2
+    },
+    {
+      "id": "1.2",
+      "text": "她的侍女名叫“水若”。",
+      "level": 2
+    },
+    {
+      "id": "2",
+      "text": "王妃“夏倾城”（原名“夜玫瑰”）开始适应王府生活，并了解了王爷“慕容轩”的性格。",
+      "level": 1
+    },
+    {
+      "id": "2.1",
+      "text": "水若告知她王爷慕容轩冷酷无情，脾气暴躁。",
+      "level": 2
+    },
+    {
+      "id": "2.2",
+      "text": "她被邀请参加“花朝节”，并前往百花园。",
+      "level": 2
+    },
+    {
+      "id": "3",
+      "text": "在百花园，夏倾城遇到了王爷的弟弟慕容逸。",
+      "level": 1
+    },
+    {
+      "id": "3.1",
+      "text": "慕容逸对夏倾城的美貌赞赏有加，并透露慕容轩心中只有“林雪儿”。",
+      "level": 2
+    },
+    {
+      "id": "4",
+      "text": "夏倾城与慕容轩初次见面，慕容轩明确表示心中只有林雪儿。",
+      "level": 1
+    },
+    {
+      "id": "4.1",
+      "text": "夏倾城则表示自己并非非要得到他的爱，并宣称会让他刮目相看。",
+      "level": 2
+    },
+    {
+      "id": "5",
+      "text": "夏倾城利用杀手的技能，在王府内发展势力，并开始在朝堂上崭露头角。",
+      "level": 1
+    },
+    {
+      "id": "5.1",
+      "text": "慕容轩对她的态度逐渐转变。",
+      "level": 2
+    },
+    {
+      "id": "6",
+      "text": "夏倾城面临情感纠葛，慕容逸和慕容轩都对她产生了情愫。",
+      "level": 1
+    },
+    {
+      "id": "6.1",
+      "text": "夏倾城表示只想好好活下去。",
+      "level": 2
+    },
+    {
+      "id": "7",
+      "text": "林雪儿的出现标志着命运的转折点，慕容轩对夏倾城变得冷漠。",
+      "level": 1
+    },
+    {
+      "id": "7.1",
+      "text": "夏倾城决心不会轻易被击败，心中燃起复仇的怒火。",
+      "level": 2
+    },
+    {
+      "id": "8",
+      "text": "夏倾城离开王府，开始复仇之路，联合被慕容轩迫害的大臣。",
+      "level": 1
+    },
+    {
+      "id": "9",
+      "text": "夏倾城与慕容逸联手，推翻了慕容轩的统治。",
+      "level": 1
+    },
+    {
+      "id": "9.1",
+      "text": "慕容轩兵败身亡，林雪儿也随之而去。",
+      "level": 2
+    },
+    {
+      "id": "10",
+      "text": "夏倾城成为了新的王妃，与慕容逸携手治理国家，并领悟到真正的爱与幸福。",
+      "level": 1
+    },
+    {
+      "id": "10.1",
+      "text": "她学会了用自己的力量创造幸福。",
+      "level": 2
+    },
+    {
+      "id": "11",
+      "text": "“夜玫瑰”立下誓言，从黑暗中的杀手转变为光明中的女王。",
+      "level": 1
+    }
+  ],
+  "concepts": [
+    {
+      "name": "杀手",
+      "frequency": 10,
+      "context": "指主角“夜玫瑰”的职业身份。"
+    },
+    {
+      "name": "穿越",
+      "frequency": 10,
+      "context": "指主角从现代穿越到古代的情节。"
+    },
+    {
+      "name": "王妃",
+      "frequency": 20,
+      "context": "指主角在古代的身份，以及其他重要女性角色的身份。"
+    },
+    {
+      "name": "王府",
+      "frequency": 15,
+      "context": "故事发生的主要地点。"
+    },
+    {
+      "name": "慕容轩",
+      "frequency": 25,
+      "context": "重要男性角色，王爷，故事中的反派之一。"
+    },
+    {
+      "name": "夏倾城",
+      "frequency": 30,
+      "context": "主角在古代的名字，也是故事的中心人物。"
+    },
+    {
+      "name": "慕容逸",
+      "frequency": 20,
+      "context": "重要男性角色，王爷的弟弟，爱慕主角。"
+    },
+    {
+      "name": "林雪儿",
+      "frequency": 25,
+      "context": "慕容轩心中的人，导致主角被冷落。"
+    },
+    {
+      "name": "复仇",
+      "frequency": 15,
+      "context": "主角经历的重大情节线。"
+    },
+    {
+      "name": "情感",
+      "frequency": 15,
+      "context": "涉及主角、慕容轩、慕容逸之间的情感纠葛。"
+    },
+    {
+      "name": "力量",
+      "frequency": 10,
+      "context": "指主角作为杀手的技能和后来发展出的政治影响力。"
+    },
+    {
+      "name": "幸福",
+      "frequency": 5,
+      "context": "主角最终追求的目标。"
+    },
+    {
+      "name": "夜玫瑰",
+      "frequency": 10,
+      "context": "主角的代号，代表其杀手身份和某种象征意义。"
+    },
+    {
+      "name": "水若",
+      "frequency": 5,
+      "context": "主角的侍女。"
+    },
+    {
+      "name": "花朝节",
+      "frequency": 5,
+      "context": "一个重要的节日，故事在此期间发生。"
+    },
+    {
+      "name": "百花园",
+      "frequency": 5,
+      "context": "发生重要情节的地点。"
+    }
+  ],
+  "relations": [
+    {
+      "source": "夜玫瑰",
+      "target": "夏倾城",
+      "type": "is_a"
+    },
+    {
+      "source": "夏倾城",
+      "target": "王妃",
+      "type": "is_a"
+    },
+    {
+      "source": "夜玫瑰",
+      "target": "杀手",
+      "type": "is_a"
+    },
+    {
+      "source": "穿越",
+      "target": "夜玫瑰",
+      "type": "affects"
+    },
+    {
+      "source": "王府",
+      "target": "夏倾城",
+      "type": "located_in"
+    },
+    {
+      "source": "慕容轩",
+      "target": "王爷",
+      "type": "is_a"
+    },
+    {
+      "source": "慕容轩",
+      "target": "林雪儿",
+      "type": "loves"
+    },
+    {
+      "source": "夏倾城",
+      "target": "慕容轩",
+      "type": "has_complex_relationship_with"
+    },
+    {
+      "source": "慕容逸",
+      "target": "慕容轩",
+      "type": "is_brother_of"
+    },
+    {
+      "source": "慕容逸",
+      "target": "夏倾城",
+      "type": "loves"
+    },
+    {
+      "source": "夏倾城",
+      "target": "复仇",
+      "type": "pursues"
+    },
+    {
+      "source": "夏倾城",
+      "target": "力量",
+      "type": "develops"
+    },
+    {
+      "source": "夏倾城",
+      "target": "幸福",
+      "type": "achieves"
+    },
+    {
+      "source": "慕容轩",
+      "target": "统治",
+      "type": "has"
+    },
+    {
+      "source": "夏倾城",
+      "target": "统治",
+      "type": "overthrows"
+    },
+    {
+      "source": "水若",
+      "target": "侍女",
+      "type": "is_a"
+    },
+    {
+      "source": "水若",
+      "target": "夏倾城",
+      "type": "serves"
+    },
+    {
+      "source": "花朝节",
+      "target": "百花园",
+      "type": "takes_place_in"
+    }
+  ],
+  "hierarchy": {
+    "main_topics": [
+      "Protagonist's Transformation",
+      "Royal Court Intrigue",
+      "Love and Betrayal",
+      "Revenge and Justice",
+      "New Beginnings"
+    ],
+    "structure": "The document is structured chronologically, following the protagonist's journey from her transmigration to her eventual rise to power and finding happiness. Each section represents a distinct phase or plot point in the narrative."
+  }
+}

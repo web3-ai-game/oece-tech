@@ -1,0 +1,1825 @@
+{
+  "propositions": [
+    {
+      "id": "1",
+      "text": "The chapter's title is 'Eighth Chapter: Departure! Amazon Jungle!'",
+      "level": 1
+    },
+    {
+      "id": "2",
+      "text": "Lama Yara announces it's time to assess the team's training.",
+      "level": 1
+    },
+    {
+      "id": "3",
+      "text": "Lama Yara asks for the map.",
+      "level": 1
+    },
+    {
+      "id": "4",
+      "text": "Lama Yara discusses deciphered ancient texts mentioning a 'castle under light'.",
+      "level": 1
+    },
+    {
+      "id": "4.1",
+      "text": "These texts speak of a great envoy, a castle under light, and the sacredness preserved in Pabara Temple.",
+      "level": 2
+    },
+    {
+      "id": "4.2",
+      "text": "The 'castle under light' was supposed to be returned to Piyanbu Rang, but Yi Xi Wo Bo secretly recreated it with mud and stone.",
+      "level": 2
+    },
+    {
+      "id": "4.3",
+      "text": "Fearful of destroying sacred objects, they moved the 'sacred light' to a remote, unknown place.",
+      "level": 2
+    },
+    {
+      "id": "4.4",
+      "text": "They traveled across mountains and seas to a mysterious land with towering trees, dangerous creatures and plants, and cannibalistic humans.",
+      "level": 2
+    },
+    {
+      "id": "4.5",
+      "text": "The architecture there was grand, surpassing any palace seen before.",
+      "level": 2
+    },
+    {
+      "id": "4.6",
+      "text": "Temples resembled pyramids, reaching into the sky with stepped entrances.",
+      "level": 2
+    },
+    {
+      "id": "4.7",
+      "text": "The writing system was a combination of head shapes and images of flora and fauna.",
+      "level": 2
+    },
+    {
+      "id": "5",
+      "text": "Lu Jingnan questions if this refers to pyramids, expecting a desert, not a jungle.",
+      "level": 1
+    },
+    {
+      "id": "6",
+      "text": "Lama Yara explains it's a tropical rainforest.",
+      "level": 1
+    },
+    {
+      "id": "7",
+      "text": "Returnees reported the 'castle under light' was preserved in a temple of another civilization, whose king promised to keep the sacred castle in darkness.",
+      "level": 1
+    },
+    {
+      "id": "8",
+      "text": "Lu Jingnan expresses disbelief, questioning how the Pacific could have been crossed and how they returned.",
+      "level": 1
+    },
+    {
+      "id": "9",
+      "text": "Lama Yara suggests that if modern people can do it, ancient people might have as well, referencing 'The Classic of Mountains and Seas' and legends of Yin people crossing the sea.",
+      "level": 1
+    },
+    {
+      "id": "10",
+      "text": "Lu Jingnan wonders what the 'castle under light' truly is.",
+      "level": 1
+    },
+    {
+      "id": "11",
+      "text": "Lama Yara speculates it's not large, as it could be carried by one person, and declares the mid-term test will be to traverse the rainforest.",
+      "level": 1
+    },
+    {
+      "id": "12",
+      "text": "Lu Jingnan points out that Mayan civilization is typically confined to the Yucatan Peninsula, and the indicated area is far from it.",
+      "level": 1
+    },
+    {
+      "id": "13",
+      "text": "Lama Yara acknowledges the clue is clear, referencing Mayan civilization distribution and the Andes Mountains as a boundary.",
+      "level": 1
+    },
+    {
+      "id": "13.1",
+      "text": "He mentions a discovery by Brazilian archaeologists in the Amazon of a civilization distinct from Inca, with pottery, tribal features, infrastructure, and a highly developed society.",
+      "level": 2
+    },
+    {
+      "id": "13.2",
+      "text": "Three years later, an astronomical observatory resembling Mayan structures was found, with sophisticated stonework, contradicting previous beliefs of the area being uninhabited before 1492.",
+      "level": 2
+    },
+    {
+      "id": "13.3",
+      "text": "The research suggests ancient Mayans could have crossed the Andes into the Amazon, following the Amazon River.",
+      "level": 2
+    },
+    {
+      "id": "13.4",
+      "text": "Archaeological teams are actively searching in the Amazon basin, and recent discoveries have been made.",
+      "level": 2
+    },
+    {
+      "id": "14",
+      "text": "Lu Jingnan, lacking knowledge of Mesoamerican history, questions the danger of the area and the certainty of finding the object in the vast Amazon.",
+      "level": 1
+    },
+    {
+      "id": "15",
+      "text": "Lama Yara explains they have reliable information about a newly discovered, very large 'dead city' likely containing a temple.",
+      "level": 1
+    },
+    {
+      "id": "16",
+      "text": "Lu Jingnan suggests splitting into two groups.",
+      "level": 1
+    },
+    {
+      "id": "17",
+      "text": "Lama Yara agrees, stating it's part of the test.",
+      "level": 1
+    },
+    {
+      "id": "18",
+      "text": "Lu Jingnan expresses concern about telling the trainees the truth.",
+      "level": 1
+    },
+    {
+      "id": "19",
+      "text": "Lama Yara decides not to tell them yet, needing to clarify strange events from Zhuo Mu Qiang Ba's previous trip to Hoh Xil.",
+      "level": 1
+    },
+    {
+      "id": "20",
+      "text": "Lu Jingnan remains unsure, questioning the certainty of the object being there and if the two groups will even stumble upon the ruins.",
+      "level": 1
+    },
+    {
+      "id": "21",
+      "text": "Lama Yara states the Living Buddha will guide them and they must try, with him leading his group in that direction while Zhuo Mu Qiang Ba's group follows destiny.",
+      "level": 1
+    },
+    {
+      "id": "22",
+      "text": "Lama Yara looks towards the sky, contemplating the origins and secrets of the Maya.",
+      "level": 1
+    },
+    {
+      "id": "23",
+      "text": "He remembers Lama Deni's thousand-year prophecy.",
+      "level": 1
+    },
+    {
+      "id": "24",
+      "text": "A dark figure stands silently outside Lu Jingnan's window.",
+      "level": 1
+    },
+    {
+      "id": "25",
+      "text": "Zhuo Mu Qiang Ba emerges from the barracks and practices on the obstacle course, feeling at his peak.",
+      "level": 1
+    },
+    {
+      "id": "26",
+      "text": "He anticipates the mid-term exam, wondering if it will involve high mountains or polar environments.",
+      "level": 1
+    },
+    {
+      "id": "27",
+      "text": "A spark and a shot occur near Zhuo Mu Qiang Ba.",
+      "level": 1
+    },
+    {
+      "id": "28",
+      "text": "He instinctively dodges a second bullet and shouts an alarm for an attack on the camp.",
+      "level": 1
+    },
+    {
+      "id": "29",
+      "text": "A dark figure flees into the woods with a gun.",
+      "level": 1
+    },
+    {
+      "id": "30",
+      "text": "Zhuo Mu Qiang Ba, recognizing the skill of the shooter, decides against a direct confrontation and calls for help.",
+      "level": 1
+    },
+    {
+      "id": "31",
+      "text": "Zhang Li and Yue Yang are the first to respond, asking about the situation and Zhuo Mu Qiang Ba's well-being.",
+      "level": 1
+    },
+    {
+      "id": "32",
+      "text": "Professor Fang Xin emerges, providing assault rifles to Zhang Li.",
+      "level": 1
+    },
+    {
+      "id": "33",
+      "text": "Zhuo Mu Qiang Ba and Zhang Li pursue the attacker, who is described as having an AR15 and heading towards the west hill.",
+      "level": 1
+    },
+    {
+      "id": "34",
+      "text": "Yue Yang and others join with weapons.",
+      "level": 1
+    },
+    {
+      "id": "35",
+      "text": "The attacker suddenly disappears, and Zhuo Mu Qiang Ba and Zhang Li take cover.",
+      "level": 1
+    },
+    {
+      "id": "36",
+      "text": "Zhang Li, understanding Zhuo Mu Qiang Ba's signal, climbs a tree to locate the attacker.",
+      "level": 1
+    },
+    {
+      "id": "37",
+      "text": "Basang, Eric, Professor Fang Xin, Yara, and Lu Jingnan arrive.",
+      "level": 1
+    },
+    {
+      "id": "38",
+      "text": "The group forms a silent encirclement, with approximately 100-meter spacing between each of the nine individuals.",
+      "level": 1
+    },
+    {
+      "id": "39",
+      "text": "Yue Yang prepares a tear gas grenade, and they intend to capture the attacker alive.",
+      "level": 1
+    },
+    {
+      "id": "40",
+      "text": "White smoke suddenly rises from the center of the encirclement, indicating the attacker has used a smoke bomb.",
+      "level": 1
+    },
+    {
+      "id": "41",
+      "text": "More smoke bombs are thrown, obscuring the attacker's location.",
+      "level": 1
+    },
+    {
+      "id": "42",
+      "text": "Two gunshots are heard; Zhang Li indicates the attacker leaped from a tree, and Eric reports another shot from his direction.",
+      "level": 1
+    },
+    {
+      "id": "43",
+      "text": "The attacker flees rapidly, firing shots and throwing powerful Soviet-made F-1 hand grenades, making pursuit difficult and endangering Tang Min and Eric.",
+      "level": 1
+    },
+    {
+      "id": "44",
+      "text": "Zhuo Mu Qiang Ba, frustrated, throws his crocodile hunting knife, which embeds in the attacker without eliciting a sound.",
+      "level": 1
+    },
+    {
+      "id": "45",
+      "text": "The pursuers slow down, knowing they are approaching a cliff, but the injured attacker is still running.",
+      "level": 1
+    },
+    {
+      "id": "46",
+      "text": "Cornered, the attacker fires wildly and activates two hand grenades, shouting that he only wants revenge on Zhuo Mu Qiang Ba.",
+      "level": 1
+    },
+    {
+      "id": "47",
+      "text": "Zhuo Mu Qiang Ba recognizes the attacker as Niu Er Wa, whom he encountered in Hoh Xil.",
+      "level": 1
+    },
+    {
+      "id": "48",
+      "text": "Niu Er Wa, with a sinister grin, points a grenade at Zhuo Mu Qiang Ba, demanding revenge for his brother.",
+      "level": 1
+    },
+    {
+      "id": "49",
+      "text": "The hunting knife is lodged in Niu Er Wa's buttock.",
+      "level": 1
+    },
+    {
+      "id": "50",
+      "text": "Niu Er Wa throws a grenade at Zhuo Mu Qiang Ba, who takes cover.",
+      "level": 1
+    },
+    {
+      "id": "51",
+      "text": "Niu Er Wa throws a smoke bomb and then his hunting knife at Yue Yang, narrowly missing him.",
+      "level": 1
+    },
+    {
+      "id": "52",
+      "text": "As the smoke clears, Niu Er Wa has escaped down the cliff, but another shot is fired from an unknown direction, forcing everyone to seek cover.",
+      "level": 1
+    },
+    {
+      "id": "53",
+      "text": "Niu Er Wa limps away, and the group emerges after confirming he's gone.",
+      "level": 1
+    },
+    {
+      "id": "54",
+      "text": "Yue Yang, pale, asks Zhuo Mu Qiang Ba about his connection to the attacker.",
+      "level": 1
+    },
+    {
+      "id": "55",
+      "text": "Zhuo Mu Qiang Ba recounts his past conflict with Niu Er Wa, where Niu Er Wa killed his brother.",
+      "level": 1
+    },
+    {
+      "id": "56",
+      "text": "He questions how Niu Er Wa found them and became so skilled.",
+      "level": 1
+    },
+    {
+      "id": "57",
+      "text": "The team reflects on their perceived strength after letting an injured attacker escape.",
+      "level": 1
+    },
+    {
+      "id": "58",
+      "text": "Lu Jingnan challenges Zhuo Mu Qiang Ba's confidence, questioning if he can handle future threats if this attacker is connected to their rivals.",
+      "level": 1
+    },
+    {
+      "id": "59",
+      "text": "Tang Min argues that their intention was to capture, not kill, suggesting a quicker resolution if they had used lethal force.",
+      "level": 1
+    },
+    {
+      "id": "60",
+      "text": "Lu Jingnan dismisses this and announces the mid-term examination location.",
+      "level": 1
+    },
+    {
+      "id": "61",
+      "text": "In a separate camp, Ma Su reports that Niu Er Wa attacked the training team seeking revenge and was injured, but rescued by Lei Bo.",
+      "level": 1
+    },
+    {
+      "id": "62",
+      "text": "Mo Jin is furious, deeming their actions reckless and potentially ruining his plans.",
+      "level": 1
+    },
+    {
+      "id": "63",
+      "text": "He shows a confidential file with Lu Jingnan's photo and questions the duration of their training.",
+      "level": 1
+    },
+    {
+      "id": "64",
+      "text": "Ma Su mentions Niu Er Wa brought back a piece of information.",
+      "level": 1
+    },
+    {
+      "id": "65",
+      "text": "Mo Jin asks for Niu Er Wa's location.",
+      "level": 1
+    },
+    {
+      "id": "66",
+      "text": "Niu Er Wa is being treated for a severe wound.",
+      "level": 1
+    },
+    {
+      "id": "67",
+      "text": "Mo Jin listens to Niu Er Wa's whispered information, showing a hint of a smile.",
+      "level": 1
+    },
+    {
+      "id": "68",
+      "text": "Mo Jin requests a detailed map of North America.",
+      "level": 1
+    },
+    {
+      "id": "69",
+      "text": "Mo Jin excitedly marks areas on the map, then realizes he's been deceived.",
+      "level": 1
+    },
+    {
+      "id": "70",
+      "text": "Mo Jin expresses joy that they have new leads and will depart for Colombia.",
+      "level": 1
+    },
+    {
+      "id": "71",
+      "text": "Ma Su is confused about the shift from Tibet to Colombia.",
+      "level": 1
+    },
+    {
+      "id": "72",
+      "text": "Mo Jin explains the possibility of the object being taken to America in the 1950s and disappearing with Mayan civilization.",
+      "level": 1
+    },
+    {
+      "id": "73",
+      "text": "He states his extensive excavation of Mayan ruins was to find crucial clues, and this new discovery might be the last chance.",
+      "level": 1
+    },
+    {
+      "id": "74",
+      "text": "Ma Su points out that the indicated area is beyond the historical reach of the Mayan empire.",
+      "level": 1
+    },
+    {
+      "id": "75",
+      "text": "Mo Jin, with a cold smile, asserts that Mayan civilization is present in the Amazon rainforest, extending across Venezuela, Colombia, Ecuador, and Brazil.",
+      "level": 1
+    },
+    {
+      "id": "76",
+      "text": "Mo Jin explains that he personally excavated a large Mayan city in the area years ago, proving ancient people's capability to transport massive stones for construction.",
+      "level": 1
+    },
+    {
+      "id": "77",
+      "text": "Ma Su asks what they are searching for.",
+      "level": 1
+    },
+    {
+      "id": "78",
+      "text": "Mo Jin cryptically replies it's likely a mirror.",
+      "level": 1
+    },
+    {
+      "id": "79",
+      "text": "He suspects the Chinese team is using special training as a cover for another group gathering clues.",
+      "level": 1
+    },
+    {
+      "id": "80",
+      "text": "Mo Jin orders preparations for departure to the port of Acis, aiming to beat the Chinese team.",
+      "level": 1
+    },
+    {
+      "id": "81",
+      "text": "Lu Jingnan announces the mid-term exam details: two teams, one departing a day early from Putumayo, Ecuador, traveling to Santa Maria, Peru, without modern transport, avoiding border guards.",
+      "level": 1
+    },
+    {
+      "id": "82",
+      "text": "The total journey is about 200 kilometers, with ten days to complete.",
+      "level": 1
+    },
+    {
+      "id": "83",
+      "text": "Rescue operations will commence if they don't arrive within ten days.",
+      "level": 1
+    },
+    {
+      "id": "84",
+      "text": "Lu Jingnan warns of potential resistance if the escaped attacker overheard their plans.",
+      "level": 1
+    },
+    {
+      "id": "85",
+      "text": "Zhang Li questions why their rivals would actively interfere with a mere exam.",
+      "level": 1
+    },
+    {
+      "id": "86",
+      "text": "Lu Jingnan reiterates the need for caution.",
+      "level": 1
+    },
+    {
+      "id": "87",
+      "text": "Zhuo Mu Qiang Ba ponders the meaning of 'getting ahead of them'.",
+      "level": 1
+    },
+    {
+      "id": "88",
+      "text": "The team researches South American countries, particularly Colombia, Peru, and Ecuador, using the British Library's resources.",
+      "level": 1
+    },
+    {
+      "id": "89",
+      "text": "Zhang Li considers the 200km, 10-day journey easy.",
+      "level": 1
+    },
+    {
+      "id": "90",
+      "text": "Yue Yang highlights the allure of the Amazon rainforest.",
+      "level": 1
+    },
+    {
+      "id": "91",
+      "text": "Zhang Li compares it to Xishuangbanna.",
+      "level": 1
+    },
+    {
+      "id": "92",
+      "text": "Zhuo Mu Qiang Ba inquires about Zhang Li's knowledge of the Amazon.",
+      "level": 1
+    },
+    {
+      "id": "93",
+      "text": "Zhang Li mentions piranhas and its status as the world's largest rainforest.",
+      "level": 1
+    },
+    {
+      "id": "94",
+      "text": "Basang scoffs at Zhang Li's limited knowledge.",
+      "level": 1
+    },
+    {
+      "id": "95",
+      "text": "Yue Yang describes the Amazon as 'Earth's Lung' and details its immense biodiversity.",
+      "level": 1
+    },
+    {
+      "id": "96",
+      "text": "He provides details about the Amazon River's length and discharge volume.",
+      "level": 1
+    },
+    {
+      "id": "97",
+      "text": "Zhuo Mu Qiang Ba adds to the description of the Amazon's rich flora and fauna.",
+      "level": 1
+    },
+    {
+      "id": "98",
+      "text": "Basang refers to the Amazon as the 'Green Hell', emphasizing its danger.",
+      "level": 1
+    },
+    {
+      "id": "99",
+      "text": "Zhang Li excitedly spots a picture of indigenous women who don't wear clothes.",
+      "level": 1
+    },
+    {
+      "id": "100",
+      "text": "Yue Yang corrects him, pointing out the text indicates 'cannibals'.",
+      "level": 1
+    },
+    {
+      "id": "101",
+      "text": "Zhuo Mu Qiang Ba expresses concern about the extreme danger of the Amazon, possibly exceeding previous experiences.",
+      "level": 1
+    },
+    {
+      "id": "102",
+      "text": "Zhang Li notes the difficulty of advancement without familiar tools.",
+      "level": 1
+    },
+    {
+      "id": "103",
+      "text": "Zhuo Mu Qiang Ba clarifies that only weapons are restricted, and most tools can be brought.",
+      "level": 1
+    },
+    {
+      "id": "104",
+      "text": "He describes his advanced solar-powered watch with multiple functions and discreet design.",
+      "level": 1
+    },
+    {
+      "id": "105",
+      "text": "Zhang Li asks if his large military dagger can be brought.",
+      "level": 1
+    },
+    {
+      "id": "106",
+      "text": "Zhuo Mu Qiang Ba confirms it can likely be brought and touches his crocodile hunting knife.",
+      "level": 1
+    },
+    {
+      "id": "107",
+      "text": "He describes the knife's features and its utility as a jungle machete.",
+      "level": 1
+    },
+    {
+      "id": "108",
+      "text": "Tang Min arrives, looking for Zhuo Mu Qiang Ba.",
+      "level": 1
+    },
+    {
+      "id": "109",
+      "text": "Zhuo Mu Qiang Ba speaks with Tang Min, who expresses her fear about the dangerous journey.",
+      "level": 1
+    },
+    {
+      "id": "110",
+      "text": "Tang Min confesses her love and fear of the jungle's creatures.",
+      "level": 1
+    },
+    {
+      "id": "111",
+      "text": "Zhuo Mu Qiang Ba reassures her, mentioning Professor Fang Xin and Uncle Maola will look after her and urging her to be strong.",
+      "level": 1
+    },
+    {
+      "id": "112",
+      "text": "Tang Min playfully warns him to be careful of his mischievous teammates and the lurking dangers.",
+      "level": 1
+    },
+    {
+      "id": "113",
+      "text": "Lu Jingnan summons Zhuo Mu Qiang Ba and tells him to be careful.",
+      "level": 1
+    },
+    {
+      "id": "114",
+      "text": "Zhang Li and Yue Yang banter about Zhuo Mu Qiang Ba's attractiveness and popularity.",
+      "level": 1
+    },
+    {
+      "id": "115",
+      "text": "Zhuo Mu Qiang Ba returns to the computer, and Zhang Li and Yue Yang pepper him with questions about his conversation with Lu Jingnan.",
+      "level": 1
+    },
+    {
+      "id": "116",
+      "text": "Zhuo Mu Qiang Ba deflects their questions, telling them to focus on organizing information.",
+      "level": 1
+    },
+    {
+      "id": "117",
+      "text": "Acis Port is described as a remote town with a past of conflict, located on the Itca River, a route to Putumayo and home to indigenous tribes.",
+      "level": 1
+    },
+    {
+      "id": "118",
+      "text": "Mo Jin meets with a wealthy, intimidating local named Vito in a villa.",
+      "level": 1
+    },
+    {
+      "id": "119",
+      "text": "Vito is adorned with gold and jewels.",
+      "level": 1
+    },
+    {
+      "id": "120",
+      "text": "Mo Jin presents a briefcase of cash, and Vito shows a box of white powder, indicating a drug deal.",
+      "level": 1
+    },
+    {
+      "id": "121",
+      "text": "Mo Jin asks Vito for a favor: to 'take care of' a group of people going to Putumayo Port, delaying them without causing injury.",
+      "level": 1
+    },
+    {
+      "id": "122",
+      "text": "Vito agrees, mentioning they will be waiting in Ospina.",
+      "level": 1
+    },
+    {
+      "id": "123",
+      "text": "Vito inquires about Mo Jin's African crystal collection.",
+      "level": 1
+    },
+    {
+      "id": "124",
+      "text": "Mo Jin and Ma Su travel by boat down the Amazon, Mo Jin discarding cocaine into the river.",
+      "level": 1
+    },
+    {
+      "id": "125",
+      "text": "Ma Su questions Mo Jin's actions.",
+      "level": 1
+    },
+    {
+      "id": "126",
+      "text": "Mo Jin explains that carrying the drugs would be too risky and less profitable than their current objective.",
+      "level": 1
+    },
+    {
+      "id": "127",
+      "text": "He details his strategy: using Vito, a naive drug lord, to delay the Chinese team by leveraging their connection through the drug deal.",
+      "level": 1
+    },
+    {
+      "id": "128",
+      "text": "Mo Jin emphasizes that their own soldiers are too valuable for such tasks and that using local armed forces and drug traffickers is more cost-effective.",
+      "level": 1
+    },
+    {
+      "id": "129",
+      "text": "Mo Jin is satisfied with acquiring raw materials at the source.",
+      "level": 1
+    },
+    {
+      "id": "130",
+      "text": "Ma Su expresses admiration for Mo Jin's extensive network.",
+      "level": 1
+    },
+    {
+      "id": "131",
+      "text": "Mo Jin dismisses this, stating drug lords also seek to launder money through art collection.",
+      "level": 1
+    },
+    {
+      "id": "132",
+      "text": "Zhuo Mu Qiang Ba's group flies to Quito and hires Kesa, an English-speaking local, as a translator.",
+      "level": 1
+    },
+    {
+      "id": "133",
+      "text": "Kesa, a middle-aged man, is chosen for his linguistic skills and experience, though his English is not fluent.",
+      "level": 1
+    },
+    {
+      "id": "134",
+      "text": "Most of their equipment had to be left behind due to strict security checks in Ecuador.",
+      "level": 1
+    },
+    {
+      "id": "135",
+      "text": "Kesa is astonished by the extensive shopping list of nearly a hundred items.",
+      "level": 1
+    },
+    {
+      "id": "136",
+      "text": "Kesa suggests buying more tools in Putumayo, as it's a border port with access to local jungle necessities.",
+      "level": 1
+    },
+    {
+      "id": "137",
+      "text": "The eight-hour bus ride to Putumayo reveals a town that has developed beyond its jungle origins due to oil exploration.",
+      "level": 1
+    },
+    {
+      "id": "138",
+      "text": "Kesa explains the impact of development on the rainforest and local culture.",
+      "level": 1
+    },
+    {
+      "id": "139",
+      "text": "The group plans to settle in Putumayo for a day to procure supplies and depart the next morning, intending to travel by water to Santa Maria.",
+      "level": 1
+    },
+    {
+      "id": "140",
+      "text": "Kesa states he will not accompany them into the jungle, as he is not a guide and has a stable job.",
+      "level": 1
+    },
+    {
+      "id": "141",
+      "text": "He warns that venturing into this jungle is extremely dangerous, with many explorers disappearing.",
+      "level": 1
+    },
+    {
+      "id": "142",
+      "text": "The group is undeterred, seeking the challenge and believing their acquired tools will suffice.",
+      "level": 1
+    },
+    {
+      "id": "143",
+      "text": "Kesa arranges accommodation with a local named Holmen.",
+      "level": 1
+    },
+    {
+      "id": "144",
+      "text": "Zhuo Mu Qiang Ba and Basang, with Kesa, go to buy mountaineering and jungle equipment.",
+      "level": 1
+    },
+    {
+      "id": "145",
+      "text": "Zhang Li and Yue Yang, with Holmen, purchase weapons, cooking supplies, and medical items.",
+      "level": 1
+    },
+    {
+      "id": "146",
+      "text": "Basang is described as stoic and self-reliant.",
+      "level": 1
+    },
+    {
+      "id": "147",
+      "text": "Their shopping in Putumayo is smooth due to the presence of shops catering to explorers.",
+      "level": 1
+    },
+    {
+      "id": "148",
+      "text": "Kesa shares information about indigenous customs and local scenery during their walk.",
+      "level": 1
+    },
+    {
+      "id": "149",
+      "text": "Basang suggests a break at an ice bar.",
+      "level": 1
+    },
+    {
+      "id": "150",
+      "text": "The ice bar is a popular spot in Ecuador, offering respite from the heat.",
+      "level": 1
+    },
+    {
+      "id": "151",
+      "text": "Kesa notes the global availability of popular beverages even in remote indigenous communities.",
+      "level": 1
+    },
+    {
+      "id": "152",
+      "text": "Zhuo Mu Qiang Ba enjoys the Robusta iced coffee, while Basang prefers fruit-based drinks.",
+      "level": 1
+    },
+    {
+      "id": "153",
+      "text": "A group of indigenous men enters the ice bar with a young indigenous woman who is vocally displeased.",
+      "level": 1
+    },
+    {
+      "id": "154",
+      "text": "Kesa advises caution, identifying them as potentially dangerous indigenous tribesmen.",
+      "level": 1
+    },
+    {
+      "id": "155",
+      "text": "Zhuo Mu Qiang Ba intervenes when one of the men attempts to strike the woman.",
+      "level": 1
+    },
+    {
+      "id": "156",
+      "text": "The men's faces are adorned with tribal markings.",
+      "level": 1
+    },
+    {
+      "id": "157",
+      "text": "Kesa translates the man's aggressive inquiry.",
+      "level": 1
+    },
+    {
+      "id": "158",
+      "text": "Zhuo Mu Qiang Ba tells the man that men should not bully women.",
+      "level": 1
+    },
+    {
+      "id": "159",
+      "text": "The man breaks free and challenges Zhuo Mu Qiang Ba to a contest.",
+      "level": 1
+    },
+    {
+      "id": "160",
+      "text": "Basang remains vigilant, watching the other men.",
+      "level": 1
+    },
+    {
+      "id": "161",
+      "text": "The challenge is revealed to be an arm-wrestling match.",
+      "level": 1
+    },
+    {
+      "id": "162",
+      "text": "Zhuo Mu Qiang Ba miscalculates the man's strength and loses the first round.",
+      "level": 1
+    },
+    {
+      "id": "163",
+      "text": "Zhuo Mu Qiang Ba then proposes a left-handed match, which he wins decisively.",
+      "level": 1
+    },
+    {
+      "id": "164",
+      "text": "The indigenous man, realizing Zhuo Mu Qiang Ba's superior strength, concedes.",
+      "level": 1
+    },
+    {
+      "id": "165",
+      "text": "The man expresses respect for Zhuo Mu Qiang Ba's strength.",
+      "level": 1
+    },
+    {
+      "id": "166",
+      "text": "The woman, named Baba-Tu, explains her brother (the strong man, Mi Xiong-Li Zha) respects strong men and is impressed by Zhuo Mu Qiang Ba.",
+      "level": 1
+    },
+    {
+      "id": "167",
+      "text": "Zhuo Mu Qiang Ba realizes it was a misunderstanding and not an intentional conflict.",
+      "level": 1
+    },
+    {
+      "id": "168",
+      "text": "Baba-Tu asks about their exploration plans and suggests going to Brazil instead, citing its larger, safer jungles and developed tourism.",
+      "level": 1
+    },
+    {
+      "id": "169",
+      "text": "She advises them on dangerous directions for exploration in their current region.",
+      "level": 1
+    },
+    {
+      "id": "170",
+      "text": "They converse further, with Baba-Tu translating for her brother.",
+      "level": 1
+    },
+    {
+      "id": "171",
+      "text": "Zhuo Mu Qiang Ba and Basang bid farewell to the indigenous group.",
+      "level": 1
+    },
+    {
+      "id": "172",
+      "text": "Baba-Tu coyly invites Zhuo Mu Qiang Ba to visit their tribe.",
+      "level": 1
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Lama Yara",
+      "frequency": 10,
+      "context": "Initiates the training assessment, discusses ancient texts, proposes the Amazon traverse, decides on secrecy, and contemplates Maya."
+    },
+    {
+      "name": "Lu Jingnan",
+      "frequency": 9,
+      "context": "Asks questions about clues, expresses disbelief, questions the objective and danger, and announces the mid-term examination."
+    },
+    {
+      "name": "Amazon Jungle",
+      "frequency": 8,
+      "context": "The primary setting for the mid-term test, described as dangerous, vast, and filled with unknown elements."
+    },
+    {
+      "name": "Maya Civilization",
+      "frequency": 5,
+      "context": "Central to the ancient texts and legends, its connection to the Amazon is explored."
+    },
+    {
+      "name": "Castle under light",
+      "frequency": 4,
+      "context": "An ancient artifact or location mentioned in deciphered texts, central to the search."
+    },
+    {
+      "name": "Zhuo Mu Qiang Ba",
+      "frequency": 15,
+      "context": "Protagonist, undergoes training, is attacked, recognizes an old enemy, ponders the danger, and leads his group."
+    },
+    {
+      "name": "Niu Er Wa",
+      "frequency": 4,
+      "context": "Attacker and antagonist from a previous encounter, seeking revenge against Zhuo Mu Qiang Ba."
+    },
+    {
+      "name": "Mid-term examination",
+      "frequency": 5,
+      "context": "The upcoming test for the trainees, involving a dangerous journey through the Amazon."
+    },
+    {
+      "name": "Training camp",
+      "frequency": 3,
+      "context": "The location where the trainees are based and the initial attack occurs."
+    },
+    {
+      "name": "Weapons",
+      "frequency": 7,
+      "context": "Mentioned in the context of acquisition and use, particularly during the attack and for the jungle expedition."
+    },
+    {
+      "name": "Tools",
+      "frequency": 4,
+      "context": "Essential for the jungle expedition, with a focus on specialized equipment."
+    },
+    {
+      "name": "Mo Jin",
+      "frequency": 6,
+      "context": "Antagonist, orchestrates a plan to delay the Chinese team using local criminals and drug lords."
+    },
+    {
+      "name": "Ma Su",
+      "frequency": 4,
+      "context": "Mo Jin's subordinate, involved in the drug deal and questioning Mo Jin's strategies."
+    },
+    {
+      "name": "Vito",
+      "frequency": 3,
+      "context": "Colombian drug lord who agrees to help Mo Jin by delaying the Chinese team."
+    },
+    {
+      "name": "Putumayo",
+      "frequency": 5,
+      "context": "Starting point for the expedition, described as a port town with developing infrastructure."
+    },
+    {
+      "name": "Kesa",
+      "frequency": 6,
+      "context": "Local translator hired by Zhuo Mu Qiang Ba's group, providing information and assistance."
+    },
+    {
+      "name": "Indigenous tribes",
+      "frequency": 7,
+      "context": "Encountered in the Amazon, with specific interactions involving Baba-Tu and her brother."
+    },
+    {
+      "name": "Baba-Tu",
+      "frequency": 4,
+      "context": "Indigenous woman who interacts with Zhuo Mu Qiang Ba, revealing tribal customs and offering advice."
+    },
+    {
+      "name": "Danger",
+      "frequency": 8,
+      "context": "A recurring theme throughout the chapter, associated with the Amazon, attackers, and tribal encounters."
+    },
+    {
+      "name": "Information gathering",
+      "frequency": 3,
+      "context": "Crucial for the expedition, involving research and gathering necessary tools."
+    },
+    {
+      "name": "Ancient texts",
+      "frequency": 2,
+      "context": "Source of clues about the 'castle under light'."
+    },
+    {
+      "name": "Secret",
+      "frequency": 2,
+      "context": "Associated with the Maya, the 'castle under light', and Mo Jin's plans."
+    },
+    {
+      "name": "Revenge",
+      "frequency": 2,
+      "context": "Motivation for Niu Er Wa's attack."
+    },
+    {
+      "name": "Colombia",
+      "frequency": 3,
+      "context": "Destination Mo Jin plans to travel to, and a region of importance for the drug trade and potential Mayan discoveries."
+    },
+    {
+      "name": "North America",
+      "frequency": 1,
+      "context": "Mo Jin requests a map of this continent."
+    },
+    {
+      "name": "Pabara Temple",
+      "frequency": 1,
+      "context": "Mentioned in ancient texts as preserving sacredness."
+    },
+    {
+      "name": "Yi Xi Wo Bo",
+      "frequency": 1,
+      "context": "Figure from ancient texts who recreated the 'castle under light'."
+    },
+    {
+      "name": "Piyanbu Rang",
+      "frequency": 1,
+      "context": "Figure from ancient texts to whom the 'castle under light' was to be returned."
+    },
+    {
+      "name": "The Classic of Mountains and Seas",
+      "frequency": 1,
+      "context": "Ancient Chinese text referenced to support the idea of ancient long-distance travel."
+    },
+    {
+      "name": "Yin people",
+      "frequency": 1,
+      "context": "Legendary people referenced for crossing the sea."
+    },
+    {
+      "name": "Tropical rainforest",
+      "frequency": 2,
+      "context": "Description of the Amazonian environment."
+    },
+    {
+      "name": "Hoh Xil",
+      "frequency": 1,
+      "context": "Location of Zhuo Mu Qiang Ba's previous encounter with Niu Er Wa."
+    },
+    {
+      "name": "Living Buddha",
+      "frequency": 1,
+      "context": "Believed to provide guidance for the expedition."
+    },
+    {
+      "name": "Obstacle course",
+      "frequency": 1,
+      "context": "Zhuo Mu Qiang Ba's training activity."
+    },
+    {
+      "name": "AR15",
+      "frequency": 1,
+      "context": "Type of rifle used by the attacker."
+    },
+    {
+      "name": "Assault rifles",
+      "frequency": 1,
+      "context": "Provided by Professor Fang Xin."
+    },
+    {
+      "name": "Tear gas grenade",
+      "frequency": 1,
+      "context": "Prepared by Yue Yang."
+    },
+    {
+      "name": "Smoke bomb",
+      "frequency": 2,
+      "context": "Used by the attacker to evade capture."
+    },
+    {
+      "name": "Soviet-made F-1 hand grenade",
+      "frequency": 1,
+      "context": "Used by the attacker."
+    },
+    {
+      "name": "Crocodile hunting knife",
+      "frequency": 2,
+      "context": "Zhuo Mu Qiang Ba's preferred weapon, used in the confrontation."
+    },
+    {
+      "name": "Cliff",
+      "frequency": 1,
+      "context": "Location where the attacker is cornered."
+    },
+    {
+      "name": "Confidential file",
+      "frequency": 1,
+      "context": "Contains information about Lu Jingnan."
+    },
+    {
+      "name": "Acis Port",
+      "frequency": 2,
+      "context": "Destination for Mo Jin's departure."
+    },
+    {
+      "name": "Yucatan Peninsula",
+      "frequency": 1,
+      "context": "Traditional area of Mayan civilization."
+    },
+    {
+      "name": "Andes Mountains",
+      "frequency": 2,
+      "context": "Geographical barrier mentioned in relation to Mayan and Inca civilizations."
+    },
+    {
+      "name": "Bogota",
+      "frequency": 1,
+      "context": "Capital of Colombia."
+    },
+    {
+      "name": "Itca River",
+      "frequency": 1,
+      "context": "River connected to Acis Port."
+    },
+    {
+      "name": "Villas",
+      "frequency": 1,
+      "context": "Where Mo Jin meets Vito."
+    },
+    {
+      "name": "Cigars",
+      "frequency": 2,
+      "context": "Shared by Mo Jin and Vito."
+    },
+    {
+      "name": "Cocaine",
+      "frequency": 1,
+      "context": "The drug being traded."
+    },
+    {
+      "name": "Ospina",
+      "frequency": 1,
+      "context": "Location where Vito plans to intercept the Chinese team."
+    },
+    {
+      "name": "African crystal",
+      "frequency": 1,
+      "context": "A collector's item mentioned by Vito."
+    },
+    {
+      "id": "1",
+      "name": "Wood boat",
+      "frequency": 1,
+      "context": "Used by Mo Jin and Ma Su on the Amazon."
+    },
+    {
+      "name": "Drug lord",
+      "frequency": 2,
+      "context": "Description of Vito."
+    },
+    {
+      "name": "Revolutionary Armed Forces",
+      "frequency": 1,
+      "context": "Vito's alleged connections."
+    },
+    {
+      "name": "Quito",
+      "frequency": 1,
+      "context": "Capital of Ecuador, initial destination for the team."
+    },
+    {
+      "name": "Spanish",
+      "frequency": 1,
+      "context": "Language spoken in Ecuador."
+    },
+    {
+      "name": "English",
+      "frequency": 5,
+      "context": "Language of instruction and communication for Kesa and the team."
+    },
+    {
+      "name": "Eurasian",
+      "frequency": 1,
+      "context": "Ethnicity of Kesa."
+    },
+    {
+      "name": "Middle school teacher",
+      "frequency": 1,
+      "context": "Kesa's profession."
+    },
+    {
+      "name": "Local dialects",
+      "frequency": 1,
+      "context": "Kesa's proficiency."
+    },
+    {
+      "name": "Ecuadorian customs",
+      "frequency": 1,
+      "context": "Strict security checks."
+    },
+    {
+      "name": "Shopping list",
+      "frequency": 1,
+      "context": "Extensive list of items for the expedition."
+    },
+    {
+      "name": "Jungle necessities",
+      "frequency": 1,
+      "context": "Tools available in Putumayo."
+    },
+    {
+      "name": "Jungle hunting knife",
+      "frequency": 1,
+      "context": "Example of a jungle tool."
+    },
+    {
+      "name": "Bow and arrow",
+      "frequency": 1,
+      "context": "Example of a jungle tool."
+    },
+    {
+      "name": "Safety rope",
+      "frequency": 1,
+      "context": "Example of a jungle tool."
+    },
+    {
+      "name": "Folding shovel",
+      "frequency": 1,
+      "context": "Example of a jungle tool."
+    },
+    {
+      "name": "Double-barreled shotgun",
+      "frequency": 1,
+      "context": "Potential weapon acquisition."
+    },
+    {
+      "name": "Bus",
+      "frequency": 1,
+      "context": "Mode of transport to Putumayo."
+    },
+    {
+      "name": "Brick houses",
+      "frequency": 1,
+      "context": "Architecture of Putumayo."
+    },
+    {
+      "name": "Macadam roads",
+      "frequency": 1,
+      "context": "Infrastructure of Putumayo."
+    },
+    {
+      "name": "Oil exploration",
+      "frequency": 1,
+      "context": "Reason for Putumayo's development."
+    },
+    {
+      "name": "Log canoes",
+      "frequency": 1,
+      "context": "Traditional mode of transport in the Amazon."
+    },
+    {
+      "name": "Cultural concepts",
+      "frequency": 1,
+      "context": "Changing due to development."
+    },
+    {
+      "name": "Life styles",
+      "frequency": 1,
+      "context": "Changing due to development."
+    },
+    {
+      "id": "1",
+      "name": "Ecological protection",
+      "frequency": 1,
+      "context": "Considered after basic needs are met."
+    },
+    {
+      "name": "Accommodation",
+      "frequency": 1,
+      "context": "Arranged for the team in Putumayo."
+    },
+    {
+      "name": "Holmen",
+      "frequency": 2,
+      "context": "Local man who provides accommodation."
+    },
+    {
+      "name": "Quechua",
+      "frequency": 1,
+      "context": "Language spoken by Holmen."
+    },
+    {
+      "name": "Mountain climbing",
+      "frequency": 1,
+      "context": "Part of the expedition's equipment needs."
+    },
+    {
+      "name": "Eight-ring",
+      "frequency": 1,
+      "context": "Part of climbing equipment."
+    },
+    {
+      "name": "Rock pitons",
+      "frequency": 1,
+      "context": "Part of climbing equipment."
+    },
+    {
+      "name": "Waist pack",
+      "frequency": 1,
+      "context": "Part of jungle equipment."
+    },
+    {
+      "name": "Engineer shovel",
+      "frequency": 1,
+      "context": "Part of jungle equipment."
+    },
+    {
+      "name": "Zip line",
+      "frequency": 1,
+      "context": "Part of jungle equipment."
+    },
+    {
+      "name": "Weapons",
+      "frequency": 1,
+      "context": "Purchased by Zhang Li and Yue Yang."
+    },
+    {
+      "name": "Wilderness cooking equipment",
+      "frequency": 1,
+      "context": "Purchased by Zhang Li and Yue Yang."
+    },
+    {
+      "name": "First aid supplies",
+      "frequency": 1,
+      "context": "Purchased by Zhang Li and Yue Yang."
+    },
+    {
+      "name": "Medication",
+      "frequency": 1,
+      "context": "Purchased by Zhang Li and Yue Yang."
+    },
+    {
+      "name": "Outskirts",
+      "frequency": 1,
+      "context": "Where weapons can be bought in Putumayo."
+    },
+    {
+      "name": "Stoic",
+      "frequency": 1,
+      "context": "Description of Basang."
+    },
+    {
+      "name": "Eagle",
+      "frequency": 1,
+      "context": "Metaphor for Basang's demeanor."
+    },
+    {
+      "name": "Talkativeness",
+      "frequency": 1,
+      "context": "Basang's lack thereof."
+    },
+    {
+      "name": "Deterred",
+      "frequency": 1,
+      "context": "Zhuo Mu Qiang Ba's initial reluctance to rest."
+    },
+    {
+      "name": "Load",
+      "frequency": 1,
+      "context": "The weight of their equipment."
+    },
+    {
+      "name": "Muggy weather",
+      "frequency": 1,
+      "context": "Climate in Ecuador."
+    },
+    {
+      "name": "Ice bar",
+      "frequency": 4,
+      "context": "Location where the group rests and encounters indigenous people."
+    },
+    {
+      "name": "Coca-Cola",
+      "frequency": 1,
+      "context": "Global beverage available in remote areas."
+    },
+    {
+      "name": "Pepsi Cola",
+      "frequency": 1,
+      "context": "Global beverage available in remote areas."
+    },
+    {
+      "name": "Robusta iced coffee",
+      "frequency": 1,
+      "context": "Zhuo Mu Qiang Ba's preferred drink."
+    },
+    {
+      "name": "Pitaya",
+      "frequency": 1,
+      "context": "Fruit used in drinks."
+    },
+    {
+      "name": "Tomato branch",
+      "frequency": 1,
+      "context": "Fruit used in drinks."
+    },
+    {
+      "name": "Golden fruit",
+      "frequency": 1,
+      "context": "Fruit used in drinks."
+    },
+    {
+      "name": "Banana",
+      "frequency": 1,
+      "context": "Fruit used in drinks."
+    },
+    {
+      "name": "Smooth",
+      "frequency": 1,
+      "context": "Description of drinks."
+    },
+    {
+      "name": "Lingering fragrance",
+      "frequency": 1,
+      "context": "Description of drinks."
+    },
+    {
+      "name": "Dissonant noise",
+      "frequency": 1,
+      "context": "Atmosphere in the ice bar during the confrontation."
+    },
+    {
+      "name": "Stout men",
+      "frequency": 1,
+      "context": "Accompanying the indigenous woman."
+    },
+    {
+      "name": "Indigenous woman",
+      "frequency": 3,
+      "context": "The central figure in the ice bar incident."
+    },
+    {
+      "name": "Thin gauze dress",
+      "frequency": 1,
+      "context": "Clothing of the indigenous woman."
+    },
+    {
+      "name": "Open-neck blouse",
+      "frequency": 1,
+      "context": "Clothing of the indigenous woman."
+    },
+    {
+      "name": "Sarong skirt",
+      "frequency": 1,
+      "context": "Clothing of the indigenous woman."
+    },
+    {
+      "name": "Crystal sandals",
+      "frequency": 1,
+      "context": "Footwear of the indigenous woman."
+    },
+    {
+      "name": "Slender and graceful figure",
+      "frequency": 1,
+      "context": "Description of the indigenous woman."
+    },
+    {
+      "name": "Noble temperament",
+      "frequency": 1,
+      "context": "Description of the indigenous woman."
+    },
+    {
+      "name": "Sharp cries",
+      "frequency": 1,
+      "context": "Sound made by the indigenous woman."
+    },
+    {
+      "name": "Bare-chested men",
+      "frequency": 1,
+      "context": "The indigenous men."
+    },
+    {
+      "name": "Strange patterns",
+      "frequency": 2,
+      "context": "Painted on the men's bodies."
+    },
+    {
+      "name": "Bronze skin",
+      "frequency": 1,
+      "context": "Complexion of the indigenous men."
+    },
+    {
+      "name": "Central Asian appearance",
+      "frequency": 1,
+      "context": "Physical description of the indigenous men."
+    },
+    {
+      "name": "Iron pincers",
+      "frequency": 1,
+      "context": "Metaphor for Zhuo Mu Qiang Ba's grip."
+    },
+    {
+      "name": "Tribal totems",
+      "frequency": 1,
+      "context": "Patterns on the faces of the indigenous men."
+    },
+    {
+      "name": "Half-moon red patterns",
+      "frequency": 1,
+      "context": "Markings below the eyes of one man."
+    },
+    {
+      "name": "Fangs",
+      "frequency": 1,
+      "context": "Resemblance of the red patterns."
+    },
+    {
+      "name": "Abstract jaguar head",
+      "frequency": 1,
+      "context": "Marking on the forehead of one man."
+    },
+    {
+      "name": "Hook cloud pattern",
+      "frequency": 1,
+      "context": "Resemblance of the jaguar head marking."
+    },
+    {
+      "name": "Status",
+      "frequency": 1,
+      "context": "Indicated by facial patterns."
+    },
+    {
+      "name": "Grumbling",
+      "frequency": 1,
+      "context": "Sound made by the indigenous man."
+    },
+    {
+      "name": "Stuttering",
+      "frequency": 2,
+      "context": "Kesa's manner of speaking when translating."
+    },
+    {
+      "name": "American English",
+      "frequency": 1,
+      "context": "Language spoken by Baba-Tu."
+    },
+    {
+      "name": "Favoritism",
+      "frequency": 1,
+      "context": "Baba-Tu's stance towards her brother."
+    },
+    {
+      "name": "Fearlessness",
+      "frequency": 1,
+      "context": "Zhuo Mu Qiang Ba's demeanor."
+    },
+    {
+      "name": "Roar",
+      "frequency": 1,
+      "context": "Sound made by the indigenous men."
+    },
+    {
+      "name": "Bar counter",
+      "frequency": 2,
+      "context": "Location for the arm-wrestling match."
+    },
+    {
+      "name": "Full strength",
+      "frequency": 1,
+      "context": "Zhuo Mu Qiang Ba's initial underestimation of his opponent."
+    },
+    {
+      "name": "Steel pillar",
+      "frequency": 1,
+      "context": "Metaphor for Zhuo Mu Qiang Ba's left arm."
+    },
+    {
+      "name": "Astonishment",
+      "frequency": 1,
+      "context": "Zhuo Mu Qiang Ba's reaction to the indigenous man's attitude shift."
+    },
+    {
+      "name": "Kukuru tribe",
+      "frequency": 1,
+      "context": "Baba-Tu's tribe."
+    },
+    {
+      "name": "Brave warrior",
+      "frequency": 1,
+      "context": "Description of the indigenous man."
+    },
+    {
+      "id": "1",
+      "name": "Family matters",
+      "frequency": 1,
+      "context": "Reason for the sibling's disagreement."
+    },
+    {
+      "name": "Vulnerability",
+      "frequency": 1,
+      "context": "The indigenous woman's potential fate without intervention."
+    },
+    {
+      "name": "Humor",
+      "frequency": 1,
+      "context": "Basang's expression towards Zhuo Mu Qiang Ba."
+    },
+    {
+      "name": "Invites",
+      "frequency": 1,
+      "context": "Baba-Tu's invitation to Zhuo Mu Qiang Ba."
+    },
+    {
+      "name": "Blush",
+      "frequency": 1,
+      "context": "Baba-Tu's reaction."
+    }
+  ],
+  "relations": [
+    {
+      "source": "Lama Yara",
+      "target": "Lu Jingnan",
+      "type": "interacts_with"
+    },
+    {
+      "source": "Lama Yara",
+      "target": "Amazon Jungle",
+      "type": "proposes_exploration_of"
+    },
+    {
+      "source": "Zhuo Mu Qiang Ba",
+      "target": "Training camp",
+      "type": "is_at"
+    },
+    {
+      "source": "Zhuo Mu Qiang Ba",
+      "target": "Niu Er Wa",
+      "type": "antagonist_of"
+    },
+    {
+      "source": "Niu Er Wa",
+      "target": "Revenge",
+      "type": "motivated_by"
+    },
+    {
+      "source": "Mid-term examination",
+      "target": "Amazon Jungle",
+      "type": "takes_place_in"
+    },
+    {
+      "source": "Mo Jin",
+      "target": "Vito",
+      "type": "collaborates_with"
+    },
+    {
+      "source": "Mo Jin",
+      "target": "Putumayo",
+      "type": "plans_to_travel_to"
+    },
+    {
+      "source": "Mo Jin",
+      "target": "Chinese team",
+      "type": "plans_to_delay"
+    },
+    {
+      "source": "Zhuo Mu Qiang Ba's group",
+      "target": "Kesa",
+      "type": "hires"
+    },
+    {
+      "source": "Zhuo Mu Qiang Ba's group",
+      "target": "Putumayo",
+      "type": "is_at"
+    },
+    {
+      "source": "Zhuo Mu Qiang Ba's group",
+      "target": "Amazon Jungle",
+      "type": "intends_to_explore"
+    },
+    {
+      "source": "Indigenous tribes",
+      "target": "Amazon Jungle",
+      "type": "inhabits"
+    },
+    {
+      "source": "Baba-Tu",
+      "target": "Zhuo Mu Qiang Ba",
+      "type": "interacts_with"
+    },
+    {
+      "source": "Baba-Tu's brother",
+      "target": "Zhuo Mu Qiang Ba",
+      "type": "respects"
+    },
+    {
+      "source": "Weapons",
+      "target": "Expedition",
+      "type": "are_needed_for"
+    },
+    {
+      "source": "Tools",
+      "target": "Expedition",
+      "type": "are_needed_for"
+    },
+    {
+      "source": "Maya Civilization",
+      "target": "Ancient texts",
+      "type": "described_in"
+    },
+    {
+      "source": "Castle under light",
+      "target": "Maya Civilization",
+      "type": "related_to"
+    },
+    {
+      "source": "Lama Yara",
+      "target": "Mid-term examination",
+      "type": "announces"
+    },
+    {
+      "source": "Lu Jingnan",
+      "target": "Mid-term examination",
+      "type": "announces"
+    },
+    {
+      "source": "Zhuo Mu Qiang Ba",
+      "target": "Niu Er Wa",
+      "type": "has_history_with"
+    },
+    {
+      "source": "Niu Er Wa",
+      "target": "Zhuo Mu Qiang Ba",
+      "type": "seeks_revenge_on"
+    },
+    {
+      "source": "Mo Jin",
+      "target": "Chinese team",
+      "type": "schemes_against"
+    },
+    {
+      "source": "Vito",
+      "target": "Chinese team",
+      "type": "to_delay"
+    },
+    {
+      "source": "Kesa",
+      "target": "Zhuo Mu Qiang Ba's group",
+      "type": "translates_for"
+    },
+    {
+      "source": "Indigenous tribes",
+      "target": "Amazon Jungle",
+      "type": "are_part_of"
+    },
+    {
+      "source": "Baba-Tu",
+      "target": "Indigenous tribes",
+      "type": "belongs_to"
+    },
+    {
+      "source": "Danger",
+      "target": "Amazon Jungle",
+      "type": "is_characteristic_of"
+    },
+    {
+      "source": "Danger",
+      "target": "Attackers",
+      "type": "is_associated_with"
+    },
+    {
+      "source": "Information gathering",
+      "target": "Expedition",
+      "type": "is_essential_for"
+    },
+    {
+      "source": "Secret",
+      "target": "Maya",
+      "type": "is_associated_with"
+    },
+    {
+      "source": "Secret",
+      "target": "Mo Jin's plans",
+      "type": "is_part_of"
+    }
+  ],
+  "hierarchy": {
+    "main_topics": [
+      "Exploration of the Amazon",
+      "Ancient Mysteries and Maya Civilization",
+      "Training and Team Dynamics",
+      "Antagonistic Forces and Schemes"
+    ],
+    "structure": "The document follows a narrative structure that begins with the announcement of a new mission, delves into the historical and geographical context, introduces immediate conflict through an attack, details the preparations for the expedition, and reveals the machinations of the antagonists. It concludes with the team's arrival at the starting point of their journey and the initial interactions within the new environment."
+  }
+}

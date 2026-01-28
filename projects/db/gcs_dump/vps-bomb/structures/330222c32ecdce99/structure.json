@@ -1,0 +1,189 @@
+{
+  "propositions": [
+    {
+      "id": "1",
+      "text": "他们知道我要上大学的时候，他们说：“你想上就上吧。”",
+      "level": 1
+    },
+    {
+      "id": "2",
+      "text": "他们说：“你可以去上大学。”",
+      "level": 1
+    },
+    {
+      "id": "3",
+      "text": "他们是我的父母。",
+      "level": 1
+    },
+    {
+      "id": "4",
+      "text": "为什么要去上大学？",
+      "level": 1
+    },
+    {
+      "id": "5",
+      "text": "因为我想实现我的梦想。",
+      "level": 1
+    },
+    {
+      "id": "6",
+      "text": "我一直梦想着在大学里学到更多东西，尤其是在我心中那片圣洁的土地上。",
+      "level": 1
+    },
+    {
+      "id": "7",
+      "text": "在大学里，我也可以认识更多有趣的人。",
+      "level": 1
+    },
+    {
+      "id": "8",
+      "text": "我可以和来自不同地方的人一起学习。",
+      "level": 1
+    },
+    {
+      "id": "9",
+      "text": "我想告诉大家：“别再犹豫了，快来上大学吧！”",
+      "level": 1
+    },
+    {
+      "id": "10",
+      "text": "我希望那些正在犹豫的人，能够做出正确的选择。",
+      "level": 1
+    },
+    {
+      "id": "11",
+      "text": "我希望那些对大学生活充满憧憬的人，能够勇敢地踏出这一步。",
+      "level": 1
+    },
+    {
+      "id": "12",
+      "text": "在大学里，你会找到属于你的舞台。",
+      "level": 1
+    },
+    {
+      "id": "13",
+      "text": "在那里，你会遇到志同道合的朋友。",
+      "level": 1
+    },
+    {
+      "id": "14",
+      "text": "你会在那里收获知识，增长见识。",
+      "level": 1
+    },
+    {
+      "id": "15",
+      "text": "你会在那里实现你的梦想。",
+      "level": 1
+    }
+  ],
+  "concepts": [
+    {
+      "name": "大学",
+      "frequency": 31,
+      "context": "The central theme of the document, discussed in relation to going to college, learning, personal dreams, and social interaction."
+    },
+    {
+      "name": "梦想",
+      "frequency": 3,
+      "context": "The primary motivation for pursuing higher education, linked to learning more and achieving personal goals."
+    },
+    {
+      "name": "父母",
+      "frequency": 1,
+      "context": "Mentioned as having given permission to attend university."
+    },
+    {
+      "name": "学习",
+      "frequency": 2,
+      "context": "The main section heading and a key activity associated with university."
+    },
+    {
+      "name": "人",
+      "frequency": 3,
+      "context": "Referred to in terms of meeting interesting people, people from different places, and like-minded friends at university."
+    },
+    {
+      "name": "朋友",
+      "frequency": 1,
+      "context": "A positive outcome of attending university, finding like-minded individuals."
+    },
+    {
+      "name": "知识",
+      "frequency": 1,
+      "context": "Something gained at university."
+    },
+    {
+      "name": "见识",
+      "frequency": 1,
+      "context": "Something gained at university, alongside knowledge."
+    },
+    {
+      "name": "舞台",
+      "frequency": 1,
+      "context": "A metaphor for the opportunities and platform provided by university."
+    },
+    {
+      "name": "选择",
+      "frequency": 1,
+      "context": "Relates to the decision of whether or not to attend university."
+    }
+  ],
+  "relations": [
+    {
+      "source": "大学",
+      "target": "梦想",
+      "type": "enables_realization_of"
+    },
+    {
+      "source": "大学",
+      "target": "学习",
+      "type": "is_a_place_for"
+    },
+    {
+      "source": "大学",
+      "target": "人",
+      "type": "allows_meeting"
+    },
+    {
+      "source": "大学",
+      "target": "朋友",
+      "type": "facilitates_finding"
+    },
+    {
+      "source": "大学",
+      "target": "知识",
+      "type": "provides"
+    },
+    {
+      "source": "大学",
+      "target": "见识",
+      "type": "enhances"
+    },
+    {
+      "source": "大学",
+      "target": "舞台",
+      "type": "provides"
+    },
+    {
+      "source": "父母",
+      "target": "大学",
+      "type": "supportive_of_attending"
+    },
+    {
+      "source": "梦想",
+      "target": "学习",
+      "type": "motivates"
+    },
+    {
+      "source": "选择",
+      "target": "大学",
+      "type": "relates_to_decision_about"
+    }
+  ],
+  "hierarchy": {
+    "main_topics": [
+      "学习"
+    ],
+    "structure": "The document is structured around the theme of '学习' (Learning). Within this theme, the primary content consists of repetitive arguments and encouragements for attending university, supported by reasons like realizing dreams, gaining knowledge, meeting people, and finding a platform. The repeated structure suggests a motivational or persuasive intent."
+  }
+}

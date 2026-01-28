@@ -1,0 +1,216 @@
+{
+  "propositions": [
+    {
+      "id": "1",
+      "text": "这是你爷爷的遗嘱。",
+      "level": 1
+    },
+    {
+      "id": "2",
+      "text": "你是说，我爷爷把所有财产都留给了我，还有两套别墅，价值两亿。",
+      "level": 1
+    },
+    {
+      "id": "3",
+      "text": "是的。",
+      "level": 1
+    },
+    {
+      "id": "4",
+      "text": "我还有个疑问，我爷爷是不是有什么事瞒着我？",
+      "level": 1
+    },
+    {
+      "id": "5",
+      "text": "这…我想您应该去问问您的父亲。",
+      "level": 1
+    },
+    {
+      "id": "6",
+      "text": "您的父亲一直都知道，您爷爷早就想把您培养成接班人。",
+      "level": 2
+    },
+    {
+      "id": "7",
+      "text": "但是，我一直都不想继承家业，我想自己创业。",
+      "level": 1
+    },
+    {
+      "id": "8",
+      "text": "我知道。",
+      "level": 1
+    },
+    {
+      "id": "9",
+      "text": "但是，您爷爷一直相信，您会改变主意。",
+      "level": 2
+    },
+    {
+      "id": "10",
+      "text": "那我的母亲呢？她知道什么？",
+      "level": 1
+    },
+    {
+      "id": "11",
+      "text": "您母亲很担心您，她希望您能和您的父亲好好谈谈。",
+      "level": 2
+    },
+    {
+      "id": "12",
+      "text": "但是，我父亲从来都不关心我，他只关心他的公司。",
+      "level": 1
+    },
+    {
+      "id": "13",
+      "text": "那您父亲现在在哪里？",
+      "level": 1
+    },
+    {
+      "id": "14",
+      "text": "我父亲现在在美国，正在处理公司的事务。",
+      "level": 1
+    }
+  ],
+  "concepts": [
+    {
+      "name": "爷爷",
+      "frequency": 10,
+      "context": "提及爷爷的遗嘱、财产、培养接班人的意愿以及相信孙子会改变主意。"
+    },
+    {
+      "name": "陈东",
+      "frequency": 10,
+      "context": "文档中的主要对话者，是一名小职员，不愿继承家业，想创业。"
+    },
+    {
+      "name": "遗嘱",
+      "frequency": 1,
+      "context": "陈东爷爷留下的文件，内容涉及财产分配。"
+    },
+    {
+      "name": "财产",
+      "frequency": 1,
+      "context": "爷爷留下的遗产，包括别墅和金钱。"
+    },
+    {
+      "name": "别墅",
+      "frequency": 1,
+      "context": "爷爷留下的财产之一，价值不菲。"
+    },
+    {
+      "name": "律师",
+      "frequency": 1,
+      "context": "向陈东解释遗嘱内容的人。"
+    },
+    {
+      "name": "父亲",
+      "frequency": 10,
+      "context": "陈东的父亲，一位成功的商人，对陈东的未来有期望，但与陈东关系疏远。"
+    },
+    {
+      "name": "母亲",
+      "frequency": 3,
+      "context": "陈东的母亲，担心陈东，希望他与父亲沟通。"
+    },
+    {
+      "name": "接班人",
+      "frequency": 3,
+      "context": "爷爷希望培养陈东成为公司接班人。"
+    },
+    {
+      "name": "家业",
+      "frequency": 2,
+      "context": "陈东不想继承的家族生意。"
+    },
+    {
+      "name": "创业",
+      "frequency": 2,
+      "context": "陈东的个人愿望，与继承家业相对。"
+    },
+    {
+      "name": "公司",
+      "frequency": 4,
+      "context": "父亲的公司，父亲的主要关注点。"
+    },
+    {
+      "name": "美国",
+      "frequency": 2,
+      "context": "父亲目前所在的位置，处理公司事务。"
+    }
+  ],
+  "relations": [
+    {
+      "source": "爷爷",
+      "target": "遗嘱",
+      "type": "makes"
+    },
+    {
+      "source": "遗嘱",
+      "target": "财产",
+      "type": "distributes"
+    },
+    {
+      "source": "爷爷",
+      "target": "接班人",
+      "type": "wants_to_make"
+    },
+    {
+      "source": "爷爷",
+      "target": "陈东",
+      "type": "wants_to_make_接班人_of"
+    },
+    {
+      "source": "陈东",
+      "target": "家业",
+      "type": "does_not_want_to_inherit"
+    },
+    {
+      "source": "陈东",
+      "target": "创业",
+      "type": "wants_to_do"
+    },
+    {
+      "source": "陈东",
+      "target": "父亲",
+      "type": "relationship_is_distant"
+    },
+    {
+      "source": "父亲",
+      "target": "公司",
+      "type": "owns/manages"
+    },
+    {
+      "source": "母亲",
+      "target": "陈东",
+      "type": "is_worried_about"
+    },
+    {
+      "source": "母亲",
+      "target": "父亲",
+      "type": "wants_him_to_talk_to"
+    },
+    {
+      "source": "父亲",
+      "target": "美国",
+      "type": "is_in"
+    },
+    {
+      "source": "父亲",
+      "target": "公司事务",
+      "type": "is_handling"
+    },
+    {
+      "source": "陈东",
+      "target": "爷爷",
+      "type": "asks_about_secrets_of"
+    }
+  ],
+  "hierarchy": {
+    "main_topics": [
+      "Inheritance",
+      "Family Relationships",
+      "Personal Ambitions"
+    ],
+    "structure": "The document begins with a formal presentation of a will, followed by a dialogue where the protagonist, Chen Dong, questions the lawyer about the implications of the will and his family dynamics. The content is highly repetitive, focusing on Chen Dong's reluctance to inherit and his desire to start his own business, contrasted with his grandfather's wishes and his father's perceived indifference."
+  }
+}

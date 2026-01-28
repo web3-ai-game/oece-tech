@@ -1,0 +1,125 @@
+{
+  "propositions": [
+    {
+      "id": "1",
+      "text": "The document is a raw text file that has undergone OCR or contains garbled characters.",
+      "level": 1
+    },
+    {
+      "id": "1.1",
+      "text": "Much of the original content is unreadable and cannot be reliably converted into structured Markdown.",
+      "level": 2
+    },
+    {
+      "id": "1.1.1",
+      "text": "The majority of the text consists of unintelligible characters and patterns that do not form coherent words or sentences in any known language.",
+      "level": 3
+    },
+    {
+      "id": "1.1.1.1",
+      "text": "It is impossible to identify headings, paragraphs, lists, code blocks, or academic citations with any accuracy.",
+      "level": 4
+    },
+    {
+      "id": "1.1.1.1.1",
+      "text": "A meaningful conversion to structured Markdown is not possible without a readable and coherent source text.",
+      "level": 5
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Raw text file",
+      "frequency": 1,
+      "context": "Describing the nature of the input document."
+    },
+    {
+      "name": "OCR",
+      "frequency": 1,
+      "context": "Mentioned as a potential cause for the document's state."
+    },
+    {
+      "name": "Garbled characters",
+      "frequency": 1,
+      "context": "Describing the unreadable content of the document."
+    },
+    {
+      "name": "Unreadable content",
+      "frequency": 1,
+      "context": "Characterizing the majority of the document's text."
+    },
+    {
+      "name": "Structured Markdown",
+      "frequency": 2,
+      "context": "The intended output format which is rendered impossible due to the document's state."
+    },
+    {
+      "name": "Intelligible characters",
+      "frequency": 1,
+      "context": "Contrasting with the unreadable content."
+    },
+    {
+      "name": "Coherent words/sentences",
+      "frequency": 1,
+      "context": "The absence of these in the document's text."
+    },
+    {
+      "name": "Headings",
+      "frequency": 1,
+      "context": "Elements that cannot be identified."
+    },
+    {
+      "name": "Paragraphs",
+      "frequency": 1,
+      "context": "Elements that cannot be identified."
+    },
+    {
+      "name": "Lists",
+      "frequency": 1,
+      "context": "Elements that cannot be identified."
+    },
+    {
+      "name": "Code blocks",
+      "frequency": 1,
+      "context": "Elements that cannot be identified."
+    },
+    {
+      "name": "Academic citations",
+      "frequency": 1,
+      "context": "Elements that cannot be identified."
+    },
+    {
+      "name": "Readable source text",
+      "frequency": 1,
+      "context": "A prerequisite for meaningful Markdown conversion."
+    }
+  ],
+  "relations": [
+    {
+      "source": "Garbled characters",
+      "target": "Unreadable content",
+      "type": "is_a"
+    },
+    {
+      "source": "Unreadable content",
+      "target": "Structured Markdown conversion",
+      "type": "prevents"
+    },
+    {
+      "source": "OCR",
+      "target": "Garbled characters",
+      "type": "can_cause"
+    },
+    {
+      "source": "Readable source text",
+      "target": "Meaningful conversion",
+      "type": "is_required_for"
+    }
+  ],
+  "hierarchy": {
+    "main_topics": [
+      "Document state and readability",
+      "Impossibility of Markdown conversion"
+    ],
+    "structure": "The document is analyzed by first stating its nature (raw/garbled text), then detailing the consequences of this nature (unreadability, inability to identify structural elements), and finally concluding with the overall impossibility of the intended task due to the lack of a proper source text."
+  }
+}

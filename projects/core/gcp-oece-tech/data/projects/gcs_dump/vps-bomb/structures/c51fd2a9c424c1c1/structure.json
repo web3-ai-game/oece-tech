@@ -1,0 +1,205 @@
+{
+  "propositions": [
+    {
+      "id": "1",
+      "text": "The text is a narrative about Yun Ji.",
+      "level": 1
+    },
+    {
+      "id": "1.1",
+      "text": "The story involves characters and events that unfold.",
+      "level": 2
+    },
+    {
+      "id": "1.2",
+      "text": "There are mentions of historical or legendary elements.",
+      "level": 2
+    },
+    {
+      "id": "1.3",
+      "text": "The narrative seems to be set in a specific cultural or historical context, likely Chinese.",
+      "level": 2
+    },
+    {
+      "id": "2",
+      "text": "The text is likely fictional, given the title 'Legend of Yun Ji'.",
+      "level": 1
+    },
+    {
+      "id": "3",
+      "text": "The document contains scattered Chinese characters and possibly some foreign characters or encoding issues.",
+      "level": 1
+    },
+    {
+      "id": "4",
+      "text": "The content appears to be part of a longer fictional work, possibly a novel or story.",
+      "level": 1
+    },
+    {
+      "id": "5",
+      "text": "The provided snippet is heavily corrupted or encoded in a way that makes full comprehension impossible without proper decoding.",
+      "level": 1
+    },
+    {
+      "id": "6",
+      "text": "There are references to historical figures and events, suggesting a historical fiction genre.",
+      "level": 1
+    },
+    {
+      "id": "7",
+      "text": "The narrative seems to explore themes of fate, power, and potentially romance.",
+      "level": 1
+    },
+    {
+      "id": "8",
+      "text": "The presence of 'www.txtnovel.com' suggests the source is a novel website.",
+      "level": 1
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Yun Ji",
+      "frequency": 1,
+      "context": "The central figure of the legend."
+    },
+    {
+      "name": "Legend",
+      "frequency": 1,
+      "context": "Indicates the narrative is likely fictional and possibly embellished."
+    },
+    {
+      "name": "Characters",
+      "frequency": 1,
+      "context": "Implied by the narrative structure."
+    },
+    {
+      "name": "Events",
+      "frequency": 1,
+      "context": "Implied by the narrative structure."
+    },
+    {
+      "name": "Historical elements",
+      "frequency": 1,
+      "context": "Suggests inspiration from real history or mythology."
+    },
+    {
+      "name": "Chinese characters",
+      "frequency": 1,
+      "context": "The primary language of the corrupted text."
+    },
+    {
+      "name": "Encoding issues",
+      "frequency": 1,
+      "context": "Describes the state of the text rendering."
+    },
+    {
+      "name": "Novel",
+      "frequency": 1,
+      "context": "Likely format of the story."
+    },
+    {
+      "name": "Novel website",
+      "frequency": 1,
+      "context": "Source of the text."
+    },
+    {
+      "name": "Historical fiction",
+      "frequency": 1,
+      "context": "Implied genre."
+    },
+    {
+      "name": "Fate",
+      "frequency": 1,
+      "context": "Potential theme."
+    },
+    {
+      "name": "Power",
+      "frequency": 1,
+      "context": "Potential theme."
+    },
+    {
+      "name": "Romance",
+      "frequency": 1,
+      "context": "Potential theme."
+    }
+  ],
+  "relations": [
+    {
+      "source": "Yun Ji",
+      "target": "Legend",
+      "type": "is_protagonist_of"
+    },
+    {
+      "source": "Yun Ji",
+      "target": "Characters",
+      "type": "part_of"
+    },
+    {
+      "source": "Yun Ji",
+      "target": "Events",
+      "type": "involved_in"
+    },
+    {
+      "source": "Legend",
+      "target": "Historical elements",
+      "type": "may_contain"
+    },
+    {
+      "source": "Legend",
+      "target": "Fictional",
+      "type": "is_a"
+    },
+    {
+      "source": "Characters",
+      "target": "Chinese characters",
+      "type": "written_in"
+    },
+    {
+      "source": "Events",
+      "target": "Chinese characters",
+      "type": "described_in"
+    },
+    {
+      "source": "Novel",
+      "target": "Novel website",
+      "type": "published_on"
+    },
+    {
+      "source": "Historical fiction",
+      "target": "Historical elements",
+      "type": "contains"
+    },
+    {
+      "source": "Historical fiction",
+      "target": "Romance",
+      "type": "may_explore"
+    },
+    {
+      "source": "Fate",
+      "target": "Narrative",
+      "type": "is_a_theme_of"
+    },
+    {
+      "source": "Power",
+      "target": "Narrative",
+      "type": "is_a_theme_of"
+    },
+    {
+      "source": "Romance",
+      "target": "Narrative",
+      "type": "is_a_theme_of"
+    },
+    {
+      "source": "Chinese characters",
+      "target": "Encoding issues",
+      "type": "affected_by"
+    }
+  ],
+  "hierarchy": {
+    "main_topics": [
+      "Narrative Content (Yun Ji Legend)",
+      "Textual Structure and Issues"
+    ],
+    "structure": "The document's primary structure is defined by propositions representing key aspects of the narrative and the textual state. Concepts are extracted and their frequency and context are noted. Relations describe how these concepts are interconnected. The hierarchy categorizes the main areas of analysis."
+  }
+}

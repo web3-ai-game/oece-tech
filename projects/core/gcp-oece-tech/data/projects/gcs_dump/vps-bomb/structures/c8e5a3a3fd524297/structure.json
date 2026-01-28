@@ -1,0 +1,519 @@
+{
+  "propositions": [
+    {
+      "id": "1",
+      "text": "What is true horror? Not screams and gore, not a heavy atmosphere, not Hitchcockian creepiness. True horror exists only when one faces the unknown alone.",
+      "level": 1
+    },
+    {
+      "id": "1.1",
+      "text": "Order is the concept that links each story.",
+      "level": 2
+    },
+    {
+      "id": "2",
+      "text": "This is my literary creation since 'The Story of Mei San Jia'. This time, the story structure is quite tight, with the overarching theme of 'Urban Phobia'. It describes extreme, impossible events, not necessarily terrifying but challenging.",
+      "level": 1
+    },
+    {
+      "id": "2.1",
+      "text": "I use sociology and psychology to explore how different people confront strange unknowns, leading to overcoming adversity, confusion, or breakdown.",
+      "level": 2
+    },
+    {
+      "id": "2.2",
+      "text": "The writing process is fascinating. 'Language' is the first story, exploring the meaning of symbols and the structure of thought.",
+      "level": 2
+    },
+    {
+      "id": "3",
+      "text": "The narrator, a senior at Jiaotong University, recounts his horrifying experience of losing his ability to think logically and communicate.",
+      "level": 1
+    },
+    {
+      "id": "3.1",
+      "text": "He counts numbers to maintain clarity, but his condition is deteriorating rapidly.",
+      "level": 2
+    },
+    {
+      "id": "3.2",
+      "text": "He writes to document his experience before he loses the ability to use words.",
+      "level": 2
+    },
+    {
+      "id": "3.3",
+      "text": "He describes his normal life before the incident: a student, liking comics and movies, with a girlfriend.",
+      "level": 2
+    },
+    {
+      "id": "4",
+      "text": "The narrator and his roommates wake up late and go for lunch.",
+      "level": 1
+    },
+    {
+      "id": "4.1",
+      "text": "His roommates speak in nonsensical sounds, which initially seems like a joke.",
+      "level": 2
+    },
+    {
+      "id": "4.2",
+      "text": "At the cafeteria, the cashier and his roommates also speak in meaningless sounds.",
+      "level": 2
+    },
+    {
+      "id": "4.3",
+      "text": "He suspects a conspiracy when he receives incorrect change and strange items after ordering.",
+      "level": 2
+    },
+    {
+      "id": "5",
+      "text": "The narrator is shocked to see the news broadcast in an unintelligible language that sounds like noise.",
+      "level": 1
+    },
+    {
+      "id": "5.1",
+      "text": "He realizes that everyone in the vicinity is speaking this meaningless language.",
+      "level": 2
+    },
+    {
+      "id": "5.2",
+      "text": "He attempts to communicate with his roommate, but receives only nonsensical sounds in return.",
+      "level": 2
+    },
+    {
+      "id": "6",
+      "text": "The narrator, having a vivid imagination, struggles to accept the reality of his situation.",
+      "level": 1
+    },
+    {
+      "id": "6.1",
+      "text": "He recounts his childhood tendencies towards fantasy and belief in the supernatural.",
+      "level": 2
+    },
+    {
+      "id": "6.2",
+      "text": "He believes that a purely rational analysis will lead to breakdown and that he must embrace the possibility of the inexplicable.",
+      "level": 2
+    },
+    {
+      "id": "7",
+      "text": "He wonders if he has entered a 'Twilight Zone' scenario.",
+      "level": 1
+    },
+    {
+      "id": "7.1",
+      "text": "He considers two main possibilities: either he has entered a 'demon world', or everyone else has become 'demonized'.",
+      "level": 2
+    },
+    {
+      "id": "7.2",
+      "text": "He then tries to figure out how he entered this state by recalling the events of the previous night, looking for a specific combination of 'quirks' that might have triggered it.",
+      "level": 2
+    },
+    {
+      "id": "8",
+      "text": "He follows his roommates to class, finding comfort in their presence despite the alien language.",
+      "level": 1
+    },
+    {
+      "id": "8.1",
+      "text": "He observes that while language has changed, other aspects of the world (friends, clothing) seem familiar, suggesting a parallel dimension.",
+      "level": 2
+    },
+    {
+      "id": "8.2",
+      "text": "He begins to meticulously record his actions from the previous day, searching for a pattern or a way to reverse the process.",
+      "level": 2
+    },
+    {
+      "id": "8.3",
+      "text": "He feels proud of his analytical approach and believes he can become a 'greatest person' by solving this temporal paradox.",
+      "level": 2
+    },
+    {
+      "id": "9",
+      "text": "During class, the teacher speaks in gibberish, and the narrator's attempt to answer a question on the blackboard leads to unexpected praise.",
+      "level": 1
+    },
+    {
+      "id": "9.1",
+      "text": "He realizes that his nonsensical utterances are somehow understood and can even lead to correct answers in academic settings.",
+      "level": 2
+    },
+    {
+      "id": "9.2",
+      "text": "He connects this to his earlier experience of receiving correct change and items after ordering at the cafeteria, suggesting a fundamental shift in how communication and value are perceived.",
+      "level": 2
+    },
+    {
+      "id": "10",
+      "text": "He returns to his dorm and goes for a ride, observing the chaotic traffic signals and shop signs.",
+      "level": 1
+    },
+    {
+      "id": "10.1",
+      "text": "He notes that even currency symbols and their values have become inconsistent.",
+      "level": 2
+    },
+    {
+      "id": "10.2",
+      "text": "He attempts to order a mint milk tea, but receives hot sour plum soup, further emphasizing the unpredictability of this world.",
+      "level": 2
+    },
+    {
+      "id": "11",
+      "text": "He dedicates four months to writing his account, fueled by the constant effort of revision.",
+      "level": 1
+    },
+    {
+      "id": "11.1",
+      "text": "He meticulously lists his actions and the natural conditions of the day he believes led to his displacement.",
+      "level": 2
+    },
+    {
+      "id": "11.2",
+      "text": "He attempts to replicate these actions and then their opposites, but fails to return to his original world.",
+      "level": 2
+    },
+    {
+      "id": "12",
+      "text": "He notes the chaotic nature of everything in this world: inconsistent sounds, unpredictable time, distorted media, and nonsensical rules.",
+      "level": 1
+    },
+    {
+      "id": "12.1",
+      "text": "He struggles with communication, even in personal relationships, where his attempts to connect with his girlfriend are met with unpredictable reactions.",
+      "level": 2
+    },
+    {
+      "id": "13",
+      "text": "After over a year and five months, he has graduated, missed graduate school exams, and held several jobs, but found no meaning or integration into this world.",
+      "level": 1
+    },
+    {
+      "id": "13.1",
+      "text": "He realizes that his attempts to understand and adapt are futile in a world devoid of consistent meaning and order.",
+      "level": 2
+    },
+    {
+      "id": "13.2",
+      "text": "He finds solace in simple tasks like cleaning at a small eatery, where minimal communication is required.",
+      "level": 2
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Horror",
+      "frequency": 3,
+      "context": "Defined as facing the unknown alone, contrasting with conventional fears."
+    },
+    {
+      "name": "Unknown",
+      "frequency": 2,
+      "context": "The central theme of the horror presented, facing inexplicable events and situations."
+    },
+    {
+      "name": "Order",
+      "frequency": 3,
+      "context": "Initially presented as the linking concept for stories, later revealed as absent in the narrator's new reality."
+    },
+    {
+      "name": "Language",
+      "frequency": 10,
+      "context": "Central to the narrative, evolving from comprehensible to nonsensical and symbolic noise."
+    },
+    {
+      "name": "Symbol",
+      "frequency": 6,
+      "context": "The meaning and order of symbols are corrupted, leading to confusion and inability to communicate or understand."
+    },
+    {
+      "name": "Meaning",
+      "frequency": 5,
+      "context": "The narrator struggles with the lack of discernible meaning in communication, symbols, and the world itself."
+    },
+    {
+      "name": "Communication",
+      "frequency": 7,
+      "context": "The ability to communicate is severely impaired, moving from understandable to nonsensical utterances and gestures."
+    },
+    {
+      "name": "Reality",
+      "frequency": 3,
+      "context": "The narrator questions and struggles with the nature of reality as his experience deviates from the norm."
+    },
+    {
+      "name": "Logic",
+      "frequency": 2,
+      "context": "The narrator's primary tool for understanding the world, which deteriorates and proves insufficient in the new reality."
+    },
+    {
+      "name": "Conspiracy",
+      "frequency": 2,
+      "context": "The narrator initially suspects a deliberate plot behind the strange occurrences."
+    },
+    {
+      "name": "Imagination",
+      "frequency": 3,
+      "context": "A key trait of the narrator that helps him cope with but also initially struggles with the unbelievable reality."
+    },
+    {
+      "name": "Parallel Dimension",
+      "frequency": 1,
+      "context": "The narrator's theory for his displacement, a world that mirrors his own but with altered fundamental rules."
+    },
+    {
+      "name": "Time",
+      "frequency": 4,
+      "context": "The concept of time becomes unreliable and unpredictable in the new world."
+    },
+    {
+      "name": "Adaptation",
+      "frequency": 2,
+      "context": "The narrator's struggle to adapt to a world that defies all known rules and logic."
+    },
+    {
+      "name": "Chaos",
+      "frequency": 3,
+      "context": "The pervasive state of the new world, affecting language, rules, and perception."
+    }
+  ],
+  "relations": [
+    {
+      "source": "Horror",
+      "target": "Unknown",
+      "type": "is_defined_by"
+    },
+    {
+      "source": "Order",
+      "target": "Concept linking stories",
+      "type": "is_a"
+    },
+    {
+      "source": "Language",
+      "target": "Nonsensical sounds",
+      "type": "evolves_into"
+    },
+    {
+      "source": "Language",
+      "target": "Symbol",
+      "type": "is_related_to"
+    },
+    {
+      "source": "Symbol",
+      "target": "Meaning",
+      "type": "conveys"
+    },
+    {
+      "source": "Symbol",
+      "target": "Order",
+      "type": "relies_on"
+    },
+    {
+      "source": "Communication",
+      "target": "Language",
+      "type": "depends_on"
+    },
+    {
+      "source": "Communication",
+      "target": "Meaning",
+      "type": "requires"
+    },
+    {
+      "source": "Reality",
+      "target": "Perception",
+      "type": "is_interpreted_by"
+    },
+    {
+      "source": "Logic",
+      "target": "Reasoning",
+      "type": "is_a_tool_for"
+    },
+    {
+      "source": "Logic",
+      "target": "Narrator's condition",
+      "type": "is_affected_by"
+    },
+    {
+      "source": "Conspiracy",
+      "target": "Strange occurrences",
+      "type": "suspected_cause_of"
+    },
+    {
+      "source": "Imagination",
+      "target": "Coping mechanism",
+      "type": "serves_as"
+    },
+    {
+      "source": "Imagination",
+      "target": "Belief in supernatural",
+      "type": "enables"
+    },
+    {
+      "source": "Parallel Dimension",
+      "target": "Narrator's displacement",
+      "type": "is_a_theory_for"
+    },
+    {
+      "source": "Time",
+      "target": "Unpredictability",
+      "type": "exhibits"
+    },
+    {
+      "source": "Adaptation",
+      "target": "New reality",
+      "type": "is_difficult_in"
+    },
+    {
+      "source": "Chaos",
+      "target": "New world",
+      "type": "characterizes"
+    },
+    {
+      "source": "Language",
+      "target": "Chaos",
+      "type": "is_subject_to"
+    },
+    {
+      "source": "Symbol",
+      "target": "Chaos",
+      "type": "is_subject_to"
+    },
+    {
+      "source": "Narrator",
+      "target": "Fears loss of thinking ability",
+      "type": "experiences"
+    },
+    {
+      "source": "Narrator",
+      "target": "Writes his experience",
+      "type": "does"
+    },
+    {
+      "source": "Narrator",
+      "target": "Roommates",
+      "type": "interacts_with"
+    },
+    {
+      "source": "Roommates",
+      "target": "Nonsensical sounds",
+      "type": "use"
+    },
+    {
+      "source": "Narrator",
+      "target": "Suspicion of conspiracy",
+      "type": "develops"
+    },
+    {
+      "source": "News broadcast",
+      "target": "Unintelligible language",
+      "type": "features"
+    },
+    {
+      "source": "Narrator",
+      "target": "Realizes everyone speaks unintelligible language",
+      "type": "discovers"
+    },
+    {
+      "source": "Narrator",
+      "target": "Struggles to accept reality",
+      "type": "experiences"
+    },
+    {
+      "source": "Narrator",
+      "target": "Considers entering 'demon world'",
+      "type": "hypothesizes"
+    },
+    {
+      "source": "Narrator",
+      "target": "Recalls previous night",
+      "type": "does"
+    },
+    {
+      "source": "Narrator",
+      "target": "Follows roommates to class",
+      "type": "does"
+    },
+    {
+      "source": "Narrator",
+      "target": "Observes familiar aspects of the world",
+      "type": "does"
+    },
+    {
+      "source": "Narrator",
+      "target": "Records past actions",
+      "type": "does"
+    },
+    {
+      "source": "Narrator",
+      "target": "Feels proud of his approach",
+      "type": "experiences"
+    },
+    {
+      "source": "Classroom",
+      "target": "Teacher's gibberish",
+      "type": "features"
+    },
+    {
+      "source": "Narrator",
+      "target": "Unexpected praise",
+      "type": "receives"
+    },
+    {
+      "source": "Narrator",
+      "target": "Connects to cafeteria experience",
+      "type": "links"
+    },
+    {
+      "source": "Narrator",
+      "target": "Observes chaotic traffic",
+      "type": "does"
+    },
+    {
+      "source": "Narrator",
+      "target": "Experiences inconsistent currency",
+      "type": "experiences"
+    },
+    {
+      "source": "Narrator",
+      "target": "Attempts to order food",
+      "type": "does"
+    },
+    {
+      "source": "Narrator",
+      "target": "Writes his account",
+      "type": "does"
+    },
+    {
+      "source": "Narrator",
+      "target": "Lists actions and conditions",
+      "type": "does"
+    },
+    {
+      "source": "Narrator",
+      "target": "Attempts to replicate and reverse actions",
+      "type": "does"
+    },
+    {
+      "source": "Narrator",
+      "target": "Struggles with communication",
+      "type": "experiences"
+    },
+    {
+      "source": "Narrator",
+      "target": "Finds solace in simple tasks",
+      "type": "does"
+    }
+  ],
+  "hierarchy": {
+    "main_topics": [
+      "Introduction to Urban Phobia Series",
+      "The Narrator's Deteriorating Condition",
+      "The Shift to a World of Nonsense",
+      "Confronting the Unexplainable",
+      "Attempting to Escape the New Reality",
+      "The Loss of Order and Meaning"
+    ],
+    "structure": "The document is structured as a first-person narrative, progressing chronologically through the narrator's experiences and his attempts to understand and escape a reality where language, logic, and order have collapsed. It begins with an introduction setting the theme, then details the onset of the narrator's predicament, followed by his struggles, investigations, and eventual resignation."
+  }
+}

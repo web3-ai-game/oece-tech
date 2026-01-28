@@ -1,0 +1,100 @@
+{
+  "propositions": [
+    {
+      "id": "1",
+      "text": "The society depicted is a matriarchal structure where women hold primary power and authority.",
+      "level": 1
+    },
+    {
+      "id": "1.1",
+      "text": "Women inherit thrones and leadership roles, while men are in subordinate positions.",
+      "level": 2
+    },
+    {
+      "id": "1.2",
+      "text": "Cultural norms and traditions reinforce female dominance, including marriage and inheritance systems.",
+      "level": 2
+    },
+    {
+      "id": "2",
+      "text": "The narrative centers on the personal and political struggles of key female characters in this matriarchal society.",
+      "level": 1
+    },
+    {
+      "id": "2.1",
+      "text": "Characters like the Empress and her daughters navigate power dynamics, personal desires, and societal expectations.",
+      "level": 2
+    },
+    {
+      "id": "2.2",
+      "text": "Conflicts arise from internal family tensions and external threats to the matriarchal order.",
+      "level": 2
+    },
+    {
+      "id": "3",
+      "text": "Male characters are often depicted as subservient or in roles of emotional and physical support to female leaders.",
+      "level": 1
+    },
+    {
+      "id": "3.1",
+      "text": "Men are chosen as consorts or protectors, with limited agency in political matters.",
+      "level": 2
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Matriarchy",
+      "frequency": 15,
+      "context": "Central societal structure where women hold power and authority over men."
+    },
+    {
+      "name": "Female Leadership",
+      "frequency": 10,
+      "context": "Women as rulers and decision-makers in political and familial spheres."
+    },
+    {
+      "name": "Inheritance",
+      "frequency": 8,
+      "context": "Passing of power and titles through female lineage."
+    },
+    {
+      "name": "Marriage Customs",
+      "frequency": 7,
+      "context": "System where women choose multiple consorts, reflecting power dynamics."
+    },
+    {
+      "name": "Power Struggles",
+      "frequency": 6,
+      "context": "Conflicts within the ruling family and against external threats."
+    }
+  ],
+  "relations": [
+    {
+      "source": "Matriarchy",
+      "target": "Female Leadership",
+      "type": "implies"
+    },
+    {
+      "source": "Female Leadership",
+      "target": "Inheritance",
+      "type": "part_of"
+    },
+    {
+      "source": "Matriarchy",
+      "target": "Marriage Customs",
+      "type": "part_of"
+    },
+    {
+      "source": "Female Leadership",
+      "target": "Power Struggles",
+      "type": "causes"
+    }
+  ],
+  "hierarchy": {
+    "main_topics": [
+      "Matriarchal Society",
+      "Character Dynamics and Conflicts"
+    ],
+    "structure": "The document is structured as a narrative with a focus on a matriarchal society, detailing cultural norms and personal stories of key female figures, interspersed with political and familial conflicts."
+  }
+}

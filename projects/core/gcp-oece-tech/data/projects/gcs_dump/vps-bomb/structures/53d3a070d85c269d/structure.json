@@ -1,0 +1,323 @@
+{
+  "propositions": [
+    {
+      "id": "1",
+      "text": "人类已经能够进行跨越星系的航行，但并非所有的地方都能够享受到这种科技带来的便利。",
+      "level": 1
+    },
+    {
+      "id": "1.1",
+      "text": "莫欺少年穷，一个平凡的名字，却承载着一个不平凡的灵魂。",
+      "level": 2
+    },
+    {
+      "id": "1.2",
+      "text": "他穿越了时空的界限，来到了一个陌生的星系。",
+      "level": 2
+    },
+    {
+      "id": "2",
+      "text": "茫茫宇宙，星辰璀璨，星系如尘埃般散落。",
+      "level": 1
+    },
+    {
+      "id": "2.1",
+      "text": "莫欺少年穷，在这片广袤的未知中，感受着宇宙的浩瀚与自身的渺小。",
+      "level": 2
+    },
+    {
+      "id": "3",
+      "text": "星际飞船划破黑暗，载着希望与梦想，向着远方的星辰大海进发。",
+      "level": 1
+    },
+    {
+      "id": "3.1",
+      "text": "星际航行的时代，科技的力量将人类的足迹延伸至宇宙的每一个角落。",
+      "level": 2
+    },
+    {
+      "id": "4",
+      "text": "科技并非万能，在宇宙的深处，仍然隐藏着许多未知的奥秘。",
+      "level": 1
+    },
+    {
+      "id": "4.1",
+      "text": "莫欺少年穷，在这片陌生的土地上，他将如何书写属于自己的传奇？",
+      "level": 2
+    },
+    {
+      "id": "5",
+      "text": "他拥有着前世的记忆，却面临着全新的挑战。",
+      "level": 1
+    },
+    {
+      "id": "5.1",
+      "text": "命运的齿轮再次转动，他将如何逆转乾坤，改写自己的命运？",
+      "level": 2
+    },
+    {
+      "id": "5.2",
+      "text": "这个名字，将成为一段传奇的开始。",
+      "level": 2
+    },
+    {
+      "id": "6",
+      "text": "在这片充满机遇与挑战的星系，莫欺少年穷，他将一步步走向属于自己的荣耀。",
+      "level": 1
+    },
+    {
+      "id": "6.1",
+      "text": "他体内的潜能被激发，古老的力量在他体内苏醒。",
+      "level": 2
+    },
+    {
+      "id": "6.2",
+      "text": "面对强大的敌人，他将毫不畏惧，绝地反击。",
+      "level": 2
+    },
+    {
+      "id": "6.3",
+      "text": "年轻的身体蕴藏着无限的可能，他将用实力证明自己。",
+      "level": 2
+    },
+    {
+      "id": "7",
+      "text": "宇宙的征途，充满了荆棘与鲜花。",
+      "level": 1
+    },
+    {
+      "id": "7.1",
+      "text": "他的目光投向了更遥远的星辰大海。",
+      "level": 2
+    },
+    {
+      "id": "7.2",
+      "text": "他将用手中的利剑，征服这片星辰大海。",
+      "level": 2
+    },
+    {
+      "id": "7.3",
+      "text": "少年壮志凌云，他将用生命谱写辉煌的篇章。",
+      "level": 2
+    },
+    {
+      "id": "8",
+      "text": "征途的终点，是属于勇者的荣耀。",
+      "level": 1
+    },
+    {
+      "id": "8.1",
+      "text": "他站在了宇宙的巅峰，俯瞰众生。",
+      "level": 2
+    },
+    {
+      "id": "8.2",
+      "text": "莫欺少年穷，他的名字，将永载史册。",
+      "level": 2
+    },
+    {
+      "id": "8.3",
+      "text": "一个少年的传奇，就此开始。",
+      "level": 2
+    }
+  ],
+  "concepts": [
+    {
+      "name": "莫欺少年穷",
+      "frequency": 7,
+      "context": "The protagonist's name, representing a soul and a legend."
+    },
+    {
+      "name": "星系",
+      "frequency": 4,
+      "context": "The setting for the story, described as vast and filled with stars."
+    },
+    {
+      "name": "宇宙",
+      "frequency": 4,
+      "context": "The overarching setting, characterized by its vastness, stars, and hidden mysteries."
+    },
+    {
+      "name": "航行",
+      "frequency": 3,
+      "context": "The act of traveling through space, enabled by technology."
+    },
+    {
+      "name": "科技",
+      "frequency": 3,
+      "context": "The means by which interstellar travel is possible, but also acknowledged as not all-powerful."
+    },
+    {
+      "name": "传奇",
+      "frequency": 4,
+      "context": "The unfolding story and eventual legacy of the protagonist."
+    },
+    {
+      "name": "命运",
+      "frequency": 2,
+      "context": "A force that turns and can be reversed by the protagonist."
+    },
+    {
+      "name": "荣耀",
+      "frequency": 2,
+      "context": "The ultimate reward and state achieved by the protagonist."
+    },
+    {
+      "name": "力量",
+      "frequency": 2,
+      "context": "Internal potential that is awakened within the protagonist."
+    },
+    {
+      "name": "征途",
+      "frequency": 2,
+      "context": "The journey of the protagonist, filled with challenges and achievements."
+    },
+    {
+      "name": "少年",
+      "frequency": 3,
+      "context": "Refers to the protagonist, emphasizing youth and potential."
+    }
+  ],
+  "relations": [
+    {
+      "source": "莫欺少年穷",
+      "target": "灵魂",
+      "type": "possesses"
+    },
+    {
+      "source": "莫欺少年穷",
+      "target": "星系",
+      "type": "travels_to"
+    },
+    {
+      "source": "莫欺少年穷",
+      "target": "渺小",
+      "type": "feels"
+    },
+    {
+      "source": "莫欺少年穷",
+      "target": "传奇",
+      "type": "writes"
+    },
+    {
+      "source": "莫欺少年穷",
+      "target": "挑战",
+      "type": "faces"
+    },
+    {
+      "source": "莫欺少年穷",
+      "target": "命运",
+      "type": "reverses"
+    },
+    {
+      "source": "莫欺少年穷",
+      "target": "荣耀",
+      "type": "achieves"
+    },
+    {
+      "source": "莫欺少年穷",
+      "target": "潜能",
+      "type": "awakens"
+    },
+    {
+      "source": "莫欺少年穷",
+      "target": "敌人",
+      "type": "fights"
+    },
+    {
+      "source": "莫欺少年穷",
+      "target": "星辰大海",
+      "type": "conquers"
+    },
+    {
+      "source": "莫欺少年穷",
+      "target": "篇章",
+      "type": "writes"
+    },
+    {
+      "source": "莫欺少年穷",
+      "target": "巅峰",
+      "type": "stands_on"
+    },
+    {
+      "source": "莫欺少年穷",
+      "target": "名字",
+      "type": "is_recorded"
+    },
+    {
+      "source": "航行",
+      "target": "科技",
+      "type": "enabled_by"
+    },
+    {
+      "source": "航行",
+      "target": "星际飞船",
+      "type": "performed_by"
+    },
+    {
+      "source": "宇宙",
+      "target": "浩瀚",
+      "type": "has_property"
+    },
+    {
+      "source": "宇宙",
+      "target": "奥秘",
+      "type": "contains"
+    },
+    {
+      "source": "科技",
+      "target": "万能",
+      "type": "is_not"
+    },
+    {
+      "source": "命运",
+      "target": "齿轮",
+      "type": "has"
+    },
+    {
+      "source": "少年",
+      "target": "身体",
+      "type": "has"
+    },
+    {
+      "source": "少年",
+      "target": "可能",
+      "type": "possesses"
+    },
+    {
+      "source": "征途",
+      "target": "荆棘",
+      "type": "contains"
+    },
+    {
+      "source": "征途",
+      "target": "鲜花",
+      "type": "contains"
+    },
+    {
+      "source": "征途",
+      "target": "终点",
+      "type": "has"
+    },
+    {
+      "source": "荣耀",
+      "target": "勇者",
+      "type": "belongs_to"
+    },
+    {
+      "source": "星辰大海",
+      "target": "目光",
+      "type": "directed_towards"
+    }
+  ],
+  "hierarchy": {
+    "main_topics": [
+      "穿越",
+      "重生",
+      "崛起",
+      "征途",
+      "荣耀"
+    ],
+    "structure": "The document is structured as a narrative progression, following the protagonist's journey from his arrival in a new world to his eventual triumph. Each chapter represents a distinct phase or event in this journey, marked by a heading. Subsections within chapters elaborate on specific aspects of that phase."
+  }
+}

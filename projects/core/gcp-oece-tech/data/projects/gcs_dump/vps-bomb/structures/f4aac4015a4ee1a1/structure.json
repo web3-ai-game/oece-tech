@@ -1,0 +1,125 @@
+{
+  "propositions": [
+    {
+      "id": "1",
+      "text": "A female forensic pathologist named Zita is involved in solving a murder case in Singapore.",
+      "level": 1
+    },
+    {
+      "id": "1.1",
+      "text": "On November 13, 2005, a female body was discovered in a park, with initial death time estimated between 10 PM and 11 PM.",
+      "level": 2
+    },
+    {
+      "id": "1.2",
+      "text": "Zita receives a late-night call from an old classmate, Lin Kai, who seeks her help with a case.",
+      "level": 2
+    },
+    {
+      "id": "1.3",
+      "text": "Zita agrees to meet Lin Kai to discuss the case details over dinner.",
+      "level": 2
+    },
+    {
+      "id": "2",
+      "text": "Zita encounters an unexpected incident on her way to meet Lin Kai.",
+      "level": 1
+    },
+    {
+      "id": "2.1",
+      "text": "Zita is accidentally knocked down by a young man while walking to the meeting.",
+      "level": 2
+    },
+    {
+      "id": "3",
+      "text": "During the meeting at a café, Lin Kai reveals he is investigating a serial murder case.",
+      "level": 1
+    },
+    {
+      "id": "3.1",
+      "text": "Lin Kai suspects the park murder on January 13 is linked to previous cases and seeks Zita’s forensic expertise.",
+      "level": 2
+    },
+    {
+      "id": "3.2",
+      "text": "Zita agrees to assist by providing detailed autopsy reports.",
+      "level": 2
+    },
+    {
+      "id": "4",
+      "text": "Zita discovers new clues in the autopsy report that could aid the investigation.",
+      "level": 1
+    },
+    {
+      "id": "4.1",
+      "text": "Zita finds traces of soil in the victim’s fingernails, suggesting a struggle at the crime scene.",
+      "level": 2
+    },
+    {
+      "id": "4.2",
+      "text": "She informs Lin Kai, who plans to re-examine the park for further evidence.",
+      "level": 2
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Forensic Pathology",
+      "frequency": 5,
+      "context": "Central to Zita’s role in analyzing murder cases through autopsies."
+    },
+    {
+      "name": "Murder Case",
+      "frequency": 8,
+      "context": "The primary focus of the narrative involving a series of killings."
+    },
+    {
+      "name": "Serial Killer",
+      "frequency": 3,
+      "context": "Lin Kai’s suspicion about the nature of the murders."
+    },
+    {
+      "name": "Autopsy Report",
+      "frequency": 4,
+      "context": "Critical document used by Zita to uncover clues."
+    },
+    {
+      "name": "Crime Scene",
+      "frequency": 3,
+      "context": "Location of the murder where evidence is collected."
+    }
+  ],
+  "relations": [
+    {
+      "source": "Zita",
+      "target": "Forensic Pathology",
+      "type": "practices"
+    },
+    {
+      "source": "Zita",
+      "target": "Lin Kai",
+      "type": "collaborates_with"
+    },
+    {
+      "source": "Murder Case",
+      "target": "Serial Killer",
+      "type": "possibly_involves"
+    },
+    {
+      "source": "Autopsy Report",
+      "target": "Crime Scene",
+      "type": "provides_evidence_from"
+    },
+    {
+      "source": "Zita",
+      "target": "Murder Case",
+      "type": "investigates"
+    }
+  ],
+  "hierarchy": {
+    "main_topics": [
+      "Murder Investigation",
+      "Zita and Lin Kai’s Relationship"
+    ],
+    "structure": "The document is structured as a narrative with chapters focusing on a forensic investigation intertwined with personal interactions and past connections."
+  }
+}

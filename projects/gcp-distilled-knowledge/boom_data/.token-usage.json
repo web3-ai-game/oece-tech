@@ -1,0 +1,26 @@
+{
+  "session": {
+    "start": "2025-11-27T16:55:03.680Z",
+    "tokens": {},
+    "cost": {}
+  },
+  "total": {
+    "tokens": 7183983,
+    "costUSD": 70.98521020000001,
+    "costTHB": 2484.4823569999994,
+    "perModel": {
+      "gemini-2.5-pro": {
+        "inputTokens": 0,
+        "outputTokens": 7093066,
+        "costUSD": 70.93066000000002,
+        "costTHB": 2482.573099999999
+      },
+      "gemini-2.5-flash": {
+        "inputTokens": 0,
+        "outputTokens": 90917,
+        "costUSD": 0.05455019999999997,
+        "costTHB": 1.909257
+      }
+    }
+  }
+}

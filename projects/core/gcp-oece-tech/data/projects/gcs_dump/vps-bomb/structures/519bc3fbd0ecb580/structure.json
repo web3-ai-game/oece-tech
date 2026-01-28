@@ -1,0 +1,507 @@
+{
+  "propositions": [
+    {
+      "id": "1",
+      "text": "《七零娇气美人[穿书]》是一部小说。",
+      "level": 1
+    },
+    {
+      "id": "1.1",
+      "text": "该小说的作者是棠酥。",
+      "level": 2
+    },
+    {
+      "id": "2",
+      "text": "小说包含多个章节。",
+      "level": 1
+    },
+    {
+      "id": "2.1",
+      "text": "第一章：穿成年代文炮灰女配。",
+      "level": 2
+    },
+    {
+      "id": "2.2",
+      "text": "第二章：糙汉大佬盯上我。",
+      "level": 2
+    },
+    {
+      "id": "2.3",
+      "text": "第三章：他的怀抱是她的避风港。",
+      "level": 2
+    },
+    {
+      "id": "2.4",
+      "text": "第四章：剧情线有点歪。",
+      "level": 2
+    },
+    {
+      "id": "2.5",
+      "text": "第五章：想要一个家。",
+      "level": 2
+    },
+    {
+      "id": "2.6",
+      "text": "第六章：孩子像他。",
+      "level": 2
+    },
+    {
+      "id": "2.7",
+      "text": "第七章：绝不让步。",
+      "level": 2
+    },
+    {
+      "id": "2.8",
+      "text": "第八章：别有用心。",
+      "level": 2
+    },
+    {
+      "id": "2.9",
+      "text": "第九章：他的温柔。",
+      "level": 2
+    },
+    {
+      "id": "2.10",
+      "text": "第十章：幸福一家。",
+      "level": 2
+    },
+    {
+      "id": "2.11",
+      "text": "第十一章：她的男人。",
+      "level": 2
+    },
+    {
+      "id": "2.12",
+      "text": "第十二章：岁月静好。",
+      "level": 2
+    },
+    {
+      "id": "2.13",
+      "text": "第十三章：爱情的结晶。",
+      "level": 2
+    },
+    {
+      "id": "2.14",
+      "text": "第十四章：闪婚娇妻。",
+      "level": 2
+    },
+    {
+      "id": "2.15",
+      "text": "第十五章：追妻火葬场。",
+      "level": 2
+    },
+    {
+      "id": "2.16",
+      "text": "第十六章：宠妻模式开启。",
+      "level": 2
+    },
+    {
+      "id": "2.17",
+      "text": "第十七章：她的娇气。",
+      "level": 2
+    },
+    {
+      "id": "2.18",
+      "text": "第十八章：他的软肋。",
+      "level": 2
+    },
+    {
+      "id": "2.19",
+      "text": "第十九章：执念。",
+      "level": 2
+    },
+    {
+      "id": "2.20",
+      "text": "第二十章：归来。",
+      "level": 2
+    },
+    {
+      "id": "2.21",
+      "text": "第二十一章：团圆。",
+      "level": 2
+    },
+    {
+      "id": "2.22",
+      "text": "第二十二章：幸福结局。",
+      "level": 2
+    },
+    {
+      "id": "2.23",
+      "text": "另一组章节标题也出现在文本中。",
+      "level": 1
+    },
+    {
+      "id": "2.23.1",
+      "text": "第一章：娇气小花惨遭背叛。",
+      "level": 2
+    },
+    {
+      "id": "2.23.2",
+      "text": "第二章：恶毒女配被救赎。",
+      "level": 2
+    },
+    {
+      "id": "2.23.3",
+      "text": "第三章：男主黑化与女主失忆。",
+      "level": 2
+    },
+    {
+      "id": "2.23.4",
+      "text": "第四章：时装秀上的意外。",
+      "level": 2
+    },
+    {
+      "id": "2.23.5",
+      "text": "第五章：总裁的深情告白。",
+      "level": 2
+    },
+    {
+      "id": "2.23.6",
+      "text": "第六章：甜蜜的恋人关系。",
+      "level": 2
+    },
+    {
+      "id": "2.23.7",
+      "text": "第七章：婚礼上的反转。",
+      "level": 2
+    },
+    {
+      "id": "2.23.8",
+      "text": "第八章：重新开始的幸福。",
+      "level": 2
+    },
+    {
+      "id": "2.23.9",
+      "text": "第九章：七零年代的温馨生活。",
+      "level": 2
+    },
+    {
+      "id": "2.23.10",
+      "text": "第十章：家人的支持与理解。",
+      "level": 2
+    },
+    {
+      "id": "2.23.11",
+      "text": "第十一章：事业上的突破。",
+      "level": 2
+    },
+    {
+      "id": "2.23.12",
+      "text": "第十二章：孩子的到来。",
+      "level": 2
+    },
+    {
+      "id": "2.23.13",
+      "text": "第十三章：人生的转折点。",
+      "level": 2
+    },
+    {
+      "id": "2.23.14",
+      "text": "第十四章：重拾幸福。",
+      "level": 2
+    },
+    {
+      "id": "2.23.15",
+      "text": "第十五章：美好的结局。",
+      "level": 2
+    },
+    {
+      "id": "3",
+      "text": "文档中包含引言部分。",
+      "level": 1
+    },
+    {
+      "id": "4",
+      "text": "文档中包含梗概部分。",
+      "level": 1
+    },
+    {
+      "id": "5",
+      "text": "文档中包含参考文献部分。",
+      "level": 1
+    },
+    {
+      "id": "5.1",
+      "text": "参考文献列出了《七零娇气美人[穿书]》作者：棠酥。",
+      "level": 2
+    },
+    {
+      "id": "6",
+      "text": "文档中存在重复和占位符内容。",
+      "level": 1
+    },
+    {
+      "id": "6.1",
+      "text": "“This is a placeholder for the synopsis.” 出现多次。",
+      "level": 2
+    },
+    {
+      "id": "6.2",
+      "text": "“《七零娇气美人[穿书]》作者：棠酥.txt” 出现多次。",
+      "level": 2
+    }
+  ],
+  "concepts": [
+    {
+      "name": "《七零娇气美人[穿书]》",
+      "frequency": 10,
+      "context": "The title of the novel."
+    },
+    {
+      "name": "棠酥",
+      "frequency": 10,
+      "context": "The author of the novel."
+    },
+    {
+      "name": "章节",
+      "frequency": 30,
+      "context": "Divisions within the novel."
+    },
+    {
+      "name": "引言",
+      "frequency": 1,
+      "context": "Introduction section."
+    },
+    {
+      "name": "梗概",
+      "frequency": 2,
+      "context": "Synopsis section."
+    },
+    {
+      "name": "参考文献",
+      "frequency": 1,
+      "context": "References section."
+    },
+    {
+      "name": "年代文",
+      "frequency": 1,
+      "context": "Genre of the novel mentioned in a chapter title."
+    },
+    {
+      "name": "炮灰女配",
+      "frequency": 1,
+      "context": "Character role mentioned in a chapter title."
+    },
+    {
+      "name": "糙汉大佬",
+      "frequency": 1,
+      "context": "Character archetype mentioned in a chapter title."
+    },
+    {
+      "name": "避风港",
+      "frequency": 1,
+      "context": "Metaphor for safety/comfort in a chapter title."
+    },
+    {
+      "name": "剧情线",
+      "frequency": 1,
+      "context": "Plotline of the novel."
+    },
+    {
+      "name": "家",
+      "frequency": 1,
+      "context": "Theme of home."
+    },
+    {
+      "name": "孩子",
+      "frequency": 2,
+      "context": "Theme of children."
+    },
+    {
+      "name": "温柔",
+      "frequency": 1,
+      "context": "Description of a character's trait."
+    },
+    {
+      "name": "幸福",
+      "frequency": 3,
+      "context": "Thematic element of happiness."
+    },
+    {
+      "name": "爱情",
+      "frequency": 1,
+      "context": "Theme of love."
+    },
+    {
+      "name": "闪婚",
+      "frequency": 1,
+      "context": "Plot element of sudden marriage."
+    },
+    {
+      "name": "追妻火葬场",
+      "frequency": 1,
+      "context": "Common trope in romance novels."
+    },
+    {
+      "name": "宠妻",
+      "frequency": 1,
+      "context": "Mode of treating a wife."
+    },
+    {
+      "name": "软肋",
+      "frequency": 1,
+      "context": "Vulnerability."
+    },
+    {
+      "name": "执念",
+      "frequency": 1,
+      "context": "Obsession."
+    },
+    {
+      "name": "团圆",
+      "frequency": 1,
+      "context": "Theme of reunion."
+    },
+    {
+      "name": "娇气小花",
+      "frequency": 1,
+      "context": "Character description."
+    },
+    {
+      "name": "背叛",
+      "frequency": 1,
+      "context": "Event of betrayal."
+    },
+    {
+      "name": "恶毒女配",
+      "frequency": 1,
+      "context": "Character role."
+    },
+    {
+      "name": "救赎",
+      "frequency": 1,
+      "context": "Theme of redemption."
+    },
+    {
+      "name": "男主黑化",
+      "frequency": 1,
+      "context": "Plot development of the male protagonist."
+    },
+    {
+      "name": "女主失忆",
+      "frequency": 1,
+      "context": "Plot development of the female protagonist."
+    },
+    {
+      "name": "时装秀",
+      "frequency": 1,
+      "context": "Event."
+    },
+    {
+      "name": "意外",
+      "frequency": 1,
+      "context": "An unforeseen event."
+    },
+    {
+      "name": "总裁",
+      "frequency": 1,
+      "context": "Character title."
+    },
+    {
+      "name": "告白",
+      "frequency": 1,
+      "context": "Act of declaration."
+    },
+    {
+      "name": "恋人关系",
+      "frequency": 1,
+      "context": "Relationship status."
+    },
+    {
+      "name": "婚礼",
+      "frequency": 1,
+      "context": "Event."
+    },
+    {
+      "name": "反转",
+      "frequency": 1,
+      "context": "A sudden change."
+    },
+    {
+      "name": "温馨生活",
+      "frequency": 1,
+      "context": "Description of lifestyle."
+    },
+    {
+      "name": "家人",
+      "frequency": 1,
+      "context": "Family members."
+    },
+    {
+      "name": "支持",
+      "frequency": 1,
+      "context": "Providing encouragement."
+    },
+    {
+      "name": "理解",
+      "frequency": 1,
+      "context": "Showing empathy."
+    },
+    {
+      "name": "事业",
+      "frequency": 1,
+      "context": "Career."
+    },
+    {
+      "name": "突破",
+      "frequency": 1,
+      "context": "Significant advancement."
+    },
+    {
+      "name": "转折点",
+      "frequency": 1,
+      "context": "A point of significant change."
+    },
+    {
+      "name": "占位符",
+      "frequency": 2,
+      "context": "Placeholder text in the document."
+    }
+  ],
+  "relations": [
+    {
+      "source": "《七零娇气美人[穿书]》",
+      "target": "棠酥",
+      "type": "authored_by"
+    },
+    {
+      "source": "《七零娇气美人[穿书]》",
+      "target": "章节",
+      "type": "has_part"
+    },
+    {
+      "source": "《七零娇气美人[穿书]》",
+      "target": "引言",
+      "type": "has_section"
+    },
+    {
+      "source": "《七零娇气美人[穿书]》",
+      "target": "梗概",
+      "type": "has_section"
+    },
+    {
+      "source": "《七零娇气美人[穿书]》",
+      "target": "参考文献",
+      "type": "has_section"
+    },
+    {
+      "source": "参考文献",
+      "target": "《七零娇气美人[穿书]》",
+      "type": "cites"
+    },
+    {
+      "source": "占位符",
+      "target": "梗概",
+      "type": "indicates_placeholder_for"
+    }
+  ],
+  "hierarchy": {
+    "main_topics": [
+      "Novel Title and Author",
+      "Chapter Structure and Titles",
+      "Document Sections (Introduction, Synopsis, References)",
+      "Content Irregularities (Placeholders, Duplicates)"
+    ],
+    "structure": "The document is structured as a title and author declaration, followed by multiple lists of chapter titles, a section for introduction, a section for synopsis (with placeholder content), and a section for references. There is significant repetition and placeholder text indicating an incomplete or templated document."
+  }
+}

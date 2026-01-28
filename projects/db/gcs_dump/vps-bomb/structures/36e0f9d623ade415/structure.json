@@ -1,0 +1,1761 @@
+{
+  "propositions": [
+    {
+      "id": "1",
+      "text": "Ariadne Oliver is visiting her friend Judith Butler.",
+      "level": 1
+    },
+    {
+      "id": "1.1",
+      "text": "The Drake family is preparing a party for the village children.",
+      "level": 2
+    },
+    {
+      "id": "1.2",
+      "text": "Oliver and Butler go to help.",
+      "level": 2
+    },
+    {
+      "id": "2",
+      "text": "The Drake household is bustling with activity.",
+      "level": 1
+    },
+    {
+      "id": "2.1",
+      "text": "Women are moving chairs, tables, vases, and pumpkins.",
+      "level": 2
+    },
+    {
+      "id": "3",
+      "text": "It is Halloween Eve and a party for children aged ten to seventeen is planned.",
+      "level": 1
+    },
+    {
+      "id": "4",
+      "text": "Oliver, avoiding the crowd, examines a large pumpkin.",
+      "level": 1
+    },
+    {
+      "id": "4.1",
+      "text": "She recalls seeing many pumpkins in America, which she confuses with gourds.",
+      "level": 2
+    },
+    {
+      "id": "5",
+      "text": "Mrs. Butler accidentally steps on Oliver's foot.",
+      "level": 1
+    },
+    {
+      "id": "6",
+      "text": "Oliver apologizes for being in the way.",
+      "level": 1
+    },
+    {
+      "id": "7",
+      "text": "Oliver reminisces about the abundance of pumpkins/gourds in shops and homes in America.",
+      "level": 1
+    },
+    {
+      "id": "7.1",
+      "text": "She notes that this was for Thanksgiving, not Halloween.",
+      "level": 2
+    },
+    {
+      "id": "7.2",
+      "text": "She confirms Halloween Eve is October 31st, followed by All Saints' Day.",
+      "level": 2
+    },
+    {
+      "id": "8",
+      "text": "The busy women don't pay attention to Oliver's monologue.",
+      "level": 1
+    },
+    {
+      "id": "9",
+      "text": "Children, mostly mothers with a few older spinsters, are helping.",
+      "level": 1
+    },
+    {
+      "id": "9.1",
+      "text": "Teenage boys are decorating, and younger girls are laughing and moving around.",
+      "level": 2
+    },
+    {
+      "id": "10",
+      "text": "Oliver muses about All Saints' Day and Halloween.",
+      "level": 1
+    },
+    {
+      "id": "11",
+      "text": "Mrs. Drake, the hostess, declares she doesn't want to call it a Halloween Eve party, but a 'trial party' for children transitioning to secondary school.",
+      "level": 1
+    },
+    {
+      "id": "12",
+      "text": "Miss Whittaker, a primary school teacher, disagrees, stating the entrance exams have been abolished.",
+      "level": 1
+    },
+    {
+      "id": "13",
+      "text": "Oliver apologizes for her lack of help and her rambling.",
+      "level": 1
+    },
+    {
+      "id": "14",
+      "text": "She asks what she can do, noticing a bowl of apples.",
+      "level": 1
+    },
+    {
+      "id": "15",
+      "text": "Mrs. Drake states the apples are not very good for eating but are for the apple bobbing game.",
+      "level": 1
+    },
+    {
+      "id": "15.1",
+      "text": "She instructs Beatrice to take the apples to the study, as the carpet is old and can get wet.",
+      "level": 2
+    },
+    {
+      "id": "16",
+      "text": "Thirteen-year-old Joyce, carrying the apples, drops two near Oliver's feet.",
+      "level": 1
+    },
+    {
+      "id": "17",
+      "text": "Joyce recognizes Oliver as the murder story writer.",
+      "level": 1
+    },
+    {
+      "id": "18",
+      "text": "Joyce suggests a murder game or a murder at the party.",
+      "level": 1
+    },
+    {
+      "id": "19",
+      "text": "Oliver declines, stating she never wants that to happen again.",
+      "level": 1
+    },
+    {
+      "id": "20",
+      "text": "Joyce asks what Oliver means.",
+      "level": 1
+    },
+    {
+      "id": "21",
+      "text": "Oliver replies that she played once, but it wasn't successful.",
+      "level": 1
+    },
+    {
+      "id": "22",
+      "text": "Joyce asks if Oliver has made a lot of money from her books.",
+      "level": 1
+    },
+    {
+      "id": "23",
+      "text": "Oliver ambiguously answers 'One could say so'.",
+      "level": 1
+    },
+    {
+      "id": "24",
+      "text": "Joyce notes Oliver has a Finnish detective.",
+      "level": 1
+    },
+    {
+      "id": "25",
+      "text": "Oliver admits this, and a boy asks why.",
+      "level": 1
+    },
+    {
+      "id": "26",
+      "text": "Oliver candidly states she often wonders herself.",
+      "level": 1
+    },
+    {
+      "id": "27",
+      "text": "Mrs. Hargreaves, the organist's wife, enters with a large green plastic bucket.",
+      "level": 1
+    },
+    {
+      "id": "27.1",
+      "text": "She asks if it's for apple bobbing.",
+      "level": 2
+    },
+    {
+      "id": "28",
+      "text": "Miss Lee, the pharmacist, suggests a tin bucket would be better as it's less likely to tip over.",
+      "level": 1
+    },
+    {
+      "id": "29",
+      "text": "Mrs. Drake suggests the study for the game due to the old carpet.",
+      "level": 1
+    },
+    {
+      "id": "30",
+      "text": "They decide to take the apples and bucket to the study.",
+      "level": 1
+    },
+    {
+      "id": "31",
+      "text": "Oliver picks up two fallen apples and begins to eat one.",
+      "level": 1
+    },
+    {
+      "id": "32",
+      "text": "Mrs. Drake takes another apple from Oliver's hand and puts it back in the basket.",
+      "level": 1
+    },
+    {
+      "id": "33",
+      "text": "The topic shifts to playing 'snapdragon'.",
+      "level": 1
+    },
+    {
+      "id": "33.1",
+      "text": "They discuss playing it in the study due to its dim light.",
+      "level": 2
+    },
+    {
+      "id": "33.2",
+      "text": "Others suggest the dining room and covering the table with a green cloth and plastic sheeting.",
+      "level": 2
+    },
+    {
+      "id": "34",
+      "text": "They discuss looking into mirrors to see future husbands.",
+      "level": 1
+    },
+    {
+      "id": "35",
+      "text": "Oliver discreetly takes off her shoes and sits in a chair, observing the busy people.",
+      "level": 1
+    },
+    {
+      "id": "36",
+      "text": "As a writer, she considers how she would portray the attendees in a book.",
+      "level": 1
+    },
+    {
+      "id": "37",
+      "text": "She doesn't know them well but feels there's something interesting about them.",
+      "level": 1
+    },
+    {
+      "id": "38",
+      "text": "She recalls brief details about some of them, like Miss Johnson (organist's sister) and Mrs. Roina Drake (estate manager).",
+      "level": 1
+    },
+    {
+      "id": "39",
+      "text": "She dislikes plastic objects, finding the bucket annoying.",
+      "level": 1
+    },
+    {
+      "id": "40",
+      "text": "She notes the presence of teenagers and younger children.",
+      "level": 1
+    },
+    {
+      "id": "41",
+      "text": "Oliver only knows a few names: Nan, Beatrice, Cassie, Diana, and Joyce.",
+      "level": 1
+    },
+    {
+      "id": "41.1",
+      "text": "She finds Joyce showy and inquisitive, and dislikes her.",
+      "level": 2
+    },
+    {
+      "id": "41.2",
+      "text": "She describes another girl, Ann, as tall and a bit haughty.",
+      "level": 2
+    },
+    {
+      "id": "41.3",
+      "text": "Two boys have experimented with haircuts with poor results.",
+      "level": 2
+    },
+    {
+      "id": "42",
+      "text": "A shy, thin boy brings mirrors for the divination game.",
+      "level": 1
+    },
+    {
+      "id": "43",
+      "text": "Ann asks if they can really see their future husbands' faces in the mirrors.",
+      "level": 1
+    },
+    {
+      "id": "44",
+      "text": "Mrs. Butler replies that some can and some cannot.",
+      "level": 1
+    },
+    {
+      "id": "45",
+      "text": "Joyce interjects that she definitely didn't see her husband's face at such parties.",
+      "level": 1
+    },
+    {
+      "id": "46",
+      "text": "Beatrice suggests she might have, referring to it as the 'sixth sense'.",
+      "level": 1
+    },
+    {
+      "id": "47",
+      "text": "Ann compliments Oliver on her book, 'The Dying Goldfish'.",
+      "level": 1
+    },
+    {
+      "id": "48",
+      "text": "Joyce dislikes that book for its lack of gore, preferring bloody murder stories.",
+      "level": 1
+    },
+    {
+      "id": "49",
+      "text": "Oliver finds them distressing, but Joyce finds them exciting.",
+      "level": 1
+    },
+    {
+      "id": "50",
+      "text": "Joyce claims to have seen a murder once.",
+      "level": 1
+    },
+    {
+      "id": "51",
+      "text": "Miss Whittaker dismisses it as nonsense.",
+      "level": 1
+    },
+    {
+      "id": "52",
+      "text": "Cassie asks Joyce if she truly witnessed a murder.",
+      "level": 1
+    },
+    {
+      "id": "53",
+      "text": "Mrs. Drake also disbelieves Joyce.",
+      "level": 1
+    },
+    {
+      "id": "54",
+      "text": "Joyce insists she saw it.",
+      "level": 1
+    },
+    {
+      "id": "55",
+      "text": "A seventeen-year-old boy expresses interest.",
+      "level": 1
+    },
+    {
+      "id": "56",
+      "text": "Beatrice and Cassie's mother dismiss Joyce's claim as fabricated.",
+      "level": 1
+    },
+    {
+      "id": "57",
+      "text": "Joyce explains she didn't know it was murder at the time and only realized it much later.",
+      "level": 1
+    },
+    {
+      "id": "58",
+      "text": "Ann calls her story untrue.",
+      "level": 1
+    },
+    {
+      "id": "59",
+      "text": "Beatrice asks for details.",
+      "level": 1
+    },
+    {
+      "id": "60",
+      "text": "Joyce says it was many years ago when she was very young and refuses to tell them who was murdered.",
+      "level": 1
+    },
+    {
+      "id": "61",
+      "text": "The discussion moves to the choice between tin and plastic buckets for apple bobbing.",
+      "level": 1
+    },
+    {
+      "id": "62",
+      "text": "The tin bucket is deemed better because it's less likely to tip over.",
+      "level": 1
+    },
+    {
+      "id": "63",
+      "text": "Oliver enters with a large bowl of apples, intending to eat them later.",
+      "level": 1
+    },
+    {
+      "id": "64",
+      "text": "She takes an apple and starts eating it.",
+      "level": 1
+    },
+    {
+      "id": "65",
+      "text": "Ann (or Susan) mentions seeing an article stating Oliver likes apples.",
+      "level": 1
+    },
+    {
+      "id": "66",
+      "text": "Oliver admits it's a recurring habit.",
+      "level": 1
+    },
+    {
+      "id": "67",
+      "text": "A boy suggests that liking melons would be messier.",
+      "level": 1
+    },
+    {
+      "id": "68",
+      "text": "Oliver feels embarrassed by her apparent greed and leaves to find a private place.",
+      "level": 1
+    },
+    {
+      "id": "69",
+      "text": "On the stairs, she encounters a boy and girl embracing.",
+      "level": 1
+    },
+    {
+      "id": "70",
+      "text": "Oliver assumes this is the place she needs and enters, closing and locking the door.",
+      "level": 1
+    },
+    {
+      "id": "71",
+      "text": "She overhears the couple complaining about being disturbed and about people's selfishness.",
+      "level": 1
+    },
+    {
+      "id": "72",
+      "text": "Chapter 2 begins with a comparison between adult parties and teenage parties.",
+      "level": 1
+    },
+    {
+      "id": "72.1",
+      "text": "Adult parties are easier to cater for with food and drink.",
+      "level": 2
+    },
+    {
+      "id": "73",
+      "text": "Judith Butler wonders about teenage parties.",
+      "level": 1
+    },
+    {
+      "id": "74",
+      "text": "Oliver is unsure.",
+      "level": 1
+    },
+    {
+      "id": "75",
+      "text": "Butler describes teenage parties as potentially problematic, with teenagers wanting independence but often forgetting things, buying unwanted items, making messes, inviting unwanted guests, and bringing 'queer drugs' like 'flower pots' or 'marijuana'.",
+      "level": 1
+    },
+    {
+      "id": "76",
+      "text": "Oliver asks if they are expensive.",
+      "level": 1
+    },
+    {
+      "id": "77",
+      "text": "Butler states they taste awful and marijuana has a strange smell.",
+      "level": 1
+    },
+    {
+      "id": "78",
+      "text": "Oliver finds it unappealing.",
+      "level": 1
+    },
+    {
+      "id": "79",
+      "text": "Butler expresses confidence in Mrs. Roina Drake's organizational skills for this party.",
+      "level": 1
+    },
+    {
+      "id": "80",
+      "text": "Oliver admits she doesn't even want to go.",
+      "level": 1
+    },
+    {
+      "id": "81",
+      "text": "Butler suggests she go upstairs to lie down and assures her she'll enjoy it.",
+      "level": 1
+    },
+    {
+      "id": "81.1",
+      "text": "She mentions her daughter Miranda might be disappointed if she can't attend due to a fever.",
+      "level": 2
+    },
+    {
+      "id": "82",
+      "text": "The party starts at 7 pm, and Oliver admits Butler was right; the guests are punctual and the event is going smoothly.",
+      "level": 1
+    },
+    {
+      "id": "83",
+      "text": "The staircase is decorated with lights, and pumpkins are everywhere.",
+      "level": 1
+    },
+    {
+      "id": "84",
+      "text": "Boys and girls are carrying decorated brooms for a competition.",
+      "level": 1
+    },
+    {
+      "id": "85",
+      "text": "Mrs. Roina Drake announces the party program: broom competition, cutting a cake in flour, apple bobbing, dancing with partner swaps after lights out, looking in mirrors, dinner, snapdragon, and finally, awards.",
+      "level": 1
+    },
+    {
+      "id": "86",
+      "text": "The start of the party is a bit awkward.",
+      "level": 1
+    },
+    {
+      "id": "87",
+      "text": "The brooms are small and not very well-decorated.",
+      "level": 1
+    },
+    {
+      "id": "88",
+      "text": "Mrs. Drake explains to a friend that this competition is useful as it allows children who can't win in other events to get a prize.",
+      "level": 1
+    },
+    {
+      "id": "89",
+      "text": "Her friend calls her cynical.",
+      "level": 1
+    },
+    {
+      "id": "90",
+      "text": "Mrs. Drake justifies it by saying she wants fairness and for everyone to win something.",
+      "level": 1
+    },
+    {
+      "id": "91",
+      "text": "Oliver asks about the cake-in-flour game.",
+      "level": 1
+    },
+    {
+      "id": "92",
+      "text": "Mrs. Drake explains it: a cup of flour is pressed into a tray, a sixpence coin is placed on top, and participants cut pieces of flour, trying not to dislodge the coin. The last person remaining wins the coin.",
+      "level": 1
+    },
+    {
+      "id": "93",
+      "text": "They go to the study, where cheers are heard from the apple bobbing game, with wet-haired participants.",
+      "level": 1
+    },
+    {
+      "id": "94",
+      "text": "The most popular attraction, especially among girls, is the Halloween witch.",
+      "level": 1
+    },
+    {
+      "id": "94.1",
+      "text": "The witch is played by Mrs. Goodbody, the local cleaner, who has a prominent nose and chin and can make spooky gurgling sounds and recite spells.",
+      "level": 2
+    },
+    {
+      "id": "95",
+      "text": "The witch addresses Beatrice, asking her to sit under a lamp and hold a small mirror to see her future husband when the lights go out.",
+      "level": 1
+    },
+    {
+      "id": "96",
+      "text": "A beam of light from a ladder behind a screen is directed to reflect onto Beatrice's mirror.",
+      "level": 1
+    },
+    {
+      "id": "97",
+      "text": "Beatrice exclaims she can see him and describes him as having a beautiful ginger beard.",
+      "level": 1
+    },
+    {
+      "id": "98",
+      "text": "A colored photograph falls from the ceiling.",
+      "level": 1
+    },
+    {
+      "id": "99",
+      "text": "Beatrice excitedly shows the photo to Oliver, comparing the man to pop singer Eddie Prestwich.",
+      "level": 1
+    },
+    {
+      "id": "100",
+      "text": "Oliver finds the man familiar from newspapers and dislikes his deliberate beard, seeing it as a sign of pretentiousness.",
+      "level": 1
+    },
+    {
+      "id": "101",
+      "text": "She asks about the origin of these props.",
+      "level": 1
+    },
+    {
+      "id": "102",
+      "text": "Roina had Nick arrange it, with Desmond's help. Nick practiced photography, and with companions, they used disguises and props to create the effect for the girls.",
+      "level": 1
+    },
+    {
+      "id": "103",
+      "text": "Oliver remarks that girls nowadays are foolish.",
+      "level": 1
+    },
+    {
+      "id": "104",
+      "text": "Mrs. Drake asks if they haven't always been foolish.",
+      "level": 1
+    },
+    {
+      "id": "105",
+      "text": "Oliver agrees.",
+      "level": 1
+    },
+    {
+      "id": "106",
+      "text": "Mrs. Drake calls everyone for dinner.",
+      "level": 1
+    },
+    {
+      "id": "107",
+      "text": "Dinner is described as delicious with various courses.",
+      "level": 1
+    },
+    {
+      "id": "108",
+      "text": "The children are very full.",
+      "level": 1
+    },
+    {
+      "id": "109",
+      "text": "Mrs. Drake announces the last game: snapdragon, to be played in the pantry, with a prize for the first to finish.",
+      "level": 1
+    },
+    {
+      "id": "110",
+      "text": "After the game, a mournful cry is heard.",
+      "level": 1
+    },
+    {
+      "id": "111",
+      "text": "Children return to the dining room.",
+      "level": 1
+    },
+    {
+      "id": "112",
+      "text": "The table is cleared and covered with a green cloth, and a dish of burning raisins is placed on it.",
+      "level": 1
+    },
+    {
+      "id": "113",
+      "text": "Everyone screams and grabs the flaming raisins, exclaiming about the heat and delight.",
+      "level": 1
+    },
+    {
+      "id": "114",
+      "text": "The lights come on, and the party ends.",
+      "level": 1
+    },
+    {
+      "id": "115",
+      "text": "Mrs. Drake declares the party a great success.",
+      "level": 1
+    },
+    {
+      "id": "116",
+      "text": "Judith Butler praises her efforts.",
+      "level": 1
+    },
+    {
+      "id": "117",
+      "text": "Butler suggests they clean up to save the women from a morning of work.",
+      "level": 1
+    },
+    {
+      "id": "118",
+      "text": "Chapter 3 begins in Hercule Poirot's London apartment.",
+      "level": 1
+    },
+    {
+      "id": "119",
+      "text": "The phone rings, disrupting Poirot's anticipation of a debate with his friend Solly about a murder case.",
+      "level": 1
+    },
+    {
+      "id": "120",
+      "text": "He suspects the call means Solly won't come.",
+      "level": 1
+    },
+    {
+      "id": "121",
+      "text": "Poirot is disappointed, believing Solly won't accept his logical arguments.",
+      "level": 1
+    },
+    {
+      "id": "122",
+      "text": "However, he acknowledges Solly has a bad cold and was coughing earlier.",
+      "level": 1
+    },
+    {
+      "id": "123",
+      "text": "Poirot concludes it's better Solly doesn't come, but laments facing another dull evening alone.",
+      "level": 1
+    },
+    {
+      "id": "124",
+      "text": "Poirot reflects on the need for external stimulation for his brilliant mind.",
+      "level": 1
+    },
+    {
+      "id": "125",
+      "text": "He regrets not pursuing theology, finding the question of how many angels can dance on a needle's point intriguing.",
+      "level": 1
+    },
+    {
+      "id": "126",
+      "text": "His valet, George, announces a call from Mr. Solomon Levy.",
+      "level": 1
+    },
+    {
+      "id": "127",
+      "text": "Levy expresses regret for not being able to visit tonight due to a bad cold.",
+      "level": 1
+    },
+    {
+      "id": "128",
+      "text": "Poirot corrects George, stating Levy merely has a bad chill, not influenza, and people exaggerate colds for sympathy.",
+      "level": 1
+    },
+    {
+      "id": "129",
+      "text": "George agrees Levy isn't coming and jokes about Poirot catching a 'brain chill'.",
+      "level": 1
+    },
+    {
+      "id": "130",
+      "text": "Poirot agrees that would be even more bothersome.",
+      "level": 1
+    },
+    {
+      "id": "131",
+      "text": "The phone rings again.",
+      "level": 1
+    },
+    {
+      "id": "132",
+      "text": "Poirot, assuming it will be equally uninteresting, decides to answer it to pass the time.",
+      "level": 1
+    },
+    {
+      "id": "133",
+      "text": "He answers, identifying himself as Hercule Poirot.",
+      "level": 1
+    },
+    {
+      "id": "134",
+      "text": "An urgent female voice expresses relief that he is home.",
+      "level": 1
+    },
+    {
+      "id": "135",
+      "text": "She states she needed to find him immediately.",
+      "level": 1
+    },
+    {
+      "id": "136",
+      "text": "Poirot asks who it is.",
+      "level": 1
+    },
+    {
+      "id": "137",
+      "text": "The voice expresses surprise that he doesn't recognize her.",
+      "level": 1
+    },
+    {
+      "id": "138",
+      "text": "Poirot realizes it's his old friend Ariadne.",
+      "level": 1
+    },
+    {
+      "id": "139",
+      "text": "Ariadne Oliver states her situation is terrible.",
+      "level": 1
+    },
+    {
+      "id": "140",
+      "text": "Poirot asks if she has been running due to her breathlessness.",
+      "level": 1
+    },
+    {
+      "id": "141",
+      "text": "Oliver denies running and asks if she can come over immediately.",
+      "level": 1
+    },
+    {
+      "id": "142",
+      "text": "Poirot pauses, sensing she will be staying for a long time to recount her woes.",
+      "level": 1
+    },
+    {
+      "id": "143",
+      "text": "He asks if something is troubling her.",
+      "level": 1
+    },
+    {
+      "id": "144",
+      "text": "Oliver confirms she is very troubled and doesn't know what to do, feeling her mind is blank.",
+      "level": 1
+    },
+    {
+      "id": "145",
+      "text": "She feels compelled to tell Poirot everything, believing he is the only one who might know what to do.",
+      "level": 1
+    },
+    {
+      "id": "146",
+      "text": "She asks if she can come over.",
+      "level": 1
+    },
+    {
+      "id": "147",
+      "text": "Poirot agrees and expresses his pleasure in hosting her.",
+      "level": 1
+    },
+    {
+      "id": "148",
+      "text": "Oliver hangs up, and Poirot instructs George to prepare lemon barley water and bitter lemon juice, and a brandy for himself.",
+      "level": 1
+    },
+    {
+      "id": "149",
+      "text": "He anticipates Oliver will arrive in about ten minutes.",
+      "level": 1
+    },
+    {
+      "id": "150",
+      "text": "Poirot sips his brandy, fortifying himself before Oliver's arrival.",
+      "level": 1
+    },
+    {
+      "id": "151",
+      "text": "He muses that Oliver's nervousness is regrettable but her ideas can be original.",
+      "level": 1
+    },
+    {
+      "id": "152",
+      "text": "He considers the evening might be exciting or extremely dull.",
+      "level": 1
+    },
+    {
+      "id": "153",
+      "text": "The doorbell rings insistently.",
+      "level": 1
+    },
+    {
+      "id": "154",
+      "text": "Poirot remarks on her excitement.",
+      "level": 1
+    },
+    {
+      "id": "155",
+      "text": "Oliver bursts in, dripping wet in a fisherman's oilskin coat.",
+      "level": 1
+    },
+    {
+      "id": "156",
+      "text": "Poirot notes her wetness and tells her to let George hold her things.",
+      "level": 1
+    },
+    {
+      "id": "157",
+      "text": "Oliver comments on how wet it is outside and expresses a newfound fear of water.",
+      "level": 1
+    },
+    {
+      "id": "158",
+      "text": "Poirot offers her lemon barley water or brandy.",
+      "level": 1
+    },
+    {
+      "id": "159",
+      "text": "Oliver reiterates her dislike of water.",
+      "level": 1
+    },
+    {
+      "id": "160",
+      "text": "Poirot is surprised by her statement about water's uses.",
+      "level": 1
+    },
+    {
+      "id": "161",
+      "text": "He asks her to sit and tell him what happened.",
+      "level": 1
+    },
+    {
+      "id": "162",
+      "text": "Oliver, seated, says she doesn't know what happened, only that it felt unreal but it truly occurred.",
+      "level": 1
+    },
+    {
+      "id": "163",
+      "text": "She finds it difficult to start telling the story.",
+      "level": 1
+    },
+    {
+      "id": "164",
+      "text": "Poirot prompts her to begin at the start.",
+      "level": 1
+    },
+    {
+      "id": "165",
+      "text": "Oliver is unsure when it started, possibly a long time ago.",
+      "level": 1
+    },
+    {
+      "id": "166",
+      "text": "Poirot asks her to calm down and organize her thoughts.",
+      "level": 1
+    },
+    {
+      "id": "167",
+      "text": "Oliver believes Poirot would also be startled if he were in her situation.",
+      "level": 1
+    },
+    {
+      "id": "168",
+      "text": "She notes the difficulty in identifying what makes one uneasy when one has calmly accepted so many things.",
+      "level": 1
+    },
+    {
+      "id": "169",
+      "text": "Poirot suggests calm acceptance is often the best approach.",
+      "level": 1
+    },
+    {
+      "id": "170",
+      "text": "Oliver states that it started with a party.",
+      "level": 1
+    },
+    {
+      "id": "171",
+      "text": "Poirot is relieved, assuming it was a normal party and something happened there.",
+      "level": 1
+    },
+    {
+      "id": "172",
+      "text": "Oliver asks if he knows what a Halloween Eve party is like.",
+      "level": 1
+    },
+    {
+      "id": "173",
+      "text": "Poirot confirms his knowledge of Halloween Eve (Oct 31st) and mentions witches on broomsticks.",
+      "level": 1
+    },
+    {
+      "id": "174",
+      "text": "Oliver confirms the presence of brooms and prizes.",
+      "level": 1
+    },
+    {
+      "id": "175",
+      "text": "Poirot questions the prizes.",
+      "level": 1
+    },
+    {
+      "id": "176",
+      "text": "Oliver explains it's for the best-decorated broom.",
+      "level": 1
+    },
+    {
+      "id": "177",
+      "text": "Poirot's relief diminishes, and he suspects something more is happening.",
+      "level": 1
+    },
+    {
+      "id": "178",
+      "text": "Oliver specifies it was a party for children, or a 'preparatory school' party.",
+      "level": 1
+    },
+    {
+      "id": "179",
+      "text": "She explains the old term for checking students' intelligence for secondary school admission.",
+      "level": 1
+    },
+    {
+      "id": "180",
+      "text": "Poirot admits he's not following, as the conversation has shifted from parties to education.",
+      "level": 1
+    },
+    {
+      "id": "181",
+      "text": "Oliver takes a deep breath and continues, stating it started with apples.",
+      "level": 1
+    },
+    {
+      "id": "182",
+      "text": "Poirot notes her association with apples and recalls a memory of her with apples.",
+      "level": 1
+    },
+    {
+      "id": "183",
+      "text": "Oliver clarifies it was 'apple bobbing'.",
+      "level": 1
+    },
+    {
+      "id": "184",
+      "text": "Poirot recalls hearing about it.",
+      "level": 1
+    },
+    {
+      "id": "185",
+      "text": "Oliver lists other games: apple bobbing, cutting cake in flour, and looking in mirrors.",
+      "level": 1
+    },
+    {
+      "id": "186",
+      "text": "Poirot correctly guesses it's to see the lover's face.",
+      "level": 1
+    },
+    {
+      "id": "187",
+      "text": "Oliver acknowledges his understanding.",
+      "level": 1
+    },
+    {
+      "id": "188",
+      "text": "Poirot connects these games to old folklore.",
+      "level": 1
+    },
+    {
+      "id": "189",
+      "text": "Oliver confirms the party had these elements and was quite successful.",
+      "level": 1
+    },
+    {
+      "id": "190",
+      "text": "The final game was snapdragon, with a dish of burning raisins.",
+      "level": 1
+    },
+    {
+      "id": "191",
+      "text": "Oliver believes something happened during snapdragon.",
+      "level": 1
+    },
+    {
+      "id": "192",
+      "text": "Poirot asks what happened.",
+      "level": 1
+    },
+    {
+      "id": "193",
+      "text": "Oliver states it was a murder, and after the game, when people went home, they discovered a girl was missing.",
+      "level": 1
+    },
+    {
+      "id": "194",
+      "text": "Poirot asks who was missing.",
+      "level": 1
+    },
+    {
+      "id": "195",
+      "text": "It was a girl named Joyce.",
+      "level": 1
+    },
+    {
+      "id": "196",
+      "text": "Her mother was annoyed, assuming Joyce had left early due to tiredness or illness.",
+      "level": 1
+    },
+    {
+      "id": "197",
+      "text": "They couldn't find Joyce anywhere.",
+      "level": 1
+    },
+    {
+      "id": "198",
+      "text": "Poirot asks if she went home alone.",
+      "level": 1
+    },
+    {
+      "id": "199",
+      "text": "Oliver replies she didn't go home.",
+      "level": 1
+    },
+    {
+      "id": "200",
+      "text": "They found her in the study, where the murder occurred.",
+      "level": 1
+    },
+    {
+      "id": "201",
+      "text": "The apple bobbing bucket, a large tin one (not plastic, which might have tipped), was there.",
+      "level": 1
+    },
+    {
+      "id": "202",
+      "text": "Joyce had been leaning over to bob for an apple.",
+      "level": 1
+    },
+    {
+      "id": "203",
+      "text": "Poirot asks what happened, becoming direct.",
+      "level": 1
+    },
+    {
+      "id": "204",
+      "text": "Oliver reveals that someone pushed her head into the water in the apple bucket and held her there until she drowned.",
+      "level": 1
+    },
+    {
+      "id": "205",
+      "text": "Oliver expresses her hatred of apples and her desire never to see them again.",
+      "level": 1
+    },
+    {
+      "id": "206",
+      "text": "Poirot gives her a glass of brandy.",
+      "level": 1
+    },
+    {
+      "id": "207",
+      "text": "Chapter 4 continues with Oliver recovering from her shock.",
+      "level": 1
+    },
+    {
+      "id": "208",
+      "text": "Poirot asks when the incident occurred.",
+      "level": 1
+    },
+    {
+      "id": "209",
+      "text": "Oliver states it was last night.",
+      "level": 1
+    },
+    {
+      "id": "210",
+      "text": "Poirot asks why she came to him.",
+      "level": 1
+    },
+    {
+      "id": "211",
+      "text": "Oliver believed he would have a solution.",
+      "level": 1
+    },
+    {
+      "id": "212",
+      "text": "Poirot acknowledges it might be simple or complex and asks if she reported it and what the doctor said.",
+      "level": 1
+    },
+    {
+      "id": "213",
+      "text": "Oliver says an investigation is needed, likely tomorrow or the day after.",
+      "level": 1
+    },
+    {
+      "id": "214",
+      "text": "Poirot asks Joyce's age.",
+      "level": 1
+    },
+    {
+      "id": "215",
+      "text": "Oliver estimates twelve or thirteen.",
+      "level": 1
+    },
+    {
+      "id": "216",
+      "text": "Poirot asks if she was small for her age.",
+      "level": 1
+    },
+    {
+      "id": "217",
+      "text": "Oliver describes Joyce as mature for her age and well-developed.",
+      "level": 1
+    },
+    {
+      "id": "218",
+      "text": "Poirot clarifies if 'well-developed' means attractive.",
+      "level": 1
+    },
+    {
+      "id": "219",
+      "text": "Oliver confirms, but doesn't believe it was a case of sexual harassment, which would have been simpler.",
+      "level": 1
+    },
+    {
+      "id": "220",
+      "text": "Poirot agrees such cases are common but a private home incident might be different, suggesting Oliver hasn't told him everything.",
+      "level": 1
+    },
+    {
+      "id": "221",
+      "text": "Oliver admits there's more and that she hasn't explained why she came to him.",
+      "level": 1
+    },
+    {
+      "id": "222",
+      "text": "Poirot asks if she knew Joyce well.",
+      "level": 1
+    },
+    {
+      "id": "223",
+      "text": "Oliver denies knowing her and offers to explain why she was there.",
+      "level": 1
+    },
+    {
+      "id": "224",
+      "text": "She was visiting her friend Judith Butler in Woodley New Village.",
+      "level": 1
+    },
+    {
+      "id": "225",
+      "text": "Poirot considers the location, noting it's about three or four hours from London, closer to Manchester, a residential area with good houses and new developments.",
+      "level": 1
+    },
+    {
+      "id": "226",
+      "text": "Butler is a widow, and Oliver met her on a boat trip.",
+      "level": 1
+    },
+    {
+      "id": "227",
+      "text": "Butler invited Oliver to stay and mentioned a friend organizing a party for children, where Oliver might offer ideas.",
+      "level": 1
+    },
+    {
+      "id": "228",
+      "text": "Poirot asks if she was asked to arrange a murder game this time.",
+      "level": 1
+    },
+    {
+      "id": "229",
+      "text": "Oliver is thankful no such request was made.",
+      "level": 1
+    },
+    {
+      "id": "230",
+      "text": "She expresses horror at the incident and questions if her presence caused it.",
+      "level": 1
+    },
+    {
+      "id": "231",
+      "text": "Poirot doubts it and asks if anyone at the party knew her identity.",
+      "level": 1
+    },
+    {
+      "id": "232",
+      "text": "Oliver confirms a child mentioned her books and love for murder stories.",
+      "level": 1
+    },
+    {
+      "id": "233",
+      "text": "She reiterates this is why she came to Poirot.",
+      "level": 1
+    },
+    {
+      "id": "234",
+      "text": "Poirot states she hasn't explained clearly.",
+      "level": 1
+    },
+    {
+      "id": "235",
+      "text": "Oliver initially didn't think to come to Poirot, considering children's odd behavior and potential mental health issues.",
+      "level": 1
+    },
+    {
+      "id": "236",
+      "text": "Poirot asks about young men at the party.",
+      "level": 1
+    },
+    {
+      "id": "237",
+      "text": "Oliver mentions two young men, aged sixteen to eighteen.",
+      "level": 1
+    },
+    {
+      "id": "238",
+      "text": "Poirot asks about the police's assessment.",
+      "level": 1
+    },
+    {
+      "id": "239",
+      "text": "Oliver says they haven't stated anything but seem to suspect someone.",
+      "level": 1
+    },
+    {
+      "id": "240",
+      "text": "Poirot asks if Joyce was attractive.",
+      "level": 1
+    },
+    {
+      "id": "241",
+      "text": "Oliver doesn't think so, finding her showy and boastful, and generally disliked.",
+      "level": 1
+    },
+    {
+      "id": "242",
+      "text": "Poirot states that analyzing the victim's character is crucial in murder investigations.",
+      "level": 1
+    },
+    {
+      "id": "243",
+      "text": "He asks about the number of people at the party.",
+      "level": 1
+    },
+    {
+      "id": "244",
+      "text": "Oliver estimates twenty-five to thirty people, including mothers, a teacher, a doctor's wife/sister, middle-aged individuals, the two young men, several girls, and some women helping with preparations.",
+      "level": 1
+    },
+    {
+      "id": "245",
+      "text": "Poirot asks if there were strangers.",
+      "level": 1
+    },
+    {
+      "id": "246",
+      "text": "Oliver believes they all knew each other, with varying degrees of familiarity.",
+      "level": 1
+    },
+    {
+      "id": "247",
+      "text": "Most mothers left with their children after the party, while Oliver, Judith Butler, and a few others stayed to help the hostess clean up.",
+      "level": 1
+    },
+    {
+      "id": "248",
+      "text": "They proceeded to the study, where they found Joyce.",
+      "level": 1
+    },
+    {
+      "id": "249",
+      "text": "Oliver then remembered what Joyce had said.",
+      "level": 1
+    },
+    {
+      "id": "250",
+      "text": "Poirot asks what Joyce said and why Oliver is there.",
+      "level": 1
+    },
+    {
+      "id": "251",
+      "text": "Oliver explains she didn't think telling doctors or police would be useful, but telling Poirot might be different.",
+      "level": 1
+    },
+    {
+      "id": "252",
+      "text": "She recalls Joyce saying earlier in the afternoon, after the discussion about Oliver's murder stories, 'I saw a murder once.'",
+      "level": 1
+    },
+    {
+      "id": "253",
+      "text": "Joyce's mother and others dismissed it as nonsense, but Joyce insisted she had truly seen someone kill a person.",
+      "level": 1
+    },
+    {
+      "id": "254",
+      "text": "Oliver didn't believe her at the time.",
+      "level": 1
+    },
+    {
+      "id": "255",
+      "text": "Poirot understands and asks if Joyce specified names or details.",
+      "level": 1
+    },
+    {
+      "id": "256",
+      "text": "Joyce became angry and boastful, refusing to say more.",
+      "level": 1
+    },
+    {
+      "id": "257",
+      "text": "The adults were annoyed, and the children mocked her.",
+      "level": 1
+    },
+    {
+      "id": "258",
+      "text": "When asked when it happened, Joyce said 'a long time ago' and she had forgotten.",
+      "level": 1
+    },
+    {
+      "id": "259",
+      "text": "When asked why she didn't tell the police, she replied, 'Because at the time I didn't know it was murder.'",
+      "level": 1
+    },
+    {
+      "id": "260",
+      "text": "Poirot finds this statement interesting.",
+      "level": 1
+    },
+    {
+      "id": "261",
+      "text": "Oliver believes Joyce became confused and angry, trying to explain that she only later understood what she had seen.",
+      "level": 1
+    },
+    {
+      "id": "262",
+      "text": "No one believed her, including Oliver.",
+      "level": 1
+    },
+    {
+      "id": "263",
+      "text": "After Joyce's death, Oliver suddenly felt she might have been telling the truth.",
+      "level": 1
+    },
+    {
+      "id": "264",
+      "text": "She didn't know what to do and then thought of Poirot.",
+      "level": 1
+    },
+    {
+      "id": "265",
+      "text": "Poirot asks Oliver if she believes Joyce truly saw a murder or just thought she did.",
+      "level": 1
+    },
+    {
+      "id": "266",
+      "text": "Oliver believes it was a real murder, though she didn't think so at the time, attributing Joyce's story to embellishment.",
+      "level": 1
+    },
+    {
+      "id": "267",
+      "text": "She came to Poirot because Joyce's death validated her claim of witnessing a murder.",
+      "level": 1
+    },
+    {
+      "id": "268",
+      "text": "Poirot deduces that someone at the party, who was also present earlier and heard Joyce's statement, committed the murder.",
+      "level": 1
+    },
+    {
+      "id": "269",
+      "text": "Oliver asks if she's just imagining things.",
+      "level": 1
+    },
+    {
+      "id": "270",
+      "text": "Poirot describes the murder: the killer had the strength to push Joyce's head into the water bucket, acting opportunistically when fearful.",
+      "level": 1
+    },
+    {
+      "id": "271",
+      "text": "Oliver suggests Joyce wouldn't have said anything if she knew the killer was present.",
+      "level": 1
+    },
+    {
+      "id": "272",
+      "text": "Poirot agrees, stating Joyce saw the murder but not the killer's face.",
+      "level": 1
+    },
+    {
+      "id": "273",
+      "text": "He speculates that someone at the party heard Joyce's statement, knew who the killer was, and perhaps had a close relationship with the killer.",
+      "level": 1
+    },
+    {
+      "id": "274",
+      "text": "This person might have been afraid, and upon hearing Joyce's revelation, decided she had to die.",
+      "level": 1
+    },
+    {
+      "id": "275",
+      "text": "Poirot then remembers why Woodley New Village sounds familiar.",
+      "level": 1
+    },
+    {
+      "id": "276",
+      "text": "Chapter 5 opens with Poirot looking at 'Pine Crest', a new, attractive house on a hilltop with sparse pine trees.",
+      "level": 1
+    },
+    {
+      "id": "277",
+      "text": "Inspector Spence, now with a full head of white hair, is watering the garden.",
+      "level": 1
+    },
+    {
+      "id": "278",
+      "text": "Spence recognizes Poirot immediately and expresses surprise at his presence.",
+      "level": 1
+    },
+    {
+      "id": "279",
+      "text": "Poirot is pleased to be recognized.",
+      "level": 1
+    },
+    {
+      "id": "280",
+      "text": "Spence jokingly blesses Poirot's beard and asks what brought him there.",
+      "level": 1
+    },
+    {
+      "id": "281",
+      "text": "Poirot states it's a murder case.",
+      "level": 1
+    },
+    {
+      "id": "282",
+      "text": "Spence claims he's retired from murder cases, now only dealing with 'murder weeds' in his garden.",
+      "level": 1
+    },
+    {
+      "id": "283",
+      "text": "He explains gardening is more complex than it seems, dependent on weather conditions.",
+      "level": 1
+    },
+    {
+      "id": "284",
+      "text": "Spence asks how Poirot found him.",
+      "level": 1
+    },
+    {
+      "id": "285",
+      "text": "Poirot mentions Spence's Christmas card with his new address.",
+      "level": 1
+    },
+    {
+      "id": "286",
+      "text": "Spence explains he sends cards to old friends.",
+      "level": 1
+    },
+    {
+      "id": "287",
+      "text": "Poirot compliments his beard.",
+      "level": 1
+    },
+    {
+      "id": "288",
+      "text": "Spence notes Poirot's hair is not yet white.",
+      "level": 1
+    },
+    {
+      "id": "289",
+      "text": "Poirot reveals he dyes it, finding no need for white hair in public unless one wishes.",
+      "level": 1
+    },
+    {
+      "id": "290",
+      "text": "Spence agrees that dark hair doesn't suit him.",
+      "level": 1
+    },
+    {
+      "id": "291",
+      "text": "Poirot concurs, saying white hair makes Spence appear more distinguished.",
+      "level": 1
+    },
+    {
+      "id": "292",
+      "text": "Spence denies being distinguished.",
+      "level": 1
+    },
+    {
+      "id": "293",
+      "text": "Poirot asks why Spence lives in Woodley New Village.",
+      "level": 1
+    },
+    {
+      "id": "294",
+      "text": "Spence explains he moved to 'meet up' with his sister after her husband died.",
+      "level": 1
+    },
+    {
+      "id": "295",
+      "text": "Their children are grown and live abroad.",
+      "level": 1
+    },
+    {
+      "id": "296",
+      "text": "He finds it more comfortable to live together on retirement income.",
+      "level": 1
+    },
+    {
+      "id": "297",
+      "text": "Spence invites Poirot to sit and talk.",
+      "level": 1
+    },
+    {
+      "id": "298",
+      "text": "He leads Poirot to a glass-enclosed balcony with chairs and tables.",
+      "level": 1
+    },
+    {
+      "id": "299",
+      "text": "Spence asks Poirot if he wants a drink, joking about not having his usual concoctions and offering beer.",
+      "level": 1
+    }
+  ],
+  "concepts": [
+    {
+      "name": "万圣节前夜 (Halloween Eve)",
+      "frequency": 12,
+      "context": "The setting of the party and the narrative's initial events."
+    },
+    {
+      "name": "谋杀案 (Murder case)",
+      "frequency": 10,
+      "context": "The central event of the story, discussed by characters and driving the plot."
+    },
+    {
+      "name": "阿里阿德理·奥列弗夫人 (Ariadne Oliver)",
+      "frequency": 9,
+      "context": "A prominent character, a writer of murder stories, who is present at the party and seeks Poirot's help."
+    },
+    {
+      "name": "南瓜 (Pumpkin)",
+      "frequency": 6,
+      "context": "A decorative item at the party, associated with Halloween and Oliver's initial reminiscences."
+    },
+    {
+      "name": "晚会 (Party)",
+      "frequency": 17,
+      "context": "The primary location and event in the first two chapters where the murder occurs."
+    },
+    {
+      "name": "苹果 (Apple)",
+      "frequency": 9,
+      "context": "Used for the apple bobbing game, and later associated with the murder."
+    },
+    {
+      "name": "咬苹果 (Apple bobbing)",
+      "frequency": 7,
+      "context": "A game played at the party, significant because the murder happens during or near it."
+    },
+    {
+      "name": "乔伊斯 (Joyce)",
+      "frequency": 12,
+      "context": "The victim of the murder, a young girl who claimed to have witnessed a murder previously."
+    },
+    {
+      "name": "书房 (Study)",
+      "frequency": 7,
+      "context": "The location where the murder is discovered."
+    },
+    {
+      "name": "赫尔克里·波洛 (Hercule Poirot)",
+      "frequency": 10,
+      "context": "The famous detective who is called upon to investigate the murder."
+    },
+    {
+      "name": "朱迪思·巴特勒 (Judith Butler)",
+      "frequency": 4,
+      "context": "Oliver's friend and the hostess of the party."
+    },
+    {
+      "name": "德雷克夫人 (Mrs. Drake)",
+      "frequency": 7,
+      "context": "The main hostess of the party, who tries to organize the children's event."
+    },
+    {
+      "name": "游戏 (Game)",
+      "frequency": 8,
+      "context": "Various activities at the party, some of which are connected to the plot, like apple bobbing and snapdragon."
+    },
+    {
+      "name": "水 (Water)",
+      "frequency": 6,
+      "context": "The medium of the murder (drowning) and a source of fear for Oliver after the event."
+    },
+    {
+      "name": "伍德利新村 (Woodley New Village)",
+      "frequency": 5,
+      "context": "The location of the party and the residence of Poirot's old friend, Inspector Spence."
+    },
+    {
+      "name": "镜子 (Mirror)",
+      "frequency": 4,
+      "context": "Used for a divination game at the party."
+    },
+    {
+      "name": "警监斯彭斯 (Inspector Spence)",
+      "frequency": 4,
+      "context": "Poirot's old acquaintance and a retired police inspector."
+    }
+  ],
+  "relations": [
+    {
+      "source": "万圣节前夜 (Halloween Eve)",
+      "target": "晚会 (Party)",
+      "type": "is_a"
+    },
+    {
+      "source": "晚会 (Party)",
+      "target": "阿里阿德理·奥列弗夫人 (Ariadne Oliver)",
+      "type": "participant_in"
+    },
+    {
+      "source": "晚会 (Party)",
+      "target": "乔伊斯 (Joyce)",
+      "type": "participant_in"
+    },
+    {
+      "source": "乔伊斯 (Joyce)",
+      "target": "谋杀案 (Murder case)",
+      "type": "victim_of"
+    },
+    {
+      "source": "谋杀案 (Murder case)",
+      "target": "书房 (Study)",
+      "type": "occurred_in"
+    },
+    {
+      "source": "咬苹果 (Apple bobbing)",
+      "target": "苹果 (Apple)",
+      "type": "uses"
+    },
+    {
+      "source": "咬苹果 (Apple bobbing)",
+      "target": "乔伊斯 (Joyce)",
+      "type": "involved_in"
+    },
+    {
+      "source": "乔伊斯 (Joyce)",
+      "target": "水 (Water)",
+      "type": "killed_by"
+    },
+    {
+      "source": "赫尔克里·波洛 (Hercule Poirot)",
+      "target": "谋杀案 (Murder case)",
+      "type": "investigator_of"
+    },
+    {
+      "source": "赫尔克里·波洛 (Hercule Poirot)",
+      "target": "阿里阿德理·奥列弗夫人 (Ariadne Oliver)",
+      "type": "consulted_by"
+    },
+    {
+      "source": "阿里阿德理·奥列弗夫人 (Ariadne Oliver)",
+      "target": "晚会 (Party)",
+      "type": "witnessed"
+    },
+    {
+      "source": "赫尔克里·波洛 (Hercule Poirot)",
+      "target": "警监斯彭斯 (Inspector Spence)",
+      "type": "acquaintance_of"
+    },
+    {
+      "source": "伍德利新村 (Woodley New Village)",
+      "target": "晚会 (Party)",
+      "type": "location_of"
+    },
+    {
+      "source": "伍德利新村 (Woodley New Village)",
+      "target": "警监斯彭斯 (Inspector Spence)",
+      "type": "residence_of"
+    },
+    {
+      "source": "游戏 (Game)",
+      "target": "咬苹果 (Apple bobbing)",
+      "type": "is_a"
+    },
+    {
+      "source": "游戏 (Game)",
+      "target": "镜子 (Mirror)",
+      "type": "used_in"
+    }
+  ],
+  "hierarchy": {
+    "main_topics": [
+      "The Halloween Party and the Murder",
+      "Hercule Poirot's Investigation",
+      "Character Interactions and Observations"
+    ],
+    "structure": "The document is structured chronologically, starting with the preparations for a Halloween party, the party itself where a murder occurs, and then the subsequent investigation by Hercule Poirot. It includes dialogue, internal monologues, and descriptive passages to build the narrative and characters."
+  }
+}

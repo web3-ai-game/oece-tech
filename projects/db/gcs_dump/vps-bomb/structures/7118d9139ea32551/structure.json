@@ -1,0 +1,448 @@
+{
+  "propositions": [
+    {
+      "id": "1",
+      "text": "The story begins with the acclaimed Russian dancer Natina bowing to a thunderous applause in Paris.",
+      "level": 1
+    },
+    {
+      "id": "1.1",
+      "text": "She is congratulated by the theatre manager, who praises her performance.",
+      "level": 2
+    },
+    {
+      "id": "1.2",
+      "text": "In her dressing room, filled with flowers and costumes, Natina receives a visitor.",
+      "level": 2
+    },
+    {
+      "id": "1.2.1",
+      "text": "The visitor is Count Serjous Paulovitch, whose name ignites Natina's interest.",
+      "level": 3
+    },
+    {
+      "id": "1.3",
+      "text": "Natina and the Count converse in English, discussing her precarious situation despite her success.",
+      "level": 2
+    },
+    {
+      "id": "1.3.1",
+      "text": "Natina reveals she is under constant surveillance due to wartime suspicions.",
+      "level": 3
+    },
+    {
+      "id": "1.4",
+      "text": "They discuss 'The Colonel,' their enigmatic leader, who is planning to retire with his ill-gotten gains.",
+      "level": 2
+    },
+    {
+      "id": "1.4.1",
+      "text": "'The Colonel' is portrayed as a brilliant criminal mastermind, orchestrating various illicit activities.",
+      "level": 3
+    },
+    {
+      "id": "1.4.2",
+      "text": "'The Colonel's' success is attributed to his generosity and his skill in finding scapegoats.",
+      "level": 3
+    },
+    {
+      "id": "1.4.3",
+      "text": "The Count expresses unease about 'The Colonel's' retirement, fearing it will leave them scattered.",
+      "level": 3
+    },
+    {
+      "id": "1.5",
+      "text": "Natina confides that she has betrayed 'The Colonel' by keeping some of the stolen diamonds from a Kimberley jewel heist.",
+      "level": 2
+    },
+    {
+      "id": "1.5.1",
+      "text": "This betrayal was a strategic move to manipulate 'The Colonel' and secure her own interests.",
+      "level": 3
+    },
+    {
+      "id": "1.6",
+      "text": "Natina announces her intention to travel to London, hinting at a plan to get her 'price.'",
+      "level": 2
+    },
+    {
+      "id": "1.6.1",
+      "text": "She reveals that she is not acting alone and has an accomplice, her husband, arriving from South Africa.",
+      "level": 3
+    },
+    {
+      "id": "1.7",
+      "text": "The Count warns Natina about underestimating 'The Colonel.'",
+      "level": 2
+    },
+    {
+      "id": "2",
+      "text": "The narrative shifts to Annie.$(B)ettincourt, who is urged to write her story.",
+      "level": 1
+    },
+    {
+      "id": "2.1",
+      "text": "She was involved from the beginning and lived under the shadow of death.",
+      "level": 2
+    },
+    {
+      "id": "2.2",
+      "text": "Annie's father, Professor Bettincourt, was a renowned expert on prehistoric man.",
+      "level": 2
+    },
+    {
+      "id": "2.2.1",
+      "text": "He was so absorbed in his studies that he was detached from modern life.",
+      "level": 3
+    },
+    {
+      "id": "2.3",
+      "text": "Annie found her father's research tedious and expressed a dislike for prehistoric humans.",
+      "level": 2
+    },
+    {
+      "id": "2.4",
+      "text": "The family was often short of money, despite the father's academic reputation.",
+      "level": 2
+    },
+    {
+      "id": "2.4.1",
+      "text": "A newspaper article sensationalizing his theories about anthropoid apes created a brief public stir.",
+      "level": 3
+    },
+    {
+      "id": "2.5",
+      "text": "Annie yearned for adventure and romance, finding solace in books and films.",
+      "level": 2
+    },
+    {
+      "id": "2.5.1",
+      "text": "She admired adventurous female characters like Pamela from serial films.",
+      "level": 3
+    },
+    {
+      "id": "2.6",
+      "text": "Her father became excited about a new discovery of an ancient human skull in Northern Rhodesia.",
+      "level": 2
+    },
+    {
+      "id": "2.6.1",
+      "text": "He planned to travel there to study it further.",
+      "level": 3
+    },
+    {
+      "id": "2.7",
+      "text": "Sadly, Professor Bettincourt contracted a severe case of encephalitis and passed away shortly after.",
+      "level": 2
+    },
+    {
+      "id": "3",
+      "text": "Annie, now an orphan with no money, experiences a period of reflection and offers from acquaintances.",
+      "level": 1
+    },
+    {
+      "id": "3.1",
+      "text": "She politely declines a marriage proposal from the local doctor, preferring adventure.",
+      "level": 2
+    },
+    {
+      "id": "3.2",
+      "text": "Mr. Fleming, her father's lawyer, offers her a place to stay in London.",
+      "level": 2
+    },
+    {
+      "id": "3.2.1",
+      "text": "Annie accepts, seeing London as a place where adventure can be found.",
+      "level": 3
+    },
+    {
+      "id": "3.3",
+      "text": "She carefully crafts her appearance to look like a more 'orphan-like' figure, to perhaps disarm Mrs. Fleming.",
+      "level": 2
+    },
+    {
+      "id": "4",
+      "text": "Annie finds life with the Flemings tedious and the women she meets to be preoccupied with mundane matters.",
+      "level": 1
+    },
+    {
+      "id": "4.1",
+      "text": "She believes that one always gets what one wants if one searches for it.",
+      "level": 2
+    },
+    {
+      "id": "4.2",
+      "text": "On January 8th, Annie goes for a disappointing interview and heads to Gloucester Road tube station.",
+      "level": 2
+    },
+    {
+      "id": "4.3",
+      "text": "At the station, she witnesses a man fall onto the tracks and die.",
+      "level": 2
+    },
+    {
+      "id": "4.3.1",
+      "text": "A man claiming to be a doctor examines the body and drops a piece of paper.",
+      "level": 3
+    },
+    {
+      "id": "4.3.2",
+      "text": "Annie picks up the paper, noticing a strong smell of mothballs, a scent she associates with the 'doctor.'",
+      "level": 3
+    },
+    {
+      "id": "4.4",
+      "text": "Annie suspects foul play and plans to investigate.",
+      "level": 2
+    },
+    {
+      "id": "4.5",
+      "text": "A newspaper report on the incident mentions the deceased carried a certificate for a house near Marlow.",
+      "level": 2
+    },
+    {
+      "id": "4.6",
+      "text": "The inquest rules the death an accident, but Annie believes the 'doctor' was involved.",
+      "level": 2
+    },
+    {
+      "id": "4.7",
+      "text": "The next day's newspaper reports the discovery of a murdered woman in a house near Marlow, owned by Sir Eustace Pedler.",
+      "level": 2
+    },
+    {
+      "id": "4.7.1",
+      "text": "The deceased woman is identified as 'Lady Castina,' who had viewed the house with a real estate agent.",
+      "level": 3
+    },
+    {
+      "id": "4.7.2",
+      "text": "A man described as wearing brown clothes and with a tanned face was also seen at the house.",
+      "level": 3
+    },
+    {
+      "id": "4.7.3",
+      "text": "The newspaper connects the two incidents, suspecting the man from the tube station of the murder.",
+      "level": 3
+    },
+    {
+      "id": "5",
+      "text": "Annie visits Scotland Yard to share her suspicions with Inspector Mitford.",
+      "level": 1
+    },
+    {
+      "id": "5.1",
+      "text": "She questions why the deceased man at the tube station had no ticket and no money, and why the 'doctor' never reappeared.",
+      "level": 2
+    },
+    {
+      "id": "5.2",
+      "text": "Annie asserts that the man who examined the body was not a doctor, pointing out his unprofessional actions.",
+      "level": 2
+    },
+    {
+      "id": "5.3",
+      "text": "She describes the man as wearing a black coat, black hat, gold-rimmed glasses, and having a stubbly beard.",
+      "level": 2
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Natina",
+      "frequency": 13,
+      "context": "Acclaimed Russian dancer in Paris, involved in criminal activities, betraying her leader."
+    },
+    {
+      "name": "Count Serjous Paulovitch",
+      "frequency": 5,
+      "context": "A visitor to Natina, appears to be a fellow countryman and accomplice, aware of criminal activities."
+    },
+    {
+      "name": "'The Colonel'",
+      "frequency": 7,
+      "context": "Enigmatic and successful criminal mastermind, planning to retire, known for generosity and finding scapegoats."
+    },
+    {
+      "name": "Diamonds",
+      "frequency": 3,
+      "context": "Stolen diamonds from a Kimberley heist, used by Natina as leverage against 'The Colonel'."
+    },
+    {
+      "name": "London",
+      "frequency": 7,
+      "context": "Destination for Natina and Annie, a place where adventure and intrigue are sought."
+    },
+    {
+      "name": "Annie Bettincourt",
+      "frequency": 19,
+      "context": "Protagonist, daughter of a professor, yearns for adventure, becomes involved in mysteries."
+    },
+    {
+      "name": "Professor Bettincourt",
+      "frequency": 12,
+      "context": "Annie's father, a renowned but impractical academic specializing in prehistoric man."
+    },
+    {
+      "name": "Prehistoric man",
+      "frequency": 5,
+      "context": "Subject of Professor Bettincourt's research, which Annie finds tedious."
+    },
+    {
+      "name": "Adventure",
+      "frequency": 8,
+      "context": "Annie's primary desire, a driving force in her actions and aspirations."
+    },
+    {
+      "name": "Mr. Fleming",
+      "frequency": 6,
+      "context": "Annie's father's lawyer, offers Annie a place to stay in London, seems well-intentioned but perhaps underestimates Annie."
+    },
+    {
+      "id": "1",
+      "name": "Mrs. Fleming",
+      "frequency": 4,
+      "context": "Mr. Fleming's wife, appears to be a 'good wife and mother' type, somewhat apprehensive of Annie."
+    },
+    {
+      "name": "Tube station",
+      "frequency": 6,
+      "context": "Scene of a man's death, a key location in Annie's initial investigation."
+    },
+    {
+      "name": "Mothballs",
+      "frequency": 3,
+      "context": "A distinctive smell associated with the 'doctor' at the tube station and the paper he dropped, linking him to the investigation."
+    },
+    {
+      "name": "Marlow",
+      "frequency": 3,
+      "context": "Location of 'The Mill,' the house where a woman is murdered, connected to the tube station incident."
+    },
+    {
+      "name": "Sir Eustace Pedler",
+      "frequency": 2,
+      "context": "Owner of 'The Mill,' a figure of interest in the murder investigation."
+    },
+    {
+      "name": "Lady Castina",
+      "frequency": 3,
+      "context": "The murdered woman found at 'The Mill,' identified with a foreign accent and a false name."
+    },
+    {
+      "name": "Man in brown clothes",
+      "frequency": 5,
+      "context": "A mysterious individual seen at both the tube station and 'The Mill,' suspected of murder."
+    },
+    {
+      "name": "Scotland Yard",
+      "frequency": 2,
+      "context": "The police headquarters where Annie seeks to report her findings."
+    },
+    {
+      "name": "Inspector Mitford",
+      "frequency": 4,
+      "context": "The police inspector Annie speaks with, initially skeptical of her theories."
+    },
+    {
+      "name": "Doctor",
+      "frequency": 6,
+      "context": "A man who claims to be a doctor examining the body at the tube station; Annie suspects he is not a doctor and is involved in the events."
+    }
+  ],
+  "relations": [
+    {
+      "source": "Natina",
+      "target": "Count Serjous Paulovitch",
+      "type": "collaborates_with"
+    },
+    {
+      "source": "Natina",
+      "target": "'The Colonel'",
+      "type": "betrays"
+    },
+    {
+      "source": "'The Colonel'",
+      "target": "Diamonds",
+      "type": "deals_in"
+    },
+    {
+      "source": "Annie Bettincourt",
+      "target": "Professor Bettincourt",
+      "type": "daughter_of"
+    },
+    {
+      "source": "Professor Bettincourt",
+      "target": "Prehistoric man",
+      "type": "studies"
+    },
+    {
+      "source": "Annie Bettincourt",
+      "target": "Adventure",
+      "type": "desires"
+    },
+    {
+      "source": "Annie Bettincourt",
+      "target": "Mr. Fleming",
+      "type": "lodges_with"
+    },
+    {
+      "source": "Mr. Fleming",
+      "target": "London",
+      "type": "resides_in"
+    },
+    {
+      "source": "Man in brown clothes",
+      "target": "Tube station",
+      "type": "present_at"
+    },
+    {
+      "source": "Man in brown clothes",
+      "target": "'The Mill'",
+      "type": "present_at"
+    },
+    {
+      "source": "Lady Castina",
+      "target": "'The Mill'",
+      "type": "visits"
+    },
+    {
+      "source": "Lady Castina",
+      "target": "Murder",
+      "type": "victim_of"
+    },
+    {
+      "source": "Doctor",
+      "target": "Tube station",
+      "type": "present_at"
+    },
+    {
+      "source": "Doctor",
+      "target": "Mothballs",
+      "type": "associated_with"
+    },
+    {
+      "source": "Annie Bettincourt",
+      "target": "Doctor",
+      "type": "suspects"
+    },
+    {
+      "source": "Inspector Mitford",
+      "target": "Scotland Yard",
+      "type": "works_at"
+    },
+    {
+      "source": "Annie Bettincourt",
+      "target": "Inspector Mitford",
+      "type": "consults"
+    }
+  ],
+  "hierarchy": {
+    "main_topics": [
+      "The Russian Dancer's Secrets",
+      "The Academic and Her Yearning for Adventure",
+      "The Mysterious Death and Subsequent Murder",
+      "The Investigation and Suspicions"
+    ],
+    "structure": "The document is structured into four chapters, introducing characters and plotlines that converge around a central mystery. The first chapter establishes the criminal underworld and a potential betrayal. The second chapter introduces the protagonist and her desire for adventure, which leads her to London after her father's death. The third and fourth chapters detail a suspicious death at a tube station and a subsequent murder, hinting at a connection and raising questions about the identity of the perpetrator."
+  }
+}

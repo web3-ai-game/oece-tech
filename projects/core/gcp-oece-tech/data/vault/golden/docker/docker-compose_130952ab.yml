@@ -1,0 +1,105 @@
+version: '3.8'
+
+services:
+  # Telegram Bot
+  bot:
+    build:
+      context: .
+      dockerfile: docker/bot.Dockerfile
+    container_name: telegram-bot
+    restart: unless-stopped
+    env_file:
+      - .env
+    depends_on:
+      - redis
+      - postgres
+    volumes:
+      - ./logs:/app/logs
+    networks:
+      - app-network
+
+  # 消息收集器
+  collectors:
+    build:
+      context: .
+      dockerfile: docker/collectors.Dockerfile
+    container_name: message-collectors
+    restart: unless-stopped
+    env_file:
+      - .env
+    depends_on:
+      - redis
+      - router
+    volumes:
+      - ./logs:/app/logs
+    networks:
+      - app-network
+
+  # AI分析器
+  analyzer:
+    build:
+      context: .
+      dockerfile: docker/analyzer.Dockerfile
+    container_name: ai-analyzer
+    restart: unless-stopped
+    env_file:
+      - .env
+    depends_on:
+      - redis
+    volumes:
+      - ./logs:/app/logs
+    networks:
+      - app-network
+
+  # 路由器
+  router:
+    build:
+      context: .
+      dockerfile: docker/router.Dockerfile
+    container_name: message-router
+    restart: unless-stopped
+    env_file:
+      - .env
+    depends_on:
+      - redis
+    volumes:
+      - ./logs:/app/logs
+    networks:
+      - app-network
+
+  # Redis (消息队列)
+  redis:
+    image: redis:7-alpine
+    container_name: redis-queue
+    restart: unless-stopped
+    command: redis-server --appendonly yes
+    volumes:
+      - ./data/redis:/data
+    networks:
+      - app-network
+    ports:
+      - "6379:6379"
+
+  # PostgreSQL (数据持久化)
+  postgres:
+    image: postgres:15-alpine
+    container_name: postgres-db
+    restart: unless-stopped
+    environment:
+      POSTGRES_DB: ${POSTGRES_DB:-message_hub}
+      POSTGRES_USER: ${POSTGRES_USER:-admin}
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD:-changeme}
+    volumes:
+      - ./data/postgres:/var/lib/postgresql/data
+    networks:
+      - app-network
+    ports:
+      - "5432:5432"
+
+networks:
+  app-network:
+    driver: bridge
+
+volumes:
+  redis-data:
+  postgres-data:

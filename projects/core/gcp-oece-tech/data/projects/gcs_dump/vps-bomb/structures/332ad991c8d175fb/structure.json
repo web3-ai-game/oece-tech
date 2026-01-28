@@ -1,0 +1,251 @@
+{
+  "propositions": [
+    {
+      "id": "1",
+      "text": "沉睡之城，一座被时间遗忘的城市，隐藏着古老的秘密和沉睡的力量。",
+      "level": 1
+    },
+    {
+      "id": "2",
+      "text": "在一片寂静的土地上，旅者迷失了方向。",
+      "level": 1
+    },
+    {
+      "id": "3",
+      "text": "古老的石碑诉说着被遗忘的传说。",
+      "level": 1
+    },
+    {
+      "id": "4",
+      "text": "风吹过破碎的城墙，仿佛在低语着过往的辉煌。",
+      "level": 1
+    },
+    {
+      "id": "5",
+      "text": "城市一片荒凉，断壁残垣随处可见，曾经繁华的街道如今只剩下残破的石板路。",
+      "level": 2
+    },
+    {
+      "id": "6",
+      "text": "一块巨大的石碑矗立在城市中央，上面刻满了古老而神秘的文字，无人能够 decipher。",
+      "level": 2
+    },
+    {
+      "id": "7",
+      "text": "城市的古老秘密开始苏醒，沉睡的力量在暗中涌动。",
+      "level": 1
+    },
+    {
+      "id": "8",
+      "text": "夜幕降临，城市中响起了诡异的低语声，仿佛有无数灵魂在低语着不为人知的秘密。",
+      "level": 2
+    },
+    {
+      "id": "9",
+      "text": "一股股强大的能量波动在城市中蔓延，预示着一场即将到来的变革。",
+      "level": 2
+    },
+    {
+      "id": "10",
+      "text": "旅者必须做出选择，是唤醒这座城市的力量，还是让它永远沉睡。",
+      "level": 1
+    },
+    {
+      "id": "11",
+      "text": "旅者站在古老的石碑前，面临着一个艰难的抉择，将决定城市的命运。",
+      "level": 2
+    },
+    {
+      "id": "12",
+      "text": "当旅者做出决定后，一股强大的力量从石碑中爆发，照亮了整个沉睡之城。",
+      "level": 2
+    },
+    {
+      "id": "13",
+      "text": "沉睡之城迎来了新的黎明，古老的力量被唤醒，城市焕发新生。",
+      "level": 1
+    },
+    {
+      "id": "14",
+      "text": "古老的魔法在城市中重新流淌，生命力开始在荒凉的土地上复苏。",
+      "level": 2
+    },
+    {
+      "id": "15",
+      "text": "旅者成为了这座城市的守护者，为沉睡之城带来了新的希望和未来。",
+      "level": 2
+    }
+  ],
+  "concepts": [
+    {
+      "name": "沉睡之城",
+      "frequency": 6,
+      "context": "The main setting of the story, a forgotten city."
+    },
+    {
+      "name": "时间",
+      "frequency": 2,
+      "context": "Related to the city being forgotten and the nature of its secrets."
+    },
+    {
+      "name": "秘密",
+      "frequency": 3,
+      "context": "Hidden within the city, related to ancient knowledge and power."
+    },
+    {
+      "name": "力量",
+      "frequency": 5,
+      "context": "A key element, described as sleeping, awakening, and powerful."
+    },
+    {
+      "name": "旅者",
+      "frequency": 4,
+      "context": "The protagonist who gets lost and makes a crucial decision."
+    },
+    {
+      "name": "石碑",
+      "frequency": 3,
+      "context": "An ancient artifact containing legends and a source of power."
+    },
+    {
+      "name": "传说",
+      "frequency": 1,
+      "context": "Told by ancient stone tablets, relating to the forgotten past."
+    },
+    {
+      "name": "低语",
+      "frequency": 2,
+      "context": "Mysterious sounds heard in the city, signifying secrets."
+    },
+    {
+      "name": "能量",
+      "frequency": 1,
+      "context": "Fluctuations indicating an impending change or event."
+    },
+    {
+      "name": "选择",
+      "frequency": 2,
+      "context": "A critical decision the traveler must make regarding the city's fate."
+    },
+    {
+      "name": "命运",
+      "frequency": 1,
+      "context": "Determined by the traveler's choice."
+    },
+    {
+      "name": "黎明",
+      "frequency": 1,
+      "context": "Symbolizing a new beginning for the city."
+    },
+    {
+      "name": "魔法",
+      "frequency": 1,
+      "context": "Ancient magic that flows through the city."
+    },
+    {
+      "name": "希望",
+      "frequency": 1,
+      "context": "Brought to the city by the traveler."
+    },
+    {
+      "name": "守护者",
+      "frequency": 1,
+      "context": "The role the traveler takes on."
+    }
+  ],
+  "relations": [
+    {
+      "source": "沉睡之城",
+      "target": "时间",
+      "type": "is_forgotten_by"
+    },
+    {
+      "source": "沉睡之城",
+      "target": "秘密",
+      "type": "hides"
+    },
+    {
+      "source": "沉睡之城",
+      "target": "力量",
+      "type": "hides"
+    },
+    {
+      "source": "旅者",
+      "target": "沉睡之城",
+      "type": "gets_lost_in"
+    },
+    {
+      "source": "石碑",
+      "target": "传说",
+      "type": "tells"
+    },
+    {
+      "source": "石碑",
+      "target": "文字",
+      "type": "is_carved_with"
+    },
+    {
+      "source": "文字",
+      "target": "decipher",
+      "type": "is_difficult_to"
+    },
+    {
+      "source": "秘密",
+      "target": "苏醒",
+      "type": "undergoes"
+    },
+    {
+      "source": "力量",
+      "target": "涌动",
+      "type": "undergoes"
+    },
+    {
+      "source": "旅者",
+      "target": "选择",
+      "type": "must_make"
+    },
+    {
+      "source": "选择",
+      "target": "命运",
+      "type": "determines"
+    },
+    {
+      "source": "力量",
+      "target": "爆发",
+      "type": "undergoes"
+    },
+    {
+      "source": "力量",
+      "target": "唤醒",
+      "type": "undergoes"
+    },
+    {
+      "source": "沉睡之城",
+      "target": "黎明",
+      "type": "welcomes"
+    },
+    {
+      "source": "魔法",
+      "target": "流淌",
+      "type": "undergoes"
+    },
+    {
+      "source": "旅者",
+      "target": "守护者",
+      "type": "becomes"
+    },
+    {
+      "source": "旅者",
+      "target": "希望",
+      "type": "brings"
+    }
+  ],
+  "hierarchy": {
+    "main_topics": [
+      "沉睡之城",
+      "旅者",
+      "古老的秘密与力量"
+    ],
+    "structure": "The document follows a narrative structure organized into chapters, starting with an introduction to the setting and the protagonist's predicament, progressing through the awakening of the city's secrets and the protagonist's crucial choice, and concluding with the city's rebirth and the traveler's new role. Appendices and references are also included."
+  }
+}

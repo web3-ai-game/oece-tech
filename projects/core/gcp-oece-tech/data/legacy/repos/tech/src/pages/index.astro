@@ -1,0 +1,523 @@
+---
+import { getCollection } from 'astro:content';
+
+const tutorials = await getCollection('tutorials');
+---
+
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>OECE.TECH - Underground Tech Hub</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        :root {
+            --pixel-darker: #0a0e27;
+            --pixel-dark: #1a1f3a;
+            --pixel-light: #e0e0e0;
+            --pixel-primary: #00ff00;
+            --pixel-accent: #00ffff;
+            --pixel-warning: #ffff00;
+            --pixel-danger: #ff0055;
+            --pixel-grid: #333333;
+        }
+
+        body {
+            font-family: 'Courier New', monospace;
+            background: var(--pixel-darker);
+            color: var(--pixel-light);
+            overflow-x: hidden;
+        }
+
+        .container {
+            max-width: 1280px;
+            margin: 0 auto;
+            padding: 2rem;
+        }
+
+        .hero {
+            border: 3px solid var(--pixel-primary);
+            background: var(--pixel-dark);
+            padding: 2rem;
+            margin-bottom: 2rem;
+            position: relative;
+        }
+
+        .hero::before {
+            content: '';
+            position: absolute;
+            top: -8px;
+            left: 10px;
+            background: var(--pixel-darker);
+            padding: 0 10px;
+            color: var(--pixel-primary);
+        }
+
+        .hero-title {
+            font-size: 2.5rem;
+            color: var(--pixel-primary);
+            margin-bottom: 0.5rem;
+            text-shadow: 0 0 10px var(--pixel-primary);
+        }
+
+        .hero-subtitle {
+            color: var(--pixel-accent);
+            font-size: 1.2rem;
+            margin-bottom: 1rem;
+        }
+
+        .tags {
+            display: flex;
+            gap: 0.5rem;
+            margin-bottom: 1rem;
+            flex-wrap: wrap;
+        }
+
+        .tag {
+            border: 2px solid var(--pixel-primary);
+            padding: 0.25rem 0.75rem;
+            font-size: 0.8rem;
+            background: transparent;
+            color: var(--pixel-primary);
+        }
+
+        .tag.accent {
+            border-color: var(--pixel-accent);
+            color: var(--pixel-accent);
+        }
+
+        .tag.warning {
+            border-color: var(--pixel-warning);
+            color: var(--pixel-warning);
+        }
+
+        .buttons {
+            display: flex;
+            gap: 1rem;
+            margin-top: 1rem;
+        }
+
+        .btn {
+            border: 2px solid var(--pixel-primary);
+            background: transparent;
+            color: var(--pixel-primary);
+            padding: 0.5rem 1rem;
+            cursor: pointer;
+            font-family: 'Courier New', monospace;
+            transition: all 0.2s;
+        }
+
+        .btn:hover {
+            background: var(--pixel-primary);
+            color: var(--pixel-darker);
+            box-shadow: 0 0 20px var(--pixel-primary);
+        }
+
+        .section {
+            margin-bottom: 2rem;
+        }
+
+        .section-title {
+            font-size: 1.2rem;
+            color: var(--pixel-primary);
+            margin-bottom: 1rem;
+            border-bottom: 2px solid var(--pixel-primary);
+            padding-bottom: 0.5rem;
+        }
+
+        .grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 1rem;
+        }
+
+        .card {
+            border: 2px solid var(--pixel-grid);
+            background: var(--pixel-dark);
+            padding: 1rem;
+            transition: all 0.2s;
+        }
+
+        .card:hover {
+            border-color: var(--pixel-primary);
+            box-shadow: 0 0 10px var(--pixel-primary);
+        }
+
+        .card-title {
+            color: var(--pixel-accent);
+            margin-bottom: 0.5rem;
+            font-size: 0.9rem;
+        }
+
+        .card-value {
+            font-size: 1.5rem;
+            color: var(--pixel-primary);
+            margin-bottom: 0.5rem;
+        }
+
+        .card-label {
+            font-size: 0.75rem;
+            color: var(--pixel-light);
+            opacity: 0.7;
+        }
+
+        .dos-window {
+            border: 3px solid var(--pixel-primary);
+            background: var(--pixel-dark);
+            margin-bottom: 1rem;
+        }
+
+        .dos-title {
+            background: var(--pixel-primary);
+            color: var(--pixel-darker);
+            padding: 0.25rem 0.5rem;
+            font-weight: bold;
+            font-size: 0.9rem;
+        }
+
+        .dos-content {
+            padding: 1rem;
+        }
+
+        .dos-line {
+            margin-bottom: 0.5rem;
+            border-bottom: 1px solid var(--pixel-grid);
+            padding-bottom: 0.5rem;
+        }
+
+        .dos-line:last-child {
+            border-bottom: none;
+        }
+
+        .emoji {
+            font-size: 2rem;
+            margin-bottom: 0.5rem;
+        }
+
+        .warning-box {
+            border: 3px solid var(--pixel-danger);
+            background: rgba(255, 0, 85, 0.1);
+            padding: 1rem;
+            margin-top: 2rem;
+        }
+
+        .warning-title {
+            color: var(--pixel-danger);
+            font-weight: bold;
+            margin-bottom: 0.5rem;
+        }
+
+        .warning-text {
+            font-size: 0.9rem;
+            color: var(--pixel-light);
+        }
+
+        .scanlines {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            pointer-events: none;
+            background: repeating-linear-gradient(
+                0deg,
+                rgba(0, 0, 0, 0.15),
+                rgba(0, 0, 0, 0.15) 1px,
+                transparent 1px,
+                transparent 2px
+            );
+            z-index: 1000;
+        }
+
+        @media (max-width: 768px) {
+            .hero-title {
+                font-size: 1.8rem;
+            }
+
+            .grid {
+                grid-template-columns: 1fr;
+            }
+
+            .buttons {
+                flex-direction: column;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="scanlines"></div>
+    
+    <div class="container">
+        <!-- Hero Section -->
+        <div class="hero">
+            <div class="hero-title">🌊 OECE.TECH</div>
+            <div class="hero-subtitle">&gt; 地下技術聚合平台 | Underground Tech Hub</div>
+            <div class="tags">
+                <div class="tag">30+ 教程</div>
+                <div class="tag accent">50+ API</div>
+                <div class="tag warning">完全匿名</div>
+            </div>
+            <div class="buttons">
+                <button class="btn">📚 瀏覽教程</button>
+                <button class="btn">💰 賺積分</button>
+            </div>
+        </div>
+
+        <!-- Real-time Data -->
+        <div class="section">
+            <div class="section-title">&gt; REAL-TIME DATA_</div>
+            <div class="grid">
+                <div class="card">
+                    <div class="card-title">在線用戶</div>
+                    <div class="card-value">42</div>
+                    <div class="card-label">ONLINE USERS</div>
+                </div>
+                <div class="card">
+                    <div class="card-title">專業教程</div>
+                    <div class="card-value">30+</div>
+                    <div class="card-label">TUTORIALS</div>
+                </div>
+                <div class="card">
+                    <div class="card-title">總積分</div>
+                    <div class="card-value">1.2M</div>
+                    <div class="card-label">TOTAL POINTS</div>
+                </div>
+                <div class="card">
+                    <div class="card-title">討論主題</div>
+                    <div class="card-value">580</div>
+                    <div class="card-label">DISCUSSIONS</div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Hot Tutorials -->
+        <div class="section">
+            <div class="section-title">&gt; HOT TUTORIALS_</div>
+            <div class="grid">
+                <div class="card">
+                    <div class="emoji">🚀</div>
+                    <div class="card-title">Google郵箱註冊</div>
+                    <div class="card-label">出海 • 2.3K 瀏覽</div>
+                </div>
+                <div class="card">
+                    <div class="emoji">🔐</div>
+                    <div class="card-title">VPN搭建完整指南</div>
+                    <div class="card-label">VPN • 1.8K 瀏覽</div>
+                </div>
+                <div class="card">
+                    <div class="emoji">🕵️</div>
+                    <div class="card-title">社工防範技巧</div>
+                    <div class="card-label">安全 • 1.5K 瀏覽</div>
+                </div>
+                <div class="card">
+                    <div class="emoji">🐧</div>
+                    <div class="card-title">Kali環境搭建</div>
+                    <div class="card-label">Kali • 1.2K 瀏覽</div>
+                </div>
+                <div class="card">
+                    <div class="emoji">🛡️</div>
+                    <div class="card-title">Tor網絡使用</div>
+                    <div class="card-label">匿名 • 980 瀏覽</div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Tutorial Categories -->
+        <div class="section">
+            <div class="section-title">&gt; TUTORIAL CATEGORIES_</div>
+            <div class="grid">
+                <div class="card">
+                    <div class="emoji">🚀</div>
+                    <div class="card-title">出海第一步</div>
+                    <div class="card-value">8</div>
+                    <div class="card-label">篇教程</div>
+                </div>
+                <div class="card">
+                    <div class="emoji">🔐</div>
+                    <div class="card-title">VPN/SS技術</div>
+                    <div class="card-value">6</div>
+                    <div class="card-label">篇教程</div>
+                </div>
+                <div class="card">
+                    <div class="emoji">🕵️</div>
+                    <div class="card-title">社會工程學</div>
+                    <div class="card-value">5</div>
+                    <div class="card-label">篇教程</div>
+                </div>
+                <div class="card">
+                    <div class="emoji">🐧</div>
+                    <div class="card-title">Kali實戰</div>
+                    <div class="card-value">4</div>
+                    <div class="card-label">篇教程</div>
+                </div>
+                <div class="card">
+                    <div class="emoji">🛡️</div>
+                    <div class="card-title">匿名化技術</div>
+                    <div class="card-value">7</div>
+                    <div class="card-label">篇教程</div>
+                </div>
+                <div class="card">
+                    <div class="emoji">💻</div>
+                    <div class="card-title">SSH技巧</div>
+                    <div class="card-value">5</div>
+                    <div class="card-label">篇教程</div>
+                </div>
+                <div class="card">
+                    <div class="emoji">🔧</div>
+                    <div class="card-title">硬件改裝</div>
+                    <div class="card-value">3</div>
+                    <div class="card-label">篇教程</div>
+                </div>
+                <div class="card">
+                    <div class="emoji">🎯</div>
+                    <div class="card-title">反跟蹤</div>
+                    <div class="card-value">4</div>
+                    <div class="card-label">篇教程</div>
+                </div>
+                <div class="card">
+                    <div class="emoji">🎮</div>
+                    <div class="card-title">虛擬環境</div>
+                    <div class="card-value">3</div>
+                    <div class="card-label">篇教程</div>
+                </div>
+                <div class="card">
+                    <div class="emoji">🌐</div>
+                    <div class="card-title">跳坑指南</div>
+                    <div class="card-value">6</div>
+                    <div class="card-label">篇教程</div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Market Data -->
+        <div class="section">
+            <div class="section-title">&gt; MARKET DATA_</div>
+            <div class="grid">
+                <div class="card">
+                    <div class="card-title">SET.BK</div>
+                    <div class="card-value">1420.50</div>
+                    <div class="card-label">泰國SET +0.87%</div>
+                </div>
+                <div class="card">
+                    <div class="card-title">STI</div>
+                    <div class="card-value">3245.80</div>
+                    <div class="card-label">新加坡STI -0.16%</div>
+                </div>
+                <div class="card">
+                    <div class="card-title">BTC</div>
+                    <div class="card-value">67234</div>
+                    <div class="card-label">Bitcoin +1.87%</div>
+                </div>
+                <div class="card">
+                    <div class="card-title">ETH</div>
+                    <div class="card-value">3542</div>
+                    <div class="card-label">Ethereum -1.26%</div>
+                </div>
+                <div class="card">
+                    <div class="card-title">USD/THB</div>
+                    <div class="card-value">35.42</div>
+                    <div class="card-label">USD泰銖 +0.14%</div>
+                </div>
+                <div class="card">
+                    <div class="card-title">USD/SGD</div>
+                    <div class="card-value">1.34</div>
+                    <div class="card-label">USD新元 -0.75%</div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Forum Activity -->
+        <div class="section">
+            <div class="section-title">&gt; FORUM ACTIVITY_</div>
+            <div class="dos-window">
+                <div class="dos-title">[ LATEST DISCUSSIONS ]</div>
+                <div class="dos-content">
+                    <div class="dos-line">
+                        <div style="color: var(--pixel-accent);">神秘駭客#1024</div>
+                        <div>&gt; 請問VPN如何選擇？</div>
+                        <div style="color: var(--pixel-light); opacity: 0.6; font-size: 0.85rem;">💬 12 回覆</div>
+                    </div>
+                    <div class="dos-line">
+                        <div style="color: var(--pixel-accent);">匿名開發者#2048</div>
+                        <div>&gt; SSH配置問題求助</div>
+                        <div style="color: var(--pixel-light); opacity: 0.6; font-size: 0.85rem;">💬 8 回覆</div>
+                    </div>
+                    <div class="dos-line">
+                        <div style="color: var(--pixel-accent);">幽靈工程師#4096</div>
+                        <div>&gt; 分享一個好用的工具</div>
+                        <div style="color: var(--pixel-light); opacity: 0.6; font-size: 0.85rem;">💬 23 回覆</div>
+                    </div>
+                    <div class="dos-line">
+                        <div style="color: var(--pixel-accent);">暗影用戶#8192</div>
+                        <div>&gt; Kali最新版本測試心得</div>
+                        <div style="color: var(--pixel-light); opacity: 0.6; font-size: 0.85rem;">💬 15 回覆</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Points System -->
+        <div class="section">
+            <div class="section-title">&gt; POINT SYSTEM_</div>
+            <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 1rem;">
+                <div class="dos-window">
+                    <div class="dos-title">[ EARN POINTS ]</div>
+                    <div class="dos-content">
+                        <div class="dos-line">
+                            <div>&gt; 註冊獎勵</div>
+                            <div style="color: var(--pixel-primary);">+150</div>
+                        </div>
+                        <div class="dos-line">
+                            <div>&gt; 貢獻教程</div>
+                            <div style="color: var(--pixel-primary);">+500</div>
+                        </div>
+                        <div class="dos-line">
+                            <div>&gt; 看廣告</div>
+                            <div style="color: var(--pixel-primary);">+20</div>
+                        </div>
+                        <div class="dos-line">
+                            <div>&gt; 社區互動</div>
+                            <div style="color: var(--pixel-primary);">+5</div>
+                        </div>
+                    </div>
+                </div>
+                <div class="dos-window">
+                    <div class="dos-title">[ SPEND POINTS ]</div>
+                    <div class="dos-content">
+                        <div class="dos-line">
+                            <div>&gt; 解鎖教程</div>
+                            <div style="color: var(--pixel-primary);">50-200</div>
+                        </div>
+                        <div class="dos-line">
+                            <div>&gt; 下載資源</div>
+                            <div style="color: var(--pixel-primary);">50-500</div>
+                        </div>
+                        <div class="dos-line">
+                            <div>&gt; 私密諮詢</div>
+                            <div style="color: var(--pixel-primary);">100</div>
+                        </div>
+                        <div class="dos-line">
+                            <div>&gt; VIP會員</div>
+                            <div style="color: var(--pixel-primary);">1000</div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Warning -->
+        <div class="warning-box">
+            <div class="warning-title">⚠️ IMPORTANT NOTICE_</div>
+            <div class="warning-text">
+                本平台提供的教程內容僅供技術學習研究使用，請勿用於非法用途。
+            </div>
+        </div>
+    </div>
+</body>
+</html>

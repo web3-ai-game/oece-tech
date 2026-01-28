@@ -1,0 +1,1559 @@
+{
+  "propositions": [
+    {
+      "id": "1",
+      "text": "梦蕊",
+      "level": 1
+    },
+    {
+      "id": "1.1",
+      "text": "序",
+      "level": 2
+    },
+    {
+      "id": "2",
+      "text": "第一章",
+      "level": 2
+    },
+    {
+      "id": "3",
+      "text": "第二章",
+      "level": 2
+    },
+    {
+      "id": "4",
+      "text": "第三章",
+      "level": 2
+    },
+    {
+      "id": "5",
+      "text": "第四章",
+      "level": 2
+    },
+    {
+      "id": "6",
+      "text": "第五章",
+      "level": 2
+    },
+    {
+      "id": "7",
+      "text": "第六章",
+      "level": 2
+    },
+    {
+      "id": "8",
+      "text": "第七章",
+      "level": 2
+    },
+    {
+      "id": "9",
+      "text": "第八章",
+      "level": 2
+    },
+    {
+      "id": "10",
+      "text": "第九章",
+      "level": 2
+    },
+    {
+      "id": "11",
+      "text": "第十章",
+      "level": 2
+    },
+    {
+      "id": "12",
+      "text": "第十一章",
+      "level": 2
+    },
+    {
+      "id": "13",
+      "text": "第十二章",
+      "level": 2
+    },
+    {
+      "id": "14",
+      "text": "第十三章",
+      "level": 2
+    },
+    {
+      "id": "15",
+      "text": "第十四章",
+      "level": 2
+    },
+    {
+      "id": "16",
+      "text": "第十五章",
+      "level": 2
+    },
+    {
+      "id": "17",
+      "text": "第十六章",
+      "level": 2
+    },
+    {
+      "id": "18",
+      "text": "第十七章",
+      "level": 2
+    },
+    {
+      "id": "19",
+      "text": "第十八章",
+      "level": 2
+    },
+    {
+      "id": "20",
+      "text": "第十九章",
+      "level": 2
+    },
+    {
+      "id": "21",
+      "text": "第二十章",
+      "level": 2
+    },
+    {
+      "id": "22",
+      "text": "第二十一章",
+      "level": 2
+    },
+    {
+      "id": "23",
+      "text": "第二十二章",
+      "level": 2
+    },
+    {
+      "id": "24",
+      "text": "第二十三章",
+      "level": 2
+    },
+    {
+      "id": "25",
+      "text": "第二十四章",
+      "level": 2
+    },
+    {
+      "id": "26",
+      "text": "第二十五章",
+      "level": 2
+    },
+    {
+      "id": "27",
+      "text": "第二十六章",
+      "level": 2
+    },
+    {
+      "id": "28",
+      "text": "第二十七章",
+      "level": 2
+    },
+    {
+      "id": "29",
+      "text": "第二十八章",
+      "level": 2
+    },
+    {
+      "id": "30",
+      "text": "第二十九章",
+      "level": 2
+    },
+    {
+      "id": "31",
+      "text": "第三十章",
+      "level": 2
+    },
+    {
+      "id": "32",
+      "text": "第三十一章",
+      "level": 2
+    },
+    {
+      "id": "33",
+      "text": "第三十二章",
+      "level": 2
+    },
+    {
+      "id": "34",
+      "text": "第三十三章",
+      "level": 2
+    },
+    {
+      "id": "35",
+      "text": "第三十四章",
+      "level": 2
+    },
+    {
+      "id": "36",
+      "text": "第三十五章",
+      "level": 2
+    },
+    {
+      "id": "37",
+      "text": "第三十六章",
+      "level": 2
+    },
+    {
+      "id": "38",
+      "text": "第三十七章",
+      "level": 2
+    },
+    {
+      "id": "39",
+      "text": "第三十八章",
+      "level": 2
+    },
+    {
+      "id": "40",
+      "text": "第三十九章",
+      "level": 2
+    },
+    {
+      "id": "41",
+      "text": "第四十章",
+      "level": 2
+    },
+    {
+      "id": "42",
+      "text": "第四十一章",
+      "level": 2
+    },
+    {
+      "id": "43",
+      "text": "第四十二章",
+      "level": 2
+    },
+    {
+      "id": "44",
+      "text": "第四十三章",
+      "level": 2
+    },
+    {
+      "id": "45",
+      "text": "第四十四章",
+      "level": 2
+    },
+    {
+      "id": "46",
+      "text": "第四十五章",
+      "level": 2
+    },
+    {
+      "id": "47",
+      "text": "第四十六章",
+      "level": 2
+    },
+    {
+      "id": "48",
+      "text": "第四十七章",
+      "level": 2
+    },
+    {
+      "id": "49",
+      "text": "第四十八章",
+      "level": 2
+    },
+    {
+      "id": "50",
+      "text": "第四十九章",
+      "level": 2
+    },
+    {
+      "id": "51",
+      "text": "第五十章",
+      "level": 2
+    },
+    {
+      "id": "52",
+      "text": "第五十一章",
+      "level": 2
+    },
+    {
+      "id": "53",
+      "text": "第五十二章",
+      "level": 2
+    },
+    {
+      "id": "54",
+      "text": "第五十三章",
+      "level": 2
+    },
+    {
+      "id": "55",
+      "text": "第五十四章",
+      "level": 2
+    },
+    {
+      "id": "56",
+      "text": "第五十五章",
+      "level": 2
+    },
+    {
+      "id": "57",
+      "text": "第五十六章",
+      "level": 2
+    },
+    {
+      "id": "58",
+      "text": "第五十七章",
+      "level": 2
+    },
+    {
+      "id": "59",
+      "text": "第五十八章",
+      "level": 2
+    },
+    {
+      "id": "60",
+      "text": "第五十九章",
+      "level": 2
+    },
+    {
+      "id": "61",
+      "text": "第六十章",
+      "level": 2
+    },
+    {
+      "id": "62",
+      "text": "第六十一章",
+      "level": 2
+    },
+    {
+      "id": "63",
+      "text": "第六十二章",
+      "level": 2
+    },
+    {
+      "id": "64",
+      "text": "第六十三章",
+      "level": 2
+    },
+    {
+      "id": "65",
+      "text": "第六十四章",
+      "level": 2
+    },
+    {
+      "id": "66",
+      "text": "第六十五章",
+      "level": 2
+    },
+    {
+      "id": "67",
+      "text": "第六十六章",
+      "level": 2
+    },
+    {
+      "id": "68",
+      "text": "第六十七章",
+      "level": 2
+    },
+    {
+      "id": "69",
+      "text": "第六十八章",
+      "level": 2
+    },
+    {
+      "id": "70",
+      "text": "第六十九章",
+      "level": 2
+    },
+    {
+      "id": "71",
+      "text": "第七十章",
+      "level": 2
+    },
+    {
+      "id": "72",
+      "text": "第七十一章",
+      "level": 2
+    },
+    {
+      "id": "73",
+      "text": "第七十二章",
+      "level": 2
+    },
+    {
+      "id": "74",
+      "text": "第七十三章",
+      "level": 2
+    },
+    {
+      "id": "75",
+      "text": "第七十四章",
+      "level": 2
+    },
+    {
+      "id": "76",
+      "text": "第七十五章",
+      "level": 2
+    },
+    {
+      "id": "77",
+      "text": "第七十六章",
+      "level": 2
+    },
+    {
+      "id": "78",
+      "text": "第七十七章",
+      "level": 2
+    },
+    {
+      "id": "79",
+      "text": "第七十八章",
+      "level": 2
+    },
+    {
+      "id": "80",
+      "text": "第七十九章",
+      "level": 2
+    },
+    {
+      "id": "81",
+      "text": "第八十章",
+      "level": 2
+    },
+    {
+      "id": "82",
+      "text": "第八十一章",
+      "level": 2
+    },
+    {
+      "id": "83",
+      "text": "第八十二章",
+      "level": 2
+    },
+    {
+      "id": "84",
+      "text": "第八十三章",
+      "level": 2
+    },
+    {
+      "id": "85",
+      "text": "第八十四章",
+      "level": 2
+    },
+    {
+      "id": "86",
+      "text": "第八十五章",
+      "level": 2
+    },
+    {
+      "id": "87",
+      "text": "第八十六章",
+      "level": 2
+    },
+    {
+      "id": "88",
+      "text": "第八十七章",
+      "level": 2
+    },
+    {
+      "id": "89",
+      "text": "第八十八章",
+      "level": 2
+    },
+    {
+      "id": "90",
+      "text": "第八十九章",
+      "level": 2
+    },
+    {
+      "id": "91",
+      "text": "第九十章",
+      "level": 2
+    },
+    {
+      "id": "92",
+      "text": "第九十一章",
+      "level": 2
+    },
+    {
+      "id": "93",
+      "text": "第九十二章",
+      "level": 2
+    },
+    {
+      "id": "94",
+      "text": "第九十三章",
+      "level": 2
+    },
+    {
+      "id": "95",
+      "text": "第九十四章",
+      "level": 2
+    },
+    {
+      "id": "96",
+      "text": "第九十五章",
+      "level": 2
+    },
+    {
+      "id": "97",
+      "text": "第九十六章",
+      "level": 2
+    },
+    {
+      "id": "98",
+      "text": "第九十七章",
+      "level": 2
+    },
+    {
+      "id": "99",
+      "text": "第九十八章",
+      "level": 2
+    },
+    {
+      "id": "100",
+      "text": "第九十九章",
+      "level": 2
+    },
+    {
+      "id": "101",
+      "text": "第一百章",
+      "level": 2
+    },
+    {
+      "id": "102",
+      "text": "尾声...",
+      "level": 2
+    }
+  ],
+  "concepts": [
+    {
+      "name": "梦蕊",
+      "frequency": 1,
+      "context": "The title of the document."
+    },
+    {
+      "name": "序",
+      "frequency": 1,
+      "context": "A preliminary section."
+    },
+    {
+      "name": "章节",
+      "frequency": 100,
+      "context": "The primary structural elements of the document, numbered sequentially from first to hundredth."
+    },
+    {
+      "name": "尾声",
+      "frequency": 1,
+      "context": "A concluding section."
+    }
+  ],
+  "relations": [
+    {
+      "source": "梦蕊",
+      "target": "序",
+      "type": "has_section"
+    },
+    {
+      "source": "梦蕊",
+      "target": "第一章",
+      "type": "has_section"
+    },
+    {
+      "source": "梦蕊",
+      "target": "第二章",
+      "type": "has_section"
+    },
+    {
+      "source": "梦蕊",
+      "target": "第三章",
+      "type": "has_section"
+    },
+    {
+      "source": "梦蕊",
+      "target": "第四章",
+      "type": "has_section"
+    },
+    {
+      "source": "梦蕊",
+      "target": "第五章",
+      "type": "has_section"
+    },
+    {
+      "source": "梦蕊",
+      "target": "第六章",
+      "type": "has_section"
+    },
+    {
+      "source": "梦蕊",
+      "target": "第七章",
+      "type": "has_section"
+    },
+    {
+      "source": "梦蕊",
+      "target": "第八章",
+      "type": "has_section"
+    },
+    {
+      "source": "梦蕊",
+      "target": "第九章",
+      "type": "has_section"
+    },
+    {
+      "source": "梦蕊",
+      "target": "第十章",
+      "type": "has_section"
+    },
+    {
+      "source": "梦蕊",
+      "target": "第十一章",
+      "type": "has_section"
+    },
+    {
+      "source": "梦蕊",
+      "target": "第十二章",
+      "type": "has_section"
+    },
+    {
+      "source": "梦蕊",
+      "target": "第十三章",
+      "type": "has_section"
+    },
+    {
+      "source": "梦蕊",
+      "target": "第十四章",
+      "type": "has_section"
+    },
+    {
+      "source": "梦蕊",
+      "target": "第十五章",
+      "type": "has_section"
+    },
+    {
+      "source": "梦蕊",
+      "target": "第十六章",
+      "type": "has_section"
+    },
+    {
+      "source": "梦蕊",
+      "target": "第十七章",
+      "type": "has_section"
+    },
+    {
+      "source": "梦蕊",
+      "target": "第十八章",
+      "type": "has_section"
+    },
+    {
+      "source": "梦蕊",
+      "target": "第十九章",
+      "type": "has_section"
+    },
+    {
+      "source": "梦蕊",
+      "target": "第二十章",
+      "type": "has_section"
+    },
+    {
+      "source": "梦蕊",
+      "target": "第二十一章",
+      "type": "has_section"
+    },
+    {
+      "source": "梦蕊",
+      "target": "第二十二章",
+      "type": "has_section"
+    },
+    {
+      "source": "梦蕊",
+      "target": "第二十三章",
+      "type": "has_section"
+    },
+    {
+      "source": "梦蕊",
+      "target": "第二十四章",
+      "type": "has_section"
+    },
+    {
+      "source": "梦蕊",
+      "target": "第二十五章",
+      "type": "has_section"
+    },
+    {
+      "source": "梦蕊",
+      "target": "第二十六章",
+      "type": "has_section"
+    },
+    {
+      "source": "梦蕊",
+      "target": "第二十七章",
+      "type": "has_section"
+    },
+    {
+      "source": "梦蕊",
+      "target": "第二十八章",
+      "type": "has_section"
+    },
+    {
+      "source": "梦蕊",
+      "target": "第二十九章",
+      "type": "has_section"
+    },
+    {
+      "source": "梦蕊",
+      "target": "第三十章",
+      "type": "has_section"
+    },
+    {
+      "source": "梦蕊",
+      "target": "第三十一章",
+      "type": "has_section"
+    },
+    {
+      "source": "梦蕊",
+      "target": "第三十二章",
+      "type": "has_section"
+    },
+    {
+      "source": "梦蕊",
+      "target": "第三十三章",
+      "type": "has_section"
+    },
+    {
+      "source": "梦蕊",
+      "target": "第三十四章",
+      "type": "has_section"
+    },
+    {
+      "source": "梦蕊",
+      "target": "第三十五章",
+      "type": "has_section"
+    },
+    {
+      "source": "梦蕊",
+      "target": "第三十六章",
+      "type": "has_section"
+    },
+    {
+      "source": "梦蕊",
+      "target": "第三十七章",
+      "type": "has_section"
+    },
+    {
+      "source": "梦蕊",
+      "target": "第三十八章",
+      "type": "has_section"
+    },
+    {
+      "source": "梦蕊",
+      "target": "第三十九章",
+      "type": "has_section"
+    },
+    {
+      "source": "梦蕊",
+      "target": "第四十章",
+      "type": "has_section"
+    },
+    {
+      "source": "梦蕊",
+      "target": "第四十一章",
+      "type": "has_section"
+    },
+    {
+      "source": "梦蕊",
+      "target": "第四十二章",
+      "type": "has_section"
+    },
+    {
+      "source": "梦蕊",
+      "target": "第四十三章",
+      "type": "has_section"
+    },
+    {
+      "source": "梦蕊",
+      "target": "第四十四章",
+      "type": "has_section"
+    },
+    {
+      "source": "梦蕊",
+      "target": "第四十五章",
+      "type": "has_section"
+    },
+    {
+      "source": "梦蕊",
+      "target": "第四十六章",
+      "type": "has_section"
+    },
+    {
+      "source": "梦蕊",
+      "target": "第四十七章",
+      "type": "has_section"
+    },
+    {
+      "source": "梦蕊",
+      "target": "第四十八章",
+      "type": "has_section"
+    },
+    {
+      "source": "梦蕊",
+      "target": "第四十九章",
+      "type": "has_section"
+    },
+    {
+      "source": "梦蕊",
+      "target": "第五十章",
+      "type": "has_section"
+    },
+    {
+      "source": "梦蕊",
+      "target": "第五十一章",
+      "type": "has_section"
+    },
+    {
+      "source": "梦蕊",
+      "target": "第五十二章",
+      "type": "has_section"
+    },
+    {
+      "source": "梦蕊",
+      "target": "第五十三章",
+      "type": "has_section"
+    },
+    {
+      "source": "梦蕊",
+      "target": "第五十四章",
+      "type": "has_section"
+    },
+    {
+      "source": "梦蕊",
+      "target": "第五十五章",
+      "type": "has_section"
+    },
+    {
+      "source": "梦蕊",
+      "target": "第五十六章",
+      "type": "has_section"
+    },
+    {
+      "source": "梦蕊",
+      "target": "第五十七章",
+      "type": "has_section"
+    },
+    {
+      "source": "梦蕊",
+      "target": "第五十八章",
+      "type": "has_section"
+    },
+    {
+      "source": "梦蕊",
+      "target": "第五十九章",
+      "type": "has_section"
+    },
+    {
+      "source": "梦蕊",
+      "target": "第六十章",
+      "type": "has_section"
+    },
+    {
+      "source": "梦蕊",
+      "target": "第六十一章",
+      "type": "has_section"
+    },
+    {
+      "source": "梦蕊",
+      "target": "第六十二章",
+      "type": "has_section"
+    },
+    {
+      "source": "梦蕊",
+      "target": "第六十三章",
+      "type": "has_section"
+    },
+    {
+      "source": "梦蕊",
+      "target": "第六十四章",
+      "type": "has_section"
+    },
+    {
+      "source": "梦蕊",
+      "target": "第六十五章",
+      "type": "has_section"
+    },
+    {
+      "source": "梦蕊",
+      "target": "第六十六章",
+      "type": "has_section"
+    },
+    {
+      "source": "梦蕊",
+      "target": "第六十七章",
+      "type": "has_section"
+    },
+    {
+      "source": "梦蕊",
+      "target": "第六十八章",
+      "type": "has_section"
+    },
+    {
+      "source": "梦蕊",
+      "target": "第六十九章",
+      "type": "has_section"
+    },
+    {
+      "source": "梦蕊",
+      "target": "第七十章",
+      "type": "has_section"
+    },
+    {
+      "source": "梦蕊",
+      "target": "第七十一章",
+      "type": "has_section"
+    },
+    {
+      "source": "梦蕊",
+      "target": "第七十二章",
+      "type": "has_section"
+    },
+    {
+      "source": "梦蕊",
+      "target": "第七十三章",
+      "type": "has_section"
+    },
+    {
+      "source": "梦蕊",
+      "target": "第七十四章",
+      "type": "has_section"
+    },
+    {
+      "source": "梦蕊",
+      "target": "第七十五章",
+      "type": "has_section"
+    },
+    {
+      "source": "梦蕊",
+      "target": "第七十六章",
+      "type": "has_section"
+    },
+    {
+      "source": "梦蕊",
+      "target": "第七十七章",
+      "type": "has_section"
+    },
+    {
+      "source": "梦蕊",
+      "target": "第七十八章",
+      "type": "has_section"
+    },
+    {
+      "source": "梦蕊",
+      "target": "第七十九章",
+      "type": "has_section"
+    },
+    {
+      "source": "梦蕊",
+      "target": "第八十章",
+      "type": "has_section"
+    },
+    {
+      "source": "梦蕊",
+      "target": "第八十一章",
+      "type": "has_section"
+    },
+    {
+      "source": "梦蕊",
+      "target": "第八十二章",
+      "type": "has_section"
+    },
+    {
+      "source": "梦蕊",
+      "target": "第八十三章",
+      "type": "has_section"
+    },
+    {
+      "source": "梦蕊",
+      "target": "第八十四章",
+      "type": "has_section"
+    },
+    {
+      "source": "梦蕊",
+      "target": "第八十五章",
+      "type": "has_section"
+    },
+    {
+      "source": "梦蕊",
+      "target": "第八十六章",
+      "type": "has_section"
+    },
+    {
+      "source": "梦蕊",
+      "target": "第八十七章",
+      "type": "has_section"
+    },
+    {
+      "source": "梦蕊",
+      "target": "第八十八章",
+      "type": "has_section"
+    },
+    {
+      "source": "梦蕊",
+      "target": "第八十九章",
+      "type": "has_section"
+    },
+    {
+      "source": "梦蕊",
+      "target": "第九十章",
+      "type": "has_section"
+    },
+    {
+      "source": "梦蕊",
+      "target": "第九十一章",
+      "type": "has_section"
+    },
+    {
+      "source": "梦蕊",
+      "target": "第九十二章",
+      "type": "has_section"
+    },
+    {
+      "source": "梦蕊",
+      "target": "第九十三章",
+      "type": "has_section"
+    },
+    {
+      "source": "梦蕊",
+      "target": "第九十四章",
+      "type": "has_section"
+    },
+    {
+      "source": "梦蕊",
+      "target": "第九十五章",
+      "type": "has_section"
+    },
+    {
+      "source": "梦蕊",
+      "target": "第九十六章",
+      "type": "has_section"
+    },
+    {
+      "source": "梦蕊",
+      "target": "第九十七章",
+      "type": "has_section"
+    },
+    {
+      "source": "梦蕊",
+      "target": "第九十八章",
+      "type": "has_section"
+    },
+    {
+      "source": "梦蕊",
+      "target": "第九十九章",
+      "type": "has_section"
+    },
+    {
+      "source": "梦蕊",
+      "target": "第一百章",
+      "type": "has_section"
+    },
+    {
+      "source": "梦蕊",
+      "target": "尾声...",
+      "type": "has_section"
+    },
+    {
+      "source": "第一章",
+      "target": "第二章",
+      "type": "follows"
+    },
+    {
+      "source": "第二章",
+      "target": "第三章",
+      "type": "follows"
+    },
+    {
+      "source": "第三章",
+      "target": "第四章",
+      "type": "follows"
+    },
+    {
+      "source": "第四章",
+      "target": "第五章",
+      "type": "follows"
+    },
+    {
+      "source": "第五章",
+      "target": "第六章",
+      "type": "follows"
+    },
+    {
+      "source": "第六章",
+      "target": "第七章",
+      "type": "follows"
+    },
+    {
+      "source": "第七章",
+      "target": "第八章",
+      "type": "follows"
+    },
+    {
+      "source": "第八章",
+      "target": "第九章",
+      "type": "follows"
+    },
+    {
+      "source": "第九章",
+      "target": "第十章",
+      "type": "follows"
+    },
+    {
+      "source": "第十章",
+      "target": "第十一章",
+      "type": "follows"
+    },
+    {
+      "source": "第十一章",
+      "target": "第十二章",
+      "type": "follows"
+    },
+    {
+      "source": "第十二章",
+      "target": "第十三章",
+      "type": "follows"
+    },
+    {
+      "source": "第十三章",
+      "target": "第十四章",
+      "type": "follows"
+    },
+    {
+      "source": "第十四章",
+      "target": "第十五章",
+      "type": "follows"
+    },
+    {
+      "source": "第十五章",
+      "target": "第十六章",
+      "type": "follows"
+    },
+    {
+      "source": "第十六章",
+      "target": "第十七章",
+      "type": "follows"
+    },
+    {
+      "source": "第十七章",
+      "target": "第十八章",
+      "type": "follows"
+    },
+    {
+      "source": "第十八章",
+      "target": "第十九章",
+      "type": "follows"
+    },
+    {
+      "source": "第十九章",
+      "target": "第二十章",
+      "type": "follows"
+    },
+    {
+      "source": "第二十章",
+      "target": "第二十一章",
+      "type": "follows"
+    },
+    {
+      "source": "第二十一章",
+      "target": "第二十二章",
+      "type": "follows"
+    },
+    {
+      "source": "第二十二章",
+      "target": "第二十三章",
+      "type": "follows"
+    },
+    {
+      "source": "第二十三章",
+      "target": "第二十四章",
+      "type": "follows"
+    },
+    {
+      "source": "第二十四章",
+      "target": "第二十五章",
+      "type": "follows"
+    },
+    {
+      "source": "第二十五章",
+      "target": "第二十六章",
+      "type": "follows"
+    },
+    {
+      "source": "第二十六章",
+      "target": "第二十七章",
+      "type": "follows"
+    },
+    {
+      "source": "第二十七章",
+      "target": "第二十八章",
+      "type": "follows"
+    },
+    {
+      "source": "第二十八章",
+      "target": "第二十九章",
+      "type": "follows"
+    },
+    {
+      "source": "第二十九章",
+      "target": "第三十章",
+      "type": "follows"
+    },
+    {
+      "source": "第三十章",
+      "target": "第三十一章",
+      "type": "follows"
+    },
+    {
+      "source": "第三十一章",
+      "target": "第三十二章",
+      "type": "follows"
+    },
+    {
+      "source": "第三十二章",
+      "target": "第三十三章",
+      "type": "follows"
+    },
+    {
+      "source": "第三十三章",
+      "target": "第三十四章",
+      "type": "follows"
+    },
+    {
+      "source": "第三十四章",
+      "target": "第三十五章",
+      "type": "follows"
+    },
+    {
+      "source": "第三十五章",
+      "target": "第三十六章",
+      "type": "follows"
+    },
+    {
+      "source": "第三十六章",
+      "target": "第三十七章",
+      "type": "follows"
+    },
+    {
+      "source": "第三十七章",
+      "target": "第三十八章",
+      "type": "follows"
+    },
+    {
+      "source": "第三十八章",
+      "target": "第三十九章",
+      "type": "follows"
+    },
+    {
+      "source": "第三十九章",
+      "target": "第四十章",
+      "type": "follows"
+    },
+    {
+      "source": "第四十章",
+      "target": "第四十一章",
+      "type": "follows"
+    },
+    {
+      "source": "第四十一章",
+      "target": "第四十二章",
+      "type": "follows"
+    },
+    {
+      "source": "第四十二章",
+      "target": "第四十三章",
+      "type": "follows"
+    },
+    {
+      "source": "第四十三章",
+      "target": "第四十四章",
+      "type": "follows"
+    },
+    {
+      "source": "第四十四章",
+      "target": "第四十五章",
+      "type": "follows"
+    },
+    {
+      "source": "第四十五章",
+      "target": "第四十六章",
+      "type": "follows"
+    },
+    {
+      "source": "第四十六章",
+      "target": "第四十七章",
+      "type": "follows"
+    },
+    {
+      "source": "第四十七章",
+      "target": "第四十八章",
+      "type": "follows"
+    },
+    {
+      "source": "第四十八章",
+      "target": "第四十九章",
+      "type": "follows"
+    },
+    {
+      "source": "第四十九章",
+      "target": "第五十章",
+      "type": "follows"
+    },
+    {
+      "source": "第五十章",
+      "target": "第五十一章",
+      "type": "follows"
+    },
+    {
+      "source": "第五十一章",
+      "target": "第五十二章",
+      "type": "follows"
+    },
+    {
+      "source": "第五十二章",
+      "target": "第五十三章",
+      "type": "follows"
+    },
+    {
+      "source": "第五十三章",
+      "target": "第五十四章",
+      "type": "follows"
+    },
+    {
+      "source": "第五十四章",
+      "target": "第五十五章",
+      "type": "follows"
+    },
+    {
+      "source": "第五十五章",
+      "target": "第五十六章",
+      "type": "follows"
+    },
+    {
+      "source": "第五十六章",
+      "target": "第五十七章",
+      "type": "follows"
+    },
+    {
+      "source": "第五十七章",
+      "target": "第五十八章",
+      "type": "follows"
+    },
+    {
+      "source": "第五十八章",
+      "target": "第五十九章",
+      "type": "follows"
+    },
+    {
+      "source": "第五十九章",
+      "target": "第六十章",
+      "type": "follows"
+    },
+    {
+      "source": "第六十章",
+      "target": "第六十一章",
+      "type": "follows"
+    },
+    {
+      "source": "第六十一章",
+      "target": "第六十二章",
+      "type": "follows"
+    },
+    {
+      "source": "第六十二章",
+      "target": "第六十三章",
+      "type": "follows"
+    },
+    {
+      "source": "第六十三章",
+      "target": "第六十四章",
+      "type": "follows"
+    },
+    {
+      "source": "第六十四章",
+      "target": "第六十五章",
+      "type": "follows"
+    },
+    {
+      "source": "第六十五章",
+      "target": "第六十六章",
+      "type": "follows"
+    },
+    {
+      "source": "第六十六章",
+      "target": "第六十七章",
+      "type": "follows"
+    },
+    {
+      "source": "第六十七章",
+      "target": "第六十八章",
+      "type": "follows"
+    },
+    {
+      "source": "第六十八章",
+      "target": "第六十九章",
+      "type": "follows"
+    },
+    {
+      "source": "第六十九章",
+      "target": "第七十章",
+      "type": "follows"
+    },
+    {
+      "source": "第七十章",
+      "target": "第七十一章",
+      "type": "follows"
+    },
+    {
+      "source": "第七十一章",
+      "target": "第七十二章",
+      "type": "follows"
+    },
+    {
+      "source": "第七十二章",
+      "target": "第七十三章",
+      "type": "follows"
+    },
+    {
+      "source": "第七十三章",
+      "target": "第七十四章",
+      "type": "follows"
+    },
+    {
+      "source": "第七十四章",
+      "target": "第七十五章",
+      "type": "follows"
+    },
+    {
+      "source": "第七十五章",
+      "target": "第七十六章",
+      "type": "follows"
+    },
+    {
+      "source": "第七十六章",
+      "target": "第七十七章",
+      "type": "follows"
+    },
+    {
+      "source": "第七十七章",
+      "target": "第七十八章",
+      "type": "follows"
+    },
+    {
+      "source": "第七十八章",
+      "target": "第七十九章",
+      "type": "follows"
+    },
+    {
+      "source": "第七十九章",
+      "target": "第八十章",
+      "type": "follows"
+    },
+    {
+      "source": "第八十章",
+      "target": "第八十一章",
+      "type": "follows"
+    },
+    {
+      "source": "第八十一章",
+      "target": "第八十二章",
+      "type": "follows"
+    },
+    {
+      "source": "第八十二章",
+      "target": "第八十三章",
+      "type": "follows"
+    },
+    {
+      "source": "第八十三章",
+      "target": "第八十四章",
+      "type": "follows"
+    },
+    {
+      "source": "第八十四章",
+      "target": "第八十五章",
+      "type": "follows"
+    },
+    {
+      "source": "第八十五章",
+      "target": "第八十六章",
+      "type": "follows"
+    },
+    {
+      "source": "第八十六章",
+      "target": "第八十七章",
+      "type": "follows"
+    },
+    {
+      "source": "第八十七章",
+      "target": "第八十八章",
+      "type": "follows"
+    },
+    {
+      "source": "第八十八章",
+      "target": "第八十九章",
+      "type": "follows"
+    },
+    {
+      "source": "第八十九章",
+      "target": "第九十章",
+      "type": "follows"
+    },
+    {
+      "source": "第九十章",
+      "target": "第九十一章",
+      "type": "follows"
+    },
+    {
+      "source": "第九十一章",
+      "target": "第九十二章",
+      "type": "follows"
+    },
+    {
+      "source": "第九十二章",
+      "target": "第九十三章",
+      "type": "follows"
+    },
+    {
+      "source": "第九十三章",
+      "target": "第九十四章",
+      "type": "follows"
+    },
+    {
+      "source": "第九十四章",
+      "target": "第九十五章",
+      "type": "follows"
+    },
+    {
+      "source": "第九十五章",
+      "target": "第九十六章",
+      "type": "follows"
+    },
+    {
+      "source": "第九十六章",
+      "target": "第九十七章",
+      "type": "follows"
+    },
+    {
+      "source": "第九十七章",
+      "target": "第九十八章",
+      "type": "follows"
+    },
+    {
+      "source": "第九十八章",
+      "target": "第九十九章",
+      "type": "follows"
+    },
+    {
+      "source": "第九十九章",
+      "target": "第一百章",
+      "type": "follows"
+    },
+    {
+      "source": "第一百章",
+      "target": "尾声...",
+      "type": "follows"
+    }
+  ],
+  "hierarchy": {
+    "main_topics": [
+      "梦蕊"
+    ],
+    "structure": "The document is titled '梦蕊' and consists of a preface ('序'), followed by 100 sequentially numbered chapters, and concludes with an epilogue ('尾声...'). The chapters follow a strict chronological or logical sequence."
+  }
+}

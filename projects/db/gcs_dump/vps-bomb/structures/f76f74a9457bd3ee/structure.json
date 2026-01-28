@@ -1,0 +1,141 @@
+{
+  "propositions": [
+    {
+      "id": "1",
+      "text": "Shadow, a killer, is tasked with assassinating her own father.",
+      "level": 1
+    },
+    {
+      "id": "1.1",
+      "text": "The task is complex due to hidden secrets and personal conflicts.",
+      "level": 2
+    },
+    {
+      "id": "1.2",
+      "text": "Shadow's mother was brutally murdered, fueling her desire for revenge.",
+      "level": 2
+    },
+    {
+      "id": "2",
+      "text": "Shadow engages in a confrontation with her father, who seems to anticipate her moves.",
+      "level": 1
+    },
+    {
+      "id": "2.1",
+      "text": "During the confrontation, Shadow discovers a document revealing secrets about the 'female-dominated' world.",
+      "level": 2
+    },
+    {
+      "id": "3",
+      "text": "Shadow struggles between her mission and emotions, choosing to investigate the truth behind the document.",
+      "level": 1
+    },
+    {
+      "id": "4",
+      "text": "Shadow explores the power dynamics of the female-dominated world, uncovering hidden struggles and dangers.",
+      "level": 1
+    },
+    {
+      "id": "5",
+      "text": "Shadow reveals the organization's conspiracy to overthrow the female-dominated order.",
+      "level": 1
+    },
+    {
+      "id": "5.1",
+      "text": "Her father is a coerced pawn, not the mastermind, and her mother's death was a trap set by the organization.",
+      "level": 2
+    },
+    {
+      "id": "6",
+      "text": "Shadow allies with her father and others to fight the organization, leading to intense battles.",
+      "level": 1
+    },
+    {
+      "id": "6.1",
+      "text": "The organization is defeated, but at the cost of her father's life.",
+      "level": 2
+    },
+    {
+      "id": "7",
+      "text": "Shadow embraces a new identity as a guardian of the female-dominated world, letting go of her past.",
+      "level": 1
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Shadow",
+      "frequency": 15,
+      "context": "Protagonist, a conflicted killer with a personal vendetta."
+    },
+    {
+      "name": "Father",
+      "frequency": 10,
+      "context": "Shadow's target and a key figure in the conspiracy."
+    },
+    {
+      "name": "Female-Dominated World",
+      "frequency": 8,
+      "context": "Setting with a matriarchal power structure hiding deeper conflicts."
+    },
+    {
+      "name": "Organization",
+      "frequency": 7,
+      "context": "Antagonistic group aiming to overthrow the existing order."
+    },
+    {
+      "name": "Revenge",
+      "frequency": 5,
+      "context": "Motivation driving Shadow's actions due to her mother's murder."
+    },
+    {
+      "name": "Mother",
+      "frequency": 4,
+      "context": "Shadow's murdered parent, central to her emotional conflict."
+    }
+  ],
+  "relations": [
+    {
+      "source": "Shadow",
+      "target": "Father",
+      "type": "opposes"
+    },
+    {
+      "source": "Shadow",
+      "target": "Father",
+      "type": "related_by_blood"
+    },
+    {
+      "source": "Shadow",
+      "target": "Mother",
+      "type": "related_by_blood"
+    },
+    {
+      "source": "Shadow",
+      "target": "Organization",
+      "type": "opposes"
+    },
+    {
+      "source": "Father",
+      "target": "Organization",
+      "type": "controlled_by"
+    },
+    {
+      "source": "Mother",
+      "target": "Organization",
+      "type": "victim_of"
+    },
+    {
+      "source": "Female-Dominated World",
+      "target": "Organization",
+      "type": "threatened_by"
+    }
+  ],
+  "hierarchy": {
+    "main_topics": [
+      "Shadow's Mission",
+      "Conspiracy in Female-Dominated World",
+      "Personal Conflict and Resolution"
+    ],
+    "structure": "The document follows a linear narrative structure, progressing from Shadow's initial mission to personal conflicts, uncovering conspiracies, and culminating in resolution and transformation."
+  }
+}

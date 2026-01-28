@@ -1,0 +1,196 @@
+{
+  "propositions": [
+    {
+      "id": "1",
+      "text": "本文档对TXT文件“随意＊遂意（女尊）.TXT”进行格式化和结构化处理。",
+      "level": 1
+    },
+    {
+      "id": "1.1",
+      "text": "对原始文本进行了OCR错误、过量空白和断行等问题的清理。",
+      "level": 2
+    },
+    {
+      "id": "1.2",
+      "text": "根据文本的逻辑结构，识别并格式化了标题、段落、列表、引用和代码块。",
+      "level": 2
+    },
+    {
+      "id": "1.3",
+      "text": "在原始文本中未识别到明确的学术引用、脚注或参考文献。",
+      "level": 2
+    }
+  ],
+  "concepts": [
+    {
+      "name": "TXT文件",
+      "frequency": 2,
+      "context": "指代文档处理的对象，例如“随意＊遂意（女尊）.TXT”"
+    },
+    {
+      "name": "格式化",
+      "frequency": 1,
+      "context": "指对文本进行整理以符合特定形式的过程"
+    },
+    {
+      "name": "结构化处理",
+      "frequency": 1,
+      "context": "指根据逻辑结构组织文本的过程"
+    },
+    {
+      "name": "原始文本",
+      "frequency": 2,
+      "context": "指未经处理的原始文本数据"
+    },
+    {
+      "name": "清洗",
+      "frequency": 1,
+      "context": "指去除文本中的错误和冗余信息，例如OCR错误、过量空白、断行"
+    },
+    {
+      "name": "OCR错误",
+      "frequency": 1,
+      "context": "指光学字符识别过程中产生的错误"
+    },
+    {
+      "name": "过量空白",
+      "frequency": 1,
+      "context": "指文本中多余的空格或换行符"
+    },
+    {
+      "name": "断行",
+      "frequency": 1,
+      "context": "指不完整的行或不恰当的换行"
+    },
+    {
+      "name": "逻辑结构",
+      "frequency": 1,
+      "context": "指文本内容的内在组织方式"
+    },
+    {
+      "name": "标题",
+      "frequency": 1,
+      "context": "文本的层级标题"
+    },
+    {
+      "name": "段落",
+      "frequency": 1,
+      "context": "文本的组成单元"
+    },
+    {
+      "name": "列表",
+      "frequency": 1,
+      "context": "文本中条目化的内容"
+    },
+    {
+      "name": "引用",
+      "frequency": 1,
+      "context": "文本中引用的内容"
+    },
+    {
+      "name": "代码块",
+      "frequency": 1,
+      "context": "文本中代码段"
+    },
+    {
+      "name": "学术引用",
+      "frequency": 1,
+      "context": "指在学术研究中引用的文献"
+    },
+    {
+      "name": "脚注",
+      "frequency": 1,
+      "context": "文本页脚的附加说明"
+    },
+    {
+      "name": "参考文献",
+      "frequency": 1,
+      "context": "列举的被引用文献"
+    }
+  ],
+  "relations": [
+    {
+      "source": "TXT文件",
+      "target": "格式化",
+      "type": "is_subject_of"
+    },
+    {
+      "source": "TXT文件",
+      "target": "结构化处理",
+      "type": "is_subject_of"
+    },
+    {
+      "source": "原始文本",
+      "target": "清洗",
+      "type": "is_subject_of"
+    },
+    {
+      "source": "清洗",
+      "target": "OCR错误",
+      "type": "removes"
+    },
+    {
+      "source": "清洗",
+      "target": "过量空白",
+      "type": "removes"
+    },
+    {
+      "source": "清洗",
+      "target": "断行",
+      "type": "removes"
+    },
+    {
+      "source": "结构化处理",
+      "target": "逻辑结构",
+      "type": "based_on"
+    },
+    {
+      "source": "结构化处理",
+      "target": "标题",
+      "type": "formats"
+    },
+    {
+      "source": "结构化处理",
+      "target": "段落",
+      "type": "formats"
+    },
+    {
+      "source": "结构化处理",
+      "target": "列表",
+      "type": "formats"
+    },
+    {
+      "source": "结构化处理",
+      "target": "引用",
+      "type": "formats"
+    },
+    {
+      "source": "结构化处理",
+      "target": "代码块",
+      "type": "formats"
+    },
+    {
+      "source": "原始文本",
+      "target": "学术引用",
+      "type": "lacks"
+    },
+    {
+      "source": "原始文本",
+      "target": "脚注",
+      "type": "lacks"
+    },
+    {
+      "source": "原始文本",
+      "target": "参考文献",
+      "type": "lacks"
+    }
+  ],
+  "hierarchy": {
+    "main_topics": [
+      "概述",
+      "内容分析与格式化",
+      "文本内容"
+    ],
+    "structure": "文档以层级标题的形式组织，包含一个概述部分，接着是关于内容分析与格式化的三个子部分，最后是未格式化的原始文本内容。"
+  }
+}

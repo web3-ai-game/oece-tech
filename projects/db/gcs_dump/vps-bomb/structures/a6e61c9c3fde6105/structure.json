@@ -1,0 +1,116 @@
+{
+  "propositions": [
+    {
+      "id": "1",
+      "text": "The story is a legend of courage, wisdom, and growth set in a harsh desert environment.",
+      "level": 1
+    },
+    {
+      "id": "1.1",
+      "text": "Life in the desert is fragile, and hope is scarce, yet human spirit perseveres like the resilient poplar tree.",
+      "level": 2
+    },
+    {
+      "id": "2",
+      "text": "The narrative follows Ali, a young boy, through his journey of loss, discovery, and transformation in the desert.",
+      "level": 1
+    },
+    {
+      "id": "2.1",
+      "text": "Ali gets separated from his tribe during a sandstorm, marking the beginning of his trials.",
+      "level": 2
+    },
+    {
+      "id": "2.2",
+      "text": "Ali encounters a hermit who imparts ancient desert knowledge and tests his resilience.",
+      "level": 2
+    },
+    {
+      "id": "2.3",
+      "text": "Through trials, Ali learns to navigate by stars, conserve water, and coexist with the desert.",
+      "level": 2
+    },
+    {
+      "id": "3",
+      "text": "Ali discovers an ancient ruin with secrets of a lost civilization and a mysterious power.",
+      "level": 1
+    },
+    {
+      "id": "3.1",
+      "text": "This discovery transforms Ali into a figure of legend as he returns to his tribe with newfound wisdom.",
+      "level": 2
+    },
+    {
+      "id": "4",
+      "text": "Ali's return brings hope and renewal to his tribe, improving their living conditions.",
+      "level": 1
+    },
+    {
+      "id": "4.1",
+      "text": "Ali inscribes his knowledge on a stone monument, ensuring his legacy endures in the desert.",
+      "level": 2
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Desert",
+      "frequency": 15,
+      "context": "Harsh environment shaping life and challenges."
+    },
+    {
+      "name": "Courage",
+      "frequency": 8,
+      "context": "Central theme of overcoming adversity."
+    },
+    {
+      "name": "Wisdom",
+      "frequency": 7,
+      "context": "Knowledge gained through trials and mentorship."
+    },
+    {
+      "name": "Growth",
+      "frequency": 5,
+      "context": "Personal transformation of the protagonist."
+    },
+    {
+      "name": "Legend",
+      "frequency": 6,
+      "context": "Ali's journey becoming a mythic tale."
+    }
+  ],
+  "relations": [
+    {
+      "source": "Desert",
+      "target": "Courage",
+      "type": "implies"
+    },
+    {
+      "source": "Desert",
+      "target": "Wisdom",
+      "type": "part_of"
+    },
+    {
+      "source": "Courage",
+      "target": "Growth",
+      "type": "implies"
+    },
+    {
+      "source": "Wisdom",
+      "target": "Legend",
+      "type": "part_of"
+    },
+    {
+      "source": "Growth",
+      "target": "Legend",
+      "type": "implies"
+    }
+  ],
+  "hierarchy": {
+    "main_topics": [
+      "Ali's Journey",
+      "Desert Environment",
+      "Transformation and Legacy"
+    ],
+    "structure": "The document is structured as a narrative with a prologue, four chapters detailing Ali's journey from loss to legend, and concluding remarks with acknowledgments."
+  }
+}

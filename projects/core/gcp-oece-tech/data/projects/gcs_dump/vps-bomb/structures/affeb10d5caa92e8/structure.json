@@ -1,0 +1,1367 @@
+{
+  "propositions": [
+    {
+      "id": "1",
+      "text": "她穿越到民国，是为了寻找自由。",
+      "level": 1
+    },
+    {
+      "id": "1.1",
+      "text": "她以为，只要嫁给一个普通男人，就能获得自由。",
+      "level": 2
+    },
+    {
+      "id": "1.2",
+      "text": "然而，她错了。",
+      "level": 2
+    },
+    {
+      "id": "1.3",
+      "text": "自由，不是想嫁给谁就能嫁给谁。",
+      "level": 2
+    },
+    {
+      "id": "1.4",
+      "text": "自由，也不是随心所欲就能得到的。",
+      "level": 2
+    },
+    {
+      "id": "1.5",
+      "text": "自由，需要自己去争取，去创造。",
+      "level": 2
+    },
+    {
+      "id": "2",
+      "text": "她想，或许，这是她来到民国的原因。",
+      "level": 1
+    },
+    {
+      "id": "3",
+      "text": "她想，或许，这是她来到民国的使命。",
+      "level": 1
+    },
+    {
+      "id": "4",
+      "text": "她想，或许，这是她来到民国的归宿。",
+      "level": 1
+    },
+    {
+      "id": "5",
+      "text": "她要努力，她要勇敢。",
+      "level": 1
+    },
+    {
+      "id": "6",
+      "text": "她要改变，她要成长。",
+      "level": 1
+    },
+    {
+      "id": "7",
+      "text": "她要成为，自己想要成为的人。",
+      "level": 1
+    },
+    {
+      "id": "8",
+      "text": "她是一位民国女子。",
+      "level": 1
+    },
+    {
+      "id": "8.1",
+      "text": "她有一位民国女子应有的风姿。",
+      "level": 2
+    },
+    {
+      "id": "8.2",
+      "text": "她有一位民国女子应有的坚韧。",
+      "level": 2
+    },
+    {
+      "id": "8.3",
+      "text": "她有一位民国女子应有的智慧。",
+      "level": 2
+    },
+    {
+      "id": "9",
+      "text": "她会努力，她会勇敢。",
+      "level": 1
+    },
+    {
+      "id": "10",
+      "text": "她会改变，她会成长。",
+      "level": 1
+    },
+    {
+      "id": "11",
+      "text": "她会成为，自己想要成为的人。",
+      "level": 1
+    },
+    {
+      "id": "12",
+      "text": "她要成为，自由的民国女子。",
+      "level": 1
+    },
+    {
+      "id": "13",
+      "text": "她要成为，独立的民国女子。",
+      "level": 1
+    },
+    {
+      "id": "14",
+      "text": "她要成为，有智慧的民国女子。",
+      "level": 1
+    },
+    {
+      "id": "15",
+      "text": "她要成为，幸福的民国女子。",
+      "level": 1
+    },
+    {
+      "id": "16",
+      "text": "她有一个中国梦。",
+      "level": 1
+    },
+    {
+      "id": "17",
+      "text": "她有一个民族魂。",
+      "level": 1
+    },
+    {
+      "id": "18",
+      "text": "她要成为，中华民族的骄傲。",
+      "level": 1
+    },
+    {
+      "id": "19",
+      "text": "她要成为，一个对国家有贡献的女子。",
+      "level": 1
+    },
+    {
+      "id": "20",
+      "text": "民国时期，她是一位女子。",
+      "level": 1
+    },
+    {
+      "id": "20.1",
+      "text": "她有着她的故事。",
+      "level": 2
+    },
+    {
+      "id": "20.2",
+      "text": "她有着她的情感。",
+      "level": 2
+    },
+    {
+      "id": "20.3",
+      "text": "她有着她的选择。",
+      "level": 2
+    },
+    {
+      "id": "21",
+      "text": "她在这个时代，寻找着属于自己的幸福。",
+      "level": 1
+    },
+    {
+      "id": "22",
+      "text": "她在这个时代，寻找着属于自己的爱情。",
+      "level": 1
+    },
+    {
+      "id": "23",
+      "text": "她希望，能找到一位志同道合的伴侣。",
+      "level": 1
+    },
+    {
+      "id": "24",
+      "text": "她希望，能找到一位真心相爱的人。",
+      "level": 1
+    },
+    {
+      "id": "25",
+      "text": "她有着自己的理想。",
+      "level": 1
+    },
+    {
+      "id": "26",
+      "text": "她有着自己的追求。",
+      "level": 1
+    },
+    {
+      "id": "27",
+      "text": "她希望，能为这个国家做些什么。",
+      "level": 1
+    },
+    {
+      "id": "28",
+      "text": "她希望，能为这个民族做些什么。",
+      "level": 1
+    },
+    {
+      "id": "29",
+      "text": "她相信，未来会更好。",
+      "level": 1
+    },
+    {
+      "id": "30",
+      "text": "她相信，明天会更美。",
+      "level": 1
+    },
+    {
+      "id": "31",
+      "text": "她有一段刻骨铭心的爱情。",
+      "level": 1
+    },
+    {
+      "id": "32",
+      "text": "她有一段轰轰烈烈的经历。",
+      "level": 1
+    },
+    {
+      "id": "33",
+      "text": "她在这个时代，经历了许多。",
+      "level": 1
+    },
+    {
+      "id": "34",
+      "text": "她在这个时代，感受了许多。",
+      "level": 1
+    },
+    {
+      "id": "35",
+      "text": "她希望，能找到一份属于自己的安宁。",
+      "level": 1
+    },
+    {
+      "id": "36",
+      "text": "她希望，能找到一个属于自己的归宿。",
+      "level": 1
+    },
+    {
+      "id": "37",
+      "text": "她有着她的坚强。",
+      "level": 1
+    },
+    {
+      "id": "38",
+      "text": "她有着她的温柔。",
+      "level": 1
+    },
+    {
+      "id": "39",
+      "text": "她希望，能与心爱的人，携手一生。",
+      "level": 1
+    },
+    {
+      "id": "40",
+      "text": "她希望，能与心爱的人，共度余生。",
+      "level": 1
+    },
+    {
+      "id": "41",
+      "text": "她有着她的思考。",
+      "level": 1
+    },
+    {
+      "id": "42",
+      "text": "她有着她的感悟。",
+      "level": 1
+    },
+    {
+      "id": "43",
+      "text": "她在这个时代，看到了许多。",
+      "level": 1
+    },
+    {
+      "id": "44",
+      "text": "她在这个时代，明白了许多。",
+      "level": 1
+    },
+    {
+      "id": "45",
+      "text": "她希望，能为这个社会做出贡献。",
+      "level": 1
+    },
+    {
+      "id": "46",
+      "text": "她希望，能为这个时代带来改变。",
+      "level": 1
+    },
+    {
+      "id": "47",
+      "text": "她相信，知识改变命运。",
+      "level": 1
+    },
+    {
+      "id": "48",
+      "text": "她相信，教育改变未来。",
+      "level": 1
+    },
+    {
+      "id": "49",
+      "text": "她希望，能成为一名优秀的教育家。",
+      "level": 1
+    },
+    {
+      "id": "50",
+      "text": "她希望，能为中国的教育事业做出贡献。",
+      "level": 1
+    },
+    {
+      "id": "51",
+      "text": "她有着她的坚持。",
+      "level": 1
+    },
+    {
+      "id": "52",
+      "text": "她有着她的梦想。",
+      "level": 1
+    },
+    {
+      "id": "53",
+      "text": "她在这个时代，追逐着自己的梦想。",
+      "level": 1
+    },
+    {
+      "id": "54",
+      "text": "她在这个时代，实现了自己的价值。",
+      "level": 1
+    },
+    {
+      "id": "55",
+      "text": "她希望，能成为一名杰出的女性。",
+      "level": 1
+    },
+    {
+      "id": "56",
+      "text": "她希望，能成为一名有影响力的女性。",
+      "level": 1
+    },
+    {
+      "id": "57",
+      "text": "她相信，女性也能顶起半边天。",
+      "level": 1
+    },
+    {
+      "id": "58",
+      "text": "她相信，女性也能创造辉煌。",
+      "level": 1
+    },
+    {
+      "id": "59",
+      "text": "她希望，能成为一名先进的女性。",
+      "level": 1
+    },
+    {
+      "id": "60",
+      "text": "她希望，能成为一名引领时代的女性。",
+      "level": 1
+    }
+  ],
+  "concepts": [
+    {
+      "name": "自由",
+      "frequency": 7,
+      "context": "Central theme of the protagonist's motivations and realizations in the novel."
+    },
+    {
+      "name": "民国",
+      "frequency": 50,
+      "context": "The historical period in which the story is set, influencing the protagonist's experiences and choices."
+    },
+    {
+      "name": "女子",
+      "frequency": 50,
+      "context": "Refers to the protagonist as a female character within the Republic of China era."
+    },
+    {
+      "name": "寻找",
+      "frequency": 11,
+      "context": "Describes the protagonist's active pursuit of happiness, love, and fulfillment."
+    },
+    {
+      "name": "希望",
+      "frequency": 30,
+      "context": "Expresses the protagonist's aspirations and desires for her future and the nation."
+    },
+    {
+      "name": "成为",
+      "frequency": 19,
+      "context": "Indicates the protagonist's goal of personal transformation and achievement."
+    },
+    {
+      "name": "故事",
+      "frequency": 10,
+      "context": "Refers to the narrative and experiences of the protagonist."
+    },
+    {
+      "name": "情感",
+      "frequency": 10,
+      "context": "Relates to the protagonist's inner feelings and emotional experiences."
+    },
+    {
+      "name": "选择",
+      "frequency": 10,
+      "context": "Highlights the protagonist's agency and decisions in shaping her life."
+    },
+    {
+      "name": "爱情",
+      "frequency": 7,
+      "context": "A key element sought by the protagonist in her relationships."
+    },
+    {
+      "name": "幸福",
+      "frequency": 7,
+      "context": "The ultimate goal the protagonist desires to find."
+    },
+    {
+      "name": "伴侣",
+      "frequency": 3,
+      "context": "The kind of person the protagonist wishes to find for a relationship."
+    },
+    {
+      "name": "理想",
+      "frequency": 7,
+      "context": "The protagonist's noble goals and aspirations."
+    },
+    {
+      "name": "追求",
+      "frequency": 7,
+      "context": "The active pursuit of one's ambitions and goals."
+    },
+    {
+      "name": "国家",
+      "frequency": 7,
+      "context": "Refers to China and the protagonist's desire to contribute to its progress."
+    },
+    {
+      "name": "民族",
+      "frequency": 5,
+      "context": "Relates to the collective identity and progress of the Chinese people."
+    },
+    {
+      "name": "相信",
+      "frequency": 14,
+      "context": "Expresses the protagonist's faith in positive outcomes and her own capabilities."
+    },
+    {
+      "name": "努力",
+      "frequency": 2,
+      "context": "Describes the protagonist's dedication and hard work."
+    },
+    {
+      "name": "勇敢",
+      "frequency": 2,
+      "context": "Highlights the protagonist's courage in facing challenges."
+    },
+    {
+      "name": "改变",
+      "frequency": 4,
+      "context": "Indicates the protagonist's desire for personal transformation and societal impact."
+    },
+    {
+      "name": "成长",
+      "frequency": 2,
+      "context": "Refers to the protagonist's personal development and evolution."
+    },
+    {
+      "name": "智慧",
+      "frequency": 3,
+      "context": "A quality the protagonist possesses and aspires to embody."
+    },
+    {
+      "name": "坚韧",
+      "frequency": 4,
+      "context": "A characteristic of the protagonist's strength and resilience."
+    },
+    {
+      "name": "风姿",
+      "frequency": 1,
+      "context": "Refers to the protagonist's grace and bearing as a woman of her time."
+    },
+    {
+      "name": "独立",
+      "frequency": 1,
+      "context": "An aspiration for the protagonist's self-reliance."
+    },
+    {
+      "name": "幸福",
+      "frequency": 7,
+      "context": "The ultimate goal the protagonist desires to find."
+    },
+    {
+      "name": "爱情",
+      "frequency": 7,
+      "context": "A key element sought by the protagonist in her relationships."
+    },
+    {
+      "name": "伴侣",
+      "frequency": 3,
+      "context": "The kind of person the protagonist wishes to find for a relationship."
+    },
+    {
+      "name": "理想",
+      "frequency": 7,
+      "context": "The protagonist's noble goals and aspirations."
+    },
+    {
+      "name": "追求",
+      "frequency": 7,
+      "context": "The active pursuit of one's ambitions and goals."
+    },
+    {
+      "name": "国家",
+      "frequency": 7,
+      "context": "Refers to China and the protagonist's desire to contribute to its progress."
+    },
+    {
+      "name": "民族",
+      "frequency": 5,
+      "context": "Relates to the collective identity and progress of the Chinese people."
+    },
+    {
+      "name": "相信",
+      "frequency": 14,
+      "context": "Expresses the protagonist's faith in positive outcomes and her own capabilities."
+    },
+    {
+      "name": "未来",
+      "frequency": 6,
+      "context": "The time ahead, which the protagonist believes will be better."
+    },
+    {
+      "name": "明天",
+      "frequency": 6,
+      "context": "Represents the future, which the protagonist anticipates with optimism."
+    },
+    {
+      "name": "刻骨铭心",
+      "frequency": 4,
+      "context": "Describes the profound nature of the protagonist's love and experiences."
+    },
+    {
+      "name": "轰轰烈烈",
+      "frequency": 4,
+      "context": "Characterizes the intensity and passion of the protagonist's experiences."
+    },
+    {
+      "name": "经历",
+      "frequency": 5,
+      "context": "Refers to the events and situations the protagonist encounters."
+    },
+    {
+      "name": "感受",
+      "frequency": 5,
+      "context": "Describes the protagonist's emotional and sensory perceptions."
+    },
+    {
+      "name": "安宁",
+      "frequency": 3,
+      "context": "A state of peace the protagonist seeks."
+    },
+    {
+      "name": "归宿",
+      "frequency": 3,
+      "context": "A place of belonging and final settlement the protagonist desires."
+    },
+    {
+      "name": "坚强",
+      "frequency": 4,
+      "context": "A quality of the protagonist's inner strength."
+    },
+    {
+      "name": "温柔",
+      "frequency": 4,
+      "context": "A gentle and kind characteristic of the protagonist."
+    },
+    {
+      "name": "携手一生",
+      "frequency": 3,
+      "context": "Represents a lifelong commitment with a loved one."
+    },
+    {
+      "name": "共度余生",
+      "frequency": 3,
+      "context": "Implies spending the rest of one's life with a loved one."
+    },
+    {
+      "name": "思考",
+      "frequency": 8,
+      "context": "The act of reflecting on life and experiences."
+    },
+    {
+      "name": "感悟",
+      "frequency": 8,
+      "context": "The insights and understanding gained from experiences."
+    },
+    {
+      "name": "看到",
+      "frequency": 6,
+      "context": "Describes the protagonist's observation of the world around her."
+    },
+    {
+      "name": "明白",
+      "frequency": 6,
+      "context": "Indicates the protagonist's comprehension and understanding of situations."
+    },
+    {
+      "name": "社会",
+      "frequency": 3,
+      "context": "The broader community and its conditions."
+    },
+    {
+      "name": "贡献",
+      "frequency": 7,
+      "context": "The protagonist's desire to make a positive impact."
+    },
+    {
+      "name": "知识",
+      "frequency": 3,
+      "context": "Valued as a means for personal and societal advancement."
+    },
+    {
+      "name": "命运",
+      "frequency": 3,
+      "context": "The course of events in life, which can be altered by knowledge."
+    },
+    {
+      "name": "教育",
+      "frequency": 4,
+      "context": "Seen as a transformative force for the future."
+    },
+    {
+      "name": "未来",
+      "frequency": 6,
+      "context": "The time ahead, which the protagonist believes will be better."
+    },
+    {
+      "name": "中国",
+      "frequency": 3,
+      "context": "Refers to the nation and its development."
+    },
+    {
+      "name": "教育事业",
+      "frequency": 3,
+      "context": "The field of education that the protagonist wishes to contribute to."
+    },
+    {
+      "name": "坚持",
+      "frequency": 6,
+      "context": "The act of remaining firm in one's beliefs and endeavors."
+    },
+    {
+      "name": "梦想",
+      "frequency": 6,
+      "context": "The protagonist's cherished aspirations."
+    },
+    {
+      "name": "追逐",
+      "frequency": 3,
+      "context": "Actively pursuing one's dreams and goals."
+    },
+    {
+      "name": "实现",
+      "frequency": 3,
+      "context": "Bringing one's dreams and aspirations to fruition."
+    },
+    {
+      "name": "价值",
+      "frequency": 3,
+      "context": "The worth and significance of one's actions and existence."
+    },
+    {
+      "name": "杰出",
+      "frequency": 3,
+      "context": "Outstanding and remarkable achievement."
+    },
+    {
+      "name": "影响",
+      "frequency": 3,
+      "context": "Having a significant effect on others or events."
+    },
+    {
+      "name": "女性",
+      "frequency": 6,
+      "context": "Refers to the gender of the protagonist and women in general."
+    },
+    {
+      "name": "顶起半边天",
+      "frequency": 3,
+      "context": "Idiom signifying women's capability to achieve great things and contribute equally."
+    },
+    {
+      "name": "辉煌",
+      "frequency": 3,
+      "context": "A state of brilliance and success."
+    },
+    {
+      "name": "先进",
+      "frequency": 3,
+      "context": "Forward-thinking and progressive."
+    },
+    {
+      "name": "时代",
+      "frequency": 15,
+      "context": "The current period, influencing the protagonist's experiences and aspirations."
+    },
+    {
+      "name": "中国梦",
+      "frequency": 1,
+      "context": "A national aspiration for rejuvenation and prosperity."
+    },
+    {
+      "name": "民族魂",
+      "frequency": 1,
+      "context": "The spirit and essence of a nation."
+    },
+    {
+      "name": "中华民族",
+      "frequency": 1,
+      "context": "The Chinese nation as a whole."
+    },
+    {
+      "name": "骄傲",
+      "frequency": 1,
+      "context": "A feeling of deep satisfaction and pleasure."
+    },
+    {
+      "name": "贡献",
+      "frequency": 7,
+      "context": "The protagonist's desire to make a positive impact."
+    },
+    {
+      "name": "志同道合",
+      "frequency": 3,
+      "context": "Describes a partner with similar aspirations and values."
+    },
+    {
+      "name": "真心相爱",
+      "frequency": 3,
+      "context": "Genuine love between two people."
+    },
+    {
+      "name": "刻骨铭心",
+      "frequency": 4,
+      "context": "Describes the profound nature of the protagonist's love and experiences."
+    },
+    {
+      "name": "轰轰烈烈",
+      "frequency": 4,
+      "context": "Characterizes the intensity and passion of the protagonist's experiences."
+    },
+    {
+      "name": "经历",
+      "frequency": 5,
+      "context": "Refers to the events and situations the protagonist encounters."
+    },
+    {
+      "name": "感受",
+      "frequency": 5,
+      "context": "Describes the protagonist's emotional and sensory perceptions."
+    },
+    {
+      "name": "安宁",
+      "frequency": 3,
+      "context": "A state of peace the protagonist seeks."
+    },
+    {
+      "name": "归宿",
+      "frequency": 3,
+      "context": "A place of belonging and final settlement the protagonist desires."
+    },
+    {
+      "name": "坚强",
+      "frequency": 4,
+      "context": "A quality of the protagonist's inner strength."
+    },
+    {
+      "name": "温柔",
+      "frequency": 4,
+      "context": "A gentle and kind characteristic of the protagonist."
+    },
+    {
+      "name": "携手一生",
+      "frequency": 3,
+      "context": "Represents a lifelong commitment with a loved one."
+    },
+    {
+      "name": "共度余生",
+      "frequency": 3,
+      "context": "Implies spending the rest of one's life with a loved one."
+    },
+    {
+      "name": "思考",
+      "frequency": 8,
+      "context": "The act of reflecting on life and experiences."
+    },
+    {
+      "name": "感悟",
+      "frequency": 8,
+      "context": "The insights and understanding gained from experiences."
+    },
+    {
+      "name": "看到",
+      "frequency": 6,
+      "context": "Describes the protagonist's observation of the world around her."
+    },
+    {
+      "name": "明白",
+      "frequency": 6,
+      "context": "Indicates the protagonist's comprehension and understanding of situations."
+    },
+    {
+      "name": "社会",
+      "frequency": 3,
+      "context": "The broader community and its conditions."
+    },
+    {
+      "name": "贡献",
+      "frequency": 7,
+      "context": "The protagonist's desire to make a positive impact."
+    },
+    {
+      "name": "知识",
+      "frequency": 3,
+      "context": "Valued as a means for personal and societal advancement."
+    },
+    {
+      "name": "命运",
+      "frequency": 3,
+      "context": "The course of events in life, which can be altered by knowledge."
+    },
+    {
+      "name": "教育",
+      "frequency": 4,
+      "context": "Seen as a transformative force for the future."
+    },
+    {
+      "name": "未来",
+      "frequency": 6,
+      "context": "The time ahead, which the protagonist believes will be better."
+    },
+    {
+      "name": "中国",
+      "frequency": 3,
+      "context": "Refers to the nation and its development."
+    },
+    {
+      "name": "教育事业",
+      "frequency": 3,
+      "context": "The field of education that the protagonist wishes to contribute to."
+    },
+    {
+      "name": "坚持",
+      "frequency": 6,
+      "context": "The act of remaining firm in one's beliefs and endeavors."
+    },
+    {
+      "name": "梦想",
+      "frequency": 6,
+      "context": "The protagonist's cherished aspirations."
+    },
+    {
+      "name": "追逐",
+      "frequency": 3,
+      "context": "Actively pursuing one's dreams and goals."
+    },
+    {
+      "name": "实现",
+      "frequency": 3,
+      "context": "Bringing one's dreams and aspirations to fruition."
+    },
+    {
+      "name": "价值",
+      "frequency": 3,
+      "context": "The worth and significance of one's actions and existence."
+    },
+    {
+      "name": "杰出",
+      "frequency": 3,
+      "context": "Outstanding and remarkable achievement."
+    },
+    {
+      "name": "影响",
+      "frequency": 3,
+      "context": "Having a significant effect on others or events."
+    },
+    {
+      "name": "女性",
+      "frequency": 6,
+      "context": "Refers to the gender of the protagonist and women in general."
+    },
+    {
+      "name": "顶起半边天",
+      "frequency": 3,
+      "context": "Idiom signifying women's capability to achieve great things and contribute equally."
+    },
+    {
+      "name": "辉煌",
+      "frequency": 3,
+      "context": "A state of brilliance and success."
+    },
+    {
+      "name": "先进",
+      "frequency": 3,
+      "context": "Forward-thinking and progressive."
+    },
+    {
+      "name": "引领",
+      "frequency": 1,
+      "context": "To guide or direct others."
+    },
+    {
+      "name": "时代",
+      "frequency": 15,
+      "context": "The current period, influencing the protagonist's experiences and aspirations."
+    }
+  ],
+  "relations": [
+    {
+      "source": "自由",
+      "target": "民国小姐",
+      "type": "is_sought_by"
+    },
+    {
+      "source": "自由",
+      "target": "普通男人",
+      "type": "is_related_to"
+    },
+    {
+      "source": "自由",
+      "target": "争取",
+      "type": "is_achieved_through"
+    },
+    {
+      "source": "自由",
+      "target": "创造",
+      "type": "is_achieved_through"
+    },
+    {
+      "source": "民国",
+      "target": "穿越",
+      "type": "is_setting_for"
+    },
+    {
+      "source": "民国女子",
+      "target": "故事",
+      "type": "has"
+    },
+    {
+      "source": "民国女子",
+      "target": "情感",
+      "type": "has"
+    },
+    {
+      "source": "民国女子",
+      "target": "选择",
+      "type": "has"
+    },
+    {
+      "source": "民国女子",
+      "target": "幸福",
+      "type": "seeks"
+    },
+    {
+      "source": "民国女子",
+      "target": "爱情",
+      "type": "seeks"
+    },
+    {
+      "source": "民国女子",
+      "target": "伴侣",
+      "type": "seeks"
+    },
+    {
+      "source": "民国女子",
+      "target": "理想",
+      "type": "has"
+    },
+    {
+      "source": "民国女子",
+      "target": "追求",
+      "type": "has"
+    },
+    {
+      "source": "民国女子",
+      "target": "国家",
+      "type": "wishes_to_contribute_to"
+    },
+    {
+      "source": "民国女子",
+      "target": "民族",
+      "type": "wishes_to_contribute_to"
+    },
+    {
+      "source": "民国女子",
+      "target": "未来",
+      "type": "believes_in_better"
+    },
+    {
+      "source": "民国女子",
+      "target": "明天",
+      "type": "believes_in_more_beautiful"
+    },
+    {
+      "source": "民国女子",
+      "target": "爱情",
+      "type": "experiences"
+    },
+    {
+      "source": "民国女子",
+      "target": "经历",
+      "type": "has"
+    },
+    {
+      "source": "民国女子",
+      "target": "感受",
+      "type": "has"
+    },
+    {
+      "source": "民国女子",
+      "target": "安宁",
+      "type": "seeks"
+    },
+    {
+      "source": "民国女子",
+      "target": "归宿",
+      "type": "seeks"
+    },
+    {
+      "source": "民国女子",
+      "target": "坚强",
+      "type": "possesses"
+    },
+    {
+      "source": "民国女子",
+      "target": "温柔",
+      "type": "possesses"
+    },
+    {
+      "source": "民国女子",
+      "target": "心爱的人",
+      "type": "wishes_to_be_with_for_life"
+    },
+    {
+      "source": "民国女子",
+      "target": "思考",
+      "type": "engages_in"
+    },
+    {
+      "source": "民国女子",
+      "target": "感悟",
+      "type": "gains"
+    },
+    {
+      "source": "民国女子",
+      "target": "社会",
+      "type": "wishes_to_contribute_to"
+    },
+    {
+      "source": "民国女子",
+      "target": "时代",
+      "type": "wishes_to_bring_change_to"
+    },
+    {
+      "source": "知识",
+      "target": "命运",
+      "type": "changes"
+    },
+    {
+      "source": "教育",
+      "target": "未来",
+      "type": "changes"
+    },
+    {
+      "source": "民国女子",
+      "target": "教育家",
+      "type": "wishes_to_become"
+    },
+    {
+      "source": "民国女子",
+      "target": "中国教育事业",
+      "type": "wishes_to_contribute_to"
+    },
+    {
+      "source": "民国女子",
+      "target": "坚持",
+      "type": "demonstrates"
+    },
+    {
+      "source": "民国女子",
+      "target": "梦想",
+      "type": "pursues"
+    },
+    {
+      "source": "民国女子",
+      "target": "价值",
+      "type": "realizes"
+    },
+    {
+      "source": "民国女子",
+      "target": "杰出",
+      "type": "wishes_to_become"
+    },
+    {
+      "source": "民国女子",
+      "target": "影响",
+      "type": "wishes_to_have"
+    },
+    {
+      "source": "女性",
+      "target": "半边天",
+      "type": "can_support"
+    },
+    {
+      "source": "女性",
+      "target": "辉煌",
+      "type": "can_create"
+    },
+    {
+      "source": "民国女子",
+      "target": "先进",
+      "type": "wishes_to_become"
+    },
+    {
+      "source": "民国女子",
+      "target": "引领",
+      "type": "wishes_to_become"
+    },
+    {
+      "source": "民国",
+      "target": "女子",
+      "type": "is_setting_for"
+    },
+    {
+      "source": "她",
+      "target": "民国",
+      "type": "travels_to"
+    },
+    {
+      "source": "她",
+      "target": "自由",
+      "type": "seeks"
+    },
+    {
+      "source": "她",
+      "target": "努力",
+      "type": "will"
+    },
+    {
+      "source": "她",
+      "target": "勇敢",
+      "type": "will"
+    },
+    {
+      "source": "她",
+      "target": "改变",
+      "type": "will"
+    },
+    {
+      "source": "她",
+      "target": "成长",
+      "type": "will"
+    },
+    {
+      "source": "她",
+      "target": "成为",
+      "type": "will"
+    },
+    {
+      "source": "她",
+      "target": "自己想要成为的人",
+      "type": "will"
+    },
+    {
+      "source": "她",
+      "target": "风姿",
+      "type": "has"
+    },
+    {
+      "source": "她",
+      "target": "坚韧",
+      "type": "has"
+    },
+    {
+      "source": "她",
+      "target": "智慧",
+      "type": "has"
+    },
+    {
+      "source": "她",
+      "target": "幸福",
+      "type": "seeks"
+    },
+    {
+      "source": "她",
+      "target": "爱情",
+      "type": "seeks"
+    },
+    {
+      "source": "她",
+      "target": "伴侣",
+      "type": "hopes_to_find"
+    },
+    {
+      "source": "她",
+      "target": "理想",
+      "type": "has"
+    },
+    {
+      "source": "她",
+      "target": "追求",
+      "type": "has"
+    },
+    {
+      "source": "她",
+      "target": "国家",
+      "type": "wishes_to_contribute_to"
+    },
+    {
+      "source": "她",
+      "target": "民族",
+      "type": "wishes_to_contribute_to"
+    },
+    {
+      "source": "她",
+      "target": "未来",
+      "type": "believes_in_better"
+    },
+    {
+      "source": "她",
+      "target": "明天",
+      "type": "believes_in_more_beautiful"
+    },
+    {
+      "source": "她",
+      "target": "爱情",
+      "type": "has"
+    },
+    {
+      "source": "她",
+      "target": "经历",
+      "type": "has"
+    },
+    {
+      "source": "她",
+      "target": "安宁",
+      "type": "hopes_to_find"
+    },
+    {
+      "source": "她",
+      "target": "归宿",
+      "type": "hopes_to_find"
+    },
+    {
+      "source": "她",
+      "target": "坚强",
+      "type": "has"
+    },
+    {
+      "source": "她",
+      "target": "温柔",
+      "type": "has"
+    },
+    {
+      "source": "她",
+      "target": "心爱的人",
+      "type": "wishes_to_be_with_for_life"
+    },
+    {
+      "source": "她",
+      "target": "思考",
+      "type": "has"
+    },
+    {
+      "source": "她",
+      "target": "感悟",
+      "type": "has"
+    },
+    {
+      "source": "她",
+      "target": "社会",
+      "type": "wishes_to_contribute_to"
+    },
+    {
+      "source": "她",
+      "target": "时代",
+      "type": "wishes_to_bring_change_to"
+    },
+    {
+      "source": "知识",
+      "target": "命运",
+      "type": "changes"
+    },
+    {
+      "source": "教育",
+      "target": "未来",
+      "type": "changes"
+    },
+    {
+      "source": "她",
+      "target": "教育家",
+      "type": "hopes_to_become"
+    },
+    {
+      "source": "她",
+      "target": "中国教育事业",
+      "type": "hopes_to_contribute_to"
+    },
+    {
+      "source": "她",
+      "target": "坚持",
+      "type": "has"
+    },
+    {
+      "source": "她",
+      "target": "梦想",
+      "type": "has"
+    },
+    {
+      "source": "她",
+      "target": "梦想",
+      "type": "is_pursuing"
+    },
+    {
+      "source": "她",
+      "target": "价值",
+      "type": "has_realized"
+    },
+    {
+      "source": "她",
+      "target": "杰出",
+      "type": "hopes_to_become"
+    },
+    {
+      "source": "她",
+      "target": "影响",
+      "type": "hopes_to_have"
+    },
+    {
+      "source": "女性",
+      "target": "半边天",
+      "type": "can_support"
+    },
+    {
+      "source": "女性",
+      "target": "辉煌",
+      "type": "can_create"
+    },
+    {
+      "source": "她",
+      "target": "先进",
+      "type": "hopes_to_become"
+    },
+    {
+      "source": "她",
+      "target": "引领",
+      "type": "hopes_to_become"
+    }
+  ],
+  "hierarchy": {
+    "main_topics": [
+      "Protagonist's Journey of Freedom",
+      "Character Development and Aspirations",
+      "Role of Women in the Republic of China Era",
+      "Social and National Contributions"
+    ],
+    "structure": "The document is structured into chapters, with each chapter elaborating on the protagonist's experiences, thoughts, and aspirations within the Republic of China setting. There is a strong thematic repetition throughout the chapters, focusing on the protagonist's quest for freedom, personal growth, and desire to contribute to society and nation."
+  }
+}

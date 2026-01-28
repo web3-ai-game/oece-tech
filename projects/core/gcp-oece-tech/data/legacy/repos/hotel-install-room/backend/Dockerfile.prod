@@ -1,0 +1,26 @@
+# Backend Production Dockerfile (Google Cloud Ready)
+FROM node:18-alpine AS builder
+
+WORKDIR /app
+
+# 复制package文件
+COPY package*.json ./
+
+# 安装所有依赖
+RUN npm ci --only=production
+
+# 复制源代码
+COPY . .
+
+# 生产环境优化
+ENV NODE_ENV=production
+
+# 暴露端口
+EXPOSE 8080
+
+# 健康检查
+HEALTHCHECK --interval=30s --timeout=3s --start-period=5s --retries=3 \
+  CMD curl -f http://localhost:8080/health || exit 1
+
+# 启动应用
+CMD ["npm", "start"]

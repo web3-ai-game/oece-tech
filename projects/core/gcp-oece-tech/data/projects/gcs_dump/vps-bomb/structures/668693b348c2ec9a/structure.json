@@ -1,0 +1,850 @@
+{
+  "propositions": [
+    {
+      "id": "1",
+      "text": "The story is titled \"Ghost Blows Out the Light Prequel: The Golden Coffin Beast\".",
+      "level": 1
+    },
+    {
+      "id": "1.1",
+      "text": "The author is Tianxia Bachang.",
+      "level": 2
+    },
+    {
+      "id": "2",
+      "text": "Chapter 1 is titled \"Dog Butcher Man\".",
+      "level": 1
+    },
+    {
+      "id": "2.1",
+      "text": "The village is called Jin Guan Village.",
+      "level": 2
+    },
+    {
+      "id": "2.1.1",
+      "text": "The village got its name because historically, imperial coffins were called 'Zi Gong' and noble consorts' coffins were called 'Jin Guan' (Golden Coffin).",
+      "level": 3
+    },
+    {
+      "id": "2.2",
+      "text": "A legend tells of a favored consort who offended the Empress Dowager and was forced to death.",
+      "level": 2
+    },
+    {
+      "id": "2.2.1",
+      "text": "To appease her vengeful spirit, a tomb was built for her far away.",
+      "level": 3
+    },
+    {
+      "id": "2.2.2",
+      "text": "Before burial, her golden coffin was temporarily placed in an ancient temple in the village.",
+      "level": 3
+    },
+    {
+      "id": "2.2.3",
+      "text": "Subsequently, both the village and the temple were renamed Jin Guan Village and Jin Guan Temple.",
+      "level": 3
+    },
+    {
+      "id": "2.3",
+      "text": "The truth of this legend is uncertain, even to the oldest villagers.",
+      "level": 2
+    },
+    {
+      "id": "2.4",
+      "text": "The location of the ancient tomb is unknown as the burial mound has long since flattened.",
+      "level": 2
+    },
+    {
+      "id": "2.5",
+      "text": "Evidence of this past event remains in the village name and the dilapidated temple.",
+      "level": 2
+    },
+    {
+      "id": "3",
+      "text": "In the late Qing Dynasty, the Taiping Rebellion broke out.",
+      "level": 1
+    },
+    {
+      "id": "3.1",
+      "text": "The rebellion, led by Hong Xiuquan, originated in Guangdong and Guangxi.",
+      "level": 2
+    },
+    {
+      "id": "3.2",
+      "text": "It was also known as the 'Yue Kou Rebellion' (Rebellion of Southern Bandits).",
+      "level": 2
+    },
+    {
+      "id": "4",
+      "text": "The war lasted nearly twenty years, severely affecting the people of Jin Guan Village.",
+      "level": 1
+    },
+    {
+      "id": "4.1",
+      "text": "Battles between government troops and rebels resulted in widespread death.",
+      "level": 2
+    },
+    {
+      "id": "4.2",
+      "text": "Unclaimed corpses were left in the wilderness for carrion birds and wild dogs.",
+      "level": 2
+    },
+    {
+      "id": "5",
+      "text": "Even domestic animals like pigs and dogs in the village fed on the dead.",
+      "level": 1
+    },
+    {
+      "id": "5.1",
+      "text": "Pigs that ate human flesh became abnormally fat and fierce.",
+      "level": 2
+    },
+    {
+      "id": "5.2",
+      "text": "People who knew this avoided eating pork from such animals.",
+      "level": 2
+    },
+    {
+      "id": "6",
+      "text": "There was an orphan in Jin Guan Village named Zhang San.",
+      "level": 1
+    },
+    {
+      "id": "6.1",
+      "text": "He was called 'Zhang Xiao Bian Er' (Little Braided Zhang) due to his sparse, yellow hair and a short braid tied with straw.",
+      "level": 2
+    },
+    {
+      "id": "6.2",
+      "text": "He was so poor he lived in the dilapidated Jin Guan Temple.",
+      "level": 2
+    },
+    {
+      "id": "6.3",
+      "text": "He made a living by doing odd jobs for villagers.",
+      "level": 2
+    },
+    {
+      "id": "6.4",
+      "text": "He briefly apprenticed as a coffin maker and studied with a fortune teller, but could not complete either.",
+      "level": 2
+    },
+    {
+      "id": "6.5",
+      "text": "He resorted to petty theft to survive when hungry.",
+      "level": 2
+    },
+    {
+      "id": "6.6",
+      "text": "Despite his circumstances, he felt ashamed of his actions due to his ancestry.",
+      "level": 2
+    },
+    {
+      "id": "7",
+      "text": "One night, Zhang Xiao Bian Er, driven by hunger, decided to steal a chicken.",
+      "level": 1
+    },
+    {
+      "id": "7.1",
+      "text": "He targeted Wang Widow's house, which had no men or dogs.",
+      "level": 2
+    },
+    {
+      "id": "7.2",
+      "text": "He possessed a unique skill for stealing chickens without causing a disturbance.",
+      "level": 2
+    },
+    {
+      "id": "7.3",
+      "text": "He attempted to steal a hen but accidentally dropped it.",
+      "level": 2
+    },
+    {
+      "id": "7.4",
+      "text": "The hen's commotion alerted Wang Widow, who threw a chamber pot at him.",
+      "level": 2
+    },
+    {
+      "id": "7.5",
+      "text": "Fearing retribution, Zhang Xiao Bian Er fled the village.",
+      "level": 2
+    },
+    {
+      "id": "7.6",
+      "text": "His escape caused a commotion, leading villagers to believe bandits had attacked.",
+      "level": 2
+    },
+    {
+      "id": "8",
+      "text": "Zhang Xiao Bian Er found himself in the village graveyard.",
+      "level": 1
+    },
+    {
+      "id": "8.1",
+      "text": "The graveyard was filled with recent and old graves, some bearing signs of recent conflict in the area.",
+      "level": 2
+    },
+    {
+      "id": "8.2",
+      "text": "He was initially fearful but accustomed to danger.",
+      "level": 2
+    },
+    {
+      "id": "9",
+      "text": "He heard a banging sound from a fresh grave.",
+      "level": 1
+    },
+    {
+      "id": "9.1",
+      "text": "He suspected grave robbers.",
+      "level": 2
+    },
+    {
+      "id": "9.2",
+      "text": "A bloody, red-haired creature with a large tumor on its forehead emerged from the grave.",
+      "level": 2
+    },
+    {
+      "id": "9.3",
+      "text": "This creature was a type of wild dog that ate corpses.",
+      "level": 2
+    },
+    {
+      "id": "9.4",
+      "text": "These dogs could break open coffins and were dangerous to humans.",
+      "level": 2
+    },
+    {
+      "id": "9.5",
+      "text": "Zhang Xiao Bian Er fled in terror.",
+      "level": 2
+    },
+    {
+      "id": "10",
+      "text": "Chapter 2 is titled \"Ghost Chokes Neck\".",
+      "level": 1
+    },
+    {
+      "id": "10.1",
+      "text": "Zhang Xiao Bian Er, having failed to steal a chicken and stumbled into the graveyard, disturbed a corpse-eating wild dog.",
+      "level": 2
+    },
+    {
+      "id": "10.2",
+      "text": "The dog emerged from the grave and pursued Zhang Xiao Bian Er.",
+      "level": 2
+    },
+    {
+      "id": "10.3",
+      "text": "Zhang Xiao Bian Er managed to evade the dog by running through the graves.",
+      "level": 2
+    },
+    {
+      "id": "10.4",
+      "text": "The dog then jumped onto a grave mound to attack him.",
+      "level": 2
+    },
+    {
+      "id": "10.5",
+      "text": "Zhang Xiao Bian Er feigned an attempt to pick up a stick, a tactic against dogs.",
+      "level": 2
+    },
+    {
+      "id": "10.6",
+      "text": "However, the dog attacked him, and they both fell into a crevice in the grave mound.",
+      "level": 2
+    },
+    {
+      "id": "10.7",
+      "text": "The dog became trapped in the narrow crevice, while Zhang Xiao Bian Er escaped.",
+      "level": 2
+    },
+    {
+      "id": "11",
+      "text": "Zhang Xiao Bian Er found himself in a dark underground space and saw a faint light.",
+      "level": 1
+    },
+    {
+      "id": "11.1",
+      "text": "He reached a stone wall with a crack, revealing a stone hall.",
+      "level": 2
+    },
+    {
+      "id": "11.2",
+      "text": "Inside the hall, lit by a dim 'life lamp', he found a stone platform with a young woman's corpse.",
+      "level": 2
+    },
+    {
+      "id": "11.3",
+      "text": "The corpse was richly adorned, suggesting it was of high status.",
+      "level": 2
+    },
+    {
+      "id": "11.4",
+      "text": "He also saw peculiar paper figures and animals, and a pool of clear water.",
+      "level": 2
+    },
+    {
+      "id": "11.5",
+      "text": "Driven by hunger, he drank the water and then plundered the corpse's jewelry and clothes.",
+      "level": 2
+    },
+    {
+      "id": "11.6",
+      "text": "A large cat emerged from a dark corner and began to cry mournfully.",
+      "level": 2
+    },
+    {
+      "id": "11.7",
+      "text": "Zhang Xiao Bian Er, thinking it was a demon cat, killed it and decided to roast it.",
+      "level": 2
+    },
+    {
+      "id": "11.8",
+      "text": "As he was roasting the cat, a ghostly voice from behind asked about the cat and what he was cooking.",
+      "level": 2
+    },
+    {
+      "id": "11.9",
+      "text": "He lied, claiming he was roasting chicken.",
+      "level": 2
+    },
+    {
+      "id": "12",
+      "text": "Chapter 3 is titled \"Underground Palace Liquid\".",
+      "level": 1
+    },
+    {
+      "id": "12.1",
+      "text": "Zhang Xiao Bian Er's actions in the tomb angered a vengeful spirit.",
+      "level": 2
+    },
+    {
+      "id": "12.2",
+      "text": "The spirit, identified as a ghost, choked him.",
+      "level": 2
+    },
+    {
+      "id": "12.3",
+      "text": "Suddenly, an explosion broke through the stone wall, and Zhang Xiao Bian Er was freed.",
+      "level": 2
+    },
+    {
+      "id": "12.4",
+      "text": "Two grave robbers had broken into the tomb.",
+      "level": 2
+    },
+    {
+      "id": "12.5",
+      "text": "Zhang Xiao Bian Er feigned death to avoid being discovered by the robbers.",
+      "level": 2
+    },
+    {
+      "id": "13",
+      "text": "The grave robbers found the female corpse, surprised by its preservation and the lack of a coffin or grave goods.",
+      "level": 1
+    },
+    {
+      "id": "13.1",
+      "text": "They stripped the corpse of its remaining clothes.",
+      "level": 2
+    },
+    {
+      "id": "13.2",
+      "text": "They were overcome by lust and decided to defile the corpse.",
+      "level": 2
+    },
+    {
+      "id": "13.3",
+      "text": "After drinking from the 'Jade Pool' (presumably the water Zhang Xiao Bian Er drank), they began to attack the corpse.",
+      "level": 2
+    },
+    {
+      "id": "13.4",
+      "text": "However, they suddenly turned on each other and committed suicide, still with expressions of lust.",
+      "level": 2
+    },
+    {
+      "id": "14",
+      "text": "The narrator explains that the 'Jade Pool' was a deadly trap that drove people to madness and death.",
+      "level": 1
+    },
+    {
+      "id": "15",
+      "text": "Zhang Xiao Bian Er, realizing the danger of the water, tried to escape with the looted items.",
+      "level": 1
+    },
+    {
+      "id": "15.1",
+      "text": "He discovered he had inadvertently picked up the dead cat instead of the loot.",
+      "level": 2
+    },
+    {
+      "id": "15.2",
+      "text": "A mournful cat cry was heard.",
+      "level": 2
+    },
+    {
+      "id": "16",
+      "text": "Chapter 4 is titled \"Hundred Cats Bewitching Map\".",
+      "level": 1
+    },
+    {
+      "id": "16.1",
+      "text": "Zhang Xiao Bian Er was terrified by the cat's cry and felt trapped.",
+      "level": 2
+    },
+    {
+      "id": "16.2",
+      "text": "The cat jumped onto his head and shoulders.",
+      "level": 2
+    },
+    {
+      "id": "16.3",
+      "text": "An old man, appearing to be a ghost, emerged from a dark corner of the tomb.",
+      "level": 2
+    },
+    {
+      "id": "16.4",
+      "text": "The old man, identified as 'Old Ghost in the Woods', showed no emotion.",
+      "level": 2
+    },
+    {
+      "id": "16.5",
+      "text": "He offered Zhang Xiao Bian Er dry rations from the grave robbers.",
+      "level": 2
+    },
+    {
+      "id": "16.6",
+      "text": "He then revealed a mural on the wall: a 'Hundred Cats Bewitching Map'.",
+      "level": 2
+    },
+    {
+      "id": "16.7",
+      "text": "He challenged Zhang Xiao Bian Er to count the cats accurately, with the threat of being trapped in the tomb forever if he failed.",
+      "level": 2
+    },
+    {
+      "id": "17",
+      "text": "The old man explained the history of the tomb and the noble consort's obsession with cats.",
+      "level": 1
+    },
+    {
+      "id": "17.1",
+      "text": "The consort kept over a hundred cats, and after her death, they were all strangled and buried under the tomb, their vengeful spirits forming the water in the pool.",
+      "level": 2
+    },
+    {
+      "id": "17.2",
+      "text": "The old man claimed to be waiting for someone capable of counting the cats in the mural.",
+      "level": 2
+    },
+    {
+      "id": "18",
+      "text": "Zhang Xiao Bian Er, despite his fear, attempted to count the cats.",
+      "level": 1
+    },
+    {
+      "id": "18.1",
+      "text": "He noticed the cats were arranged in a way that suggested a Nine Palaces formation.",
+      "level": 2
+    },
+    {
+      "id": "18.2",
+      "text": "He recognized it as a protective charm to suppress evil spirits.",
+      "level": 2
+    },
+    {
+      "id": "18.3",
+      "text": "He counted 124 cats.",
+      "level": 2
+    },
+    {
+      "id": "19",
+      "text": "The old man confirmed his count and revealed he could guide Zhang Xiao Bian Er to great wealth.",
+      "level": 1
+    },
+    {
+      "id": "19.1",
+      "text": "He taught Zhang Xiao Bian Er a secret art of distinguishing animals, including cats and dogs, called 'Yun Wu Tong Zai' (Cloud and Object Encyclopedia).",
+      "level": 2
+    },
+    {
+      "id": "19.2",
+      "text": "Zhang Xiao Bian Er was initially disappointed it wasn't a direct path to wealth.",
+      "level": 2
+    },
+    {
+      "id": "19.3",
+      "text": "The old man instructed him to return the consort's jewelry to her corpse.",
+      "level": 2
+    },
+    {
+      "id": "19.4",
+      "text": "He gave Zhang Xiao Bian Er the dry rations and loose change from the grave robbers.",
+      "level": 2
+    },
+    {
+      "id": "20",
+      "text": "The old man then led Zhang Xiao Bian Er out of the tomb and gave him further instructions regarding a mountain called Weng Zhong Mountain.",
+      "level": 1
+    },
+    {
+      "id": "20.1",
+      "text": "He told Zhang Xiao Bian Er that his fortune was about to change and that they would meet again.",
+      "level": 2
+    },
+    {
+      "id": "20.2",
+      "text": "Zhang Xiao Bian Er emerged from the tomb at dawn.",
+      "level": 2
+    },
+    {
+      "id": "21",
+      "text": "Chapter 5 is titled \"Cat Dog Dao\".",
+      "level": 1
+    },
+    {
+      "id": "21.1",
+      "text": "In the tomb, the consort's corpse's fingers began to grow, indicating it was a zombie.",
+      "level": 2
+    },
+    {
+      "id": "21.2",
+      "text": "The old man replaced a jade plug in the corpse's mouth and urged Zhang Xiao Bian Er to finish counting the cats.",
+      "level": 2
+    },
+    {
+      "id": "21.3",
+      "text": "Zhang Xiao Bian Er realized the 'Hundred Cats Bewitching Map' was a powerful charm, a Nine Palaces formation.",
+      "level": 2
+    },
+    {
+      "id": "21.4",
+      "text": "He correctly identified it as a charm to suppress evil spirits.",
+      "level": 2
+    },
+    {
+      "id": "21.5",
+      "text": "He correctly counted 124 cats.",
+      "level": 2
+    },
+    {
+      "id": "21.6",
+      "text": "The old man, 'Old Ghost in the Woods', revealed that he had been waiting for someone with great fortune who could count the cats.",
+      "level": 2
+    },
+    {
+      "id": "21.7",
+      "text": "He offered to guide Zhang Xiao Bian Er to immense wealth.",
+      "level": 2
+    },
+    {
+      "id": "21.8",
+      "text": "Zhang Xiao Bian Er, though initially skeptical, was swayed by the promise of wealth and pledged his loyalty.",
+      "level": 2
+    },
+    {
+      "id": "21.9",
+      "text": "The old man taught him the secret art of 'Yun Wu Tong Zai', which involved discerning the nature of various animals.",
+      "level": 2
+    },
+    {
+      "id": "21.10",
+      "text": "Zhang Xiao Bian Er was disappointed it wasn't a more direct method of acquiring wealth.",
+      "level": 2
+    },
+    {
+      "id": "21.11",
+      "text": "The old man had ulterior motives, intending to manipulate Zhang Xiao Bian Er.",
+      "level": 2
+    },
+    {
+      "id": "21.12",
+      "text": "The old man returned the jewelry to the consort's corpse and gave Zhang Xiao Bian Er provisions.",
+      "level": 2
+    },
+    {
+      "id": "21.13",
+      "text": "He instructed Zhang Xiao Bian Er to go to Weng Zhong Mountain and await further events.",
+      "level": 2
+    },
+    {
+      "id": "21.14",
+      "text": "Zhang Xiao Bian Er was pushed out of the tomb and found himself outside at dawn.",
+      "level": 2
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Ghost Blows Out the Light Prequel",
+      "frequency": 1,
+      "context": "Title of the document."
+    },
+    {
+      "name": "Tianxia Bachang",
+      "frequency": 1,
+      "context": "Author of the document."
+    },
+    {
+      "name": "Jin Guan Village",
+      "frequency": 6,
+      "context": "The primary setting of the early chapters, named after golden coffins."
+    },
+    {
+      "name": "Golden Coffin",
+      "frequency": 2,
+      "context": "Historical term for a noble consort's coffin, and the origin of the village name."
+    },
+    {
+      "name": "Taiping Rebellion",
+      "frequency": 2,
+      "context": "Historical event that caused widespread suffering and death in the region."
+    },
+    {
+      "name": "Zhang San",
+      "frequency": 12,
+      "context": "The protagonist, an orphan also known as Zhang Xiao Bian Er."
+    },
+    {
+      "name": "Zhang Xiao Bian Er",
+      "frequency": 7,
+      "context": "Another name for Zhang San, referring to his braided hair."
+    },
+    {
+      "name": "Jin Guan Temple",
+      "frequency": 2,
+      "context": "The dilapidated temple where Zhang Xiao Bian Er lived."
+    },
+    {
+      "name": "Stealing Chickens",
+      "frequency": 3,
+      "context": "Zhang Xiao Bian Er's attempt to steal food due to hunger."
+    },
+    {
+      "name": "Wang Widow",
+      "frequency": 4,
+      "context": "The owner of the chicken Zhang Xiao Bian Er tried to steal."
+    },
+    {
+      "name": "Graveyard",
+      "frequency": 7,
+      "context": "The setting where Zhang Xiao Bian Er fled and encountered supernatural events."
+    },
+    {
+      "name": "Corpse-eating wild dog",
+      "frequency": 6,
+      "context": "A monstrous creature encountered in the graveyard."
+    },
+    {
+      "name": "Tomb",
+      "frequency": 15,
+      "context": "The primary setting for the latter half of the excerpt, containing a noble consort's burial."
+    },
+    {
+      "name": "Noble Consort",
+      "frequency": 7,
+      "context": "The deceased inhabitant of the tomb, whose story is central to the lore."
+    },
+    {
+      "name": "Life Lamp",
+      "frequency": 3,
+      "context": "A dim lamp found in the tomb, believed to be connected to the spirit."
+    },
+    {
+      "name": "Jade Pool",
+      "frequency": 3,
+      "context": "A pool of water in the tomb that causes madness and death."
+    },
+    {
+      "name": "Grave Robbers",
+      "frequency": 5,
+      "context": "Two characters who break into the tomb, leading to their demise."
+    },
+    {
+      "name": "Old Ghost in the Woods",
+      "frequency": 7,
+      "context": "A mysterious, possibly supernatural old man who guides Zhang Xiao Bian Er."
+    },
+    {
+      "name": "Hundred Cats Bewitching Map",
+      "frequency": 6,
+      "context": "A mural in the tomb that holds a significant secret and a test."
+    },
+    {
+      "name": "Nine Palaces Formation",
+      "frequency": 2,
+      "context": "A pattern recognized by Zhang Xiao Bian Er in the cat mural, indicating a protective charm."
+    },
+    {
+      "name": "Secret Art",
+      "frequency": 3,
+      "context": "The 'Yun Wu Tong Zai' taught by the old man."
+    },
+    {
+      "name": "Yun Wu Tong Zai",
+      "frequency": 2,
+      "context": "The specific secret art of discerning animals."
+    },
+    {
+      "name": "Weng Zhong Mountain",
+      "frequency": 1,
+      "context": "A location Zhang Xiao Bian Er is instructed to go to."
+    }
+  ],
+  "relations": [
+    {
+      "source": "Jin Guan Village",
+      "target": "Golden Coffin",
+      "type": "is_named_after"
+    },
+    {
+      "source": "Jin Guan Village",
+      "target": "Jin Guan Temple",
+      "type": "contains"
+    },
+    {
+      "source": "Taiping Rebellion",
+      "target": "Jin Guan Village",
+      "type": "affected"
+    },
+    {
+      "source": "Zhang San",
+      "target": "Zhang Xiao Bian Er",
+      "type": "is_also_known_as"
+    },
+    {
+      "source": "Zhang Xiao Bian Er",
+      "target": "Jin Guan Temple",
+      "type": "lives_in"
+    },
+    {
+      "source": "Zhang Xiao Bian Er",
+      "target": "Stealing Chickens",
+      "type": "attempts"
+    },
+    {
+      "source": "Wang Widow",
+      "target": "Stealing Chickens",
+      "type": "target_of"
+    },
+    {
+      "source": "Zhang Xiao Bian Er",
+      "target": "Graveyard",
+      "type": "flees_to"
+    },
+    {
+      "source": "Graveyard",
+      "target": "Corpse-eating wild dog",
+      "type": "inhabited_by"
+    },
+    {
+      "source": "Corpse-eating wild dog",
+      "target": "Zhang Xiao Bian Er",
+      "type": "pursues"
+    },
+    {
+      "source": "Zhang Xiao Bian Er",
+      "target": "Tomb",
+      "type": "enters"
+    },
+    {
+      "source": "Tomb",
+      "target": "Noble Consort",
+      "type": "burial_place_of"
+    },
+    {
+      "source": "Noble Consort",
+      "target": "Cats",
+      "type": "obsessed_with"
+    },
+    {
+      "source": "Tomb",
+      "target": "Life Lamp",
+      "type": "contains"
+    },
+    {
+      "source": "Tomb",
+      "target": "Jade Pool",
+      "type": "contains"
+    },
+    {
+      "source": "Jade Pool",
+      "target": "Madness",
+      "type": "causes"
+    },
+    {
+      "source": "Tomb",
+      "target": "Grave Robbers",
+      "type": "invaded_by"
+    },
+    {
+      "source": "Grave Robbers",
+      "target": "Noble Consort",
+      "type": "attempt_to_defile"
+    },
+    {
+      "source": "Tomb",
+      "target": "Old Ghost in the Woods",
+      "type": "inhabited_by"
+    },
+    {
+      "source": "Old Ghost in the Woods",
+      "target": "Zhang Xiao Bian Er",
+      "type": "guides"
+    },
+    {
+      "source": "Tomb",
+      "target": "Hundred Cats Bewitching Map",
+      "type": "contains"
+    },
+    {
+      "source": "Hundred Cats Bewitching Map",
+      "target": "Nine Palaces Formation",
+      "type": "is_a"
+    },
+    {
+      "source": "Hundred Cats Bewitching Map",
+      "target": "Protective Charm",
+      "type": "is_a"
+    },
+    {
+      "source": "Old Ghost in the Woods",
+      "target": "Great Wealth",
+      "type": "promises_to_Zhang_Xiao_Bian_Er"
+    },
+    {
+      "source": "Old Ghost in the Woods",
+      "target": "Secret Art",
+      "type": "teaches_to_Zhang_Xiao_Bian_Er"
+    },
+    {
+      "source": "Secret Art",
+      "target": "Yun Wu Tong Zai",
+      "type": "is_named"
+    },
+    {
+      "source": "Old Ghost in the Woods",
+      "target": "Ulterior Motives",
+      "type": "has"
+    },
+    {
+      "source": "Zhang Xiao Bian Er",
+      "target": "Weng Zhong Mountain",
+      "type": "instructed_to_go_to"
+    }
+  ],
+  "hierarchy": {
+    "main_topics": [
+      "Origin of Jin Guan Village",
+      "The Taiping Rebellion and its aftermath",
+      "Introduction of Zhang Xiao Bian Er",
+      "Encounter in the Graveyard",
+      "Exploration of the Tomb",
+      "The Hundred Cats Bewitching Map and the Old Ghost",
+      "Zhang Xiao Bian Er's Destiny"
+    ],
+    "structure": "The document is structured as a narrative, divided into chapters. It begins with the historical and legendary origins of the setting, introduces the protagonist and his dire circumstances, and then progresses into supernatural encounters and mysteries within a tomb. Each chapter builds upon the previous one, advancing the plot and revealing more about the characters and the world."
+  }
+}

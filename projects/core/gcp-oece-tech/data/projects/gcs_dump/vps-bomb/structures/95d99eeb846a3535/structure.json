@@ -1,0 +1,100 @@
+{
+  "propositions": [
+    {
+      "id": "1",
+      "text": "The Shan family dynamics and legacy",
+      "level": 1
+    },
+    {
+      "id": "1.1",
+      "text": "Shan老爷子's high expectations for Shan family descendants",
+      "level": 2
+    },
+    {
+      "id": "1.2",
+      "text": "Shan公子的 exceptional talent and leadership in the family",
+      "level": 2
+    },
+    {
+      "id": "1.3",
+      "text": "Shan公子's management of the ancestral estate",
+      "level": 2
+    },
+    {
+      "id": "1.4",
+      "text": "Shan公子的 personal habits and reflections in the secret room",
+      "level": 2
+    },
+    {
+      "id": "2",
+      "text": "Shan公子的 unique character and upbringing",
+      "level": 1
+    },
+    {
+      "id": "2.1",
+      "text": "Shan公子's distinctiveness from childhood",
+      "level": 2
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Shan公子",
+      "frequency": 10,
+      "context": "Central character with exceptional talent and leadership"
+    },
+    {
+      "name": "Shan老爷子",
+      "frequency": 5,
+      "context": "Patriarch with high hopes for family legacy"
+    },
+    {
+      "name": "Shan Family",
+      "frequency": 6,
+      "context": "Family unit with ancestral estate and legacy concerns"
+    },
+    {
+      "name": "Ancestral Estate",
+      "frequency": 3,
+      "context": "Significant family property managed by Shan公子"
+    },
+    {
+      "name": "Secret Room",
+      "frequency": 2,
+      "context": "Private space for Shan公子的 reflections"
+    }
+  ],
+  "relations": [
+    {
+      "source": "Shan公子",
+      "target": "Shan Family",
+      "type": "part_of"
+    },
+    {
+      "source": "Shan老爷子",
+      "target": "Shan Family",
+      "type": "part_of"
+    },
+    {
+      "source": "Shan公子",
+      "target": "Ancestral Estate",
+      "type": "manages"
+    },
+    {
+      "source": "Shan公子",
+      "target": "Secret Room",
+      "type": "uses"
+    },
+    {
+      "source": "Shan老爷子",
+      "target": "Shan公子",
+      "type": "supports"
+    }
+  ],
+  "hierarchy": {
+    "main_topics": [
+      "Shan Family Legacy",
+      "Shan公子的 Character and Role"
+    ],
+    "structure": "The document is structured into two main sections, focusing on the Shan family legacy and Shan公子的 personal traits and responsibilities."
+  }
+}

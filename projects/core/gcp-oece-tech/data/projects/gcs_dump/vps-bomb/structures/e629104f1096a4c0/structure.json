@@ -1,0 +1,91 @@
+{
+  "propositions": [
+    {
+      "id": "1",
+      "text": "Water is the protagonist, a young woman of extraordinary intelligence and mysterious lineage, destined for an extraordinary life.",
+      "level": 1
+    },
+    {
+      "id": "1.1",
+      "text": "Water struggles with her predetermined fate, yearning for a simple life despite her family's expectations.",
+      "level": 2
+    },
+    {
+      "id": "1.2",
+      "text": "A sudden event on her birthday marks a turning point, altering her destiny.",
+      "level": 2
+    },
+    {
+      "id": "2",
+      "text": "Water discovers hidden powers within herself during a life-threatening encounter with assassins.",
+      "level": 1
+    },
+    {
+      "id": "2.1",
+      "text": "She exhibits calmness and agility, revealing untapped potential and strength.",
+      "level": 2
+    },
+    {
+      "id": "3",
+      "text": "Water's journey involves complex relationships and challenges as she evolves into the underworld queen.",
+      "level": 1
+    },
+    {
+      "id": "3.1",
+      "text": "Her interactions with key figures like a cold assassin, a mysterious woman, and a loyal guard shape her path.",
+      "level": 2
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Water",
+      "frequency": 10,
+      "context": "Protagonist with mysterious powers and lineage, central to the narrative."
+    },
+    {
+      "name": "Destiny",
+      "frequency": 6,
+      "context": "A recurring theme of predetermined fate versus personal choice."
+    },
+    {
+      "name": "Power",
+      "frequency": 5,
+      "context": "Represents both physical strength and societal influence in the underworld."
+    },
+    {
+      "name": "Family",
+      "frequency": 4,
+      "context": "Water's lineage and the expectations tied to her role in the family."
+    }
+  ],
+  "relations": [
+    {
+      "source": "Water",
+      "target": "Destiny",
+      "type": "struggles_with"
+    },
+    {
+      "source": "Water",
+      "target": "Power",
+      "type": "discovers"
+    },
+    {
+      "source": "Water",
+      "target": "Family",
+      "type": "bound_by"
+    },
+    {
+      "source": "Power",
+      "target": "Destiny",
+      "type": "influences"
+    }
+  ],
+  "hierarchy": {
+    "main_topics": [
+      "Water's Identity and Destiny",
+      "Awakening of Hidden Powers",
+      "Relationships and Challenges"
+    ],
+    "structure": "The document is organized into chapters focusing on Water's personal struggles, pivotal events, and evolving relationships, leading to her transformation into the underworld queen."
+  }
+}

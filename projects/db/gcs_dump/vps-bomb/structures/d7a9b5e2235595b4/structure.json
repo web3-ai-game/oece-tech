@@ -1,0 +1,95 @@
+{
+  "propositions": [
+    {
+      "id": "1",
+      "text": "The document is titled '野鸽子'.",
+      "level": 1
+    },
+    {
+      "id": "1.1",
+      "text": "A URL is provided: http://www.jjwxc.net/onebook.php?novelid=3993290",
+      "level": 2
+    },
+    {
+      "id": "2",
+      "text": "The document has a main section titled '1. 章节'.",
+      "level": 1
+    },
+    {
+      "id": "2.1",
+      "text": "The section '1. 章节' contains multiple sub-sections, each titled '序'.",
+      "level": 2
+    },
+    {
+      "id": "2.1.1",
+      "text": "These sub-sections are numbered sequentially from 1.1 to 1.752...",
+      "level": 3
+    }
+  ],
+  "concepts": [
+    {
+      "name": "野鸽子",
+      "frequency": 1,
+      "context": "The title of the document."
+    },
+    {
+      "name": "URL",
+      "frequency": 1,
+      "context": "A web address provided in the document."
+    },
+    {
+      "name": "章节",
+      "frequency": 1,
+      "context": "A main section in the document, likely meaning 'chapters'."
+    },
+    {
+      "name": "序",
+      "frequency": 752,
+      "context": "Repeated sub-sections within '章节', likely meaning 'preface' or 'introduction'."
+    }
+  ],
+  "relations": [
+    {
+      "source": "野鸽子",
+      "target": "Document",
+      "type": "is_title_of"
+    },
+    {
+      "source": "URL",
+      "target": "Document",
+      "type": "is_provided_in"
+    },
+    {
+      "source": "章节",
+      "target": "Document",
+      "type": "is_section_of"
+    },
+    {
+      "source": "序",
+      "target": "章节",
+      "type": "is_sub-section_of"
+    },
+    {
+      "source": "序",
+      "target": "1.1",
+      "type": "is_titled"
+    },
+    {
+      "source": "序",
+      "target": "1.2",
+      "type": "is_titled"
+    },
+    {
+      "source": "序",
+      "target": "1.752",
+      "type": "is_titled"
+    }
+  ],
+  "hierarchy": {
+    "main_topics": [
+      "Title",
+      "Sections"
+    ],
+    "structure": "The document has a title, followed by a URL, and then a main section '章节' which is further divided into numerous sequential sub-sections labeled '序'."
+  }
+}

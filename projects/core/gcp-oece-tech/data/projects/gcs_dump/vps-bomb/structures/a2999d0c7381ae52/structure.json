@@ -1,0 +1,3116 @@
+{
+  "propositions": [
+    {
+      "id": "1",
+      "text": "A strategic bomber, a \"Halifax\", belonging to the Indian Air Force's Sixth Squadron, is flying over the Indo-Burma theater of World War II.",
+      "level": 1
+    },
+    {
+      "id": "1.1",
+      "text": "This is a secret bombing mission with four similar planes flying around the Halifax.",
+      "level": 2
+    },
+    {
+      "id": "1.1.1",
+      "text": "The planes do not yet know their target.",
+      "level": 3
+    },
+    {
+      "id": "2",
+      "text": "Acha is the bombardier on the Halifax, responsible for aiming and dropping bombs.",
+      "level": 1
+    },
+    {
+      "id": "2.1",
+      "text": "He is at his post, looking through the sight at the endless virgin jungle below.",
+      "level": 2
+    },
+    {
+      "id": "3",
+      "text": "The area below the plane should be the Hukawng Valley, the most mysterious place in Burma.",
+      "level": 1
+    },
+    {
+      "id": "3.1",
+      "text": "It is said that this ancient and unchanging rainforest is a place where Burmese gods punish sinners.",
+      "level": 2
+    },
+    {
+      "id": "3.1.1",
+      "text": "It is humid, hot, and full of venomous snakes and giant insects.",
+      "level": 3
+    },
+    {
+      "id": "4",
+      "text": "Acha finds it strange that they have been flying over the rainforest for an hour.",
+      "level": 1
+    },
+    {
+      "id": "4.1",
+      "text": "Based on his experience, the dense forest suggests they are still half an hour away from the Chinese front line.",
+      "level": 2
+    },
+    {
+      "id": "4.1.1",
+      "text": "He questions if their target is the rainforest itself, not the war zone.",
+      "level": 3
+    },
+    {
+      "id": "5",
+      "text": "He wonders if this is another \"Harvard Way Bombing\".",
+      "level": 1
+    },
+    {
+      "id": "5.1",
+      "text": "Harvard Way Bombing is a name given by his British captain for bombing missions with very strange targets.",
+      "level": 2
+    },
+    {
+      "id": "5.1.1",
+      "text": "These targets include places with no human habitation, calm open seas, and other locations of no strategic value.",
+      "level": 3
+    },
+    {
+      "id": "5.1.2",
+      "text": "The strangest instance was bombing a cemetery at the border of Burma and India.",
+      "level": 3
+    },
+    {
+      "id": "6",
+      "text": "Acha likens these aimless bombing missions to a child losing interest in a picnic and stopping to eat anywhere.",
+      "level": 1
+    },
+    {
+      "id": "6.1",
+      "text": "However, he knows that war is not child's play.",
+      "level": 2
+    },
+    {
+      "id": "6.1.1",
+      "text": "He acknowledges that dropping hundreds of tons of bombs must have erased something, regardless of its strategic value.",
+      "level": 3
+    },
+    {
+      "id": "7",
+      "text": "A piercing buzzing sound interrupts Acha's thoughts, bringing his attention back to the sight.",
+      "level": 1
+    },
+    {
+      "id": "7.1",
+      "text": "Whether it's Harvard Way or not, and whether there's anything below or not, the red light means bombing is unavoidable.",
+      "level": 2
+    },
+    {
+      "id": "8",
+      "text": "Two minutes later, Acha presses the operating handle, and massive bombs fall one after another.",
+      "level": 1
+    },
+    {
+      "id": "8.1",
+      "text": "Their tail fins open, and within half a minute, the ancient rainforest trees below are engulfed in flames.",
+      "level": 2
+    },
+    {
+      "id": "9",
+      "text": "Acha watches through the sight, holding his breath.",
+      "level": 1
+    },
+    {
+      "id": "9.1",
+      "text": "He has witnessed the fiery demise of countless people, but this time it's just trees.",
+      "level": 2
+    },
+    {
+      "id": "9.1.1",
+      "text": "He feels a strange resistance and a sense that secrets are being buried along with the destruction of the trees.",
+      "level": 3
+    },
+    {
+      "id": "10",
+      "text": "Suddenly, in a flash, he feels he saw something strange in the sea of flames.",
+      "level": 1
+    },
+    {
+      "id": "10.1",
+      "text": "A peculiar sensation arises, making Acha feel suffocated.",
+      "level": 2
+    },
+    {
+      "id": "10.1.1",
+      "text": "He immediately adjusts the sight to zoom in on the spot where he saw something.",
+      "level": 3
+    },
+    {
+      "id": "11",
+      "text": "He is stunned.",
+      "level": 1
+    },
+    {
+      "id": "12",
+      "text": "He sees something appearing beneath the blown-open tree canopy.",
+      "level": 1
+    },
+    {
+      "id": "12.1",
+      "text": "He questions how this is possible and how it could have appeared there.",
+      "level": 2
+    },
+    {
+      "id": "13",
+      "text": "August 10, 1943, North Burma, Hukawng Valley.",
+      "level": 1
+    },
+    {
+      "id": "14",
+      "text": "Heavy rain.",
+      "level": 1
+    },
+    {
+      "id": "15",
+      "text": "The dim primeval forest becomes even more damp and muddy under the pouring rain.",
+      "level": 1
+    },
+    {
+      "id": "15.1",
+      "text": "If one is not careful, countless large leeches in the puddles will crawl into their clothes.",
+      "level": 2
+    },
+    {
+      "id": "15.1.1",
+      "text": "Initially unnoticed, they will cause bleeding when clothes are removed.",
+      "level": 3
+    },
+    {
+      "id": "16",
+      "text": "Zhao Bankuo looks at the wriggling purplish-black leeches in the puddle at his feet with disgust.",
+      "level": 1
+    },
+    {
+      "id": "16.1",
+      "text": "However, he is wearing mid-calf American leather boots, thick leggings, and his inner military uniform is specially treated to be tight.",
+      "level": 2
+    },
+    {
+      "id": "16.1.1",
+      "text": "Combined with a close-fitting raincoat on the outside, he doesn't have to worry too much about these little bloodsuckers getting to him.",
+      "level": 3
+    },
+    {
+      "id": "16.1.2",
+      "text": "Even so, he dares not stand still, only able to move forward in the rain, groping through the seemingly endless, dark jungle.",
+      "level": 3
+    },
+    {
+      "id": "17",
+      "text": "Zhao Bankuo feels a bit depressed.",
+      "level": 1
+    },
+    {
+      "id": "18",
+      "text": "A week ago, he departed from the Lamga training camp with this unit and arrived here.",
+      "level": 1
+    },
+    {
+      "id": "18.1",
+      "text": "They have endured hardship, rushing through this rainforest for two days and two nights without a moment's rest, not even having a chance to talk to each other.",
+      "level": 2
+    },
+    {
+      "id": "18.1.1",
+      "text": "Enduring this hardship is not a big deal, but to have been struggling in the rain with grim faces for days without fighting a single battle, and without anyone telling him where they were going since receiving the mission, anyone would be frustrated.",
+      "level": 3
+    },
+    {
+      "id": "18.1.2",
+      "text": "What they are doing and where they are going has made Zhao Bankuo feel uneasy.",
+      "level": 3
+    },
+    {
+      "id": "19",
+      "text": "The dense, lush forest has nothing but rain and leeches; it's a gray, endless expanse.",
+      "level": 1
+    },
+    {
+      "id": "19.1",
+      "text": "Zhao Bankuo wipes his face, spits out the rainwater, adjusts his Thompson submachine gun on his chest, lowers his head, and follows the teammate in front of him, pushing aside branches that obstruct his vision as they move forward.",
+      "level": 2
+    },
+    {
+      "id": "20",
+      "text": "There are ten members in this mission team.",
+      "level": 1
+    },
+    {
+      "id": "20.1",
+      "text": "Apart from Captain Liao Guoren, Zhao Bankuo doesn't know any of them, which is another important reason for his unease.",
+      "level": 2
+    },
+    {
+      "id": "21",
+      "text": "Before transferring from Assam, India, to Lamga, he was surrounded by veterans of the Third Regiment who had fought for over a year.",
+      "level": 1
+    },
+    {
+      "id": "21.1",
+      "text": "Most of those soldiers were from Henan, and they were very familiar with each other.",
+      "level": 2
+    },
+    {
+      "id": "21.1.1",
+      "text": "In battle, as long as a shot was fired, who would shoot first, who would shoot second, where to shoot, how to shoot – there was no need for words; their tacit understanding was as if they were born from the same womb.",
+      "level": 3
+    },
+    {
+      "id": "21.1.2",
+      "text": "Now, all these unfamiliar faces around him are strangers.",
+      "level": 3
+    },
+    {
+      "id": "21.1.3",
+      "text": "If they truly encounter the Japanese, they might not even be able to form a coherent formation to escape.",
+      "level": 3
+    },
+    {
+      "id": "22",
+      "text": "As a veteran, he understands how important the habits and tacit understanding between teammates are, especially on the battlefield.",
+      "level": 1
+    },
+    {
+      "id": "22.1",
+      "text": "A little more experience in this area could save your life.",
+      "level": 2
+    },
+    {
+      "id": "23",
+      "text": "And until now, they have not encountered any combat, meaning their experience in coordination is zero.",
+      "level": 1
+    },
+    {
+      "id": "24",
+      "text": "Suddenly, a series of rapid bird calls comes from ahead.",
+      "level": 1
+    },
+    {
+      "id": "24.1",
+      "text": "The teammates around immediately stop and signal to the people behind to be on alert.",
+      "level": 2
+    },
+    {
+      "id": "24.1.1",
+      "text": "Zhao Bankuo knows that the bird call is from the scout, imitating a species of Pica Pica parrot unique to the primeval forest.",
+      "level": 3
+    },
+    {
+      "id": "24.1.2",
+      "text": "The call lasts for less than a minute, three short and two long sounds, only a few simple syllables.",
+      "level": 3
+    },
+    {
+      "id": "24.1.3",
+      "text": "This kind of call definitely means something has happened.",
+      "level": 3
+    },
+    {
+      "id": "25",
+      "text": "He buries himself behind a clump of leaves, pulls back the bolt of his gun, and stares intently in the direction of the bird call, fully alert.",
+      "level": 1
+    },
+    {
+      "id": "25.1",
+      "text": "In the surrounding bushes, his teammates are scattered on the ground, no one has time to think about leeches.",
+      "level": 2
+    },
+    {
+      "id": "25.1.1",
+      "text": "They have been in the 'Savage Mountain' for days, and this is the first time they have received a warning from the scout; everyone is nervous.",
+      "level": 3
+    },
+    {
+      "id": "26",
+      "text": "Zhao Bankuo understands that those who were urgently summoned by the military headquarters to participate in this operation, like himself, may not all be brave, but they must all be skilled.",
+      "level": 1
+    },
+    {
+      "id": "26.1",
+      "text": "However, even so, venturing deep into the 'Savage Mountain' with a group of unfamiliar comrades to carry out this mysterious mission, the extent of their coordination if they were to engage the Japanese, Zhao Bankuo has no confidence in, making him anxious.",
+      "level": 2
+    },
+    {
+      "id": "27",
+      "text": "Crouching on the ground, Zhao Bankuo cannot see what is ahead.",
+      "level": 1
+    },
+    {
+      "id": "27.1",
+      "text": "From the direction of the sound, the scout should be in the trees.",
+      "level": 2
+    },
+    {
+      "id": "27.1.1",
+      "text": "With such heavy rain, the trees must be extremely slippery; he doesn't know how that person managed to climb up.",
+      "level": 3
+    },
+    {
+      "id": "28",
+      "text": "After the bird call, there is silence.",
+      "level": 1
+    },
+    {
+      "id": "28.1",
+      "text": "Zhao Bankuo waits patiently for a while, then sees a movement in the high branches, and a face emerges from a clump of leaves, waving at them.",
+      "level": 2
+    },
+    {
+      "id": "28.1.1",
+      "text": "He hears a low voice from the team ahead say, \"It's nothing.\"",
+      "level": 3
+    },
+    {
+      "id": "28.1.2",
+      "text": "Only then does Zhao Bankuo settle down and stand up, cursing this agile monkey for fooling them.",
+      "level": 3
+    },
+    {
+      "id": "29",
+      "text": "In the Hukawng Valley, considering the precedent of over 40,000 non-combat casualties of the Expeditionary Force over a year ago, neither the Japanese, Americans, nor British are willing to waste military power in such a place.",
+      "level": 1
+    },
+    {
+      "id": "29.1",
+      "text": "British and American aircraft have also conducted numerous aerial reconnaissance missions here.",
+      "level": 2
+    },
+    {
+      "id": "29.1.1",
+      "text": "From a military defense perspective, the possibility of entire companies of Japanese troops in the 'Savage Mountain' can be largely ruled out.",
+      "level": 3
+    },
+    {
+      "id": "29.1.2",
+      "text": "Small-scale skirmishes are also unlikely.",
+      "level": 3
+    },
+    {
+      "id": "29.1.3",
+      "text": "In such a dense rainforest, the probability of two small units encountering each other is like winning the lottery, so Zhao Bankuo never expected to fight any tough battles here.",
+      "level": 3
+    },
+    {
+      "id": "30",
+      "text": "The scout jumps down from the tree, and Zhao Bankuo and the others gather around.",
+      "level": 1
+    },
+    {
+      "id": "30.1",
+      "text": "Before Captain Liao Guoren can ask any questions, the scout says with a cold face, \"Captain, ahead, there are many dead bodies.\"",
+      "level": 2
+    },
+    {
+      "id": "31",
+      "text": "Soldiers who have fought for years have all seen dead bodies.",
+      "level": 1
+    },
+    {
+      "id": "31.1",
+      "text": "But the scout's expression and tone make everyone realize that these dead bodies must be unusual.",
+      "level": 2
+    },
+    {
+      "id": "32",
+      "text": "Liao Guoren's expression remains unchanged.",
+      "level": 1
+    },
+    {
+      "id": "32.1",
+      "text": "He looks around and says, \"Be on alert, let's go take a look.\"",
+      "level": 2
+    },
+    {
+      "id": "33",
+      "text": "The rain is still pouring in the forest, and the ground is muddy.",
+      "level": 1
+    },
+    {
+      "id": "33.1",
+      "text": "They can only move along the edges of the trees.",
+      "level": 2
+    },
+    {
+      "id": "33.1.1",
+      "text": "The tree roots there are well-developed, and soil and leaves are mixed together, making the path more stable than elsewhere and allowing them to avoid the leeches lurking in the muddy puddles.",
+      "level": 3
+    },
+    {
+      "id": "33.1.2",
+      "text": "After bypassing a few tall drooping trees, they come to a clearing in the forest.",
+      "level": 3
+    },
+    {
+      "id": "33.1.3",
+      "text": "The dense grass and trees are flattened by the rain, like a smooth carpet.",
+      "level": 3
+    },
+    {
+      "id": "33.1.4",
+      "text": "A pile of strangely positioned human bones appears abruptly, sending a shiver down Zhao Bankuo's spine at first glance.",
+      "level": 3
+    },
+    {
+      "id": "34",
+      "text": "It's a row of human bones in a prone position.",
+      "level": 1
+    },
+    {
+      "id": "34.1",
+      "text": "Judging by the bayonets still standing diagonally in front of the bones, this must be a group of Expeditionary Force soldiers who didn't make it out during the great retreat.",
+      "level": 2
+    },
+    {
+      "id": "34.1.1",
+      "text": "Tattered Expeditionary Force uniforms and Zhongzheng rifles with long bayonets are scattered around the bones.",
+      "level": 3
+    },
+    {
+      "id": "35",
+      "text": "They are all from the New 38th Division.",
+      "level": 1
+    },
+    {
+      "id": "35.1",
+      "text": "Because General Sun Liren defied orders and retreated west, they did not experience the hardships of the 'Savage Mountain' retreat.",
+      "level": 2
+    },
+    {
+      "id": "35.1.1",
+      "text": "This is their first time seeing such vivid remains of the Expeditionary Force, and the blood ties immediately make their hearts ache.",
+      "level": 3
+    },
+    {
+      "id": "35.1.2",
+      "text": "It would be better for the Expeditionary Force to die on the battlefield fighting the Japanese, but to die inexplicably trapped in this forest is truly not worth it.",
+      "level": 3
+    },
+    {
+      "id": "36",
+      "text": "The scout's face is pale.",
+      "level": 1
+    },
+    {
+      "id": "36.1",
+      "text": "Pointing at the remains, he whispers, \"I thought there was an ambush just now when I saw the bayonets reflecting light.\"",
+      "level": 2
+    },
+    {
+      "id": "37",
+      "text": "Although Zhao Bankuo doesn't know their exact location, he understands they are close to the edge of the Hukawng Valley.",
+      "level": 1
+    },
+    {
+      "id": "37.1",
+      "text": "Walking east from their current path, crossing two mountains, and then walking about ten kilometers would bring them into the Expeditionary Force controlled area north of Dali.",
+      "level": 2
+    },
+    {
+      "id": "37.1.1",
+      "text": "This area is bounded by the Nujiang River, with Chinese and Japanese armies on either side.",
+      "level": 3
+    },
+    {
+      "id": "37.1.2",
+      "text": "Although the terrain is treacherous, it's almost like being home.",
+      "level": 3
+    },
+    {
+      "id": "37.1.3",
+      "text": "The Expeditionary Force skeletons in front of them clearly did not last until the end.",
+      "level": 3
+    },
+    {
+      "id": "38",
+      "text": "Liao Guoren sighs and says, \"They died for their country fighting the Japanese; their deaths were meaningful. Let's bury them.\"",
+      "level": 1
+    },
+    {
+      "id": "39",
+      "text": "After speaking, he takes off his helmet and bows to the bones, and Zhao Bankuo and the others naturally follow suit with a few bows.",
+      "level": 1
+    },
+    {
+      "id": "40",
+      "text": "Just as they are about to step forward to dig some soil to bury the bones, they are stopped by the scout.",
+      "level": 1
+    },
+    {
+      "id": "40.1",
+      "text": "Someone nearby asks, \"Little Knife, what's going on?\"",
+      "level": 2
+    },
+    {
+      "id": "41",
+      "text": "Zhao Bankuo learns that the scout's name is Little Knife.",
+      "level": 1
+    },
+    {
+      "id": "41.1",
+      "text": "He is not tall, with a thin, weathered face that looks like it was scraped by a knife, truly living up to his name.",
+      "level": 2
+    },
+    {
+      "id": "42",
+      "text": "Little Knife frowns and says, \"You guys are all veterans, and you can't see how strangely these people died?\"",
+      "level": 1
+    },
+    {
+      "id": "43",
+      "text": "The bones are half-hidden in the weeds, their positions are bizarre, and they seem to maintain a defensive posture from when they were alive.",
+      "level": 1
+    },
+    {
+      "id": "43.1",
+      "text": "From the outside, there seems to be nothing strange.",
+      "level": 2
+    },
+    {
+      "id": "43.1.1",
+      "text": "A large man with a straightforward gaze, a deep voice, and a Northeast accent, looking annoyed, shouts, \"Shorty, speak clearly.\"",
+      "level": 3
+    },
+    {
+      "id": "44",
+      "text": "Little Knife glances at the large man and walks forward a few steps.",
+      "level": 1
+    },
+    {
+      "id": "44.1",
+      "text": "He uses his carbine to pick away the thick grass covering the bones and says, \"Look for yourselves.\"",
+      "level": 2
+    },
+    {
+      "id": "45",
+      "text": "Zhao Bankuo and the others turn their attention there.",
+      "level": 1
+    },
+    {
+      "id": "45.1",
+      "text": "They see that under the human bones, there are strangely protruding round mounds of earth.",
+      "level": 2
+    },
+    {
+      "id": "45.1.1",
+      "text": "At first glance, they seem ordinary, but upon closer inspection, they are covered with black-green ants, as large as fingers.",
+      "level": 3
+    },
+    {
+      "id": "45.1.2",
+      "text": "Some are motionless, washed by the rain, while others are tightly attached to the human bones below, forming dark, eerie holes.",
+      "level": 3
+    },
+    {
+      "id": "45.1.3",
+      "text": "After Zhao Bankuo sees this clearly, his scalp tingles, and he thinks to himself that Little Knife's eyes are truly sharp.",
+      "level": 3
+    },
+    {
+      "id": "46",
+      "text": "\"Oh my god, it's an ant nest!\" the large man exclaims, quickly retreating.",
+      "level": 1
+    },
+    {
+      "id": "47",
+      "text": "After seeing the truth of these mounds, everyone collectively steps back a few paces.",
+      "level": 1
+    },
+    {
+      "id": "48",
+      "text": "The ants in the 'Savage Mountain' are something that every Expeditionary Force soldier who has entered here dreads.",
+      "level": 1
+    },
+    {
+      "id": "48.1",
+      "text": "While the blood-sucking leeches are formidable, one knows where they are, and as long as one avoids them, there's no problem.",
+      "level": 2
+    },
+    {
+      "id": "48.1.1",
+      "text": "However, these long-mouthed black ants are much more dangerous than leeches.",
+      "level": 3
+    },
+    {
+      "id": "48.1.2",
+      "text": "They usually hide in inconspicuous mounds.",
+      "level": 3
+    },
+    {
+      "id": "48.1.3",
+      "text": "If someone steps on one without realizing it, and pulls their leg out slowly, their leg can become like a cob of corn.",
+      "level": 3
+    },
+    {
+      "id": "48.1.4",
+      "text": "The most terrifying aspect of these man-eating ants is their sheer numbers and their ability to infiltrate everywhere.",
+      "level": 3
+    },
+    {
+      "id": "48.1.5",
+      "text": "They specifically attack the most vulnerable parts of the prey, such as the eyes.",
+      "level": 3
+    },
+    {
+      "id": "48.1.6",
+      "text": "This group of Expeditionary Force soldiers must have stumbled into an ant nest while exhausted, provoking these man-eating ants to attack.",
+      "level": 3
+    },
+    {
+      "id": "48.1.7",
+      "text": "Caught off guard, they were annihilated.",
+      "level": 3
+    },
+    {
+      "id": "49",
+      "text": "The team members have all heard from surviving Expeditionary Force members about the ferocity of these ants.",
+      "level": 1
+    },
+    {
+      "id": "49.1",
+      "text": "Now, seeing this scalp-numbing scene, they involuntarily imagine the human-ant war that once took place, feeling a sense of dread.",
+      "level": 2
+    },
+    {
+      "id": "50",
+      "text": "They no longer dare to touch the bones.",
+      "level": 1
+    },
+    {
+      "id": "50.1",
+      "text": "With the heavy rain, they cannot set fire to burn them.",
+      "level": 2
+    },
+    {
+      "id": "50.1.1",
+      "text": "They can only casually gather some branches and weeds, haphazardly covering them with wet soil and loose mud, a hasty act to express their respect for their fallen comrades.",
+      "level": 3
+    },
+    {
+      "id": "51",
+      "text": "After a period of busyness, the rain intensifies.",
+      "level": 1
+    },
+    {
+      "id": "51.1",
+      "text": "Liao Guoren checks his watch and compass and waves to Little Knife.",
+      "level": 2
+    },
+    {
+      "id": "51.1.1",
+      "text": "\"Moving further will be too exhausting,\" he says, \"Find a few suitable large trees nearby, and everyone climb up, divide into groups, and take turns on guard duty and rest.",
+      "level": 3
+    },
+    {
+      "id": "51.1.2",
+      "text": "We'll continue our journey when the rain subsides tomorrow.\"",
+      "level": 3
+    },
+    {
+      "id": "52",
+      "text": "Little Knife nods and climbs back up a tree.",
+      "level": 1
+    },
+    {
+      "id": "52.1",
+      "text": "Soon, his voice comes back.",
+      "level": 2
+    },
+    {
+      "id": "52.1.1",
+      "text": "Everyone follows him and sees several incredibly thick banyan trees.",
+      "level": 3
+    },
+    {
+      "id": "52.1.2",
+      "text": "Little Knife is perched on a branch, beckoning them, \"These few are good, come up, cut off the low-hanging vines and it will be safe.",
+      "level": 3
+    },
+    {
+      "id": "52.1.3",
+      "text": "In this weather, those biting insects don't come out much; as long as we look out for each other, we should be fine.\"",
+      "level": 3
+    },
+    {
+      "id": "53",
+      "text": "Their raincoats are soaked, and the dampness makes them feel cold.",
+      "level": 1
+    },
+    {
+      "id": "53.1",
+      "text": "Zhao Bankuo shivers and climbs up a large tree.",
+      "level": 2
+    },
+    {
+      "id": "53.1.1",
+      "text": "He takes out a piece of oiled cloth from his backpack to cover his head, then takes a small bottle of white wine and gulps it down before leaning against the tree trunk to sit down.",
+      "level": 3
+    },
+    {
+      "id": "54",
+      "text": "This time entering the mountain, apart from knowing that all actions must be strictly under the command of that cold-faced captain, he knows nothing else.",
+      "level": 1
+    },
+    {
+      "id": "54.1",
+      "text": "This kind of military operation is clearly classified; they cannot inquire or ask, only speculate in their hearts privately.",
+      "level": 2
+    },
+    {
+      "id": "54.1.1",
+      "text": "This damned 'Savage Mountain', after being filtered by the Fifth Army with tens of thousands of brothers, with many dying and few surviving, what could possibly require them, these ten people, to risk their lives and venture in for a second time?",
+      "level": 3
+    },
+    {
+      "id": "55",
+      "text": "Moreover, there are only a few people in the team, completely configured for reconnaissance missions.",
+      "level": 1
+    },
+    {
+      "id": "55.1",
+      "text": "This cannot be a strategic mission.",
+      "level": 2
+    },
+    {
+      "id": "55.1.1",
+      "text": "With a headcount of only a dozen or so people, if things go wrong, a single shell could wipe them all out.",
+      "level": 3
+    },
+    {
+      "id": "55.1.2",
+      "text": "But if it is a reconnaissance mission, Zhao Bankuo cannot imagine what there is to reconnoiter here.",
+      "level": 3
+    },
+    {
+      "id": "55.1.3",
+      "text": "In such dense jungle, if the Japanese wanted to bypass the Expeditionary Force's defense line, they would have to abandon all modern equipment and heavy weaponry – that would be suicidal.",
+      "level": 3
+    },
+    {
+      "id": "55.1.4",
+      "text": "If it were a slow, grinding advance, British aircraft would surely detect them.",
+      "level": 3
+    },
+    {
+      "id": "55.1.5",
+      "text": "Moreover, all the way here, he feels lucky not to get lost, let alone conduct reconnaissance.",
+      "level": 3
+    },
+    {
+      "id": "56",
+      "text": "It's not reconnaissance, nor a strategic mission.",
+      "level": 1
+    },
+    {
+      "id": "56.1",
+      "text": "What else could a soldier like Zhao Bankuo do in this jungle?",
+      "level": 2
+    },
+    {
+      "id": "57",
+      "text": "Under the torrential rain, the incredibly dense rainforest feels oppressive, like a steaming vat.",
+      "level": 1
+    },
+    {
+      "id": "57.1",
+      "text": "Zhao Bankuo misses the sunshine of Assam and his two little lovers even more.",
+      "level": 2
+    },
+    {
+      "id": "57.1.1",
+      "text": "Leaving now, he probably won't see them again in this lifetime.",
+      "level": 3
+    },
+    {
+      "id": "57.1.2",
+      "text": "However, compared to the brothers who died here, he has nothing to lament about.",
+      "level": 3
+    },
+    {
+      "id": "57.1.3",
+      "text": "As the American instructor who taught them drill in Assam said: \"War, it only looks at the results, not the process.\"",
+      "level": 3
+    },
+    {
+      "id": "58",
+      "text": "Zhao Bankuo squats on the tree, lost in thought.",
+      "level": 1
+    },
+    {
+      "id": "58.1",
+      "text": "He doesn't notice that dozens of meters away, at the base of a tree, a group of figures is slowly and eerily creeping towards their location like ghosts.",
+      "level": 2
+    },
+    {
+      "id": "59",
+      "text": "The figures are getting closer.",
+      "level": 1
+    },
+    {
+      "id": "59.1",
+      "text": "A muffled groan suddenly comes from the dark team.",
+      "level": 2
+    },
+    {
+      "id": "59.1.1",
+      "text": "Although the sound is not loud in the rainy night, it is exceptionally clear.",
+      "level": 3
+    },
+    {
+      "id": "60",
+      "text": "Zhao Bankuo jolts reflexively, raising his gun instinctively.",
+      "level": 1
+    },
+    {
+      "id": "60.1",
+      "text": "Before he can clearly assess the situation, someone next to him fires first.",
+      "level": 2
+    },
+    {
+      "id": "61",
+      "text": "\"Bang!\" The tracer bullet flashes into the undergrowth below.",
+      "level": 1
+    },
+    {
+      "id": "61.1",
+      "text": "Someone shouts, \"It's the Japs!\"",
+      "level": 2
+    },
+    {
+      "id": "62",
+      "text": "Everyone reacts with astonishing speed.",
+      "level": 1
+    },
+    {
+      "id": "62.1",
+      "text": "In an instant, all the branches around spit fire, and gunfire erupts into a chorus.",
+      "level": 2
+    },
+    {
+      "id": "62.1.1",
+      "text": "Hand grenades follow, exploding beneath the trees.",
+      "level": 3
+    },
+    {
+      "id": "63",
+      "text": "By the flashes, Zhao Bankuo is shocked to see that beneath the large tree where he is perched, a group of Japanese soldiers in khaki uniforms are desperately dodging everywhere.",
+      "level": 1
+    },
+    {
+      "id": "63.1",
+      "text": "Those who are slow to dodge immediately spurt blood and fall to the ground.",
+      "level": 2
+    },
+    {
+      "id": "64",
+      "text": "It's dark and blind.",
+      "level": 1
+    },
+    {
+      "id": "64.1",
+      "text": "These Japanese soldiers, who appeared out of nowhere, clearly did not expect enemies to be hiding on the slippery, wet trees.",
+      "level": 2
+    },
+    {
+      "id": "64.1.1",
+      "text": "They immediately suffer heavy losses.",
+      "level": 3
+    },
+    {
+      "id": "65",
+      "text": "The soldiers on the trees, taking advantage of their higher ground and superior weaponry, catch the Japanese soldiers off guard.",
+      "level": 1
+    },
+    {
+      "id": "66",
+      "text": "However, these Japanese soldiers are clearly well-trained.",
+      "level": 1
+    },
+    {
+      "id": "66.1",
+      "text": "After a brief period of confusion, they begin to return fire, using the trees for cover.",
+      "level": 2
+    },
+    {
+      "id": "67",
+      "text": "By this point, both sides have revealed their positions.",
+      "level": 1
+    },
+    {
+      "id": "67.1",
+      "text": "The opposing firepower intertwines, neither giving way.",
+      "level": 2
+    },
+    {
+      "id": "67.1.1",
+      "text": "The sound of splintering branches, the impact of bullets, the grinding of repeatedly cocked gun bolts, all blend together, almost bursting Zhao Bankuo's eardrums.",
+      "level": 3
+    },
+    {
+      "id": "68",
+      "text": "He grits his teeth, cursing the ancestors of the Japanese, and vigorously pulls the trigger towards the illuminated areas below.",
+      "level": 1
+    },
+    {
+      "id": "68.1",
+      "text": "But those Japanese soldiers move after each shot; although they have the advantage of terrain, two bursts of bullets seem to have missed their mark.",
+      "level": 2
+    },
+    {
+      "id": "69",
+      "text": "With a \"bang\", a Japanese bullet whizzes past Zhao Bankuo's head.",
+      "level": 1
+    },
+    {
+      "id": "69.1",
+      "text": "Tree debris immediately flies all over him.",
+      "level": 2
+    },
+    {
+      "id": "70",
+      "text": "Startled, he quickly shrinks back, twists his gun, fires a three-round burst in the direction of the bullet, and then quickly crawls to the other side of the large tree.",
+      "level": 1
+    },
+    {
+      "id": "71",
+      "text": "The trees on this side are denser, and most of the team members are relying on them.",
+      "level": 1
+    },
+    {
+      "id": "71.1",
+      "text": "Zhao Bankuo sees the teammate who fired first, half-propping an M1903 rifle with a scope, leaning behind a tree trunk.",
+      "level": 2
+    },
+    {
+      "id": "71.1.1",
+      "text": "With one shot, a Japanese soldier below falls to the ground.",
+      "level": 3
+    },
+    {
+      "id": "71.1.2",
+      "text": "However, only this one is outstanding; although the firepower of other teammates is continuous, the lethality is not very obvious.",
+      "level": 3
+    },
+    {
+      "id": "71.1.3",
+      "text": "After sputtering for a while, the Japanese return fire is still quite regular.",
+      "level": 3
+    },
+    {
+      "id": "72",
+      "text": "Zhao Bankuo pokes his head out to take a look and sees that the Japanese return fire points are constantly changing.",
+      "level": 1
+    },
+    {
+      "id": "72.1",
+      "text": "The \"sharpshooter\" is now unable to raise his head as he has taken down more than five enemies and is being \"taken care of\" by several Japanese rifles.",
+      "level": 2
+    },
+    {
+      "id": "72.1.1",
+      "text": "The space on the tree is limited, and the Japanese soldiers below are hidden.",
+      "level": 3
+    },
+    {
+      "id": "72.1.2",
+      "text": "The sharpshooter's advantage is immediately lost.",
+      "level": 3
+    },
+    {
+      "id": "73",
+      "text": "\"Click\" goes the sound, Zhao Bankuo's Thompson submachine gun jams at this very moment.",
+      "level": 1
+    },
+    {
+      "id": "73.1",
+      "text": "He curses under his breath, quickly turns around to change the magazine.",
+      "level": 2
+    },
+    {
+      "id": "73.1.1",
+      "text": "As soon as he pulls out a new one, he hears a yell in his ear.",
+      "level": 3
+    },
+    {
+      "id": "74",
+      "text": "He looks up and sees that a teammate's gun barrel is caught on a tree branch, and he is struggling to free it.",
+      "level": 1
+    },
+    {
+      "id": "74.1",
+      "text": "This brother was probably too engrossed in the fight and forgot where he was, still trying to turn around tactically as usual.",
+      "level": 2
+    },
+    {
+      "id": "74.1.1",
+      "text": "This way, his body is raised too high, and his M1 carbine has a long barrel.",
+      "level": 3
+    },
+    {
+      "id": "74.1.2",
+      "text": "It gets caught on a diagonally protruding three-pronged branch, and he loses his balance.",
+      "level": 3
+    },
+    {
+      "id": "74.1.3",
+      "text": "He tilts forward, ending up in a comical pose, hanging in mid-air, entirely supported by the branch with his gun.",
+      "level": 3
+    },
+    {
+      "id": "74.1.4",
+      "text": "He is unable to move.",
+      "level": 3
+    },
+    {
+      "id": "75",
+      "text": "The Japanese soldiers below are worried about not finding the enemy.",
+      "level": 1
+    },
+    {
+      "id": "75.1",
+      "text": "Suddenly, they see a lot of movement in one tree, and a dark figure hanging in mid-air.",
+      "level": 2
+    },
+    {
+      "id": "75.1.1",
+      "text": "This provides them with a conspicuous living target.",
+      "level": 3
+    },
+    {
+      "id": "75.1.2",
+      "text": "Instantly, bullets fly towards where he is hanging, whistling by his ear.",
+      "level": 3
+    },
+    {
+      "id": "75.1.3",
+      "text": "Fortunately, it's dark and the tree is high, so the bullets are not very accurate, only hitting the branches above his head.",
+      "level": 3
+    },
+    {
+      "id": "76",
+      "text": "Zhao Bankuo sees that the teammate who just narrowly escaped death is still struggling with his gun.",
+      "level": 1
+    },
+    {
+      "id": "76.1",
+      "text": "He can't help but curse, directly rolling over the branches with a small roll, sweeping his leg horizontally to trip him.",
+      "level": 2
+    },
+    {
+      "id": "76.1.1",
+      "text": "He then kicks upwards, knocking his M1 carbine down.",
+      "level": 3
+    },
+    {
+      "id": "76.1.2",
+      "text": "He grabs it, throws it onto the teammate's chest, and then pulls his clothes, hiding behind the tree trunk.",
+      "level": 3
+    },
+    {
+      "id": "77",
+      "text": "Remembering that his submachine gun hasn't been loaded yet, Zhao Bankuo pulls the charging handle again.",
+      "level": 1
+    },
+    {
+      "id": "77.1",
+      "text": "Only then does he have time to curse at the teammate, \"Damn it, is the gun your girlfriend? Don't you value your life?\"",
+      "level": 2
+    },
+    {
+      "id": "78",
+      "text": "The man finally realizes his foolishness and nods repeatedly at Zhao Bankuo, muttering incoherently.",
+      "level": 1
+    },
+    {
+      "id": "79",
+      "text": "Zhao Bankuo doesn't have time to talk nonsense with him.",
+      "level": 1
+    },
+    {
+      "id": "79.1",
+      "text": "The tense atmosphere has already turned him into a combat machine.",
+      "level": 2
+    },
+    {
+      "id": "79.1.1",
+      "text": "With a turn, his submachine gun begins to fire again.",
+      "level": 3
+    },
+    {
+      "id": "80",
+      "text": "By this point in the battle, the concealment provided by the thick branches and leaves is completely lost.",
+      "level": 1
+    },
+    {
+      "id": "80.1",
+      "text": "The geographical advantage can no longer be exploited, and the overly small activity area restricts their attack range.",
+      "level": 2
+    },
+    {
+      "id": "80.1.1",
+      "text": "Although the team members have advanced weapons and are brave and fearless, and the Japanese temporarily cannot attack, they can see the continuous single-shot returns of fire from the Japanese.",
+      "level": 3
+    },
+    {
+      "id": "80.1.2",
+      "text": "The enemy's numbers are unknown, and there might be follow-up troops.",
+      "level": 3
+    },
+    {
+      "id": "80.1.3",
+      "text": "Over time, the issue of ammunition consumption will arise, and the outcome might not be good.",
+      "level": 3
+    },
+    {
+      "id": "81",
+      "text": "Liao Guoren sees this clearly and makes a decisive command: \"We cannot linger! Retreat quickly!\"",
+      "level": 1
+    },
+    {
+      "id": "82",
+      "text": "As soon as the order is given, several team members quickly flip over and throw hand grenades downwards, which seems quite coordinated.",
+      "level": 1
+    },
+    {
+      "id": "82.1",
+      "text": "Following a series of explosions, the Japanese gunfire immediately becomes sparser.",
+      "level": 2
+    },
+    {
+      "id": "83",
+      "text": "Zhao Bankuo feels relieved.",
+      "level": 1
+    },
+    {
+      "id": "83.1",
+      "text": "It seems that, apart from the idiot from earlier, the combat effectiveness of these people is very high.",
+      "level": 2
+    },
+    {
+      "id": "83.1.1",
+      "text": "They are clearly veterans who have experienced many fierce battles, so his earlier concerns about coordination might not be a major issue.",
+      "level": 3
+    },
+    {
+      "id": "84",
+      "text": "At this moment, the large man perched on a nearby branch seems to be enjoying the fight and shouts, \"You guys go first, I'll cover you!\"",
+      "level": 1
+    },
+    {
+      "id": "85",
+      "text": "After speaking, the large man suddenly stands up, holding a Czech light machine gun in one hand, leaning against the tree trunk, and sweeping the Japanese direction.",
+      "level": 1
+    },
+    {
+      "id": "85.1",
+      "text": "Zhao Bankuo is also infected by the atmosphere and stands shoulder to shoulder with him, also firing his gun.",
+      "level": 2
+    },
+    {
+      "id": "86",
+      "text": "As soon as a belt of bullets is fired, he suddenly feels a strong force from his back, almost falling off the tree.",
+      "level": 1
+    },
+    {
+      "id": "86.1",
+      "text": "He instinctively prepares to turn and shoot back, but sees Liao Guoren's fierce face.",
+      "level": 2
+    },
+    {
+      "id": "86.1.1",
+      "text": "It turns out that Liao Guoren, seeing him too engrossed in shooting, directly kicks him and curses urgently, \"Damn it, get down here!\"",
+      "level": 3
+    },
+    {
+      "id": "87",
+      "text": "Zhao Bankuo snaps back to reality.",
+      "level": 1
+    },
+    {
+      "id": "87.1",
+      "text": "The captain clearly said not to linger.",
+      "level": 2
+    },
+    {
+      "id": "87.1.1",
+      "text": "The large man was clearly taking on the role of covering the rear.",
+      "level": 3
+    },
+    {
+      "id": "87.1.2",
+      "text": "Why was he joining in the fun?",
+      "level": 3
+    },
+    {
+      "id": "88",
+      "text": "He quickly slides down the tree and sees that he was a few seconds late.",
+      "level": 1
+    },
+    {
+      "id": "88.1",
+      "text": "The people in front have already disappeared into the woods.",
+      "level": 2
+    },
+    {
+      "id": "88.1.1",
+      "text": "The raindrops are beating the undergrowth, making it shake, and he doesn't know which way they are retreating.",
+      "level": 3
+    },
+    {
+      "id": "89",
+      "text": "He stands up and hesitates, looking around, not knowing where to charge.",
+      "level": 1
+    },
+    {
+      "id": "89.1",
+      "text": "Suddenly, a person emerges from the undergrowth nearby and grabs his arm.",
+      "level": 2
+    },
+    {
+      "id": "89.1.1",
+      "text": "He turns his head and sees it's the \"sharpshooter\".",
+      "level": 3
+    },
+    {
+      "id": "89.1.2",
+      "text": "With fierce eyes, he glares at Zhao Bankuo and whispers, \"This way!\"",
+      "level": 3
+    },
+    {
+      "id": "90",
+      "text": "With Zhao Bankuo being tightly held by him, they quickly run towards one side of the forest.",
+      "level": 1
+    },
+    {
+      "id": "91",
+      "text": "After running for a while, the gunfire from behind becomes much smaller.",
+      "level": 1
+    },
+    {
+      "id": "91.1",
+      "text": "Zhao Bankuo finally has time to look back and sees Captain Liao Guoren right behind him, waving him not to stop.",
+      "level": 2
+    },
+    {
+      "id": "92",
+      "text": "Zhao Bankuo turns his head and continues to run.",
+      "level": 1
+    },
+    {
+      "id": "92.1",
+      "text": "He follows the teammates in front until dawn breaks and the rain subsides, then he hears Captain Liao call out to stop.",
+      "level": 2
+    },
+    {
+      "id": "93",
+      "text": "Zhao Bankuo looks back again and sees the large man, who was covering their retreat, also following not far behind, and he finally feels relieved.",
+      "level": 1
+    },
+    {
+      "id": "94",
+      "text": "At this moment, Liao Guoren, panting heavily, quickly gives instructions: \"Big Ox, you and 'Uncle Guojiu' go to the rear to keep watch. Knife, go and cover our tracks from where we came, and try to create some diversions so that those Japanese devils can't figure out our route.\"",
+      "level": 1
+    },
+    {
+      "id": "95",
+      "text": "The large man responds with an affirmative, and Zhao Bankuo hears the sharpshooter, called 'Uncle Guojiu', also agree.",
+      "level": 1
+    },
+    {
+      "id": "95.1",
+      "text": "They both walk towards the rear, while Little Knife circles away into the distance.",
+      "level": 2
+    },
+    {
+      "id": "96",
+      "text": "The others rest in place.",
+      "level": 1
+    },
+    {
+      "id": "96.1",
+      "text": "The group is all out of breath from running, and they collapse as soon as they sit down.",
+      "level": 2
+    },
+    {
+      "id": "97",
+      "text": "At this time, Zhao Bankuo has time to catch his breath and curiously asks, \"Damn, we've been walking for days and haven't seen a soul, how did we suddenly run into such a large group of Japs?\"",
+      "level": 1
+    },
+    {
+      "id": "98",
+      "text": "A comrade turns his head to look in the direction they came from and shakes his head.",
+      "level": 1
+    },
+    {
+      "id": "98.1",
+      "text": "\"Judging by the distribution of firepower of those Japanese soldiers, their numbers were not large, about twenty to thirty at most.\"",
+      "level": 2
+    },
+    {
+      "id": "98.1.1",
+      "text": "\"They were probably a lost Japanese patrol.",
+      "level": 3
+    },
+    {
+      "id": "98.1.2",
+      "text": "In such a large forest, two small units of a few dozen people actually bumping into each other, damn, we are truly born enemies.\"",
+      "level": 3
+    },
+    {
+      "id": "99",
+      "text": "\"Did you guys see their uniforms?\" another soldier crouches down and wipes his face with water from the ground.",
+      "level": 1
+    },
+    {
+      "id": "99.1",
+      "text": "\"Damn, they looked even more disheveled than us.\"",
+      "level": 2
+    },
+    {
+      "id": "99.1.1",
+      "text": "\"These Japs were probably tailing the Fourth Army, searching for stragglers of the Fourth Army to extract intelligence, and might have just retreated from the forest.\"",
+      "level": 3
+    },
+    {
+      "id": "100",
+      "text": "\"You could see that clearly in such heavy rain?\" Zhao Bankuo asked skeptically.",
+      "level": 1
+    },
+    {
+      "id": "101",
+      "text": "\"It wasn't that kid who saw clearly, it's your lack of experience, rookie,\" says an old man from the other side with a sneer.",
+      "level": 1
+    }
+  ],
+  "concepts": [
+    {
+      "name": "B-24 Liberator (Halifax)",
+      "frequency": 1,
+      "context": "Mentioned as a strategic bomber, 'Halifax', belonging to the Indian Air Force."
+    },
+    {
+      "name": "India",
+      "frequency": 2,
+      "context": "Mentioned as part of the Indian Air Force and the border with Burma."
+    },
+    {
+      "name": "Burma",
+      "frequency": 4,
+      "context": "Setting for the story, including the Indo-Burma theater, Hukawng Valley, and border with India."
+    },
+    {
+      "name": "World War II",
+      "frequency": 1,
+      "context": "The historical context of the story."
+    },
+    {
+      "name": "Bombing mission",
+      "frequency": 2,
+      "context": "Described as a secret mission and 'Harvard Way Bombing'."
+    },
+    {
+      "name": "Acha",
+      "frequency": 3,
+      "context": "The bombardier on the Halifax bomber."
+    },
+    {
+      "name": "Hukawng Valley",
+      "frequency": 3,
+      "context": "A mysterious location in Burma, described as humid, hot, and full of dangers."
+    },
+    {
+      "name": "Rainforest",
+      "frequency": 5,
+      "context": "The primary setting, described as dense, primeval, humid, and dangerous."
+    },
+    {
+      "name": "Harvard Way Bombing",
+      "frequency": 2,
+      "context": "A term for bombing missions with strange, non-strategic targets."
+    },
+    {
+      "name": "Strategic value",
+      "frequency": 1,
+      "context": "Lack thereof is a characteristic of 'Harvard Way Bombing'."
+    },
+    {
+      "name": "Cemetery",
+      "frequency": 1,
+      "context": "An example of a strange bombing target."
+    },
+    {
+      "name": "War",
+      "frequency": 4,
+      "context": "The overarching context, with specific mentions of its brutality and lack of sentimentality."
+    },
+    {
+      "name": "Bombs",
+      "frequency": 2,
+      "context": "Mentioned in terms of their destructive power."
+    },
+    {
+      "name": "Secret",
+      "frequency": 3,
+      "context": "Describes the mission and the nature of the jungle."
+    },
+    {
+      "name": "Tragedy",
+      "frequency": 1,
+      "context": "Implied by the destruction and the fate of soldiers."
+    },
+    {
+      "name": "Mystery",
+      "frequency": 2,
+      "context": "Associated with the Hukawng Valley and the mission itself."
+    },
+    {
+      "name": "August 10, 1943",
+      "frequency": 1,
+      "context": "The date when the story of the small team begins."
+    },
+    {
+      "name": "Leeches",
+      "frequency": 4,
+      "context": "A common danger in the rainy forest."
+    },
+    {
+      "name": "Zhao Bankuo",
+      "frequency": 13,
+      "context": "The main protagonist, a soldier experiencing the mission."
+    },
+    {
+      "name": "Lamga training camp",
+      "frequency": 1,
+      "context": "Where Zhao Bankuo departed from."
+    },
+    {
+      "name": "Discomfort",
+      "frequency": 1,
+      "context": "Zhao Bankuo's feeling about the mission's uncertainty."
+    },
+    {
+      "name": "Uncertainty",
+      "frequency": 2,
+      "context": "Zhao Bankuo's feeling about the mission's purpose and unknown destination."
+    },
+    {
+      "name": "Jungle",
+      "frequency": 7,
+      "context": "The environment, described as dark, dense, and endless."
+    },
+    {
+      "name": "Thompson submachine gun",
+      "frequency": 2,
+      "context": "Zhao Bankuo's weapon."
+    },
+    {
+      "name": "Mission",
+      "frequency": 7,
+      "context": "The central event, described as secret, mysterious, and concerning."
+    },
+    {
+      "name": "Team",
+      "frequency": 6,
+      "context": "The group of soldiers on the mission."
+    },
+    {
+      "name": "Liao Guoren",
+      "frequency": 4,
+      "context": "The captain of the mission team."
+    },
+    {
+      "name": "Veterans",
+      "frequency": 3,
+      "context": "Reference to Zhao Bankuo's previous comrades and the current team members."
+    },
+    {
+      "name": "Tacit understanding",
+      "frequency": 2,
+      "context": "Importance of coordination among soldiers, especially in combat."
+    },
+    {
+      "name": "Combat",
+      "frequency": 3,
+      "context": "The potential for engagement with the enemy."
+    },
+    {
+      "name": "Coordination",
+      "frequency": 2,
+      "context": "A key concern for Zhao Bankuo due to unfamiliarity with teammates."
+    },
+    {
+      "name": "Scout",
+      "frequency": 4,
+      "context": "The team member responsible for recon and early warning."
+    },
+    {
+      "name": "Bird calls",
+      "frequency": 2,
+      "context": "Used as a signal for danger."
+    },
+    {
+      "name": "Alert",
+      "frequency": 2,
+      "context": "The state of readiness of the team."
+    },
+    {
+      "name": "Expeditionary Force",
+      "frequency": 4,
+      "context": "Mentioned in relation to past retreats and the discovery of their remains."
+    },
+    {
+      "name": "Japanese",
+      "frequency": 5,
+      "context": "The enemy force encountered by the team."
+    },
+    {
+      "name": "Dead bodies",
+      "frequency": 2,
+      "context": "The initial discovery that raises alarm."
+    },
+    {
+      "name": "Human bones",
+      "frequency": 3,
+      "context": "The remains of fallen soldiers."
+    },
+    {
+      "name": "Retreat",
+      "frequency": 2,
+      "context": "Referred to in the context of the Expeditionary Force's past struggles."
+    },
+    {
+      "name": "Savage Mountain",
+      "frequency": 3,
+      "context": "Another name for the dangerous jungle terrain."
+    },
+    {
+      "name": "Little Knife",
+      "frequency": 3,
+      "context": "The scout, characterized by his sharp observation skills."
+    },
+    {
+      "name": "Ants",
+      "frequency": 4,
+      "context": "A dangerous insect found in ant nests."
+    },
+    {
+      "name": "Ant nest",
+      "frequency": 2,
+      "context": "The source of danger from the ants."
+    },
+    {
+      "name": "Man-eating ants",
+      "frequency": 1,
+      "context": "A specific type of dangerous ant."
+    },
+    {
+      "name": "Battle",
+      "frequency": 2,
+      "context": "The engagement with the Japanese soldiers."
+    },
+    {
+      "name": "Firepower",
+      "frequency": 2,
+      "context": "The intensity of the exchange of gunfire."
+    },
+    {
+      "name": "Retreat",
+      "frequency": 4,
+      "context": "The team's tactical maneuver to escape the engagement."
+    },
+    {
+      "name": "Cover",
+      "frequency": 2,
+      "context": "The act of providing protection during withdrawal."
+    },
+    {
+      "name": "Ammunition",
+      "frequency": 1,
+      "context": "A factor in the battle's outcome."
+    },
+    {
+      "name": "Soldier",
+      "frequency": 4,
+      "context": "The role of the characters."
+    },
+    {
+      "name": "Weapon",
+      "frequency": 4,
+      "context": "Various firearms used in the story."
+    },
+    {
+      "name": "M1903 rifle",
+      "frequency": 1,
+      "context": "A specific type of rifle mentioned."
+    },
+    {
+      "name": "M1 carbine",
+      "frequency": 1,
+      "context": "Another firearm mentioned."
+    },
+    {
+      "name": "Czech light machine gun",
+      "frequency": 1,
+      "context": "The weapon used by the large man for covering fire."
+    },
+    {
+      "name": "Big Ox",
+      "frequency": 1,
+      "context": "Nickname for the large soldier."
+    },
+    {
+      "name": "Uncle Guojiu",
+      "frequency": 1,
+      "context": "Nickname for the sharpshooter."
+    },
+    {
+      "name": "Patrol",
+      "frequency": 1,
+      "context": "Description of the Japanese soldiers encountered."
+    },
+    {
+      "name": "Uniforms",
+      "frequency": 1,
+      "context": "Observed characteristics of the enemy."
+    },
+    {
+      "name": "Intelligence",
+      "frequency": 1,
+      "context": "Reason speculated for the Japanese patrol's presence."
+    },
+    {
+      "name": "Experience",
+      "frequency": 2,
+      "context": "A distinguishing factor between soldiers."
+    },
+    {
+      "name": "Rookie",
+      "frequency": 1,
+      "context": "A term used to describe Zhao Bankuo by an older soldier."
+    }
+  ],
+  "relations": [
+    {
+      "source": "Halifax bomber",
+      "target": "Indian Air Force",
+      "type": "belongs_to"
+    },
+    {
+      "source": "Halifax bomber",
+      "target": "Indo-Burma theater",
+      "type": "operates_in"
+    },
+    {
+      "source": "Acha",
+      "target": "Halifax bomber",
+      "type": "is_on"
+    },
+    {
+      "source": "Acha",
+      "target": "Bombing mission",
+      "type": "is_part_of"
+    },
+    {
+      "source": "Hukawng Valley",
+      "target": "Burma",
+      "type": "is_in"
+    },
+    {
+      "source": "Hukawng Valley",
+      "target": "Rainforest",
+      "type": "is_characterized_by"
+    },
+    {
+      "source": "Rainforest",
+      "target": "Humid",
+      "type": "is"
+    },
+    {
+      "source": "Rainforest",
+      "target": "Hot",
+      "type": "is"
+    },
+    {
+      "source": "Rainforest",
+      "target": "Snakes",
+      "type": "contains"
+    },
+    {
+      "source": "Rainforest",
+      "target": "Insects",
+      "type": "contains"
+    },
+    {
+      "source": "Acha",
+      "target": "Confused",
+      "type": "feels"
+    },
+    {
+      "source": "Acha",
+      "target": "Harvard Way Bombing",
+      "type": "wonders_if_it_is"
+    },
+    {
+      "source": "Harvard Way Bombing",
+      "target": "Strange targets",
+      "type": "is_characterized_by"
+    },
+    {
+      "source": "Harvard Way Bombing",
+      "target": "No strategic value",
+      "type": "is_characterized_by"
+    },
+    {
+      "source": "Acha",
+      "target": "War",
+      "type": "knows_it_is_not_child's_play"
+    },
+    {
+      "source": "Bombs",
+      "target": "Erase",
+      "type": "can"
+    },
+    {
+      "source": "Acha",
+      "target": "Secrets",
+      "type": "feels_they_are_buried"
+    },
+    {
+      "source": "Acha",
+      "target": "Suffocated",
+      "type": "feels"
+    },
+    {
+      "source": "Acha",
+      "target": "Something strange",
+      "type": "saw_in_flames"
+    },
+    {
+      "source": "August 10, 1943",
+      "target": "Hukawng Valley",
+      "type": "is_date_in"
+    },
+    {
+      "source": "Zhao Bankuo",
+      "target": "Leeches",
+      "type": "disgusted_by"
+    },
+    {
+      "source": "Zhao Bankuo",
+      "target": "Leather boots",
+      "type": "wears"
+    },
+    {
+      "source": "Zhao Bankuo",
+      "target": "Jungle",
+      "type": "navigates"
+    },
+    {
+      "source": "Zhao Bankuo",
+      "target": "Depressed",
+      "type": "feels"
+    },
+    {
+      "source": "Zhao Bankuo",
+      "target": "Uneasy",
+      "type": "feels"
+    },
+    {
+      "source": "Zhao Bankuo",
+      "target": "Thompson submachine gun",
+      "type": "carries"
+    },
+    {
+      "source": "Zhao Bankuo",
+      "target": "Team",
+      "type": "is_part_of"
+    },
+    {
+      "source": "Zhao Bankuo",
+      "target": "Liao Guoren",
+      "type": "knows"
+    },
+    {
+      "source": "Zhao Bankuo",
+      "target": "Veterans",
+      "type": "is_one_of"
+    },
+    {
+      "source": "Zhao Bankuo",
+      "target": "Tacit understanding",
+      "type": "values"
+    },
+    {
+      "source": "Zhao Bankuo",
+      "target": "Coordination",
+      "type": "concerned_about"
+    },
+    {
+      "source": "Scout",
+      "target": "Bird calls",
+      "type": "uses_for_signal"
+    },
+    {
+      "source": "Scout",
+      "target": "Danger",
+      "type": "warns_of"
+    },
+    {
+      "source": "Team",
+      "target": "Alert",
+      "type": "is_on"
+    },
+    {
+      "source": "Expeditionary Force",
+      "target": "Non-combat casualties",
+      "type": "had"
+    },
+    {
+      "source": "Japanese",
+      "target": "Military power",
+      "type": "wastes_in_jungle"
+    },
+    {
+      "source": "British and American aircraft",
+      "target": "Aerial reconnaissance",
+      "type": "conduct"
+    },
+    {
+      "source": "Japanese",
+      "target": "Companies",
+      "type": "unlikely_to_be_in_jungle"
+    },
+    {
+      "source": "Small units",
+      "target": "Encounter probability",
+      "type": "low_in_rainforest"
+    },
+    {
+      "source": "Scout",
+      "target": "Dead bodies",
+      "type": "discovers"
+    },
+    {
+      "source": "Liao Guoren",
+      "target": "Dead bodies",
+      "type": "investigates"
+    },
+    {
+      "source": "Human bones",
+      "target": "Expeditionary Force soldiers",
+      "type": "belong_to"
+    },
+    {
+      "source": "Human bones",
+      "target": "Bayonets",
+      "type": "have"
+    },
+    {
+      "source": "Zhao Bankuo",
+      "target": "Expeditionary Force",
+      "type": "feels_connection_to"
+    },
+    {
+      "source": "Expeditionary Force",
+      "target": "Died in forest",
+      "type": "fate_of"
+    },
+    {
+      "source": "Scout",
+      "target": "Strange deaths",
+      "type": "points_out"
+    },
+    {
+      "source": "Hukawng Valley",
+      "target": "Edge",
+      "type": "close_to"
+    },
+    {
+      "source": "Liao Guoren",
+      "target": "Human bones",
+      "type": "orders_to_bury"
+    },
+    {
+      "source": "Little Knife",
+      "target": "Human bones",
+      "type": "examines_strangeness_of"
+    },
+    {
+      "source": "Human bones",
+      "target": "Ants",
+      "type": "underneath"
+    },
+    {
+      "source": "Ants",
+      "target": "Man-eating",
+      "type": "can_be"
+    },
+    {
+      "source": "Ants",
+      "target": "Vulnerable parts",
+      "type": "attack"
+    },
+    {
+      "source": "Expeditionary Force soldiers",
+      "target": "Ant nest",
+      "type": "stumbled_into"
+    },
+    {
+      "source": "Expeditionary Force soldiers",
+      "target": "Annihilated",
+      "type": "were"
+    },
+    {
+      "source": "Team members",
+      "target": "Ants",
+      "type": "dread"
+    },
+    {
+      "source": "Team members",
+      "target": "Human-ant war",
+      "type": "imagine"
+    },
+    {
+      "source": "Team members",
+      "target": "Dread",
+      "type": "feel"
+    },
+    {
+      "source": "Team members",
+      "target": "Human bones",
+      "type": "do_not_touch"
+    },
+    {
+      "source": "Team members",
+      "target": "Covering bones",
+      "type": "perform"
+    },
+    {
+      "source": "Liao Guoren",
+      "target": "Trees",
+      "type": "selects_for_rest"
+    },
+    {
+      "source": "Team members",
+      "target": "Trees",
+      "type": "climb_for_rest"
+    },
+    {
+      "source": "Zhao Bankuo",
+      "target": "Cold",
+      "type": "feels"
+    },
+    {
+      "source": "Zhao Bankuo",
+      "target": "Mission",
+      "type": "speculates_about"
+    },
+    {
+      "source": "Team",
+      "target": "Reconnaissance",
+      "type": "configured_for"
+    },
+    {
+      "source": "Team",
+      "target": "Strategic mission",
+      "type": "is_not"
+    },
+    {
+      "source": "Japanese",
+      "target": "Bypass defense line",
+      "type": "need_to_abandon_equipment"
+    },
+    {
+      "source": "Zhao Bankuo",
+      "target": "Misses sunshine",
+      "type": "feels"
+    },
+    {
+      "source": "Zhao Bankuo",
+      "target": "American instructor",
+      "type": "remembers_saying"
+    },
+    {
+      "source": "War",
+      "target": "Results",
+      "type": "looks_at"
+    },
+    {
+      "source": "War",
+      "target": "Process",
+      "type": "does_not_look_at"
+    },
+    {
+      "source": "Zhao Bankuo",
+      "target": "Lost in thought",
+      "type": "is"
+    },
+    {
+      "source": "Figures",
+      "target": "Approaching",
+      "type": "are"
+    },
+    {
+      "source": "Figures",
+      "target": "Ghost-like",
+      "type": "are"
+    },
+    {
+      "source": "Figures",
+      "target": "Slowly",
+      "type": "move"
+    },
+    {
+      "source": "Figures",
+      "target": "Eerily",
+      "type": "move"
+    },
+    {
+      "source": "Muffled groan",
+      "target": "Comes_from",
+      "type": "dark_team"
+    },
+    {
+      "source": "Zhao Bankuo",
+      "target": "Jolts",
+      "type": "reflexively"
+    },
+    {
+      "source": "Zhao Bankuo",
+      "target": "Gun",
+      "type": "raises"
+    },
+    {
+      "source": "Someone",
+      "target": "Fires first",
+      "type": "does"
+    },
+    {
+      "source": "Tracer bullet",
+      "target": "Undergrowth",
+      "type": "flashes_into"
+    },
+    {
+      "source": "Someone",
+      "target": "Shouts",
+      "type": "does"
+    },
+    {
+      "source": "Everyone",
+      "target": "Reacts",
+      "type": "quickly"
+    },
+    {
+      "source": "Branches",
+      "target": "Spit fire",
+      "type": "do"
+    },
+    {
+      "source": "Gunfire",
+      "target": "Chorus",
+      "type": "erupts_into"
+    },
+    {
+      "source": "Hand grenades",
+      "target": "Explode",
+      "type": "do"
+    },
+    {
+      "source": "Zhao Bankuo",
+      "target": "Shocked",
+      "type": "is"
+    },
+    {
+      "source": "Japanese soldiers",
+      "target": "Khaki uniforms",
+      "type": "wear"
+    },
+    {
+      "source": "Japanese soldiers",
+      "target": "Dodging",
+      "type": "are"
+    },
+    {
+      "source": "Japanese soldiers",
+      "target": "Fall to ground",
+      "type": "do"
+    },
+    {
+      "source": "Japanese soldiers",
+      "target": "Enemies on trees",
+      "type": "did_not_expect"
+    },
+    {
+      "source": "Japanese soldiers",
+      "target": "Heavy losses",
+      "type": "suffer"
+    },
+    {
+      "source": "Soldiers on trees",
+      "target": "Higher ground",
+      "type": "have"
+    },
+    {
+      "source": "Soldiers on trees",
+      "target": "Superior weaponry",
+      "type": "have"
+    },
+    {
+      "source": "Soldiers on trees",
+      "target": "Japanese soldiers",
+      "type": "catch_off_guard"
+    },
+    {
+      "source": "Japanese soldiers",
+      "target": "Well-trained",
+      "type": "are"
+    },
+    {
+      "source": "Japanese soldiers",
+      "target": "Return fire",
+      "type": "begin_to"
+    },
+    {
+      "source": "Japanese soldiers",
+      "target": "Trees",
+      "type": "use_for_cover"
+    },
+    {
+      "source": "Both sides",
+      "target": "Positions",
+      "type": "reveal"
+    },
+    {
+      "source": "Opposing firepower",
+      "target": "Intertwines",
+      "type": "does"
+    },
+    {
+      "source": "Zhao Bankuo",
+      "target": "Ear drums",
+      "type": "almost_burst"
+    },
+    {
+      "source": "Zhao Bankuo",
+      "target": "Japanese ancestors",
+      "type": "curses"
+    },
+    {
+      "source": "Zhao Bankuo",
+      "target": "Trigger",
+      "type": "pulls"
+    },
+    {
+      "source": "Japanese soldiers",
+      "target": "Move",
+      "type": "after_each_shot"
+    },
+    {
+      "source": "Japanese soldiers",
+      "target": "Terrain advantage",
+      "type": "have"
+    },
+    {
+      "source": "Bullets",
+      "target": "Missed mark",
+      "type": "seem_to_have"
+    },
+    {
+      "source": "Japanese bullet",
+      "target": "Zhao Bankuo's head",
+      "type": "whizzes_past"
+    },
+    {
+      "source": "Tree debris",
+      "target": "Zhao Bankuo",
+      "type": "flies_all_over"
+    },
+    {
+      "source": "Zhao Bankuo",
+      "target": "Shrinks back",
+      "type": "does"
+    },
+    {
+      "source": "Zhao Bankuo",
+      "target": "Fires three-round burst",
+      "type": "does"
+    },
+    {
+      "source": "Zhao Bankuo",
+      "target": "Crawls",
+      "type": "does"
+    },
+    {
+      "source": "Trees",
+      "target": "Denser",
+      "type": "are_on_this_side"
+    },
+    {
+      "source": "Team members",
+      "target": "Trees",
+      "type": "rely_on"
+    },
+    {
+      "source": "Zhao Bankuo",
+      "target": "Sees",
+      "type": "does"
+    },
+    {
+      "source": "Teammate",
+      "target": "M1903 rifle",
+      "type": "propped"
+    },
+    {
+      "source": "Teammate",
+      "target": "Lean",
+      "type": "does"
+    },
+    {
+      "source": "Teammate",
+      "target": "Japanese soldier",
+      "type": "knocks_down"
+    },
+    {
+      "source": "Teammate's firepower",
+      "target": "Continuous",
+      "type": "is"
+    },
+    {
+      "source": "Teammate's firepower",
+      "target": "Lethality",
+      "type": "not_obvious"
+    },
+    {
+      "source": "Japanese return fire",
+      "target": "Regular",
+      "type": "is"
+    },
+    {
+      "source": "Zhao Bankuo",
+      "target": "Sees",
+      "type": "does"
+    },
+    {
+      "source": "Japanese return fire points",
+      "target": "Changing",
+      "type": "are"
+    },
+    {
+      "source": "Sharpshooter",
+      "target": "Taken down enemies",
+      "type": "exceeded_five"
+    },
+    {
+      "source": "Sharpshooter",
+      "target": "Japanese rifles",
+      "type": "attended_to_by"
+    },
+    {
+      "source": "Sharpshooter",
+      "target": "Cannot raise head",
+      "type": "is"
+    },
+    {
+      "source": "Space on tree",
+      "target": "Limited",
+      "type": "is"
+    },
+    {
+      "source": "Japanese soldiers",
+      "target": "Hidden",
+      "type": "are"
+    },
+    {
+      "source": "Sharpshooter's accuracy",
+      "target": "Advantage",
+      "type": "lost"
+    },
+    {
+      "source": "Thompson submachine gun",
+      "target": "Jams",
+      "type": "does"
+    },
+    {
+      "source": "Zhao Bankuo",
+      "target": "Cursing",
+      "type": "is"
+    },
+    {
+      "source": "Zhao Bankuo",
+      "target": "Magazine",
+      "type": "changes"
+    },
+    {
+      "source": "Zhao Bankuo",
+      "target": "Yell",
+      "type": "hears"
+    },
+    {
+      "source": "Zhao Bankuo",
+      "target": "Looks up",
+      "type": "does"
+    },
+    {
+      "source": "Teammate",
+      "target": "Gun barrel",
+      "type": "caught_on_branch"
+    },
+    {
+      "source": "Teammate",
+      "target": "Struggling",
+      "type": "is"
+    },
+    {
+      "source": "Teammate",
+      "target": "Tactical turn",
+      "type": "attempts"
+    },
+    {
+      "source": "Teammate",
+      "target": "Body",
+      "type": "raised_too_high"
+    },
+    {
+      "source": "M1 carbine",
+      "target": "Long barrel",
+      "type": "has"
+    },
+    {
+      "source": "M1 carbine",
+      "target": "Three-pronged branch",
+      "type": "gets_caught_on"
+    },
+    {
+      "source": "Teammate",
+      "target": "Loses balance",
+      "type": "does"
+    },
+    {
+      "source": "Teammate",
+      "target": "Comical pose",
+      "type": "ends_up_in"
+    },
+    {
+      "source": "Teammate",
+      "target": "Hanging in mid-air",
+      "type": "is"
+    },
+    {
+      "source": "Teammate",
+      "target": "Gun",
+      "type": "supported_by"
+    },
+    {
+      "source": "Teammate",
+      "target": "Unable to move",
+      "type": "is"
+    },
+    {
+      "source": "Japanese soldiers",
+      "target": "Worried",
+      "type": "are"
+    },
+    {
+      "source": "Japanese soldiers",
+      "target": "Enemy",
+      "type": "not_finding"
+    },
+    {
+      "source": "Japanese soldiers",
+      "target": "Movement",
+      "type": "see_in_tree"
+    },
+    {
+      "source": "Japanese soldiers",
+      "target": "Dark figure",
+      "type": "see_hanging"
+    },
+    {
+      "source": "Dark figure",
+      "target": "Living target",
+      "type": "is"
+    },
+    {
+      "source": "Bullets",
+      "target": "Fly",
+      "type": "do"
+    },
+    {
+      "source": "Bullets",
+      "target": "Hanging place",
+      "type": "fly_towards"
+    },
+    {
+      "source": "Bullets",
+      "target": "Accurate",
+      "type": "not"
+    },
+    {
+      "source": "Bullets",
+      "target": "Branches above head",
+      "type": "hit"
+    },
+    {
+      "source": "Zhao Bankuo",
+      "target": "Sees",
+      "type": "does"
+    },
+    {
+      "source": "Teammate",
+      "target": "Struggling with gun",
+      "type": "is"
+    },
+    {
+      "source": "Zhao Bankuo",
+      "target": "Curses",
+      "type": "does"
+    },
+    {
+      "source": "Zhao Bankuo",
+      "target": "Rolls",
+      "type": "does"
+    },
+    {
+      "source": "Zhao Bankuo",
+      "target": "Trips teammate",
+      "type": "does"
+    },
+    {
+      "source": "Zhao Bankuo",
+      "target": "Kicks carbine down",
+      "type": "does"
+    },
+    {
+      "source": "Zhao Bankuo",
+      "target": "Grabs carbine",
+      "type": "does"
+    },
+    {
+      "source": "Zhao Bankuo",
+      "target": "Throws carbine",
+      "type": "does"
+    },
+    {
+      "source": "Zhao Bankuo",
+      "target": "Hides",
+      "type": "does"
+    },
+    {
+      "source": "Zhao Bankuo",
+      "target": "Remembers",
+      "type": "does"
+    },
+    {
+      "source": "Zhao Bankuo",
+      "target": "Thompson submachine gun",
+      "type": "hasn't_charged"
+    },
+    {
+      "source": "Zhao Bankuo",
+      "target": "Cursing teammate",
+      "type": "is"
+    },
+    {
+      "source": "Zhao Bankuo",
+      "target": "Thompson submachine gun",
+      "type": "fires"
+    },
+    {
+      "source": "Concealment",
+      "target": "Lost",
+      "type": "is"
+    },
+    {
+      "source": "Geographical advantage",
+      "target": "Cannot be exploited",
+      "type": "is"
+    },
+    {
+      "source": "Activity area",
+      "target": "Restricted",
+      "type": "is"
+    },
+    {
+      "source": "Team members",
+      "target": "Advanced weapons",
+      "type": "have"
+    },
+    {
+      "source": "Team members",
+      "target": "Brave",
+      "type": "are"
+    },
+    {
+      "source": "Team members",
+      "target": "Fearless",
+      "type": "are"
+    },
+    {
+      "source": "Japanese",
+      "target": "Cannot attack",
+      "type": "temporarily"
+    },
+    {
+      "source": "Japanese return fire",
+      "target": "Continuous",
+      "type": "is"
+    },
+    {
+      "source": "Japanese",
+      "target": "Numbers unknown",
+      "type": "are"
+    },
+    {
+      "source": "Japanese",
+      "target": "Follow-up troops",
+      "type": "may_have"
+    },
+    {
+      "source": "Ammunition consumption",
+      "target": "Issue",
+      "type": "will_arise"
+    },
+    {
+      "source": "Outcome",
+      "target": "Not good",
+      "type": "might_be"
+    },
+    {
+      "source": "Liao Guoren",
+      "target": "Decision",
+      "type": "makes"
+    },
+    {
+      "source": "Liao Guoren",
+      "target": "Cannot linger",
+      "type": "commands"
+    },
+    {
+      "source": "Liao Guoren",
+      "target": "Retreat quickly",
+      "type": "commands"
+    },
+    {
+      "source": "Team members",
+      "target": "Hand grenades",
+      "type": "throw"
+    },
+    {
+      "source": "Hand grenades",
+      "target": "Downwards",
+      "type": "thrown"
+    },
+    {
+      "source": "Hand grenades",
+      "target": "Explosions",
+      "type": "cause"
+    },
+    {
+      "source": "Japanese gunfire",
+      "target": "Sparser",
+      "type": "becomes"
+    },
+    {
+      "source": "Zhao Bankuo",
+      "target": "Relieved",
+      "type": "feels"
+    },
+    {
+      "source": "Team",
+      "target": "Combat effectiveness",
+      "type": "is_high"
+    },
+    {
+      "source": "Team",
+      "target": "Veterans",
+      "type": "are_clearly"
+    },
+    {
+      "source": "Team",
+      "target": "Experienced fierce battles",
+      "type": "has"
+    },
+    {
+      "source": "Coordination",
+      "target": "Not major issue",
+      "type": "might_be"
+    },
+    {
+      "source": "Big Ox",
+      "target": "Enjoys fight",
+      "type": "seems_to"
+    },
+    {
+      "source": "Big Ox",
+      "target": "Shouts",
+      "type": "does"
+    },
+    {
+      "source": "Big Ox",
+      "target": "Covers",
+      "type": "will"
+    },
+    {
+      "source": "Zhao Bankuo",
+      "target": "Infected by atmosphere",
+      "type": "is"
+    },
+    {
+      "source": "Zhao Bankuo",
+      "target": "Stands shoulder to shoulder",
+      "type": "does"
+    },
+    {
+      "source": "Zhao Bankuo",
+      "target": "Fires gun",
+      "type": "does"
+    },
+    {
+      "source": "Zhao Bankuo",
+      "target": "Feels strong force",
+      "type": "does"
+    },
+    {
+      "source": "Zhao Bankuo",
+      "target": "Almost falls off tree",
+      "type": "does"
+    },
+    {
+      "source": "Zhao Bankuo",
+      "target": "Prepares to turn and shoot back",
+      "type": "does"
+    },
+    {
+      "source": "Zhao Bankuo",
+      "target": "Sees Liao Guoren's fierce face",
+      "type": "does"
+    },
+    {
+      "source": "Liao Guoren",
+      "target": "Sees Zhao Bankuo too engrossed",
+      "type": "does"
+    },
+    {
+      "source": "Liao Guoren",
+      "target": "Kicks Zhao Bankuo",
+      "type": "does"
+    },
+    {
+      "source": "Liao Guoren",
+      "target": "Curses Zhao Bankuo",
+      "type": "does"
+    },
+    {
+      "source": "Zhao Bankuo",
+      "target": "Snaps back to reality",
+      "type": "does"
+    },
+    {
+      "source": "Captain",
+      "target": "Not linger",
+      "type": "clearly_said"
+    },
+    {
+      "source": "Big Ox",
+      "target": "Covering rear",
+      "type": "taking_on_role_of"
+    },
+    {
+      "source": "Zhao Bankuo",
+      "target": "Joining in fun",
+      "type": "wonders_why"
+    },
+    {
+      "source": "Zhao Bankuo",
+      "target": "Slides down tree",
+      "type": "does"
+    },
+    {
+      "source": "Zhao Bankuo",
+      "target": "Sees",
+      "type": "does"
+    },
+    {
+      "source": "Zhao Bankuo",
+      "target": "Late",
+      "type": "was"
+    },
+    {
+      "source": "People in front",
+      "target": "Disappeared into woods",
+      "type": "have"
+    },
+    {
+      "source": "Raindrops",
+      "target": "Undergrowth",
+      "type": "beat"
+    },
+    {
+      "source": "Undergrowth",
+      "target": "Shake",
+      "type": "does"
+    },
+    {
+      "source": "Zhao Bankuo",
+      "target": "Doesn't know where they are retreating",
+      "type": "does"
+    },
+    {
+      "source": "Zhao Bankuo",
+      "target": "Stands up",
+      "type": "does"
+    },
+    {
+      "source": "Zhao Bankuo",
+      "target": "Hesitates",
+      "type": "does"
+    },
+    {
+      "source": "Zhao Bankuo",
+      "target": "Looks around",
+      "type": "does"
+    },
+    {
+      "source": "Zhao Bankuo",
+      "target": "Doesn't know where to charge",
+      "type": "does"
+    },
+    {
+      "source": "Person",
+      "target": "Emerges from undergrowth",
+      "type": "does"
+    },
+    {
+      "source": "Person",
+      "target": "Grabs Zhao Bankuo's arm",
+      "type": "does"
+    },
+    {
+      "source": "Zhao Bankuo",
+      "target": "Turns head",
+      "type": "does"
+    },
+    {
+      "source": "Zhao Bankuo",
+      "target": "Sees sharpshooter",
+      "type": "does"
+    },
+    {
+      "source": "Sharpshooter",
+      "target": "Glares",
+      "type": "does"
+    },
+    {
+      "source": "Sharpshooter",
+      "target": "Whispers",
+      "type": "does"
+    },
+    {
+      "source": "Sharpshooter",
+      "target": "Drags Zhao Bankuo",
+      "type": "does"
+    },
+    {
+      "source": "Zhao Bankuo",
+      "target": "Run",
+      "type": "does"
+    },
+    {
+      "source": "Zhao Bankuo",
+      "target": "Gunfire from behind",
+      "type": "becomes_smaller"
+    },
+    {
+      "source": "Zhao Bankuo",
+      "target": "Looks back",
+      "type": "does"
+    },
+    {
+      "source": "Liao Guoren",
+      "target": "Behind Zhao Bankuo",
+      "type": "is"
+    },
+    {
+      "source": "Liao Guoren",
+      "target": "Waves",
+      "type": "does"
+    },
+    {
+      "source": "Liao Guoren",
+      "target": "Not stop",
+      "type": "signals"
+    },
+    {
+      "source": "Zhao Bankuo",
+      "target": "Turns head",
+      "type": "does"
+    },
+    {
+      "source": "Zhao Bankuo",
+      "target": "Runs",
+      "type": "does"
+    },
+    {
+      "source": "Zhao Bankuo",
+      "target": "Follows teammates",
+      "type": "does"
+    },
+    {
+      "source": "Dawn breaks",
+      "target": "Rain subsides",
+      "type": "happens_after"
+    },
+    {
+      "source": "Liao Guoren",
+      "target": "Calls to stop",
+      "type": "does"
+    },
+    {
+      "source": "Zhao Bankuo",
+      "target": "Looks back again",
+      "type": "does"
+    },
+    {
+      "source": "Big Ox",
+      "target": "Following",
+      "type": "is"
+    },
+    {
+      "source": "Big Ox",
+      "target": "Not far behind",
+      "type": "is"
+    },
+    {
+      "source": "Zhao Bankuo",
+      "target": "Relieved",
+      "type": "feels"
+    },
+    {
+      "source": "Liao Guoren",
+      "target": "Panting heavily",
+      "type": "is"
+    },
+    {
+      "source": "Liao Guoren",
+      "target": "Gives instructions",
+      "type": "does"
+    },
+    {
+      "source": "Big Ox",
+      "target": "Rear guard",
+      "type": "to_go_to"
+    },
+    {
+      "source": "Uncle Guojiu",
+      "target": "Rear guard",
+      "type": "to_go_to"
+    },
+    {
+      "source": "Little Knife",
+      "target": "Tracks",
+      "type": "to_cover"
+    },
+    {
+      "source": "Little Knife",
+      "target": "Diversions",
+      "type": "to_create"
+    },
+    {
+      "source": "Little Knife",
+      "target": "Japanese devils",
+      "type": "prevent_from_figuring_out_route"
+    },
+    {
+      "source": "Big Ox",
+      "target": "Responds",
+      "type": "does"
+    },
+    {
+      "source": "Uncle Guojiu",
+      "target": "Agrees",
+      "type": "does"
+    },
+    {
+      "source": "Little Knife",
+      "target": "Circles away",
+      "type": "does"
+    },
+    {
+      "source": "Others",
+      "target": "Rest",
+      "type": "do"
+    },
+    {
+      "source": "Group",
+      "target": "Out of breath",
+      "type": "is"
+    },
+    {
+      "source": "Group",
+      "target": "Sits down",
+      "type": "does"
+    },
+    {
+      "source": "Group",
+      "target": "Collapses",
+      "type": "does"
+    },
+    {
+      "source": "Zhao Bankuo",
+      "target": "Catches breath",
+      "type": "does"
+    },
+    {
+      "source": "Zhao Bankuo",
+      "target": "Asks curiously",
+      "type": "does"
+    },
+    {
+      "source": "Zhao Bankuo",
+      "target": "Days walking",
+      "type": "has_done"
+    },
+    {
+      "source": "Zhao Bankuo",
+      "target": "People",
+      "type": "seen_no"
+    },
+    {
+      "source": "Zhao Bankuo",
+      "target": "Large group of Japs",
+      "type": "ran_into"
+    },
+    {
+      "source": "Comrade",
+      "target": "Turns head",
+      "type": "does"
+    },
+    {
+      "source": "Comrade",
+      "target": "Looks",
+      "type": "does"
+    },
+    {
+      "source": "Comrade",
+      "target": "Shakes head",
+      "type": "does"
+    },
+    {
+      "source": "Japanese soldiers",
+      "target": "Firepower distribution",
+      "type": "judging_by"
+    },
+    {
+      "source": "Japanese soldiers",
+      "target": "Numbers",
+      "type": "not_large"
+    },
+    {
+      "source": "Japanese soldiers",
+      "target": "Twenty to thirty",
+      "type": "at_most"
+    },
+    {
+      "source": "Japanese soldiers",
+      "target": "Lost patrol",
+      "type": "estimated_to_be"
+    },
+    {
+      "source": "Two small units",
+      "target": "Encountering",
+      "type": "probability_of"
+    },
+    {
+      "source": "Two small units",
+      "target": "Bumping into each other",
+      "type": "does"
+    },
+    {
+      "source": "Zhao Bankuo",
+      "target": "Born enemies",
+      "type": "are_we"
+    },
+    {
+      "source": "Another soldier",
+      "target": "Crouches",
+      "type": "does"
+    },
+    {
+      "source": "Another soldier",
+      "target": "Wipes face",
+      "type": "does"
+    },
+    {
+      "source": "Japanese soldiers",
+      "target": "Uniforms",
+      "type": "seen"
+    },
+    {
+      "source": "Japanese soldiers",
+      "target": "Disheveled",
+      "type": "looked"
+    },
+    {
+      "source": "Japanese soldiers",
+      "target": "Tailng Fourth Army",
+      "type": "were_likely"
+    },
+    {
+      "source": "Japanese soldiers",
+      "target": "Searching for stragglers",
+      "type": "were_likely"
+    },
+    {
+      "source": "Japanese soldiers",
+      "target": "Extracting intelligence",
+      "type": "were_likely_to"
+    },
+    {
+      "source": "Japanese soldiers",
+      "target": "Retreated from forest",
+      "type": "might_have"
+    },
+    {
+      "source": "Zhao Bankuo",
+      "target": "Skeptical",
+      "type": "is"
+    },
+    {
+      "source": "Zhao Bankuo",
+      "target": "Saw clearly in rain",
+      "type": "questions_if"
+    },
+    {
+      "source": "Old man",
+      "target": "Sneers",
+      "type": "does"
+    },
+    {
+      "source": "Old man",
+      "target": "Zhao Bankuo's experience",
+      "type": "comments_on"
+    },
+    {
+      "source": "Old man",
+      "target": "Lack of experience",
+      "type": "notes"
+    },
+    {
+      "source": "Old man",
+      "target": "Zhao Bankuo",
+      "type": "calls_rookie"
+    }
+  ],
+  "hierarchy": {
+    "main_topics": [
+      "Introduction of the mission and setting",
+      "The discovery of fallen soldiers and the mystery of their deaths",
+      "Encounter with the enemy and subsequent escape"
+    ],
+    "structure": "The document is structured into chapters ('引子', '第一章 小分队', '第二章 追兵', '第三章 反扑') with clear narrative progression from the initial aerial bombing to the ground skirmish and retreat. The early parts establish the atmosphere and introduce key characters and challenges, while later sections detail the immediate threats and actions of the mission team."
+  }
+}

@@ -1,0 +1,612 @@
+{
+  "propositions": [
+    {
+      "id": "1",
+      "text": "The story begins with a scene of tension and preparedness in a building, involving a red-haired man, his subordinates, and Mr. Ballard.",
+      "level": 1
+    },
+    {
+      "id": "1.1",
+      "text": "The red-haired man gives orders to keep guns ready and to kill any suspicious individuals.",
+      "level": 2
+    },
+    {
+      "id": "1.2",
+      "text": "Mr. Ballard expresses satisfaction with the preparations.",
+      "level": 2
+    },
+    {
+      "id": "2",
+      "text": "The narrative shifts to a description of the city of 'Cotton Abandon Town' on May 30, 1999, at 21:00.",
+      "level": 1
+    },
+    {
+      "id": "2.1",
+      "text": "A shadowy figure enters a small supermarket.",
+      "level": 2
+    },
+    {
+      "id": "2.2",
+      "text": "The figure, wearing a distinctive black glove on their left arm, leaves the supermarket and stops by a wall.",
+      "level": 2
+    },
+    {
+      "id": "2.3",
+      "text": "The figure lights a cigarette, and the water from a recent rain extinguishes the cigarette butt.",
+      "level": 2
+    },
+    {
+      "id": "2.4",
+      "text": "The figure moves quickly towards the Tamac Business Company.",
+      "level": 2
+    },
+    {
+      "id": "3",
+      "text": "A flashback details an afternoon scene where an elder man and a younger man are sharing tea.",
+      "level": 1
+    },
+    {
+      "id": "3.1",
+      "text": "The elder man, described as weathered but with sharp eyes, invites the younger man, addressed as 'Lover', to appreciate his tea-making skills.",
+      "level": 2
+    },
+    {
+      "id": "3.2",
+      "text": "The younger man, wearing a black leather glove on his left hand, politely critiques the tea's temperature.",
+      "level": 2
+    },
+    {
+      "id": "3.3",
+      "text": "The elder man reveals that the glove is a 'Kesla' brand, implying it has hidden functionality.",
+      "level": 2
+    },
+    {
+      "id": "4",
+      "text": "The story returns to 21:16 at Tamac Business Company, where two security guards discuss their boss's unusual agitation.",
+      "level": 1
+    },
+    {
+      "id": "4.1",
+      "text": "They hear a faint '咔咔' sound.",
+      "level": 2
+    },
+    {
+      "id": "4.2",
+      "text": "One of the guards, driven by fear and recalling his boss's warnings about intruders, investigates the sound.",
+      "level": 2
+    },
+    {
+      "id": "4.3",
+      "text": "He encounters a small mouse, and his momentary relief turns to terror as a thin object ensnares his neck and pulls him upwards.",
+      "level": 2
+    },
+    {
+      "id": "4.4",
+      "text": "His rifle falls to the ground with a loud noise.",
+      "level": 2
+    },
+    {
+      "id": "5",
+      "text": "Later that afternoon, the elder man praises the younger man's tea adjustment.",
+      "level": 1
+    },
+    {
+      "id": "5.1",
+      "text": "The elder man asks the younger man about the most important quality in an organization.",
+      "level": 2
+    },
+    {
+      "id": "5.2",
+      "text": "The younger man suggests 'ability'.",
+      "level": 2
+    },
+    {
+      "id": "5.3",
+      "text": "The elder man then recounts a story from his past as a major, involving a secret military experiment and his partner, Ray.",
+      "level": 2
+    },
+    {
+      "id": "5.4",
+      "text": "Ray, desperate for funding for their experiment, agreed to participate in a heist with his estranged brother, Dave Collin, who had also taken Ray's childhood sweetheart, Ada.",
+      "level": 3
+    },
+    {
+      "id": "5.5",
+      "text": "The heist involved robbing a cash transport on Highway 80, with an insider planting a bomb to create chaos.",
+      "level": 3
+    },
+    {
+      "id": "5.6",
+      "text": "Dave betrayed Ray by giving him a bag of explosives disguised as money, leading to Ray's death and the destruction of the transport and evidence.",
+      "level": 3
+    },
+    {
+      "id": "5.7",
+      "text": "The elder man, guided by Ada, sought revenge and killed Dave.",
+      "level": 3
+    },
+    {
+      "id": "5.8",
+      "text": "Ada then escaped with the money, but the elder man intercepted them and dealt with Ada.",
+      "level": 3
+    },
+    {
+      "id": "6",
+      "text": "At 21:16, the story returns to the immediate aftermath of the guard's death.",
+      "level": 1
+    },
+    {
+      "id": "6.1",
+      "text": "The remaining guard is terrified and hesitant.",
+      "level": 2
+    },
+    {
+      "id": "6.2",
+      "text": "He discovers his partner's body and then, a figure with eyes that open in the darkness.",
+      "level": 2
+    },
+    {
+      "id": "6.3",
+      "text": "The figure, wearing a glove, kills the guard with a dagger.",
+      "level": 2
+    },
+    {
+      "id": "7",
+      "text": "The elder man concludes his story, explaining the importance of trust over ability in an organization.",
+      "level": 1
+    },
+    {
+      "id": "7.1",
+      "text": "He implies that the betrayal by Dave and the insider was a result of imbalanced power within an organization.",
+      "level": 2
+    },
+    {
+      "id": "7.2",
+      "text": "He then introduces a young Scottish Sheepdog named Maddie, implying the younger man, Seth Waller, is the core of balance.",
+      "level": 2
+    },
+    {
+      "id": "8",
+      "text": "At 21:22, the red-haired man realizes something is wrong due to the lack of reports from downstairs.",
+      "level": 1
+    },
+    {
+      "id": "8.1",
+      "text": "He hears gunshots and leads a team to investigate.",
+      "level": 2
+    },
+    {
+      "id": "8.2",
+      "text": "They find bodies, and a wounded man who identifies the assailant.",
+      "level": 2
+    },
+    {
+      "id": "8.3",
+      "text": "The assailant, Seth, engages in a gunfight with the red-haired man, evading his shots with skillful maneuvers.",
+      "level": 2
+    },
+    {
+      "id": "9",
+      "text": "The narrative jumps to the narrator, Nicole Williams, discussing her break-up with her 17th boyfriend after watching 'Fight Club' for the seventh time.",
+      "level": 1
+    },
+    {
+      "id": "9.1",
+      "text": "She reflects on the nature of madness and the contrast between peace and excitement.",
+      "level": 2
+    },
+    {
+      "id": "9.2",
+      "text": "She notes that 1999 was Seth Waller's 'most brilliant' year as a killer.",
+      "level": 2
+    },
+    {
+      "id": "9.3",
+      "text": "She introduces her father, a diplomat stationed in China, and her aunt, Anna Williams, whom her father dislikes.",
+      "level": 2
+    },
+    {
+      "id": "9.4",
+      "text": "Nicole has a good relationship with Anna and visits her in China, where she first meets Seth Waller, Anna's husband.",
+      "level": 3
+    },
+    {
+      "id": "9.5",
+      "text": "She later learns that Seth abandoned Anna.",
+      "level": 3
+    },
+    {
+      "id": "9.6",
+      "text": "Anna gives Nicole two stacks of manuscripts written by Seth about his experiences.",
+      "level": 3
+    },
+    {
+      "id": "9.7",
+      "text": "Nicole is skeptical about the authenticity of Seth's writings, especially given his reported memory loss.",
+      "level": 3
+    },
+    {
+      "id": "9.8",
+      "text": "She starts reading the first part, 'The Mask Hall'.",
+      "level": 3
+    },
+    {
+      "id": "10",
+      "text": "In China, on June 10, 1999, Mai Tao, a teacher, drinks alone and reflects on his mundane life.",
+      "level": 1
+    },
+    {
+      "id": "10.1",
+      "text": "He receives a call from a woman whom he promises to contact later.",
+      "level": 2
+    },
+    {
+      "id": "10.2",
+      "text": "His colleague comments on his potential girlfriend.",
+      "level": 2
+    },
+    {
+      "id": "10.3",
+      "text": "Mai Tao heads to his class, his thoughts drifting to a friend on the other side of the world.",
+      "level": 2
+    },
+    {
+      "id": "11",
+      "text": "Nicole receives a call from police officer Yank Ralph, who claims Seth Waller is real and that he has dealt with him twice in relation to criminal cases.",
+      "level": 1
+    },
+    {
+      "id": "11.1",
+      "text": "Yank also knows 'General Jonathan' mentioned in Seth's writings.",
+      "level": 2
+    },
+    {
+      "id": "11.2",
+      "text": "Nicole, now in China with the second manuscript, decides to investigate the events described.",
+      "level": 2
+    },
+    {
+      "id": "11.3",
+      "text": "Her Chinese name is Ivy.",
+      "level": 2
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Red-haired man",
+      "frequency": 5,
+      "context": "Leads security at Tamac Business Company, gives orders, and engages in a gunfight."
+    },
+    {
+      "name": "Mr. Ballard",
+      "frequency": 1,
+      "context": "A figure of authority who expresses satisfaction with preparations."
+    },
+    {
+      "name": "Shadowy figure",
+      "frequency": 2,
+      "context": "Enters a supermarket, wears a black glove, and moves towards Tamac Business Company."
+    },
+    {
+      "name": "Black glove",
+      "frequency": 3,
+      "context": "Worn by a shadowy figure, the younger man (Seth), and implies hidden functionality."
+    },
+    {
+      "name": "Elder man",
+      "frequency": 4,
+      "context": "Shares tea, tells a story of betrayal and revenge, and emphasizes trust."
+    },
+    {
+      "name": "Younger man (Seth)",
+      "frequency": 16,
+      "context": "Wears a black glove, is addressed as 'Lover' by the elder man, is revealed to be Seth Waller, a former military major, and a professional killer."
+    },
+    {
+      "name": "Tea",
+      "frequency": 5,
+      "context": "Central to the interaction between the elder man and the younger man, used as a metaphor for self-reflection and understanding."
+    },
+    {
+      "name": "Trust",
+      "frequency": 3,
+      "context": "The key quality in an organization highlighted by the elder man."
+    },
+    {
+      "name": "Ability",
+      "frequency": 2,
+      "context": "Suggested by Seth as an important quality in an organization, but secondary to trust."
+    },
+    {
+      "name": "Ray",
+      "frequency": 2,
+      "context": "The elder man's partner in secret experiments, desperate for funding."
+    },
+    {
+      "name": "Dave Collin",
+      "frequency": 3,
+      "context": "Ray's estranged brother, orchestrates a heist, and betrays Ray."
+    },
+    {
+      "name": "Ada",
+      "frequency": 6,
+      "context": "Ray's childhood sweetheart, Dave's current lover, plays a crucial role in the revenge plot and escape."
+    },
+    {
+      "name": "Heist",
+      "frequency": 3,
+      "context": "The robbery of a cash transport that forms the core of the elder man's story."
+    },
+    {
+      "name": "Betrayal",
+      "frequency": 5,
+      "context": "A central theme in the elder man's story, perpetrated by Dave against Ray and Ada against the elder man."
+    },
+    {
+      "name": "Revenge",
+      "frequency": 3,
+      "context": "The elder man's motivation after learning about Ray's death."
+    },
+    {
+      "name": "Tamac Business Company",
+      "frequency": 6,
+      "context": "The location of the initial tension and subsequent violent events."
+    },
+    {
+      "name": "Nicole Williams (Ivy)",
+      "frequency": 8,
+      "context": "The narrator, breaks up with her boyfriend, learns about Seth, and decides to investigate his story."
+    },
+    {
+      "name": "Anna Williams (Annie)",
+      "frequency": 5,
+      "context": "Nicole's aunt, married to Seth, later abandoned by him."
+    },
+    {
+      "name": "Manuscripts",
+      "frequency": 4,
+      "context": "Written by Seth, recounting his experiences, which Nicole reads."
+    },
+    {
+      "name": "Fight Club (movie)",
+      "frequency": 2,
+      "context": "The catalyst for Nicole's break-up and her reflection on madness."
+    },
+    {
+      "name": "Mai Tao",
+      "frequency": 5,
+      "context": "A teacher in Beijing, reflects on his life, and is implied to be connected to the larger narrative."
+    },
+    {
+      "name": "Yank Ralph",
+      "frequency": 2,
+      "context": "A police officer who confirms Seth's existence and involvement in criminal cases."
+    },
+    {
+      "name": "General Jonathan",
+      "frequency": 1,
+      "context": "A figure known to Yank Ralph, mentioned in Seth's writings."
+    },
+    {
+      "name": "Balance",
+      "frequency": 4,
+      "context": "A core concept discussed by the elder man, relating to organizational dynamics and personal relationships."
+    },
+    {
+      "name": "Maddie (dog)",
+      "frequency": 3,
+      "context": "A dog belonging to the elder man, introduced as a companion for Seth."
+    },
+    {
+      "name": "China",
+      "frequency": 5,
+      "context": "A significant location, where Nicole's father works, where Anna lives, and where Seth wishes to return."
+    },
+    {
+      "name": "Uniformed guards/security",
+      "frequency": 2,
+      "context": "Present at Tamac Business Company, react to the violence."
+    },
+    {
+      "name": "Dagger",
+      "frequency": 2,
+      "context": "Used by Seth to kill the second guard and by the red-haired man."
+    },
+    {
+      "name": "Police",
+      "frequency": 2,
+      "context": "Arrive at Tamac Business Company at the end of the prologue."
+    },
+    {
+      "name": "Psychology",
+      "frequency": 2,
+      "context": "Mai Tao's profession, and Seth's later profession as a psychologist."
+    }
+  ],
+  "relations": [
+    {
+      "source": "Red-haired man",
+      "target": "Mr. Ballard",
+      "type": "subordinate_of"
+    },
+    {
+      "source": "Shadowy figure",
+      "target": "Tamac Business Company",
+      "type": "moves_towards"
+    },
+    {
+      "source": "Black glove",
+      "target": "Shadowy figure",
+      "type": "worn_by"
+    },
+    {
+      "source": "Black glove",
+      "target": "Young man (Seth)",
+      "type": "worn_by"
+    },
+    {
+      "source": "Elder man",
+      "target": "Young man (Seth)",
+      "type": "interacts_with"
+    },
+    {
+      "source": "Elder man",
+      "target": "Trust",
+      "type": "emphasizes"
+    },
+    {
+      "source": "Young man (Seth)",
+      "target": "Ability",
+      "type": "suggests_as_important_quality"
+    },
+    {
+      "source": "Ray",
+      "target": "Elder man",
+      "type": "partner_of"
+    },
+    {
+      "source": "Dave Collin",
+      "target": "Ray",
+      "type": "brother_of"
+    },
+    {
+      "source": "Dave Collin",
+      "target": "Ada",
+      "type": "lover_of"
+    },
+    {
+      "source": "Ada",
+      "target": "Ray",
+      "type": "childhood_sweetheart_of"
+    },
+    {
+      "source": "Heist",
+      "target": "Dave Collin",
+      "type": "orchestrated_by"
+    },
+    {
+      "source": "Betrayal",
+      "target": "Dave Collin",
+      "type": "perpetrated_by"
+    },
+    {
+      "source": "Betrayal",
+      "target": "Ada",
+      "type": "perpetrated_by"
+    },
+    {
+      "source": "Revenge",
+      "target": "Elder man",
+      "type": "motivation_of"
+    },
+    {
+      "source": "Uniformed guards/security",
+      "target": "Tamac Business Company",
+      "type": "present_at"
+    },
+    {
+      "source": "Dagger",
+      "target": "Seth",
+      "type": "used_by"
+    },
+    {
+      "source": "Dagger",
+      "target": "Red-haired man",
+      "type": "used_by"
+    },
+    {
+      "source": "Police",
+      "target": "Tamac Business Company",
+      "type": "arrive_at"
+    },
+    {
+      "source": "Nicole Williams (Ivy)",
+      "target": "Fight Club (movie)",
+      "type": "breaks_up_with_boyfriend_after_watching"
+    },
+    {
+      "source": "Nicole Williams (Ivy)",
+      "target": "Seth Waller",
+      "type": "investigates_story_of"
+    },
+    {
+      "source": "Anna Williams (Annie)",
+      "target": "Seth Waller",
+      "type": "married_to"
+    },
+    {
+      "source": "Anna Williams (Annie)",
+      "target": "Nicole Williams (Ivy)",
+      "type": "aunt_of"
+    },
+    {
+      "source": "Manuscripts",
+      "target": "Seth",
+      "type": "written_by"
+    },
+    {
+      "source": "Mai Tao",
+      "target": "China",
+      "type": "resides_in"
+    },
+    {
+      "source": "Yank Ralph",
+      "target": "Seth Waller",
+      "type": "confirms_existence_of"
+    },
+    {
+      "source": "Yank Ralph",
+      "target": "General Jonathan",
+      "type": "knows"
+    },
+    {
+      "source": "Balance",
+      "target": "Organizational dynamics",
+      "type": "applies_to"
+    },
+    {
+      "source": "Balance",
+      "target": "Personal relationships",
+      "type": "applies_to"
+    },
+    {
+      "source": "Maddie (dog)",
+      "target": "Elder man",
+      "type": "owned_by"
+    },
+    {
+      "source": "Maddie (dog)",
+      "target": "Seth",
+      "type": "becomes_companion_of"
+    },
+    {
+      "source": "China",
+      "target": "Nicole Williams (Ivy)",
+      "type": "visited_by"
+    },
+    {
+      "source": "China",
+      "target": "Anna Williams (Annie)",
+      "type": "resides_in"
+    },
+    {
+      "source": "Psychology",
+      "target": "Mai Tao",
+      "type": "profession_of"
+    },
+    {
+      "source": "Psychology",
+      "target": "Seth",
+      "type": "later_profession_of"
+    }
+  ],
+  "hierarchy": {
+    "main_topics": [
+      "Introduction to the narrative and characters",
+      "A historical event involving betrayal and revenge",
+      "The narrator's personal life and investigation",
+      "A parallel narrative in China"
+    ],
+    "structure": "The document is structured with an introductory prologue that establishes tension and introduces key characters, followed by interwoven flashbacks and present-day events. The narrative then shifts to the narrator's perspective, where she recounts her personal life and her investigation into the events and characters introduced in the prologue. Finally, a parallel narrative set in China is presented, hinting at connections to the main plot."
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "propositions": [
+    {
+      "id": "1",
+      "text": "Document: 鬼吹灯之云南虫谷_天下霸唱.txt",
+      "level": 1
+    }
+  ],
+  "concepts": [],
+  "relations": [],
+  "hierarchy": {
+    "main_topics": [],
+    "structure": "Basic structure (extraction failed)"
+  }
+}

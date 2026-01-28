@@ -1,0 +1,132 @@
+{
+  "propositions": [
+    {
+      "id": "1",
+      "text": "别有洞天 is a sequel to 小蛮女钓美男, continuing the story with a new narrative.",
+      "level": 1
+    },
+    {
+      "id": "1.1",
+      "text": "The author aims to maintain the style of the previous work while introducing new elements.",
+      "level": 2
+    },
+    {
+      "id": "2",
+      "text": "The story revolves around characters like 小鱼, S影, and 影响, exploring themes of control, oppression, and emotional conflict.",
+      "level": 1
+    },
+    {
+      "id": "2.1",
+      "text": "小鱼 represents a character struggling with personal grievances and societal pressures.",
+      "level": 2
+    },
+    {
+      "id": "2.2",
+      "text": "S影 embodies control and manipulation, often causing distress to other characters.",
+      "level": 2
+    },
+    {
+      "id": "2.3",
+      "text": "影响 appears as a conflicted figure, navigating emotional and relational challenges.",
+      "level": 2
+    },
+    {
+      "id": "3",
+      "text": "The narrative structure includes chapters focusing on initial encounters, emotional entanglements, conflicts, and life choices.",
+      "level": 1
+    },
+    {
+      "id": "3.1",
+      "text": "Chapter 1 introduces misunderstandings and the oppressive dynamics involving S影.",
+      "level": 2
+    },
+    {
+      "id": "3.2",
+      "text": "Chapter 2 delves into emotional struggles and interpersonal tensions among characters.",
+      "level": 2
+    },
+    {
+      "id": "3.3",
+      "text": "Chapter 3 explores conflicts and attempts at reconciliation amidst ongoing struggles.",
+      "level": 2
+    },
+    {
+      "id": "3.4",
+      "text": "Chapter 4 examines life choices and the harsh realities of the characters' environments.",
+      "level": 2
+    }
+  ],
+  "concepts": [
+    {
+      "name": "小鱼",
+      "frequency": 50,
+      "context": "A central character symbolizing innocence, struggle, and emotional vulnerability."
+    },
+    {
+      "name": "S影",
+      "frequency": 40,
+      "context": "A controlling and manipulative figure causing conflict and oppression."
+    },
+    {
+      "name": "影响",
+      "frequency": 35,
+      "context": "A character representing emotional conflict and relational complexity."
+    },
+    {
+      "name": "奴隶",
+      "frequency": 30,
+      "context": "Represents oppression and subservience, often tied to societal or personal control."
+    },
+    {
+      "name": "压迫",
+      "frequency": 10,
+      "context": "A recurring theme of domination and suffering in the narrative."
+    },
+    {
+      "name": "情感",
+      "frequency": 15,
+      "context": "Central to the interpersonal dynamics and conflicts among characters."
+    }
+  ],
+  "relations": [
+    {
+      "source": "小鱼",
+      "target": "S影",
+      "type": "oppressed_by"
+    },
+    {
+      "source": "小鱼",
+      "target": "影响",
+      "type": "emotionally_connected"
+    },
+    {
+      "source": "S影",
+      "target": "奴隶",
+      "type": "controls"
+    },
+    {
+      "source": "影响",
+      "target": "小鱼",
+      "type": "conflicts_with"
+    },
+    {
+      "source": "压迫",
+      "target": "奴隶",
+      "type": "defines"
+    },
+    {
+      "source": "情感",
+      "target": "小鱼",
+      "type": "drives"
+    }
+  ],
+  "hierarchy": {
+    "main_topics": [
+      "Character Dynamics",
+      "Oppression and Control",
+      "Emotional Conflict",
+      "Life Choices"
+    ],
+    "structure": "The document is structured into a preface and four chapters, each focusing on different aspects of character interactions and thematic progression from initial encounters to deeper conflicts and resolutions."
+  }
+}

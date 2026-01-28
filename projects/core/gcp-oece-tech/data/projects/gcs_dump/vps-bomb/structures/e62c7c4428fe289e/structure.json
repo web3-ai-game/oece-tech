@@ -1,0 +1,116 @@
+{
+  "propositions": [
+    {
+      "id": "1",
+      "text": "The narrative centers on the struggles and pain of Tong Yao in a female-dominated society.",
+      "level": 1
+    },
+    {
+      "id": "1.1",
+      "text": "Tong Yao experiences initial pain and abandonment, reflecting on the hardships of reincarnation and societal position.",
+      "level": 2
+    },
+    {
+      "id": "1.2",
+      "text": "Tong Yao faces economic and emotional challenges, feeling isolated and envious of others' success after穿越 (transmigration).",
+      "level": 2
+    },
+    {
+      "id": "1.3",
+      "text": "Interactions with other characters like Tong Feiyang and various vendors reveal Tong Yao's resilience and defiance despite poverty.",
+      "level": 2
+    },
+    {
+      "id": "2",
+      "text": "The deepening of pain explores Tong Yao's personal and familial struggles.",
+      "level": 1
+    },
+    {
+      "id": "2.1",
+      "text": "Tong Yao's family issues and lack of talent lead to a mundane life post-graduation, with fleeting hope in small earnings.",
+      "level": 2
+    },
+    {
+      "id": "2.2",
+      "text": "Emotional turmoil and physical pain are evident as Tong Yao navigates relationships and violent encounters.",
+      "level": 2
+    },
+    {
+      "id": "3",
+      "text": "Themes of loss, hatred, and separation further define Tong Yao's journey.",
+      "level": 1
+    },
+    {
+      "id": "3.1",
+      "text": "Tong Yao's encounters with betrayal and conflict intensify feelings of resentment and the need for protection.",
+      "level": 2
+    },
+    {
+      "id": "3.2",
+      "text": "Separation from familiar settings and people marks a transition to new environments like the Taifu mansion, symbolizing both opportunity and danger.",
+      "level": 2
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Pain",
+      "frequency": 15,
+      "context": "Central theme representing physical, emotional, and societal suffering of Tong Yao."
+    },
+    {
+      "name": "Reincarnation/Transmigration",
+      "frequency": 5,
+      "context": "Concept of rebirth or crossing into another world, highlighting disparity in outcomes."
+    },
+    {
+      "name": "Poverty",
+      "frequency": 10,
+      "context": "Recurring struggle for basic needs like money and shelter, driving character actions."
+    },
+    {
+      "name": "Female Dominance",
+      "frequency": 3,
+      "context": "Societal structure where women hold power, influencing character dynamics."
+    },
+    {
+      "name": "Isolation",
+      "frequency": 7,
+      "context": "Tong Yao's loneliness and lack of emotional support in facing challenges."
+    }
+  ],
+  "relations": [
+    {
+      "source": "Pain",
+      "target": "Poverty",
+      "type": "implies"
+    },
+    {
+      "source": "Pain",
+      "target": "Isolation",
+      "type": "part_of"
+    },
+    {
+      "source": "Reincarnation/Transmigration",
+      "target": "Pain",
+      "type": "causes"
+    },
+    {
+      "source": "Female Dominance",
+      "target": "Tong Yao",
+      "type": "influences"
+    },
+    {
+      "source": "Tong Yao",
+      "target": "Isolation",
+      "type": "experiences"
+    }
+  ],
+  "hierarchy": {
+    "main_topics": [
+      "Pain and Suffering",
+      "Societal Structure and Struggles",
+      "Personal Growth and Relationships"
+    ],
+    "structure": "The document is structured as a narrative with chapters focusing on different facets of pain (initial, deep, loss, hatred, separation, memory, resentment), following Tong Yao's journey in a female-dominated society."
+  }
+}

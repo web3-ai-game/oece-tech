@@ -1,0 +1,122 @@
+{
+  "propositions": [
+    {
+      "id": "1",
+      "text": "The protagonist's childhood was marked by poverty and family struggles in a rural village.",
+      "level": 1
+    },
+    {
+      "id": "1.1",
+      "text": "The family faced financial ruin after the father's death, losing their home and land.",
+      "level": 2
+    },
+    {
+      "id": "1.2",
+      "text": "The mother, despite hardships, encouraged education as a means to change destiny.",
+      "level": 2
+    },
+    {
+      "id": "2",
+      "text": "The protagonist's teenage years involved working in harsh factory conditions.",
+      "level": 1
+    },
+    {
+      "id": "2.1",
+      "text": "At 16, the protagonist worked in a factory in Guangdong, facing poor living conditions.",
+      "level": 2
+    },
+    {
+      "id": "2.2",
+      "text": "Despite challenges, self-study and determination led to personal growth and certificates.",
+      "level": 2
+    },
+    {
+      "id": "3",
+      "text": "University education marked a turning point with support from others.",
+      "level": 1
+    },
+    {
+      "id": "3.1",
+      "text": "The protagonist became a teacher, improving their financial situation.",
+      "level": 2
+    },
+    {
+      "id": "4",
+      "text": "The grandfather's story highlights societal indifference and personal struggle.",
+      "level": 1
+    },
+    {
+      "id": "4.1",
+      "text": "The grandfather faced neglect and lack of help during a health crisis.",
+      "level": 2
+    },
+    {
+      "id": "5",
+      "text": "The grandfather's death deeply affected the protagonist emotionally.",
+      "level": 1
+    },
+    {
+      "id": "6",
+      "text": "A mysterious event or transition is hinted at with a phone call and personal turmoil.",
+      "level": 1
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Poverty",
+      "frequency": 8,
+      "context": "Central theme of childhood and family struggles."
+    },
+    {
+      "name": "Education",
+      "frequency": 6,
+      "context": "Seen as a path to change destiny and improve life."
+    },
+    {
+      "name": "Family",
+      "frequency": 5,
+      "context": "Core emotional and supportive unit despite hardships."
+    },
+    {
+      "name": "Hardship",
+      "frequency": 4,
+      "context": "Recurring theme in work and personal life."
+    },
+    {
+      "name": "Determination",
+      "frequency": 3,
+      "context": "Protagonist's drive to overcome obstacles."
+    }
+  ],
+  "relations": [
+    {
+      "source": "Poverty",
+      "target": "Education",
+      "type": "opposes"
+    },
+    {
+      "source": "Education",
+      "target": "Determination",
+      "type": "requires"
+    },
+    {
+      "source": "Family",
+      "target": "Hardship",
+      "type": "endures"
+    },
+    {
+      "source": "Hardship",
+      "target": "Determination",
+      "type": "fuels"
+    }
+  ],
+  "hierarchy": {
+    "main_topics": [
+      "Childhood Struggles",
+      "Work and Growth",
+      "Family and Loss",
+      "Personal Transition"
+    ],
+    "structure": "The document is organized chronologically, detailing the protagonist's life from childhood poverty to educational success, work challenges, and family losses, with a hint of a significant personal shift."
+  }
+}

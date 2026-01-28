@@ -1,0 +1,393 @@
+{
+  "propositions": [
+    {
+      "id": "1",
+      "text": "《老兵诡事录》是一部小说。",
+      "level": 1
+    },
+    {
+      "id": "1.1",
+      "text": "其中一个篇章是“飞行电烫斗”。",
+      "level": 2
+    },
+    {
+      "id": "2",
+      "text": "故事围绕“我爷爷”展开。",
+      "level": 1
+    },
+    {
+      "id": "2.1",
+      "text": "爷爷早年参加国民党，曾任文书少尉。",
+      "level": 2
+    },
+    {
+      "id": "2.2",
+      "text": "爷爷的家族曾是书香门第。",
+      "level": 2
+    },
+    {
+      "id": "2.3",
+      "text": "故事主要讲述了爷爷遇到的最离奇的一件事。",
+      "level": 2
+    },
+    {
+      "id": "3",
+      "text": "爷爷因擅长毛笔字，在部队中受到器重，升为文书少尉。",
+      "level": 1
+    },
+    {
+      "id": "3.1",
+      "text": "文职工作相对安全，可以避免直接战斗。",
+      "level": 2
+    },
+    {
+      "id": "4",
+      "text": "一次，爷爷被临时抽调与另一名文官押送一批军用物资。",
+      "level": 1
+    },
+    {
+      "id": "4.1",
+      "text": "押运队伍还包括三十多名士兵。",
+      "level": 2
+    },
+    {
+      "id": "5",
+      "text": "火车在“土地陈”小车站停下进行例行检修。",
+      "level": 1
+    },
+    {
+      "id": "5.1",
+      "text": "车站附近传来“呜里哇啦”的声音，像是某种乐器。",
+      "level": 2
+    },
+    {
+      "id": "5.2",
+      "text": "同行的黄姓文官认出这是出殡队伍，吹奏的是“殇篪”。",
+      "level": 2
+    },
+    {
+      "id": "5.3",
+      "text": "黄姓文官解释，横死之人常在午夜前后出殡，以勾魂。",
+      "level": 3
+    },
+    {
+      "id": "5.4",
+      "text": "黄姓文官认为外人在场不吉利，可能背上冤魂，需要回避。",
+      "level": 3
+    },
+    {
+      "id": "6",
+      "text": "出殡队伍出现，由一名老道士带领。",
+      "level": 1
+    },
+    {
+      "id": "6.1",
+      "text": "队伍中有抬棺材、打招魂幡、撒纸钱和吹奏殇篪的人。",
+      "level": 2
+    },
+    {
+      "id": "6.2",
+      "text": "队伍没有披麻戴孝，而是统一穿着麻布背心。",
+      "level": 2
+    },
+    {
+      "id": "6.3",
+      "text": "老道士声称“夜送喜神，望无关人等回避”。",
+      "level": 2
+    },
+    {
+      "id": "7",
+      "text": "士兵们不听从回避的命令，士兵马三炮主动提出要查探出殡队伍。",
+      "level": 1
+    },
+    {
+      "id": "7.1",
+      "text": "马三炮怀疑棺材里不是活人，可能装有药品或军火。",
+      "level": 2
+    },
+    {
+      "id": "7.2",
+      "text": "马三炮强行要求打开棺材检查。",
+      "level": 2
+    },
+    {
+      "id": "8",
+      "text": "马三炮发现棺材上缠绕有金丝。",
+      "level": 1
+    },
+    {
+      "id": "8.1",
+      "text": "士兵们因金子而围上来。",
+      "level": 2
+    },
+    {
+      "id": "8.2",
+      "text": "棺材外面缠绕有七十二根横向和三十六根纵向的金丝线。",
+      "level": 3
+    },
+    {
+      "id": "9",
+      "text": "老道士警告他们承受不了开棺的后果。",
+      "level": 1
+    },
+    {
+      "id": "9.1",
+      "text": "马三炮不顾警告，强行打开了棺材。",
+      "level": 2
+    },
+    {
+      "id": "10",
+      "text": "棺材里是一具睁着眼睛的女性尸体。",
+      "level": 1
+    },
+    {
+      "id": "10.1",
+      "text": "马三炮从中捞取了纯金打造的头饰、戒指、玉镯、金项链等陪葬品。",
+      "level": 2
+    },
+    {
+      "id": "10.2",
+      "text": "老道士预言动棺材的人将遭天谴。",
+      "level": 3
+    },
+    {
+      "id": "10.3",
+      "text": "老道士警告爷爷和同僚不要靠近棺材。",
+      "level": 3
+    },
+    {
+      "id": "11",
+      "text": "火车因大雨冲垮的山体而停在桥上。",
+      "level": 1
+    },
+    {
+      "id": "11.1",
+      "text": "爷爷和同僚前往车头查看情况。",
+      "level": 2
+    },
+    {
+      "id": "11.2",
+      "text": "司机告知山体滑坡导致铁轨被埋，无法通行。",
+      "level": 2
+    },
+    {
+      "id": "11.3",
+      "text": "司机决定后退火车，但桥被河水冲垮，导致火车脱轨。",
+      "level": 2
+    },
+    {
+      "id": "11.4",
+      "text": "整列火车滚下山坡，除爷爷、同僚和三名火车工外，其余士兵全部遇难。",
+      "level": 2
+    },
+    {
+      "id": "12",
+      "text": "这次灾难被认为是对动棺材、抢夺陪葬品的报应。",
+      "level": 1
+    },
+    {
+      "id": "13",
+      "text": "马三炮奇迹般地生还，并带着最贵重的一箱药品“阿司匹林”返回。",
+      "level": 1
+    },
+    {
+      "id": "13.1",
+      "text": "马三炮因此受到嘉奖，但性情大变，变得少言寡语，面无表情。",
+      "level": 2
+    },
+    {
+      "id": "14",
+      "text": "几天后，马三炮所在的营房发生诡异事件。",
+      "level": 1
+    },
+    {
+      "id": "14.1",
+      "text": "马三炮与一名身穿大红色丝绸丧葬服饰的年轻女子并排躺在炕上。",
+      "level": 2
+    },
+    {
+      "id": "14.2",
+      "text": "女子明显是死人，而马三炮浑身颤抖。",
+      "level": 3
+    },
+    {
+      "id": "14.3",
+      "text": "马三炮胸前摆放着当晚从棺材里拾来的“宝贝”。",
+      "level": 3
+    },
+    {
+      "id": "14.4",
+      "text": "爷爷的同僚认为这是女子来找马三炮寻仇。",
+      "level": 4
+    }
+  ],
+  "concepts": [
+    {
+      "name": "爷爷",
+      "frequency": 20,
+      "context": "故事的主角之一，国民党文书少尉，曾遇到过离奇事件。"
+    },
+    {
+      "name": "国民党",
+      "frequency": 5,
+      "context": "爷爷曾加入的政党，故事发生在其统治时期。"
+    },
+    {
+      "name": "文书少尉",
+      "frequency": 3,
+      "context": "爷爷的军衔，属于文职岗位。"
+    },
+    {
+      "name": "出殡",
+      "frequency": 10,
+      "context": "故事中一个重要的情节，涉及夜间出殡和特殊仪式。"
+    },
+    {
+      "name": "殇篪",
+      "frequency": 5,
+      "context": "一种用于夜间出殡的乐器，声音低沉。"
+    },
+    {
+      "name": "马三炮",
+      "frequency": 25,
+      "context": "一名粗鲁、仗势欺人的士兵，带头打开棺材并抢夺陪葬品，后经历诡异事件。"
+    },
+    {
+      "name": "棺材",
+      "frequency": 15,
+      "context": "故事的关键物品，里面装着一具女性尸体，其陪葬品引发了后续灾难。"
+    },
+    {
+      "name": "金丝",
+      "frequency": 5,
+      "context": "缠绕在棺材上，由纯金打造，是吸引士兵关注并导致事态升级的因素。"
+    },
+    {
+      "name": "陪葬品",
+      "frequency": 8,
+      "context": "棺材内的贵重物品，被士兵哄抢，被认为是引发报应的原因。"
+    },
+    {
+      "name": "火车",
+      "frequency": 15,
+      "context": "故事的主要场景之一，押运任务和灾难发生的载体。"
+    },
+    {
+      "name": "大雨",
+      "frequency": 8,
+      "context": "引发山体滑坡和火车事故的关键天气条件。"
+    },
+    {
+      "name": "山体滑坡",
+      "frequency": 4,
+      "context": "导致火车停运和脱轨的直接原因。"
+    },
+    {
+      "name": "报应",
+      "frequency": 5,
+      "context": "故事的核心主题，暗示不当行为会招致灾祸。"
+    },
+    {
+      "name": "老道士",
+      "frequency": 6,
+      "context": "出殡队伍的领队，预言了动棺材的后果。"
+    },
+    {
+      "name": "同僚",
+      "frequency": 10,
+      "context": "与爷爷一同押运的文官，对迷信之事有所了解，并经历事件。"
+    },
+    {
+      "name": "士兵",
+      "frequency": 15,
+      "context": "构成押运队伍的主力，贪图财物，不听指挥，大部分在灾难中丧生。"
+    },
+    {
+      "name": "女性尸体",
+      "frequency": 5,
+      "context": "棺材内的死者，其陪葬品和后续的出现与马三炮的遭遇有关。"
+    }
+  ],
+  "relations": [
+    {
+      "source": "爷爷",
+      "target": "国民党",
+      "type": "joined"
+    },
+    {
+      "source": "爷爷",
+      "target": "文书少尉",
+      "type": "held_rank"
+    },
+    {
+      "source": "出殡",
+      "target": "殇篪",
+      "type": "involves_instrument"
+    },
+    {
+      "source": "马三炮",
+      "target": "棺材",
+      "type": "opened"
+    },
+    {
+      "source": "马三炮",
+      "target": "金丝",
+      "type": "discovered"
+    },
+    {
+      "source": "马三炮",
+      "target": "陪葬品",
+      "type": "looted"
+    },
+    {
+      "source": "火车",
+      "target": "大雨",
+      "type": "affected_by"
+    },
+    {
+      "source": "火车",
+      "target": "山体滑坡",
+      "type": "caused_by"
+    },
+    {
+      "source": "报应",
+      "target": "陪葬品",
+      "type": "related_to_consequences_of_looting"
+    },
+    {
+      "source": "老道士",
+      "target": "报应",
+      "type": "predicted"
+    },
+    {
+      "source": "同僚",
+      "target": "爷爷",
+      "type": "collaborated_with"
+    },
+    {
+      "source": "士兵",
+      "target": "陪葬品",
+      "type": "looted"
+    },
+    {
+      "source": "女性尸体",
+      "target": "马三炮",
+      "type": "haunted"
+    },
+    {
+      "source": "女性尸体",
+      "target": "陪葬品",
+      "type": "owned"
+    }
+  ],
+  "hierarchy": {
+    "main_topics": [
+      "老兵诡事录",
+      "飞行电烫斗",
+      "爷爷的经历",
+      "离奇事件",
+      "报应与超自然"
+    ],
+    "structure": "The document is structured as a narrative story, beginning with an introduction to the main character and setting, then detailing a specific, highly unusual event, and concluding with the supernatural consequences of that event. It moves from historical context to a supernatural incident and its aftermath."
+  }
+}

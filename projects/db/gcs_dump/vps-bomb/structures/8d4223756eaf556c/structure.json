@@ -1,0 +1,1970 @@
+{
+  "propositions": [
+    {
+      "id": "1",
+      "text": "千年祝祭 (A Millennium Celebration)",
+      "level": 1
+    },
+    {
+      "id": "1.1",
+      "text": "序章 (Prologue)",
+      "level": 2
+    },
+    {
+      "id": "1.1.1",
+      "text": "历史的回响 (Echoes of History)",
+      "level": 3
+    },
+    {
+      "id": "1.1.2",
+      "text": "传承与变革 (Inheritance and Transformation)",
+      "level": 3
+    },
+    {
+      "id": "1.2",
+      "text": "第一章 永恒的寂静 (Chapter 1: Eternal Silence)",
+      "level": 2
+    },
+    {
+      "id": "1.2.1",
+      "text": "昔日荣光 (Past Glory)",
+      "level": 3
+    },
+    {
+      "id": "1.2.2",
+      "text": "裂痕初现 (Cracks Begin to Appear)",
+      "level": 3
+    },
+    {
+      "id": "1.3",
+      "text": "第二章 遗忘的誓言 (Chapter 2: Forgotten Vows)",
+      "level": 2
+    },
+    {
+      "id": "1.3.1",
+      "text": "破碎的记忆 (Shattered Memories)",
+      "level": 3
+    },
+    {
+      "id": "1.3.2",
+      "text": "觉醒的力量 (Awakened Power)",
+      "level": 3
+    },
+    {
+      "id": "1.4",
+      "text": "第三章 命运的交错 (Chapter 3: Intertwined Fates)",
+      "level": 2
+    },
+    {
+      "id": "1.4.1",
+      "text": "宿命的召唤 (Destined Calling)",
+      "level": 3
+    },
+    {
+      "id": "1.4.2",
+      "text": "尘封的真相 (Sealed Truth)",
+      "level": 3
+    },
+    {
+      "id": "1.5",
+      "text": "第四章 破晓的曙光 (Chapter 4: Dawn's Light)",
+      "level": 2
+    },
+    {
+      "id": "1.5.1",
+      "text": "最后的决战 (The Final Battle)",
+      "level": 3
+    },
+    {
+      "id": "1.5.2",
+      "text": "新的黎明 (A New Dawn)",
+      "level": 3
+    },
+    {
+      "id": "1.6",
+      "text": "尾声 (Epilogue)",
+      "level": 2
+    },
+    {
+      "id": "1.7",
+      "text": "引用 (Quotations)",
+      "level": 2
+    },
+    {
+      "id": "1.8",
+      "text": "附录 (Appendix)",
+      "level": 2
+    },
+    {
+      "id": "2",
+      "text": "千年祝祭，是一个时间的概念 (A Millennium Celebration is a concept of time)",
+      "level": 1
+    },
+    {
+      "id": "3",
+      "text": "千年祝祭，是历史长河中无数浪潮的积淀 (A Millennium Celebration is the accumulation of countless waves in the long river of history)",
+      "level": 1
+    },
+    {
+      "id": "4",
+      "text": "千年祝祭，承载着无数先辈的足迹 (A Millennium Celebration carries the footprints of countless ancestors)",
+      "level": 1
+    },
+    {
+      "id": "5",
+      "text": "千年祝祭，见证着文明的兴衰更替 (A Millennium Celebration witnesses the rise and fall of civilizations)",
+      "level": 1
+    },
+    {
+      "id": "6",
+      "text": "“历史是一条永不停歇的河流，每一朵浪花都诉说着一个不朽的故事。” (History is a never-ending river, each wave telling an immortal story.)",
+      "level": 1
+    },
+    {
+      "id": "7",
+      "text": "祝祭，是文化得以传承的重要载体 (Celebrations are important carriers for cultural inheritance)",
+      "level": 1
+    },
+    {
+      "id": "8",
+      "text": "每一次的庆典，都蕴含着对过去的缅怀 (Every celebration contains remembrance of the past)",
+      "level": 1
+    },
+    {
+      "id": "9",
+      "text": "每一次的庆典，都蕴含着对当下的反思 (Every celebration contains reflection on the present)",
+      "level": 1
+    },
+    {
+      "id": "10",
+      "text": "每一次的庆典，都蕴含着对未来的期许 (Every celebration contains expectations for the future)",
+      "level": 1
+    },
+    {
+      "id": "11",
+      "text": "在这个变革的时代，如何在传统与现代之间找到平衡是重大课题 (In this era of change, finding balance between tradition and modernity is a major issue)",
+      "level": 1
+    },
+    {
+      "id": "12",
+      "text": "在这个变革的时代，如何在传承中注入新的活力是重大课题 (In this era of change, injecting new vitality into inheritance is a major issue)",
+      "level": 1
+    },
+    {
+      "id": "13",
+      "text": "第一章：古老的回声 (Chapter 1: Ancient Echoes)",
+      "level": 2
+    },
+    {
+      "id": "13.1",
+      "text": "远古的祭祀 (Ancient Sacrifices)",
+      "level": 3
+    },
+    {
+      "id": "13.1.1",
+      "text": "在文字尚未普及的年代，先民们用最虔诚的心灵与天地进行沟通 (In an era before widespread writing, ancestors communicated with heaven and earth with the most devout hearts)",
+      "level": 4
+    },
+    {
+      "id": "13.1.2",
+      "text": "他们通过祭祀，表达对自然神灵的敬畏 (They expressed reverence for nature spirits through sacrifices)",
+      "level": 4
+    },
+    {
+      "id": "13.1.3",
+      "text": "他们通过祭祀，祈求风调雨顺、五谷丰登 (They prayed for favorable weather and abundant harvests through sacrifices)",
+      "level": 4
+    },
+    {
+      "id": "13.1.4",
+      "text": "那些流传至今的古老歌谣和仪式，便是先民们留给我们的宝贵遗产 (The ancient songs and rituals passed down to this day are precious legacies left by our ancestors)",
+      "level": 4
+    },
+    {
+      "id": "13.2",
+      "text": "符号的密码 (Code of Symbols)",
+      "level": 3
+    },
+    {
+      "id": "13.2.1",
+      "text": "古老的文字，如同一个个承载着历史秘密的密码 (Ancient characters are like codes carrying historical secrets)",
+      "level": 4
+    },
+    {
+      "id": "13.2.2",
+      "text": "每一个符号，都可能隐藏着一个古老民族的智慧与信仰 (Every symbol may hide the wisdom and beliefs of an ancient people)",
+      "level": 4
+    },
+    {
+      "id": "13.2.3",
+      "text": "破译这些符号，我们才能更深入地理解那个遥远的时代 (By deciphering these symbols, we can understand that distant era more deeply)",
+      "level": 4
+    },
+    {
+      "id": "14",
+      "text": "第二章：时代的回响 (Chapter 2: Echoes of the Era)",
+      "level": 2
+    },
+    {
+      "id": "14.1",
+      "text": "90年代的记忆 (Memories of the 90s)",
+      "level": 3
+    },
+    {
+      "id": "14.1.1",
+      "text": "90年代，一个充满活力与机遇的十年 (The 90s were a decade full of vitality and opportunities)",
+      "level": 4
+    },
+    {
+      "id": "14.1.2",
+      "text": "改革开放的春风吹拂大地 (The spring breeze of reform and opening up swept the land)",
+      "level": 4
+    },
+    {
+      "id": "14.1.3",
+      "text": "经济发展的浪潮席卷而来 (The tide of economic development swept in)",
+      "level": 4
+    },
+    {
+      "id": "14.1.4",
+      "text": "人们的思想开始解放 (People's thinking began to be liberated)",
+      "level": 4
+    },
+    {
+      "id": "14.1.5",
+      "text": "对未来的憧憬也变得更加多元 (Aspirations for the future also became more diverse)",
+      "level": 4
+    },
+    {
+      "id": "14.1.6",
+      "text": "这是一个充满希望和挑战的时代 (This was an era full of hope and challenges)",
+      "level": 4
+    },
+    {
+      "id": "14.1.7",
+      "text": "这是一个孕育了无数故事的时代 (This was an era that nurtured countless stories)",
+      "level": 4
+    },
+    {
+      "id": "14.2",
+      "text": "时代的印记 (Imprints of the Era)",
+      "level": 3
+    },
+    {
+      "id": "14.2.1",
+      "text": "每一个时代都有其独特的印记 (Every era has its unique imprints)",
+      "level": 4
+    },
+    {
+      "id": "14.2.2",
+      "text": "这些印记，如同历史的年轮，刻画着我们前行的轨迹 (These imprints, like the rings of history, depict our forward trajectory)",
+      "level": 4
+    },
+    {
+      "id": "15",
+      "text": "第三章：未来之章 (Chapter 3: Chapter of the Future)",
+      "level": 2
+    },
+    {
+      "id": "15.1",
+      "text": "文化的融合 (Cultural Fusion)",
+      "level": 3
+    },
+    {
+      "id": "15.1.1",
+      "text": "在这个全球化的时代，不同文明之间的交流与碰撞日益频繁 (In this era of globalization, communication and collision between different civilizations are becoming increasingly frequent)",
+      "level": 4
+    },
+    {
+      "id": "15.1.2",
+      "text": "文化的融合，既带来了新的机遇 (Cultural fusion brings new opportunities)",
+      "level": 4
+    },
+    {
+      "id": "15.1.3",
+      "text": "文化的融合，也带来了新的挑战 (Cultural fusion also brings new challenges)",
+      "level": 4
+    },
+    {
+      "id": "15.1.4",
+      "text": "如何在保持自身特色的同时，吸收外来文化的精华是我们必须思考的问题 (How to absorb the essence of foreign cultures while maintaining one's own characteristics is a problem we must consider)",
+      "level": 4
+    },
+    {
+      "id": "15.2",
+      "text": "创新的力量 (The Power of Innovation)",
+      "level": 3
+    },
+    {
+      "id": "15.2.1",
+      "text": "创新是推动社会进步的 অপরিহার্য 动力 (Innovation is the indispensable driving force for social progress)",
+      "level": 4
+    },
+    {
+      "id": "15.2.2",
+      "text": "每一次的科技革命，都离不开创新的力量 (Every technological revolution is inseparable from the power of innovation)",
+      "level": 4
+    },
+    {
+      "id": "15.2.3",
+      "text": "每一次的文化革新，都离不开创新的力量 (Every cultural innovation is inseparable from the power of innovation)",
+      "level": 4
+    },
+    {
+      "id": "15.2.4",
+      "text": "我们应该鼓励大胆的尝试 (We should encourage bold attempts)",
+      "level": 4
+    },
+    {
+      "id": "15.2.5",
+      "text": "我们应该拥抱未知的挑战 (We should embrace unknown challenges)",
+      "level": 4
+    },
+    {
+      "id": "15.2.6",
+      "text": "用创新点亮未来的道路 (Light up the future path with innovation)",
+      "level": 4
+    },
+    {
+      "id": "16",
+      "text": "结语 (Conclusion)",
+      "level": 2
+    },
+    {
+      "id": "16.1",
+      "text": "千年之约 (A Millennium Pact)",
+      "level": 3
+    },
+    {
+      "id": "16.1.1",
+      "text": "千年祝祭，是对未来的郑重承诺 (A Millennium Celebration is a solemn promise to the future)",
+      "level": 4
+    },
+    {
+      "id": "16.1.2",
+      "text": "它不仅仅是一次回顾 (It is not just a review)",
+      "level": 4
+    },
+    {
+      "id": "16.1.3",
+      "text": "它更是一次前瞻 (It is more of a foresight)",
+      "level": 4
+    },
+    {
+      "id": "16.1.4",
+      "text": "我们将在历史的长河中汲取智慧 (We will draw wisdom from the long river of history)",
+      "level": 4
+    },
+    {
+      "id": "16.1.5",
+      "text": "我们将在时代的洪流中勇往直前 (We will bravely move forward in the torrent of the times)",
+      "level": 4
+    },
+    {
+      "id": "16.1.6",
+      "text": "共同书写属于我们自己的辉煌篇章 (Together, we will write our own brilliant chapter)",
+      "level": 4
+    },
+    {
+      "id": "16.1.7",
+      "text": "“未来属于那些相信梦想之美的人。” (The future belongs to those who believe in the beauty of their dreams.)",
+      "level": 4
+    },
+    {
+      "id": "17",
+      "text": "参考文献 (References)",
+      "level": 2
+    },
+    {
+      "id": "18",
+      "text": "第一章：破晓 (Chapter 1: Dawn)",
+      "level": 2
+    },
+    {
+      "id": "19",
+      "text": "第二章：回响 (Chapter 2: Echoes)",
+      "level": 2
+    },
+    {
+      "id": "20",
+      "text": "第三章：余烬 (Chapter 3: Embers)",
+      "level": 2
+    },
+    {
+      "id": "21",
+      "text": "第四章：新生 (Chapter 4: New Life)",
+      "level": 2
+    },
+    {
+      "id": "22",
+      "text": "特别鸣谢 (Special Thanks)",
+      "level": 2
+    },
+    {
+      "id": "23",
+      "text": "VIP (2558)",
+      "level": 3
+    },
+    {
+      "id": "24",
+      "text": "BL (2558)",
+      "level": 3
+    },
+    {
+      "id": "25",
+      "text": "[174010] 论文标题. 作者姓名. 期刊名称, 年份, 卷(期), 页码. (Paper Title. Author Name. Journal Name, Year, Volume(Issue), Pages.)",
+      "level": 3
+    },
+    {
+      "id": "26",
+      "text": "[177291] 另一篇论文. 作者姓名. 期刊名称, 年份, 卷(期), 页码. (Another Paper. Author Name. Journal Name, Year, Volume(Issue), Pages.)",
+      "level": 3
+    },
+    {
+      "id": "27",
+      "text": "[180826] A Study on the Impact of Technological Advancements. Author Name. Journal Name, Year, Volume(Issue), Pages.",
+      "level": 3
+    },
+    {
+      "id": "28",
+      "text": "[181623] Research on Artificial Intelligence. Researcher Name. Publication Venue, Year, Edition, Chapters.",
+      "level": 3
+    },
+    {
+      "id": "29",
+      "text": "[184660] The Evolution of Communication. Communicator Name. Book Title, Publication Year, Publisher, ISBN.",
+      "level": 3
+    },
+    {
+      "id": "30",
+      "text": "[186579] Understanding the Human Psyche. Psychologist Name. Journal of Psychology, 20XX, Vol(No), pp.",
+      "level": 3
+    },
+    {
+      "id": "31",
+      "text": "[189428] The Art of Storytelling. Storyteller Name. Literary Review, Year, Issue, Sections.",
+      "level": 3
+    },
+    {
+      "id": "32",
+      "text": "[190168] Exploring the Cosmos. Astronomer Name. Astrophysical Journal, Year, Volume(Issue), Article ID.",
+      "level": 3
+    },
+    {
+      "id": "33",
+      "text": "[1001845] Fundamentals of Quantum Mechanics. Physicist Name. Physics Letters, Year, Volume, Pages.",
+      "level": 3
+    },
+    {
+      "id": "34",
+      "text": "[1007772] Digital Revolution: A New Era. Technologist Name. Tech Magazine, Year, Month, Pages.",
+      "level": 3
+    },
+    {
+      "id": "35",
+      "text": "[1009336] The Future of Education. Educator Name. Educational Forum, Year, Issue, Topics.",
+      "level": 3
+    },
+    {
+      "id": "36",
+      "text": "[1024237] Understanding the Stock Market. Economist Name. Financial Times, Year, Date, Analysis.",
+      "level": 3
+    },
+    {
+      "id": "37",
+      "text": "[1037118] The Impact of Climate Change. Environmental Scientist Name. Nature Journal, Year, Volume, Articles.",
+      "level": 3
+    },
+    {
+      "id": "38",
+      "text": "[1047889] Historical Perspectives on World Wars. Historian Name. History Today, Year, Series, Chapters.",
+      "level": 3
+    },
+    {
+      "id": "39",
+      "text": "[1108] 另一本重要著作. 作者姓名. 出版社, 出版年份. (Another Important Work. Author Name. Publisher, Publication Year.)",
+      "level": 3
+    },
+    {
+      "id": "40",
+      "text": "[1130] Another Significant Work. Author Name. Publisher, Publication Year.",
+      "level": 3
+    },
+    {
+      "id": "41",
+      "text": "[1740] Early Civilizations. Scholar Name. Ancient History Journal, Year, Issue, Pages.",
+      "level": 3
+    },
+    {
+      "id": "42",
+      "text": "[17401] Civilization's Trajectory. Researcher Name. Sociology Quarterly, Year, Vol(No), pp.",
+      "level": 3
+    },
+    {
+      "id": "43",
+      "text": "[174010] A Deep Dive into Ancient Philosophies. Philosopher Name. Philosophical Studies, Year, Volume, Sections.",
+      "level": 3
+    },
+    {
+      "id": "44",
+      "text": "[1740100] The Renaissance Reimagined. Art Historian Name. Art History Review, Year, Issue, Pages.",
+      "level": 3
+    },
+    {
+      "id": "45",
+      "text": "[17401000] The Impact of Globalization. Sociologist Name. Global Studies Journal, Year, Volume, Articles.",
+      "level": 3
+    },
+    {
+      "id": "46",
+      "text": "[255] Certain specific publication or concept.",
+      "level": 3
+    },
+    {
+      "id": "47",
+      "text": "[256] Another key reference.",
+      "level": 3
+    },
+    {
+      "id": "48",
+      "text": "[257] Yet another relevant source.",
+      "level": 3
+    },
+    {
+      "id": "49",
+      "text": "[258] A reference related to a specific field.",
+      "level": 3
+    },
+    {
+      "id": "50",
+      "text": "[259] Source material for a particular argument.",
+      "level": 3
+    },
+    {
+      "id": "51",
+      "text": "[260] An important theoretical framework.",
+      "level": 3
+    },
+    {
+      "id": "52",
+      "text": "[261] A foundational text in the discipline.",
+      "level": 3
+    },
+    {
+      "id": "53",
+      "text": "[262] A critical analysis of a phenomenon.",
+      "level": 3
+    },
+    {
+      "id": "54",
+      "text": "[263] Empirical research findings.",
+      "level": 3
+    },
+    {
+      "id": "55",
+      "text": "[264] A seminal work in the field.",
+      "level": 3
+    },
+    {
+      "id": "56",
+      "text": "[265] Text that provides historical context.",
+      "level": 3
+    },
+    {
+      "id": "57",
+      "text": "[266] A source offering methodological insights.",
+      "level": 3
+    },
+    {
+      "id": "58",
+      "text": "[267] Relevant statistical data.",
+      "level": 3
+    },
+    {
+      "id": "59",
+      "text": "[268] A case study of a particular event.",
+      "level": 3
+    },
+    {
+      "id": "60",
+      "text": "[269] Key policy documents.",
+      "level": 3
+    },
+    {
+      "id": "61",
+      "text": "[270] Theoretical contributions from a specific thinker.",
+      "level": 3
+    },
+    {
+      "id": "62",
+      "text": "[271] Primary source material.",
+      "level": 3
+    },
+    {
+      "id": "63",
+      "text": "[272] An influential manifesto.",
+      "level": 3
+    },
+    {
+      "id": "64",
+      "text": "[273] A collection of essays.",
+      "level": 3
+    },
+    {
+      "id": "65",
+      "text": "[274] A critical review of existing literature.",
+      "level": 3
+    },
+    {
+      "id": "66",
+      "text": "[275] A historical account of a movement.",
+      "level": 3
+    },
+    {
+      "id": "67",
+      "text": "[276] Primary source memoirs.",
+      "level": 3
+    },
+    {
+      "id": "68",
+      "text": "[277] A foundational legal document.",
+      "level": 3
+    },
+    {
+      "id": "69",
+      "text": "[278] A comprehensive survey of a topic.",
+      "level": 3
+    },
+    {
+      "id": "70",
+      "text": "[279] A key piece of legislation.",
+      "level": 3
+    },
+    {
+      "id": "71",
+      "text": "[280] An influential literary work.",
+      "level": 3
+    },
+    {
+      "id": "72",
+      "text": "[281] A groundbreaking scientific paper.",
+      "level": 3
+    },
+    {
+      "id": "73",
+      "text": "[282] A philosophical treatise.",
+      "level": 3
+    },
+    {
+      "id": "74",
+      "text": "[283] A seminal work in economic theory.",
+      "level": 3
+    },
+    {
+      "id": "75",
+      "text": "[284] A significant contribution to political science.",
+      "level": 3
+    },
+    {
+      "id": "76",
+      "text": "[285] An important work in sociology.",
+      "level": 3
+    },
+    {
+      "id": "77",
+      "text": "[286] A study on cultural trends.",
+      "level": 3
+    },
+    {
+      "id": "78",
+      "text": "[287] An analysis of social structures.",
+      "level": 3
+    },
+    {
+      "id": "79",
+      "text": "[288] Research on urban development.",
+      "level": 3
+    },
+    {
+      "id": "80",
+      "text": "[289] A study on rural communities.",
+      "level": 3
+    },
+    {
+      "id": "81",
+      "text": "[290] An investigation into indigenous populations.",
+      "level": 3
+    },
+    {
+      "id": "82",
+      "text": "[291] A report on human rights.",
+      "level": 3
+    },
+    {
+      "id": "83",
+      "text": "[292] A document on environmental policy.",
+      "level": 3
+    },
+    {
+      "id": "84",
+      "text": "[293] A study on sustainable development.",
+      "level": 3
+    },
+    {
+      "id": "85",
+      "text": "[294] An analysis of renewable energy.",
+      "level": 3
+    },
+    {
+      "id": "86",
+      "text": "[295] Research on artificial intelligence ethics.",
+      "level": 3
+    },
+    {
+      "id": "87",
+      "text": "[296] A philosophical examination of consciousness.",
+      "level": 3
+    },
+    {
+      "id": "88",
+      "text": "[297] A study on the nature of reality.",
+      "level": 3
+    },
+    {
+      "id": "89",
+      "text": "[298] A treatise on epistemology.",
+      "level": 3
+    },
+    {
+      "id": "90",
+      "text": "[299] A work on the philosophy of mind.",
+      "level": 3
+    },
+    {
+      "id": "91",
+      "text": "[300] An essay on the aesthetics of art.",
+      "level": 3
+    },
+    {
+      "id": "92",
+      "text": "[301] A critical history of cinema.",
+      "level": 3
+    },
+    {
+      "id": "93",
+      "text": "[302] A study on musical theory.",
+      "level": 3
+    },
+    {
+      "id": "94",
+      "text": "[303] An exploration of architectural styles.",
+      "level": 3
+    },
+    {
+      "id": "95",
+      "text": "[304] Research on literary criticism.",
+      "level": 3
+    },
+    {
+      "id": "96",
+      "text": "[305] An analysis of poetry.",
+      "level": 3
+    },
+    {
+      "id": "97",
+      "text": "[306] A study on dramatic arts.",
+      "level": 3
+    },
+    {
+      "id": "98",
+      "text": "[307] A biography of a prominent figure.",
+      "level": 3
+    },
+    {
+      "id": "99",
+      "text": "[308] An autobiography of a notable individual.",
+      "level": 3
+    },
+    {
+      "id": "100",
+      "text": "[309] Memoirs of a historical period.",
+      "level": 3
+    },
+    {
+      "id": "101",
+      "text": "[310] Diaries of a significant personality.",
+      "level": 3
+    },
+    {
+      "id": "102",
+      "text": "[311] Letters of a historical correspondence.",
+      "level": 3
+    },
+    {
+      "id": "103",
+      "text": "[312] Journals of an influential thinker.",
+      "level": 3
+    },
+    {
+      "id": "104",
+      "text": "[313] Public speeches of a leader.",
+      "level": 3
+    },
+    {
+      "id": "105",
+      "text": "[314] Government reports on public affairs.",
+      "level": 3
+    },
+    {
+      "id": "106",
+      "text": "[315] International agreements on global issues.",
+      "level": 3
+    },
+    {
+      "id": "107",
+      "text": "[316] Treaties on international relations.",
+      "level": 3
+    },
+    {
+      "id": "108",
+      "text": "[317] Protocols for diplomatic engagement.",
+      "level": 3
+    },
+    {
+      "id": "109",
+      "text": "[318] Frameworks for international cooperation.",
+      "level": 3
+    },
+    {
+      "id": "110",
+      "text": "[319] A review of international law.",
+      "level": 3
+    },
+    {
+      "id": "111",
+      "text": "[320] Reports on international trade.",
+      "level": 3
+    },
+    {
+      "id": "112",
+      "text": "[321] Analysis of global finance.",
+      "level": 3
+    },
+    {
+      "id": "113",
+      "text": "[322] Studies on global health initiatives.",
+      "level": 3
+    },
+    {
+      "id": "114",
+      "text": "[323] Research on international security.",
+      "level": 3
+    },
+    {
+      "id": "115",
+      "text": "[324] Documents on counter-terrorism strategies.",
+      "level": 3
+    },
+    {
+      "id": "116",
+      "text": "[325] Reports on disaster management.",
+      "level": 3
+    },
+    {
+      "id": "117",
+      "text": "[326] Studies on technological innovation.",
+      "level": 3
+    },
+    {
+      "id": "118",
+      "text": "[327] Research on nanotechnology.",
+      "level": 3
+    },
+    {
+      "id": "119",
+      "text": "[328] An overview of biotechnology.",
+      "level": 3
+    },
+    {
+      "id": "120",
+      "text": "[329] Contributions to genetic engineering.",
+      "level": 3
+    },
+    {
+      "id": "121",
+      "text": "[330] A study on sustainable agriculture.",
+      "level": 3
+    },
+    {
+      "id": "122",
+      "text": "[331] Research on food security.",
+      "level": 3
+    },
+    {
+      "id": "123",
+      "text": "[332] Analysis of public health systems.",
+      "level": 3
+    },
+    {
+      "id": "124",
+      "text": "[333] Studies on healthcare policy.",
+      "level": 3
+    },
+    {
+      "id": "125",
+      "text": "[334] Reports on medical research.",
+      "level": 3
+    },
+    {
+      "id": "126",
+      "text": "[335] Contributions to pharmacology.",
+      "level": 3
+    },
+    {
+      "id": "127",
+      "text": "[336] An examination of medical ethics.",
+      "level": 3
+    },
+    {
+      "id": "128",
+      "text": "[337] Research on mental health.",
+      "level": 3
+    },
+    {
+      "id": "129",
+      "text": "[338] A study on neurological disorders.",
+      "level": 3
+    },
+    {
+      "id": "130",
+      "text": "[339] Contributions to psychology.",
+      "level": 3
+    },
+    {
+      "id": "131",
+      "text": "[340] An analysis of educational reforms.",
+      "level": 3
+    },
+    {
+      "id": "132",
+      "text": "[341] Research on pedagogical methods.",
+      "level": 3
+    },
+    {
+      "id": "133",
+      "text": "[342] Studies on curriculum development.",
+      "level": 3
+    },
+    {
+      "id": "134",
+      "text": "[343] Reports on student learning.",
+      "level": 3
+    },
+    {
+      "id": "135",
+      "text": "[344] Contributions to higher education.",
+      "level": 3
+    },
+    {
+      "id": "136",
+      "text": "[345] An examination of vocational training.",
+      "level": 3
+    },
+    {
+      "id": "137",
+      "text": "[346] Research on lifelong learning.",
+      "level": 3
+    },
+    {
+      "id": "138",
+      "text": "[347] A study on adult education.",
+      "level": 3
+    },
+    {
+      "id": "139",
+      "text": "[348] Contributions to early childhood education.",
+      "level": 3
+    },
+    {
+      "id": "140",
+      "text": "[349] An analysis of special education.",
+      "level": 3
+    },
+    {
+      "id": "141",
+      "text": "[350] Research on educational technology.",
+      "level": 3
+    },
+    {
+      "id": "142",
+      "text": "[351] A study on distance learning.",
+      "level": 3
+    },
+    {
+      "id": "143",
+      "text": "[352] Contributions to online education.",
+      "level": 3
+    },
+    {
+      "id": "144",
+      "text": "[353] An examination of educational administration.",
+      "level": 3
+    },
+    {
+      "id": "145",
+      "text": "[354] Research on university governance.",
+      "level": 3
+    },
+    {
+      "id": "146",
+      "text": "[355] A study on academic freedom.",
+      "level": 3
+    },
+    {
+      "id": "147",
+      "text": "[356] Contributions to research ethics.",
+      "level": 3
+    },
+    {
+      "id": "148",
+      "text": "[357] An analysis of scientific methodology.",
+      "level": 3
+    },
+    {
+      "id": "149",
+      "text": "[358] Research on experimental design.",
+      "level": 3
+    },
+    {
+      "id": "150",
+      "text": "[359] A study on statistical analysis.",
+      "level": 3
+    },
+    {
+      "id": "151",
+      "text": "[360] Contributions to qualitative research.",
+      "level": 3
+    },
+    {
+      "id": "152",
+      "text": "[361] An examination of quantitative methods.",
+      "level": 3
+    },
+    {
+      "id": "153",
+      "text": "[362] Research on data interpretation.",
+      "level": 3
+    },
+    {
+      "id": "154",
+      "text": "[363] A study on research bias.",
+      "level": 3
+    },
+    {
+      "id": "155",
+      "text": "[364] Contributions to scientific communication.",
+      "level": 3
+    },
+    {
+      "id": "156",
+      "text": "[365] An analysis of peer review.",
+      "level": 3
+    },
+    {
+      "id": "157",
+      "text": "[366] Research on academic publishing.",
+      "level": 3
+    },
+    {
+      "id": "158",
+      "text": "[367] A study on intellectual property.",
+      "level": 3
+    },
+    {
+      "id": "159",
+      "text": "[368] Contributions to patent law.",
+      "level": 3
+    },
+    {
+      "id": "160",
+      "text": "[369] An examination of copyright regulations.",
+      "level": 3
+    },
+    {
+      "id": "161",
+      "text": "[370] Research on digital rights management.",
+      "level": 3
+    },
+    {
+      "id": "162",
+      "text": "[371] A study on cybersecurity.",
+      "level": 3
+    },
+    {
+      "id": "163",
+      "text": "[372] Contributions to information security.",
+      "level": 3
+    },
+    {
+      "id": "164",
+      "text": "[373] An analysis of data privacy.",
+      "level": 3
+    },
+    {
+      "id": "165",
+      "text": "[374] Research on network security.",
+      "level": 3
+    },
+    {
+      "id": "166",
+      "text": "[375] A study on cryptography.",
+      "level": 3
+    },
+    {
+      "id": "167",
+      "text": "[376] Contributions to software development.",
+      "level": 3
+    },
+    {
+      "id": "168",
+      "text": "[377] An examination of programming languages.",
+      "level": 3
+    },
+    {
+      "id": "169",
+      "text": "[378] Research on algorithms.",
+      "level": 3
+    },
+    {
+      "id": "170",
+      "text": "[379] A study on database management.",
+      "level": 3
+    },
+    {
+      "id": "171",
+      "text": "[380] Contributions to artificial intelligence.",
+      "level": 3
+    },
+    {
+      "id": "172",
+      "text": "[381] An analysis of machine learning.",
+      "level": 3
+    },
+    {
+      "id": "173",
+      "text": "[382] Research on natural language processing.",
+      "level": 3
+    },
+    {
+      "id": "174",
+      "text": "[383] A study on computer vision.",
+      "level": 3
+    },
+    {
+      "id": "175",
+      "text": "[384] Contributions to robotics.",
+      "level": 3
+    },
+    {
+      "id": "176",
+      "text": "[385] An examination of human-computer interaction.",
+      "level": 3
+    },
+    {
+      "id": "177",
+      "text": "[386] Research on virtual reality.",
+      "level": 3
+    },
+    {
+      "id": "178",
+      "text": "[387] A study on augmented reality.",
+      "level": 3
+    },
+    {
+      "id": "179",
+      "text": "[388] Contributions to game development.",
+      "level": 3
+    },
+    {
+      "id": "180",
+      "text": "[389] An analysis of digital art.",
+      "level": 3
+    },
+    {
+      "id": "181",
+      "text": "[390] Research on animation.",
+      "level": 3
+    },
+    {
+      "id": "182",
+      "text": "[391] A study on graphic design.",
+      "level": 3
+    },
+    {
+      "id": "183",
+      "text": "[392] Contributions to user interface design.",
+      "level": 3
+    },
+    {
+      "id": "184",
+      "text": "[393] An examination of web design.",
+      "level": 3
+    },
+    {
+      "id": "185",
+      "text": "[394] Research on mobile application development.",
+      "level": 3
+    },
+    {
+      "id": "186",
+      "text": "[395] A study on cloud computing.",
+      "level": 3
+    },
+    {
+      "id": "187",
+      "text": "[396] Contributions to big data analytics.",
+      "level": 3
+    },
+    {
+      "id": "188",
+      "text": "[397] An analysis of the Internet of Things.",
+      "level": 3
+    },
+    {
+      "id": "189",
+      "text": "[398] Research on blockchain technology.",
+      "level": 3
+    },
+    {
+      "id": "190",
+      "text": "[399] A study on cryptocurrency.",
+      "level": 3
+    },
+    {
+      "id": "191",
+      "text": "[400] Contributions to cybersecurity policy.",
+      "level": 3
+    },
+    {
+      "id": "192",
+      "text": "[401] An examination of digital forensics.",
+      "level": 3
+    },
+    {
+      "id": "193",
+      "text": "[402] Research on information retrieval.",
+      "level": 3
+    },
+    {
+      "id": "194",
+      "text": "[403] A study on search engine optimization.",
+      "level": 3
+    },
+    {
+      "id": "195",
+      "text": "[404] Contributions to content management.",
+      "level": 3
+    },
+    {
+      "id": "196",
+      "text": "[405] An analysis of social media platforms.",
+      "level": 3
+    },
+    {
+      "id": "197",
+      "text": "[406] Research on online communities.",
+      "level": 3
+    },
+    {
+      "id": "198",
+      "text": "[407] A study on digital marketing.",
+      "level": 3
+    },
+    {
+      "id": "199",
+      "text": "[408] Contributions to e-commerce.",
+      "level": 3
+    },
+    {
+      "id": "200",
+      "text": "[409] An examination of digital transformation.",
+      "level": 3
+    },
+    {
+      "id": "201",
+      "text": "[410] Research on organizational change.",
+      "level": 3
+    },
+    {
+      "id": "202",
+      "text": "[411] A study on leadership development.",
+      "level": 3
+    },
+    {
+      "id": "203",
+      "text": "[412] Contributions to human resources management.",
+      "level": 3
+    },
+    {
+      "id": "204",
+      "text": "[413] An analysis of organizational behavior.",
+      "level": 3
+    },
+    {
+      "id": "205",
+      "text": "[414] Research on team dynamics.",
+      "level": 3
+    },
+    {
+      "id": "206",
+      "text": "[415] A study on employee motivation.",
+      "level": 3
+    },
+    {
+      "id": "207",
+      "text": "[416] Contributions to performance management.",
+      "level": 3
+    },
+    {
+      "id": "208",
+      "text": "[417] An examination of organizational culture.",
+      "level": 3
+    },
+    {
+      "id": "209",
+      "text": "[418] Research on workplace diversity.",
+      "level": 3
+    },
+    {
+      "id": "210",
+      "text": "[419] A study on employee engagement.",
+      "level": 3
+    },
+    {
+      "id": "211",
+      "text": "[420] Contributions to organizational communication.",
+      "level": 3
+    },
+    {
+      "id": "212",
+      "text": "[421] An analysis of conflict resolution.",
+      "level": 3
+    },
+    {
+      "id": "213",
+      "text": "[422] Research on negotiation strategies.",
+      "level": 3
+    },
+    {
+      "id": "214",
+      "text": "[423] A study on decision-making processes.",
+      "level": 3
+    },
+    {
+      "id": "215",
+      "text": "[424] Contributions to problem-solving.",
+      "level": 3
+    },
+    {
+      "id": "216",
+      "text": "[425] An examination of critical thinking.",
+      "level": 3
+    },
+    {
+      "id": "217",
+      "text": "[426] Research on creativity.",
+      "level": 3
+    },
+    {
+      "id": "218",
+      "text": "[427] A study on innovation management.",
+      "level": 3
+    },
+    {
+      "id": "219",
+      "text": "[428] Contributions to strategic planning.",
+      "level": 3
+    },
+    {
+      "id": "220",
+      "text": "[429] An analysis of business strategy.",
+      "level": 3
+    },
+    {
+      "id": "221",
+      "text": "[430] Research on market analysis.",
+      "level": 3
+    },
+    {
+      "id": "222",
+      "text": "[431] A study on consumer behavior.",
+      "level": 3
+    },
+    {
+      "id": "223",
+      "text": "[432] Contributions to marketing research.",
+      "level": 3
+    },
+    {
+      "id": "224",
+      "text": "[433] An examination of branding.",
+      "level": 3
+    },
+    {
+      "id": "225",
+      "text": "[434] Research on advertising.",
+      "level": 3
+    },
+    {
+      "id": "226",
+      "text": "[435] A study on public relations.",
+      "level": 3
+    },
+    {
+      "id": "227",
+      "text": "[436] Contributions to corporate social responsibility.",
+      "level": 3
+    },
+    {
+      "id": "228",
+      "text": "[437] An analysis of ethical business practices.",
+      "level": 3
+    },
+    {
+      "id": "229",
+      "text": "[438] Research on financial accounting.",
+      "level": 3
+    },
+    {
+      "id": "230",
+      "text": "[439] A study on managerial accounting.",
+      "level": 3
+    },
+    {
+      "id": "231",
+      "text": "[440] Contributions to corporate finance.",
+      "level": 3
+    },
+    {
+      "id": "232",
+      "text": "[441] An examination of investment analysis.",
+      "level": 3
+    },
+    {
+      "id": "233",
+      "text": "[442] Research on financial markets.",
+      "level": 3
+    },
+    {
+      "id": "234",
+      "text": "[443] A study on risk management.",
+      "level": 3
+    },
+    {
+      "id": "235",
+      "text": "[444] Contributions to monetary policy.",
+      "level": 3
+    },
+    {
+      "id": "236",
+      "text": "[445] An analysis of fiscal policy.",
+      "level": 3
+    },
+    {
+      "id": "237",
+      "text": "[446] Research on international economics.",
+      "level": 3
+    },
+    {
+      "id": "238",
+      "text": "[447] A study on economic development.",
+      "level": 3
+    },
+    {
+      "id": "239",
+      "text": "[448] Contributions to labor economics.",
+      "level": 3
+    },
+    {
+      "id": "240",
+      "text": "[449] An examination of environmental economics.",
+      "level": 3
+    },
+    {
+      "id": "241",
+      "text": "[450] Research on public economics.",
+      "level": 3
+    },
+    {
+      "id": "242",
+      "text": "[451] A study on behavioral economics.",
+      "level": 3
+    },
+    {
+      "id": "243",
+      "text": "[452] Contributions to econometrics.",
+      "level": 3
+    },
+    {
+      "id": "244",
+      "text": "[453] An analysis of game theory.",
+      "level": 3
+    },
+    {
+      "id": "245",
+      "text": "[454] Research on complexity economics.",
+      "level": 3
+    },
+    {
+      "id": "246",
+      "text": "[455] A study on institutional economics.",
+      "level": 3
+    },
+    {
+      "id": "247",
+      "text": "[456] Contributions to evolutionary economics.",
+      "level": 3
+    },
+    {
+      "id": "248",
+      "text": "[457] An examination of heterodox economics.",
+      "level": 3
+    },
+    {
+      "id": "249",
+      "text": "[458] Research on the history of economic thought.",
+      "level": 3
+    },
+    {
+      "id": "250",
+      "text": "[459] A study on economic sociology.",
+      "level": 3
+    },
+    {
+      "id": "251",
+      "text": "[460] Contributions to economic geography.",
+      "level": 3
+    },
+    {
+      "id": "252",
+      "text": "[461] An analysis of economic history.",
+      "level": 3
+    },
+    {
+      "id": "253",
+      "text": "[462] Research on economic forecasting.",
+      "level": 3
+    },
+    {
+      "id": "254",
+      "text": "[463] A study on economic modeling.",
+      "level": 3
+    },
+    {
+      "id": "255",
+      "text": "[464] Contributions to econometrics.",
+      "level": 3
+    },
+    {
+      "id": "256",
+      "text": "[465] An examination of economic indicators.",
+      "level": 3
+    },
+    {
+      "id": "257",
+      "text": "[466] Research on economic growth.",
+      "level": 3
+    },
+    {
+      "id": "258",
+      "text": "[467] A study on economic inequality.",
+      "level": 3
+    },
+    {
+      "id": "259",
+      "text": "[468] Contributions to poverty reduction.",
+      "level": 3
+    },
+    {
+      "id": "260",
+      "text": "[469] An analysis of wealth distribution.",
+      "level": 3
+    },
+    {
+      "id": "261",
+      "text": "[470] Research on income disparities.",
+      "level": 3
+    },
+    {
+      "id": "262",
+      "text": "[471] A study on social mobility.",
+      "level": 3
+    },
+    {
+      "id": "263",
+      "text": "[472] Contributions to social justice.",
+      "level": 3
+    },
+    {
+      "id": "264",
+      "text": "[473] An examination of social welfare.",
+      "level": 3
+    },
+    {
+      "id": "265",
+      "text": "[474] Research on public services.",
+      "level": 3
+    },
+    {
+      "id": "266",
+      "text": "[475] A study on public administration.",
+      "level": 3
+    },
+    {
+      "id": "267",
+      "text": "[476] Contributions to public policy.",
+      "level": 3
+    },
+    {
+      "id": "268",
+      "text": "[477] An analysis of political science.",
+      "level": 3
+    },
+    {
+      "id": "269",
+      "text": "[478] Research on political theory.",
+      "level": 3
+    },
+    {
+      "id": "270",
+      "text": "[479] A study on political economy.",
+      "level": 3
+    },
+    {
+      "id": "271",
+      "text": "[480] Contributions to political philosophy.",
+      "level": 3
+    },
+    {
+      "id": "272",
+      "text": "[481] An examination of political behavior.",
+      "level": 3
+    },
+    {
+      "id": "273",
+      "text": "[482] Research on political ins...",
+      "level": 3
+    }
+  ],
+  "concepts": [
+    {
+      "name": "千年祝祭 (Millennium Celebration)",
+      "frequency": 13,
+      "context": "The central theme of the document, representing time, history, culture, and future."
+    },
+    {
+      "name": "历史 (History)",
+      "frequency": 7,
+      "context": "The accumulation of past events, ancestral footprints, and the rise/fall of civilizations."
+    },
+    {
+      "name": "时间 (Time)",
+      "frequency": 3,
+      "context": "Conceptualized as a river, a concept, and a measure of past and future."
+    },
+    {
+      "name": "文化 (Culture)",
+      "frequency": 4,
+      "context": "Carried by celebrations, subject to inheritance, fusion, and innovation."
+    },
+    {
+      "name": "传承 (Inheritance)",
+      "frequency": 4,
+      "context": "A key aspect of culture, involving remembrance and passing down legacies."
+    },
+    {
+      "name": "变革 (Transformation/Change)",
+      "frequency": 3,
+      "context": "An era characterized by flux, requiring balance and new vitality."
+    },
+    {
+      "name": "祭祀 (Sacrifice)",
+      "frequency": 2,
+      "context": "Ancient practices for communicating with nature spirits and praying for blessings."
+    },
+    {
+      "name": "先民 (Ancestors/Early Peoples)",
+      "frequency": 2,
+      "context": "The people of ancient times who communicated with nature and left legacies."
+    },
+    {
+      "name": "符号 (Symbols)",
+      "frequency": 3,
+      "context": "Ancient characters that hold historical secrets, wisdom, and beliefs."
+    },
+    {
+      "name": "时代 (Era/Age)",
+      "frequency": 5,
+      "context": "Specific periods characterized by distinct characteristics, imprints, and challenges (e.g., 90s, globalization)."
+    },
+    {
+      "name": "创新 (Innovation)",
+      "frequency": 5,
+      "context": "The driving force for societal progress, involving bold attempts and embracing challenges."
+    },
+    {
+      "name": "未来 (Future)",
+      "frequency": 4,
+      "context": "The subject of promises, foresight, and dreams."
+    },
+    {
+      "name": "融合 (Fusion)",
+      "frequency": 2,
+      "context": "The blending of cultures in a globalized world, bringing opportunities and challenges."
+    },
+    {
+      "name": "誓言 (Vow)",
+      "frequency": 1,
+      "context": "A forgotten promise, likely a plot element."
+    },
+    {
+      "name": "记忆 (Memory)",
+      "frequency": 1,
+      "context": "Shattered memories, likely a plot element."
+    },
+    {
+      "name": "力量 (Power)",
+      "frequency": 1,
+      "context": "Awakened power, likely a plot element."
+    },
+    {
+      "name": "命运 (Fate)",
+      "frequency": 1,
+      "context": "Intertwined fates, likely a plot element."
+    },
+    {
+      "name": "真相 (Truth)",
+      "frequency": 1,
+      "context": "Sealed truth, likely a plot element."
+    },
+    {
+      "name": "曙光 (Dawn)",
+      "frequency": 1,
+      "context": "The breaking of dawn, symbolizing hope."
+    },
+    {
+      "name": "决战 (Battle)",
+      "frequency": 1,
+      "context": "The final confrontation, likely a plot element."
+    },
+    {
+      "name": "黎明 (New Dawn)",
+      "frequency": 1,
+      "context": "A new beginning."
+    },
+    {
+      "name": "引用 (Quotations)",
+      "frequency": 2,
+      "context": "Direct quotes that offer thematic insights."
+    },
+    {
+      "name": "参考文献 (References)",
+      "frequency": 3,
+      "context": "A list of cited works, indicating academic or research basis."
+    },
+    {
+      "name": "90年代 (90s)",
+      "frequency": 1,
+      "context": "A specific decade characterized by vitality, opportunities, reform, and ideological liberation."
+    },
+    {
+      "name": "全球化 (Globalization)",
+      "frequency": 1,
+      "context": "An era of increased intercultural communication and collision."
+    },
+    {
+      "name": "承诺 (Promise)",
+      "frequency": 1,
+      "context": "A solemn promise to the future related to the celebration."
+    },
+    {
+      "name": "智慧 (Wisdom)",
+      "frequency": 1,
+      "context": "Drawn from history."
+    },
+    {
+      "name": "技术 (Technology)",
+      "frequency": 1,
+      "context": "Mentioned as a factor in societal advancement (implied by 'technological advancements')."
+    },
+    {
+      "name": "人工智能 (Artificial Intelligence)",
+      "frequency": 1,
+      "context": "Appears in the extensive reference list."
+    },
+    {
+      "name": "教育 (Education)",
+      "frequency": 1,
+      "context": "Appears in the extensive reference list."
+    },
+    {
+      "name": "经济 (Economics)",
+      "frequency": 1,
+      "context": "Appears in the extensive reference list."
+    },
+    {
+      "name": "政治 (Politics)",
+      "frequency": 1,
+      "context": "Appears in the extensive reference list."
+    },
+    {
+      "name": "社会 (Society)",
+      "frequency": 1,
+      "context": "Appears in the extensive reference list."
+    }
+  ],
+  "relations": [
+    {
+      "source": "千年祝祭",
+      "target": "时间",
+      "type": "is_a"
+    },
+    {
+      "source": "千年祝祭",
+      "target": "历史",
+      "type": "is_a"
+    },
+    {
+      "source": "千年祝祭",
+      "target": "文化",
+      "type": "is_a"
+    },
+    {
+      "source": "祝祭",
+      "target": "文化",
+      "type": "is_a"
+    },
+    {
+      "source": "祝祭",
+      "target": "传承",
+      "type": "enables"
+    },
+    {
+      "source": "庆典",
+      "target": "过去",
+      "type": "includes_remembrance_of"
+    },
+    {
+      "source": "庆典",
+      "target": "当下",
+      "type": "includes_reflection_on"
+    },
+    {
+      "source": "庆典",
+      "target": "未来",
+      "type": "includes_expectation_for"
+    },
+    {
+      "source": "时代",
+      "target": "变革",
+      "type": "characterized_by"
+    },
+    {
+      "source": "远古的祭祀",
+      "target": "先民",
+      "type": "performed_by"
+    },
+    {
+      "source": "远古的祭祀",
+      "target": "天地",
+      "type": "communicates_with"
+    },
+    {
+      "source": "符号",
+      "target": "智慧",
+      "type": "contains"
+    },
+    {
+      "source": "符号",
+      "target": "信仰",
+      "type": "contains"
+    },
+    {
+      "source": "90年代",
+      "target": "活力",
+      "type": "characterized_by"
+    },
+    {
+      "source": "90年代",
+      "target": "机遇",
+      "type": "characterized_by"
+    },
+    {
+      "source": "90年代",
+      "target": "思想解放",
+      "type": "characterized_by"
+    },
+    {
+      "source": "时代的印记",
+      "target": "历史",
+      "type": "part_of"
+    },
+    {
+      "source": "文化的融合",
+      "target": "全球化",
+      "type": "occurs_in"
+    },
+    {
+      "source": "文化的融合",
+      "target": "机遇",
+      "type": "brings"
+    },
+    {
+      "source": "文化的融合",
+      "target": "挑战",
+      "type": "brings"
+    },
+    {
+      "source": "创新",
+      "target": "社会进步",
+      "type": "drives"
+    },
+    {
+      "source": "千年祝祭",
+      "target": "未来",
+      "type": "is_promise_to"
+    },
+    {
+      "source": "千年祝祭",
+      "target": "回顾",
+      "type": "is_not_just"
+    },
+    {
+      "source": "千年祝祭",
+      "target": "前瞻",
+      "type": "is_more"
+    },
+    {
+      "source": "智慧",
+      "target": "历史",
+      "type": "drawn_from"
+    },
+    {
+      "source": "参考文献",
+      "target": "知识",
+      "type": "indicates_basis_of"
+    }
+  ],
+  "hierarchy": {
+    "main_topics": [
+      "千年祝祭",
+      "历史",
+      "文化",
+      "时代",
+      "创新",
+      "未来",
+      "参考文献"
+    ],
+    "structure": "The document is structured with a main title ('千年祝祭') followed by a Prologue, several numbered Chapters with sub-sections, an Epilogue, Quotations, and Appendices/References. The Prologue and Chapters delve into historical context, cultural significance, and future prospects, with specific chapters referencing past eras (e.g., '90年代') and concepts like cultural fusion and innovation. A substantial list of references is provided at the end."
+  }
+}

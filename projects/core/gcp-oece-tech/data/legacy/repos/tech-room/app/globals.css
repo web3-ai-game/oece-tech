@@ -1,0 +1,636 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* ============================================
+   像素化 Web3 風格全局樣式
+   ============================================ */
+
+@layer base {
+  :root {
+    /* 像素化配色 */
+    --pixel-primary: #00ff88;
+    --pixel-secondary: #ff00ff;
+    --pixel-accent: #00ffff;
+    --pixel-warning: #ffaa00;
+    --pixel-danger: #ff3366;
+    --pixel-dark: #1a1a2e;
+    --pixel-darker: #0f0f1e;
+    --pixel-light: #eeeeee;
+    --pixel-grid: #333344;
+    
+    /* Web3 漸變色 */
+    --web3-purple: #9945FF;
+    --web3-pink: #FF4081;
+    --web3-cyan: #14F195;
+    --web3-blue: #0070F3;
+  }
+  
+  * {
+    @apply border-pixel-grid;
+  }
+  
+  body {
+    @apply bg-pixel-darker text-pixel-light;
+    font-family: var(--font-sans);
+    image-rendering: pixelated;
+    image-rendering: -moz-crisp-edges;
+    image-rendering: crisp-edges;
+  }
+  
+  h1, h2, h3, h4, h5, h6 {
+    font-family: var(--font-pixel);
+    @apply text-pixel-primary;
+  }
+  
+  code, pre {
+    font-family: var(--font-mono);
+  }
+}
+
+/* ============================================
+   像素化組件樣式
+   ============================================ */
+
+@layer components {
+  /* 像素按鈕（像素羽化效果） */
+  .btn-pixel {
+    @apply px-6 py-3
+           bg-pixel-primary
+           text-pixel-darker
+           font-bold
+           border-2 border-pixel-darker
+           transition-all
+           hover:bg-pixel-accent
+           hover:border-pixel-primary
+           active:translate-y-1
+           font-mono
+           text-sm
+           uppercase
+           tracking-wider;
+    /* 像素羽化边缘 */
+    clip-path: polygon(
+      0 4px, 4px 4px, 4px 0,
+      calc(100% - 4px) 0, calc(100% - 4px) 4px, 100% 4px,
+      100% calc(100% - 4px), calc(100% - 4px) calc(100% - 4px), calc(100% - 4px) 100%,
+      4px 100%, 4px calc(100% - 4px), 0 calc(100% - 4px)
+    );
+    box-shadow: 0 0 20px rgba(0, 255, 136, 0.3);
+  }
+  
+  .btn-pixel:hover {
+    box-shadow: 0 0 30px rgba(0, 255, 136, 0.5), 0 0 60px rgba(0, 255, 136, 0.3);
+  }
+  
+  .btn-pixel-secondary {
+    @apply btn-pixel
+           bg-pixel-secondary;
+  }
+  
+  .btn-pixel-outline {
+    @apply btn-pixel
+           bg-transparent
+           border-pixel-primary
+           text-pixel-primary
+           hover:bg-pixel-primary
+           hover:text-pixel-darker;
+  }
+  
+  /* 像素卡片（像素羽化效果） */
+  .card-pixel {
+    @apply bg-pixel-darker 
+           border-2 border-pixel-grid 
+           p-6
+           transition-all duration-300
+           hover:border-pixel-primary;
+    /* 像素羽化边缘 */
+    clip-path: polygon(
+      0 8px, 8px 8px, 8px 0,
+      calc(100% - 8px) 0, calc(100% - 8px) 8px, 100% 8px,
+      100% calc(100% - 8px), calc(100% - 8px) calc(100% - 8px), calc(100% - 8px) 100%,
+      8px 100%, 8px calc(100% - 8px), 0 calc(100% - 8px)
+    );
+    box-shadow: 0 4px 20px rgba(0, 255, 136, 0.1);
+  }
+  
+  .card-pixel:hover {
+    box-shadow: 0 8px 40px rgba(0, 255, 136, 0.2), 0 0 60px rgba(0, 255, 136, 0.1);
+  }
+  
+  /* 像素卡片 - 發光效果（钝化羽化） */
+  .card-pixel-glow {
+    @apply bg-pixel-darker
+           border-2 border-pixel-grid
+           p-6
+           rounded-md
+           transition-all duration-300
+           hover:border-pixel-primary
+           hover:shadow-[0_0_30px_rgba(0,255,136,0.4),0_0_60px_rgba(0,255,136,0.2)]
+           backdrop-blur-sm;
+  }
+  
+  .card-pixel-glow {
+    @apply card-pixel
+           border-pixel-primary
+           shadow-pixel-glow
+           hover:shadow-pixel-glow;
+  }
+  
+  /* 像素輸入框 */
+  .input-pixel {
+    @apply w-full px-4 py-3
+           bg-pixel-darker
+           border-4 border-pixel-grid
+           text-pixel-light
+           font-mono
+           focus:border-pixel-primary
+           focus:outline-none
+           focus:shadow-pixel-glow
+           transition-all;
+  }
+  
+  /* 像素進度條 */
+  .progress-pixel {
+    @apply w-full h-6
+           bg-pixel-darker
+           border-4 border-pixel-grid
+           overflow-hidden
+           relative;
+  }
+  
+  .progress-pixel-bar {
+    @apply h-full
+           bg-pixel-primary
+           transition-all duration-500
+           relative
+           overflow-hidden;
+  }
+  
+  .progress-pixel-bar::after {
+    content: '';
+    @apply absolute inset-0
+           bg-gradient-to-r from-transparent via-white to-transparent
+           opacity-20
+           animate-pixel-slide;
+  }
+  
+  /* Badge（圆润处理） */
+  .badge-pixel {
+    @apply inline-block
+           px-3 py-1
+           bg-pixel-primary
+           text-pixel-darker
+           text-xs
+           font-bold
+           border border-pixel-darker
+           rounded-full
+           font-mono
+           uppercase
+           shadow-sm;
+  }
+  
+  /* 螢光文字 */
+  .text-neon {
+    @apply text-pixel-primary
+           drop-shadow-[0_0_10px_rgba(0,255,136,0.8)];
+  }
+  
+  .text-neon-pink {
+    @apply text-pixel-secondary
+           drop-shadow-[0_0_10px_rgba(255,0,255,0.8)];
+  }
+  
+  .text-neon-cyan {
+    @apply text-pixel-accent
+           drop-shadow-[0_0_10px_rgba(0,255,255,0.8)];
+  }
+}
+
+/* ============================================
+   CRT 顯示器效果
+   ============================================ */
+
+.scanline {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(
+    to bottom,
+    transparent 50%,
+    rgba(0, 0, 0, 0.1) 51%
+  );
+  background-size: 100% 4px;
+  pointer-events: none;
+  z-index: 9999;
+  animation: scanline 8s linear infinite;
+}
+
+@keyframes scanline {
+  0% {
+    transform: translateY(0);
+  }
+  100% {
+    transform: translateY(4px);
+  }
+}
+
+.crt-overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: radial-gradient(
+    ellipse at center,
+    transparent 0%,
+    rgba(0, 0, 0, 0.3) 100%
+  );
+  pointer-events: none;
+  z-index: 9998;
+}
+
+/* ============================================
+   代碼高亮樣式
+   ============================================ */
+
+.code-block {
+  @apply bg-pixel-darker
+         border-4 border-pixel-grid
+         rounded-none
+         overflow-hidden;
+}
+
+.code-block pre {
+  @apply p-6
+         overflow-x-auto
+         font-mono text-sm;
+}
+
+.code-block code {
+  @apply text-pixel-light;
+}
+
+/* 像素化代碼行號 */
+.code-line-number {
+  @apply inline-block w-12
+         text-right
+         text-pixel-grid
+         mr-4
+         select-none;
+}
+
+/* ============================================
+   滾動條樣式
+   ============================================ */
+
+::-webkit-scrollbar {
+  width: 12px;
+  height: 12px;
+}
+
+::-webkit-scrollbar-track {
+  @apply bg-pixel-darker
+         border-4 border-pixel-grid;
+}
+
+::-webkit-scrollbar-thumb {
+  @apply bg-pixel-primary
+         border-2 border-pixel-darker;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  @apply bg-pixel-accent;
+}
+
+/* ============================================
+   動畫效果
+   ============================================ */
+
+@keyframes glitch {
+  0% {
+    transform: translate(0);
+  }
+  20% {
+    transform: translate(-2px, 2px);
+  }
+  40% {
+    transform: translate(-2px, -2px);
+  }
+  60% {
+    transform: translate(2px, 2px);
+  }
+  80% {
+    transform: translate(2px, -2px);
+  }
+  100% {
+    transform: translate(0);
+  }
+}
+
+.glitch-effect {
+  animation: glitch 1s linear infinite;
+}
+
+/* 像素閃爍 */
+.pixel-blink {
+  animation: blink 1s step-end infinite;
+}
+
+@keyframes blink {
+  0%, 50% {
+    opacity: 1;
+  }
+  50.01%, 100% {
+    opacity: 0;
+  }
+}
+
+/* 像素浮動 */
+.pixel-float {
+  animation: float 3s ease-in-out infinite;
+}
+
+@keyframes float {
+  0%, 100% {
+    transform: translateY(0px);
+  }
+  50% {
+    transform: translateY(-20px);
+  }
+}
+
+/* ============================================
+   響應式設計
+   ============================================ */
+
+@media (max-width: 768px) {
+  .btn-pixel {
+    @apply px-4 py-2 text-pixel-xs;
+  }
+  
+  .card-pixel {
+    @apply p-4;
+  }
+  
+  h1 {
+    @apply text-pixel-lg;
+  }
+  
+  h2 {
+    @apply text-pixel-base;
+  }
+}
+
+/* ============================================
+   工具類
+   ============================================ */
+
+@layer utilities {
+  .text-stroke {
+    -webkit-text-stroke: 2px var(--pixel-darker);
+    paint-order: stroke fill;
+  }
+  
+  .pixel-perfect {
+    image-rendering: pixelated;
+    image-rendering: -moz-crisp-edges;
+    image-rendering: crisp-edges;
+  }
+  
+  .neon-box {
+    box-shadow: 
+      0 0 10px var(--pixel-primary),
+      0 0 20px var(--pixel-primary),
+      0 0 30px var(--pixel-primary),
+      inset 0 0 10px var(--pixel-primary);
+  }
+}
+
+/* ============================================
+   科技感動畫
+   ============================================ */
+
+@keyframes scan {
+  0% {
+    transform: translateY(-100%);
+  }
+  100% {
+    transform: translateY(100%);
+  }
+}
+
+.animate-scan {
+  animation: scan 3s ease-in-out infinite;
+}
+
+/* 神秘闪烁效果 */
+@keyframes mystery-blink {
+  0%, 50%, 100% { opacity: 1; }
+  25%, 75% { opacity: 0.3; }
+}
+
+.mystery-blink {
+  animation: mystery-blink 3s ease-in-out infinite;
+}
+
+/* 雷达扫描效果 */
+@keyframes radar-scan {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+}
+
+.radar-scan {
+  animation: radar-scan 4s linear infinite;
+}
+
+/* 警告闪烁 */
+@keyframes warning-flash {
+  0%, 100% { 
+    background-color: rgba(var(--pixel-danger-rgb), 0.1);
+    border-color: rgba(var(--pixel-danger-rgb), 0.5);
+  }
+  50% { 
+    background-color: rgba(var(--pixel-danger-rgb), 0.3);
+    border-color: rgba(var(--pixel-danger-rgb), 1);
+  }
+}
+
+.warning-flash {
+  animation: warning-flash 2s ease-in-out infinite;
+}
+
+/* 信号波动 */
+@keyframes signal-wave {
+  0%, 100% { transform: scaleY(0.5); opacity: 0.5; }
+  50% { transform: scaleY(1); opacity: 1; }
+}
+
+.signal-wave {
+  animation: signal-wave 1s ease-in-out infinite;
+}
+
+/* 地下技术主题颜色 */
+:root {
+  --underground-primary: #00ff88;
+  --underground-danger: #ff0055;
+  --underground-warning: #ffaa00;
+  --underground-accent: #00aaff;
+}
+
+/* 神秘悬停效果 */
+.mystery-hover {
+  transition: all 0.3s ease;
+}
+
+.mystery-hover:hover {
+  box-shadow: 0 0 20px rgba(0, 255, 136, 0.5),
+              0 0 40px rgba(0, 255, 136, 0.3),
+              inset 0 0 10px rgba(0, 255, 136, 0.1);
+  transform: translateY(-2px);
+}
+
+/* "窥视" 效果 */
+.peeping-effect {
+  position: relative;
+  overflow: hidden;
+}
+
+.peeping-effect::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: -100%;
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(
+    90deg,
+    transparent,
+    rgba(0, 255, 136, 0.3),
+    transparent
+  );
+  animation: peeping 3s ease-in-out infinite;
+}
+
+@keyframes peeping {
+  0% { left: -100%; }
+  50% { left: 100%; }
+  100% { left: 100%; }
+}
+
+.animate-scan {
+  animation: scan 3s linear infinite;
+}
+
+/* 數字流動效果 */
+@keyframes digit-flow {
+  0% {
+    opacity: 0;
+    transform: translateY(-20px);
+  }
+  50% {
+    opacity: 1;
+  }
+  100% {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+}
+
+/* 故障效果 */
+@keyframes glitch {
+  0% {
+    transform: translate(0);
+  }
+  20% {
+    transform: translate(-2px, 2px);
+  }
+  40% {
+    transform: translate(-2px, -2px);
+  }
+  60% {
+    transform: translate(2px, 2px);
+  }
+  80% {
+    transform: translate(2px, -2px);
+  }
+  100% {
+    transform: translate(0);
+  }
+}
+
+.animate-glitch:hover {
+  animation: glitch 0.3s infinite;
+}
+
+/* 霓虹脈衝 */
+@keyframes neon-pulse {
+  0%, 100% {
+    opacity: 1;
+    filter: brightness(1);
+  }
+  50% {
+    opacity: 0.8;
+    filter: brightness(1.2);
+  }
+}
+
+.animate-neon-pulse {
+  animation: neon-pulse 2s ease-in-out infinite;
+}
+
+/* ============================================
+   增强浮动和圆润效果
+   ============================================ */
+
+/* 浮动动画 - 用于图标 */
+@keyframes float {
+  0%, 100% {
+    transform: translateY(0px);
+  }
+  50% {
+    transform: translateY(-15px);
+  }
+}
+
+.animate-float {
+  animation: float 3s ease-in-out infinite;
+}
+
+/* 圆润卡片增强 */
+.card-rounded {
+  @apply rounded-2xl backdrop-blur-sm;
+}
+
+/* 字体大小增强（移动端优先） */
+.text-mobile-lg {
+  @apply text-base sm:text-lg;
+}
+
+.text-mobile-xl {
+  @apply text-lg sm:text-xl;
+}
+
+.text-mobile-2xl {
+  @apply text-xl sm:text-2xl lg:text-3xl;
+}
+
+/* Line clamp 支持 */
+.line-clamp-1 {
+  display: -webkit-box;
+  -webkit-line-clamp: 1;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+.line-clamp-2 {
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}

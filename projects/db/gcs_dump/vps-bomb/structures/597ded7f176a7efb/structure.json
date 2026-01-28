@@ -1,0 +1,333 @@
+{
+  "propositions": [
+    {
+      "id": "1",
+      "text": "The story is titled 'Blind Consort Sixteen Years Old'.",
+      "level": 1
+    },
+    {
+      "id": "1.1",
+      "text": "The story's title is 'Blind Consort Sixteen Years Old'.",
+      "level": 2
+    },
+    {
+      "id": "2",
+      "text": "The content is a narrative or novel.",
+      "level": 1
+    },
+    {
+      "id": "2.1",
+      "text": "The narrative involves characters and their interactions.",
+      "level": 2
+    },
+    {
+      "id": "2.2",
+      "text": "The narrative explores emotions and relationships.",
+      "level": 2
+    },
+    {
+      "id": "2.3",
+      "text": "The narrative seems to be in Chinese.",
+      "level": 2
+    },
+    {
+      "id": "3",
+      "text": "The text mentions a website 'http://www.pashu.cc'.",
+      "level": 1
+    },
+    {
+      "id": "4",
+      "text": "There are references to characters and their internal thoughts.",
+      "level": 1
+    },
+    {
+      "id": "4.1",
+      "text": "Characters express desires and feelings.",
+      "level": 2
+    },
+    {
+      "id": "4.2",
+      "text": "Characters ponder their circumstances.",
+      "level": 2
+    },
+    {
+      "id": "5",
+      "text": "The text refers to 'Mother' and 'Father' figures.",
+      "level": 1
+    },
+    {
+      "id": "6",
+      "text": "There are mentions of 'rain', 'snow', and 'wind'.",
+      "level": 1
+    },
+    {
+      "id": "6.1",
+      "text": "'Rain' is associated with a file.",
+      "level": 2
+    },
+    {
+      "id": "6.2",
+      "text": "'Snow' is associated with a file.",
+      "level": 2
+    },
+    {
+      "id": "6.3",
+      "text": "'Wind' is associated with a file.",
+      "level": 2
+    },
+    {
+      "id": "7",
+      "text": "The narrative seems to revolve around a female protagonist.",
+      "level": 1
+    },
+    {
+      "id": "7.1",
+      "text": "The protagonist's age is mentioned as sixteen.",
+      "level": 2
+    },
+    {
+      "id": "7.2",
+      "text": "The protagonist experiences various emotions and situations.",
+      "level": 2
+    },
+    {
+      "id": "8",
+      "text": "The text mentions 'Emperor' and 'consort' figures.",
+      "level": 1
+    },
+    {
+      "id": "8.1",
+      "text": "The term 'blind consort' is used.",
+      "level": 2
+    },
+    {
+      "id": "9",
+      "text": "There are themes of destiny, fate, and choices.",
+      "level": 1
+    },
+    {
+      "id": "9.1",
+      "text": "Characters reflect on their destiny.",
+      "level": 2
+    },
+    {
+      "id": "9.2",
+      "text": "Characters make choices that affect their fate.",
+      "level": 2
+    },
+    {
+      "id": "10",
+      "text": "The narrative includes dialogue between characters.",
+      "level": 1
+    },
+    {
+      "id": "11",
+      "text": "There are descriptive passages about surroundings and internal states.",
+      "level": 1
+    },
+    {
+      "id": "12",
+      "text": "The text uses figurative language.",
+      "level": 1
+    },
+    {
+      "id": "13",
+      "text": "The text contains numerical references like 'sixteen' and '001', '002', '003', '004', '005', '006', '007', '008', '009', '010', '011', '012', '013', '014', '015', '016', '017', '018', '019', '020'.",
+      "level": 1
+    },
+    {
+      "id": "13.1",
+      "text": "'Sixteen' refers to the protagonist's age.",
+      "level": 2
+    },
+    {
+      "id": "13.2",
+      "text": "Numbers like '001' to '020' might indicate chapter or section divisions.",
+      "level": 2
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Blind Consort",
+      "frequency": 2,
+      "context": "Refers to a character, likely the protagonist, who is a consort and is blind."
+    },
+    {
+      "name": "Sixteen",
+      "frequency": 3,
+      "context": "Refers to the age of the protagonist."
+    },
+    {
+      "name": "Character Interaction",
+      "frequency": 5,
+      "context": "The narrative involves multiple characters conversing and interacting."
+    },
+    {
+      "name": "Emotions",
+      "frequency": 3,
+      "context": "Characters experience and express various feelings."
+    },
+    {
+      "name": "Relationships",
+      "frequency": 2,
+      "context": "The story explores connections between characters."
+    },
+    {
+      "name": "Destiny/Fate",
+      "frequency": 2,
+      "context": "Themes of predetermined events and one's path."
+    },
+    {
+      "name": "Choices",
+      "frequency": 2,
+      "context": "Characters make decisions that influence events."
+    },
+    {
+      "name": "Narrative/Story",
+      "frequency": 3,
+      "context": "The overall nature of the document as a story or novel."
+    },
+    {
+      "name": "Rain",
+      "frequency": 2,
+      "context": "Mentioned in association with files and natural phenomena."
+    },
+    {
+      "name": "Snow",
+      "frequency": 2,
+      "context": "Mentioned in association with files and natural phenomena."
+    },
+    {
+      "name": "Wind",
+      "frequency": 2,
+      "context": "Mentioned in association with files and natural phenomena."
+    },
+    {
+      "name": "Protagonist",
+      "frequency": 3,
+      "context": "The central character of the story, likely female and sixteen."
+    },
+    {
+      "name": "Emperor",
+      "frequency": 1,
+      "context": "A title suggesting a royal or imperial setting."
+    },
+    {
+      "name": "Consort",
+      "frequency": 1,
+      "context": "A title suggesting a royal or imperial setting, related to the Emperor."
+    },
+    {
+      "name": "Dialogue",
+      "frequency": 1,
+      "context": "Conversations between characters."
+    },
+    {
+      "name": "Description",
+      "frequency": 1,
+      "context": "Passages detailing settings and internal states."
+    },
+    {
+      "name": "Figurative Language",
+      "frequency": 1,
+      "context": "Use of metaphors, similes, or other non-literal expressions."
+    },
+    {
+      "name": "Website",
+      "frequency": 1,
+      "context": "Reference to 'http://www.pashu.cc'."
+    },
+    {
+      "name": "Internal Thoughts",
+      "frequency": 2,
+      "context": "Characters' reflections and inner monologue."
+    },
+    {
+      "name": "Mother",
+      "frequency": 1,
+      "context": "A familial role."
+    },
+    {
+      "name": "Father",
+      "frequency": 1,
+      "context": "A familial role."
+    },
+    {
+      "name": "Chapter/Section Markers",
+      "frequency": 1,
+      "context": "Numbers like '001' to '020' likely indicate divisions within the text."
+    }
+  ],
+  "relations": [
+    {
+      "source": "Blind Consort",
+      "target": "Sixteen",
+      "type": "is_a_protagonist_of_age"
+    },
+    {
+      "source": "Blind Consort",
+      "target": "Emperor",
+      "type": "part_of_a_royal_court"
+    },
+    {
+      "source": "Sixteen",
+      "target": "Protagonist",
+      "type": "describes_age_of"
+    },
+    {
+      "source": "Character Interaction",
+      "target": "Dialogue",
+      "type": "is_demonstrated_through"
+    },
+    {
+      "source": "Destiny/Fate",
+      "target": "Choices",
+      "type": "influences"
+    },
+    {
+      "source": "Rain",
+      "target": "File",
+      "type": "associated_with"
+    },
+    {
+      "source": "Snow",
+      "target": "File",
+      "type": "associated_with"
+    },
+    {
+      "source": "Wind",
+      "target": "File",
+      "type": "associated_with"
+    },
+    {
+      "source": "Narrative/Story",
+      "target": "Chinese",
+      "type": "is_written_in"
+    },
+    {
+      "source": "Protagonist",
+      "target": "Blind Consort",
+      "type": "is_likely"
+    },
+    {
+      "source": "Protagonist",
+      "target": "Sixteen",
+      "type": "is_age"
+    },
+    {
+      "source": "Chapter/Section Markers",
+      "target": "Narrative/Story",
+      "type": "organizes"
+    }
+  ],
+  "hierarchy": {
+    "main_topics": [
+      "Title and Origin",
+      "Narrative Content",
+      "Characters and Relationships",
+      "Themes",
+      "Structural Elements"
+    ],
+    "structure": "The document is a novel titled 'Blind Consort Sixteen Years Old', written in Chinese, likely published online. It features a young female protagonist and explores themes of destiny, relationships, and emotions through character interactions and descriptions. The text is divided into numbered sections."
+  }
+}

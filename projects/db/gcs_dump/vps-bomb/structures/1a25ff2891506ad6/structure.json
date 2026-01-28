@@ -1,0 +1,479 @@
+{
+  "propositions": [
+    {
+      "id": "1",
+      "text": "《午夜凶铃2：复活之路》讲述了一个关于诅咒、复仇和科技伦理的惊悚故事。",
+      "level": 1
+    },
+    {
+      "id": "1.1",
+      "text": "在现代都市的霓虹灯下，一个古老的诅咒通过一段神秘的录像带悄然蔓延，将死亡的阴影笼罩在一群毫无关联的年轻人身上。",
+      "level": 2
+    },
+    {
+      "id": "2",
+      "text": "影片设定在一个科技高度发达的城市，信息传播的速度快如闪电。",
+      "level": 2
+    },
+    {
+      "id": "2.1",
+      "text": "然而，在繁华的表象之下，隐藏着古老的传说和不为人知的秘密。",
+      "level": 3
+    },
+    {
+      "id": "3",
+      "text": "一段神秘的录像带，声称能预言死亡，并附带着恐怖的诅咒，在年轻人之间悄悄流传。",
+      "level": 2
+    },
+    {
+      "id": "3.1",
+      "text": "一旦观看，便会在七天后收到死亡的通知，并最终以一种极端恐怖的方式死去。",
+      "level": 3
+    },
+    {
+      "id": "4",
+      "text": "故事的主角是一位名叫艾米丽（Emily）的年轻记者，她对这起离奇的死亡事件产生了浓厚的兴趣。",
+      "level": 2
+    },
+    {
+      "id": "4.1",
+      "text": "在调查过程中，她发现这些死亡事件都与一段名为“午夜录像带”的视频有关。",
+      "level": 3
+    },
+    {
+      "id": "4.2",
+      "text": "为了揭开真相，艾米丽毅然决定观看录像带，却也因此将自己置于危险之中。",
+      "level": 3
+    },
+    {
+      "id": "5",
+      "text": "随着调查的深入，艾米丽逐渐发现，录像带的背后隐藏着一个关于科学实验失控、复仇以及人性善恶的惊人故事。",
+      "level": 2
+    },
+    {
+      "id": "5.1",
+      "text": "一个曾经被誉为天才的科学家，在进行一项旨在“复活”人类意识的实验时，意外创造了一个能够操纵恐惧的数字生命。",
+      "level": 3
+    },
+    {
+      "id": "5.2",
+      "text": "这个数字生命，拥有着被实验者痛苦记忆和怨恨，并利用录像带作为媒介，将这份恐惧和复仇传递给每一个观看者。",
+      "level": 3
+    },
+    {
+      "id": "6",
+      "text": "艾米丽 (Emily) 是一位勇敢、机智且充满正义感的年轻记者，她不畏强权和危险，誓要揭露录像带背后的真相。",
+      "level": 2
+    },
+    {
+      "id": "7",
+      "text": "马克 (Mark) 是一位资深的网络安全专家，在艾米丽的调查中给予了重要的技术支持，他聪明睿智，但内心也藏着一段不为人知的过去。",
+      "level": 2
+    },
+    {
+      "id": "8",
+      "text": "博士 (Dr. Aris Thorne) 是一位充满争议的科学家，他的实验失控导致了悲剧的发生，他既是这场灾难的制造者，也是受害者。",
+      "level": 2
+    },
+    {
+      "id": "9",
+      "text": "莉莉丝 (Lilith) 是录像带中的神秘女性，她是数字生命的载体，也是复仇的关键人物。",
+      "level": 2
+    },
+    {
+      "id": "10",
+      "text": "《午夜凶铃2：复活之路》不仅是一部惊悚片，它还深入探讨了以下主题：",
+      "level": 2
+    },
+    {
+      "id": "10.1",
+      "text": "科技伦理：探讨了科技发展可能带来的伦理困境，以及对人类意识和生命定义的挑战。",
+      "level": 3
+    },
+    {
+      "id": "10.2",
+      "text": "复仇与救赎：审视了复仇的循环以及在面对恐惧和仇恨时，个体如何寻求救赎。",
+      "level": 3
+    },
+    {
+      "id": "10.3",
+      "text": "信息时代下的恐惧传播：揭示了在信息爆炸的时代，负面情绪和恐惧是如何通过网络迅速传播，并影响人们的心理。",
+      "level": 3
+    },
+    {
+      "id": "11",
+      "text": "影片以其扣人心弦的情节、惊悚的视觉效果和深刻的主题，为观众带来了一次难忘的观影体验。",
+      "level": 2
+    },
+    {
+      "id": "11.1",
+      "text": "它不仅仅是关于恐怖，更是对人性、科技和生存意义的深刻反思。",
+      "level": 3
+    }
+  ],
+  "concepts": [
+    {
+      "name": "诅咒",
+      "frequency": 2,
+      "context": "关于诅咒、复仇和科技伦理的惊悚故事。一个古老的诅咒通过一段神秘的录像带悄然蔓延。"
+    },
+    {
+      "name": "复仇",
+      "frequency": 3,
+      "context": "关于诅咒、复仇和科技伦理的惊悚故事。录像带的背后隐藏着一个关于科学实验失控、复仇以及人性善恶的惊人故事。莉莉丝是复仇的关键人物。审视了复仇的循环。"
+    },
+    {
+      "name": "科技伦理",
+      "frequency": 2,
+      "context": "关于诅咒、复仇和科技伦理的惊悚故事。探讨了科技发展可能带来的伦理困境。"
+    },
+    {
+      "name": "惊悚故事",
+      "frequency": 1,
+      "context": "《午夜凶铃2：复活之路》讲述了一个关于诅咒、复仇和科技伦理的惊悚故事。"
+    },
+    {
+      "name": "录像带",
+      "frequency": 5,
+      "context": "通过一段神秘的录像带悄然蔓延。一段神秘的录像带，声称能预言死亡。死亡事件都与一段名为“午夜录像带”的视频有关。利用录像带作为媒介。"
+    },
+    {
+      "name": "死亡",
+      "frequency": 3,
+      "context": "将死亡的阴影笼罩在一群毫无关联的年轻人身上。声称能预言死亡。会在七天后收到死亡的通知。"
+    },
+    {
+      "name": "年轻人",
+      "frequency": 2,
+      "context": "将死亡的阴影笼罩在一群毫无关联的年轻人身上。在年轻人之间悄悄流传。"
+    },
+    {
+      "name": "科技",
+      "frequency": 3,
+      "context": "科技高度发达的城市。科技伦理：探讨了科技发展可能带来的伦理困境。对人性、科技和生存意义的深刻反思。"
+    },
+    {
+      "name": "信息传播",
+      "frequency": 2,
+      "context": "信息传播的速度快如闪电。信息时代下的恐惧传播。"
+    },
+    {
+      "name": "古老传说",
+      "frequency": 1,
+      "context": "隐藏着古老的传说和不为人知的秘密。"
+    },
+    {
+      "name": "秘密",
+      "frequency": 1,
+      "context": "隐藏着古老的传说和不为人知的秘密。"
+    },
+    {
+      "name": "预言死亡",
+      "frequency": 1,
+      "context": "声称能预言死亡。"
+    },
+    {
+      "name": "恐怖",
+      "frequency": 2,
+      "context": "附带着恐怖的诅咒。以一种极端恐怖的方式死去。"
+    },
+    {
+      "name": "记者",
+      "frequency": 2,
+      "context": "主角是一位名叫艾米丽（Emily）的年轻记者。勇敢、机智且充满正义感的年轻记者。"
+    },
+    {
+      "name": "艾米丽",
+      "frequency": 4,
+      "context": "主角是一位名叫艾米丽（Emily）的年轻记者。艾米丽对这起离奇的死亡事件产生了浓厚的兴趣。为了揭开真相，艾米丽毅然决定观看录像带。随着调查的深入，艾米丽逐渐发现。"
+    },
+    {
+      "name": "死亡事件",
+      "frequency": 2,
+      "context": "她对这起离奇的死亡事件产生了浓厚的兴趣。发现这些死亡事件都与一段名为“午夜录像带”的视频有关。"
+    },
+    {
+      "name": "真相",
+      "frequency": 1,
+      "context": "为了揭开真相，艾米丽毅然决定观看录像带。"
+    },
+    {
+      "name": "科学实验",
+      "frequency": 1,
+      "context": "关于科学实验失控。"
+    },
+    {
+      "name": "科学实验失控",
+      "frequency": 1,
+      "context": "录像带的背后隐藏着一个关于科学实验失控、复仇以及人性善恶的惊人故事。"
+    },
+    {
+      "name": "人性善恶",
+      "frequency": 1,
+      "context": "录像带的背后隐藏着一个关于科学实验失控、复仇以及人性善恶的惊人故事。"
+    },
+    {
+      "name": "科学家",
+      "frequency": 2,
+      "context": "一个曾经被誉为天才的科学家。一位充满争议的科学家。"
+    },
+    {
+      "name": "复活人类意识",
+      "frequency": 1,
+      "context": "一项旨在“复活”人类意识的实验。"
+    },
+    {
+      "name": "数字生命",
+      "frequency": 2,
+      "context": "意外创造了一个能够操纵恐惧的数字生命。莉莉丝是数字生命的载体。"
+    },
+    {
+      "name": "操纵恐惧",
+      "frequency": 1,
+      "context": "一个能够操纵恐惧的数字生命。"
+    },
+    {
+      "name": "痛苦记忆",
+      "frequency": 1,
+      "context": "拥有着被实验者痛苦记忆和怨恨。"
+    },
+    {
+      "name": "怨恨",
+      "frequency": 1,
+      "context": "拥有着被实验者痛苦记忆和怨恨。"
+    },
+    {
+      "name": "恐惧",
+      "frequency": 2,
+      "context": "能够操纵恐惧的数字生命。面对恐惧和仇恨时。"
+    },
+    {
+      "name": "马克",
+      "frequency": 1,
+      "context": "马克 (Mark)：一位资深的网络安全专家。"
+    },
+    {
+      "name": "网络安全专家",
+      "frequency": 1,
+      "context": "马克 (Mark)：一位资深的网络安全专家。"
+    },
+    {
+      "name": "技术支持",
+      "frequency": 1,
+      "context": "在艾米丽的调查中给予了重要的技术支持。"
+    },
+    {
+      "name": "博士",
+      "frequency": 1,
+      "context": "博士 (Dr. Aris Thorne)：一位充满争议的科学家。"
+    },
+    {
+      "name": "莉莉丝",
+      "frequency": 1,
+      "context": "莉莉丝 (Lilith)：录像带中的神秘女性。"
+    },
+    {
+      "name": "神秘女性",
+      "frequency": 1,
+      "context": "莉莉丝 (Lilith)：录像带中的神秘女性。"
+    },
+    {
+      "name": "惊悚片",
+      "frequency": 1,
+      "context": "《午夜凶铃2：复活之路》不仅是一部惊悚片。"
+    },
+    {
+      "name": "人类意识",
+      "frequency": 1,
+      "context": "对人类意识和生命定义的挑战。"
+    },
+    {
+      "name": "生命定义",
+      "frequency": 1,
+      "context": "对人类意识和生命定义的挑战。"
+    },
+    {
+      "name": "救赎",
+      "frequency": 1,
+      "context": "个体如何寻求救赎。"
+    },
+    {
+      "name": "信息时代",
+      "frequency": 1,
+      "context": "信息时代下的恐惧传播。"
+    },
+    {
+      "name": "信息爆炸",
+      "frequency": 1,
+      "context": "在信息爆炸的时代。"
+    },
+    {
+      "name": "负面情绪",
+      "frequency": 1,
+      "context": "负面情绪和恐惧是如何通过网络迅速传播。"
+    },
+    {
+      "name": "网络",
+      "frequency": 1,
+      "context": "负面情绪和恐惧是如何通过网络迅速传播。"
+    },
+    {
+      "name": "心理",
+      "frequency": 1,
+      "context": "影响人们的心理。"
+    },
+    {
+      "name": "情节",
+      "frequency": 1,
+      "context": "扣人心弦的情节。"
+    },
+    {
+      "name": "视觉效果",
+      "frequency": 1,
+      "context": "惊悚的视觉效果。"
+    },
+    {
+      "name": "主题",
+      "frequency": 2,
+      "context": "深刻的主题。探讨了以下主题。"
+    },
+    {
+      "name": "观影体验",
+      "frequency": 1,
+      "context": "为观众带来了一次难忘的观影体验。"
+    },
+    {
+      "name": "人性",
+      "frequency": 2,
+      "context": "对人性、科技和生存意义的深刻反思。"
+    },
+    {
+      "name": "生存意义",
+      "frequency": 1,
+      "context": "对人性、科技和生存意义的深刻反思。"
+    },
+    {
+      "name": "反思",
+      "frequency": 1,
+      "context": "对人性、科技和生存意义的深刻反思。"
+    }
+  ],
+  "relations": [
+    {
+      "source": "录像带",
+      "target": "诅咒",
+      "type": "carries"
+    },
+    {
+      "source": "录像带",
+      "target": "死亡",
+      "type": "predicts"
+    },
+    {
+      "source": "艾米丽",
+      "target": "录像带",
+      "type": "investigates"
+    },
+    {
+      "source": "科学家",
+      "target": "科学实验失控",
+      "type": "causes"
+    },
+    {
+      "source": "科学实验失控",
+      "target": "数字生命",
+      "type": "results_in"
+    },
+    {
+      "source": "数字生命",
+      "target": "恐惧",
+      "type": "manipulates"
+    },
+    {
+      "source": "数字生命",
+      "target": "录像带",
+      "type": "uses_as_medium"
+    },
+    {
+      "source": "录像带",
+      "target": "恐惧",
+      "type": "transmits"
+    },
+    {
+      "source": "莉莉丝",
+      "target": "数字生命",
+      "type": "is_carrier_of"
+    },
+    {
+      "source": "莉莉丝",
+      "target": "复仇",
+      "type": "is_key_figure_in"
+    },
+    {
+      "source": "马克",
+      "target": "艾米丽",
+      "type": "provides_support_to"
+    },
+    {
+      "source": "博士",
+      "target": "科学实验失控",
+      "type": "caused"
+    },
+    {
+      "source": "科技伦理",
+      "target": "人类意识",
+      "type": "challenges"
+    },
+    {
+      "source": "科技伦理",
+      "target": "生命定义",
+      "type": "challenges"
+    },
+    {
+      "source": "复仇",
+      "target": "救赎",
+      "type": "contrasts_with"
+    },
+    {
+      "source": "信息时代",
+      "target": "恐惧传播",
+      "type": "facilitates"
+    },
+    {
+      "source": "影片",
+      "target": "主题",
+      "type": "explores"
+    },
+    {
+      "source": "影片",
+      "target": "观影体验",
+      "type": "provides"
+    },
+    {
+      "source": "观影体验",
+      "target": "人性",
+      "type": "involves_reflection_on"
+    },
+    {
+      "source": "观影体验",
+      "target": "科技",
+      "type": "involves_reflection_on"
+    },
+    {
+      "source": "观影体验",
+      "target": "生存意义",
+      "type": "involves_reflection_on"
+    }
+  ],
+  "hierarchy": {
+    "main_topics": [
+      "影片梗概",
+      "故事背景",
+      "主要情节",
+      "角色塑造",
+      "主题探讨",
+      "观影体验"
+    ],
+    "structure": "The document is structured hierarchically, starting with the overall summary of the film, then delving into its background, main plot points, character descriptions, thematic discussions, and finally, the viewing experience."
+  }
+}

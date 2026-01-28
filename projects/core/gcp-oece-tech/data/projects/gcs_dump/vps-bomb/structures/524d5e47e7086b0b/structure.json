@@ -1,0 +1,982 @@
+{
+  "propositions": [
+    {
+      "id": "1",
+      "text": "少女皇，一人独掌，大权在握，前朝后宫，尽在她手。",
+      "level": 1
+    },
+    {
+      "id": "1.1",
+      "text": "她只笑说，这不过是寻常。",
+      "level": 2
+    },
+    {
+      "id": "2",
+      "text": "她的眼神，明亮而锐利，仿佛能看穿人心。",
+      "level": 1
+    },
+    {
+      "id": "3",
+      "text": "她坐于龙椅之上，身着华服，头戴凤冠，一股睥睨天下的气势油然而生。",
+      "level": 1
+    },
+    {
+      "id": "4",
+      "text": "“朕今日，便要革新朝纲，扫清积弊，重振朝威！”",
+      "level": 1
+    },
+    {
+      "id": "4.1",
+      "text": "她朗声宣布，声音清澈而坚定。",
+      "level": 2
+    },
+    {
+      "id": "5",
+      "text": "她知道，前路艰难，阻力重重。",
+      "level": 1
+    },
+    {
+      "id": "6",
+      "text": "但她更知道，她必须去做。",
+      "level": 1
+    },
+    {
+      "id": "7",
+      "text": "“父皇，儿臣定不负您的期望，将这大夏江山，治理得如日中天！”",
+      "level": 1
+    },
+    {
+      "id": "8",
+      "text": "她站起身，目光望向远方，眼中闪烁着坚毅的光芒。",
+      "level": 1
+    },
+    {
+      "id": "9",
+      "text": "她，便是大夏王朝最受瞩目的女子。",
+      "level": 1
+    },
+    {
+      "id": "10",
+      "text": "年仅二十，便登临九五之尊，世人称她为“少女皇”。",
+      "level": 1
+    },
+    {
+      "id": "11",
+      "text": "她容貌绝美，倾国倾城，却又兼具男儿般的豪情壮志。",
+      "level": 1
+    },
+    {
+      "id": "12",
+      "text": "她的才情，更是令人惊叹，诗词歌赋，样样精通，治国之道，更是信手拈来。",
+      "level": 1
+    },
+    {
+      "id": "13",
+      "text": "“朕不愿做那被困于深宫的笼中鸟，朕要飞翔于九天之上，俯瞰这万里河山！”",
+      "level": 1
+    },
+    {
+      "id": "14",
+      "text": "她曾数次在朝堂之上，振臂高呼，鼓舞士气。",
+      "level": 1
+    },
+    {
+      "id": "15",
+      "text": "她的声音，如惊雷般响彻朝野，令无数文臣武将为之倾倒。",
+      "level": 1
+    },
+    {
+      "id": "16",
+      "text": "少女皇，如同一颗冉冉升起的新星，迅速照亮了整个大夏王朝的天空。",
+      "level": 1
+    },
+    {
+      "id": "17",
+      "text": "她的到来，打破了历代王朝的陈规，她以女子之身，登上了权力的巅峰。",
+      "level": 1
+    },
+    {
+      "id": "18",
+      "text": "“朕要让这天下，听到女子的声音，看到女子的力量！”",
+      "level": 1
+    },
+    {
+      "id": "19",
+      "text": "她曾说，她要让这天下，不再有女子被压迫，不再有女子被忽视。",
+      "level": 1
+    },
+    {
+      "id": "20",
+      "text": "少女皇的改革，如同一股清流，涤荡着大夏王朝的腐朽。",
+      "level": 1
+    },
+    {
+      "id": "21",
+      "text": "她颁布新法，整顿吏治，兴办教育，鼓励商业。",
+      "level": 1
+    },
+    {
+      "id": "22",
+      "text": "“朕要让这天下，变得更好，让百姓过上安居乐业的生活！”",
+      "level": 1
+    },
+    {
+      "id": "23",
+      "text": "她的脸上，总是挂着自信而迷人的笑容。",
+      "level": 1
+    },
+    {
+      "id": "24",
+      "text": "然而，权力之路，注定布满荆棘。",
+      "level": 1
+    },
+    {
+      "id": "25",
+      "text": "宫廷之中，暗流涌动。",
+      "level": 1
+    },
+    {
+      "id": "26",
+      "text": "后宫的嫔妃，对她虎视眈眈；",
+      "level": 1
+    },
+    {
+      "id": "27",
+      "text": "朝堂之上，也有不少老臣，对她的改革阳奉阴违。",
+      "level": 1
+    },
+    {
+      "id": "28",
+      "text": "“朕知道，朕的路，不好走。”",
+      "level": 1
+    },
+    {
+      "id": "28.1",
+      "text": "她轻叹一声，眼中闪过一丝疲惫。",
+      "level": 2
+    },
+    {
+      "id": "29",
+      "text": "但她从未退缩。",
+      "level": 1
+    },
+    {
+      "id": "30",
+      "text": "少女皇，外表看似冷酷，内心却充满了柔情。",
+      "level": 1
+    },
+    {
+      "id": "31",
+      "text": "她对百姓，体恤民情；",
+      "level": 1
+    },
+    {
+      "id": "32",
+      "text": "她对心腹，恩重如山。",
+      "level": 1
+    },
+    {
+      "id": "33",
+      "text": "“朕要用朕的双手，守护这片江山，守护这方百姓！”",
+      "level": 1
+    },
+    {
+      "id": "34",
+      "text": "她的眼中，闪烁着坚定的光芒。",
+      "level": 1
+    },
+    {
+      "id": "35",
+      "text": "然而，一股来自北方的威胁，正悄然逼近。",
+      "level": 1
+    },
+    {
+      "id": "36",
+      "text": "北狄大军，蠢蠢欲动，意欲侵犯大夏边疆。",
+      "level": 1
+    },
+    {
+      "id": "37",
+      "text": "“朕定要让他们，有来无回！”",
+      "level": 1
+    },
+    {
+      "id": "37.1",
+      "text": "少女皇，眼神中闪过一丝凌厉。",
+      "level": 2
+    },
+    {
+      "id": "38",
+      "text": "少女皇，披上战甲，亲自率领大军，奔赴战场。",
+      "level": 1
+    },
+    {
+      "id": "39",
+      "text": "她的英姿，如同一道耀眼的闪电，划破夜空。",
+      "level": 1
+    },
+    {
+      "id": "40",
+      "text": "“为了大夏，杀！”",
+      "level": 1
+    },
+    {
+      "id": "41",
+      "text": "她挥舞着手中的长剑，身先士卒，勇往直前。",
+      "level": 1
+    },
+    {
+      "id": "42",
+      "text": "战场之上，血流成河。",
+      "level": 1
+    },
+    {
+      "id": "43",
+      "text": "少女皇，身负重伤，却依然屹立不倒。",
+      "level": 1
+    },
+    {
+      "id": "44",
+      "text": "“朕，绝不退缩！”",
+      "level": 1
+    },
+    {
+      "id": "45",
+      "text": "她的声音，在厮杀声中，显得格外响亮。",
+      "level": 1
+    },
+    {
+      "id": "46",
+      "text": "经过数日的血战，大夏军队，终于击退了北狄大军。",
+      "level": 1
+    },
+    {
+      "id": "47",
+      "text": "少女皇，虽然身负重伤，但脸上却露出了欣慰的笑容。",
+      "level": 1
+    },
+    {
+      "id": "48",
+      "text": "“朕，做到了。”",
+      "level": 1
+    },
+    {
+      "id": "49",
+      "text": "她缓缓倒下，意识逐渐模糊。",
+      "level": 1
+    }
+  ],
+  "concepts": [
+    {
+      "name": "少女皇",
+      "frequency": 17,
+      "context": "The central figure of the document, the young empress."
+    },
+    {
+      "name": "大夏王朝",
+      "frequency": 6,
+      "context": "The dynasty ruled by the young empress."
+    },
+    {
+      "name": "权力",
+      "frequency": 3,
+      "context": "The power held and wielded by the empress."
+    },
+    {
+      "name": "改革",
+      "frequency": 3,
+      "context": "The empress's initiatives to improve the dynasty."
+    },
+    {
+      "name": "朝纲",
+      "frequency": 1,
+      "context": "The imperial court system."
+    },
+    {
+      "name": "积弊",
+      "frequency": 1,
+      "context": "The accumulated problems within the court."
+    },
+    {
+      "name": "朝威",
+      "frequency": 1,
+      "context": "The might and prestige of the dynasty."
+    },
+    {
+      "name": "期望",
+      "frequency": 1,
+      "context": "The expectations placed upon the empress."
+    },
+    {
+      "name": "江山",
+      "frequency": 1,
+      "context": "The territory and realm of the dynasty."
+    },
+    {
+      "name": "容貌",
+      "frequency": 1,
+      "context": "The empress's beauty."
+    },
+    {
+      "name": "豪情壮志",
+      "frequency": 1,
+      "context": "The empress's ambition and spirit."
+    },
+    {
+      "name": "才情",
+      "frequency": 1,
+      "context": "The empress's intellectual abilities."
+    },
+    {
+      "name": "诗词歌赋",
+      "frequency": 1,
+      "context": "Literary and artistic skills."
+    },
+    {
+      "name": "治国之道",
+      "frequency": 1,
+      "context": "The art and science of governance."
+    },
+    {
+      "name": "士气",
+      "frequency": 1,
+      "context": "Morale of the troops or officials."
+    },
+    {
+      "name": "文臣武将",
+      "frequency": 1,
+      "context": "Civil and military officials."
+    },
+    {
+      "name": "新星",
+      "frequency": 1,
+      "context": "Metaphor for the empress's rise."
+    },
+    {
+      "name": "陈规",
+      "frequency": 1,
+      "context": "Old customs and traditions."
+    },
+    {
+      "name": "女子",
+      "frequency": 2,
+      "context": "Refers to the empress and women in general."
+    },
+    {
+      "name": "声音",
+      "frequency": 1,
+      "context": "Figurative use for influence and presence."
+    },
+    {
+      "name": "力量",
+      "frequency": 1,
+      "context": "The influence and capability of women."
+    },
+    {
+      "name": "压迫",
+      "frequency": 1,
+      "context": "Oppression faced by women."
+    },
+    {
+      "name": "忽视",
+      "frequency": 1,
+      "context": "Being ignored or disregarded."
+    },
+    {
+      "name": "清流",
+      "frequency": 1,
+      "context": "Metaphor for positive change."
+    },
+    {
+      "name": "腐朽",
+      "frequency": 1,
+      "context": "Decay and corruption."
+    },
+    {
+      "name": "新法",
+      "frequency": 1,
+      "context": "New laws."
+    },
+    {
+      "name": "吏治",
+      "frequency": 1,
+      "context": "Administration of officials."
+    },
+    {
+      "name": "教育",
+      "frequency": 1,
+      "context": "Education system."
+    },
+    {
+      "name": "商业",
+      "frequency": 1,
+      "context": "Economic activities."
+    },
+    {
+      "name": "百姓",
+      "frequency": 2,
+      "context": "The common people."
+    },
+    {
+      "name": "安居乐业",
+      "frequency": 1,
+      "context": "Peaceful and prosperous life."
+    },
+    {
+      "name": "笑容",
+      "frequency": 1,
+      "context": "The empress's expression."
+    },
+    {
+      "name": "荆棘",
+      "frequency": 1,
+      "context": "Metaphor for difficulties."
+    },
+    {
+      "name": "宫廷",
+      "frequency": 1,
+      "context": "The imperial palace and its affairs."
+    },
+    {
+      "name": "暗流涌动",
+      "frequency": 1,
+      "context": "Undercurrents of intrigue."
+    },
+    {
+      "name": "嫔妃",
+      "frequency": 1,
+      "context": "Imperial concubines."
+    },
+    {
+      "name": "老臣",
+      "frequency": 1,
+      "context": "Veteran officials."
+    },
+    {
+      "name": "阳奉阴违",
+      "frequency": 1,
+      "context": "Pretense of obedience while acting otherwise."
+    },
+    {
+      "name": "疲惫",
+      "frequency": 1,
+      "context": "Fatigue."
+    },
+    {
+      "name": "退缩",
+      "frequency": 1,
+      "context": "To retreat or flinch."
+    },
+    {
+      "name": "冷酷",
+      "frequency": 1,
+      "context": "Apparent harshness."
+    },
+    {
+      "name": "柔情",
+      "frequency": 1,
+      "context": "Tenderness and compassion."
+    },
+    {
+      "name": "体恤民情",
+      "frequency": 1,
+      "context": "Empathy for the people's conditions."
+    },
+    {
+      "name": "心腹",
+      "frequency": 1,
+      "context": "Trusted confidants."
+    },
+    {
+      "name": "恩重如山",
+      "frequency": 1,
+      "context": "Deep gratitude and favor."
+    },
+    {
+      "name": "守护",
+      "frequency": 1,
+      "context": "To protect."
+    },
+    {
+      "name": "威胁",
+      "frequency": 1,
+      "context": "Danger or menace."
+    },
+    {
+      "name": "北方",
+      "frequency": 1,
+      "context": "Direction from which the threat originates."
+    },
+    {
+      "name": "北狄",
+      "frequency": 2,
+      "context": "The invading force."
+    },
+    {
+      "name": "边疆",
+      "frequency": 1,
+      "context": "The border regions of the dynasty."
+    },
+    {
+      "name": "战甲",
+      "frequency": 1,
+      "context": "Armor for battle."
+    },
+    {
+      "name": "大军",
+      "frequency": 1,
+      "context": "The army."
+    },
+    {
+      "name": "战场",
+      "frequency": 2,
+      "context": "The scene of battle."
+    },
+    {
+      "name": "闪电",
+      "frequency": 1,
+      "context": "Metaphor for the empress's swiftness and brilliance."
+    },
+    {
+      "name": "长剑",
+      "frequency": 1,
+      "context": "Weapon used by the empress."
+    },
+    {
+      "name": "身先士卒",
+      "frequency": 1,
+      "context": "Leading by example in battle."
+    },
+    {
+      "name": "血流成河",
+      "frequency": 1,
+      "context": "Intense bloodshed."
+    },
+    {
+      "name": "重伤",
+      "frequency": 2,
+      "context": "Serious physical injury."
+    },
+    {
+      "name": "屹立不倒",
+      "frequency": 1,
+      "context": "Resilience in the face of adversity."
+    },
+    {
+      "name": "厮杀",
+      "frequency": 1,
+      "context": "Fierce fighting."
+    },
+    {
+      "name": "血战",
+      "frequency": 1,
+      "context": "Bloody battle."
+    },
+    {
+      "name": "击退",
+      "frequency": 1,
+      "context": "To repel or drive back."
+    },
+    {
+      "name": "欣慰",
+      "frequency": 1,
+      "context": "Relief and satisfaction."
+    },
+    {
+      "name": "倒下",
+      "frequency": 1,
+      "context": "To fall or collapse."
+    },
+    {
+      "name": "意识模糊",
+      "frequency": 1,
+      "context": "Fading consciousness."
+    }
+  ],
+  "relations": [
+    {
+      "source": "少女皇",
+      "target": "大夏王朝",
+      "type": "rules"
+    },
+    {
+      "source": "少女皇",
+      "target": "权力",
+      "type": "possesses"
+    },
+    {
+      "source": "少女皇",
+      "target": "改革",
+      "type": "initiates"
+    },
+    {
+      "source": "少女皇",
+      "target": "朝纲",
+      "type": "influences"
+    },
+    {
+      "source": "少女皇",
+      "target": "积弊",
+      "type": "addresses"
+    },
+    {
+      "source": "少女皇",
+      "target": "朝威",
+      "type": "restores"
+    },
+    {
+      "source": "少女皇",
+      "target": "期望",
+      "type": "fulfills"
+    },
+    {
+      "source": "少女皇",
+      "target": "江山",
+      "type": "governs"
+    },
+    {
+      "source": "少女皇",
+      "target": "容貌",
+      "type": "possesses"
+    },
+    {
+      "source": "少女皇",
+      "target": "豪情壮志",
+      "type": "possesses"
+    },
+    {
+      "source": "少女皇",
+      "target": "才情",
+      "type": "possesses"
+    },
+    {
+      "source": "少女皇",
+      "target": "诗词歌赋",
+      "type": "excels_in"
+    },
+    {
+      "source": "少女皇",
+      "target": "治国之道",
+      "type": "excels_in"
+    },
+    {
+      "source": "少女皇",
+      "target": "士气",
+      "type": "boosts"
+    },
+    {
+      "source": "少女皇",
+      "target": "文臣武将",
+      "type": "influences"
+    },
+    {
+      "source": "少女皇",
+      "target": "女子",
+      "type": "represents"
+    },
+    {
+      "source": "少女皇",
+      "target": "力量",
+      "type": "advocates_for"
+    },
+    {
+      "source": "少女皇",
+      "target": "压迫",
+      "type": "opposes"
+    },
+    {
+      "source": "少女皇",
+      "target": "忽视",
+      "type": "opposes"
+    },
+    {
+      "source": "少女皇",
+      "target": "新法",
+      "type": "enacts"
+    },
+    {
+      "source": "少女皇",
+      "target": "吏治",
+      "type": "rectifies"
+    },
+    {
+      "source": "少女皇",
+      "target": "教育",
+      "type": "promotes"
+    },
+    {
+      "source": "少女皇",
+      "target": "商业",
+      "type": "encourages"
+    },
+    {
+      "source": "少女皇",
+      "target": "百姓",
+      "type": "cares_for"
+    },
+    {
+      "source": "少女皇",
+      "target": "安居乐业",
+      "type": "seeks_for_citizens"
+    },
+    {
+      "source": "少女皇",
+      "target": "荆棘",
+      "type": "navigates"
+    },
+    {
+      "source": "少女皇",
+      "target": "宫廷",
+      "type": "manages"
+    },
+    {
+      "source": "少女皇",
+      "target": "暗流涌动",
+      "type": "faces"
+    },
+    {
+      "source": "少女皇",
+      "target": "嫔妃",
+      "type": "opposed_by"
+    },
+    {
+      "source": "少女皇",
+      "target": "老臣",
+      "type": "faced_with_opposition_from"
+    },
+    {
+      "source": "少女皇",
+      "target": "阳奉阴违",
+      "type": "deals_with"
+    },
+    {
+      "source": "少女皇",
+      "target": "疲惫",
+      "type": "experiences"
+    },
+    {
+      "source": "少女皇",
+      "target": "退缩",
+      "type": "refuses_to"
+    },
+    {
+      "source": "少女皇",
+      "target": "冷酷",
+      "type": "appears_as"
+    },
+    {
+      "source": "少女皇",
+      "target": "柔情",
+      "type": "possesses"
+    },
+    {
+      "source": "少女皇",
+      "target": "体恤民情",
+      "type": "practices"
+    },
+    {
+      "source": "少女皇",
+      "target": "心腹",
+      "type": "values"
+    },
+    {
+      "source": "少女皇",
+      "target": "守护",
+      "type": "commits_to"
+    },
+    {
+      "source": "少女皇",
+      "target": "威胁",
+      "type": "faces"
+    },
+    {
+      "source": "少女皇",
+      "target": "北方",
+      "type": "threat_origin"
+    },
+    {
+      "source": "少女皇",
+      "target": "北狄",
+      "type": "fights_against"
+    },
+    {
+      "source": "少女皇",
+      "target": "边疆",
+      "type": "defends"
+    },
+    {
+      "source": "少女皇",
+      "target": "战甲",
+      "type": "wears"
+    },
+    {
+      "source": "少女皇",
+      "target": "大军",
+      "type": "leads"
+    },
+    {
+      "source": "少女皇",
+      "target": "战场",
+      "type": "fights_in"
+    },
+    {
+      "source": "少女皇",
+      "target": "闪电",
+      "type": "likened_to"
+    },
+    {
+      "source": "少女皇",
+      "target": "长剑",
+      "type": "wields"
+    },
+    {
+      "source": "少女皇",
+      "target": "身先士卒",
+      "type": "acts_as"
+    },
+    {
+      "source": "少女皇",
+      "target": "血流成河",
+      "type": "witnesses"
+    },
+    {
+      "source": "少女皇",
+      "target": "重伤",
+      "type": "sustains"
+    },
+    {
+      "source": "少女皇",
+      "target": "屹立不倒",
+      "type": "demonstrates"
+    },
+    {
+      "source": "少女皇",
+      "target": "厮杀",
+      "type": "endures"
+    },
+    {
+      "source": "少女皇",
+      "target": "血战",
+      "type": "participates_in"
+    },
+    {
+      "source": "少女皇",
+      "target": "击退",
+      "type": "achieves"
+    },
+    {
+      "source": "少女皇",
+      "target": "欣慰",
+      "type": "feels"
+    },
+    {
+      "source": "少女皇",
+      "target": "倒下",
+      "type": "does"
+    },
+    {
+      "source": "少女皇",
+      "target": "意识模糊",
+      "type": "experiences"
+    },
+    {
+      "source": "大夏王朝",
+      "target": "北狄",
+      "type": "is_threatened_by"
+    },
+    {
+      "source": "大夏王朝",
+      "target": "江山",
+      "type": "is_ruled_over"
+    },
+    {
+      "source": "大夏王朝",
+      "target": "天空",
+      "type": "is_illuminated_by"
+    },
+    {
+      "source": "权力",
+      "target": "少女皇",
+      "type": "is_held_by"
+    },
+    {
+      "source": "权力",
+      "target": "巅峰",
+      "type": "reaches"
+    },
+    {
+      "source": "改革",
+      "target": "大夏王朝",
+      "type": "affects"
+    },
+    {
+      "source": "改革",
+      "target": "腐朽",
+      "type": "cleanses"
+    },
+    {
+      "source": "改革",
+      "target": "新法",
+      "type": "involves"
+    },
+    {
+      "source": "改革",
+      "target": "吏治",
+      "type": "involves"
+    },
+    {
+      "source": "改革",
+      "target": "教育",
+      "type": "involves"
+    },
+    {
+      "source": "改革",
+      "target": "商业",
+      "type": "involves"
+    },
+    {
+      "source": "北狄大军",
+      "target": "大夏边疆",
+      "type": "intends_to_invade"
+    },
+    {
+      "source": "北狄大军",
+      "target": "少女皇",
+      "type": "is_defeated_by"
+    },
+    {
+      "source": "战场",
+      "target": "血流成河",
+      "type": "is_characterized_by"
+    },
+    {
+      "source": "战场",
+      "target": "厮杀",
+      "type": "is_characterized_by"
+    },
+    {
+      "source": "战场",
+      "target": "血战",
+      "type": "lasts_for_days"
+    },
+    {
+      "source": "参考文献",
+      "target": "省略",
+      "type": "is_omitted_in_original"
+    },
+    {
+      "source": "附录",
+      "target": "省略",
+      "type": "is_omitted_in_original"
+    }
+  ],
+  "hierarchy": {
+    "main_topics": [
+      "The Young Empress",
+      "Her Reign and Ambitions",
+      "Challenges and Conflicts",
+      "The Battle and its Aftermath"
+    ],
+    "structure": "The document is structured as a series of chapters, each focusing on a different aspect of the young empress's life and rule, progressing from her ascension and initial reforms to facing external threats and culminating in a decisive battle. It follows a narrative arc."
+  }
+}

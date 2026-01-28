@@ -1,0 +1,279 @@
+{
+  "propositions": [
+    {
+      "id": "1",
+      "text": "This is a story of ancient rebirth and hearth wars.",
+      "level": 1
+    },
+    {
+      "id": "1.1",
+      "text": "The protagonist wakes up in a strange, luxurious room with unfamiliar memories, realizing she has transmigrated.",
+      "level": 2
+    },
+    {
+      "id": "1.2",
+      "text": "She is shocked to find herself about to marry a much older man as a 'filling-in' bride (填房).",
+      "level": 2
+    },
+    {
+      "id": "1.3",
+      "text": "Her new life is full of challenges and potential hearth wars.",
+      "level": 2
+    },
+    {
+      "id": "1.4",
+      "text": "She resolves to live a splendid life in this new body.",
+      "level": 2
+    },
+    {
+      "id": "1.5",
+      "text": "She will not be controlled and will fight for herself.",
+      "level": 3
+    },
+    {
+      "id": "1.6",
+      "text": "She begins learning ancient rules, understanding family power dynamics, and protecting herself in a stifling environment.",
+      "level": 2
+    },
+    {
+      "id": "1.7",
+      "text": "Key aspects of learning include respecting elders, observing etiquette, and hiding her strength.",
+      "level": 3
+    },
+    {
+      "id": "1.8",
+      "text": "Family powers include a scheming main wife, constantly vying concubines, and covetous concubine-born daughters.",
+      "level": 3
+    },
+    {
+      "id": "2",
+      "text": "In Chapter 2, the protagonist faces her first confrontation at a banquet.",
+      "level": 1
+    },
+    {
+      "id": "2.1",
+      "text": "She cleverly resolves a crisis using modern wisdom despite being at a disadvantage against the main wife.",
+      "level": 2
+    },
+    {
+      "id": "2.2",
+      "text": "She discovers hidden allies within the complex family structure.",
+      "level": 2
+    },
+    {
+      "id": "2.3",
+      "text": "Her arrival disrupts the family's existing balance, signaling a greater storm.",
+      "level": 2
+    },
+    {
+      "id": "3",
+      "text": "Chapter 3 details further developments in the protagonist's journey.",
+      "level": 1
+    },
+    {
+      "id": "3.1",
+      "text": "She becomes involved in the family's power struggles and needs to become stronger to survive.",
+      "level": 2
+    },
+    {
+      "id": "3.2",
+      "text": "She develops unexpected feelings for her husband, acknowledging that emotions are unreliable in hearth wars.",
+      "level": 2
+    },
+    {
+      "id": "3.3",
+      "text": "She aims to carve out her own territory in the ancient world through wisdom and courage.",
+      "level": 2
+    },
+    {
+      "id": "4",
+      "text": "The text describes emotional distress and reassurance.",
+      "level": 1
+    },
+    {
+      "id": "4.1",
+      "text": "A woman experiences sharp chest pain and worry from her husband.",
+      "level": 2
+    },
+    {
+      "id": "4.2",
+      "text": "She attributes it to tiredness.",
+      "level": 3
+    },
+    {
+      "id": "4.3",
+      "text": "The husband reassures her of his protection and love.",
+      "level": 3
+    },
+    {
+      "id": "4.4",
+      "text": "Despite reassurance, she continues to worry.",
+      "level": 3
+    },
+    {
+      "id": "4.5",
+      "text": "She expresses fear of something happening to her.",
+      "level": 4
+    },
+    {
+      "id": "4.6",
+      "text": "The husband reiterates his promise to protect her.",
+      "level": 4
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Rebirth",
+      "frequency": 1,
+      "context": "Core premise of the story: 'ancient rebirth'."
+    },
+    {
+      "name": "Hearth Wars (宅斗)",
+      "frequency": 6,
+      "context": "Describes the central conflict and social dynamics within a wealthy household."
+    },
+    {
+      "name": "Transmigration",
+      "frequency": 1,
+      "context": "The protagonist's consciousness moving to another body in a different time."
+    },
+    {
+      "name": "Filling-in Bride (填房)",
+      "frequency": 1,
+      "context": "The protagonist's marital status, implying marrying into a family as a second wife."
+    },
+    {
+      "name": "Ancient Rules/Etiquette",
+      "frequency": 2,
+      "context": "The social norms and customs the protagonist must learn and adhere to."
+    },
+    {
+      "name": "Family Power Dynamics",
+      "frequency": 2,
+      "context": "Refers to the distribution of influence and the relationships between family members."
+    },
+    {
+      "name": "Main Wife (主母)",
+      "frequency": 2,
+      "context": "A key antagonist figure in the hearth wars."
+    },
+    {
+      "name": "Concubines (侧室)",
+      "frequency": 1,
+      "context": "Other women in the household competing for favor."
+    },
+    {
+      "name": "Concubine-born Daughters (庶女)",
+      "frequency": 1,
+      "context": "Daughters born to concubines, also part of the family power structure."
+    },
+    {
+      "name": "Wisdom",
+      "frequency": 2,
+      "context": "The protagonist's key asset for overcoming challenges."
+    },
+    {
+      "name": "Courage",
+      "frequency": 1,
+      "context": "A trait the protagonist needs to develop for survival."
+    },
+    {
+      "name": "Husband",
+      "frequency": 11,
+      "context": "The male protagonist, central to the protagonist's marital situation and emotional arc."
+    },
+    {
+      "name": "Protection",
+      "frequency": 7,
+      "context": "The husband's repeated promise to the woman."
+    },
+    {
+      "name": "Worry",
+      "frequency": 14,
+      "context": "The emotional state of the female character in the later part of the text."
+    },
+    {
+      "name": "Love",
+      "frequency": 1,
+      "context": "Implied in the husband's actions and words."
+    }
+  ],
+  "relations": [
+    {
+      "source": "Rebirth",
+      "target": "Hearth Wars",
+      "type": "context_of"
+    },
+    {
+      "source": "Transmigration",
+      "target": "Protagonist",
+      "type": "is_a"
+    },
+    {
+      "source": "Filling-in Bride",
+      "target": "Protagonist",
+      "type": "is_a"
+    },
+    {
+      "source": "Protagonist",
+      "target": "Ancient Rules/Etiquette",
+      "type": "learns"
+    },
+    {
+      "source": "Protagonist",
+      "target": "Family Power Dynamics",
+      "type": "navigates"
+    },
+    {
+      "source": "Main Wife",
+      "target": "Hearth Wars",
+      "type": "participant_in"
+    },
+    {
+      "source": "Concubines",
+      "target": "Hearth Wars",
+      "type": "participant_in"
+    },
+    {
+      "source": "Protagonist",
+      "target": "Wisdom",
+      "type": "uses"
+    },
+    {
+      "source": "Protagonist",
+      "target": "Courage",
+      "type": "needs"
+    },
+    {
+      "source": "Husband",
+      "target": "Protagonist",
+      "type": "is_husband_of"
+    },
+    {
+      "source": "Husband",
+      "target": "Protection",
+      "type": "offers"
+    },
+    {
+      "source": "Worry",
+      "target": "Protagonist",
+      "type": "is_felt_by"
+    },
+    {
+      "source": "Husband",
+      "target": "Love",
+      "type": "expresses"
+    }
+  ],
+  "hierarchy": {
+    "main_topics": [
+      "Story Premise (Rebirth, Transmigration)",
+      "Protagonist's Situation (Filling-in Bride)",
+      "Conflict (Hearth Wars, Power Struggles)",
+      "Protagonist's Actions and Traits (Learning, Wisdom, Courage)",
+      "Relationships (Husband, Family Members)",
+      "Emotional Arc (Worry, Reassurance)"
+    ],
+    "structure": "The document is structured hierarchically with a main title, followed by chapters (序言, 第一章, 第二章, 第三章). Each chapter is further divided into sub-sections (h3), detailing plot points and character development. Some sections include explicit lists or quotes. The latter part of the text, marked by '~~ ~~~', appears to be a repeated dialogue segment focused on emotional reassurance and worry, seemingly disconnected from the narrative flow of the earlier chapters."
+  }
+}

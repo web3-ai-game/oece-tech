@@ -1,0 +1,331 @@
+{
+  "propositions": [
+    {
+      "id": "1",
+      "text": "古林从一个普通上班族穿越到了一个完全陌生的奇幻世界。",
+      "level": 1
+    },
+    {
+      "id": "1.1",
+      "text": "他发现自己身处一个充满奇幻色彩的世界。",
+      "level": 2
+    },
+    {
+      "id": "1.2",
+      "text": "他身处一片茂密的森林中。",
+      "level": 2
+    },
+    {
+      "id": "1.3",
+      "text": "他意识到自己可能穿越了。",
+      "level": 2
+    },
+    {
+      "id": "1.4",
+      "text": "他没有任何关于这个世界的知识，也不知道将要面对什么。",
+      "level": 2
+    },
+    {
+      "id": "1.5",
+      "text": "他必须尽快适应新的环境以求生存。",
+      "level": 2
+    },
+    {
+      "id": "1.6",
+      "text": "他暗下决心要找到回家的路。",
+      "level": 2
+    },
+    {
+      "id": "2",
+      "text": "古林已经穿越到“灵界”一段时间，对该世界了解不多。",
+      "level": 1
+    },
+    {
+      "id": "2.1",
+      "text": "灵界是一个充满灵气和奇幻力量的世界。",
+      "level": 2
+    },
+    {
+      "id": "2.2",
+      "text": "灵界灵气充沛，存在各种神奇生物和强大力量。",
+      "level": 2
+    },
+    {
+      "id": "2.3",
+      "text": "他必须尽快提升实力以求生存。",
+      "level": 2
+    },
+    {
+      "id": "2.4",
+      "text": "他依然暗下决心要找到回家的路。",
+      "level": 2
+    },
+    {
+      "id": "3",
+      "text": "随着时间的推移，古林逐渐在这个世界找到了归属、幸福、爱情、家庭、安宁、平静、未来、悠闲、感悟和坚韧。",
+      "level": 1
+    },
+    {
+      "id": "3.1",
+      "text": "他在不同的季节和场景中，表达了对自身状态和找到的内心满足的描述。",
+      "level": 2
+    },
+    {
+      "id": "3.2",
+      "text": "尽管如此，他仍然持有“一定要找到回家的路”的决心。",
+      "level": 2
+    }
+  ],
+  "concepts": [
+    {
+      "name": "古林",
+      "frequency": 60,
+      "context": "主角的名字，经历了穿越和在异世界的经历。"
+    },
+    {
+      "name": "穿越",
+      "frequency": 2,
+      "context": "描述古林从一个世界转移到另一个世界的事件。"
+    },
+    {
+      "name": "陌生世界",
+      "frequency": 1,
+      "context": "指代古林穿越后的未知环境。"
+    },
+    {
+      "name": "奇幻色彩",
+      "frequency": 1,
+      "context": "描述新世界的特质。"
+    },
+    {
+      "name": "森林",
+      "frequency": 7,
+      "context": "古林初到或之后所处的环境。"
+    },
+    {
+      "name": "适应",
+      "frequency": 3,
+      "context": "古林为了生存必须做的行为。"
+    },
+    {
+      "name": "生存",
+      "frequency": 5,
+      "context": "古林在新世界的首要目标。"
+    },
+    {
+      "name": "回家",
+      "frequency": 38,
+      "context": "古林始终持有的一个强烈愿望和目标。"
+    },
+    {
+      "name": "灵界",
+      "frequency": 36,
+      "context": "古林穿越到的世界的名称。"
+    },
+    {
+      "name": "灵气",
+      "frequency": 36,
+      "context": "描述灵界的能量属性。"
+    },
+    {
+      "name": "奇幻力量",
+      "frequency": 36,
+      "context": "描述灵界的另一能量属性。"
+    },
+    {
+      "name": "实力提升",
+      "frequency": 4,
+      "context": "古林为了生存需要做的事情。"
+    },
+    {
+      "name": "神奇生物",
+      "frequency": 36,
+      "context": "灵界中存在的生物类型。"
+    },
+    {
+      "name": "强大力量",
+      "frequency": 36,
+      "context": "灵界中存在的能量形式。"
+    },
+    {
+      "name": "归宿",
+      "frequency": 1,
+      "context": "古林在灵界找到的某种归属感。"
+    },
+    {
+      "name": "幸福",
+      "frequency": 1,
+      "context": "古林在灵界找到的一种积极情感。"
+    },
+    {
+      "name": "爱情",
+      "frequency": 1,
+      "context": "古林在灵界经历的情感。"
+    },
+    {
+      "name": "家庭",
+      "frequency": 1,
+      "context": "古林在灵界建立的关系。"
+    },
+    {
+      "name": "安宁",
+      "frequency": 1,
+      "context": "古林在灵界找到的内心状态。"
+    },
+    {
+      "name": "平静",
+      "frequency": 1,
+      "context": "古林在灵界找到的内心状态。"
+    },
+    {
+      "name": "未来",
+      "frequency": 4,
+      "context": "古林在灵界对未来的展望。"
+    },
+    {
+      "name": "悠闲",
+      "frequency": 4,
+      "context": "古林在灵界找到的一种生活状态。"
+    },
+    {
+      "name": "感悟",
+      "frequency": 4,
+      "context": "古林在灵界获得的某种领悟。"
+    },
+    {
+      "name": "坚韧",
+      "frequency": 4,
+      "context": "古林在灵界展现出的品质。"
+    },
+    {
+      "name": "季节",
+      "frequency": 10,
+      "context": "通过四季的变化来烘托古林在灵界的生活状态。"
+    }
+  ],
+  "relations": [
+    {
+      "source": "古林",
+      "target": "陌生世界",
+      "type": "is_in"
+    },
+    {
+      "source": "古林",
+      "target": "穿越",
+      "type": "underwent"
+    },
+    {
+      "source": "陌生世界",
+      "target": "奇幻色彩",
+      "type": "has_quality"
+    },
+    {
+      "source": "古林",
+      "target": "适应",
+      "type": "must"
+    },
+    {
+      "source": "适应",
+      "target": "生存",
+      "type": "for_purpose_of"
+    },
+    {
+      "source": "古林",
+      "target": "回家",
+      "type": "wishes_to"
+    },
+    {
+      "source": "灵界",
+      "target": "灵气",
+      "type": "is_characterized_by"
+    },
+    {
+      "source": "灵界",
+      "target": "奇幻力量",
+      "type": "is_characterized_by"
+    },
+    {
+      "source": "灵界",
+      "target": "神奇生物",
+      "type": "contains"
+    },
+    {
+      "source": "灵界",
+      "target": "强大力量",
+      "type": "contains"
+    },
+    {
+      "source": "古林",
+      "target": "实力提升",
+      "type": "must"
+    },
+    {
+      "source": "实力提升",
+      "target": "生存",
+      "type": "for_purpose_of"
+    },
+    {
+      "source": "古林",
+      "target": "归宿",
+      "type": "found_in"
+    },
+    {
+      "source": "古林",
+      "target": "幸福",
+      "type": "found_in"
+    },
+    {
+      "source": "古林",
+      "target": "爱情",
+      "type": "found_in"
+    },
+    {
+      "source": "古林",
+      "target": "家庭",
+      "type": "found_in"
+    },
+    {
+      "source": "古林",
+      "target": "安宁",
+      "type": "found_in"
+    },
+    {
+      "source": "古林",
+      "target": "平静",
+      "type": "found_in"
+    },
+    {
+      "source": "古林",
+      "target": "未来",
+      "type": "found_in"
+    },
+    {
+      "source": "古林",
+      "target": "悠闲",
+      "type": "found_in"
+    },
+    {
+      "source": "古林",
+      "target": "感悟",
+      "type": "found_in"
+    },
+    {
+      "source": "古林",
+      "target": "坚韧",
+      "type": "found_in"
+    },
+    {
+      "source": "回家",
+      "target": "决心",
+      "type": "is_a_manifestation_of"
+    }
+  ],
+  "hierarchy": {
+    "main_topics": [
+      "Protagonist's Awakening and Transmigration",
+      "Introduction to the Spirit Realm",
+      "Protagonist's Adaptation and Emotional Growth"
+    ],
+    "structure": "The document follows a chronological progression from the protagonist's initial shock and disorientation after transmigration to his gradual adaptation and emotional fulfillment in the new world. Each numbered section (001, 002, etc.) represents a distinct scene or passage of time, often marked by descriptions of the environment and the protagonist's evolving internal state. There is a strong thematic repetition, particularly regarding the protagonist's core desires and his connection to the 'Spirit Realm'."
+  }
+}

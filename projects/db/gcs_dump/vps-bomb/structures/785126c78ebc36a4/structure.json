@@ -1,0 +1,2432 @@
+{
+  "propositions": [
+    {
+      "id": "1",
+      "text": "A man later jumped into Horseshoe Falls.",
+      "level": 1
+    },
+    {
+      "id": "1.1",
+      "text": "No one knew when he jumped, nor was it mentioned.",
+      "level": 2
+    },
+    {
+      "id": "1.2",
+      "text": "He appeared in the sight of the Goat Island suspension bridge keeper.",
+      "level": 2
+    },
+    {
+      "id": "1.2.1",
+      "text": "This was around 6:15 AM.",
+      "level": 3
+    },
+    {
+      "id": "1.2.1.1",
+      "text": "The keeper was likely the first pedestrian of the day.",
+      "level": 4
+    },
+    {
+      "id": "1.3",
+      "text": "The narrator reflects on whether they could have recognized him.",
+      "level": 2
+    },
+    {
+      "id": "1.3.1",
+      "text": "If not mistaken, the narrator had saved him before.",
+      "level": 3
+    },
+    {
+      "id": "2",
+      "text": "The scene at Niagara Falls is described.",
+      "level": 1
+    },
+    {
+      "id": "2.1",
+      "text": "Water, mist, and spray formed a curtain falling from 55 meters.",
+      "level": 2
+    },
+    {
+      "id": "2.2",
+      "text": "The water created waves that obscured the sky.",
+      "level": 2
+    },
+    {
+      "id": "2.3",
+      "text": "The season felt like early summer, but the humid air was corrosive.",
+      "level": 2
+    },
+    {
+      "id": "3",
+      "text": "The bridge keeper's observations about the man.",
+      "level": 1
+    },
+    {
+      "id": "3.1",
+      "text": "The man seemed distracted and peculiar.",
+      "level": 2
+    },
+    {
+      "id": "3.2",
+      "text": "He was likely from a solemn hotel on the scenic drive.",
+      "level": 2
+    },
+    {
+      "id": "3.3",
+      "text": "He had a 'young but aged, gaunt pale face' and 'pale waxy complexion'.",
+      "level": 2
+    },
+    {
+      "id": "3.4",
+      "text": "His eyes were deep-set but bright.",
+      "level": 2
+    },
+    {
+      "id": "3.5",
+      "text": "Gold-rimmed glasses suggested an anxious student-like demeanor.",
+      "level": 2
+    },
+    {
+      "id": "3.6",
+      "text": "He was six feet tall, tall and thin, with a 'slightly stooped back'.",
+      "level": 2
+    },
+    {
+      "id": "3.7",
+      "text": "His hurried walk seemed intentional but aimless.",
+      "level": 2
+    },
+    {
+      "id": "3.8",
+      "text": "He wore old-fashioned dark clothes, uncharacteristic of tourists.",
+      "level": 2
+    },
+    {
+      "id": "3.8.1",
+      "text": "His coat was unbuttoned, revealing a white cotton shirt.",
+      "level": 3
+    },
+    {
+      "id": "3.8.2",
+      "text": "His collar was unbuttoned, and his trouser zipper was stuck.",
+      "level": 3
+    },
+    {
+      "id": "3.8.3",
+      "text": "His black leather shoes were polished and paired with his outfit.",
+      "level": 3
+    },
+    {
+      "id": "3.8.4",
+      "text": "The shoes suggested attendance at a wedding or funeral.",
+      "level": 4
+    },
+    {
+      "id": "3.8.5",
+      "text": "His ankles were bare, emitting a pale gleam.",
+      "level": 3
+    },
+    {
+      "id": "3.8.6",
+      "text": "He was barefoot, despite the quality of his shoes.",
+      "level": 4
+    },
+    {
+      "id": "4",
+      "text": "The keeper attempts to interact with the man.",
+      "level": 1
+    },
+    {
+      "id": "4.1",
+      "text": "The keeper calls out 'Hello!' but receives no response.",
+      "level": 2
+    },
+    {
+      "id": "4.2",
+      "text": "The man seemed blind and deaf due to his mental state.",
+      "level": 2
+    },
+    {
+      "id": "4.3",
+      "text": "He was highly tense, like a bomb about to explode, and moved with purpose.",
+      "level": 2
+    },
+    {
+      "id": "4.4",
+      "text": "The keeper shouts 'Hey, sir, fifty cents for the toll' with a louder voice.",
+      "level": 2
+    },
+    {
+      "id": "4.5",
+      "text": "The man remains unresponsive, ignoring the toll booth.",
+      "level": 2
+    },
+    {
+      "id": "5",
+      "text": "The man's progress across the bridge.",
+      "level": 1
+    },
+    {
+      "id": "5.1",
+      "text": "He is now running, with an ungraceful, swaying gait.",
+      "level": 2
+    },
+    {
+      "id": "5.2",
+      "text": "The suspension bridge is only five feet above the turbulent rapids.",
+      "level": 2
+    },
+    {
+      "id": "5.3",
+      "text": "The bridge's support planks are wet from the spray.",
+      "level": 2
+    },
+    {
+      "id": "5.4",
+      "text": "The man clutches the railing for balance, his smooth soles slipping.",
+      "level": 2
+    },
+    {
+      "id": "5.5",
+      "text": "He seems unaccustomed to physical exertion.",
+      "level": 2
+    },
+    {
+      "id": "5.6",
+      "text": "His round glasses nearly slide off, but he pushes them back up.",
+      "level": 2
+    },
+    {
+      "id": "5.7",
+      "text": "His thinning grey hair reveals a pale bald spot.",
+      "level": 2
+    },
+    {
+      "id": "5.8",
+      "text": "Damp, messy curls blow around his eyes.",
+      "level": 2
+    },
+    {
+      "id": "6",
+      "text": "The keeper decides to pursue the man.",
+      "level": 1
+    },
+    {
+      "id": "6.1",
+      "text": "He shouts 'Sir, hey, sir!'",
+      "level": 2
+    },
+    {
+      "id": "6.2",
+      "text": "He has encountered suicide attempts before, too many to recall.",
+      "level": 2
+    },
+    {
+      "id": "6.3",
+      "text": "He has worked at the falls for 30 years.",
+      "level": 2
+    },
+    {
+      "id": "6.4",
+      "text": "Despite being over 60, he cannot catch the younger man.",
+      "level": 2
+    },
+    {
+      "id": "6.5",
+      "text": "He pleads, 'Sir! Don't! Damn it, I beg you—don't!'",
+      "level": 2
+    },
+    {
+      "id": "6.6",
+      "text": "The emergency number is in the toll booth, but it's too late to turn back.",
+      "level": 2
+    },
+    {
+      "id": "7",
+      "text": "The man's destination and the falls' description.",
+      "level": 1
+    },
+    {
+      "id": "7.1",
+      "text": "The man on Goat Island doesn't look at the Canadian side or contemplate the spectacle.",
+      "level": 2
+    },
+    {
+      "id": "7.2",
+      "text": "He doesn't wipe water from his face or push back his hair.",
+      "level": 2
+    },
+    {
+      "id": "7.3",
+      "text": "He is driven by the magic of the falls, unstoppable by ordinary mortals.",
+      "level": 2
+    },
+    {
+      "id": "7.4",
+      "text": "Intervention is necessary to prevent the unforgivable sin of suicide.",
+      "level": 2
+    },
+    {
+      "id": "7.5",
+      "text": "The keeper, breathless and dizzy, follows, shouting.",
+      "level": 2
+    },
+    {
+      "id": "7.6",
+      "text": "The man walks towards Water Turtle Point, the southern tip of Goat Island above Horseshoe Falls.",
+      "level": 2
+    },
+    {
+      "id": "7.7",
+      "text": "This is the most dangerous and beautiful corner of Goat Island.",
+      "level": 2
+    },
+    {
+      "id": "7.8",
+      "text": "The rapids become turbulent, water and foam erupting 15 feet high.",
+      "level": 2
+    },
+    {
+      "id": "7.9",
+      "text": "The scene is one of nightmarish, chaotic noise.",
+      "level": 2
+    },
+    {
+      "id": "7.10",
+      "text": "Horseshoe Falls is a massive torrent, half a mile wide, flowing at 3,000 tons per second.",
+      "level": 2
+    },
+    {
+      "id": "7.11",
+      "text": "The air roars and shakes; the ground trembles.",
+      "level": 2
+    },
+    {
+      "id": "7.12",
+      "text": "The earth seems to fragment and fall into the earth's core.",
+      "level": 2
+    },
+    {
+      "id": "7.13",
+      "text": "Time seems to freeze and explode.",
+      "level": 2
+    },
+    {
+      "id": "7.14",
+      "text": "One feels close to the core of all things: light, roar, madness.",
+      "level": 2
+    },
+    {
+      "id": "7.15",
+      "text": "Nerves are frenzied; the brain is crushed into chemical components.",
+      "level": 2
+    },
+    {
+      "id": "7.16",
+      "text": "Memories vanish.",
+      "level": 2
+    },
+    {
+      "id": "8",
+      "text": "The philosophical implications of the falls.",
+      "level": 1
+    },
+    {
+      "id": "8.1",
+      "text": "Is this the promise or mystery of the falls?",
+      "level": 2
+    },
+    {
+      "id": "8.2",
+      "text": "Disgust with self and humanity; the path to salvation is seen by few.",
+      "level": 2
+    },
+    {
+      "id": "9",
+      "text": "The man's final action.",
+      "level": 1
+    },
+    {
+      "id": "9.1",
+      "text": "The keeper, 30 yards away, sees the man step onto the lowest railing.",
+      "level": 2
+    },
+    {
+      "id": "9.2",
+      "text": "His foot tests the smooth iron railing.",
+      "level": 2
+    },
+    {
+      "id": "9.3",
+      "text": "His hands grip the top handrail tightly.",
+      "level": 2
+    },
+    {
+      "id": "9.4",
+      "text": "The keeper shouts, 'Don't! Sir! Damn it—'",
+      "level": 2
+    },
+    {
+      "id": "9.5",
+      "text": "The keeper's voice is swallowed by the waterfall.",
+      "level": 2
+    },
+    {
+      "id": "10",
+      "text": "The keeper's personal struggles.",
+      "level": 1
+    },
+    {
+      "id": "10.1",
+      "text": "He is nearing collapse.",
+      "level": 2
+    },
+    {
+      "id": "10.2",
+      "text": "This is his last summer on Goat Island.",
+      "level": 2
+    },
+    {
+      "id": "10.3",
+      "text": "His heart pounds, supplying his dizzy brain with oxygen.",
+      "level": 2
+    },
+    {
+      "id": "10.4",
+      "text": "His lungs are injured by the spray and the metallic smell from the industrial city.",
+      "level": 2
+    },
+    {
+      "id": "10.5",
+      "text": "He is exhausted from seeing too much.",
+      "level": 2
+    },
+    {
+      "id": "11",
+      "text": "The man's final gesture.",
+      "level": 1
+    },
+    {
+      "id": "11.1",
+      "text": "The keeper swears he saw the young man make a farewell gesture.",
+      "level": 2
+    },
+    {
+      "id": "11.2",
+      "text": "It was a contemptuous salute, a defiant gesture like a student challenging an elder.",
+      "level": 2
+    },
+    {
+      "id": "11.3",
+      "text": "It was also sincere, an attempt to alleviate the witness's guilt.",
+      "level": 2
+    },
+    {
+      "id": "12",
+      "text": "The man disappears.",
+      "level": 1
+    },
+    {
+      "id": "12.1",
+      "text": "In the next instant, the young man vanishes.",
+      "level": 2
+    },
+    {
+      "id": "12.2",
+      "text": "He disappeared with a heartbeat over Horseshoe Falls.",
+      "level": 2
+    },
+    {
+      "id": "13",
+      "text": "The keeper's reaction and subsequent actions.",
+      "level": 1
+    },
+    {
+      "id": "13.1",
+      "text": "This is not the first 'poor bastard' he's seen, but he prays he's the last.",
+      "level": 2
+    },
+    {
+      "id": "13.2",
+      "text": "Distraught, he returns to the booth and calls emergency services.",
+      "level": 2
+    },
+    {
+      "id": "13.3",
+      "text": "The time is 6:26 AM, about an hour after dawn.",
+      "level": 2
+    },
+    {
+      "id": "14",
+      "text": "Aria discovers the situation.",
+      "level": 1
+    },
+    {
+      "id": "14.1",
+      "text": "Aria finds a note from her husband on the mirror in their honeymoon suite.",
+      "level": 2
+    },
+    {
+      "id": "14.2",
+      "text": "They had been married for only 21 hours.",
+      "level": 2
+    },
+    {
+      "id": "14.3",
+      "text": "In the afternoon, she learns from the Niagara Falls police that a man resembling her husband, Gilbert Erskine, jumped into Horseshoe Falls that morning.",
+      "level": 2
+    },
+    {
+      "id": "14.4",
+      "text": "He was instantly swept away and lost without a trace, likely downstream to Devil's Hole.",
+      "level": 2
+    },
+    {
+      "id": "14.5",
+      "text": "Aria hears this news less than 28 hours after her wedding.",
+      "level": 2
+    },
+    {
+      "id": "15",
+      "text": "Aria's reaction to the news.",
+      "level": 1
+    },
+    {
+      "id": "15.1",
+      "text": "These are the 'harsh realities'.",
+      "level": 2
+    },
+    {
+      "id": "15.2",
+      "text": "She declares, 'I, the bride, became a widow in one day,' with disbelief.",
+      "level": 2
+    },
+    {
+      "id": "15.3",
+      "text": "As a daughter of a respected Presbyterian minister, she felt connected to God and authority.",
+      "level": 2
+    },
+    {
+      "id": "15.4",
+      "text": "She hits her cheeks, wanting to bruise her own eyes for seeing too much.",
+      "level": 2
+    },
+    {
+      "id": "15.5",
+      "text": "She cries out, 'God, help me! You wouldn't be so cruel—would you?'",
+      "level": 2
+    },
+    {
+      "id": "15.6",
+      "text": "An internal voice mockingly replies, 'Yes, I would. Foolish woman, of course I would. Who are you to live to see my justice?'",
+      "level": 2
+    },
+    {
+      "id": "15.7",
+      "text": "The mocking reply is so clear she believes others can hear it.",
+      "level": 2
+    },
+    {
+      "id": "16",
+      "text": "Aria's legal status.",
+      "level": 1
+    },
+    {
+      "id": "16.1",
+      "text": "There is comfort in the fact that Gilbert Erskine's death is not officially confirmed until his body is found.",
+      "level": 2
+    },
+    {
+      "id": "16.2",
+      "text": "Aria is still a bride, not yet a widow.",
+      "level": 2
+    },
+    {
+      "id": "17",
+      "text": "Aria wakes up on her wedding night.",
+      "level": 1
+    },
+    {
+      "id": "17.1",
+      "text": "She realizes she will be alone for life, a realization that began on her wedding night.",
+      "level": 2
+    },
+    {
+      "id": "17.2",
+      "text": "She is Mrs. Gilbert Erskine, but she wakes up alone.",
+      "level": 2
+    },
+    {
+      "id": "17.3",
+      "text": "She is no longer Miss Aria Juliet Littrell, the unmarried daughter of Reverend Mr. and Mrs. Thaddeus Littrell.",
+      "level": 2
+    },
+    {
+      "id": "17.4",
+      "text": "She was a piano and voice teacher at the Troy Conservatory in Troy, New York.",
+      "level": 2
+    },
+    {
+      "id": "17.5",
+      "text": "She has become the bride of Gilbert Erskine, newly appointed pastor of Palmyra's first Presbyterian Church.",
+      "level": 2
+    },
+    {
+      "id": "17.6",
+      "text": "The wedding bells echo for hundreds of miles, their noise still in her ears.",
+      "level": 2
+    },
+    {
+      "id": "17.7",
+      "text": "She has a headache, her brain buzzing as if squeezed by pliers.",
+      "level": 2
+    },
+    {
+      "id": "17.8",
+      "text": "She feels nauseous at the sight of cutlery, her insides feeling corrupted.",
+      "level": 2
+    },
+    {
+      "id": "17.9",
+      "text": "She lies stiffly in the strange bed, breathing in the scent of damp linen, flesh, and despair.",
+      "level": 2
+    },
+    {
+      "id": "17.10",
+      "text": "She questions where she is and the name of the hotel.",
+      "level": 2
+    },
+    {
+      "id": "17.11",
+      "text": "Niagara Falls, the world's honeymoon capital, overwhelms her mind.",
+      "level": 2
+    },
+    {
+      "id": "17.12",
+      "text": "She knows little of her husband after such a short marriage.",
+      "level": 2
+    },
+    {
+      "id": "17.13",
+      "text": "She tells herself Gilbert is just in the bathroom.",
+      "level": 2
+    },
+    {
+      "id": "17.14",
+      "text": "She strains to hear running water, bathing, or flushing.",
+      "level": 2
+    },
+    {
+      "id": "17.15",
+      "text": "She feels an unprecedented awkwardness and shyness, even about marital intimacy.",
+      "level": 2
+    },
+    {
+      "id": "17.16",
+      "text": "The 'wedding bed' offers no escape.",
+      "level": 2
+    },
+    {
+      "id": "17.17",
+      "text": "His pungent hair tonic clashes with her delicate lily-of-the-valley perfume.",
+      "level": 2
+    },
+    {
+      "id": "17.18",
+      "text": "Before marriage, they never had open conversations or called him 'Gil'.",
+      "level": 2
+    },
+    {
+      "id": "17.19",
+      "text": "They decided to maintain a polite and happy atmosphere.",
+      "level": 2
+    },
+    {
+      "id": "17.20",
+      "text": "In the sacred union of marriage, a dawning realization strikes her: something is wrong.",
+      "level": 2
+    },
+    {
+      "id": "18",
+      "text": "Gilbert is gone.",
+      "level": 1
+    },
+    {
+      "id": "18.1",
+      "text": "He is not there. He is not dead. Where is he?",
+      "level": 2
+    },
+    {
+      "id": "19",
+      "text": "Aria's perception of herself.",
+      "level": 1
+    },
+    {
+      "id": "19.1",
+      "text": "She is still a newlywed bride, flushed with shame, and the world sees her that way.",
+      "level": 2
+    },
+    {
+      "id": "19.2",
+      "text": "When she first signed as Mrs. Aria Erskine, her cheeks flushed.",
+      "level": 2
+    },
+    {
+      "id": "19.3",
+      "text": "She is a 29-year-old virgin, knowing nothing of men.",
+      "level": 2
+    },
+    {
+      "id": "19.4",
+      "text": "She lies on the bed, afraid to reach beyond it.",
+      "level": 2
+    },
+    {
+      "id": "19.5",
+      "text": "She doesn't want him to misunderstand her touch.",
+      "level": 2
+    },
+    {
+      "id": "20",
+      "text": "Aria's relationship with Gilbert's name and identity.",
+      "level": 1
+    },
+    {
+      "id": "20.1",
+      "text": "She still almost calls him 'Gilbert'.",
+      "level": 2
+    },
+    {
+      "id": "20.2",
+      "text": "None of Gilbert's relatives call him 'Gil'.",
+      "level": 2
+    },
+    {
+      "id": "20.3",
+      "text": "Perhaps his friends at Albany Seminary did, but that's a side of him Aria doesn't see or want to know.",
+      "level": 2
+    },
+    {
+      "id": "20.4",
+      "text": "It's like discussing religion with him; his profession, not hers.",
+      "level": 2
+    },
+    {
+      "id": "20.5",
+      "text": "Calling him by such an intimate nickname would be too familiar.",
+      "level": 2
+    },
+    {
+      "id": "20.6",
+      "text": "He always stiffly and shyly calls her 'Aria, my dear.'",
+      "level": 2
+    },
+    {
+      "id": "20.7",
+      "text": "She imagines calling him 'baby' or 'Gil, baby' in a romantic moment.",
+      "level": 2
+    },
+    {
+      "id": "20.8",
+      "text": "This possibility is now gone.",
+      "level": 2
+    },
+    {
+      "id": "21",
+      "text": "Aria's wedding reception experience.",
+      "level": 1
+    },
+    {
+      "id": "21.1",
+      "text": "She drank champagne at the reception and the night before, feeling drunk.",
+      "level": 2
+    },
+    {
+      "id": "21.2",
+      "text": "She slept poorly, mouth agape like a fish.",
+      "level": 2
+    },
+    {
+      "id": "21.3",
+      "text": "She wonders if Gilbert heard her snore.",
+      "level": 2
+    },
+    {
+      "id": "21.4",
+      "text": "She tries to listen for him in the bathroom.",
+      "level": 2
+    },
+    {
+      "id": "21.5",
+      "text": "He might have been in the bathroom all night, muffling noises by running water.",
+      "level": 2
+    },
+    {
+      "id": "21.6",
+      "text": "She wonders if she turned on both taps in her desperation.",
+      "level": 2
+    },
+    {
+      "id": "21.7",
+      "text": "Shivering in her silk nightgown, she finally breaks down and cries.",
+      "level": 2
+    },
+    {
+      "id": "22",
+      "text": "Aria's reflection on the previous evening.",
+      "level": 1
+    },
+    {
+      "id": "22.1",
+      "text": "The evening was cool and damp in June.",
+      "level": 2
+    },
+    {
+      "id": "22.2",
+      "text": "The sun looked like a street lamp reflected in water.",
+      "level": 2
+    },
+    {
+      "id": "22.3",
+      "text": "Aria shivered in her short-sleeved rayon dress, arms crossed.",
+      "level": 2
+    },
+    {
+      "id": "22.4",
+      "text": "Gilbert frowned, facing the river, not noticing her.",
+      "level": 2
+    },
+    {
+      "id": "22.5",
+      "text": "Gilbert drove her hundreds of miles from Troy in his polished black 1949 Packard.",
+      "level": 2
+    },
+    {
+      "id": "22.6",
+      "text": "He apologized for being a passenger and blew his nose loudly.",
+      "level": 2
+    },
+    {
+      "id": "22.7",
+      "text": "His skin was red, as if he had a fever.",
+      "level": 2
+    },
+    {
+      "id": "22.8",
+      "text": "Aria worried he had caught a cold from his mother, Mrs. Erskine, who was agitated at the reception.",
+      "level": 2
+    },
+    {
+      "id": "23",
+      "text": "Mrs. Erskine's concerns about Gilbert.",
+      "level": 1
+    },
+    {
+      "id": "23.1",
+      "text": "Mrs. Erskine told Aria Gilbert had a sore throat, respiratory infections, and sinus headaches.",
+      "level": 2
+    },
+    {
+      "id": "23.2",
+      "text": "His stomach was 'picky', disliking spicy food or 'agitation'.",
+      "level": 2
+    },
+    {
+      "id": "23.3",
+      "text": "Mrs. Erskine hugged Aria, who submitted to her embrace.",
+      "level": 2
+    },
+    {
+      "id": "23.4",
+      "text": "Mrs. Erskine asked Aria to call her 'Mama', like Gilbert did.",
+      "level": 2
+    },
+    {
+      "id": "23.5",
+      "text": "Aria agreed, thinking about the implications for her relationship with Gilbert.",
+      "level": 2
+    },
+    {
+      "id": "24",
+      "text": "Aria's resolve.",
+      "level": 1
+    },
+    {
+      "id": "24.1",
+      "text": "Aria resolved to be a perfect bride and daughter-in-law.",
+      "level": 2
+    },
+    {
+      "id": "25",
+      "text": "The morning of the wedding.",
+      "level": 1
+    },
+    {
+      "id": "25.1",
+      "text": "Church bells rang on Sunday morning.",
+      "level": 2
+    },
+    {
+      "id": "25.2",
+      "text": "Aria felt lost in the strange bed and city.",
+      "level": 2
+    },
+    {
+      "id": "25.3",
+      "text": "A woman's voice chided her, and the scent of Mrs. Erskine's talcum powder was strong.",
+      "level": 2
+    },
+    {
+      "id": "25.4",
+      "text": "She questioned if she should have another glass of champagne, having already had one.",
+      "level": 2
+    },
+    {
+      "id": "25.5",
+      "text": "The voice might be her mother's or both mothers'.",
+      "level": 2
+    },
+    {
+      "id": "26",
+      "text": "Description of Aria as a bride.",
+      "level": 1
+    },
+    {
+      "id": "26.1",
+      "text": "A trembling bride in satin, adorned with lace and pearl buttons.",
+      "level": 2
+    },
+    {
+      "id": "26.2",
+      "text": "A veil and elbow-length gloves left marks on her skin.",
+      "level": 2
+    },
+    {
+      "id": "26.3",
+      "text": "The wedding was held in the Littrell's dark brick house, adjacent to the church.",
+      "level": 2
+    },
+    {
+      "id": "26.4",
+      "text": "Aria appeared nervous, repeatedly raising her champagne glass.",
+      "level": 2
+    },
+    {
+      "id": "26.5",
+      "text": "She ate little, her hand shaking, dropping cake.",
+      "level": 2
+    },
+    {
+      "id": "26.6",
+      "text": "Her small, almond-shaped eyes were misty.",
+      "level": 2
+    },
+    {
+      "id": "26.7",
+      "text": "She excused herself frequently to the restroom to reapply lipstick and powder.",
+      "level": 2
+    },
+    {
+      "id": "26.8",
+      "text": "Despite trying to be graceful, she was clumsy, with prominent elbows and a hooked nose.",
+      "level": 2
+    },
+    {
+      "id": "26.9",
+      "text": "Her voice was described as shrill and difficult to hear.",
+      "level": 2
+    },
+    {
+      "id": "26.10",
+      "text": "Despite her awkwardness, some called her 'charming' and a 'beautiful bride'.",
+      "level": 2
+    },
+    {
+      "id": "26.11",
+      "text": "They pitied Gilbert for marrying an 'old maid'.",
+      "level": 2
+    },
+    {
+      "id": "27",
+      "text": "Aria's mother's gift.",
+      "level": 1
+    },
+    {
+      "id": "27.1",
+      "text": "Mrs. Littrell, relieved and anxious, gave Aria a girdle.",
+      "level": 2
+    },
+    {
+      "id": "27.2",
+      "text": "It was a size 32, with a 22-inch waist and 32-inch hips.",
+      "level": 2
+    },
+    {
+      "id": "27.3",
+      "text": "It included a garter to match her thinnest silk stockings.",
+      "level": 2
+    },
+    {
+      "id": "28",
+      "text": "Aria's defiance.",
+      "level": 1
+    },
+    {
+      "id": "28.1",
+      "text": "Aria laughed and grabbed silk from the seamstress, blowing her nose on it.",
+      "level": 2
+    },
+    {
+      "id": "28.2",
+      "text": "She should not have defied Mrs. Littrell with such lack of feminine etiquette.",
+      "level": 2
+    },
+    {
+      "id": "29",
+      "text": "Aria's prayers on her wedding day.",
+      "level": 1
+    },
+    {
+      "id": "29.1",
+      "text": "She prayed her stockings wouldn't sag at the ankles.",
+      "level": 2
+    },
+    {
+      "id": "29.2",
+      "text": "She prayed not to sweat, especially in the armpits, fearing the bra straps showing.",
+      "level": 2
+    },
+    {
+      "id": "29.3",
+      "text": "Her prayers as a maiden were answered.",
+      "level": 2
+    },
+    {
+      "id": "30",
+      "text": "Aria searches for Gilbert.",
+      "level": 1
+    },
+    {
+      "id": "30.1",
+      "text": "Her energy slowly returned.",
+      "level": 2
+    },
+    {
+      "id": "30.2",
+      "text": "She whispered, 'Gilbert? Where are you?'",
+      "level": 2
+    },
+    {
+      "id": "30.3",
+      "text": "There was no answer.",
+      "level": 2
+    },
+    {
+      "id": "30.4",
+      "text": "She saw the indent in the pillow and the rumpled sheets, as if someone had left deliberately.",
+      "level": 2
+    },
+    {
+      "id": "31",
+      "text": "Aria's surroundings and the clock.",
+      "level": 1
+    },
+    {
+      "id": "31.1",
+      "text": "She forced her eyes open.",
+      "level": 2
+    },
+    {
+      "id": "31.2",
+      "text": "A German ceramic clock on the mantelpiece showed 7:10 AM.",
+      "level": 2
+    },
+    {
+      "id": "31.3",
+      "text": "The mist outside was clearing, indicating morning, not evening.",
+      "level": 2
+    },
+    {
+      "id": "32",
+      "text": "Aria's hope and denial.",
+      "level": 1
+    },
+    {
+      "id": "32.1",
+      "text": "Aria had not lost the day, nor would she lose her husband so soon.",
+      "level": 2
+    },
+    {
+      "id": "32.2",
+      "text": "If Gilbert wasn't in the bathroom, he was elsewhere in the hotel.",
+      "level": 2
+    },
+    {
+      "id": "32.3",
+      "text": "She imagined him in the lobby, the veranda, or the coffee shop, reading the newspaper or a brochure.",
+      "level": 2
+    },
+    {
+      "id": "32.4",
+      "text": "He was waiting for her to take his hand.",
+      "level": 2
+    },
+    {
+      "id": "33",
+      "text": "Aria's memories of Gilbert.",
+      "level": 1
+    },
+    {
+      "id": "33.1",
+      "text": "He had a serious, determined demeanor that she found attractive.",
+      "level": 2
+    },
+    {
+      "id": "33.2",
+      "text": "His nostrils were deep relative to his long nose.",
+      "level": 2
+    },
+    {
+      "id": "33.3",
+      "text": "She would smile and kiss his cheek, as if they had always been casually intimate.",
+      "level": 2
+    },
+    {
+      "id": "33.4",
+      "text": "Gilbert would quickly become embarrassed and stand up, upsetting the coffee table.",
+      "level": 2
+    },
+    {
+      "id": "33.5",
+      "text": "He would say, 'Aria! Good morning, my dear.'",
+      "level": 2
+    },
+    {
+      "id": "33.6",
+      "text": "He would apologize for being late.",
+      "level": 2
+    },
+    {
+      "id": "33.7",
+      "text": "He would order more coffee from the waiter.",
+      "level": 2
+    },
+    {
+      "id": "33.8",
+      "text": "They sat side-by-side in white wicker chairs, a honeymoon couple among hundreds.",
+      "level": 2
+    },
+    {
+      "id": "34",
+      "text": "Aria gets out of bed.",
+      "level": 1
+    },
+    {
+      "id": "34.1",
+      "text": "She slides out of the tall, four-poster Victorian bed.",
+      "level": 2
+    },
+    {
+      "id": "34.2",
+      "text": "She moves carefully, like an injured animal.",
+      "level": 2
+    },
+    {
+      "id": "34.3",
+      "text": "She pulls the straps of her silk nightgown, which have dug into her shoulders, leaving red marks and bruising.",
+      "level": 2
+    },
+    {
+      "id": "34.4",
+      "text": "Her eyes are open, but her lashes are stuck together with dried mucus, like sand.",
+      "level": 2
+    },
+    {
+      "id": "34.5",
+      "text": "She has a nauseatingly sour taste in her mouth.",
+      "level": 2
+    },
+    {
+      "id": "35",
+      "text": "Aria's shock.",
+      "level": 1
+    },
+    {
+      "id": "35.1",
+      "text": "'Oh. My God.'",
+      "level": 2
+    },
+    {
+      "id": "35.2",
+      "text": "Shaking her head to clear it, she makes a mistake.",
+      "level": 2
+    },
+    {
+      "id": "35.3",
+      "text": "Glass shatters! Mirror fragments drift and flash in her mind.",
+      "level": 2
+    },
+    {
+      "id": "36",
+      "text": "Aria's past experience with a broken mirror.",
+      "level": 1
+    },
+    {
+      "id": "36.1",
+      "text": "The previous week, she dropped a pearl-handled hand mirror.",
+      "level": 2
+    },
+    {
+      "id": "36.2",
+      "text": "It bounced from the carpet to the hardwood floor and shattered.",
+      "level": 2
+    },
+    {
+      "id": "36.3",
+      "text": "The bride and her mother saw it as a bad omen, though they were not superstitious.",
+      "level": 2
+    },
+    {
+      "id": "36.4",
+      "text": "Aria calmly accepted it as her 'punishment'.",
+      "level": 2
+    },
+    {
+      "id": "37",
+      "text": "The sound of the falls.",
+      "level": 1
+    },
+    {
+      "id": "37.1",
+      "text": "The blurred roar of the falls seeped into her sleep, an ominous whisper.",
+      "level": 2
+    },
+    {
+      "id": "38",
+      "text": "Aria's marital doubts.",
+      "level": 1
+    },
+    {
+      "id": "38.1",
+      "text": "She married a man she did not and would not love.",
+      "level": 2
+    },
+    {
+      "id": "38.2",
+      "text": "Worse, she married a man she knew could not love her.",
+      "level": 2
+    },
+    {
+      "id": "39",
+      "text": "Roman Catholicism and sin.",
+      "level": 1
+    },
+    {
+      "id": "39.1",
+      "text": "Catholicism's Baroque style made Protestants uneasy but attracted them.",
+      "level": 2
+    },
+    {
+      "id": "39.2",
+      "text": "Catholics believe in mortal sins, which are very serious.",
+      "level": 2
+    },
+    {
+      "id": "39.3",
+      "text": "Aria believed her and Gilbert's actions were mortal sins, punishable eternally.",
+      "level": 2
+    },
+    {
+      "id": "39.4",
+      "text": "They entered a sacred union under a legal contract.",
+      "level": 2
+    },
+    {
+      "id": "39.5",
+      "text": "This was common and ordinary, something to be endured.",
+      "level": 2
+    },
+    {
+      "id": "40",
+      "text": "Mrs. Littrell's catchphrase.",
+      "level": 1
+    },
+    {
+      "id": "40.1",
+      "text": "'What will be, will be, and we'll just have to get through it.'",
+      "level": 2
+    },
+    {
+      "id": "41",
+      "text": "Aria's physical sensations.",
+      "level": 1
+    },
+    {
+      "id": "41.1",
+      "text": "She stands barefoot on the dark pink velvet carpet, her feet sweating.",
+      "level": 2
+    },
+    {
+      "id": "41.2",
+      "text": "She feels an intense itching in her armpits and between her legs.",
+      "level": 2
+    },
+    {
+      "id": "41.3",
+      "text": "It feels like a swarm of ants attacking her groin.",
+      "level": 2
+    },
+    {
+      "id": "42",
+      "text": "Aria's fear of pregnancy.",
+      "level": 1
+    },
+    {
+      "id": "42.1",
+      "text": "She wonders if she is still a virgin.",
+      "level": 2
+    },
+    {
+      "id": "42.2",
+      "text": "In the night's chaos, dressed in nightgowns, they kissed, breathed heavily, and she might have become pregnant.",
+      "level": 2
+    },
+    {
+      "id": "42.3",
+      "text": "She presses her knuckles to her lips, praying, 'God, no, please.'",
+      "level": 2
+    },
+    {
+      "id": "42.4",
+      "text": "She denies the possibility, unable to think about it.",
+      "level": 2
+    },
+    {
+      "id": "43",
+      "text": "Aria's desire for children.",
+      "level": 1
+    },
+    {
+      "id": "43.1",
+      "text": "She always said she wanted children and promised Mrs. Erskine and her mother.",
+      "level": 2
+    },
+    {
+      "id": "43.2",
+      "text": "She is a good Christian woman who wants a family.",
+      "level": 2
+    },
+    {
+      "id": "43.3",
+      "text": "The prospect of having a child repulses her.",
+      "level": 2
+    },
+    {
+      "id": "44",
+      "text": "Aria knocks on the bathroom door.",
+      "level": 1
+    },
+    {
+      "id": "44.1",
+      "text": "She doesn't want to disturb Gilbert if he is inside.",
+      "level": 2
+    },
+    {
+      "id": "44.2",
+      "text": "The door is unlocked, and she pushes it open.",
+      "level": 2
+    },
+    {
+      "id": "44.3",
+      "text": "The mirror inside presents a grotesque caricature: a woman with disheveled hair and a sallow complexion in a torn nightgown.",
+      "level": 2
+    },
+    {
+      "id": "44.4",
+      "text": "She quickly looks away from the painful image.",
+      "level": 2
+    },
+    {
+      "id": "45",
+      "text": "The empty bathroom.",
+      "level": 1
+    },
+    {
+      "id": "45.1",
+      "text": "The bathroom is empty, luxurious, tiled in white porcelain with brass fixtures.",
+      "level": 2
+    },
+    {
+      "id": "45.2",
+      "text": "Scented soaps and monogrammed towels are neatly folded.",
+      "level": 2
+    },
+    {
+      "id": "45.3",
+      "text": "The large claw-foot bathtub is empty.",
+      "level": 2
+    },
+    {
+      "id": "45.4",
+      "text": "There is an odor of vomit, and several terry cloth towels are used, one on the floor.",
+      "level": 2
+    },
+    {
+      "id": "45.5",
+      "text": "The heart-shaped mirror above the sink has smudges.",
+      "level": 2
+    },
+    {
+      "id": "45.6",
+      "text": "Aria hangs a dirty towel, wondering if she will ever see Gilbert Erskine again.",
+      "level": 2
+    },
+    {
+      "id": "46",
+      "text": "Aria's thoughts about her life and marriage.",
+      "level": 1
+    },
+    {
+      "id": "46.1",
+      "text": "She avoids meeting her reflection's pitiable gaze.",
+      "level": 2
+    },
+    {
+      "id": "46.2",
+      "text": "She reflects on her engagement ('My life has changed. My life has been saved. Thank you, God!').",
+      "level": 2
+    },
+    {
+      "id": "46.3",
+      "text": "The wedding ceremony in her father's church and the vows.",
+      "level": 2
+    },
+    {
+      "id": "46.4",
+      "text": "Her favorite movie was Disney's Fantasia, but that wasn't a path to marriage.",
+      "level": 2
+    },
+    {
+      "id": "46.5",
+      "text": "She was the unmarried daughter of Reverend Mr. and Mrs. Thaddeus Littrell, a dreamer.",
+      "level": 2
+    },
+    {
+      "id": "47",
+      "text": "Aria calls the reception desk.",
+      "level": 1
+    },
+    {
+      "id": "47.1",
+      "text": "She dials '0' with trembling hands.",
+      "level": 2
+    },
+    {
+      "id": "47.2",
+      "text": "She wants to know if a young man is in the lobby or veranda, and if she can speak to him.",
+      "level": 2
+    },
+    {
+      "id": "47.3",
+      "text": "She describes him: 150 pounds, tall and thin, parchment-pale skin stretched over cheekbones, round gold-rimmed glasses, neat, courteous, with a special demeanor: seemingly patient, willing to please, charitable, sacrificing his own desires without inner happiness.",
+      "level": 2
+    },
+    {
+      "id": "47.4",
+      "text": "The operator cheerfully asks, 'Good morning, Mrs. Erskine, can I help you?'",
+      "level": 2
+    },
+    {
+      "id": "47.5",
+      "text": "Aria is stunned; she is still adjusting to being called 'Mrs. Erskine'.",
+      "level": 2
+    },
+    {
+      "id": "47.6",
+      "text": "She is shocked a stranger knows her identity; the switchboard must have her room number.",
+      "level": 2
+    },
+    {
+      "id": "47.7",
+      "text": "She meekly asks about the weather, what to wear.",
+      "level": 2
+    },
+    {
+      "id": "47.8",
+      "text": "The operator advises dressing warmly due to the mist, adding, 'If the mist would only lift.'",
+      "level": 2
+    },
+    {
+      "id": "48",
+      "text": "Aria has not yet found the farewell note.",
+      "level": 1
+    },
+    {
+      "id": "48.1",
+      "text": "The note is on dark pink hotel stationery, neatly folded by the mirror on the dresser.",
+      "level": 2
+    },
+    {
+      "id": "48.2",
+      "text": "It's a small oval mirror, and Aria cannot look at herself after such a blow.",
+      "level": 2
+    },
+    {
+      "id": "48.3",
+      "text": "'God, no. Forgive me. While I slept, Gilbert must have seen something.'",
+      "level": 2
+    },
+    {
+      "id": "48.4",
+      "text": "She is relieved Gilbert Erskine is not beside her.",
+      "level": 2
+    },
+    {
+      "id": "48.5",
+      "text": "After the previous night's chaos, suffocating faces, nightmarish smiles, and intimate contact.",
+      "level": 2
+    },
+    {
+      "id": "49",
+      "text": "Aria decides to take a bath.",
+      "level": 1
+    },
+    {
+      "id": "49.1",
+      "text": "'Take a bath. Quickly, before Gilbert returns!'",
+      "level": 2
+    },
+    {
+      "id": "49.2",
+      "text": "She should have bathed the night before, or in the morning.",
+      "level": 2
+    },
+    {
+      "id": "49.3",
+      "text": "She sometimes bathed twice a day in the hot, humid summers of upstate New York.",
+      "level": 2
+    },
+    {
+      "id": "49.4",
+      "text": "She is amazed she hasn't noticed her own smell.",
+      "level": 2
+    },
+    {
+      "id": "49.5",
+      "text": "Nothing attracts her more than a bath.",
+      "level": 2
+    },
+    {
+      "id": "49.6",
+      "text": "The luxurious bathroom and its amenities are a blessing.",
+      "level": 2
+    },
+    {
+      "id": "49.7",
+      "text": "'Give me another chance! God, please.'",
+      "level": 2
+    },
+    {
+      "id": "50",
+      "text": "Aria's hope and Gilbert's possible actions.",
+      "level": 1
+    },
+    {
+      "id": "50.1",
+      "text": "She stubbornly believes Gilbert Erskine has snuck away.",
+      "level": 2
+    },
+    {
+      "id": "50.2",
+      "text": "Where would a 27-year-old Presbyterian pastor, son of a pastor, flee?",
+      "level": 2
+    },
+    {
+      "id": "50.3",
+      "text": "'He's fallen into a trap, just like me.'",
+      "level": 2
+    },
+    {
+      "id": "50.4",
+      "text": "She turns on the brass faucet, filling the tub until the mirrors fog up.",
+      "level": 2
+    },
+    {
+      "id": "50.5",
+      "text": "The hot water is almost unbearable, meant to wash away dried sweat and stains.",
+      "level": 2
+    },
+    {
+      "id": "50.6",
+      "text": "She smells her own body.",
+      "level": 2
+    },
+    {
+      "id": "50.7",
+      "text": "And his body odor.",
+      "level": 2
+    },
+    {
+      "id": "50.8",
+      "text": "She touched him shyly, accidentally, or in the confusion of the night.",
+      "level": 2
+    },
+    {
+      "id": "50.9",
+      "text": "She doesn't remember, and doesn't want to blame anyone.",
+      "level": 2
+    },
+    {
+      "id": "50.10",
+      "text": "His high-pitched screams are terrifying.",
+      "level": 2
+    },
+    {
+      "id": "50.11",
+      "text": "He laughs wildly and weeps in her arms.",
+      "level": 2
+    },
+    {
+      "id": "51",
+      "text": "Aria prepares her hair.",
+      "level": 1
+    },
+    {
+      "id": "51.1",
+      "text": "She needs to shampoo her hair.",
+      "level": 2
+    },
+    {
+      "id": "51.2",
+      "text": "Her thin, fine hair, faded red curls, is sticky and messy.",
+      "level": 2
+    },
+    {
+      "id": "51.3",
+      "text": "She used flat clips and foam curlers, which she hid in her suitcase for the honeymoon.",
+      "level": 2
+    },
+    {
+      "id": "51.4",
+      "text": "She doesn't have time to curl it today.",
+      "level": 2
+    },
+    {
+      "id": "51.5",
+      "text": "She combs it back into a 'chic French twist', as Mrs. Littrell called it.",
+      "level": 2
+    },
+    {
+      "id": "51.6",
+      "text": "She puffs up her bangs, wanting to look like a ballet dancer, not a librarian or teacher.",
+      "level": 2
+    },
+    {
+      "id": "51.7",
+      "text": "She will tuck a pink rosebud into the twist.",
+      "level": 2
+    },
+    {
+      "id": "52",
+      "text": "Aria's makeup and appearance.",
+      "level": 1
+    },
+    {
+      "id": "52.1",
+      "text": "She will wear light makeup, not the heavy makeup from yesterday.",
+      "level": 2
+    },
+    {
+      "id": "52.2",
+      "text": "Her lipstick will be coral, not bright red, another sign of femininity.",
+      "level": 2
+    },
+    {
+      "id": "52.3",
+      "text": "Seduction.",
+      "level": 2
+    },
+    {
+      "id": "52.4",
+      "text": "She believes Gilbert will appreciate her again in this new appearance.",
+      "level": 2
+    },
+    {
+      "id": "52.5",
+      "text": "He will respect her again.",
+      "level": 2
+    },
+    {
+      "id": "52.6",
+      "text": "She wonders if he ever respected her, perhaps momentarily.",
+      "level": 2
+    },
+    {
+      "id": "52.7",
+      "text": "She, the daughter of the small-town aristocrats, with musical interests.",
+      "level": 2
+    },
+    {
+      "id": "52.8",
+      "text": "He always smiled shyly, adjusting his glasses.",
+      "level": 2
+    },
+    {
+      "id": "52.9",
+      "text": "Sometimes he winked, as if a bright light had entered his eyes.",
+      "level": 2
+    },
+    {
+      "id": "52.10",
+      "text": "'I forgive you, Aria. Though you detested me last night, and I detested you.'",
+      "level": 2
+    },
+    {
+      "id": "52.11",
+      "text": "'I cannot love you. But I can forgive you.'",
+      "level": 2
+    },
+    {
+      "id": "53",
+      "text": "Aria disrobes.",
+      "level": 1
+    },
+    {
+      "id": "53.1",
+      "text": "She piles her ivory silk nightgown with wide lace straps and her lace corselet on the tiled floor.",
+      "level": 2
+    },
+    {
+      "id": "53.2",
+      "text": "The clothes have dried mucus stains and dark smudges.",
+      "level": 2
+    },
+    {
+      "id": "53.3",
+      "text": "She doesn't want to look at them.",
+      "level": 2
+    },
+    {
+      "id": "53.4",
+      "text": "The rising steam blurs her vision.",
+      "level": 2
+    },
+    {
+      "id": "53.5",
+      "text": "She carefully climbs into the claw-foot tub, which is not yet full.",
+      "level": 2
+    },
+    {
+      "id": "53.6",
+      "text": "'Ouch!'—the water is very hot, but bearable.",
+      "level": 2
+    },
+    {
+      "id": "53.7",
+      "text": "It's larger and clumsier than the old tub at the Littrells', like an elephant's drinking trough.",
+      "level": 2
+    },
+    {
+      "id": "53.8",
+      "text": "The tub is not as clean as she imagined: rust rings around the brass fixtures, and fine curly hairs floating in the foamy water.",
+      "level": 2
+    },
+    {
+      "id": "54",
+      "text": "Aria observes her body.",
+      "level": 1
+    },
+    {
+      "id": "54.1",
+      "text": "She sits down carefully, so slender and thin she might float.",
+      "level": 2
+    },
+    {
+      "id": "54.2",
+      "text": "'Don't look, no need to look.'",
+      "level": 2
+    },
+    {
+      "id": "54.3",
+      "text": "Her body is sickly bruised.",
+      "level": 2
+    },
+    {
+      "id": "54.4",
+      "text": "Her breasts are small and hard like green pears.",
+      "level": 2
+    },
+    {
+      "id": "54.5",
+      "text": "Her nipples are tight, like rubber caps.",
+      "level": 2
+    },
+    {
+      "id": "54.6",
+      "text": "She wonders if Gilbert was disappointed.",
+      "level": 2
+    },
+    {
+      "id": "54.7",
+      "text": "Her collarbones stretch the transparent, pale skin, dotted with white freckles.",
+      "level": 2
+    },
+    {
+      "id": "54.8",
+      "text": "As a girl, she dared to poke her finger into her navel, unsure if it was 'dirty'.",
+      "level": 2
+    },
+    {
+      "id": "54.9",
+      "text": "Similar acts related to her female body.",
+      "level": 2
+    },
+    {
+      "id": "55",
+      "text": "The area between her legs.",
+      "level": 1
+    },
+    {
+      "id": "55.1",
+      "text": "The grassy area between her legs is called the vulva.",
+      "level": 2
+    },
+    {
+      "id": "56",
+      "text": "Aria's embarrassing mistake.",
+      "level": 1
+    },
+    {
+      "id": "56.1",
+      "text": "Years ago, during a recital, she stuttered on the word 'public', making it sound like 'pubic'.",
+      "level": 2
+    },
+    {
+      "id": "56.2",
+      "text": "She quickly corrected herself.",
+      "level": 2
+    },
+    {
+      "id": "56.3",
+      "text": "She blushed, as her audience was mostly parents, relatives, and neighbors.",
+      "level": 2
+    },
+    {
+      "id": "56.4",
+      "text": "Each freckle on her face was a miniature red star.",
+      "level": 2
+    },
+    {
+      "id": "57",
+      "text": "Gilbert's absence from the audience.",
+      "level": 1
+    },
+    {
+      "id": "57.1",
+      "text": "Fortunately, Gilbert Erskine was not in the audience.",
+      "level": 2
+    },
+    {
+      "id": "57.2",
+      "text": "She could imagine him shrinking away in a corner, his gaze withdrawn.",
+      "level": 2
+    },
+    {
+      "id": "58",
+      "text": "Kindness and unspoken matters in Troy, New York.",
+      "level": 1
+    },
+    {
+      "id": "58.1",
+      "text": "No one mentioned her slip-up out of kindness.",
+      "level": 2
+    },
+    {
+      "id": "58.2",
+      "text": "But people must have laughed about it privately.",
+      "level": 2
+    },
+    {
+      "id": "58.3",
+      "text": "In Troy, many things are left unsaid, out of discretion, kindness, or pity.",
+      "level": 2
+    },
+    {
+      "id": "59",
+      "text": "Aria examines her broken nail.",
+      "level": 1
+    },
+    {
+      "id": "59.1",
+      "text": "Her nail is cracked all the way to the tender flesh at the tip.",
+      "level": 2
+    },
+    {
+      "id": "59.2",
+      "text": "Was it from scratching Gilbert's shoulder, back, or...?",
+      "level": 2
+    },
+    {
+      "id": "60",
+      "text": "Aria's cousins' and friends' questions.",
+      "level": 1
+    },
+    {
+      "id": "60.1",
+      "text": "They never asked if Gilbert was too young for her.",
+      "level": 2
+    },
+    {
+      "id": "60.2",
+      "text": "Even as a casual joke.",
+      "level": 2
+    },
+    {
+      "id": "61",
+      "text": "Aria's question for Gilbert.",
+      "level": 1
+    },
+    {
+      "id": "61.1",
+      "text": "She wonders if anyone ever asked Gilbert if Aria Littrell was too old for him.",
+      "level": 2
+    },
+    {
+      "id": "62",
+      "text": "Their suitability as a couple.",
+      "level": 1
+    },
+    {
+      "id": "62.1",
+      "text": "They seemed well-matched in age.",
+      "level": 2
+    },
+    {
+      "id": "62.2",
+      "text": "They had similar intelligence, intellectualism, sensitivity, and perhaps pride.",
+      "level": 2
+    },
+    {
+      "id": "62.3",
+      "text": "They tended to think highly of themselves and others less so.",
+      "level": 2
+    },
+    {
+      "id": "62.4",
+      "text": "Aria knew she had to hide these traits to be a dutiful daughter.",
+      "level": 2
+    },
+    {
+      "id": "63",
+      "text": "The parents' approval.",
+      "level": 1
+    },
+    {
+      "id": "63.1",
+      "text": "Both sets of parents wholeheartedly approved of their union.",
+      "level": 2
+    },
+    {
+      "id": "63.2",
+      "text": "It was hard to tell which of the four elders was most relieved: Mrs. Littrell or Mrs. Erskine; Reverend Littrell or Reverend Erskine.",
+      "level": 2
+    },
+    {
+      "id": "64",
+      "text": "Aria's engagement and its significance.",
+      "level": 1
+    },
+    {
+      "id": "64.1",
+      "text": "Aria got engaged at a crucial time.",
+      "level": 2
+    },
+    {
+      "id": "64.2",
+      "text": "29 years old was nearing a precipice, one step away from the forgotten age of 30.",
+      "level": 2
+    },
+    {
+      "id": "64.3",
+      "text": "She had scoffed at this conventional view, but after 25, things changed.",
+      "level": 2
+    },
+    {
+      "id": "64.4",
+      "text": "Everyone she knew was getting married, entering the cycle of engagement, marriage, children, disillusionment, and nightmares.",
+      "level": 2
+    },
+    {
+      "id": "64.5",
+      "text": "'Merciful God, grant me a man. Let my life begin from now on! I beg you!'",
+      "level": 2
+    },
+    {
+      "id": "64.6",
+      "text": "Aria sometimes felt ashamed that as a successful pianist, singer, and music teacher, she should readily surrender her soul for an engagement ring.",
+      "level": 2
+    },
+    {
+      "id": "64.7",
+      "text": "The man himself should have been secondary.",
+      "level": 2
+    },
+    {
+      "id": "65",
+      "text": "The miracle of engagement.",
+      "level": 1
+    },
+    {
+      "id": "65.1",
+      "text": "Then the miracle happened: engagement.",
+      "level": 2
+    },
+    {
+      "id": "66",
+      "text": "The wedding in June 1950.",
+      "level": 1
+    },
+    {
+      "id": "66.1",
+      "text": "It was like Christ feeding the multitude with bread and fish, or raising Lazarus from death.",
+      "level": 2
+    },
+    {
+      "id": "66.2",
+      "text": "It was a miracle for Aria.",
+      "level": 2
+    },
+    {
+      "id": "66.3",
+      "text": "She was no longer Aria Littrell, daughter of a pastor.",
+      "level": 2
+    },
+    {
+      "id": "66.4",
+      "text": "She could now enjoy the innocent pride of being the wife of an ambitious, young Presbyterian pastor.",
+      "level": 2
+    },
+    {
+      "id": "66.5",
+      "text": "Her husband was only 27 and pastor of his own church in Palmyra, New York (population 2,100).",
+      "level": 2
+    },
+    {
+      "id": "67",
+      "text": "Aria's desire to tease her friends.",
+      "level": 1
+    },
+    {
+      "id": "67.1",
+      "text": "She wanted to laugh at her friends' faces when they first saw her engagement ring.",
+      "level": 2
+    },
+    {
+      "id": "67.2",
+      "text": "'You never thought I'd get engaged, admit it!'",
+      "level": 2
+    },
+    {
+      "id": "67.3",
+      "text": "She wanted to tease them, even condemn them.",
+      "level": 2
+    },
+    {
+      "id": "67.4",
+      "text": "But she said nothing, as her friends would deny it.",
+      "level": 2
+    },
+    {
+      "id": "68",
+      "text": "The wedding ceremony.",
+      "level": 1
+    },
+    {
+      "id": "68.1",
+      "text": "The wedding passed in a dream.",
+      "level": 2
+    },
+    {
+      "id": "68.2",
+      "text": "Aria didn't drink champagne before the ceremony.",
+      "level": 2
+    },
+    {
+      "id": "68.3",
+      "text": "She walked unsteadily, leaning on her father's strong arm.",
+      "level": 2
+    },
+    {
+      "id": "68.4",
+      "text": "A bright light blinded her as she walked down the aisle.",
+      "level": 2
+    },
+    {
+      "id": "68.5",
+      "text": "The pulsing beams were like mad stars.",
+      "level": 2
+    },
+    {
+      "id": "68.6",
+      "text": "'You, Aria Littrell, will solemnly swear. Love, honor, obey. Until death do you part, you...'",
+      "level": 2
+    },
+    {
+      "id": "68.7",
+      "text": "She took aspirin with cola; her heart raced and her mouth was dry.",
+      "level": 2
+    },
+    {
+      "id": "68.8",
+      "text": "Gilbert might not approve.",
+      "level": 2
+    },
+    {
+      "id": "68.9",
+      "text": "He stood at the altar, taller, silent and alert, restraining himself from sniffing.",
+      "level": 2
+    },
+    {
+      "id": "68.10",
+      "text": "He repeated his vows in a low voice: 'I accept you, Aria. My lawfully wedded wife.'",
+      "level": 2
+    },
+    {
+      "id": "68.11",
+      "text": "Two trembling young people stood at the altar, gripped by fear, forgetting each other's existence.",
+      "level": 2
+    },
+    {
+      "id": "69",
+      "text": "Aria's fear of the wedding night and future.",
+      "level": 1
+    },
+    {
+      "id": "69.1",
+      "text": "She was afraid to think about what awaited her on the wedding night, and the many nights to come.",
+      "level": 2
+    },
+    {
+      "id": "69.2",
+      "text": "She was no longer a girl tempted by forbidden thoughts or engaging in forbidden acts.",
+      "level": 2
+    },
+    {
+      "id": "69.3",
+      "text": "Despite her passion for Beethoven and Schubert in music, she was generally shy and timid.",
+      "level": 2
+    },
+    {
+      "id": "69.4",
+      "text": "She blushed easily and avoided physical contact.",
+      "level": 2
+    },
+    {
+      "id": "69.5",
+      "text": "Her pebble-green eyes held wisdom, not passion.",
+      "level": 2
+    },
+    {
+      "id": "69.6",
+      "text": "If she had boyfriends, they were like her: serious, boyish, with a tendency to stoop.",
+      "level": 2
+    },
+    {
+      "id": "69.7",
+      "text": "She underwent routine gynecological exams, but the doctor stopped if she cried or struggled from pain or fear.",
+      "level": 2
+    },
+    {
+      "id": "69.8",
+      "text": "Mrs. Littrell avoided discussing marital topics due to her daughter's sensitivity and embarrassment.",
+      "level": 2
+    },
+    {
+      "id": "69.9",
+      "text": "Reverend Littrell would never discuss such matters with his anxious, virgin daughter.",
+      "level": 2
+    },
+    {
+      "id": "69.10",
+      "text": "He delegated the embarrassing task to his wife.",
+      "level": 2
+    },
+    {
+      "id": "70",
+      "text": "The hot bath's effect.",
+      "level": 1
+    },
+    {
+      "id": "70.1",
+      "text": "The hot bath made Aria dizzy, or perhaps it was her thoughts.",
+      "level": 2
+    },
+    {
+      "id": "70.2",
+      "text": "She saw her left breast floating in the water, partly ochre, as if in shadow.",
+      "level": 2
+    },
+    {
+      "id": "70.3",
+      "text": "He had squeezed and pinched it.",
+      "level": 2
+    },
+    {
+      "id": "70.4",
+      "text": "She guessed her stomach and thighs were also bruised.",
+      "level": 2
+    },
+    {
+      "id": "70.5",
+      "text": "The area between her legs felt numb, as if asleep.",
+      "level": 2
+    },
+    {
+      "id": "71",
+      "text": "The bat-like screams were his!",
+      "level": 1
+    },
+    {
+      "id": "71.1",
+      "text": "His boyish face contorted, like Boris Karloff in 'Bride of Frankenstein'.",
+      "level": 2
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Niagara Falls",
+      "frequency": 30,
+      "context": "The setting of the story, a place of spectacle and tragedy."
+    },
+    {
+      "name": "man",
+      "frequency": 15,
+      "context": "The central figure who jumps into the falls."
+    },
+    {
+      "name": "keeper",
+      "frequency": 12,
+      "context": "The bridge keeper who witnesses the man's actions."
+    },
+    {
+      "name": "Aria",
+      "frequency": 75,
+      "context": "The bride who discovers her husband's disappearance and impending tragedy."
+    },
+    {
+      "name": "Gilbert Erskine",
+      "frequency": 25,
+      "context": "Aria's husband, the newly appointed pastor, whose mysterious disappearance is central."
+    },
+    {
+      "name": "honeymoon",
+      "frequency": 8,
+      "context": "The context of Aria and Gilbert's marriage, juxtaposed with tragedy."
+    },
+    {
+      "name": "bride",
+      "frequency": 10,
+      "context": "Aria's status, emphasizing her newness to marriage and subsequent widowhood."
+    },
+    {
+      "name": "widow",
+      "frequency": 3,
+      "context": "Aria's potential status, highlighting the abrupt end of her marriage."
+    },
+    {
+      "name": "church",
+      "frequency": 7,
+      "context": "Represents Gilbert's profession and Aria's religious background."
+    },
+    {
+      "name": "marriage",
+      "frequency": 12,
+      "context": "The institution that is both central and tragically undermined in the narrative."
+    },
+    {
+      "name": "reflection",
+      "frequency": 6,
+      "context": "Literal mirrors and metaphorical self-examination."
+    },
+    {
+      "name": "prayer",
+      "frequency": 7,
+      "context": "Aria's appeals to God for help and guidance."
+    },
+    {
+      "name": "fear",
+      "frequency": 8,
+      "context": "Aria's pervasive emotion, stemming from her situation."
+    },
+    {
+      "name": "despair",
+      "frequency": 4,
+      "context": "The overwhelming emotion Aria experiences."
+    },
+    {
+      "name": "water",
+      "frequency": 10,
+      "context": "The powerful and destructive element of the falls, and its presence in the bathroom."
+    },
+    {
+      "name": "body",
+      "frequency": 15,
+      "context": "Aria's physical state and self-perception, particularly her virginity and its implications."
+    },
+    {
+      "name": "hair",
+      "frequency": 6,
+      "context": "A detail in the descriptions of both the man and Aria."
+    },
+    {
+      "name": "music",
+      "frequency": 4,
+      "context": "Aria's background and interests, contrasting with her current turmoil."
+    },
+    {
+      "name": "father",
+      "frequency": 5,
+      "context": "Reverend Littrell, representing Aria's upbringing and religious foundation."
+    },
+    {
+      "name": "mother",
+      "frequency": 6,
+      "context": "Mrs. Littrell and Mrs. Erskine, representing familial influence and expectations."
+    }
+  ],
+  "relations": [
+    {
+      "source": "man",
+      "target": "Niagara Falls",
+      "type": "jumps_into"
+    },
+    {
+      "source": "man",
+      "target": "keeper",
+      "type": "observed_by"
+    },
+    {
+      "source": "man",
+      "target": "suspension bridge",
+      "type": "crosses"
+    },
+    {
+      "source": "keeper",
+      "target": "suspension bridge",
+      "type": "guards"
+    },
+    {
+      "source": "Aria",
+      "target": "Gilbert Erskine",
+      "type": "is_wife_of"
+    },
+    {
+      "source": "Gilbert Erskine",
+      "target": "pastor",
+      "type": "is_a"
+    },
+    {
+      "source": "Aria",
+      "target": "minister's daughter",
+      "type": "is_a"
+    },
+    {
+      "source": "Aria",
+      "target": "honeymoon suite",
+      "type": "stays_in"
+    },
+    {
+      "source": "Aria",
+      "target": "note",
+      "type": "finds"
+    },
+    {
+      "source": "Gilbert Erskine",
+      "target": "Horseshoe Falls",
+      "type": "jumps_into"
+    },
+    {
+      "source": "Aria",
+      "target": "fear",
+      "type": "experiences"
+    },
+    {
+      "source": "Aria",
+      "target": "despair",
+      "type": "experiences"
+    },
+    {
+      "source": "Aria",
+      "target": "prayer",
+      "type": "offers"
+    },
+    {
+      "source": "Aria",
+      "target": "body",
+      "type": "reflects_on"
+    },
+    {
+      "source": "Aria",
+      "target": "marriage",
+      "type": "questions"
+    },
+    {
+      "source": "Aria",
+      "target": "reflection",
+      "type": "seeks_in_mirror"
+    },
+    {
+      "source": "Gilbert Erskine",
+      "target": "disappearance",
+      "type": "causes"
+    },
+    {
+      "source": "water",
+      "target": "Niagara Falls",
+      "type": "is_part_of"
+    },
+    {
+      "source": "church",
+      "target": "Gilbert Erskine",
+      "type": "is_pastor_of"
+    },
+    {
+      "source": "father",
+      "target": "Aria",
+      "type": "is_parent_of"
+    },
+    {
+      "source": "mother",
+      "target": "Aria",
+      "type": "is_parent_of"
+    },
+    {
+      "source": "Aria",
+      "target": "music",
+      "type": "is_skilled_in"
+    },
+    {
+      "source": "Aria",
+      "target": "virginity",
+      "type": "possesses"
+    },
+    {
+      "source": "Gilbert Erskine",
+      "target": "ambition",
+      "type": "possesses"
+    },
+    {
+      "source": "Aria",
+      "target": "disillusionment",
+      "type": "fears"
+    }
+  ],
+  "hierarchy": {
+    "main_topics": [
+      "The Leap",
+      "Aria's Wedding and Disappearance of Gilbert",
+      "Aria's Isolation and Fear",
+      "Past and Present Reflections"
+    ],
+    "structure": "The document is structured chronologically, starting with the event of the jump into the falls, then shifting to Aria's immediate experience and discovery, followed by flashbacks and reflections on their past and her current state of isolation and dread. The narrative interweaves the immediate aftermath of the jump with Aria's personal crisis."
+  }
+}

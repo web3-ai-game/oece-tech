@@ -1,0 +1,337 @@
+{
+  "propositions": [
+    {
+      "id": "1",
+      "text": "穿越错嫁冷傲毒君：倾世毒妃",
+      "level": 1
+    },
+    {
+      "id": "1.1",
+      "text": "楔子",
+      "level": 2
+    },
+    {
+      "id": "1.1.1",
+      "text": "txt下载",
+      "level": 3
+    },
+    {
+      "id": "1.1.1.1",
+      "text": "来源：",
+      "level": 4
+    },
+    {
+      "id": "1.1.1.1.1",
+      "text": "http://www.paipaitxt.com/",
+      "level": 5
+    },
+    {
+      "id": "1.2",
+      "text": "第一章",
+      "level": 2
+    },
+    {
+      "id": "1.2.1",
+      "text": "穿越而来，却错嫁给一个冷傲毒君。",
+      "level": 3
+    },
+    {
+      "id": "1.2.2",
+      "text": "本以为会守一辈子活寡，谁知他却对自己百般纠缠，让他原本平静的生活彻底被打乱。",
+      "level": 3
+    },
+    {
+      "id": "1.2.3",
+      "text": "“你怎么了？你怎么了？”",
+      "level": 3
+    },
+    {
+      "id": "1.2.4",
+      "text": "看着站在面前的女子，冷傲毒君不由得有些心疼，他伸出手，轻轻地抚摸着她的脸颊，而他的话语，却是在她的耳边轻轻地低语，",
+      "level": 3
+    },
+    {
+      "id": "1.2.5",
+      "text": "“别怕，别怕，我在这里，我不会让你受到任何伤害的。”",
+      "level": 3
+    },
+    {
+      "id": "1.2.6",
+      "text": "此时此刻，他只想给她一个拥抱，让她在他温暖的怀抱里，感受着他浓浓的爱意，感受着他那最真挚的心意。",
+      "level": 3
+    },
+    {
+      "id": "1.2.7",
+      "text": "看着面前的女子，冷傲毒君不由得又一阵心疼，他轻轻地抚摸着她的脸颊，而他的话语，却是在她的耳边轻轻地低语，",
+      "level": 3
+    },
+    {
+      "id": "1.2.8",
+      "text": "“别怕，别怕，我在这里，我不会让你受到任何伤害的。”",
+      "level": 3
+    },
+    {
+      "id": "1.2.9",
+      "text": "此时此刻，他只想给她一个拥抱，让她在他温暖的怀抱里，感受着他浓浓的爱意，感受着他那最真挚的心意。",
+      "level": 3
+    },
+    {
+      "id": "1.3",
+      "text": "第二章",
+      "level": 2
+    },
+    {
+      "id": "1.3.1",
+      "text": "“你说什么？”",
+      "level": 3
+    },
+    {
+      "id": "1.3.2",
+      "text": "看着面前那个女子，他抬起头，眼中闪过一丝不解，",
+      "level": 3
+    },
+    {
+      "id": "1.3.3",
+      "text": "“我不知道，我不知道，我不知道，我不知道，我不知道。”",
+      "level": 3
+    },
+    {
+      "id": "1.3.4",
+      "text": "“你不知道，你不知道，你不知道，你不知道，你不知道，你不知道。”",
+      "level": 3
+    },
+    {
+      "id": "1.3.5",
+      "text": "“我不知道，你不知道。”",
+      "level": 3
+    },
+    {
+      "id": "1.3.6",
+      "text": "“我不知道。”",
+      "level": 3
+    },
+    {
+      "id": "1.3.7",
+      "text": "“我知道。”",
+      "level": 3
+    },
+    {
+      "id": "1.3.8",
+      "text": "“我知道，我知道。”",
+      "level": 3
+    }
+  ],
+  "concepts": [
+    {
+      "name": "穿越",
+      "frequency": 1,
+      "context": "穿越而来，却错嫁给一个冷傲毒君。"
+    },
+    {
+      "name": "错嫁",
+      "frequency": 1,
+      "context": "穿越而来，却错嫁给一个冷傲毒君。"
+    },
+    {
+      "name": "冷傲毒君",
+      "frequency": 5,
+      "context": "穿越而来，却错嫁给一个冷傲毒君。看着站在面前的女子，冷傲毒君不由得有些心疼...看着面前的女子，冷傲毒君不由得又一阵心疼..."
+    },
+    {
+      "name": "活寡",
+      "frequency": 1,
+      "context": "本以为会守一辈子活寡，谁知他却对自己百般纠缠"
+    },
+    {
+      "name": "纠缠",
+      "frequency": 1,
+      "context": "本以为会守一辈子活寡，谁知他却对自己百般纠缠"
+    },
+    {
+      "name": "生活",
+      "frequency": 1,
+      "context": "让他原本平静的生活彻底被打乱。"
+    },
+    {
+      "name": "心疼",
+      "frequency": 2,
+      "context": "冷傲毒君不由得有些心疼...冷傲毒君不由得又一阵心疼"
+    },
+    {
+      "name": "抚摸",
+      "frequency": 2,
+      "context": "轻轻地抚摸着她的脸颊"
+    },
+    {
+      "name": "脸颊",
+      "frequency": 2,
+      "context": "轻轻地抚摸着她的脸颊"
+    },
+    {
+      "name": "低语",
+      "frequency": 2,
+      "context": "在她的耳边轻轻地低语"
+    },
+    {
+      "name": "伤害",
+      "frequency": 2,
+      "context": "我不会让你受到任何伤害的。"
+    },
+    {
+      "name": "拥抱",
+      "frequency": 2,
+      "context": "他只想给她一个拥抱"
+    },
+    {
+      "name": "温暖",
+      "frequency": 2,
+      "context": "在她温暖的怀抱里"
+    },
+    {
+      "name": "怀抱",
+      "frequency": 2,
+      "context": "让她在他温暖的怀抱里"
+    },
+    {
+      "name": "爱意",
+      "frequency": 2,
+      "context": "感受着他浓浓的爱意"
+    },
+    {
+      "name": "心意",
+      "frequency": 2,
+      "context": "感受着他那最真挚的心意。"
+    },
+    {
+      "name": "不知",
+      "frequency": 30,
+      "context": "“我不知道，我不知道，我不知道，我不知道，我不知道。”\n\"你不知道，你不知道，你不知道，你不知道，你不知道，你不知道。\""
+    },
+    {
+      "name": "知道",
+      "frequency": 70,
+      "context": "“我知道。”\n“我知道，我知道。”\n“我知道，我知道。”"
+    },
+    {
+      "name": "女子",
+      "frequency": 3,
+      "context": "看着站在面前的女子...看着面前的女子...看着面前那个女子"
+    },
+    {
+      "name": "话语",
+      "frequency": 2,
+      "context": "而他的话语"
+    },
+    {
+      "name": "不解",
+      "frequency": 1,
+      "context": "眼中闪过一丝不解"
+    }
+  ],
+  "relations": [
+    {
+      "source": "穿越",
+      "target": "错嫁",
+      "type": "leads_to"
+    },
+    {
+      "source": "错嫁",
+      "target": "冷傲毒君",
+      "type": "involves"
+    },
+    {
+      "source": "冷傲毒君",
+      "target": "活寡",
+      "type": "implies"
+    },
+    {
+      "source": "冷傲毒君",
+      "target": "纠缠",
+      "type": "performs"
+    },
+    {
+      "source": "纠缠",
+      "target": "生活",
+      "type": "affects"
+    },
+    {
+      "source": "冷傲毒君",
+      "target": "心疼",
+      "type": "feels"
+    },
+    {
+      "source": "冷傲毒君",
+      "target": "抚摸",
+      "type": "performs"
+    },
+    {
+      "source": "抚摸",
+      "target": "脸颊",
+      "type": "targets"
+    },
+    {
+      "source": "冷傲毒君",
+      "target": "低语",
+      "type": "performs"
+    },
+    {
+      "source": "低语",
+      "target": "伤害",
+      "type": "promises_to_prevent"
+    },
+    {
+      "source": "冷傲毒君",
+      "target": "拥抱",
+      "type": "desires_to_perform"
+    },
+    {
+      "source": "拥抱",
+      "target": "温暖",
+      "type": "associated_with"
+    },
+    {
+      "source": "拥抱",
+      "target": "怀抱",
+      "type": "associated_with"
+    },
+    {
+      "source": "拥抱",
+      "target": "爱意",
+      "type": "expresses"
+    },
+    {
+      "source": "拥抱",
+      "target": "心意",
+      "type": "expresses"
+    },
+    {
+      "source": "冷傲毒君",
+      "target": "不解",
+      "type": "feels"
+    },
+    {
+      "source": "女子",
+      "target": "不知",
+      "type": "states"
+    },
+    {
+      "source": "女子",
+      "target": "知道",
+      "type": "states"
+    },
+    {
+      "source": "不知",
+      "target": "知道",
+      "type": "contrasts_with"
+    }
+  ],
+  "hierarchy": {
+    "main_topics": [
+      "Title",
+      "Prologue",
+      "Chapter 1",
+      "Chapter 2"
+    ],
+    "structure": "The document is structured as a title followed by a prologue ('楔子') and two main chapters ('第一章', '第二章'). The prologue contains metadata about the text download. Both chapters primarily consist of dialogue and narrative descriptions, with Chapter 2 heavily featuring repetitive dialogue related to 'knowing' and 'not knowing'."
+  }
+}

@@ -1,0 +1,603 @@
+{
+  "propositions": [
+    {
+      "id": "1",
+      "text": "The current situation involves a plan to reach the ancient caves in Gug to retrieve the 'Silver Eyes' before 'Ben' and his group.",
+      "level": 1
+    },
+    {
+      "id": "1.1",
+      "text": "The group intends to use a helicopter for rapid travel to Gug, leveraging its open terrain advantage over potential ambushes.",
+      "level": 2
+    },
+    {
+      "id": "1.2",
+      "text": "The estimated travel time to the caves is two days, with an additional day to open the mechanism and retrieve the 'Silver Eyes'.",
+      "level": 2
+    },
+    {
+      "id": "1.3",
+      "text": "The group plans to use the three-day time difference to catch up, especially considering the obstacles at the 'Inverted Hanging Temple'.",
+      "level": 2
+    },
+    {
+      "id": "2",
+      "text": "The group's weapon loadout will be adjusted based on information about 'Ben's' group's numbers and equipment.",
+      "level": 1
+    },
+    {
+      "id": "3",
+      "text": "There is a desire to avoid direct confrontation due to the historical significance of the ancient ruins.",
+      "level": 1
+    },
+    {
+      "id": "4",
+      "text": "The characters discuss the rules and traditions of Gongbu Village, particularly regarding the role of the 'Emissary' and their guides.",
+      "level": 1
+    },
+    {
+      "id": "4.1",
+      "text": "Only the village's most skilled hunters can serve as guides for the 'Emissary'.",
+      "level": 2
+    },
+    {
+      "id": "4.2",
+      "text": "Previous 'Emissaries' either abandoned their quest or never returned after entering the 'Gate of Life'.",
+      "level": 2
+    },
+    {
+      "id": "4.3",
+      "text": "The protagonist, Zhuo Muqiangba, is confused about his own selection as an 'Emissary', as his family has no known history of this role.",
+      "level": 2
+    },
+    {
+      "id": "5",
+      "text": "Zhuo Muqiangba suspects that a terrifying figure described by Duoji, a 'snake charmer' from Putumayo, is the same individual who followed them into the Ahhe underground palace.",
+      "level": 1
+    },
+    {
+      "id": "6",
+      "text": "Duoji explains the reason for 'Ben's' group's movement towards Gug through an epic poem.",
+      "level": 1
+    },
+    {
+      "id": "6.1",
+      "text": "The poem contains warnings about disasters, desolation, and the consequences of desecrating holy sites.",
+      "level": 2
+    },
+    {
+      "id": "6.2",
+      "text": "Phrases like 'divine swastika further north', 'highland snow wolf's mouth', 'Nanan Ta's heart', 'silver eyes', and 'warrior's hall' allude to methods of opening mechanisms and trials.",
+      "level": 2
+    },
+    {
+      "id": "7",
+      "text": "The original epic poem, which contained more complete information, was lent to a 'blue-eyed person' and never returned, with many parts lost due to an elderly elder's memory.",
+      "level": 1
+    },
+    {
+      "id": "8",
+      "text": "The group encounters a young girl, Gaga, who appears to have a cheerful demeanor and a fondness for Duoji.",
+      "level": 1
+    },
+    {
+      "id": "8.1",
+      "text": "Duoji's interactions with Gaga are characterized by condescending remarks and traditional views on women's roles.",
+      "level": 2
+    },
+    {
+      "id": "9",
+      "text": "Zhuo Muqiangba meets with three elders of Gongbu Village to understand his identity as an 'Emissary'.",
+      "level": 1
+    },
+    {
+      "id": "9.1",
+      "text": "The elders perform a ritualistic examination on Zhuo Muqiangba.",
+      "level": 2
+    },
+    {
+      "id": "9.2",
+      "text": "The elders are reluctant to reveal the origin of his 'Emissary' status, citing concerns about people seeking Shambhala and using such information for deception.",
+      "level": 2
+    },
+    {
+      "id": "9.3",
+      "text": "Elder Dajie suggests that Zhuo Muqiangba's journey and connection to the Paba La Temple are divinely arranged, not coincidental.",
+      "level": 2
+    },
+    {
+      "id": "9.4",
+      "text": "Zhuo Muqiangba, a self-proclaimed atheist, believes in science and human effort, rejecting the idea of divine intervention.",
+      "level": 2
+    },
+    {
+      "id": "9.5",
+      "text": "Dajie insists that Zhuo Muqiangba has not yet awakened to the divine truth and that he is destined to find the Paba La Temple.",
+      "level": 2
+    },
+    {
+      "id": "9.6",
+      "text": "The elders identify Zhuo Muqiangba as a uniquely \"most auspicious and wise\" 'Emissary' whom Buddha has designated to open the temple gates.",
+      "level": 2
+    },
+    {
+      "id": "10",
+      "text": "The elders describe the 'Inverted Hanging Temple' as a place where ancient sages practiced, a source of plagues and demons, and where a divine statue suppressed evil.",
+      "level": 1
+    },
+    {
+      "id": "10.1",
+      "text": "They confirm that the Paba La they seek is the legendary Shambhala, the last pure land, hidden in the core of hell, accessible only to brave warriors.",
+      "level": 2
+    },
+    {
+      "id": "11",
+      "text": "Zhuo Muqiangba asks about the legend of the 'Purple Qilin'.",
+      "level": 1
+    },
+    {
+      "id": "11.1",
+      "text": "Initially misunderstood, Zhuo Muqiangba clarifies he is referring to a large, long-maned dog, a 'war mastiff'.",
+      "level": 2
+    },
+    {
+      "id": "12",
+      "text": "The elders present a Tangka depicting a wrathful deity, identified as 'Ghost King Xi Li Emperor', riding a white snow mastiff, which they identify as the 'Highland Snow Wolf'.",
+      "level": 1
+    },
+    {
+      "id": "12.1",
+      "text": "Zhuo Muqiangba is astonished, as he has never encountered a connection between war mastiffs and highland snow wolves.",
+      "level": 2
+    },
+    {
+      "id": "13",
+      "text": "Elder Dajie clarifies that the 'Highland Snow Wolf' is inseparable from Shambhala and serves as its ultimate guardian, one with the ancient sages.",
+      "level": 1
+    },
+    {
+      "id": "14",
+      "text": "Zhuo Muqiangba inquires about the 'four directional auspicious beasts' mentioned by Dajie.",
+      "level": 1
+    },
+    {
+      "id": "14.1",
+      "text": "The elders share legends of these beasts, but provide no new information to Zhuo Muqiangba, who plans to consult Professor Fang Xin.",
+      "level": 2
+    },
+    {
+      "id": "15",
+      "text": "Zhuo Muqiangba reveals that his quest for Paba La is driven by a Tibetan mastiff.",
+      "level": 1
+    },
+    {
+      "id": "15.1",
+      "text": "The elders affirm that the 'Highland Snow Wolf' and Shambhala are intrinsically linked, and following the wolf's tracks will lead to Shambhala.",
+      "level": 2
+    },
+    {
+      "id": "16",
+      "text": "Dajie suggests Zhuo Muqiangba's destiny is divinely arranged, and he will feel the call of Paba La.",
+      "level": 1
+    },
+    {
+      "id": "17",
+      "text": "After Zhuo Muqiangba leaves, the elders discuss 'Great Azure Lotus' and seem troubled.",
+      "level": 1
+    },
+    {
+      "id": "18",
+      "text": "Duoji explains that a 'great master' who spoke with the elders was instrumental in their agreement to meet with Zhuo Muqiangba.",
+      "level": 1
+    },
+    {
+      "id": "19",
+      "text": "Zhuo Muqiangba questions Arla about the connection between war mastiffs and highland snow wolves.",
+      "level": 1
+    },
+    {
+      "id": "19.1",
+      "text": "Arla confirms that 'Highland Snow Wolf' is indeed the Tibetan mastiff, specifically the 'war mastiff', and this knowledge is rooted in religious rather than biological understanding.",
+      "level": 2
+    },
+    {
+      "id": "19.2",
+      "text": "Ancient Tibetan mastiffs were royal pets, only widely distributed after the fall of the Tubo Dynasty, a history connected to Guang Jun.",
+      "level": 2
+    },
+    {
+      "id": "19.3",
+      "text": "Arla explains that 'Highland Snow Wolf' translates to 'Wolf Commander', signifying their ability to command wolves.",
+      "level": 2
+    },
+    {
+      "id": "19.4",
+      "text": "A senior expert observed that wolves show reverence, not just fear, towards Tibetan mastiffs, suggesting a natural hierarchy.",
+      "level": 2
+    },
+    {
+      "id": "19.5",
+      "text": "This expert believed Tibetan mastiffs are the natural rulers of the canine species, possessing inherent nobility and a commanding aura.",
+      "level": 2
+    },
+    {
+      "id": "19.6",
+      "text": "The extreme genetic difference between Tibetan mastiffs and wolves supports the idea that mastiffs did not evolve from wolves.",
+      "level": 2
+    },
+    {
+      "id": "20",
+      "text": "The group travels by helicopter towards Gug, with Duoji showing great interest in the aircraft.",
+      "level": 1
+    },
+    {
+      "id": "20.1",
+      "text": "Duoji, through a series of calculated actions, proves his worth by defeating Basang in a challenge.",
+      "level": 2
+    },
+    {
+      "id": "20.2",
+      "text": "Duoji's tactical prowess, using the environment and quick thinking, impresses the team.",
+      "level": 2
+    },
+    {
+      "id": "21",
+      "text": "The elders of Gongbu Village discuss the departure of the 'Emissaries' and the significance of the ongoing cycle, mentioning the 'key' and 'red stone' taken by previous emissaries.",
+      "level": 1
+    },
+    {
+      "id": "21.1",
+      "text": "They believe the current emissaries are different and may succeed in finding the final temple.",
+      "level": 2
+    },
+    {
+      "id": "21.2",
+      "text": "Concerns are raised about a curse within the final temple and the emissaries forgetting their identities, as well as the second emissary's limited lifespan due to a蛊毒 (gu poison).",
+      "level": 2
+    },
+    {
+      "id": "22",
+      "text": "The helicopter flies over a striking snow-capped mountain, which Duoji identifies as 'Nine-fold Swastika Mountain' (Mount Kailash).",
+      "level": 1
+    },
+    {
+      "id": "22.1",
+      "text": "Duoji is overwhelmed with emotion upon recognizing the sacred mountain.",
+      "level": 2
+    },
+    {
+      "id": "22.2",
+      "text": "Mount Kailash is recognized as the center of the world in various religions and is believed to cleanse sins and offer spiritual solace.",
+      "level": 2
+    },
+    {
+      "id": "23",
+      "text": "Duoji asks about the legendary 'seas of life and death' and the 'four directional auspicious beasts' surrounding the mountain.",
+      "level": 1
+    },
+    {
+      "id": "23.1",
+      "text": "Zhuo Muqiangba is shocked to hear of the 'four directional auspicious beasts' reappearing.",
+      "level": 2
+    },
+    {
+      "id": "23.2",
+      "text": "Arla confirms the existence of these seas and beasts, noting that their names have changed over time.",
+      "level": 2
+    },
+    {
+      "id": "24",
+      "text": "The 'seas' are identified as the sacred lake Manasarovar (symbolizing life) and the ghost lake Rakshastal (symbolizing death).",
+      "level": 1
+    },
+    {
+      "id": "24.1",
+      "text": "The stark contrast between the sweet water of Manasarovar and the bitter water of Rakshastal is highlighted.",
+      "level": 2
+    }
+  ],
+  "concepts": [
+    {
+      "name": "藏地密码4",
+      "frequency": 1,
+      "context": "The title of the document, indicating it is the fourth installment of the 'Tibetan Code' series."
+    },
+    {
+      "name": "高原雪狼",
+      "frequency": 5,
+      "context": "A central mythical creature, identified as a 'war mastiff' and a guardian of Shambhala."
+    },
+    {
+      "name": "古格地区",
+      "frequency": 1,
+      "context": "The geographical location where the group plans to travel by helicopter."
+    },
+    {
+      "name": "直升机",
+      "frequency": 4,
+      "context": "The mode of transportation used for rapid travel, particularly to Gug and later for the main group."
+    },
+    {
+      "name": "吕竞男",
+      "frequency": 5,
+      "context": "A character involved in planning and strategizing, responsible for equipment and team safety."
+    },
+    {
+      "name": "岳阳",
+      "frequency": 5,
+      "context": "A character present in discussions and travel, often reacting to events and offering commentary."
+    },
+    {
+      "name": "巴桑",
+      "frequency": 3,
+      "context": "A character, referred to as 'Basang大哥', who participates in the group and is challenged by Duoji."
+    },
+    {
+      "name": "卓木强巴",
+      "frequency": 20,
+      "context": "The protagonist, referred to as 'Emissary', who is seeking to understand his identity and journey."
+    },
+    {
+      "name": "多吉",
+      "frequency": 16,
+      "context": "A hunter from Gongbu Village, serving as a guide and proving his worth through his skills and knowledge."
+    },
+    {
+      "name": "工布村",
+      "frequency": 9,
+      "context": "The village where the elders reside and from which Duoji originates."
+    },
+    {
+      "name": "圣使",
+      "frequency": 15,
+      "context": "The title held by Zhuo Muqiangba, signifying a chosen individual with a specific destiny."
+    },
+    {
+      "name": "长老",
+      "frequency": 11,
+      "context": "The wise leaders of Gongbu Village who hold ancient knowledge and guide the Emissaries."
+    },
+    {
+      "name": "本",
+      "frequency": 2,
+      "context": "An antagonist or rival group whose movements the protagonist's group is trying to anticipate and outmaneuver."
+    },
+    {
+      "name": "银眼",
+      "frequency": 1,
+      "context": "An object or goal to be retrieved from the ancient caves."
+    },
+    {
+      "name": "倒悬空寺",
+      "frequency": 4,
+      "context": "A significant location that presents obstacles and is part of the journey towards Shambhala."
+    },
+    {
+      "name": "亚拉法师",
+      "frequency": 7,
+      "context": "A Buddhist master who provides guidance and explanations, particularly on religious and mythical aspects."
+    },
+    {
+      "name": "香巴拉",
+      "frequency": 7,
+      "context": "The legendary pure land that the characters are seeking, also referred to as Paba La."
+    },
+    {
+      "name": "战獒",
+      "frequency": 5,
+      "context": "A powerful breed of Tibetan mastiff, believed to be a legendary warrior dog."
+    },
+    {
+      "name": "唐卡",
+      "frequency": 2,
+      "context": "A religious scroll painting used to depict deities and myths, which reveals the 'Highland Snow Wolf'."
+    },
+    {
+      "name": "生命之门",
+      "frequency": 3,
+      "context": "A significant place mentioned in relation to past emissaries and a potential gateway."
+    },
+    {
+      "name": "地狱之门",
+      "frequency": 3,
+      "context": "A location described as a natural phenomenon, possibly a gateway to further trials."
+    },
+    {
+      "name": "冈底斯山",
+      "frequency": 3,
+      "context": "The mountain range where the helicopter flies, containing the sacred mountain Kailash."
+    },
+    {
+      "name": "九重万字山",
+      "frequency": 2,
+      "context": "The sacred name for Mount Kailash in the Xiongnu language."
+    },
+    {
+      "name": "玛旁雍错",
+      "frequency": 3,
+      "context": "A sacred lake, also known as the 'Divine Lake', associated with life."
+    },
+    {
+      "name": "拉昂错",
+      "frequency": 3,
+      "context": "A 'ghost lake' near Manasarovar, associated with death and presented as a contrasting entity to the sacred lake."
+    },
+    {
+      "name": "四方瑞兽",
+      "frequency": 3,
+      "context": "Mythical creatures that guard the four directions, associated with Mount Kailash."
+    },
+    {
+      "name": "神山",
+      "frequency": 2,
+      "context": "A general term for sacred mountains, with Kailash being the 'Lord of Divine Mountains'."
+    },
+    {
+      "name": "藏獒",
+      "frequency": 6,
+      "context": "The breed of dog that is central to Zhuo Muqiangba's research and connected to the 'Highland Snow Wolf'."
+    },
+    {
+      "name": "无神论者",
+      "frequency": 1,
+      "context": "Zhuo Muqiangba's self-proclaimed belief system, emphasizing science over religion."
+    },
+    {
+      "name": "轮回",
+      "frequency": 1,
+      "context": "The concept of cycles and rebirth, discussed in the context of the Emissaries and the elders' traditions."
+    }
+  ],
+  "relations": [
+    {
+      "source": "直升机",
+      "target": "古格地区",
+      "type": "travels_to"
+    },
+    {
+      "source": "吕竞男",
+      "target": "直升机",
+      "type": "uses"
+    },
+    {
+      "source": "卓木强巴",
+      "target": "圣使",
+      "type": "is_a"
+    },
+    {
+      "source": "多吉",
+      "target": "工布村",
+      "type": "from"
+    },
+    {
+      "source": "多吉",
+      "target": "圣使",
+      "type": "guides"
+    },
+    {
+      "source": "长老",
+      "target": "工布村",
+      "type": "leads"
+    },
+    {
+      "source": "香巴拉",
+      "target": "圣地",
+      "type": "is_a"
+    },
+    {
+      "source": "高原雪狼",
+      "target": "战獒",
+      "type": "is_identified_as"
+    },
+    {
+      "source": "高原雪狼",
+      "target": "香巴拉",
+      "type": "guards"
+    },
+    {
+      "source": "战獒",
+      "target": "藏獒",
+      "type": "is_a_type_of"
+    },
+    {
+      "source": "卓木强巴",
+      "target": "藏獒",
+      "type": "researches"
+    },
+    {
+      "source": "亚拉法师",
+      "target": "藏獒",
+      "type": "explains_connection_to"
+    },
+    {
+      "source": "亚拉法师",
+      "target": "高原雪狼",
+      "type": "explains_connection_to"
+    },
+    {
+      "source": "九重万字山",
+      "target": "冈底斯山",
+      "type": "is_name_of"
+    },
+    {
+      "source": "玛旁雍错",
+      "target": "生命",
+      "type": "symbolizes"
+    },
+    {
+      "source": "拉昂错",
+      "target": "死亡",
+      "type": "symbolizes"
+    },
+    {
+      "source": "四方瑞兽",
+      "target": "冈底斯山",
+      "type": "surrounds"
+    },
+    {
+      "source": "神山",
+      "target": "冈底斯山",
+      "type": "is_a"
+    },
+    {
+      "source": "倒悬空寺",
+      "target": "路途",
+      "type": "is_on"
+    },
+    {
+      "source": "生命之门",
+      "target": "前圣使",
+      "type": "related_to"
+    },
+    {
+      "source": "地狱之门",
+      "target": "自然现象",
+      "type": "is_a"
+    },
+    {
+      "source": "本",
+      "target": "对抗",
+      "type": "target_of"
+    },
+    {
+      "source": "银眼",
+      "target": "古格地区",
+      "type": "located_in"
+    },
+    {
+      "source": "卓木强巴",
+      "target": "无神论者",
+      "type": "identifies_as"
+    },
+    {
+      "source": "长老",
+      "target": "圣使",
+      "type": "evaluates"
+    },
+    {
+      "source": "唐卡",
+      "target": "高原雪狼",
+      "type": "depicts"
+    },
+    {
+      "source": "多吉",
+      "target": "巴桑",
+      "type": "challenges"
+    },
+    {
+      "source": "亚拉法师",
+      "target": "长老",
+      "type": "converses_with"
+    }
+  ],
+  "hierarchy": {
+    "main_topics": [
+      "The Quest for Shambhala",
+      "The Role of the Emissary",
+      "Mythical Creatures and Legends",
+      "Gongbu Village and its Elders",
+      "The Journey and its Obstacles"
+    ],
+    "structure": "The document follows a chronological narrative of the characters' journey. It begins with strategic planning, progresses to discussions with village elders and the exploration of myths, then details a challenging encounter, and finally describes the journey towards sacred geographical locations. The narrative is interspersed with character interactions, explanations of lore, and spiritual reflections."
+  }
+}

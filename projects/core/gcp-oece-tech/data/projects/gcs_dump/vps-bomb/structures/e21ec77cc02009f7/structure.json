@@ -1,0 +1,406 @@
+{
+  "propositions": [
+    {
+      "id": "1",
+      "text": "User must comply with relevant laws and regulations.",
+      "level": 2
+    },
+    {
+      "id": "2",
+      "text": "User must respect Txt Xue Wang copyright.",
+      "level": 2
+    },
+    {
+      "id": "3",
+      "text": "Txt Xue Wang authors own Txt Xue Wang copyright.",
+      "level": 2
+    },
+    {
+      "id": "4",
+      "text": "User must not steal or spread Txt Xue Wang content.",
+      "level": 2
+    },
+    {
+      "id": "5",
+      "text": "Txt Xue Wang reserves the right to pursue legal responsibility.",
+      "level": 2
+    },
+    {
+      "id": "6",
+      "text": "All Txt Xue Wang content is for learning and research purposes only.",
+      "level": 2
+    },
+    {
+      "id": "7",
+      "text": "Txt Xue Wang is not responsible for any losses incurred by users from using Txt Xue Wang content.",
+      "level": 2
+    },
+    {
+      "id": "8",
+      "text": "If we could live forever, what would we be like?",
+      "level": 3
+    },
+    {
+      "id": "9",
+      "text": "Immortality is about how one lives.",
+      "level": 3
+    },
+    {
+      "id": "10",
+      "text": "Endless repetition would be no different from being dead.",
+      "level": 3
+    },
+    {
+      "id": "11",
+      "text": "Immortality could mean eternally repeating this life, which would be boring.",
+      "level": 3
+    },
+    {
+      "id": "12",
+      "text": "The speaker does not find it boring; she can do things the listener cannot.",
+      "level": 3
+    },
+    {
+      "id": "13",
+      "text": "She can make the listener live a rich and flavorful life.",
+      "level": 3
+    },
+    {
+      "id": "14",
+      "text": "With immortality, there is infinite time to explore, learn, and experience.",
+      "level": 3
+    },
+    {
+      "id": "15",
+      "text": "She can take the listener around the world to see beautiful scenery, eat delicious food, and hear moving music.",
+      "level": 3
+    },
+    {
+      "id": "16",
+      "text": "She can help the listener live the life they desire.",
+      "level": 3
+    },
+    {
+      "id": "17",
+      "text": "She can help the listener become any person they wish to be.",
+      "level": 3
+    },
+    {
+      "id": "18",
+      "text": "The listener could become a great artist, scientist, or adventurer.",
+      "level": 3
+    },
+    {
+      "id": "19",
+      "text": "With immortality, one does not fear failure or time.",
+      "level": 3
+    },
+    {
+      "id": "20",
+      "text": "One can attempt and challenge infinitely.",
+      "level": 3
+    },
+    {
+      "id": "21",
+      "text": "One can live as a true legend.",
+      "level": 3
+    },
+    {
+      "id": "22",
+      "text": "Immortality is exciting because there are infinite opportunities to experience, feel, and love.",
+      "level": 3
+    },
+    {
+      "id": "23",
+      "text": "One can live as someone who truly loves life.",
+      "level": 3
+    },
+    {
+      "id": "24",
+      "text": "Immortality can lead to happiness.",
+      "level": 3
+    },
+    {
+      "id": "25",
+      "text": "The listener wants to live forever.",
+      "level": 3
+    },
+    {
+      "id": "26",
+      "text": "The listener is willing to pay any price for immortality.",
+      "level": 3
+    },
+    {
+      "id": "27",
+      "text": "The listener agrees to follow her.",
+      "level": 3
+    },
+    {
+      "id": "28",
+      "text": "She has a secret about immortality that only she knows.",
+      "level": 3
+    },
+    {
+      "id": "29",
+      "text": "The secret's price is too high.",
+      "level": 3
+    },
+    {
+      "id": "30",
+      "text": "The listener is still willing despite the high price.",
+      "level": 3
+    },
+    {
+      "id": "31",
+      "text": "The listener is willing to pay the price because she is worth it.",
+      "level": 3
+    },
+    {
+      "id": "32",
+      "text": "The listener asks her to marry him.",
+      "level": 3
+    },
+    {
+      "id": "33",
+      "text": "If she marries him, she will be his person.",
+      "level": 3
+    },
+    {
+      "id": "34",
+      "text": "They can achieve immortality together.",
+      "level": 3
+    },
+    {
+      "id": "35",
+      "text": "They will bear the price of immortality together.",
+      "level": 3
+    },
+    {
+      "id": "36",
+      "text": "She asks him to go with her to their place of immortality.",
+      "level": 3
+    },
+    {
+      "id": "37",
+      "text": "The place of immortality is a place only she knows.",
+      "level": 3
+    },
+    {
+      "id": "38",
+      "text": "The place of immortality is where only the two of them will be.",
+      "level": 3
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Txt Xue Wang",
+      "frequency": 7,
+      "context": "Refers to the source of the text and its user agreement."
+    },
+    {
+      "name": "Copyright",
+      "frequency": 3,
+      "context": "Relates to the ownership and protection of content from Txt Xue Wang."
+    },
+    {
+      "name": "User",
+      "frequency": 3,
+      "context": "Refers to individuals accessing and using Txt Xue Wang content."
+    },
+    {
+      "name": "Legal responsibility",
+      "frequency": 2,
+      "context": "The consequences for violating Txt Xue Wang's terms of service."
+    },
+    {
+      "name": "Immortality",
+      "frequency": 12,
+      "context": "The central theme of the narrative, the desire for eternal life and its implications."
+    },
+    {
+      "name": "Repetition",
+      "frequency": 3,
+      "context": "A negative aspect of potential immortality, making life feel like death."
+    },
+    {
+      "name": "Life",
+      "frequency": 4,
+      "context": "The quality and experience of living, especially in the context of immortality."
+    },
+    {
+      "name": "Experience",
+      "frequency": 3,
+      "context": "The act of undertaking activities and gaining knowledge, a benefit of immortality."
+    },
+    {
+      "name": "Time",
+      "frequency": 3,
+      "context": "The abundance of time granted by immortality, allowing for exploration and learning."
+    },
+    {
+      "name": "Legend",
+      "frequency": 2,
+      "context": "The potential to become a notable and celebrated figure through immortal endeavors."
+    },
+    {
+      "name": "Love",
+      "frequency": 2,
+      "context": "An emotion that can be deepened and experienced endlessly with immortality."
+    },
+    {
+      "name": "Happiness",
+      "frequency": 2,
+      "context": "A state of being that can be achieved through a fulfilling immortal life."
+    },
+    {
+      "name": "Secret",
+      "frequency": 2,
+      "context": "The hidden knowledge that enables immortality."
+    },
+    {
+      "name": "Price/Cost",
+      "frequency": 4,
+      "context": "The sacrifice or consequence associated with attaining immortality."
+    },
+    {
+      "name": "Worth",
+      "frequency": 3,
+      "context": "The justification for paying the price for immortality, related to the value of the person or the goal."
+    },
+    {
+      "name": "Marriage",
+      "frequency": 2,
+      "context": "A commitment and union between the two protagonists."
+    },
+    {
+      "name": "Place of immortality",
+      "frequency": 2,
+      "context": "A specific, hidden location associated with achieving immortality."
+    }
+  ],
+  "relations": [
+    {
+      "source": "Txt Xue Wang",
+      "target": "User",
+      "type": "provides"
+    },
+    {
+      "source": "Txt Xue Wang",
+      "target": "Copyright",
+      "type": "has"
+    },
+    {
+      "source": "User",
+      "target": "Copyright",
+      "type": "respects"
+    },
+    {
+      "source": "User",
+      "target": "Legal responsibility",
+      "type": "subject to"
+    },
+    {
+      "source": "Immortality",
+      "target": "Repetition",
+      "type": "can involve"
+    },
+    {
+      "source": "Repetition",
+      "target": "Death",
+      "type": "is similar to"
+    },
+    {
+      "source": "Immortality",
+      "target": "Life",
+      "type": "enhances"
+    },
+    {
+      "source": "Immortality",
+      "target": "Experience",
+      "type": "allows for infinite"
+    },
+    {
+      "source": "Immortality",
+      "target": "Time",
+      "type": "provides infinite"
+    },
+    {
+      "source": "Immortality",
+      "target": "Legend",
+      "type": "enables becoming a"
+    },
+    {
+      "source": "Immortality",
+      "target": "Love",
+      "type": "deepens"
+    },
+    {
+      "source": "Immortality",
+      "target": "Happiness",
+      "type": "can lead to"
+    },
+    {
+      "source": "Secret",
+      "target": "Immortality",
+      "type": "enables"
+    },
+    {
+      "source": "Secret",
+      "target": "Price/Cost",
+      "type": "has a high"
+    },
+    {
+      "source": "Price/Cost",
+      "target": "Immortality",
+      "type": "is associated with"
+    },
+    {
+      "source": "Willingness",
+      "target": "Price/Cost",
+      "type": "to pay"
+    },
+    {
+      "source": "Willingness",
+      "target": "Worth",
+      "type": "is based on"
+    },
+    {
+      "source": "Marriage",
+      "target": "Union",
+      "type": "is a form of"
+    },
+    {
+      "source": "Marriage",
+      "target": "Immortality",
+      "type": "can lead to"
+    },
+    {
+      "source": "Price/Cost",
+      "target": "Immortality",
+      "type": "will be shared for"
+    },
+    {
+      "source": "Place of immortality",
+      "target": "Immortality",
+      "type": "is the destination for"
+    },
+    {
+      "source": "Place of immortality",
+      "target": "Secrecy",
+      "type": "is known only through"
+    },
+    {
+      "source": "Place of immortality",
+      "target": "Exclusivity",
+      "type": "is for two people only"
+    }
+  ],
+  "hierarchy": {
+    "main_topics": [
+      "User Agreement",
+      "Thematic Discussion on Immortality",
+      "Narrative of Immortality Pursuit"
+    ],
+    "structure": "The document begins with a user agreement for a website (Txt Xue Wang), followed by a philosophical discussion about the concept of immortality, and then a narrative dialogue between two characters exploring the desire for, and the pursuit of, immortality, culminating in a commitment and a journey to a place of immortality. The structure moves from practical rules to abstract contemplation, and then to a personal story."
+  }
+}

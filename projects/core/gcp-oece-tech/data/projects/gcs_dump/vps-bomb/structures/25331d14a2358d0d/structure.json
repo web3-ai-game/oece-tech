@@ -1,0 +1,519 @@
+{
+  "propositions": [
+    {
+      "id": "1",
+      "text": "The narrative begins with a reflection on the meaning of beginnings.",
+      "level": 1
+    },
+    {
+      "id": "1.1",
+      "text": "The protagonist ponders if a specific moment or place can be identified as the absolute starting point of events.",
+      "level": 2
+    },
+    {
+      "id": "2",
+      "text": "A potential beginning is presented through a sales poster for 'Castle'.",
+      "level": 1
+    },
+    {
+      "id": "2.1",
+      "text": "The poster details the property's size and includes an idealized image.",
+      "level": 2
+    },
+    {
+      "id": "3",
+      "text": "Another possible beginning is encountering Santoni.",
+      "level": 1
+    },
+    {
+      "id": "3.1",
+      "text": "Santoni's appearance and his act of drawing a plan of a grand residence are described.",
+      "level": 2
+    },
+    {
+      "id": "4",
+      "text": "The protagonist expresses a deep longing for such a beautiful residence, a shared fantasy with Santoni.",
+      "level": 1
+    },
+    {
+      "id": "4.1",
+      "text": "This desire represents a yearning for something unattainable.",
+      "level": 2
+    },
+    {
+      "id": "5",
+      "text": "The narrative suggests a love story beginning with seeing Aili at Gypsy Farm.",
+      "level": 1
+    },
+    {
+      "id": "6",
+      "text": "The protagonist's encounter with a local hedge-trimmer leads to information about 'Castle'.",
+      "level": 1
+    },
+    {
+      "id": "6.1",
+      "text": "The local does not call it 'Castle', but 'Gypsy Farm'.",
+      "level": 2
+    },
+    {
+      "id": "6.2",
+      "text": "Gypsy Farm is known as a place where misfortune occurs, including accidents.",
+      "level": 2
+    },
+    {
+      "id": "6.3",
+      "text": "The name 'Gypsy' is attributed to a legend of gypsies being driven away and casting a curse.",
+      "level": 2
+    },
+    {
+      "id": "6.4",
+      "text": "The local recounts incidents of death and broken necks related to the place.",
+      "level": 2
+    },
+    {
+      "id": "7",
+      "text": "The protagonist reflects on the coincidence of remembering these details later.",
+      "level": 1
+    },
+    {
+      "id": "8",
+      "text": "A conversation with the local about gypsies reveals their unfavorable reputation.",
+      "level": 1
+    },
+    {
+      "id": "8.1",
+      "text": "The local suspects the protagonist might have gypsy blood, which the protagonist finds interesting due to his appearance.",
+      "level": 2
+    },
+    {
+      "id": "9",
+      "text": "The protagonist walks towards Gypsy Farm, envisioning it as his own.",
+      "level": 1
+    },
+    {
+      "id": "9.1",
+      "text": "This thought is dismissed as absurd.",
+      "level": 2
+    },
+    {
+      "id": "10",
+      "text": "The local mentions an old woman, Mrs. Li, who lives in a cottage provided by Major Fay.",
+      "level": 1
+    },
+    {
+      "id": "10.1",
+      "text": "Major Fay is implied to be a local influential figure.",
+      "level": 2
+    },
+    {
+      "id": "11",
+      "text": "The protagonist meets Mrs. Li, who can supposedly tell him everything about Gypsy Farm.",
+      "level": 1
+    },
+    {
+      "id": "11.1",
+      "text": "Mrs. Li suggests buying the property would be foolish.",
+      "level": 2
+    },
+    {
+      "id": "11.2",
+      "text": "She reveals that property developers are eyeing it and it will be sold cheaply.",
+      "level": 2
+    },
+    {
+      "id": "11.3",
+      "text": "If bought cheaply, developers would likely demolish the mansion and build multiple smaller dwellings.",
+      "level": 2
+    },
+    {
+      "id": "11.4",
+      "text": "Mrs. Li prophesies misfortune for anyone who disturbs Gypsy Farm, citing past accidents and a cursed fate.",
+      "level": 2
+    },
+    {
+      "id": "12",
+      "text": "The protagonist is warned by Mrs. Li to leave Gypsy Farm and never return, as he will face sorrow, loss, and danger.",
+      "level": 1
+    },
+    {
+      "id": "12.1",
+      "text": "Despite not being superstitious, the protagonist feels uneasy.",
+      "level": 2
+    },
+    {
+      "id": "13",
+      "text": "The protagonist decides to attend the auction for 'Castle', intrigued by the prospect of seeing who buys it.",
+      "level": 1
+    },
+    {
+      "id": "13.1",
+      "text": "He forms a whimsical idea to pretend to bid on Gypsy Farm to deter local developers.",
+      "level": 2
+    },
+    {
+      "id": "13.2",
+      "text": "His ultimate fantasy is to buy it, have Santoni build a house, and live happily with a beautiful girl.",
+      "level": 2
+    },
+    {
+      "id": "14",
+      "text": "Chapter Two begins with the protagonist going to an auction near Gypsy Farm, transporting people for the sale of contents of a mansion.",
+      "level": 1
+    },
+    {
+      "id": "15",
+      "text": "He overhears the passengers' interest in collecting 'Klinkerware'.",
+      "level": 1
+    },
+    {
+      "id": "16",
+      "text": "The protagonist reflects on his varied life experiences at the age of twenty-two, including driving, horse handling, fruit picking, waiting tables, and lifeguarding.",
+      "level": 1
+    },
+    {
+      "id": "16.1",
+      "text": "He describes himself as restless, seeking something 'magnificent'.",
+      "level": 2
+    },
+    {
+      "id": "17",
+      "text": "His life involves a series of temporary satisfactions and moving on, similar to his relationships with women.",
+      "level": 1
+    },
+    {
+      "id": "18",
+      "text": "He rejects a conventional life of settling down, seeking excitement and meaning.",
+      "level": 1
+    },
+    {
+      "id": "19",
+      "text": "An encounter with a pair of stylish shoes and a perplexing abstract painting sparks his imagination.",
+      "level": 1
+    },
+    {
+      "id": "19.1",
+      "text": "The painting, despite its abstract nature and incomprehensible meaning, makes him feel something profound.",
+      "level": 2
+    },
+    {
+      "id": "20",
+      "text": "He enters an art gallery and is repelled by traditional art, finding it unappealing.",
+      "level": 1
+    },
+    {
+      "id": "21",
+      "text": "He considers buying the abstract painting, despite its exorbitant price of twenty-five thousand pounds.",
+      "level": 1
+    },
+    {
+      "id": "21.1",
+      "text": "He recognizes the price as astronomical and the painting as 'worth it' in some ineffable way.",
+      "level": 2
+    },
+    {
+      "id": "22",
+      "text": "Chapter Three discusses the protagonist's lack of conventional writing skills and his relationship with Santoni, an architect.",
+      "level": 1
+    },
+    {
+      "id": "23",
+      "text": "He met Santoni while working as a driver for wealthy individuals, gaining brief exposure to foreign languages and cultures.",
+      "level": 1
+    },
+    {
+      "id": "24",
+      "text": "He observes that wealthy people often lead lonely and anxious lives, focused on financial matters.",
+      "level": 1
+    },
+    {
+      "id": "25",
+      "text": "The protagonist prioritizes finding joy and living a fulfilling life in the present.",
+      "level": 1
+    },
+    {
+      "id": "26",
+      "text": "He describes a frequent client, Mr. Constance, and his contentious relationship with Santoni over the design and construction of a house.",
+      "level": 1
+    },
+    {
+      "id": "26.1",
+      "text": "Santoni emphasizes building a house of quality and character, not just adhering to budget.",
+      "level": 2
+    },
+    {
+      "id": "26.2",
+      "text": "Santoni's vision for the house is unconventional and exciting, with a unique orientation.",
+      "level": 2
+    },
+    {
+      "id": "27",
+      "text": "Santoni explains his philosophy of designing only for those he wishes to build for, valuing 'good feng shui' and harmonious integration with the landscape.",
+      "level": 1
+    },
+    {
+      "id": "28",
+      "text": "Santoni reveals he can design a house for the protagonist, but laments his lack of money and ambition.",
+      "level": 1
+    },
+    {
+      "id": "29",
+      "text": "Santoni expresses that he has limited time left to build and will only create a few more houses.",
+      "level": 1
+    },
+    {
+      "id": "30",
+      "text": "The protagonist enjoys his current carefree lifestyle and does not aspire to the ambition that consumes Santoni.",
+      "level": 1
+    },
+    {
+      "id": "31",
+      "text": "He reflects on the subjective nature of memory and the significance of chosen recollections, like Santoni, the painting, and Gypsy Farm.",
+      "level": 1
+    },
+    {
+      "id": "32",
+      "text": "He continues to wait for something magnificent to happen in his life, possibly through a romantic connection.",
+      "level": 1
+    },
+    {
+      "id": "32.1",
+      "text": "He contrasts his youthful understanding of love as purely physical with a more profound, unexpected experience.",
+      "level": 2
+    },
+    {
+      "id": "33",
+      "text": "Chapter Four details the protagonist's decision to attend the auction for 'Castle' after a disagreement with his employers while in Hamburg.",
+      "level": 1
+    },
+    {
+      "id": "34",
+      "text": "He describes the auction as a dull affair with few participants.",
+      "level": 1
+    },
+    {
+      "id": "34.1",
+      "text": "The property fails to meet its reserve price and is withdrawn from sale.",
+      "level": 2
+    },
+    {
+      "id": "35",
+      "text": "He converses with a farmer-like individual who identifies potential bidders and discusses the poor reputation of 'Gypsy Farm'.",
+      "level": 1
+    },
+    {
+      "id": "35.1",
+      "text": "The farmer explains that the difficulty in developing the property is due to its reputation, tax implications, and the scarcity of labor.",
+      "level": 2
+    },
+    {
+      "id": "36",
+      "text": "The protagonist encounters Aili near the dangerous bend of the road.",
+      "level": 1
+    },
+    {
+      "id": "36.1",
+      "text": "Aili's appearance is described as ethereal and slightly startled.",
+      "level": 2
+    },
+    {
+      "id": "37",
+      "text": "They discuss the property, 'Castle', and its impending sale.",
+      "level": 1
+    },
+    {
+      "id": "37.1",
+      "text": "Aili expresses relief that the property was not sold at auction.",
+      "level": 2
+    },
+    {
+      "id": "38",
+      "text": "The protagonist reveals his pretense of bidding and his genuine desire to buy Gypsy Farm in the future.",
+      "level": 1
+    },
+    {
+      "id": "39",
+      "text": "He elaborates on his vision for the site: clearing the land, building a beautiful house designed by a 'genius architect' (Santoni) at a different location on the property.",
+      "level": 1
+    },
+    {
+      "id": "40",
+      "text": "Aili shares her dissatisfaction with her current life and expresses a desire for a place where dreams can come true and she can live freely.",
+      "level": 1
+    },
+    {
+      "id": "41",
+      "text": "The protagonists, Lopeck and Aili, exchange names and feel a mutual attraction and desire to see each other again.",
+      "level": 1
+    },
+    {
+      "id": "42",
+      "text": "Chapter Five begins by describing the slow development of the protagonist and Aili's relationship due to their guardedness and secrets.",
+      "level": 1
+    },
+    {
+      "id": "43",
+      "text": "They are hesitant to ask direct questions about meeting times or locations, fearing reciprocity.",
+      "level": 1
+    },
+    {
+      "id": "44",
+      "text": "Aili's unease upon revealing her name is noted.",
+      "level": 1
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Beginning",
+      "frequency": 5,
+      "context": "The initial chapter grapples with defining the true 'beginning' of events, exploring various potential starting points."
+    },
+    {
+      "name": "Castle",
+      "frequency": 7,
+      "context": "A grand residence advertised for sale, later referred to as 'Gypsy Farm', central to the protagonist's fantasies and the plot."
+    },
+    {
+      "name": "Gypsy Farm",
+      "frequency": 10,
+      "context": "The local name for 'Castle', associated with misfortune, curses, and a dark legend."
+    },
+    {
+      "name": "Santoni",
+      "frequency": 7,
+      "context": "An architect who embodies the protagonist's aspirations for building and living in a dream home. He is a key figure in the protagonist's envisioned future."
+    },
+    {
+      "name": "Dream",
+      "frequency": 5,
+      "context": "The protagonist's recurring fantasies of a beautiful home, a fulfilling life, and a perfect relationship. The concept of a 'magnificent' event is also central."
+    },
+    {
+      "name": "Aili",
+      "frequency": 8,
+      "context": "A key female character who represents a potential romantic interest and a shared yearning for a different life. Her introduction marks a significant turn in the narrative."
+    },
+    {
+      "name": "Auction",
+      "frequency": 4,
+      "context": "The event where the protagonist attends to observe the sale of 'Castle', leading to his decision to interfere and his subsequent encounter with Aili."
+    },
+    {
+      "name": "Misfortune",
+      "frequency": 4,
+      "context": "Associated with 'Gypsy Farm', this concept foreshadows potential negative outcomes and adds to the mystique of the location."
+    },
+    {
+      "name": "Money",
+      "frequency": 5,
+      "context": "A recurring theme, highlighting the protagonist's lack of it, the wealthy characters' anxieties about it, and its role in enabling dreams (like Santoni's houses)."
+    },
+    {
+      "name": "Life Experience",
+      "frequency": 2,
+      "context": "The protagonist's reflection on his diverse and often transient jobs and experiences, shaping his perspective on life and his search for something more."
+    },
+    {
+      "name": "Love/Romance",
+      "frequency": 4,
+      "context": "The protagonist's evolving understanding of love, from superficial attraction to the possibility of a deeper connection with Aili."
+    },
+    {
+      "name": "Restlessness",
+      "frequency": 2,
+      "context": "A defining characteristic of the protagonist, driving his search for excitement and new experiences."
+    }
+  ],
+  "relations": [
+    {
+      "source": "Castle",
+      "target": "Gypsy Farm",
+      "type": "is_also_known_as"
+    },
+    {
+      "source": "Gypsy Farm",
+      "target": "Misfortune",
+      "type": "is_associated_with"
+    },
+    {
+      "source": "Gypsy Farm",
+      "target": "Curse",
+      "type": "is_associated_with"
+    },
+    {
+      "source": "Santoni",
+      "target": "Dream",
+      "type": "enables"
+    },
+    {
+      "source": "Protagonist",
+      "target": "Dream",
+      "type": "has"
+    },
+    {
+      "source": "Protagonist",
+      "target": "Restlessness",
+      "type": "is_characterized_by"
+    },
+    {
+      "source": "Aili",
+      "target": "Protagonist",
+      "type": "develops_relationship_with"
+    },
+    {
+      "source": "Aili",
+      "target": "Dream",
+      "type": "shares"
+    },
+    {
+      "source": "Auction",
+      "target": "Castle",
+      "type": "involves_sale_of"
+    },
+    {
+      "source": "Auction",
+      "target": "Protagonist",
+      "type": "participant_observes"
+    },
+    {
+      "source": "Money",
+      "target": "Dream",
+      "type": "is_required_for"
+    },
+    {
+      "source": "Wealthy Characters",
+      "target": "Money",
+      "type": "anxious_about"
+    },
+    {
+      "source": "Protagonist",
+      "target": "Life Experience",
+      "type": "has_varied"
+    },
+    {
+      "source": "Protagonist",
+      "target": "Love/Romance",
+      "type": "explores"
+    },
+    {
+      "source": "Santoni",
+      "target": "House",
+      "type": "designs_and_builds"
+    },
+    {
+      "source": "House",
+      "target": "Landscape",
+      "type": "integrates_with"
+    }
+  ],
+  "hierarchy": {
+    "main_topics": [
+      "Narrative Beginnings and Reflections",
+      "The Mystery and Legend of Gypsy Farm",
+      "The Protagonist's Search for Meaning and His Dreams",
+      "Key Encounters and Developing Relationships",
+      "The Role of Architecture and Art",
+      "Social Commentary on Wealth and Life Choices"
+    ],
+    "structure": "The document is structured chronologically, following the protagonist's journey. It begins with philosophical ponderings on beginnings, then introduces the central location ('Castle'/'Gypsy Farm') and key characters (Santoni, Aili). Subsequent chapters delve into the protagonist's past experiences, his evolving desires, his interactions with others, and the events leading up to his significant encounter with Aili, setting the stage for future developments. The narrative is characterized by introspection and the exploration of the protagonist's inner world and aspirations."
+  }
+}

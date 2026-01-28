@@ -1,0 +1,15 @@
+{
+  "propositions": [
+    {
+      "id": "1",
+      "text": "Document: 恐怖的隧道_西村寿行.txt",
+      "level": 1
+    }
+  ],
+  "concepts": [],
+  "relations": [],
+  "hierarchy": {
+    "main_topics": [],
+    "structure": "Basic structure (extraction failed)"
+  }
+}

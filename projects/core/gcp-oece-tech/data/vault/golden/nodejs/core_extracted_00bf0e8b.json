@@ -1,0 +1,40 @@
+{
+  "extractedAt": "2025-11-26T14:23:22.260Z",
+  "config": {
+    "model": "gemini-3-pro",
+    "temperature": 0.3,
+    "topPages": 5
+  },
+  "summary": {
+    "totalExtracted": 0,
+    "failed": 5,
+    "avgValueScore": 0
+  },
+  "pages": [
+    {
+      "pageId": "5299cb33-5c74-4ab3-8876-2ae56978274e",
+      "title": "🎨 DeepWeay 图片生成提示词完整目录 - 182张 ab1f1ed4324f4bbebc9db9db6a344b89",
+      "error": "API Error: models/gemini-3-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods."
+    },
+    {
+      "pageId": "4ffe0dc6-c586-418d-90a1-9bcf86059a05",
+      "title": "🔧 OECE TECH - 極客硬件實戰站 1500點消耗方案 2a36b9c2d37981b5aa18e29a0eecfb3b",
+      "error": "API Error: models/gemini-3-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods."
+    },
+    {
+      "pageId": "54239ed3-8e3c-4352-a9e1-4ea8a4812682",
+      "title": "🏠 OECE TECH - Orbital Eden for City Escapists 都市隱居 8748dcf11bd3441a9bc7d61aef041180",
+      "error": "API Error: models/gemini-3-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods."
+    },
+    {
+      "pageId": "96aca2db-2843-464f-a63f-28e3e5af3c56",
+      "title": "oece tech框架👷 2a36b9c2d37980f8a763ee5f109b91d7",
+      "error": "API Error: models/gemini-3-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods."
+    },
+    {
+      "pageId": "2b291acc-4dd5-8084-94c4-d90f36ee37cc",
+      "title": "100",
+      "error": "API Error: models/gemini-3-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods."
+    }
+  ]
+}

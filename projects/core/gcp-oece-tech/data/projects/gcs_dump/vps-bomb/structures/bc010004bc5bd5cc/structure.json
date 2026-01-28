@@ -1,0 +1,110 @@
+{
+  "propositions": [
+    {
+      "id": "1",
+      "text": "The document lists various error codes and related information, likely for a network or communication component.",
+      "level": 1
+    },
+    {
+      "id": "1.1",
+      "text": "Error codes such as EIdStackInitializationFailed, EIdStackSetSizeExceeded, and EIdIPVersionUnsupported are present.",
+      "level": 2
+    },
+    {
+      "id": "1.2",
+      "text": "A long list of character encoding names and their aliases is provided.",
+      "level": 2
+    },
+    {
+      "id": "1.3",
+      "text": "Specific error codes related to socket operations are documented, including EIdSocketError, EIdClosedSocket, and EIdReadTimeout.",
+      "level": 2
+    },
+    {
+      "id": "1.4",
+      "text": "Errors pertaining to TCP connections are listed, such as EIdTCPConnectionError and EIdConnectTimeout.",
+      "level": 2
+    },
+    {
+      "id": "1.5",
+      "text": "SOCKS protocol related errors are enumerated, including EIdSocksError, EIdSocksRequestFailed, and various sub-types of SOCKS errors.",
+      "level": 2
+    },
+    {
+      "id": "1.6",
+      "text": "The document references local host and IP addresses like LOCALHOST and 127.0.0.1.",
+      "level": 2
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Error Codes",
+      "frequency": 30,
+      "context": "Includes specific identifiers like EIdStackInitializationFailed, EIdSocketError, EIdSocksError."
+    },
+    {
+      "name": "Character Encodings",
+      "frequency": 150,
+      "context": "A very extensive list with names like US-ASCII, ISO-8859-1, UTF-1."
+    },
+    {
+      "name": "Network Components",
+      "frequency": 5,
+      "context": "Implied by error codes related to sockets, TCP, and proxy."
+    },
+    {
+      "name": "SOCKS Protocol",
+      "frequency": 10,
+      "context": "Specific error codes like EIdSocksError and its subtypes."
+    },
+    {
+      "name": "IP Addresses",
+      "frequency": 2,
+      "context": "Examples include LOCALHOST and 127.0.0.1."
+    },
+    {
+      "name": "Socket Operations",
+      "frequency": 5,
+      "context": "Errors like EIdSocketError, EIdClosedSocket."
+    },
+    {
+      "name": "TCP Connections",
+      "frequency": 5,
+      "context": "Errors like EIdTCPConnectionError, EIdConnectTimeout."
+    }
+  ],
+  "relations": [
+    {
+      "source": "Error Codes",
+      "target": "Socket Operations",
+      "type": "related_to"
+    },
+    {
+      "source": "Error Codes",
+      "target": "TCP Connections",
+      "type": "related_to"
+    },
+    {
+      "source": "Error Codes",
+      "target": "SOCKS Protocol",
+      "type": "related_to"
+    },
+    {
+      "source": "Character Encodings",
+      "target": "Network Components",
+      "type": "used_by"
+    },
+    {
+      "source": "Network Components",
+      "target": "Error Codes",
+      "type": "generates"
+    }
+  ],
+  "hierarchy": {
+    "main_topics": [
+      "Error Codes",
+      "Character Encodings"
+    ],
+    "structure": "The document appears to be a log or a reference list. It starts with a series of error codes, followed by an extensive listing of character encoding names and their aliases. It then continues with more error codes, categorized by their likely origin (e.g., socket, TCP, SOCKS). Specific network addresses are also mentioned in context with errors."
+  }
+}

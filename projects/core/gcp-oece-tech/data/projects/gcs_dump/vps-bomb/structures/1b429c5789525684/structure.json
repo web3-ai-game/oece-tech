@@ -1,0 +1,277 @@
+{
+  "propositions": [
+    {
+      "id": "1",
+      "text": "The main theme revolves around the difficulty of quitting \"addiction.\" This addiction is presented as a persistent and challenging habit to break, impacting the protagonist's life and choices.",
+      "level": 1
+    },
+    {
+      "id": "1.1",
+      "text": "The text describes a struggle with addiction, implying a strong hold and resistance to letting go.",
+      "level": 2
+    },
+    {
+      "id": "2",
+      "text": "The protagonist is navigating their life, particularly their academic pursuits and personal relationships, while grappling with this addiction.",
+      "level": 1
+    },
+    {
+      "id": "2.1",
+      "text": "There's an emphasis on studying, attending classes, and the pressures associated with academic life.",
+      "level": 2
+    },
+    {
+      "id": "2.2",
+      "text": "Interactions with friends and the impact of these relationships on the protagonist are a recurring element.",
+      "level": 2
+    },
+    {
+      "id": "3",
+      "text": "The narrative explores the protagonist's internal struggles, including self-reflection, doubts, and the emotional toll of their addiction.",
+      "level": 1
+    },
+    {
+      "id": "3.1",
+      "text": "Moments of contemplation and questioning one's own actions and motivations are present.",
+      "level": 2
+    },
+    {
+      "id": "3.2",
+      "text": "Feelings of confusion and uncertainty about the future and their ability to overcome challenges are depicted.",
+      "level": 2
+    },
+    {
+      "id": "4",
+      "text": "External factors and societal expectations also play a role in the protagonist's life and decisions.",
+      "level": 1
+    },
+    {
+      "id": "4.1",
+      "text": "The influence of technology, specifically mentions of an iPhone, suggests a modern context.",
+      "level": 2
+    },
+    {
+      "id": "4.2",
+      "text": "The story touches upon themes of success, failure, and the broader societal context of achievement.",
+      "level": 2
+    },
+    {
+      "id": "5",
+      "text": "The narrative appears to be a personal account or a fictional story focusing on the protagonist's journey and experiences.",
+      "level": 1
+    },
+    {
+      "id": "5.1",
+      "text": "The text uses \"I\" (implied by the context and personal reflections) to convey the protagonist's perspective.",
+      "level": 2
+    },
+    {
+      "id": "5.2",
+      "text": "The story unfolds through a series of events and observations, detailing the protagonist's life.",
+      "level": 2
+    },
+    {
+      "id": "6",
+      "text": "The concept of \"choosing\" and making decisions is central to the protagonist's arc.",
+      "level": 1
+    },
+    {
+      "id": "6.1",
+      "text": "The protagonist faces choices, and the outcomes of these choices are a significant part of the narrative.",
+      "level": 2
+    },
+    {
+      "id": "6.2",
+      "text": "There's a recurring theme of wanting to change and make better decisions, even when facing difficulties.",
+      "level": 2
+    },
+    {
+      "id": "7",
+      "text": "The story likely involves a process of growth and self-discovery for the protagonist.",
+      "level": 1
+    },
+    {
+      "id": "7.1",
+      "text": "The narrative suggests a journey of learning and understanding oneself better.",
+      "level": 2
+    },
+    {
+      "id": "7.2",
+      "text": "The resolution or progression of the protagonist's addiction and its impact is a key aspect.",
+      "level": 2
+    },
+    {
+      "id": "8",
+      "text": "The title 《宠瘾难戒》 translates to \"Pet Addiction Hard to Quit,\" hinting at the core theme.",
+      "level": 1
+    },
+    {
+      "id": "8.1",
+      "text": "The term \"addiction\" (瘾) is explicitly mentioned and is central to the narrative's conflict.",
+      "level": 2
+    },
+    {
+      "id": "9",
+      "text": "The author's name is 衣衫乱 (Yī Shān Luàn).",
+      "level": 1
+    },
+    {
+      "id": "10",
+      "text": "The protagonist is referred to as \"I\" (implied).",
+      "level": 1
+    },
+    {
+      "id": "11",
+      "text": "The act of \"quitting\" or \"breaking free\" from the addiction is a desired but difficult outcome.",
+      "level": 1
+    },
+    {
+      "id": "12",
+      "text": "The protagonist's struggle involves \"studying\" (学习) and academic life.",
+      "level": 1
+    },
+    {
+      "id": "13",
+      "text": "The narrative explores the protagonist's emotional state, including feelings of \"confusion\" (迷茫) and \"doubt\" (疑惑).",
+      "level": 1
+    },
+    {
+      "id": "14",
+      "text": "The concept of \"choosing\" (选择) and its consequences is a recurring motif.",
+      "level": 1
+    },
+    {
+      "id": "15",
+      "text": "The text implies a context of \"society\" (社会) and its expectations.",
+      "level": 1
+    },
+    {
+      "id": "16",
+      "text": "The phrase \"hard to quit\" (难戒) directly describes the nature of the addiction.",
+      "level": 1
+    }
+  ],
+  "concepts": [
+    {
+      "name": "addiction",
+      "frequency": 5,
+      "context": "Central theme, described as difficult to quit ('宠瘾难戒', '难戒', '戒')"
+    },
+    {
+      "name": "quitting",
+      "frequency": 3,
+      "context": "The desired outcome for the protagonist ('戒', '戒掉', '戒掉')"
+    },
+    {
+      "name": "studying",
+      "frequency": 3,
+      "context": "Part of the protagonist's life, with pressures associated with it ('学习', '功课', '上课')"
+    },
+    {
+      "name": "protagonist",
+      "frequency": 6,
+      "context": "The central character whose experiences are narrated, often implied as 'I'"
+    },
+    {
+      "name": "choices",
+      "frequency": 2,
+      "context": "The decisions the protagonist makes and their consequences ('选择', '决定')"
+    },
+    {
+      "name": "confusion",
+      "frequency": 2,
+      "context": "Emotional state of the protagonist ('迷茫', '疑惑')"
+    },
+    {
+      "name": "society",
+      "frequency": 1,
+      "context": "Implied context of expectations and norms ('社会')"
+    },
+    {
+      "name": "emotions",
+      "frequency": 3,
+      "context": "Various emotional states like doubt, confusion, and reflection are depicted"
+    },
+    {
+      "name": "relationships",
+      "frequency": 2,
+      "context": "Interactions with friends and their impact are mentioned"
+    },
+    {
+      "name": "self-reflection",
+      "frequency": 2,
+      "context": "The protagonist contemplates their actions and motivations"
+    },
+    {
+      "name": "iPhone",
+      "frequency": 1,
+      "context": "Specific mention of technology in the narrative context"
+    }
+  ],
+  "relations": [
+    {
+      "source": "addiction",
+      "target": "quitting",
+      "type": "is_difficult_to"
+    },
+    {
+      "source": "protagonist",
+      "target": "addiction",
+      "type": "experiences"
+    },
+    {
+      "source": "protagonist",
+      "target": "studying",
+      "type": "involved_in"
+    },
+    {
+      "source": "protagonist",
+      "target": "choices",
+      "type": "makes"
+    },
+    {
+      "source": "protagonist",
+      "target": "confusion",
+      "type": "experiences"
+    },
+    {
+      "source": "protagonist",
+      "target": "emotions",
+      "type": "experiences"
+    },
+    {
+      "source": "protagonist",
+      "target": "relationships",
+      "type": "has"
+    },
+    {
+      "source": "protagonist",
+      "target": "self-reflection",
+      "type": "engages_in"
+    },
+    {
+      "source": "protagonist",
+      "target": "society",
+      "type": "influenced_by"
+    },
+    {
+      "source": "iPhone",
+      "target": "protagonist",
+      "type": "uses"
+    },
+    {
+      "source": "addiction",
+      "target": "hard to quit",
+      "type": "is_characterized_by"
+    }
+  ],
+  "hierarchy": {
+    "main_topics": [
+      "The Struggle with Addiction",
+      "Protagonist's Life and Choices",
+      "Internal and External Influences",
+      "Themes of Growth and Self-Discovery"
+    ],
+    "structure": "The document presents a narrative that follows a protagonist's internal and external struggles, primarily centered around overcoming a significant addiction. It appears to be a personal reflection or a fictional account detailing the challenges, choices, and emotional journey involved in breaking free from such a habit, within the context of academic and social life."
+  }
+}

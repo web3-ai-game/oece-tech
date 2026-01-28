@@ -1,0 +1,685 @@
+{
+  "propositions": [
+    {
+      "id": "1",
+      "text": "小雅初到中学",
+      "level": 1
+    },
+    {
+      "id": "1.1",
+      "text": "描述了小雅的穿着打扮",
+      "level": 2
+    },
+    {
+      "id": "1.2",
+      "text": "小雅对新环境的观察和感受",
+      "level": 2
+    },
+    {
+      "id": "2",
+      "text": "小雅融入新环境的过程",
+      "level": 1
+    },
+    {
+      "id": "2.1",
+      "text": "与同学的互动和建立关系",
+      "level": 2
+    },
+    {
+      "id": "2.2",
+      "text": "对老师的态度和感受",
+      "level": 2
+    },
+    {
+      "id": "2.3",
+      "text": "小雅在学习上的努力和进步",
+      "level": 2
+    },
+    {
+      "id": "3",
+      "text": "小雅情感生活的变化",
+      "level": 1
+    },
+    {
+      "id": "3.1",
+      "text": "与异性同学的交往和情感萌动",
+      "level": 2
+    },
+    {
+      "id": "3.2",
+      "text": "经历的喜悦与烦恼",
+      "level": 2
+    },
+    {
+      "id": "4",
+      "text": "小雅的成长与成熟",
+      "level": 1
+    },
+    {
+      "id": "4.1",
+      "text": "对人生和未来的思考",
+      "level": 2
+    },
+    {
+      "id": "4.2",
+      "text": "性格的转变和心智的成熟",
+      "level": 2
+    },
+    {
+      "id": "5",
+      "text": "小雅的家庭背景和亲情",
+      "level": 1
+    },
+    {
+      "id": "5.1",
+      "text": "父母对小雅的影响",
+      "level": 2
+    },
+    {
+      "id": "5.2",
+      "text": "家庭的温暖和支持",
+      "level": 2
+    },
+    {
+      "id": "6",
+      "text": "小雅的友情",
+      "level": 1
+    },
+    {
+      "id": "6.1",
+      "text": "与好朋友的深厚情谊",
+      "level": 2
+    },
+    {
+      "id": "6.2",
+      "text": "经历友情中的考验和成长",
+      "level": 2
+    },
+    {
+      "id": "7",
+      "text": "小雅的学习生活",
+      "level": 1
+    },
+    {
+      "id": "7.1",
+      "text": "在学习中遇到的挑战",
+      "level": 2
+    },
+    {
+      "id": "7.2",
+      "text": "取得的进步和成就",
+      "level": 2
+    },
+    {
+      "id": "8",
+      "text": "小雅的个人爱好和特长",
+      "level": 1
+    },
+    {
+      "id": "8.1",
+      "text": "对某项爱好的投入和发展",
+      "level": 2
+    },
+    {
+      "id": "8.2",
+      "text": "特长为她带来的机会",
+      "level": 2
+    },
+    {
+      "id": "9",
+      "text": "小雅对青春的感悟",
+      "level": 1
+    },
+    {
+      "id": "9.1",
+      "text": "对青春时光的珍惜",
+      "level": 2
+    },
+    {
+      "id": "9.2",
+      "text": "对青春迷茫的探索",
+      "level": 2
+    },
+    {
+      "id": "10",
+      "text": "小雅的梦想和追求",
+      "level": 1
+    },
+    {
+      "id": "10.1",
+      "text": "对未来的规划和目标",
+      "level": 2
+    },
+    {
+      "id": "10.2",
+      "text": "为实现梦想的努力",
+      "level": 2
+    },
+    {
+      "id": "11",
+      "text": "小雅对未来世界的憧憬",
+      "level": 1
+    },
+    {
+      "id": "11.1",
+      "text": "对未知世界的探索欲望",
+      "level": 2
+    },
+    {
+      "id": "11.2",
+      "text": "对美好未来的期盼",
+      "level": 2
+    },
+    {
+      "id": "12",
+      "text": "小雅的性格特点",
+      "level": 1
+    },
+    {
+      "id": "12.1",
+      "text": "内向而敏感",
+      "level": 2
+    },
+    {
+      "id": "12.2",
+      "text": "善良且有责任感",
+      "level": 2
+    },
+    {
+      "id": "13",
+      "text": "小雅的英语学习",
+      "level": 1
+    },
+    {
+      "id": "13.1",
+      "text": "学习过程中的困难和挑战",
+      "level": 2
+    },
+    {
+      "id": "13.2",
+      "text": "取得的成果和进步",
+      "level": 2
+    },
+    {
+      "id": "14",
+      "text": "小雅的青春期烦恼",
+      "level": 1
+    },
+    {
+      "id": "14.1",
+      "text": "关于外貌和身材的困扰",
+      "level": 2
+    },
+    {
+      "id": "14.2",
+      "text": "关于人际关系的焦虑",
+      "level": 2
+    },
+    {
+      "id": "15",
+      "text": "小雅对成长的理解",
+      "level": 1
+    },
+    {
+      "id": "15.1",
+      "text": "成长的痛苦与收获",
+      "level": 2
+    },
+    {
+      "id": "15.2",
+      "text": "对成熟的向往",
+      "level": 2
+    },
+    {
+      "id": "16",
+      "text": "小雅对未来的规划",
+      "level": 1
+    },
+    {
+      "id": "16.1",
+      "text": "选择大学和专业",
+      "level": 2
+    },
+    {
+      "id": "16.2",
+      "text": "对职业生涯的设想",
+      "level": 2
+    },
+    {
+      "id": "17",
+      "text": "小雅的成长经历",
+      "level": 1
+    },
+    {
+      "id": "17.1",
+      "text": "童年回忆",
+      "level": 2
+    },
+    {
+      "id": "17.2",
+      "text": "青春期的迷茫",
+      "level": 2
+    },
+    {
+      "id": "18",
+      "text": "小雅的学习方法",
+      "level": 1
+    },
+    {
+      "id": "18.1",
+      "text": "刻苦努力",
+      "level": 2
+    },
+    {
+      "id": "18.2",
+      "text": "善于思考",
+      "level": 2
+    },
+    {
+      "id": "19",
+      "text": "小雅的感情观",
+      "level": 1
+    },
+    {
+      "id": "19.1",
+      "text": "对爱情的憧憬",
+      "level": 2
+    },
+    {
+      "id": "19.2",
+      "text": "对感情的珍惜",
+      "level": 2
+    },
+    {
+      "id": "20",
+      "text": "小雅对生活的态度",
+      "level": 1
+    },
+    {
+      "id": "20.1",
+      "text": "积极乐观",
+      "level": 2
+    },
+    {
+      "id": "20.2",
+      "text": "感恩生活",
+      "level": 2
+    },
+    {
+      "id": "21",
+      "text": "小雅的梦想",
+      "level": 1
+    },
+    {
+      "id": "21.1",
+      "text": "成为一名优秀的小说家",
+      "level": 2
+    },
+    {
+      "id": "21.2",
+      "text": "实现自我价值",
+      "level": 2
+    },
+    {
+      "id": "22",
+      "text": "小雅的经历",
+      "level": 1
+    },
+    {
+      "id": "22.1",
+      "text": "遇到挫折",
+      "level": 2
+    },
+    {
+      "id": "22.2",
+      "text": "克服困难",
+      "level": 2
+    },
+    {
+      "id": "23",
+      "text": "小雅对青春的感悟",
+      "level": 1
+    },
+    {
+      "id": "23.1",
+      "text": "珍惜青春",
+      "level": 2
+    },
+    {
+      "id": "23.2",
+      "text": "把握时光",
+      "level": 2
+    },
+    {
+      "id": "24",
+      "text": "小雅的童年",
+      "level": 1
+    },
+    {
+      "id": "24.1",
+      "text": "快乐的童年",
+      "level": 2
+    },
+    {
+      "id": "24.2",
+      "text": "美好的回忆",
+      "level": 2
+    },
+    {
+      "id": "25",
+      "text": "小雅的初恋",
+      "level": 1
+    },
+    {
+      "id": "25.1",
+      "text": "初恋的青涩",
+      "level": 2
+    },
+    {
+      "id": "25.2",
+      "text": "初恋的甜蜜",
+      "level": 2
+    },
+    {
+      "id": "26",
+      "text": "小雅的成长",
+      "level": 1
+    },
+    {
+      "id": "26.1",
+      "text": "从懵懂到成熟",
+      "level": 2
+    },
+    {
+      "id": "26.2",
+      "text": "心智的成熟",
+      "level": 2
+    },
+    {
+      "id": "27",
+      "text": "小雅的梦想",
+      "level": 1
+    },
+    {
+      "id": "27.1",
+      "text": "成为作家",
+      "level": 2
+    },
+    {
+      "id": "27.2",
+      "text": "实现价值",
+      "level": 2
+    },
+    {
+      "id": "28",
+      "text": "小雅的爱情观",
+      "level": 1
+    },
+    {
+      "id": "28.1",
+      "text": "珍惜爱情",
+      "level": 2
+    },
+    {
+      "id": "28.2",
+      "text": "追求真爱",
+      "level": 2
+    },
+    {
+      "id": "29",
+      "text": "小雅的友情",
+      "level": 1
+    },
+    {
+      "id": "29.1",
+      "text": "珍视友情",
+      "level": 2
+    },
+    {
+      "id": "29.2",
+      "text": "朋友的帮助",
+      "level": 2
+    },
+    {
+      "id": "30",
+      "text": "小雅的家庭",
+      "level": 1
+    },
+    {
+      "id": "30.1",
+      "text": "父母的关爱",
+      "level": 2
+    },
+    {
+      "id": "30.2",
+      "text": "家庭的温暖",
+      "level": 2
+    },
+    {
+      "id": "31",
+      "text": "小雅对生活的态度",
+      "level": 1
+    },
+    {
+      "id": "31.1",
+      "text": "积极向上",
+      "level": 2
+    },
+    {
+      "id": "31.2",
+      "text": "乐观开朗",
+      "level": 2
+    }
+  ],
+  "concepts": [
+    {
+      "name": "小雅",
+      "frequency": 100,
+      "context": "小说主角"
+    },
+    {
+      "name": "初中",
+      "frequency": 50,
+      "context": "故事发生的背景"
+    },
+    {
+      "name": "友情",
+      "frequency": 40,
+      "context": "小雅与同学的关系"
+    },
+    {
+      "name": "爱情",
+      "frequency": 35,
+      "context": "小雅的情感发展"
+    },
+    {
+      "name": "成长",
+      "frequency": 30,
+      "context": "小雅心智和性格的变化"
+    },
+    {
+      "name": "学习",
+      "frequency": 25,
+      "context": "小雅在学校的生活"
+    },
+    {
+      "name": "家庭",
+      "frequency": 20,
+      "context": "小雅的亲情支持"
+    },
+    {
+      "name": "梦想",
+      "frequency": 15,
+      "context": "小雅对未来的追求"
+    },
+    {
+      "name": "青春",
+      "frequency": 10,
+      "context": "故事的核心主题"
+    },
+    {
+      "name": "老师",
+      "frequency": 8,
+      "context": "小雅在学校的引导者"
+    },
+    {
+      "name": "同学",
+      "frequency": 12,
+      "context": "小雅的社交圈"
+    },
+    {
+      "name": "父母",
+      "frequency": 10,
+      "context": "小雅的家庭成员"
+    },
+    {
+      "name": "英语",
+      "frequency": 7,
+      "context": "小雅的学习科目"
+    },
+    {
+      "name": "小说",
+      "frequency": 5,
+      "context": "小雅的爱好和职业目标"
+    },
+    {
+      "name": "未来",
+      "frequency": 6,
+      "context": "小雅对人生方向的思考"
+    },
+    {
+      "name": "性格",
+      "frequency": 4,
+      "context": "小雅的内在特质"
+    },
+    {
+      "name": "生活",
+      "frequency": 3,
+      "context": "小雅对世界的看法"
+    },
+    {
+      "name": "回忆",
+      "frequency": 2,
+      "context": "小雅对过去的追溯"
+    }
+  ],
+  "relations": [
+    {
+      "source": "小雅",
+      "target": "初中",
+      "type": "attends"
+    },
+    {
+      "source": "小雅",
+      "target": "友情",
+      "type": "experiences"
+    },
+    {
+      "source": "小雅",
+      "target": "爱情",
+      "type": "experiences"
+    },
+    {
+      "source": "小雅",
+      "target": "成长",
+      "type": "undergoes"
+    },
+    {
+      "source": "小雅",
+      "target": "学习",
+      "type": "involved_in"
+    },
+    {
+      "source": "小雅",
+      "target": "家庭",
+      "type": "has_support_from"
+    },
+    {
+      "source": "小雅",
+      "target": "梦想",
+      "type": "pursues"
+    },
+    {
+      "source": "小雅",
+      "target": "青春",
+      "type": "lives_through"
+    },
+    {
+      "source": "小雅",
+      "target": "老师",
+      "type": "interacts_with"
+    },
+    {
+      "source": "小雅",
+      "target": "同学",
+      "type": "interacts_with"
+    },
+    {
+      "source": "小雅",
+      "target": "父母",
+      "type": "is_related_to"
+    },
+    {
+      "source": "小雅",
+      "target": "英语",
+      "type": "studies"
+    },
+    {
+      "source": "小雅",
+      "target": "小说",
+      "type": "aspires_to_write"
+    },
+    {
+      "source": "小雅",
+      "target": "未来",
+      "type": "contemplates"
+    },
+    {
+      "source": "小雅",
+      "target": "性格",
+      "type": "has"
+    },
+    {
+      "source": "小雅",
+      "target": "生活",
+      "type": "views"
+    },
+    {
+      "source": "小雅",
+      "target": "回忆",
+      "type": "has"
+    }
+  ],
+  "hierarchy": {
+    "main_topics": [
+      "小雅初到中学",
+      "小雅融入新环境",
+      "小雅情感生活变化",
+      "小雅成长与成熟",
+      "小雅的家庭背景",
+      "小雅的友情",
+      "小雅的学习生活",
+      "小雅的个人爱好",
+      "小雅对青春的感悟",
+      "小雅的梦想",
+      "小雅对未来世界的憧憬",
+      "小雅的性格特点",
+      "小雅的英语学习",
+      "小雅的青春期烦恼",
+      "小雅对成长的理解",
+      "小雅对未来的规划",
+      "小雅的成长经历",
+      "小雅的学习方法",
+      "小雅的爱情观",
+      "小雅对生活的态度",
+      "小雅的童年",
+      "小雅的初恋",
+      "小雅的成长",
+      "小雅的爱情观",
+      "小雅的友情",
+      "小雅的家庭",
+      "小雅对生活的态度"
+    ],
+    "structure": "The document appears to be a narrative novel centered around a character named Xiao Ya. It follows her journey through middle school, focusing on her social interactions, emotional development, personal growth, and aspirations. The structure is chronological, depicting key stages of her adolescence and early adulthood."
+  }
+}

@@ -1,0 +1,687 @@
+{
+  "propositions": [
+    {
+      "id": "1",
+      "text": "安东尼·凯德代表佳色游览团。",
+      "level": 1
+    },
+    {
+      "id": "1.1",
+      "text": "他急需现款。",
+      "level": 2
+    },
+    {
+      "id": "1.2",
+      "text": "这份工作与他的性情不合。",
+      "level": 2
+    },
+    {
+      "id": "2",
+      "text": "吉米·麦克格拉认为安东尼·凯德有捣乱的天性。",
+      "level": 1
+    },
+    {
+      "id": "2.1",
+      "text": "他认为安东尼·凯德有猫一样的九条命，不怕死。",
+      "level": 2
+    },
+    {
+      "id": "3",
+      "text": "安东尼·凯德被要求带团参观罗德基会。",
+      "level": 1
+    },
+    {
+      "id": "4",
+      "text": "泰勒小姐询问安东尼·凯德关于他朋友名字的由来。",
+      "level": 1
+    },
+    {
+      "id": "4.1",
+      "text": "朋友称呼安东尼·凯德为“君子·周”。",
+      "level": 2
+    },
+    {
+      "id": "5",
+      "text": "安东尼·凯德的职责包括旅行安排、安抚游客、促成购物以及与年轻女客人打情骂俏。",
+      "level": 1
+    },
+    {
+      "id": "6",
+      "text": "安东尼·凯德讲述了他与吉米·麦克格拉的第一次见面经历。",
+      "level": 1
+    },
+    {
+      "id": "6.1",
+      "text": "吉米·麦克格拉当时被人绑着，准备被食人部落煮食。",
+      "level": 2
+    },
+    {
+      "id": "6.2",
+      "text": "安东尼·凯德出手相救，打死了几个土人。",
+      "level": 2
+    },
+    {
+      "id": "7",
+      "text": "吉米·麦克格拉邀请安东尼·凯德晚上喝酒谈话。",
+      "level": 1
+    },
+    {
+      "id": "8",
+      "text": "吉米·麦克格拉有一个新的工作机会，但自己不喜欢，想让给安东尼·凯德。",
+      "level": 1
+    },
+    {
+      "id": "8.1",
+      "text": "这份工作不在南非，而在英国。",
+      "level": 2
+    },
+    {
+      "id": "8.2",
+      "text": "安东尼·凯德对革命活动很感兴趣。",
+      "level": 2
+    },
+    {
+      "id": "9",
+      "text": "吉米·麦克格拉打算去非洲内地淘金。",
+      "level": 1
+    },
+    {
+      "id": "10",
+      "text": "安东尼·凯德表示他自己的爱好是争斗，而吉米·麦克格拉的爱好是金矿。",
+      "level": 1
+    },
+    {
+      "id": "11",
+      "text": "吉米·麦克格拉提起赫索斯拉夫。",
+      "level": 1
+    },
+    {
+      "id": "11.1",
+      "text": "安东尼·凯德对赫索斯拉夫有一定的了解。",
+      "level": 2
+    },
+    {
+      "id": "11.2",
+      "text": "赫索斯拉夫是一个巴尔干半岛国家，首都埃喀瑞斯特，居民主要是土匪。",
+      "level": 3
+    },
+    {
+      "id": "11.3",
+      "text": "赫索斯拉夫的居民爱好暗杀国王和闹革命。",
+      "level": 3
+    },
+    {
+      "id": "11.4",
+      "text": "最后一位国王尼古拉四世约七年前遭暗杀，之后变成了共和国。",
+      "level": 3
+    },
+    {
+      "id": "11.5",
+      "text": "赫索斯拉夫是一个可能发动革命的地方。",
+      "level": 3
+    },
+    {
+      "id": "12",
+      "text": "安东尼·凯德批评吉米·麦克格拉对赫索斯拉夫的了解不足。",
+      "level": 1
+    },
+    {
+      "id": "13",
+      "text": "吉米·麦克格拉提到了斯提普提奇伯爵。",
+      "level": 1
+    },
+    {
+      "id": "13.1",
+      "text": "斯提普提奇伯爵是巴尔干半岛的大人物，当代伟大的政治家。",
+      "level": 2
+    },
+    {
+      "id": "13.2",
+      "text": "他是独裁者、爱国者和政治家，一个阴谋大王。",
+      "level": 2
+    },
+    {
+      "id": "13.3",
+      "text": "斯提普提奇伯爵曾是赫索斯拉夫的首相。",
+      "level": 2
+    },
+    {
+      "id": "13.4",
+      "text": "斯提普提奇伯爵约两个月前死于巴黎。",
+      "level": 2
+    },
+    {
+      "id": "14",
+      "text": "吉米·麦克格拉讲述了自己拯救斯提普提奇伯爵的经历。",
+      "level": 1
+    },
+    {
+      "id": "14.1",
+      "text": "在巴黎，吉米·麦克格拉阻止了五个法国流氓殴打一位身份显赫的老先生。",
+      "level": 2
+    },
+    {
+      "id": "14.2",
+      "text": "老先生就是斯提普提奇伯爵，他非常感激，并邀请吉米到他位于波伊斯河边的房子。",
+      "level": 2
+    },
+    {
+      "id": "15",
+      "text": "安东尼·凯德描述了尼古拉四世的婚姻和赫索斯拉夫的革命。",
+      "level": 1
+    },
+    {
+      "id": "15.1",
+      "text": "尼古拉四世娶了一位巴黎的杂耍剧场潦倒艺人。",
+      "level": 2
+    },
+    {
+      "id": "15.2",
+      "text": "她被称作波帕夫斯基女伯爵，并拥有沙皇罗曼诺夫的血统。",
+      "level": 2
+    },
+    {
+      "id": "15.3",
+      "text": "婚礼后，她加冕为法拉佳皇后。",
+      "level": 2
+    },
+    {
+      "id": "15.4",
+      "text": "赫索斯拉夫的老百姓不满国王和皇后不够“货真价实”，引发暴动。",
+      "level": 2
+    },
+    {
+      "id": "15.5",
+      "text": "国王和皇后被杀，赫索斯拉夫宣布成立共和国。",
+      "level": 2
+    },
+    {
+      "id": "15.6",
+      "text": "之后，共和国仍然有变乱，暗杀了一两个总统。",
+      "level": 2
+    },
+    {
+      "id": "16",
+      "text": "吉米·麦克格拉收到了斯提普提奇伯爵的包裹。",
+      "level": 1
+    },
+    {
+      "id": "16.1",
+      "text": "包裹是一份斯提普提奇伯爵的自传或回忆录。",
+      "level": 2
+    },
+    {
+      "id": "16.2",
+      "text": "附带的短信表示，如果将文稿在十月十三日或以前送到伦敦的出版公司，会得到一千倍的报酬。",
+      "level": 2
+    },
+    {
+      "id": "16.3",
+      "text": "吉米·麦克格拉急需用钱，但无法耽搁去非洲内陆淘金的计划。",
+      "level": 2
+    },
+    {
+      "id": "17",
+      "text": "安东尼·凯德同意替吉米·麦克格拉收取一千镑酬劳，并要求四分之一的好处。",
+      "level": 1
+    },
+    {
+      "id": "17.1",
+      "text": "安东尼·凯德计划将这笔钱投资到赫索斯拉夫的油矿股份。",
+      "level": 2
+    },
+    {
+      "id": "18",
+      "text": "安东尼·凯德将代替吉米·麦克格拉乘坐“格兰纳堡号”前往英国。",
+      "level": 1
+    },
+    {
+      "id": "19",
+      "text": "安东尼·凯德认为将斯提普提奇的包裹从法国经由非洲送到英国的用意不明。",
+      "level": 1
+    },
+    {
+      "id": "20",
+      "text": "吉米·麦克格拉没有看斯提普提奇的回忆录文稿。",
+      "level": 1
+    },
+    {
+      "id": "21",
+      "text": "安东尼·凯德认为回忆录可能会引起麻烦。",
+      "level": 1
+    },
+    {
+      "id": "22",
+      "text": "吉米·麦克格拉回忆起斯提普提奇曾说过知道“寇邱诺钻石”的下落。",
+      "level": 1
+    },
+    {
+      "id": "23",
+      "text": "斯提普提奇提到追击他的流氓是维克脱王的手下。",
+      "level": 1
+    },
+    {
+      "id": "23.1",
+      "text": "维克脱王是巴黎一个有名的绰号，指一个令人难以置信的、胆大包天的珠宝贼。",
+      "level": 2
+    },
+    {
+      "id": "23.2",
+      "text": "维克脱王不久将出狱。",
+      "level": 2
+    },
+    {
+      "id": "24",
+      "text": "安东尼·凯德认为赫索斯拉夫最近引起了人们的兴趣，特别是希伯来人和都市的金融家。",
+      "level": 1
+    },
+    {
+      "id": "24.1",
+      "text": "赫索斯拉夫可能发现了油矿。",
+      "level": 2
+    },
+    {
+      "id": "25",
+      "text": "安东尼·凯德计划到赫索斯拉夫去，与共和党人合伙，可能成为总统。",
+      "level": 1
+    },
+    {
+      "id": "26",
+      "text": "吉米·麦克格拉有一个额外的任务：帮助一位女士。",
+      "level": 1
+    },
+    {
+      "id": "26.1",
+      "text": "这个任务与达其·帕卓有关，一个南欧人。",
+      "level": 2
+    },
+    {
+      "id": "26.2",
+      "text": "吉米·麦克格拉在乌干达救过达其·帕卓的命。",
+      "level": 2
+    },
+    {
+      "id": "26.3",
+      "text": "达其·帕卓临死前，把一个油布小包交给吉米·麦克格拉。",
+      "level": 2
+    },
+    {
+      "id": "26.4",
+      "text": "小包里是一束英国女人的信，达其·帕卓曾以此勒索她。",
+      "level": 2
+    },
+    {
+      "id": "26.5",
+      "text": "吉米·麦克格拉无法找到收信人的地址，只知道一个名字“维吉尼亚·瑞福”和一个地方“烟囱大厦”。",
+      "level": 2
+    },
+    {
+      "id": "27",
+      "text": "安东尼·凯德同意亲自将信件交给维吉尼亚·瑞福。",
+      "level": 1
+    },
+    {
+      "id": "28",
+      "text": "贾德汉侯爵不喜欢乔治·罗麦克斯的滔滔不绝。",
+      "level": 1
+    },
+    {
+      "id": "28.1",
+      "text": "贾德汉侯爵的前任兄长是一位显赫的人物，曾任外务大臣。",
+      "level": 2
+    },
+    {
+      "id": "28.2",
+      "text": "前任侯爵的乡下府邸“烟囱大厦”是英国显要和欧洲显要聚会的地方。",
+      "level": 2
+    },
+    {
+      "id": "29",
+      "text": "乔治·罗麦克斯认为赫索斯拉夫事件的情势非常难以应付。",
+      "level": 1
+    },
+    {
+      "id": "30",
+      "text": "罗麦克斯强调油矿开采权应授予一个美国公司。",
+      "level": 1
+    },
+    {
+      "id": "31",
+      "text": "迈可·奥保罗维其王本周末将到，事情可能在打猎的掩饰之下完成。",
+      "level": 1
+    },
+    {
+      "id": "32",
+      "text": "罗麦克斯认为应该邀请比尔·爱佛斯雷来传递消息。",
+      "level": 1
+    },
+    {
+      "id": "33",
+      "text": "罗麦克斯提到赫曼·埃沙斯坦，一个银行团的代表。",
+      "level": 1
+    },
+    {
+      "id": "34",
+      "text": "罗麦克斯担心斯提普提奇伯爵的回忆录出版会搞砸一切。",
+      "level": 1
+    },
+    {
+      "id": "34.1",
+      "text": "回忆录可能揭露奥保罗维其王族的残暴和不正当措施。",
+      "level": 2
+    },
+    {
+      "id": "34.2",
+      "text": "回忆录可能提到在“烟囱大厦”发生的一个不幸的失踪事件。",
+      "level": 2
+    },
+    {
+      "id": "35",
+      "text": "斯提普提奇伯爵知道一些关于那个失踪事件的事情。",
+      "level": 1
+    },
+    {
+      "id": "36",
+      "text": "斯提普提奇伯爵的回忆录文稿被寄给了一个名叫吉米·麦克格拉的加拿大人。",
+      "level": 1
+    },
+    {
+      "id": "37",
+      "text": "吉米·麦克格拉明天（星期四）将乘坐“格兰纳堡号”到达。",
+      "level": 1
+    },
+    {
+      "id": "38",
+      "text": "罗麦克斯计划找到吉米·麦克格拉，指出严重后果，并恳求他延缓出版回忆录。",
+      "level": 1
+    },
+    {
+      "id": "39",
+      "text": "罗麦克斯建议邀请维吉尼亚·瑞福女士来处理此事，认为她处理事情会更微妙、圆滑。",
+      "level": 1
+    },
+    {
+      "id": "39.1",
+      "text": "维吉尼亚·瑞福的丈夫曾在赫索斯拉夫的大使馆工作。",
+      "level": 2
+    },
+    {
+      "id": "39.2",
+      "text": "维吉尼亚·瑞福对赫索斯拉夫的事情很熟悉，并且有极大的影响力。",
+      "level": 2
+    },
+    {
+      "id": "40",
+      "text": "贾德汉侯爵同意维吉尼亚·瑞福的建议。",
+      "level": 1
+    }
+  ],
+  "concepts": [
+    {
+      "name": "安东尼·凯德",
+      "frequency": 33,
+      "context": "主角之一，佳色游览团的导游，急需现款，对革命活动感兴趣，计划前往赫索斯拉夫。"
+    },
+    {
+      "name": "吉米·麦克格拉",
+      "frequency": 27,
+      "context": "安东尼·凯德的朋友，有淘金的爱好，从斯提普提奇伯爵处得到一份回忆录，并委托安东尼·凯德处理。"
+    },
+    {
+      "name": "赫索斯拉夫",
+      "frequency": 16,
+      "context": "一个巴尔干半岛国家，经历过革命，可能发现油矿，是故事的重要背景。"
+    },
+    {
+      "name": "斯提普提奇伯爵",
+      "frequency": 16,
+      "context": "巴尔干半岛的政治家，赫索斯拉夫的前首相，死后留下回忆录，与失踪事件和维克脱王有关。"
+    },
+    {
+      "name": "烟囱大厦",
+      "frequency": 7,
+      "context": "贾德汉侯爵的乡下府邸，曾是英国显要的聚会场所，与失踪事件有关。"
+    },
+    {
+      "name": "维吉尼亚·瑞福",
+      "frequency": 6,
+      "context": "一个有影响力的女士，丈夫曾在赫索斯拉夫工作，被建议处理斯提普提奇的回忆录事件。"
+    },
+    {
+      "name": "泰勒小姐",
+      "frequency": 6,
+      "context": "佳色游览团的团员，年轻，对安东尼·凯德有好感，经常问问题。"
+    },
+    {
+      "name": "乔治·罗麦克斯",
+      "frequency": 10,
+      "context": "一个政治人物，担心赫索斯拉夫事件，提议邀请维吉尼亚·瑞福处理回忆录事件。"
+    },
+    {
+      "name": "尼古拉四世",
+      "frequency": 3,
+      "context": "赫索斯拉夫的最后一位国王，被暗杀，其婚姻导致了革命。"
+    },
+    {
+      "name": "维克脱王",
+      "frequency": 3,
+      "context": "巴黎一个恶名昭著的珠宝贼，其手下曾追击斯提普提奇伯爵。"
+    },
+    {
+      "name": "回忆录",
+      "frequency": 7,
+      "context": "斯提普提奇伯爵的遗作，可能包含爆炸性信息，是故事的关键线索。"
+    },
+    {
+      "name": "油矿",
+      "frequency": 4,
+      "context": "在赫索斯拉夫发现的矿产，是政治和金融势力争夺的目标。"
+    },
+    {
+      "name": "佳色游览团",
+      "frequency": 4,
+      "context": "由安东尼·凯德带领的旅行团，为故事的开端提供背景。"
+    },
+    {
+      "name": "革命",
+      "frequency": 4,
+      "context": "赫索斯拉夫的政治背景，也是安东尼·凯德感兴趣的领域。"
+    },
+    {
+      "name": "君子·周",
+      "frequency": 2,
+      "context": "泰勒小姐称呼安东尼·凯德的名字，但安东尼·凯德的真名是安东尼。"
+    },
+    {
+      "name": "格兰纳堡号",
+      "frequency": 2,
+      "context": "吉米·麦克格拉和安东尼·凯德将乘坐的船只。"
+    },
+    {
+      "name": "达其·帕卓",
+      "frequency": 3,
+      "context": "一个南欧人，被吉米·麦克格拉救过命，留下了一束勒索信。"
+    },
+    {
+      "name": "贾德汉侯爵",
+      "frequency": 7,
+      "context": "烟囱大厦的现任主人，不喜政治，但最终同意了罗麦克斯的计划。"
+    },
+    {
+      "name": "迈可·奥保罗维其王",
+      "frequency": 3,
+      "context": "可能在赫索斯拉夫复辟的王位继承人。"
+    },
+    {
+      "name": "比尔·爱佛斯雷",
+      "frequency": 2,
+      "context": "被提议邀请参加聚会，用于传递消息。"
+    },
+    {
+      "name": "赫曼·埃沙斯坦",
+      "frequency": 2,
+      "context": "代表银行团的人物，与油矿开采权有关。"
+    }
+  ],
+  "relations": [
+    {
+      "source": "安东尼·凯德",
+      "target": "吉米·麦克格拉",
+      "type": "friend"
+    },
+    {
+      "source": "吉米·麦克格拉",
+      "target": "斯提普提奇伯爵",
+      "type": "acquaintance (rescued)"
+    },
+    {
+      "source": "斯提普提奇伯爵",
+      "target": "赫索斯拉夫",
+      "type": "former_prime_minister_of"
+    },
+    {
+      "source": "赫索斯拉夫",
+      "target": "革命",
+      "type": "underwent"
+    },
+    {
+      "source": "安东尼·凯德",
+      "target": "革命",
+      "type": "interested_in"
+    },
+    {
+      "source": "安东尼·凯德",
+      "target": "赫索斯拉夫",
+      "type": "plans_to_go_to"
+    },
+    {
+      "source": "吉米·麦克格拉",
+      "target": "回忆录",
+      "type": "received"
+    },
+    {
+      "source": "回忆录",
+      "target": "斯提普提奇伯爵",
+      "type": "written_by"
+    },
+    {
+      "source": "回忆录",
+      "target": "伦敦出版公司",
+      "type": "to_be_delivered_to"
+    },
+    {
+      "source": "安东尼·凯德",
+      "target": "一千镑",
+      "type": "to_collect"
+    },
+    {
+      "source": "维吉尼亚·瑞福",
+      "target": "烟囱大厦",
+      "type": "associated_with"
+    },
+    {
+      "source": "烟囱大厦",
+      "target": "贾德汉侯爵",
+      "type": "owned_by"
+    },
+    {
+      "source": "乔治·罗麦克斯",
+      "target": "维吉尼亚·瑞福",
+      "type": "suggested_to_involve"
+    },
+    {
+      "source": "乔治·罗麦克斯",
+      "target": "斯提普提奇伯爵",
+      "type": "worried_about_memoirs_of"
+    },
+    {
+      "source": "斯提普提奇伯爵",
+      "target": "失踪事件",
+      "type": "knows_about"
+    },
+    {
+      "source": "失踪事件",
+      "target": "烟囱大厦",
+      "type": "occurred_at"
+    },
+    {
+      "source": "吉米·麦克格拉",
+      "target": "维吉尼亚·瑞福",
+      "type": "to_deliver_letters_to"
+    },
+    {
+      "source": "维吉尼亚·瑞福",
+      "target": "赫索斯拉夫",
+      "type": "familiar_with"
+    },
+    {
+      "source": "赫索斯拉夫",
+      "target": "油矿",
+      "type": "potential_discovery_of"
+    },
+    {
+      "source": "迈可·奥保罗维其王",
+      "target": "赫索斯拉夫",
+      "type": "potential_restoration_to"
+    },
+    {
+      "source": "吉米·麦克格拉",
+      "target": "淘金",
+      "type": "plans_to"
+    },
+    {
+      "source": "尼古拉四世",
+      "target": "法拉佳皇后",
+      "type": "married_to"
+    },
+    {
+      "source": "法拉佳皇后",
+      "target": "巴黎杂耍剧场艺人",
+      "type": "was_a"
+    },
+    {
+      "source": "维克脱王",
+      "target": "珠宝贼",
+      "type": "is_a"
+    },
+    {
+      "source": "维克脱王",
+      "target": "斯提普提奇伯爵",
+      "type": "pursuers_of"
+    },
+    {
+      "source": "吉米·麦克格拉",
+      "target": "达其·帕卓",
+      "type": "rescued"
+    },
+    {
+      "source": "达其·帕卓",
+      "target": "勒索信",
+      "type": "left_behind"
+    },
+    {
+      "source": "安东尼·凯德",
+      "target": "佳色游览团",
+      "type": "guide_for"
+    },
+    {
+      "source": "泰勒小姐",
+      "target": "安东尼·凯德",
+      "type": "inquires_about"
+    },
+    {
+      "source": "君子·周",
+      "target": "安东尼·凯德",
+      "type": "nickname_for"
+    }
+  ],
+  "hierarchy": {
+    "main_topics": [
+      "Characters and their introductions",
+      "Plot Development and Secrets",
+      "Political Intrigue and International Relations",
+      "Mysteries and Investigations"
+    ],
+    "structure": "The document is structured into chapters. Chapter 1 introduces the main characters and sets up the initial plot points, including the mysterious mission involving the memoirs and the personal motivations of the characters. Chapter 2 delves deeper into the mystery of the memoirs, the potential political ramifications of events in Hapsoslav, and introduces a secondary plotline involving letters. Chapter 3 shifts focus to the political machinations surrounding the Hapsoslav situation, highlighting the concerns of British elites and the potential role of specific individuals and locations in resolving the unfolding crisis."
+  }
+}

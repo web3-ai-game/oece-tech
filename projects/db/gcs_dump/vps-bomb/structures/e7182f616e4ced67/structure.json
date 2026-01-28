@@ -1,0 +1,598 @@
+{
+  "propositions": [
+    {
+      "id": "1",
+      "text": "午夜凶铃3：《永生不死》",
+      "level": 1
+    },
+    {
+      "id": "1.1",
+      "text": "序章",
+      "level": 2
+    },
+    {
+      "id": "1.1.1",
+      "text": "1. 轮回",
+      "level": 3
+    },
+    {
+      "id": "1.1.2",
+      "text": "2. 觉醒",
+      "level": 3
+    },
+    {
+      "id": "1.1.3",
+      "text": "3. 诅咒",
+      "level": 3
+    },
+    {
+      "id": "1.2",
+      "text": "第一章：命运之轮",
+      "level": 2
+    },
+    {
+      "id": "1.2.1",
+      "text": "1.1. 少女的恐惧",
+      "level": 3
+    },
+    {
+      "id": "1.2.2",
+      "text": "1.2. 破碎的记忆",
+      "level": 3
+    },
+    {
+      "id": "1.2.3",
+      "text": "1.3. 潜藏的真相",
+      "level": 3
+    },
+    {
+      "id": "1.2.4",
+      "text": "1.4. 力量的萌芽",
+      "level": 3
+    },
+    {
+      "id": "1.2.5",
+      "text": "1.5. 恶灵的低语",
+      "level": 3
+    },
+    {
+      "id": "1.3",
+      "text": "第二章：诅咒的蔓延",
+      "level": 2
+    },
+    {
+      "id": "1.3.1",
+      "text": "2.1. 死亡的阴影",
+      "level": 3
+    },
+    {
+      "id": "1.3.2",
+      "text": "2.2. 绝望的呼唤",
+      "level": 3
+    },
+    {
+      "id": "1.3.3",
+      "text": "2.3. 绝境中的反击",
+      "level": 3
+    },
+    {
+      "id": "1.3.4",
+      "text": "2.4. 诅咒的源头",
+      "level": 3
+    },
+    {
+      "id": "1.3.5",
+      "text": "2.5. 牺牲的代价",
+      "level": 3
+    },
+    {
+      "id": "1.4",
+      "text": "第三章：永生不死",
+      "level": 2
+    },
+    {
+      "id": "1.4.1",
+      "text": "3.1. 破灭的希望",
+      "level": 3
+    },
+    {
+      "id": "1.4.2",
+      "text": "3.2. 宿命的对决",
+      "level": 3
+    },
+    {
+      "id": "1.4.3",
+      "text": "3.3. 永恒的轮回",
+      "level": 3
+    },
+    {
+      "id": "1.4.4",
+      "text": "3.4. 不灭的怨念",
+      "level": 3
+    },
+    {
+      "id": "1.4.5",
+      "text": "3.5. 新生的恐惧",
+      "level": 3
+    },
+    {
+      "id": "1.5",
+      "text": "尾声",
+      "level": 2
+    },
+    {
+      "id": "1.5.1",
+      "text": "1. 终结的开始",
+      "level": 3
+    },
+    {
+      "id": "1.5.2",
+      "text": "2. 寂静的午夜",
+      "level": 3
+    },
+    {
+      "id": "2",
+      "text": "有些恐惧，一旦开始，便永无止息。",
+      "level": 1
+    },
+    {
+      "id": "3",
+      "text": "妈妈！快看！好漂亮的姐姐！",
+      "level": 1
+    },
+    {
+      "id": "4",
+      "text": "屏幕上，一个穿着白色连衣裙的女人正缓缓地从井里爬出来。",
+      "level": 1
+    },
+    {
+      "id": "5",
+      "text": "别看了！快睡觉！",
+      "level": 1
+    },
+    {
+      "id": "6",
+      "text": "女人爬出了电视，她的眼神空洞而冰冷。",
+      "level": 1
+    },
+    {
+      "id": "7",
+      "text": "小男孩感到一股寒意从脚底升起，他想尖叫，却发不出任何声音。",
+      "level": 1
+    },
+    {
+      "id": "8",
+      "text": "女人的嘴角缓缓咧开，露出了一个诡异的笑容。",
+      "level": 1
+    },
+    {
+      "id": "9",
+      "text": "探索的开始",
+      "level": 1
+    },
+    {
+      "id": "10",
+      "text": "根据录像分析，受害者死于极度的恐惧，但身体上没有发现任何伤痕。",
+      "level": 1
+    },
+    {
+      "id": "11",
+      "text": "这已经是我们接手的第三起离奇死亡案件了。",
+      "level": 1
+    },
+    {
+      "id": "12",
+      "text": "死者都与一段神秘的录像有关。",
+      "level": 1
+    },
+    {
+      "id": "13",
+      "text": "这究竟是什么录像？谁在背后操控这一切？",
+      "level": 1
+    },
+    {
+      "id": "14",
+      "text": "录像的秘密",
+      "level": 1
+    },
+    {
+      "id": "15",
+      "text": "叮铃铃……",
+      "level": 1
+    },
+    {
+      "id": "16",
+      "text": "电话铃声在空荡的房间里响起，打破了死寂。",
+      "level": 1
+    },
+    {
+      "id": "17",
+      "text": "一位年轻的记者，小雅，接起了电话。",
+      "level": 1
+    },
+    {
+      "id": "18",
+      "text": "喂？哪位？",
+      "level": 1
+    },
+    {
+      "id": "19",
+      "text": "电话那头传来一个沙哑而阴森的声音：七天，你只有七天。",
+      "level": 1
+    },
+    {
+      "id": "20",
+      "text": "你是谁？",
+      "level": 1
+    },
+    {
+      "id": "21",
+      "text": "救救我……",
+      "level": 1
+    },
+    {
+      "id": "22",
+      "text": "电话挂断了，只留下一串诡异的笑声。",
+      "level": 1
+    },
+    {
+      "id": "23",
+      "text": "小雅心中涌起一股不安，她隐约觉得，这通电话与最近发生的离奇死亡案件有关。",
+      "level": 1
+    },
+    {
+      "id": "24",
+      "text": "每一次轮回，都是一次绝望的呐喊。",
+      "level": 1
+    },
+    {
+      "id": "25",
+      "text": "诅咒的真相",
+      "level": 1
+    },
+    {
+      "id": "26",
+      "text": "小雅开始调查这段神秘的录像。",
+      "level": 1
+    },
+    {
+      "id": "27",
+      "text": "她走访了许多人，搜集了各种线索。",
+      "level": 1
+    },
+    {
+      "id": "28",
+      "text": "她发现，这段录像源自一个名叫“贞子”的女人。",
+      "level": 1
+    },
+    {
+      "id": "29",
+      "text": "贞子生前遭受了巨大的痛苦和不公，死后化为恶灵，通过录像传播诅咒，将看到录像的人带入地狱。",
+      "level": 1
+    },
+    {
+      "id": "30",
+      "text": "贞子的力量源于她的怨念，每一次死亡，她的怨念都会更加深重，诅咒也会更加强大。",
+      "level": 1
+    },
+    {
+      "id": "31",
+      "text": "她来自深渊，带着无尽的怨恨。",
+      "level": 1
+    },
+    {
+      "id": "32",
+      "text": "永生不死",
+      "level": 1
+    },
+    {
+      "id": "33",
+      "text": "小雅了解到，要打破贞子的诅咒，必须找到她的母亲，并解开她身上的谜团。",
+      "level": 1
+    },
+    {
+      "id": "34",
+      "text": "经过一番艰辛的调查，小雅终于找到了贞子的母亲。",
+      "level": 1
+    },
+    {
+      "id": "35",
+      "text": "你为什么要把她变成这样？",
+      "level": 1
+    },
+    {
+      "id": "36",
+      "text": "我……我没有选择。",
+      "level": 1
+    },
+    {
+      "id": "37",
+      "text": "原来，贞子的母亲为了获得永生，与恶魔做了交易，将自己的女儿变成了贞子。",
+      "level": 1
+    },
+    {
+      "id": "38",
+      "text": "为了永生，她牺牲了自己最珍贵的亲人。",
+      "level": 1
+    },
+    {
+      "id": "39",
+      "text": "绝望的对决",
+      "level": 1
+    },
+    {
+      "id": "40",
+      "text": "小雅决定与贞子进行最后的对决。",
+      "level": 1
+    },
+    {
+      "id": "41",
+      "text": "她找到了贞子诅咒的破解之法，但代价是巨大的。",
+      "level": 1
+    },
+    {
+      "id": "42",
+      "text": "你这是在做什么？",
+      "level": 1
+    },
+    {
+      "id": "43",
+      "text": "我要结束这一切！",
+      "level": 1
+    },
+    {
+      "id": "44",
+      "text": "小雅毫不畏惧地说道。",
+      "level": 1
+    },
+    {
+      "id": "45",
+      "text": "两人展开了殊死搏斗。",
+      "level": 1
+    },
+    {
+      "id": "46",
+      "text": "贞子的力量强大而恐怖，但小雅凭借着坚定的信念和勇气，与贞子周旋。",
+      "level": 1
+    },
+    {
+      "id": "47",
+      "text": "最终，小雅成功地打破了贞子的诅咒，但她也付出了生命的代价。",
+      "level": 1
+    },
+    {
+      "id": "48",
+      "text": "终结的开始",
+      "level": 1
+    },
+    {
+      "id": "49",
+      "text": "警官，又一起案件被解开了。",
+      "level": 1
+    },
+    {
+      "id": "50",
+      "text": "小雅的同事看着她留下的资料，眼中闪烁着复杂的情绪。",
+      "level": 1
+    },
+    {
+      "id": "51",
+      "text": "她牺牲了自己，换来了大家的平安。",
+      "level": 1
+    },
+    {
+      "id": "52",
+      "text": "但贞子的诅咒真的消失了吗？",
+      "level": 1
+    },
+    {
+      "id": "53",
+      "text": "也许，有些恐惧，只会以另一种方式，永恒地存在着。",
+      "level": 1
+    },
+    {
+      "id": "54",
+      "text": "寂静的午夜",
+      "level": 1
+    },
+    {
+      "id": "55",
+      "text": "城市重新归于平静，但人们心中挥之不去的恐惧，却如影随形。",
+      "level": 1
+    },
+    {
+      "id": "56",
+      "text": "午夜的钟声敲响，空荡的房间里，电话铃声再次响起。",
+      "level": 1
+    },
+    {
+      "id": "57",
+      "text": "七天，你只有七天。",
+      "level": 1
+    },
+    {
+      "id": "58",
+      "text": "一个新的生命，即将被卷入无尽的轮回。",
+      "level": 1
+    }
+  ],
+  "concepts": [
+    {
+      "name": "午夜凶铃",
+      "frequency": 2,
+      "context": "Title of the document and implied context of the story."
+    },
+    {
+      "name": "永生不死",
+      "frequency": 3,
+      "context": "Title of the document, a key theme in the story related to the mother's deal."
+    },
+    {
+      "name": "轮回",
+      "frequency": 3,
+      "context": "Appears in chapter titles and as a concept of cyclical suffering."
+    },
+    {
+      "name": "诅咒",
+      "frequency": 4,
+      "context": "A central element of the story, spread by the video and贞子."
+    },
+    {
+      "name": "贞子",
+      "frequency": 5,
+      "context": "The antagonist, a vengeful spirit from the videotape."
+    },
+    {
+      "name": "录像",
+      "frequency": 4,
+      "context": "The medium through which the curse is spread."
+    },
+    {
+      "name": "恐惧",
+      "frequency": 4,
+      "context": "A primary emotion experienced by victims and a theme of the story."
+    },
+    {
+      "name": "恶灵",
+      "frequency": 1,
+      "context": "Describing贞子 after her death."
+    },
+    {
+      "name": "怨念",
+      "frequency": 2,
+      "context": "The source of贞子's power."
+    },
+    {
+      "name": "母亲",
+      "frequency": 2,
+      "context": "贞子's mother, involved in the deal for immortality."
+    },
+    {
+      "name": "小雅",
+      "frequency": 4,
+      "context": "The protagonist journalist who investigates the curse."
+    },
+    {
+      "name": "交易",
+      "frequency": 1,
+      "context": "The deal made by贞子's mother with a demon."
+    },
+    {
+      "name": "记者",
+      "frequency": 1,
+      "context": "小雅's profession."
+    },
+    {
+      "name": "死亡",
+      "frequency": 2,
+      "context": "The consequence of watching the videotape."
+    },
+    {
+      "name": "真相",
+      "frequency": 1,
+      "context": "What小雅 seeks to uncover about the curse."
+    },
+    {
+      "name": "牺牲",
+      "frequency": 2,
+      "context": "The price paid by贞子's mother and小雅."
+    },
+    {
+      "name": "对决",
+      "frequency": 2,
+      "context": "The confrontation between小雅 and贞子."
+    },
+    {
+      "name": "警察",
+      "frequency": 1,
+      "context": "Investigating the mysterious deaths."
+    }
+  ],
+  "relations": [
+    {
+      "source": "午夜凶铃",
+      "target": "录像",
+      "type": "associated_with"
+    },
+    {
+      "source": "贞子",
+      "target": "录像",
+      "type": "appears_in"
+    },
+    {
+      "source": "贞子",
+      "target": "诅咒",
+      "type": "causes"
+    },
+    {
+      "source": "诅咒",
+      "target": "死亡",
+      "type": "leads_to"
+    },
+    {
+      "source": "录像",
+      "target": "恐惧",
+      "type": "induces"
+    },
+    {
+      "source": "小雅",
+      "target": "调查",
+      "type": "performs"
+    },
+    {
+      "source": "小雅",
+      "target": "贞子",
+      "type": "confronts"
+    },
+    {
+      "source": "贞子",
+      "target": "怨念",
+      "type": "fueled_by"
+    },
+    {
+      "source": "母亲",
+      "target": "永生不死",
+      "type": "desires"
+    },
+    {
+      "source": "母亲",
+      "target": "交易",
+      "type": "involved_in"
+    },
+    {
+      "source": "交易",
+      "target": "贞子",
+      "type": "creates"
+    },
+    {
+      "source": "小雅",
+      "target": "牺牲",
+      "type": "makes"
+    },
+    {
+      "source": "轮回",
+      "target": "恐惧",
+      "type": "associated_with"
+    },
+    {
+      "source": "贞子",
+      "target": "母亲",
+      "type": "is_daughter_of"
+    },
+    {
+      "source": "永生不死",
+      "target": "交易",
+      "type": "achieved_through"
+    }
+  ],
+  "hierarchy": {
+    "main_topics": [
+      "序章",
+      "第一章：命运之轮",
+      "第二章：诅咒的蔓延",
+      "第三章：永生不死",
+      "尾声"
+    ],
+    "structure": "The document is structured as a narrative, divided into a prologue, three main chapters, and an epilogue. Each chapter and the prologue/epilogue are further broken down into numbered sections, creating a hierarchical progression of plot points and themes. Quotations are interspersed as thematic statements."
+  }
+}

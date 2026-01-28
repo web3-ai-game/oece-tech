@@ -1,0 +1,612 @@
+{
+  "propositions": [
+    {
+      "id": "1",
+      "text": "Arthur Cargrove arrives at the ferry crossing, having delayed his unavoidable task.",
+      "level": 1
+    },
+    {
+      "id": "1.1",
+      "text": "He spent time with friends at 'The Red Quay' and accepted an invitation for tea, delaying his departure.",
+      "level": 2
+    },
+    {
+      "id": "1.2",
+      "text": "He eventually accepts that he can no longer postpone what he has to do.",
+      "level": 2
+    },
+    {
+      "id": "2",
+      "text": "Cargrove crosses the river and reflects on the contrast between the desolate landscape and nearby amenities.",
+      "level": 1
+    },
+    {
+      "id": "2.1",
+      "text": "He feels a sense of isolation, yet acknowledges the proximity of civilization.",
+      "level": 2
+    },
+    {
+      "id": "3",
+      "text": "Cargrove's ferry ride is marked by an encounter with the ferryman and his own internal reflections on his impending task.",
+      "level": 1
+    },
+    {
+      "id": "3.1",
+      "text": "The ferryman observes Cargrove with curiosity, noting his unusual crossing time and lack of luggage.",
+      "level": 2
+    },
+    {
+      "id": "3.2",
+      "text": "Cargrove mentally revisits a conversation from the previous day, recalling a man's unsettling words about his resolute course of action.",
+      "level": 2
+    },
+    {
+      "id": "3.3",
+      "text": "The conversation revolved around the dilemma of acting justly while also considering family, and the importance of doing what one feels compelled to do.",
+      "level": 3
+    },
+    {
+      "id": "3.4",
+      "text": "Cargrove feels the gravity of his impending action, describing it as 'crossing the Rubicon'.",
+      "level": 2
+    },
+    {
+      "id": "4",
+      "text": "Upon reaching the other side, Cargrove inquires about a house named 'Sunny Cape' and learns its local name, 'Adders' Bluff'.",
+      "level": 1
+    },
+    {
+      "id": "4.1",
+      "text": "The ferryman reveals that 'Sunny Cape' was named by Mrs. Argyll, but the location was originally known as 'Adders' Bluff'.",
+      "level": 2
+    },
+    {
+      "id": "5",
+      "text": "Cargrove walks towards 'Sunny Cape', feeling observed and a sense of dread associated with the name 'Adders' Bluff'.",
+      "level": 1
+    },
+    {
+      "id": "6",
+      "text": "He reaches the house, described as a well-built but uninspired modern dwelling, contrasting with the magnificent surrounding landscape.",
+      "level": 1
+    },
+    {
+      "id": "6.1",
+      "text": "Cargrove internally critiques the house's lack of imagination compared to the potential for a castle.",
+      "level": 2
+    },
+    {
+      "id": "7",
+      "text": "Cargrove rings the doorbell, and the door is unexpectedly opened by Hester Argyll.",
+      "level": 1
+    },
+    {
+      "id": "7.1",
+      "text": "He is startled by her appearance, which he perceives as having a tragic essence.",
+      "level": 2
+    },
+    {
+      "id": "7.2",
+      "text": "Hester is initially hostile and asks his purpose.",
+      "level": 2
+    },
+    {
+      "id": "8",
+      "text": "Cargrove asks for Mr. Argyll, and Hester states he is not seeing visitors.",
+      "level": 1
+    },
+    {
+      "id": "8.1",
+      "text": "Hester identifies herself as Hester Argyll and insists on a written appointment.",
+      "level": 2
+    },
+    {
+      "id": "9",
+      "text": "Cargrove reveals he has a letter from Mr. Marshall, which causes Hester to react with surprise and apprehension.",
+      "level": 1
+    },
+    {
+      "id": "10",
+      "text": "A stern-faced housekeeper, described as resembling a nun, joins Hester and eyes Cargrove suspiciously.",
+      "level": 1
+    },
+    {
+      "id": "10.1",
+      "text": "She questions if Mr. Marshall sent him.",
+      "level": 2
+    },
+    {
+      "id": "11",
+      "text": "Hester takes the letter and rushes upstairs, and Cargrove is left with the housekeeper's suspicious gaze.",
+      "level": 1
+    },
+    {
+      "id": "12",
+      "text": "Hester returns with a message from her father, inviting Cargrove upstairs.",
+      "level": 1
+    },
+    {
+      "id": "13",
+      "text": "Cargrove is led by Hester to Leo Argyll's study, which he finds to be a comfortable and masculine space.",
+      "level": 1
+    },
+    {
+      "id": "14",
+      "text": "He briefly sees another young woman, Gwendoline Fern, before being greeted by Leo Argyll.",
+      "level": 1
+    },
+    {
+      "id": "15",
+      "text": "Leo Argyll, a seemingly ethereal man, acknowledges Cargrove's visit, referencing Mr. Marshall's letter.",
+      "level": 1
+    },
+    {
+      "id": "15.1",
+      "text": "Argyll describes himself as a man content in his seclusion.",
+      "level": 2
+    },
+    {
+      "id": "16",
+      "text": "Cargrove struggles to articulate his purpose, referring to his visit as 'difficult'.",
+      "level": 1
+    },
+    {
+      "id": "17",
+      "text": "Leo Argyll assumes Cargrove's visit is related to his son, Jack, and suggests that Jack was not entirely responsible for his actions due to his mental state.",
+      "level": 1
+    },
+    {
+      "id": "18",
+      "text": "Hester interjects, describing Jack as volatile and uncontrollable.",
+      "level": 1
+    },
+    {
+      "id": "19",
+      "text": "Leo Argyll attempts to steer the conversation towards viewing Jack as a patient, a child of nature ill-adapted to his environment.",
+      "level": 1
+    },
+    {
+      "id": "20",
+      "text": "Cargrove emphatically disagrees, stating 'No!', and then apologizes, explaining that they do not yet understand.",
+      "level": 1
+    },
+    {
+      "id": "21",
+      "text": "Leo Argyll asks Hester to leave, but she insists on staying.",
+      "level": 1
+    },
+    {
+      "id": "22",
+      "text": "Cargrove clarifies that the issue is not about Jack doing something, but the opposite.",
+      "level": 1
+    },
+    {
+      "id": "23",
+      "text": "Gwendoline Fern returns, preparing to leave, and Leo introduces her as his secretary.",
+      "level": 1
+    },
+    {
+      "id": "24",
+      "text": "Cargrove states he is there to tell them something and that they are making it difficult for him.",
+      "level": 1
+    },
+    {
+      "id": "24.1",
+      "text": "He notices an understanding in Gwendoline's eyes, feeling a sense of alliance with her.",
+      "level": 2
+    },
+    {
+      "id": "25",
+      "text": "Cargrove explains his background as a geophysicist returning from an Antarctic expedition, having been out of touch with current events for two years.",
+      "level": 1
+    },
+    {
+      "id": "26",
+      "text": "Gwendoline helps clarify that he means events like murder trials.",
+      "level": 1
+    },
+    {
+      "id": "27",
+      "text": "Cargrove recounts the details of Mrs. Argyll's murder, Jack's arrest, the discovery of the stolen money, and his subsequent conviction for murder.",
+      "level": 1
+    },
+    {
+      "id": "27.1",
+      "text": "He highlights Jack's protestations of innocence and his alibi involving a ride with an unknown man in a dark car.",
+      "level": 2
+    },
+    {
+      "id": "27.2",
+      "text": "He mentions the defense's attempt to prove Jack's mental instability, which was unfavorably received by the judge.",
+      "level": 3
+    },
+    {
+      "id": "27.3",
+      "text": "Jack was sentenced to life imprisonment and died in prison six months later.",
+      "level": 3
+    },
+    {
+      "id": "28",
+      "text": "Cargrove seeks confirmation of the facts from Leo Argyll.",
+      "level": 1
+    },
+    {
+      "id": "29",
+      "text": "Leo Argyll confirms the facts but questions the necessity of rehashing painful memories.",
+      "level": 1
+    },
+    {
+      "id": "30",
+      "text": "Cargrove asserts that Jack is innocent.",
+      "level": 1
+    },
+    {
+      "id": "31",
+      "text": "Cargrove reveals that he was the man driving the car that gave Jack a ride.",
+      "level": 1
+    },
+    {
+      "id": "32",
+      "text": "Kirsty Linstrum, the housekeeper, bursts in, having overheard the conversation and demanding an explanation.",
+      "level": 1
+    },
+    {
+      "id": "33",
+      "text": "Cargrove recounts his journey on November 9th, driving to 'Drymouth', visiting an old nurse, and then heading north to see Canon Peasmarch.",
+      "level": 1
+    },
+    {
+      "id": "33.1",
+      "text": "He explains that he then drove back to 'Drymouth' via the main road, completing a triangular route.",
+      "level": 2
+    },
+    {
+      "id": "34",
+      "text": "He details the accident where he was hit by a van, causing him to lose several hours of memory.",
+      "level": 1
+    },
+    {
+      "id": "35",
+      "text": "Cargrove discovered the truth about Jack's case about a month prior to his visit, when he saw Jack's photo in old newspapers.",
+      "level": 1
+    },
+    {
+      "id": "35.1",
+      "text": "He realized he had given Jack a ride and that the accident had caused him to forget this crucial event.",
+      "level": 2
+    },
+    {
+      "id": "36",
+      "text": "He explains his subsequent actions: reviewing newspaper archives, contacting Marshall's law firm, and now informing the Argyll family.",
+      "level": 1
+    },
+    {
+      "id": "37",
+      "text": "Cargrove acknowledges their potential resentment but emphasizes his moral obligation to reveal the truth.",
+      "level": 1
+    },
+    {
+      "id": "38",
+      "text": "Gwendoline Fern expresses understanding and compassion towards Cargrove.",
+      "level": 1
+    },
+    {
+      "id": "39",
+      "text": "Hester questions if the police believe Cargrove and why he didn't come forward sooner.",
+      "level": 1
+    },
+    {
+      "id": "40",
+      "text": "Cargrove explains his credibility as a witness and the thorough investigation into his account.",
+      "level": 1
+    },
+    {
+      "id": "41",
+      "text": "Leo Argyll inquires about the meaning of 'success'.",
+      "level": 1
+    },
+    {
+      "id": "42",
+      "text": "Cargrove clarifies that justice for Jack is coming, possibly through a royal pardon or parliamentary discussion.",
+      "level": 1
+    },
+    {
+      "id": "43",
+      "text": "Hester laughs, finding the concept of a pardon for something Jack didn't do absurd.",
+      "level": 1
+    },
+    {
+      "id": "44",
+      "text": "Cargrove expresses his regret and sorrow, stating that while he cannot change the past, clearing Jack's name brings a form of closure.",
+      "level": 1
+    },
+    {
+      "id": "45",
+      "text": "Gwendoline Fern takes charge, advising Cargrove to leave as the family needs time to process the information.",
+      "level": 1
+    },
+    {
+      "id": "46",
+      "text": "Kirsty Linstrum accompanies Cargrove out, expressing her frustration and love for the family, but also her belief that Jack was 'not good'.",
+      "level": 1
+    },
+    {
+      "id": "47",
+      "text": "Hester intercepts Cargrove at the door, questioning his motives for coming and expressing her distress.",
+      "level": 1
+    },
+    {
+      "id": "47.1",
+      "text": "She states that the focus should be on the living, not the innocent dead, and that his revelation has disrupted their lives.",
+      "level": 2
+    },
+    {
+      "id": "48",
+      "text": "Inside, Hester discusses the news with Kirsty, who criticizes the lack of prior notification and the suddenness of the revelation.",
+      "level": 1
+    },
+    {
+      "id": "49",
+      "text": "Hester admits she is unsure of her feelings and that the news is unsettling.",
+      "level": 1
+    },
+    {
+      "id": "50",
+      "text": "Leo Argyll contacts his daughter Mary and son Michael to inform them of the developments.",
+      "level": 1
+    },
+    {
+      "id": "51",
+      "text": "Hester calls Donald, her intended escort for the evening, to cancel their plans, expressing her distress and asking him to keep the news confidential.",
+      "level": 1
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Arthur Cargrove",
+      "frequency": 31,
+      "context": "The protagonist who arrives to reveal new information about a past crime."
+    },
+    {
+      "name": "Jack Argyll",
+      "frequency": 17,
+      "context": "The deceased son of Leo and Mrs. Argyll, convicted of murder."
+    },
+    {
+      "name": "Leo Argyll",
+      "frequency": 13,
+      "context": "The father of Jack, Hester, and Michael, and husband of the deceased Mrs. Argyll."
+    },
+    {
+      "name": "Hester Argyll",
+      "frequency": 12,
+      "context": "The daughter of Leo Argyll, who is initially hostile and later distressed by the news."
+    },
+    {
+      "name": "Gwendoline Fern",
+      "frequency": 7,
+      "context": "Leo Argyll's secretary, who shows understanding and compassion towards Cargrove."
+    },
+    {
+      "name": "Kirsty Linstrum",
+      "frequency": 6,
+      "context": "The housekeeper at 'Sunny Cape', who expresses strong opinions and loyalty to the family."
+    },
+    {
+      "name": "Mrs. Argyll",
+      "frequency": 5,
+      "context": "Leo Argyll's deceased wife, murdered prior to the events of the story."
+    },
+    {
+      "name": "Mr. Marshall",
+      "frequency": 3,
+      "context": "A lawyer who sent a letter to Leo Argyll, leading to Cargrove's visit."
+    },
+    {
+      "name": "Drymouth",
+      "frequency": 4,
+      "context": "A location relevant to the investigation, where Jack was apprehended and Cargrove drove him."
+    },
+    {
+      "name": "Red Quay",
+      "frequency": 3,
+      "context": "A place where Cargrove met friends before his ferry journey."
+    },
+    {
+      "name": "Adders' Bluff",
+      "frequency": 3,
+      "context": "The original and local name for the house 'Sunny Cape'."
+    },
+    {
+      "name": "Sunny Cape",
+      "frequency": 3,
+      "context": "The name of the Argyll family house."
+    },
+    {
+      "name": "Murder",
+      "frequency": 4,
+      "context": "The crime for which Jack Argyll was convicted."
+    },
+    {
+      "name": "Innocence",
+      "frequency": 5,
+      "context": "The state of being free from guilt, central to Cargrove's revelation."
+    },
+    {
+      "name": "Memory Loss",
+      "frequency": 2,
+      "context": "Cargrove's condition after an accident, which caused him to forget key events."
+    },
+    {
+      "name": "Alibi",
+      "frequency": 2,
+      "context": "Jack Argyll's claimed whereabouts at the time of the murder."
+    },
+    {
+      "name": "Justice",
+      "frequency": 2,
+      "context": "The concept of fairness and rectifying wrongs."
+    },
+    {
+      "name": "Doubt",
+      "frequency": 1,
+      "context": "The uncertainty and suspicion that arises from Cargrove's revelation."
+    },
+    {
+      "name": "Consequences",
+      "frequency": 1,
+      "context": "The repercussions of Cargrove's actions on the Argyll family."
+    },
+    {
+      "name": "Truth",
+      "frequency": 2,
+      "context": "The ultimate goal of Cargrove's disclosure."
+    }
+  ],
+  "relations": [
+    {
+      "source": "Arthur Cargrove",
+      "target": "Unavoidable Task",
+      "type": "faces"
+    },
+    {
+      "source": "Arthur Cargrove",
+      "target": "Ferryman",
+      "type": "interacts_with"
+    },
+    {
+      "source": "Arthur Cargrove",
+      "target": "Hester Argyll",
+      "type": "interacts_with"
+    },
+    {
+      "source": "Arthur Cargrove",
+      "target": "Leo Argyll",
+      "type": "interacts_with"
+    },
+    {
+      "source": "Arthur Cargrove",
+      "target": "Gwendoline Fern",
+      "type": "interacts_with"
+    },
+    {
+      "source": "Arthur Cargrove",
+      "target": "Kirsty Linstrum",
+      "type": "interacts_with"
+    },
+    {
+      "source": "Arthur Cargrove",
+      "target": "Jack Argyll",
+      "type": "establishes_innocence_of"
+    },
+    {
+      "source": "Arthur Cargrove",
+      "target": "Memory Loss",
+      "type": "experiences"
+    },
+    {
+      "source": "Arthur Cargrove",
+      "target": "Mr. Marshall",
+      "type": "receives_letter_from"
+    },
+    {
+      "source": "Jack Argyll",
+      "target": "Mrs. Argyll",
+      "type": "accused_of_murdering"
+    },
+    {
+      "source": "Jack Argyll",
+      "target": "Alibi",
+      "type": "claims"
+    },
+    {
+      "source": "Jack Argyll",
+      "target": "Conviction",
+      "type": "receives"
+    },
+    {
+      "source": "Jack Argyll",
+      "target": "Death in Prison",
+      "type": "experiences"
+    },
+    {
+      "source": "Leo Argyll",
+      "target": "Jack Argyll",
+      "type": "father_of"
+    },
+    {
+      "source": "Leo Argyll",
+      "target": "Hester Argyll",
+      "type": "father_of"
+    },
+    {
+      "source": "Leo Argyll",
+      "target": "Mrs. Argyll",
+      "type": "husband_of"
+    },
+    {
+      "source": "Leo Argyll",
+      "target": "Truth",
+      "type": "receives"
+    },
+    {
+      "source": "Hester Argyll",
+      "target": "Arthur Cargrove",
+      "type": "reacts_with_distress_to"
+    },
+    {
+      "source": "Hester Argyll",
+      "target": "Jack Argyll",
+      "type": "sister_of"
+    },
+    {
+      "source": "Gwendoline Fern",
+      "target": "Arthur Cargrove",
+      "type": "offers_understanding_to"
+    },
+    {
+      "source": "Kirsty Linstrum",
+      "target": "Argyll Family",
+      "type": "loyal_to"
+    },
+    {
+      "source": "Kirsty Linstrum",
+      "target": "Jack Argyll",
+      "type": "believes_was_not_good"
+    },
+    {
+      "source": "Murder",
+      "target": "Mrs. Argyll",
+      "type": "victim_of"
+    },
+    {
+      "source": "Conviction",
+      "target": "Jack Argyll",
+      "type": "applies_to"
+    },
+    {
+      "source": "Innocence",
+      "target": "Jack Argyll",
+      "type": "proven_for"
+    },
+    {
+      "source": "Doubt",
+      "target": "Arthur Cargrove's Testimony",
+      "type": "raised_by"
+    },
+    {
+      "source": "Adders' Bluff",
+      "target": "Sunny Cape",
+      "type": "is_local_name_of"
+    }
+  ],
+  "hierarchy": {
+    "main_topics": [
+      "The Arrival and Purpose of Arthur Cargrove",
+      "The Revelation of Jack Argyll's Innocence",
+      "The Family's Reaction and Consequences",
+      "The Investigation and Corroboration of Truth"
+    ],
+    "structure": "The document is structured as a narrative that unfolds through dialogue and internal monologue. It begins with Cargrove's journey and internal conflict, moves to his arrival at the Argyll residence and the presentation of evidence, and culminates in the family's reaction and the subsequent planning for further action."
+  }
+}

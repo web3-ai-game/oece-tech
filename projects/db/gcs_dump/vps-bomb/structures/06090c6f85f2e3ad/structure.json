@@ -1,0 +1,198 @@
+{
+  "propositions": [
+    {
+      "id": "1",
+      "text": "The protagonist is a modern woman who is reborn.",
+      "level": 1
+    },
+    {
+      "id": "1.1",
+      "text": "Her name is Jing Nian.",
+      "level": 2
+    },
+    {
+      "id": "1.2",
+      "text": "She is reborn into her younger self.",
+      "level": 2
+    },
+    {
+      "id": "2",
+      "text": "The story details her life after rebirth.",
+      "level": 1
+    },
+    {
+      "id": "2.1",
+      "text": "She attends high school.",
+      "level": 2
+    },
+    {
+      "id": "2.2",
+      "text": "She encounters new challenges and opportunities.",
+      "level": 2
+    },
+    {
+      "id": "3",
+      "text": "Key characters and relationships are explored.",
+      "level": 1
+    },
+    {
+      "id": "3.1",
+      "text": "A significant male character plays a role in her life.",
+      "level": 2
+    },
+    {
+      "id": "3.2",
+      "text": "Her relationships with family and friends are important.",
+      "level": 2
+    },
+    {
+      "id": "4",
+      "text": "The narrative focuses on personal growth and decision-making.",
+      "level": 1
+    },
+    {
+      "id": "4.1",
+      "text": "She learns from her past experiences.",
+      "level": 2
+    },
+    {
+      "id": "4.2",
+      "text": "She makes choices that shape her future.",
+      "level": 2
+    },
+    {
+      "id": "5",
+      "text": "Themes of love, regret, and second chances are present.",
+      "level": 1
+    },
+    {
+      "id": "5.1",
+      "text": "She seeks happiness and fulfillment.",
+      "level": 2
+    },
+    {
+      "id": "5.2",
+      "text": "The story explores the consequences of past actions and present choices.",
+      "level": 2
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Rebirth",
+      "frequency": 10,
+      "context": "The core premise of the story, involving the protagonist returning to her past."
+    },
+    {
+      "name": "Protagonist",
+      "frequency": 8,
+      "context": "The central character, Jing Nian."
+    },
+    {
+      "name": "High School",
+      "frequency": 5,
+      "context": "The setting for a significant portion of the narrative."
+    },
+    {
+      "name": "Relationships",
+      "frequency": 6,
+      "context": "Interactions with other characters, including romantic and familial."
+    },
+    {
+      "name": "Personal Growth",
+      "frequency": 4,
+      "context": "The protagonist's development and learning from her experiences."
+    },
+    {
+      "name": "Decision-making",
+      "frequency": 4,
+      "context": "The choices the protagonist makes and their impact."
+    },
+    {
+      "name": "Love",
+      "frequency": 3,
+      "context": "A prominent theme in the story."
+    },
+    {
+      "name": "Regret",
+      "frequency": 2,
+      "context": "The acknowledgment of past mistakes and their potential consequences."
+    },
+    {
+      "name": "Second Chances",
+      "frequency": 2,
+      "context": "The opportunity to redo past events and make different choices."
+    },
+    {
+      "name": "Past Experiences",
+      "frequency": 3,
+      "context": "The knowledge gained from the protagonist's previous life."
+    },
+    {
+      "name": "Future",
+      "frequency": 2,
+      "context": "The outcome shaped by the protagonist's present actions."
+    }
+  ],
+  "relations": [
+    {
+      "source": "Rebirth",
+      "target": "Protagonist",
+      "type": "applies_to"
+    },
+    {
+      "source": "Protagonist",
+      "target": "High School",
+      "type": "is_set_in"
+    },
+    {
+      "source": "Protagonist",
+      "target": "Relationships",
+      "type": "features"
+    },
+    {
+      "source": "Protagonist",
+      "target": "Personal Growth",
+      "type": "undergoes"
+    },
+    {
+      "source": "Protagonist",
+      "target": "Decision-making",
+      "type": "performs"
+    },
+    {
+      "source": "Rebirth",
+      "target": "Second Chances",
+      "type": "implies"
+    },
+    {
+      "source": "Past Experiences",
+      "target": "Decision-making",
+      "type": "informs"
+    },
+    {
+      "source": "Decision-making",
+      "target": "Future",
+      "type": "shapes"
+    },
+    {
+      "source": "Protagonist",
+      "target": "Love",
+      "type": "experiences"
+    },
+    {
+      "source": "Protagonist",
+      "target": "Regret",
+      "type": "deals_with"
+    }
+  ],
+  "hierarchy": {
+    "main_topics": [
+      "Rebirth and Protagonist",
+      "Life in High School",
+      "Character Relationships",
+      "Personal Development and Choices",
+      "Thematic Exploration"
+    ],
+    "structure": "The document is structured around the protagonist's rebirth and subsequent experiences, detailing her life in high school, relationships, personal growth, and the overarching themes of the narrative."
+  }
+}

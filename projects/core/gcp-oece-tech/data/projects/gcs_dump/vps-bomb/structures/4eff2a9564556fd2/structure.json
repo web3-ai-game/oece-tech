@@ -1,0 +1,342 @@
+{
+  "propositions": [
+    {
+      "id": "1",
+      "text": "This document is a narrative about the Asylum family and their interconnected lives, focusing on Miss Beatrice, who has been managing the family estate 'Ratchetts'.",
+      "level": 1
+    },
+    {
+      "id": "1.1",
+      "text": "The narrative primarily unfolds through dialogue and internal monologues, revealing character relationships, past events, and the general state of affairs.",
+      "level": 2
+    },
+    {
+      "id": "2",
+      "text": "Chapter 1 introduces the Asylum family during a meal, highlighting the contrasting personalities of the twin sisters, Jenny and Ruth, and the thoughtful nature of their older brother, Simon.",
+      "level": 1
+    },
+    {
+      "id": "2.1",
+      "text": "Miss Beatrice reflects on her stewardship of the Ratchett estate and the upcoming coming-of-age ceremony for Simon.",
+      "level": 2
+    },
+    {
+      "id": "2.2",
+      "text": "The chapter contrasts the disciplined upbringing of the Asylum children with the carefree nature of their deceased parents, Bill and Nora, and the pragmatic approach to managing the estate through horse breeding.",
+      "level": 2
+    },
+    {
+      "id": "2.3",
+      "text": "The narrative introduces the concept of 'Ratchetts' as a self-sufficient and enduring family estate, contrasted with the flamboyant and ultimately unsuccessful Lydnham family and their estate, 'Carlyle'.",
+      "level": 2
+    },
+    {
+      "id": "3",
+      "text": "Chapter 2 begins with a conversation between Miss Beatrice and Mrs. Nancy Peck (née Lydnham), the vicar's wife.",
+      "level": 1
+    },
+    {
+      "id": "3.1",
+      "text": "Their conversation reveals Nancy's past as a celebrated beauty and her surprising marriage to the vicar, George Peck.",
+      "level": 2
+    },
+    {
+      "id": "3.2",
+      "text": "They discuss family matters, including the upcoming coming-of-age ceremony and the whereabouts of Nancy's brother, Eric.",
+      "level": 2
+    },
+    {
+      "id": "3.3",
+      "text": "A significant portion of their discussion revolves around lost or deceased family members, particularly Bill and Nora Asylum, and the tragic disappearance of Bert, Simon and Ruth's older brother, whose body was found later.",
+      "level": 2
+    },
+    {
+      "id": "4",
+      "text": "Chapter 3 appears to be a near-duplicate of Chapter 2, describing the same morning scene with Miss Beatrice, Simon, and the subsequent arrival of Mrs. Peck.",
+      "level": 1
+    },
+    {
+      "id": "4.1",
+      "text": "The dialogue and events mirror those in Chapter 2, suggesting a potential structural issue or repetition in the document.",
+      "level": 2
+    },
+    {
+      "id": "5",
+      "text": "Chapter 4 shifts focus to a young man named 'Boleigh' (likely a misinterpretation or variation of 'Borris' or 'Boyer' based on context) in London.",
+      "level": 1
+    },
+    {
+      "id": "5.1",
+      "text": "He reflects on a striking encounter with a man named Eric Lydnham who looks remarkably like him.",
+      "level": 2
+    },
+    {
+      "id": "5.2",
+      "text": "The narrative delves into Boleigh's past as an orphan, his difficult early life, his struggles with his identity, and his eventual journey from an office job to working on a ship, adopting the surname 'Fara'.",
+      "level": 2
+    },
+    {
+      "id": "5.3",
+      "text": "This chapter establishes a parallel life story, hinting at a connection between Boleigh/Fara and the Asylum family, particularly the mention of Simon and the Lydnham family.",
+      "level": 2
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Miss Beatrice",
+      "frequency": 16,
+      "context": "The central figure managing the Asylum family estate, 'Ratchetts'."
+    },
+    {
+      "name": "Simon",
+      "frequency": 11,
+      "context": "Miss Beatrice's nephew, who is approaching his coming-of-age and inheritance."
+    },
+    {
+      "name": "Jenny",
+      "frequency": 7,
+      "context": "One of the twin sisters, characterized as messy and spirited."
+    },
+    {
+      "name": "Ruth",
+      "frequency": 7,
+      "context": "The other twin sister, characterized as tidier and more observant."
+    },
+    {
+      "name": "Ratchetts",
+      "frequency": 6,
+      "context": "The Asylum family estate, presented as a stable and enduring property."
+    },
+    {
+      "name": "Lydnham family",
+      "frequency": 5,
+      "context": "A family contrasted with the Asylums, known for their past flamboyance and current decline."
+    },
+    {
+      "name": "Nancy Peck (née Lydnham)",
+      "frequency": 5,
+      "context": "The former beauty, now vicar's wife, who reminisces about her past and family."
+    },
+    {
+      "name": "Bill and Nora Asylum",
+      "frequency": 4,
+      "context": "The deceased parents of Simon, Jenny, and Ruth, whose deaths were a plane crash."
+    },
+    {
+      "name": "Bert",
+      "frequency": 3,
+      "context": "A deceased brother of Simon, Jenny, and Ruth, whose loss is a somber memory."
+    },
+    {
+      "name": "Eric Lydnham",
+      "frequency": 3,
+      "context": "Nancy's brother, an actor with a limited career, who encounters Boleigh."
+    },
+    {
+      "name": "Boleigh/Fara",
+      "frequency": 3,
+      "context": "An orphan who has a striking resemblance to Simon and has adopted the surname Fara."
+    },
+    {
+      "name": "Coming-of-age ceremony",
+      "frequency": 3,
+      "context": "An important event for Simon, signifying his transition to adulthood and inheritance."
+    },
+    {
+      "name": "Horse breeding",
+      "frequency": 3,
+      "context": "The economic activity that sustains the Ratchetts estate, inherited from Bill Asylum."
+    },
+    {
+      "name": "Carlyle",
+      "frequency": 2,
+      "context": "The Lydnham family estate, now a school."
+    },
+    {
+      "name": "Orphanage",
+      "frequency": 2,
+      "context": "Boleigh's childhood home, where he was well-cared for but felt out of place."
+    },
+    {
+      "name": "Ward",
+      "frequency": 2,
+      "context": "A distant cousin of the Asylums, described as a ne'er-do-well."
+    },
+    {
+      "name": "George Peck",
+      "frequency": 2,
+      "context": "Nancy's husband, the vicar, described with minor character flaws."
+    },
+    {
+      "name": "Bert's body",
+      "frequency": 1,
+      "context": "The discovered remains of Bert, leading to a discussion about proper burial."
+    }
+  ],
+  "relations": [
+    {
+      "source": "Miss Beatrice",
+      "target": "Ratchetts",
+      "type": "manages"
+    },
+    {
+      "source": "Simon",
+      "target": "Miss Beatrice",
+      "type": "nephew"
+    },
+    {
+      "source": "Simon",
+      "target": "Coming-of-age ceremony",
+      "type": "subject of"
+    },
+    {
+      "source": "Jenny",
+      "target": "Miss Beatrice",
+      "type": "niece"
+    },
+    {
+      "source": "Ruth",
+      "target": "Miss Beatrice",
+      "type": "niece"
+    },
+    {
+      "source": "Jenny",
+      "target": "Simon",
+      "type": "sibling"
+    },
+    {
+      "source": "Ruth",
+      "target": "Simon",
+      "type": "sibling"
+    },
+    {
+      "source": "Jenny",
+      "target": "Ruth",
+      "type": "twin"
+    },
+    {
+      "source": "Bill and Nora Asylum",
+      "target": "Simon",
+      "type": "parents"
+    },
+    {
+      "source": "Bill and Nora Asylum",
+      "target": "Jenny",
+      "type": "parents"
+    },
+    {
+      "source": "Bill and Nora Asylum",
+      "target": "Ruth",
+      "type": "parents"
+    },
+    {
+      "source": "Bill and Nora Asylum",
+      "target": "Bert",
+      "type": "parents"
+    },
+    {
+      "source": "Bill and Nora Asylum",
+      "target": "Ratchetts",
+      "type": "former owners"
+    },
+    {
+      "source": "Ratchetts",
+      "target": "Horse breeding",
+      "type": "sustained by"
+    },
+    {
+      "source": "Lydnham family",
+      "target": "Carlyle",
+      "type": "owned"
+    },
+    {
+      "source": "Nancy Peck",
+      "target": "Lydnham family",
+      "type": "member of"
+    },
+    {
+      "source": "Nancy Peck",
+      "target": "George Peck",
+      "type": "wife of"
+    },
+    {
+      "source": "George Peck",
+      "target": "Nancy Peck",
+      "type": "husband of"
+    },
+    {
+      "source": "Eric Lydnham",
+      "target": "Nancy Peck",
+      "type": "brother of"
+    },
+    {
+      "source": "Eric Lydnham",
+      "target": "Boleigh/Fara",
+      "type": "looks like"
+    },
+    {
+      "source": "Boleigh/Fara",
+      "target": "Simon",
+      "type": "looks like"
+    },
+    {
+      "source": "Boleigh/Fara",
+      "target": "Orphanage",
+      "type": "grew up in"
+    },
+    {
+      "source": "Orphanage",
+      "target": "Boleigh/Fara",
+      "type": "cared for"
+    },
+    {
+      "source": "Bert",
+      "target": "Simon",
+      "type": "brother"
+    },
+    {
+      "source": "Bert",
+      "target": "Ruth",
+      "type": "brother"
+    },
+    {
+      "source": "Bert",
+      "target": "Jenny",
+      "type": "brother"
+    },
+    {
+      "source": "Bert's body",
+      "target": "Burial",
+      "type": "subject of discussion"
+    },
+    {
+      "source": "Ward",
+      "target": "Asylum family",
+      "type": "cousin"
+    },
+    {
+      "source": "Miss Beatrice",
+      "target": "Bill and Nora Asylum",
+      "type": "sister-in-law (implied)"
+    },
+    {
+      "source": "Simon",
+      "target": "Bert",
+      "type": "brother"
+    },
+    {
+      "source": "Simon",
+      "target": "Eric Lydnham",
+      "type": "possible acquaintance (via resemblance)"
+    }
+  ],
+  "hierarchy": {
+    "main_topics": [
+      "The Asylum Family and Estate Management",
+      "Character Relationships and Personal Histories",
+      "Past Tragedies and Their Lingering Effects",
+      "Parallel Lives and Identity"
+    ],
+    "structure": "The document is divided into chapters, with Chapters 1 and 2 introducing the main setting and characters, Chapter 3 appearing to be a repetition, and Chapter 4 introducing a new character with a potentially connected past."
+  }
+}

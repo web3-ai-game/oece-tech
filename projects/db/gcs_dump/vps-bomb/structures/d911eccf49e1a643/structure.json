@@ -1,0 +1,366 @@
+{
+  "propositions": [
+    {
+      "id": "1",
+      "text": "罪妃",
+      "level": 1
+    },
+    {
+      "id": "1.1",
+      "text": "Chapter 1: 01",
+      "level": 2
+    },
+    {
+      "id": "1.2",
+      "text": "Chapter 2: 02",
+      "level": 2
+    },
+    {
+      "id": "1.3",
+      "text": "Chapter 3: 03",
+      "level": 2
+    },
+    {
+      "id": "1.4",
+      "text": "Chapter 4: 04",
+      "level": 2
+    },
+    {
+      "id": "1.5",
+      "text": "Chapter 5: 05",
+      "level": 2
+    },
+    {
+      "id": "1.6",
+      "text": "Chapter 6: 06",
+      "level": 2
+    },
+    {
+      "id": "1.7",
+      "text": "Chapter 7: 07",
+      "level": 2
+    },
+    {
+      "id": "1.8",
+      "text": "Chapter 8: 08",
+      "level": 2
+    },
+    {
+      "id": "1.9",
+      "text": "Chapter 9: 09",
+      "level": 2
+    },
+    {
+      "id": "1.10",
+      "text": "Chapter 10: 10",
+      "level": 2
+    },
+    {
+      "id": "1.11",
+      "text": "Chapter 11: 11",
+      "level": 2
+    },
+    {
+      "id": "1.12",
+      "text": "Chapter 12: 12",
+      "level": 2
+    },
+    {
+      "id": "1.13",
+      "text": "Chapter 13: 13",
+      "level": 2
+    },
+    {
+      "id": "1.14",
+      "text": "Chapter 14: 14",
+      "level": 2
+    },
+    {
+      "id": "1.15",
+      "text": "Chapter 15: 15",
+      "level": 2
+    },
+    {
+      "id": "1.16",
+      "text": "Chapter 16: 16",
+      "level": 2
+    },
+    {
+      "id": "1.17",
+      "text": "Chapter 17: 17",
+      "level": 2
+    },
+    {
+      "id": "1.18",
+      "text": "Chapter 18: 18",
+      "level": 2
+    },
+    {
+      "id": "1.19",
+      "text": "Chapter 19: 19",
+      "level": 2
+    },
+    {
+      "id": "1.20",
+      "text": "Chapter 20: 20",
+      "level": 2
+    },
+    {
+      "id": "1.21",
+      "text": "Chapter 21: 21",
+      "level": 2
+    },
+    {
+      "id": "1.22",
+      "text": "Chapter 22: 22",
+      "level": 2
+    },
+    {
+      "id": "1.23",
+      "text": "Chapter 23: 23",
+      "level": 2
+    },
+    {
+      "id": "1.24",
+      "text": "Chapter 24: 24",
+      "level": 2
+    },
+    {
+      "id": "1.25",
+      "text": "Chapter 25: 25",
+      "level": 2
+    },
+    {
+      "id": "1.26",
+      "text": "Chapter 26: 26",
+      "level": 2
+    },
+    {
+      "id": "1.27",
+      "text": "Chapter 27: 27",
+      "level": 2
+    },
+    {
+      "id": "1.28",
+      "text": "Chapter 28: 28",
+      "level": 2
+    },
+    {
+      "id": "1.29",
+      "text": "Chapter 29: 29",
+      "level": 2
+    },
+    {
+      "id": "1.30",
+      "text": "Chapter 30: 30",
+      "level": 2
+    },
+    {
+      "id": "1.31",
+      "text": "Chapter 31: 31",
+      "level": 2
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Chapter",
+      "frequency": 31,
+      "context": "Refers to the numbered sections of the document, indicating structural division."
+    },
+    {
+      "name": "Woman",
+      "frequency": 31,
+      "context": "Central figure in the narrative, often associated with emotions, choices, and destiny."
+    },
+    {
+      "name": "Color",
+      "frequency": 11,
+      "context": "Used symbolically, often in relation to emotions, characters, or atmosphere (e.g., red, white, black)."
+    },
+    {
+      "name": "Time",
+      "frequency": 11,
+      "context": "Plays a significant role, influencing events, decisions, and the progression of the story."
+    },
+    {
+      "name": "Emotion",
+      "frequency": 10,
+      "context": "Intense feelings experienced by characters, driving actions and shaping relationships."
+    },
+    {
+      "name": "Relationship",
+      "frequency": 8,
+      "context": "Interactions and connections between characters, often complex and fraught with consequence."
+    },
+    {
+      "name": "Choice",
+      "frequency": 7,
+      "context": "Decisions made by characters that have significant impact on their lives and the narrative."
+    },
+    {
+      "name": "Destiny",
+      "frequency": 6,
+      "context": "The predetermined course of events, often perceived as inescapable."
+    },
+    {
+      "name": "Memory",
+      "frequency": 5,
+      "context": "Recollections of past events that influence present actions and understanding."
+    },
+    {
+      "name": "Love",
+      "frequency": 5,
+      "context": "A powerful emotion that drives many of the characters' actions and relationships."
+    },
+    {
+      "name": "Family",
+      "frequency": 4,
+      "context": "Connections and obligations related to kinship, influencing character motivations and conflicts."
+    },
+    {
+      "name": "Suffering",
+      "frequency": 4,
+      "context": "Pain and hardship experienced by characters, often a result of their circumstances or choices."
+    },
+    {
+      "name": "Past",
+      "frequency": 4,
+      "context": "Events and experiences that have shaped the present characters and narrative."
+    },
+    {
+      "name": "Future",
+      "frequency": 4,
+      "context": "The anticipated course of events, often influenced by past and present actions."
+    },
+    {
+      "name": "Truth",
+      "frequency": 3,
+      "context": "The reality of a situation, often revealed or concealed throughout the narrative."
+    },
+    {
+      "name": "Identity",
+      "frequency": 3,
+      "context": "The sense of self and belonging of the characters, often challenged or redefined."
+    },
+    {
+      "name": "Sacrifice",
+      "frequency": 2,
+      "context": "Giving up something valuable for the sake of others or a cause."
+    },
+    {
+      "name": "Loyalty",
+      "frequency": 2,
+      "context": "Faithfulness and commitment to others or a cause."
+    },
+    {
+      "name": "Betrayal",
+      "frequency": 2,
+      "context": "Violation of trust or loyalty."
+    }
+  ],
+  "relations": [
+    {
+      "source": "Woman",
+      "target": "Emotion",
+      "type": "experiences"
+    },
+    {
+      "source": "Woman",
+      "target": "Choice",
+      "type": "makes"
+    },
+    {
+      "source": "Woman",
+      "target": "Relationship",
+      "type": "has"
+    },
+    {
+      "source": "Woman",
+      "target": "Suffering",
+      "type": "undergoes"
+    },
+    {
+      "source": "Woman",
+      "target": "Love",
+      "type": "feels"
+    },
+    {
+      "source": "Woman",
+      "target": "Family",
+      "type": "belongs to"
+    },
+    {
+      "source": "Woman",
+      "target": "Destiny",
+      "type": "faces"
+    },
+    {
+      "source": "Woman",
+      "target": "Memory",
+      "type": "possesses"
+    },
+    {
+      "source": "Woman",
+      "target": "Identity",
+      "type": "seeks"
+    },
+    {
+      "source": "Chapter",
+      "target": "Woman",
+      "type": "focuses on"
+    },
+    {
+      "source": "Color",
+      "target": "Emotion",
+      "type": "symbolizes"
+    },
+    {
+      "source": "Time",
+      "target": "Choice",
+      "type": "influences"
+    },
+    {
+      "source": "Time",
+      "target": "Destiny",
+      "type": "shapes"
+    },
+    {
+      "source": "Relationship",
+      "target": "Emotion",
+      "type": "involves"
+    },
+    {
+      "source": "Choice",
+      "target": "Consequence",
+      "type": "leads to"
+    },
+    {
+      "source": "Destiny",
+      "target": "Choice",
+      "type": "is often perceived in conflict with"
+    },
+    {
+      "source": "Memory",
+      "target": "Past",
+      "type": "recalls"
+    },
+    {
+      "source": "Love",
+      "target": "Family",
+      "type": "can extend to"
+    },
+    {
+      "source": "Suffering",
+      "target": "Sacrifice",
+      "type": "can result from"
+    }
+  ],
+  "hierarchy": {
+    "main_topics": [
+      "The narrative of '罪妃'",
+      "Character development",
+      "Themes of fate, love, and sacrifice"
+    ],
+    "structure": "The document is structured into numbered chapters, each likely representing a progression in the narrative. The content explores the experiences and internal world of a central female character within a specific context."
+  }
+}

@@ -1,0 +1,788 @@
+{
+  "propositions": [
+    {
+      "id": "1",
+      "text": "我想要的真的不多，只是没有那个可以让我心安的归宿。",
+      "level": 1
+    },
+    {
+      "id": "1.1",
+      "text": "那些你逃避不了的，你只能去面对。",
+      "level": 2
+    },
+    {
+      "id": "2",
+      "text": "我们大概都过得太用力了。",
+      "level": 1
+    },
+    {
+      "id": "2.1",
+      "text": "人生下来，不是为了要跟别人较量，而是要找到自己。",
+      "level": 2
+    },
+    {
+      "id": "3",
+      "text": "我想要的东西，不多，就是一个属于我的家。",
+      "level": 1
+    },
+    {
+      "id": "3.1",
+      "text": "那不一样，那是他们强加给我的，我想要的是真正属于我自己的。",
+      "level": 2
+    },
+    {
+      "id": "4",
+      "text": "我想去一个很远的地方，那里没有人认识我，也没有人来打扰我，我可以在那里自由自在地生活，不再为任何事情烦恼。",
+      "level": 1
+    },
+    {
+      "id": "4.1",
+      "text": "我们总是被困在自己的世界里，以为那是全部，却不知道外面还有更广阔的天地。",
+      "level": 2
+    },
+    {
+      "id": "5",
+      "text": "我打算离开这里，去一个没有人认识我的地方。",
+      "level": 1
+    },
+    {
+      "id": "5.1",
+      "text": "离开这里？你要去哪里？",
+      "level": 2
+    },
+    {
+      "id": "5.2",
+      "text": "去一个很远的地方，那里没有人认识我，也没有人来打扰我，我可以在那里自由自在地生活，不再为任何事情烦恼。",
+      "level": 2
+    },
+    {
+      "id": "5.3",
+      "text": "可是，你要怎么离开呢？",
+      "level": 2
+    },
+    {
+      "id": "5.4",
+      "text": "我不知道，但我一定会找到办法的。",
+      "level": 2
+    },
+    {
+      "id": "5.5",
+      "text": "你真的决定了？",
+      "level": 2
+    },
+    {
+      "id": "5.6",
+      "text": "是的，我决定了。",
+      "level": 2
+    },
+    {
+      "id": "6",
+      "text": "也许，有些东西，注定是我们无法拥有的。",
+      "level": 1
+    },
+    {
+      "id": "6.1",
+      "text": "为什么这么说？",
+      "level": 2
+    },
+    {
+      "id": "6.2",
+      "text": "因为我们生来就不一样，我们的命运也注定不同。",
+      "level": 2
+    },
+    {
+      "id": "7",
+      "text": "我不后悔，至少我为自己争取过。",
+      "level": 1
+    },
+    {
+      "id": "7.1",
+      "text": "那么，你会怎么做？",
+      "level": 2
+    },
+    {
+      "id": "7.2",
+      "text": "我会继续努力，直到我找到我想要的。",
+      "level": 2
+    },
+    {
+      "id": "8",
+      "text": "过去的日子，我一直在寻找一个答案。",
+      "level": 1
+    },
+    {
+      "id": "8.1",
+      "text": "什么样的答案？",
+      "level": 2
+    },
+    {
+      "id": "8.2",
+      "text": "一个关于我是谁，我从哪里来，我又要到哪里去的答案。",
+      "level": 2
+    },
+    {
+      "id": "9",
+      "text": "我还没找到，但我相信，我总有一天会找到的。",
+      "level": 1
+    },
+    {
+      "id": "9.1",
+      "text": "你为什么要这么执着？",
+      "level": 2
+    },
+    {
+      "id": "9.2",
+      "text": "因为这是我人生的意义，我不能没有它。",
+      "level": 2
+    },
+    {
+      "id": "10",
+      "text": "也许，有些事情，注定是要一个人去完成的。",
+      "level": 1
+    },
+    {
+      "id": "10.1",
+      "text": "为什么？",
+      "level": 2
+    },
+    {
+      "id": "10.2",
+      "text": "因为有些路，只能自己走，有些战役，只能自己打。",
+      "level": 2
+    },
+    {
+      "id": "11",
+      "text": "我害怕，但我不能因此而停下脚步。",
+      "level": 1
+    },
+    {
+      "id": "11.1",
+      "text": "你为什么这么坚持？",
+      "level": 2
+    },
+    {
+      "id": "11.2",
+      "text": "因为这是我的使命，我不能辜负它。",
+      "level": 2
+    },
+    {
+      "id": "12",
+      "text": "我想要的，并不复杂，我只是想要一个属于我自己的答案。",
+      "level": 1
+    },
+    {
+      "id": "12.1",
+      "text": "一个属于你的答案？什么样的答案？",
+      "level": 2
+    },
+    {
+      "id": "12.2",
+      "text": "一个关于我是谁，我从哪里来，我又要到哪里去的答案。",
+      "level": 2
+    },
+    {
+      "id": "13",
+      "text": "我打算离开这里，去一个没有人认识我的地方。",
+      "level": 1
+    },
+    {
+      "id": "13.1",
+      "text": "离开这里？你要去哪里？",
+      "level": 2
+    },
+    {
+      "id": "13.2",
+      "text": "去一个很远的地方，那里没有人认识我，也不再有人来打扰我，我可以在那里自由自在地生活，不再为任何事情烦恼。",
+      "level": 2
+    },
+    {
+      "id": "13.3",
+      "text": "可是，你要怎么离开呢？",
+      "level": 2
+    },
+    {
+      "id": "13.4",
+      "text": "我不知道，但我一定会找到办法的。",
+      "level": 2
+    },
+    {
+      "id": "13.5",
+      "text": "你真的决定了？",
+      "level": 2
+    },
+    {
+      "id": "13.6",
+      "text": "是的，我决定了。",
+      "level": 2
+    },
+    {
+      "id": "14",
+      "text": "有些时候，我们必须做出选择，即使那意味着失去。",
+      "level": 1
+    },
+    {
+      "id": "14.1",
+      "text": "你想失去什么？",
+      "level": 2
+    },
+    {
+      "id": "14.2",
+      "text": "我想失去的，是那些束缚着我的东西，是那些让我无法自由呼吸的枷锁。",
+      "level": 2
+    },
+    {
+      "id": "15",
+      "text": "我准备好了。",
+      "level": 1
+    },
+    {
+      "id": "15.1",
+      "text": "那么，祝你好运。",
+      "level": 2
+    },
+    {
+      "id": "16",
+      "text": "人生就像一场旅行，不必在乎目的地，而在乎沿途的风景和看风景的心情。",
+      "level": 1
+    },
+    {
+      "id": "17",
+      "text": "我想，我终于找到了属于我的答案。",
+      "level": 1
+    },
+    {
+      "id": "17.1",
+      "text": "是什么答案？",
+      "level": 2
+    },
+    {
+      "id": "17.2",
+      "text": "我要的，并不复杂，我只是想要一个属于我自己的答案。",
+      "level": 2
+    },
+    {
+      "id": "18",
+      "text": "你真的找到了？",
+      "level": 1
+    },
+    {
+      "id": "18.1",
+      "text": "是的，我找到了。",
+      "level": 2
+    },
+    {
+      "id": "19",
+      "text": "那么，你现在要去哪里？",
+      "level": 1
+    },
+    {
+      "id": "19.1",
+      "text": "我要去一个很远的地方，那里没有人认识我，也没有人来打扰我，我可以在那里自由自在地生活，不再为任何事情烦恼。",
+      "level": 2
+    },
+    {
+      "id": "20",
+      "text": "你真的决定了？",
+      "level": 1
+    },
+    {
+      "id": "20.1",
+      "text": "是的，我决定了。",
+      "level": 2
+    },
+    {
+      "id": "21",
+      "text": "那么，祝你好运。",
+      "level": 1
+    },
+    {
+      "id": "22",
+      "text": "谢谢。",
+      "level": 1
+    }
+  ],
+  "concepts": [
+    {
+      "name": "归宿",
+      "frequency": 1,
+      "context": "只是没有那个可以让我心安的归宿。"
+    },
+    {
+      "name": "用力",
+      "frequency": 1,
+      "context": "我们大概都过得太用力了。"
+    },
+    {
+      "name": "较量",
+      "frequency": 1,
+      "context": "人生下来，不是为了要跟别人较量，而是要找到自己。"
+    },
+    {
+      "name": "自己",
+      "frequency": 4,
+      "context": "而是要找到自己。\n一个真正属于我自己的。\n在那里自由自在地生活，不再为任何事情烦恼。\n在那里自由自在地生活，不再为任何事情烦恼。\n我只是想要一个属于我自己的答案。"
+    },
+    {
+      "name": "家",
+      "frequency": 2,
+      "context": "就是一个属于我的家。\n一个属于你的家？"
+    },
+    {
+      "name": "远方",
+      "frequency": 3,
+      "context": "我想去一个很远的地方，那里没有人认识我，也没有人来打扰我，我可以在那里自由自在地生活，不再为任何事情烦恼。\n去一个很远的地方，那里没有人认识我，也没有人来打扰我，我可以在那里自由自在地生活，不再为任何事情烦恼。\n去一个很远的地方，那里没有人认识我，也不再有人来打扰我，我可以在那里自由自在地生活，不再为任何事情烦恼。"
+    },
+    {
+      "name": "认识",
+      "frequency": 3,
+      "context": "那里没有人认识我，也没有人来打扰我\n那里没有人认识我，也没有人来打扰我\n那里没有人认识我，也不再有人来打扰我"
+    },
+    {
+      "name": "打扰",
+      "frequency": 3,
+      "context": "那里没有人认识我，也没有人来打扰我\n那里没有人认识我，也没有人来打扰我\n那里没有人认识我，也不再有人来打扰我"
+    },
+    {
+      "name": "自由自在",
+      "frequency": 3,
+      "context": "我可以在那里自由自在地生活，不再为任何事情烦恼。\n我可以在那里自由自在地生活，不再为任何事情烦恼。\n我可以在那里自由自在地生活，不再为任何事情烦恼。"
+    },
+    {
+      "name": "烦恼",
+      "frequency": 3,
+      "context": "不再为任何事情烦恼。\n不再为任何事情烦恼。\n不再为任何事情烦恼。"
+    },
+    {
+      "name": "离开",
+      "frequency": 4,
+      "context": "我打算离开这里，去一个没有人认识我的地方。\n离开这里？你要去哪里？\n我打算离开这里，去一个没有人认识我的地方。\n离开这里？你要去哪里？"
+    },
+    {
+      "name": "地方",
+      "frequency": 4,
+      "context": "去一个很远的地方，那里没有人认识我，也没有人来打扰我，我可以在那里自由自在地生活，不再为任何事情烦恼。\n去一个很远的地方，那里没有人认识我，也没有人来打扰我，我可以在那里自由自在地生活，不再为任何事情烦恼。\n去一个很远的地方，那里没有人认识我，也不再有人来打扰我，我可以在那里自由自在地生活，不再为任何事情烦恼。\n我要去一个很远的地方，那里没有人认识我，也没有人来打扰我，我可以在那里自由自在地生活，不再为任何事情烦恼。"
+    },
+    {
+      "name": "办法",
+      "frequency": 2,
+      "context": "但我一定会找到办法的。\n但我一定会找到办法的。"
+    },
+    {
+      "name": "决定",
+      "frequency": 4,
+      "context": "你真的决定了？\n是的，我决定了。\n你真的决定了？\n是的，我决定了。"
+    },
+    {
+      "name": "东西",
+      "frequency": 3,
+      "context": "也许，有些东西，注定是我们无法拥有的。\n我想要的，并不复杂，我只是想要一个属于我自己的答案。\n我想失去的，是那些束缚着我的东西，是那些让我无法自由呼吸的枷锁。"
+    },
+    {
+      "name": "拥有",
+      "frequency": 1,
+      "context": "也许，一些东西，注定是我们无法拥有的。"
+    },
+    {
+      "name": "生来",
+      "frequency": 1,
+      "context": "因为我们生来就不一样，我们的命运也注定不同。"
+    },
+    {
+      "name": "命运",
+      "frequency": 1,
+      "context": "我们的命运也注定不同。"
+    },
+    {
+      "name": "后悔",
+      "frequency": 1,
+      "context": "你后悔吗？"
+    },
+    {
+      "name": "争取",
+      "frequency": 1,
+      "context": "至少我为自己争取过。"
+    },
+    {
+      "name": "努力",
+      "frequency": 1,
+      "context": "我会继续努力，直到我找到我想要的。"
+    },
+    {
+      "name": "过去",
+      "frequency": 2,
+      "context": "过去的日子，我一直在寻找一个答案。\n过去的日子，我一直在寻找一个答案。"
+    },
+    {
+      "name": "寻找",
+      "frequency": 3,
+      "context": "我一直在寻找一个答案。\n我一直在寻找一个答案。\n直到我找到我想要的。"
+    },
+    {
+      "name": "答案",
+      "frequency": 4,
+      "context": "我一直在寻找一个答案。\n什么样的答案？\n一个关于我是谁，我从哪里来，我又要到哪里去的答案。\n我只是想要一个属于我自己的答案。\n是什么答案？\n我只是想要一个属于我自己的答案。"
+    },
+    {
+      "name": "我是谁",
+      "frequency": 2,
+      "context": "一个关于我是谁，我从哪里来，我又要到哪里去的答案。\n一个关于我是谁，我从哪里来，我又要到哪里去的答案。"
+    },
+    {
+      "name": "从哪里来",
+      "frequency": 2,
+      "context": "我从哪里来，我又要到哪里去的答案。\n我从哪里来，我又要到哪里去的答案。"
+    },
+    {
+      "name": "到哪里去",
+      "frequency": 2,
+      "context": "我从哪里来，我又要到哪里去的答案。\n我从哪里来，我又要到哪里去的答案。"
+    },
+    {
+      "name": "执着",
+      "frequency": 1,
+      "context": "你为什么要这么执着？"
+    },
+    {
+      "name": "人生",
+      "frequency": 2,
+      "context": "人生下来，不是为了要跟别人较量，而是要找到自己。\n人生就像一场旅行，不必在乎目的地，而在乎沿途的风景和看风景的心情。"
+    },
+    {
+      "name": "意义",
+      "frequency": 1,
+      "context": "因为这是我人生的意义，我不能没有它。"
+    },
+    {
+      "name": "事情",
+      "frequency": 4,
+      "context": "也许，有些事情，注定是要一个人去完成的。\n我可以在那里自由自在地生活，不再为任何事情烦恼。\n我可以在那里自由自在地生活，不再为任何事情烦恼。\n我可以在那里自由自在地生活，不再为任何事情烦恼。"
+    },
+    {
+      "name": "一个人",
+      "frequency": 1,
+      "context": "也许，有些事情，注定是要一个人去完成的。"
+    },
+    {
+      "name": "完成",
+      "frequency": 1,
+      "context": "注定是要一个人去完成的。"
+    },
+    {
+      "name": "路",
+      "frequency": 1,
+      "context": "因为有些路，只能自己走，有些战役，只能自己打。"
+    },
+    {
+      "name": "战役",
+      "frequency": 1,
+      "context": "有些战役，只能自己打。"
+    },
+    {
+      "name": "害怕",
+      "frequency": 2,
+      "context": "你害怕吗？\n我害怕，但我不能因此而停下脚步。"
+    },
+    {
+      "name": "脚步",
+      "frequency": 1,
+      "context": "但我不能因此而停下脚步。"
+    },
+    {
+      "name": "坚持",
+      "frequency": 1,
+      "context": "你为什么这么坚持？"
+    },
+    {
+      "name": "使命",
+      "frequency": 1,
+      "context": "因为这是我的使命，我不能辜负它。"
+    },
+    {
+      "name": "辜负",
+      "frequency": 1,
+      "context": "我不能辜负它。"
+    },
+    {
+      "name": "复杂",
+      "frequency": 2,
+      "context": "我想要的东西，并不复杂，我只是想要一个属于我自己的答案。\n我要的，并不复杂，我只是想要一个属于我自己的答案。"
+    },
+    {
+      "name": "选择",
+      "frequency": 1,
+      "context": "有些时候，我们必须做出选择，即使那意味着失去。"
+    },
+    {
+      "name": "失去",
+      "frequency": 2,
+      "context": "即使那意味着失去。\n我想失去的，是那些束缚着我的东西，是那些让我无法自由呼吸的枷锁。"
+    },
+    {
+      "name": "束缚",
+      "frequency": 1,
+      "context": "是那些束缚着我的东西"
+    },
+    {
+      "name": "枷锁",
+      "frequency": 1,
+      "context": "是那些让我无法自由呼吸的枷锁。"
+    },
+    {
+      "name": "准备",
+      "frequency": 1,
+      "context": "你准备好了吗？"
+    },
+    {
+      "name": "好运",
+      "frequency": 2,
+      "context": "那么，祝你好运。\n那么，祝你好运。"
+    },
+    {
+      "name": "旅行",
+      "frequency": 1,
+      "context": "人生就像一场旅行"
+    },
+    {
+      "name": "目的地",
+      "frequency": 1,
+      "context": "不必在乎目的地"
+    },
+    {
+      "name": "沿途",
+      "frequency": 1,
+      "context": "而在乎沿途的风景"
+    },
+    {
+      "name": "风景",
+      "frequency": 1,
+      "context": "沿途的风景和看风景的心情。"
+    },
+    {
+      "name": "心情",
+      "frequency": 1,
+      "context": "看风景的心情。"
+    },
+    {
+      "name": "谢谢",
+      "frequency": 1,
+      "context": "谢谢。"
+    }
+  ],
+  "relations": [
+    {
+      "source": "归宿",
+      "target": "心安",
+      "type": "requires"
+    },
+    {
+      "source": "用力",
+      "target": "人生",
+      "type": "describes"
+    },
+    {
+      "source": "较量",
+      "target": "人生",
+      "type": "contrasted_with"
+    },
+    {
+      "source": "自己",
+      "target": "人生",
+      "type": "goal_of"
+    },
+    {
+      "source": "家",
+      "target": "自己",
+      "type": "desired_by"
+    },
+    {
+      "source": "远方",
+      "target": "地方",
+      "type": "is_a"
+    },
+    {
+      "source": "认识",
+      "target": "远方",
+      "type": "absence_in"
+    },
+    {
+      "source": "打扰",
+      "target": "远方",
+      "type": "absence_in"
+    },
+    {
+      "source": "自由自在",
+      "target": "生活",
+      "type": "manner_of"
+    },
+    {
+      "source": "烦恼",
+      "target": "生活",
+      "type": "absence_of"
+    },
+    {
+      "source": "离开",
+      "target": "地方",
+      "type": "action_towards"
+    },
+    {
+      "source": "办法",
+      "target": "离开",
+      "type": "needed_for"
+    },
+    {
+      "source": "决定",
+      "target": "离开",
+      "type": "action_confirmed"
+    },
+    {
+      "source": "东西",
+      "target": "拥有",
+      "type": "inability_to"
+    },
+    {
+      "source": "命运",
+      "target": "生来",
+      "type": "determined_by"
+    },
+    {
+      "source": "后悔",
+      "target": "争取",
+      "type": "negated_by"
+    },
+    {
+      "source": "努力",
+      "target": "找到",
+      "type": "means_to"
+    },
+    {
+      "source": "过去",
+      "target": "寻找",
+      "type": "time_of"
+    },
+    {
+      "source": "答案",
+      "target": "寻找",
+      "type": "object_of"
+    },
+    {
+      "source": "我是谁",
+      "target": "答案",
+      "type": "constituent_of"
+    },
+    {
+      "source": "从哪里来",
+      "target": "答案",
+      "type": "constituent_of"
+    },
+    {
+      "source": "到哪里去",
+      "target": "答案",
+      "type": "constituent_of"
+    },
+    {
+      "source": "执着",
+      "target": "寻找",
+      "type": "motivation_for"
+    },
+    {
+      "source": "人生",
+      "target": "意义",
+      "type": "has"
+    },
+    {
+      "source": "一个人",
+      "target": "完成",
+      "type": "agent_of"
+    },
+    {
+      "source": "路",
+      "target": "自己",
+      "type": "walked_by"
+    },
+    {
+      "source": "战役",
+      "target": "自己",
+      "type": "fought_by"
+    },
+    {
+      "source": "害怕",
+      "target": "停下脚步",
+      "type": "reason_for_overcoming"
+    },
+    {
+      "source": "使命",
+      "target": "坚持",
+      "type": "reason_for"
+    },
+    {
+      "source": "复杂",
+      "target": "想要",
+      "type": "negated_quality_of"
+    },
+    {
+      "source": "选择",
+      "target": "失去",
+      "type": "potential_consequence_of"
+    },
+    {
+      "source": "失去",
+      "target": "束缚",
+      "type": "desired_outcome"
+    },
+    {
+      "source": "失去",
+      "target": "枷锁",
+      "type": "desired_outcome"
+    },
+    {
+      "source": "准备",
+      "target": "做出选择",
+      "type": "state_for"
+    },
+    {
+      "source": "旅行",
+      "target": "人生",
+      "type": "metaphor_for"
+    },
+    {
+      "source": "目的地",
+      "target": "旅行",
+      "type": "part_of"
+    },
+    {
+      "source": "沿途",
+      "target": "旅行",
+      "type": "part_of"
+    },
+    {
+      "source": "风景",
+      "target": "旅行",
+      "type": "part_of"
+    },
+    {
+      "source": "心情",
+      "target": "风景",
+      "type": "associated_with"
+    },
+    {
+      "source": "答案",
+      "target": "找到",
+      "type": "object_of"
+    },
+    {
+      "source": "好运",
+      "target": "离开",
+      "type": "wished_for"
+    }
+  ],
+  "hierarchy": {
+    "main_topics": [
+      "楔子",
+      "我要的真的不多",
+      "往昔",
+      "抉择",
+      "尾声"
+    ],
+    "structure": "The document is structured into five main sections: an 'Introduction' (楔子), followed by thematic sections titled 'I Don't Want Much' (我要的真的不多), 'Past' (往昔), 'Choice' (抉择), and 'Epilogue' (尾声). Within these sections, dialogue-like propositions are presented, often framed by questions and answers, exploring the protagonist's desires, past experiences, and future intentions. The '楔子' sets the emotional tone, while the subsequent sections delve into specific aspects of the protagonist's internal struggle and decision-making process."
+  }
+}

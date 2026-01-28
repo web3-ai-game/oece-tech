@@ -1,0 +1,135 @@
+{
+  "propositions": [
+    {
+      "id": "1",
+      "text": "重生指腹为婚",
+      "level": 1
+    },
+    {
+      "id": "1.1",
+      "text": "第一章",
+      "level": 2
+    }
+  ],
+  "concepts": [
+    {
+      "name": "重生",
+      "frequency": 2,
+      "context": "Title: 重生指腹为婚. Main theme/genre."
+    },
+    {
+      "name": "指腹为婚",
+      "frequency": 1,
+      "context": "Title: 重生指腹为婚. A specific type of marriage arrangement."
+    },
+    {
+      "name": "第一章",
+      "frequency": 1,
+      "context": "Section heading. Indicates the beginning of the narrative."
+    },
+    {
+      "name": "人物",
+      "frequency": 1,
+      "context": "Implied by narrative structure, discussions about characters' thoughts and actions."
+    },
+    {
+      "name": "情节",
+      "frequency": 1,
+      "context": "Implied by the presence of narrative and plot development."
+    },
+    {
+      "name": "对话",
+      "frequency": 1,
+      "context": "Implied by the presence of character interaction and internal monologues."
+    },
+    {
+      "name": "情感",
+      "frequency": 1,
+      "context": "Implied by discussions of feelings, thoughts, and reactions."
+    },
+    {
+      "name": "回忆",
+      "frequency": 1,
+      "context": "Implied by the concept of 'rebirth' and the re-experiencing of events."
+    },
+    {
+      "name": "未来",
+      "frequency": 1,
+      "context": "Implied by the concept of 'rebirth' and the possibility of altering destiny."
+    },
+    {
+      "name": "命运",
+      "frequency": 1,
+      "context": "Implied by the context of 'rebirth' and changing outcomes."
+    },
+    {
+      "name": "家庭",
+      "frequency": 1,
+      "context": "Implied by the concept of '指腹为婚'."
+    },
+    {
+      "name": "婚姻",
+      "frequency": 1,
+      "context": "Implied by the concept of '指腹为婚'."
+    }
+  ],
+  "relations": [
+    {
+      "source": "重生",
+      "target": "指腹为婚",
+      "type": "is_a_theme_of"
+    },
+    {
+      "source": "第一章",
+      "target": "重生指腹为婚",
+      "type": "is_part_of"
+    },
+    {
+      "source": "人物",
+      "target": "情节",
+      "type": "interacts_with"
+    },
+    {
+      "source": "情节",
+      "target": "对话",
+      "type": "includes"
+    },
+    {
+      "source": "情节",
+      "target": "情感",
+      "type": "evokes"
+    },
+    {
+      "source": "重生",
+      "target": "回忆",
+      "type": "implies"
+    },
+    {
+      "source": "重生",
+      "target": "未来",
+      "type": "influences"
+    },
+    {
+      "source": "重生",
+      "target": "命运",
+      "type": "challenges"
+    },
+    {
+      "source": "指腹为婚",
+      "target": "家庭",
+      "type": "is_arranged_within"
+    },
+    {
+      "source": "指腹为婚",
+      "target": "婚姻",
+      "type": "is_a_type_of"
+    }
+  ],
+  "hierarchy": {
+    "main_topics": [
+      "Title: 重生指腹为婚",
+      "Chapter 1"
+    ],
+    "structure": "The document begins with a title indicating the genre and premise ('重生指腹为婚'), followed by a chapter heading ('第一章') which signifies the start of the narrative content. The subsequent raw text likely contains the plot, character interactions, and internal monologues for the first chapter."
+  }
+}

@@ -1,0 +1,409 @@
+{
+  "propositions": [
+    {
+      "id": "1",
+      "text": "一群少年，和一群少女，一年四季，风雨无阻，无论是在雪山之巅，还是在碧波万顷的海边，他们总是在一起，他们是最好的朋友。",
+      "level": 1
+    },
+    {
+      "id": "1.1",
+      "text": "有一天，他们决定去一个很远的地方旅行，一个他们从未去过的地方。",
+      "level": 2
+    },
+    {
+      "id": "1.1.1",
+      "text": "“我们要去哪里？”有人问。",
+      "level": 3
+    },
+    {
+      "id": "1.1.2",
+      "text": "“不知道，”另一个人回答，“但我们知道，那一定是个很棒的地方。”",
+      "level": 3
+    },
+    {
+      "id": "1.2",
+      "text": "于是，他们出发了。",
+      "level": 2
+    },
+    {
+      "id": "1.3",
+      "text": "他们经历了许多事情，有开心的，也有不开心的，但他们始终在一起。",
+      "level": 2
+    },
+    {
+      "id": "1.4",
+      "text": "一天，他们来到了一个美丽的地方，那里有许多神奇的生物，有许多美丽的风景。",
+      "level": 2
+    },
+    {
+      "id": "1.4.1",
+      "text": "“我们到了！”有人喊道。",
+      "level": 3
+    },
+    {
+      "id": "1.4.2",
+      "text": "“是的，我们到了！”另一个人回答，“而且，这里比我们想象的还要棒。”",
+      "level": 3
+    },
+    {
+      "id": "1.5",
+      "text": "于是，他们开始探索这个地方，他们发现了许多秘密，他们学到了许多东西。",
+      "level": 2
+    },
+    {
+      "id": "1.6",
+      "text": "他们在这里度过了美好的时光，他们永远都不会忘记这段旅程。",
+      "level": 2
+    },
+    {
+      "id": "2",
+      "text": "在这次旅行中，我们不仅看到了美丽的风景，还学到了许多知识。",
+      "level": 1
+    },
+    {
+      "id": "2.1",
+      "text": "我们学会了如何合作，如何互相帮助。",
+      "level": 2
+    },
+    {
+      "id": "2.2",
+      "text": "我们学会了如何克服困难，如何坚持不懈。",
+      "level": 2
+    },
+    {
+      "id": "2.3",
+      "text": "我们学会了如何欣赏生活，如何享受当下。",
+      "level": 2
+    },
+    {
+      "id": "3",
+      "text": "这次旅行让我们受益匪浅，它让我们更加了解彼此，也更加了解自己。",
+      "level": 1
+    },
+    {
+      "id": "3.1",
+      "text": "“旅行的意义，不在于目的地，而在于沿途的风景，以及看风景的心情。”",
+      "level": 2
+    },
+    {
+      "id": "3.2",
+      "text": "我们希望，这次旅行能够成为我们人生中一段美好的回忆。",
+      "level": 2
+    },
+    {
+      "id": "4",
+      "text": "我们曾一起攀登过高峰，感受过云海翻腾的壮丽。",
+      "level": 1
+    },
+    {
+      "id": "5",
+      "text": "我们也曾一起漫步在海边，拾起被海浪冲刷的贝壳。",
+      "level": 1
+    },
+    {
+      "id": "6",
+      "text": "在夜晚，我们围坐在篝火旁，分享着彼此的故事。",
+      "level": 1
+    },
+    {
+      "id": "6.1",
+      "text": "“星空下，我们的友谊像篝火一样，温暖而明亮。”",
+      "level": 2
+    },
+    {
+      "id": "7",
+      "text": "天下没有不散的宴席，我们终将要分别。",
+      "level": 1
+    },
+    {
+      "id": "7.1",
+      "text": "但无论我们走到哪里，我们永远都是朋友。",
+      "level": 2
+    },
+    {
+      "id": "7.2",
+      "text": "祝福彼此，在未来的路上，都能找到属于自己的幸福。",
+      "level": 2
+    },
+    {
+      "id": "8",
+      "text": "这篇文章记录了一段美好的旅程，也表达了作者对友谊的珍视。",
+      "level": 1
+    }
+  ],
+  "concepts": [
+    {
+      "name": "少年",
+      "frequency": 1,
+      "context": "一群少年，和一群少女..."
+    },
+    {
+      "name": "少女",
+      "frequency": 1,
+      "context": "一群少年，和一群少女..."
+    },
+    {
+      "name": "朋友",
+      "frequency": 2,
+      "context": "他们是最好的朋友。...我们永远都是朋友。"
+    },
+    {
+      "name": "旅行",
+      "frequency": 6,
+      "context": "去一个很远的地方旅行...这次旅行让我们受益匪浅..."
+    },
+    {
+      "name": "风景",
+      "frequency": 3,
+      "context": "许多美丽的风景。...看到了美丽的风景...在于沿途的风景..."
+    },
+    {
+      "name": "知识",
+      "frequency": 1,
+      "context": "还学到了许多知识。"
+    },
+    {
+      "name": "合作",
+      "frequency": 1,
+      "context": "我们学会了如何合作..."
+    },
+    {
+      "name": "困难",
+      "frequency": 1,
+      "context": "我们学会了如何克服困难..."
+    },
+    {
+      "name": "生活",
+      "frequency": 1,
+      "context": "我们学会了如何欣赏生活..."
+    },
+    {
+      "name": "当下",
+      "frequency": 1,
+      "context": "如何享受当下。"
+    },
+    {
+      "name": "彼此",
+      "frequency": 3,
+      "context": "更加了解彼此...分享着彼此的故事。...更加了解彼此..."
+    },
+    {
+      "name": "自己",
+      "frequency": 1,
+      "context": "更加了解自己。"
+    },
+    {
+      "name": "目的地",
+      "frequency": 1,
+      "context": "不在于目的地..."
+    },
+    {
+      "name": "心情",
+      "frequency": 1,
+      "context": "以及看风景的心情。"
+    },
+    {
+      "name": "回忆",
+      "frequency": 1,
+      "context": "一段美好的回忆。"
+    },
+    {
+      "name": "高峰",
+      "frequency": 1,
+      "context": "攀登过高峰..."
+    },
+    {
+      "name": "云海",
+      "frequency": 1,
+      "context": "感受过云海翻腾的壮丽。"
+    },
+    {
+      "name": "海边",
+      "frequency": 1,
+      "context": "漫步在海边..."
+    },
+    {
+      "name": "贝壳",
+      "frequency": 1,
+      "context": "拾起被海浪冲刷的贝壳。"
+    },
+    {
+      "name": "夜晚",
+      "frequency": 1,
+      "context": "在夜晚..."
+    },
+    {
+      "name": "篝火",
+      "frequency": 2,
+      "context": "围坐在篝火旁...友谊像篝火一样..."
+    },
+    {
+      "name": "故事",
+      "frequency": 1,
+      "context": "分享着彼此的故事。"
+    },
+    {
+      "name": "星空",
+      "frequency": 1,
+      "context": "星空下..."
+    },
+    {
+      "name": "友谊",
+      "frequency": 2,
+      "context": "我们的友谊像篝火一样...对友谊的珍视。"
+    },
+    {
+      "name": "宴席",
+      "frequency": 1,
+      "context": "天下没有不散的宴席..."
+    },
+    {
+      "name": "分别",
+      "frequency": 1,
+      "context": "我们终将要分别。"
+    },
+    {
+      "name": "幸福",
+      "frequency": 1,
+      "context": "找到属于自己的幸福。"
+    },
+    {
+      "name": "文章",
+      "frequency": 1,
+      "context": "这篇文章记录了一段美好的旅程..."
+    },
+    {
+      "name": "作者",
+      "frequency": 1,
+      "context": "作者对友谊的珍视。"
+    }
+  ],
+  "relations": [
+    {
+      "source": "少年",
+      "target": "朋友",
+      "type": "is_a"
+    },
+    {
+      "source": "少女",
+      "target": "朋友",
+      "type": "is_a"
+    },
+    {
+      "source": "旅行",
+      "target": "风景",
+      "type": "involves"
+    },
+    {
+      "source": "旅行",
+      "target": "知识",
+      "type": "yields"
+    },
+    {
+      "source": "旅行",
+      "target": "合作",
+      "type": "teaches"
+    },
+    {
+      "source": "旅行",
+      "target": "困难",
+      "type": "helps_overcome"
+    },
+    {
+      "source": "旅行",
+      "target": "生活",
+      "type": "enhances_appreciation_of"
+    },
+    {
+      "source": "旅行",
+      "target": "当下",
+      "type": "enhances_enjoyment_of"
+    },
+    {
+      "source": "旅行",
+      "target": "彼此",
+      "type": "enhances_understanding_of"
+    },
+    {
+      "source": "旅行",
+      "target": "自己",
+      "type": "enhances_understanding_of"
+    },
+    {
+      "source": "旅行",
+      "target": "目的地",
+      "type": "contrast"
+    },
+    {
+      "source": "旅行",
+      "target": "心情",
+      "type": "influences"
+    },
+    {
+      "source": "旅行",
+      "target": "回忆",
+      "type": "creates"
+    },
+    {
+      "source": "高峰",
+      "target": "攀登",
+      "type": "action_on"
+    },
+    {
+      "source": "海边",
+      "target": "漫步",
+      "type": "action_on"
+    },
+    {
+      "source": "夜晚",
+      "target": "篝火",
+      "type": "setting_for"
+    },
+    {
+      "source": "篝火",
+      "target": "故事",
+      "type": "facilitates_sharing_of"
+    },
+    {
+      "source": "友谊",
+      "target": "篝火",
+      "type": "simile"
+    },
+    {
+      "source": "宴席",
+      "target": "分别",
+      "type": "implies"
+    },
+    {
+      "source": "朋友",
+      "target": "分别",
+      "type": "endures_through"
+    },
+    {
+      "source": "幸福",
+      "target": "未来",
+      "type": "located_in"
+    },
+    {
+      "source": "文章",
+      "target": "旅程",
+      "type": "records"
+    },
+    {
+      "source": "文章",
+      "target": "友谊",
+      "type": "expresses_value_of"
+    }
+  ],
+  "hierarchy": {
+    "main_topics": [
+      "The Journey",
+      "Lessons Learned",
+      "Reflections on the Journey",
+      "Specific Experiences",
+      "Parting and Blessings",
+      "Author's Note"
+    ],
+    "structure": "The document is structured into a preface, a main body containing narrative and reflective sections, and an author's note. The main body is further divided into thematic subsections presented with headings and bullet points."
+  }
+}

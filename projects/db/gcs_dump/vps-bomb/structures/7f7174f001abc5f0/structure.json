@@ -1,0 +1,211 @@
+{
+  "propositions": [
+    {
+      "id": "1",
+      "text": "The story begins with a description of a night that is both the longest and shortest.",
+      "level": 1
+    },
+    {
+      "id": "1.1",
+      "text": "This night involves a gravedigger.",
+      "level": 2
+    },
+    {
+      "id": "1.2",
+      "text": "The gravedigger is awakened from a long slumber.",
+      "level": 2
+    },
+    {
+      "id": "1.3",
+      "text": "The narrator is the one who awakens the gravedigger.",
+      "level": 2
+    },
+    {
+      "id": "2",
+      "text": "The narrator is an escaped prisoner.",
+      "level": 1
+    },
+    {
+      "id": "2.1",
+      "text": "The prisoner is serving a life sentence for first-degree murder.",
+      "level": 2
+    },
+    {
+      "id": "2.2",
+      "text": "The reason for his escape is that he claims to be innocent.",
+      "level": 2
+    },
+    {
+      "id": "3",
+      "text": "The narrator's past is largely a blank slate, with his memory beginning around a thousand years ago, or more specifically, a year and ten months ago.",
+      "level": 1
+    },
+    {
+      "id": "3.1",
+      "text": "He experiences 'reborn memories'.",
+      "level": 2
+    },
+    {
+      "id": "4",
+      "text": "The narrator wakes up in a hospital room after a year of deep coma, with no memory of his identity or past.",
+      "level": 1
+    },
+    {
+      "id": "4.1",
+      "text": "He is identified as Gao Neng, aged 25, who was in a severe car accident a year prior.",
+      "level": 2
+    },
+    {
+      "id": "4.2",
+      "text": "His parents are Gao Sizhu and Xu Liying.",
+      "level": 2
+    },
+    {
+      "id": "5",
+      "text": "Gao Neng returns to work at Sky Group, a Fortune 500 company.",
+      "level": 1
+    },
+    {
+      "id": "5.1",
+      "text": "He struggles to remember his colleagues and his role in the sales department.",
+      "level": 2
+    },
+    {
+      "id": "5.2",
+      "text": "Colleagues and superiors like Hou Zong (Manager of Sales Department Seven) and Qian Laoshi (Old Qian) express surprise and welcome him back.",
+      "level": 2
+    },
+    {
+      "id": "5.3",
+      "text": "Despite his memory loss, Gao Neng becomes a diligent employee.",
+      "level": 2
+    },
+    {
+      "id": "6",
+      "text": "Gao Neng's amnesia covers his personal life and his recent past, including the details of the car accident.",
+      "level": 1
+    },
+    {
+      "id": "6.1",
+      "text": "The circumstances of the car accident in Hangzhou remain a mystery, with suspicion of foul play.",
+      "level": 2
+    },
+    {
+      "id": "7",
+      "text": "A strange phenomenon occurs where Gao Neng perceives words being spoken through people's eyes.",
+      "level": 1
+    },
+    {
+      "id": "7.1",
+      "text": "He hears Hou Zong say 'Nonsense!' through his eyes while verbally saying something else.",
+      "level": 2
+    }
+  ],
+  "concepts": [
+    {
+      "name": "Gravedigger",
+      "frequency": 6,
+      "context": "A character who assists the narrator in his escape and is described as having died and possibly lived eternally."
+    },
+    {
+      "name": "Prisoner",
+      "frequency": 2,
+      "context": "The narrator's current identity as an escaped inmate serving a life sentence."
+    },
+    {
+      "name": "Memory Loss",
+      "frequency": 15,
+      "context": "A central theme, describing the narrator's inability to recall his past, identity, and the events leading up to his coma."
+    },
+    {
+      "name": "Car Accident",
+      "frequency": 4,
+      "context": "The event that caused the narrator's coma and memory loss, with suspicious circumstances."
+    },
+    {
+      "name": "Hospital",
+      "frequency": 8,
+      "context": "The location where the narrator wakes up and begins his journey of rediscovery."
+    },
+    {
+      "name": "Sky Group",
+      "frequency": 8,
+      "context": "The multinational company where the narrator is employed."
+    },
+    {
+      "name": "Hou Zong",
+      "frequency": 6,
+      "context": "The narrator's direct superior at Sky Group, who exhibits unusual behavior."
+    },
+    {
+      "name": "Gao Neng",
+      "frequency": 18,
+      "context": "The narrator's given name, which he initially doesn't recognize."
+    },
+    {
+      "name": "Eyes",
+      "frequency": 9,
+      "context": "A recurring motif, particularly in relation to the gravedigger and Hou Zong, suggesting a deeper form of communication or perception."
+    },
+    {
+      "name": "Rebirth",
+      "frequency": 5,
+      "context": "The concept of a new beginning after a near-death experience or significant life change."
+    }
+  ],
+  "relations": [
+    {
+      "source": "Gravedigger",
+      "target": "Narrator",
+      "type": "assists"
+    },
+    {
+      "source": "Prisoner",
+      "target": "Narrator",
+      "type": "is_a"
+    },
+    {
+      "source": "Car Accident",
+      "target": "Memory Loss",
+      "type": "causes"
+    },
+    {
+      "source": "Hospital",
+      "target": "Gao Neng",
+      "type": "is_location_of"
+    },
+    {
+      "source": "Gao Neng",
+      "target": "Sky Group",
+      "type": "is_employee_of"
+    },
+    {
+      "source": "Hou Zong",
+      "target": "Gao Neng",
+      "type": "is_superior_of"
+    },
+    {
+      "source": "Memory Loss",
+      "target": "Gao Neng",
+      "type": "affects"
+    },
+    {
+      "source": "Eyes",
+      "target": "Hou Zong",
+      "type": "communicates_through"
+    },
+    {
+      "source": "Rebirth",
+      "target": "Gao Neng",
+      "type": "experiences"
+    }
+  ],
+  "hierarchy": {
+    "main_topics": [
+      "Escape and Memory Loss",
+      "Reawakening and Reintegration",
+      "Mysterious Past and Suspicious Circumstances"
+    ],
+    "structure": "The document begins with a metaphorical and suspenseful escape scene, then shifts to a detailed account of the protagonist's awakening in a hospital with amnesia, followed by his return to work and the gradual unfolding of his forgotten past and the mysteries surrounding it. The narrative progresses chronologically from the initial escape to the present day at work, interspersed with reflections on his lost memory and the peculiar phenomena he encounters."
+  }
+}

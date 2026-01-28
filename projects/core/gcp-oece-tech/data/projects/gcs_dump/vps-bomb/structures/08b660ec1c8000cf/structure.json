@@ -1,0 +1,121 @@
+{
+  "propositions": [
+    {
+      "id": "1",
+      "text": "缚石 is an ordinary person whose life touches many hearts.",
+      "level": 1
+    },
+    {
+      "id": "1.1",
+      "text": "缚石 leads a routine life as a factory worker.",
+      "level": 2
+    },
+    {
+      "id": "1.1.1",
+      "text": "At work, 缚石 maintains machines with care and dedication.",
+      "level": 3
+    },
+    {
+      "id": "1.1.2",
+      "text": "In personal life, 缚石 is quiet but helpful to neighbors.",
+      "level": 3
+    },
+    {
+      "id": "1.2",
+      "text": "A turning point occurs when 缚石 discovers a peculiar stone.",
+      "level": 2
+    },
+    {
+      "id": "1.2.1",
+      "text": "The stone contains special energy that 缚石 learns to harness.",
+      "level": 3
+    },
+    {
+      "id": "1.2.2",
+      "text": "缚石 shares the stone's energy, benefiting others around him.",
+      "level": 3
+    },
+    {
+      "id": "1.3",
+      "text": "缚石's story spreads, influencing the community.",
+      "level": 2
+    },
+    {
+      "id": "1.3.1",
+      "text": "People show curiosity and kindness towards 缚石.",
+      "level": 3
+    },
+    {
+      "id": "1.3.2",
+      "text": "缚石 passes on the stone, believing in sharing love and energy.",
+      "level": 3
+    },
+    {
+      "id": "1.4",
+      "text": "缚石's life exemplifies the power of kindness in ordinary existence.",
+      "level": 2
+    }
+  ],
+  "concepts": [
+    {
+      "name": "缚石",
+      "frequency": 20,
+      "context": "Central character, an ordinary worker with a profound impact."
+    },
+    {
+      "name": "Stone",
+      "frequency": 10,
+      "context": "A mysterious object with special energy discovered by 缚石."
+    },
+    {
+      "name": "Energy",
+      "frequency": 8,
+      "context": "A force from the stone that improves life and spirit."
+    },
+    {
+      "name": "Kindness",
+      "frequency": 5,
+      "context": "A recurring theme in 缚石's actions and philosophy."
+    },
+    {
+      "name": "Community",
+      "frequency": 4,
+      "context": "The social environment influenced by 缚石's story."
+    }
+  ],
+  "relations": [
+    {
+      "source": "缚石",
+      "target": "Stone",
+      "type": "discovers"
+    },
+    {
+      "source": "Stone",
+      "target": "Energy",
+      "type": "contains"
+    },
+    {
+      "source": "缚石",
+      "target": "Energy",
+      "type": "harnesses"
+    },
+    {
+      "source": "缚石",
+      "target": "Community",
+      "type": "influences"
+    },
+    {
+      "source": "缚石",
+      "target": "Kindness",
+      "type": "embodies"
+    }
+  ],
+  "hierarchy": {
+    "main_topics": [
+      "缚石's Life",
+      "Discovery of the Stone",
+      "Community Impact"
+    ],
+    "structure": "The document is structured as a narrative with a clear progression from 缚石's ordinary life to a transformative discovery and its broader impact on the community, divided into sections like introduction, daily life, turning point, influence, and conclusion."
+  }
+}

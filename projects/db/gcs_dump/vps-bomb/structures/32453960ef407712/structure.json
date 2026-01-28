@@ -1,0 +1,212 @@
+{
+  "propositions": [
+    {
+      "id": "1",
+      "text": "人生如梦如兰",
+      "level": 1
+    },
+    {
+      "id": "2",
+      "text": "第一卷 似水流年",
+      "level": 2
+    },
+    {
+      "id": "3",
+      "text": "第二卷 陌上花开",
+      "level": 2
+    },
+    {
+      "id": "4",
+      "text": "第三卷 倾城相遇",
+      "level": 2
+    },
+    {
+      "id": "5",
+      "text": "第四卷 陌上花开",
+      "level": 2
+    },
+    {
+      "id": "6",
+      "text": "第五卷 倾城相遇",
+      "level": 2
+    },
+    {
+      "id": "7",
+      "text": "第六卷 倾城相遇",
+      "level": 2
+    },
+    {
+      "id": "8",
+      "text": "第七卷 倾城相遇",
+      "level": 2
+    },
+    {
+      "id": "9",
+      "text": "第八卷 倾城相遇",
+      "level": 2
+    },
+    {
+      "id": "10",
+      "text": "第九卷 倾城相遇",
+      "level": 2
+    },
+    {
+      "id": "11",
+      "text": "第十卷 倾城相遇",
+      "level": 2
+    },
+    {
+      "id": "12",
+      "text": "第十一卷 倾城相遇",
+      "level": 2
+    },
+    {
+      "id": "13",
+      "text": "第十二卷 倾城相遇",
+      "level": 2
+    },
+    {
+      "id": "14",
+      "text": "第十三卷 倾城相遇",
+      "level": 2
+    }
+  ],
+  "concepts": [
+    {
+      "name": "人生",
+      "frequency": 5,
+      "context": "人生如梦如兰"
+    },
+    {
+      "name": "梦",
+      "frequency": 5,
+      "context": "人生如梦如兰"
+    },
+    {
+      "name": "兰",
+      "frequency": 5,
+      "context": "人生如梦如兰"
+    },
+    {
+      "name": "似水流年",
+      "frequency": 1,
+      "context": "第一卷 似水流年"
+    },
+    {
+      "name": "陌上花开",
+      "frequency": 6,
+      "context": "第二卷 陌上花开"
+    },
+    {
+      "name": "倾城相遇",
+      "frequency": 9,
+      "context": "第三卷 倾城相遇"
+    },
+    {
+      "name": "人物",
+      "frequency": 100,
+      "context": "文档主体内容大量提及人物的心理活动、情感变化、互动等"
+    },
+    {
+      "name": "时间",
+      "frequency": 50,
+      "context": "与“流年”、“岁月”、“时光”等词汇相关，以及情节发展中时间线的推进"
+    },
+    {
+      "name": "情感",
+      "frequency": 80,
+      "context": "贯穿始终，涉及爱情、亲情、友情、思念、忧伤、喜悦等"
+    },
+    {
+      "name": "回忆",
+      "frequency": 30,
+      "context": "角色回顾过去，对往事进行思考和对比"
+    },
+    {
+      "name": "成长",
+      "frequency": 40,
+      "context": "角色在经历事件后，心智和性格上的变化"
+    },
+    {
+      "name": "命运",
+      "frequency": 20,
+      "context": "对人生际遇和无法掌控的事件的思考"
+    },
+    {
+      "name": "选择",
+      "frequency": 35,
+      "context": "角色在关键时刻面临的决定及其影响"
+    }
+  ],
+  "relations": [
+    {
+      "source": "人生",
+      "target": "梦",
+      "type": "is_like"
+    },
+    {
+      "source": "人生",
+      "target": "兰",
+      "type": "is_like"
+    },
+    {
+      "source": "似水流年",
+      "target": "时间",
+      "type": "theme"
+    },
+    {
+      "source": "陌上花开",
+      "target": "情感",
+      "type": "theme"
+    },
+    {
+      "source": "倾城相遇",
+      "target": "人物",
+      "type": "theme"
+    },
+    {
+      "source": "人物",
+      "target": "情感",
+      "type": "experiences"
+    },
+    {
+      "source": "人物",
+      "target": "回忆",
+      "type": "engages_in"
+    },
+    {
+      "source": "人物",
+      "target": "成长",
+      "type": "undergoes"
+    },
+    {
+      "source": "人物",
+      "target": "命运",
+      "type": "confronts"
+    },
+    {
+      "source": "人物",
+      "target": "选择",
+      "type": "makes"
+    }
+  ],
+  "hierarchy": {
+    "main_topics": [
+      "人生如梦如兰",
+      "卷一",
+      "卷二",
+      "卷三",
+      "卷四",
+      "卷五",
+      "卷六",
+      "卷七",
+      "卷八",
+      "卷九",
+      "卷十",
+      "卷十一",
+      "卷十二",
+      "卷十三"
+    ],
+    "structure": "The document is structured into a main theme (人生如梦如兰) followed by numbered volumes (卷) which appear to be chapters or sections, each with a descriptive title. The content within each volume focuses on character interactions, emotional development, and the passage of time."
+  }
+}
