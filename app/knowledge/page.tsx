@@ -5,45 +5,44 @@ import { Search, BookOpen, Sparkles, Zap, Database, Rocket, ArrowRight } from "l
 import Link from "next/link";
 import { SharedHeader } from "@/components/shared-header";
 import { SharedFooter } from "@/components/shared-footer";
-import { useLanguage } from "@/lib/language-provider";
 
 const categories = [
   { 
     id: "ai-strategy", 
-    name: "AI 戰略核心", 
-    nameEn: "AI Strategy Core",
+    name: "AI Strategy Core", 
+    desc: "Strategic AI frameworks and methodologies",
     icon: Sparkles, 
     color: "#4285F4",
     count: 8
   },
   { 
     id: "deepweay-products", 
-    name: "DeepWeay 產品矩陣", 
-    nameEn: "DeepWeay Products",
+    name: "DeepWeay Products", 
+    desc: "Product matrix and ecosystem",
     icon: Rocket, 
     color: "#F59E0B",
     count: 12
   },
   { 
     id: "cyber-universe", 
-    name: "賽博宇宙觀", 
-    nameEn: "Cyber Universe",
+    name: "Cyber Universe", 
+    desc: "Digital philosophy and worldview",
     icon: Zap, 
     color: "#8B5CF6",
     count: 6
   },
   { 
     id: "oece-engineering", 
-    name: "OECE 工程體系", 
-    nameEn: "OECE Engineering",
+    name: "OECE Engineering", 
+    desc: "Technical architecture and systems",
     icon: Database, 
     color: "#22C55E",
     count: 15
   },
   { 
     id: "resources", 
-    name: "資源與工具", 
-    nameEn: "Resources & Tools",
+    name: "Resources & Tools", 
+    desc: "Utilities and development resources",
     icon: BookOpen, 
     color: "#06B6D4",
     count: 10
@@ -52,7 +51,6 @@ const categories = [
 
 export default function KnowledgePage() {
   const [searchQuery, setSearchQuery] = useState("");
-  const { lang } = useLanguage();
 
   return (
     <div className="min-h-screen w-full bg-[var(--background)] text-[var(--foreground)]">
@@ -67,16 +65,13 @@ export default function KnowledgePage() {
           {/* Hero */}
           <div className="text-center mb-12">
             <div className="inline-block mb-4 px-4 py-1.5 rounded-full bg-[var(--primary)]/10 border border-[var(--border)] text-[var(--primary)] text-xs font-medium">
-              🧠 Knowledge Distillation · 向量記憶 · 語義路由
+              🧠 Knowledge Distillation · Vector Memory · Semantic Routing
             </div>
             <h1 className="text-4xl md:text-5xl font-black mb-3">
-              {lang === "zh" ? "知識" : "Knowledge"} <span className="text-[var(--primary)]">{lang === "zh" ? "庫" : "Base"}</span>
+              Knowledge <span className="text-[var(--primary)]">Base</span>
             </h1>
             <p className="text-sm md:text-base text-[var(--muted)] max-w-2xl mx-auto mb-8">
-              {lang === "zh" 
-                ? "我們把海量資料做「可檢索的語義蒸餾」，存入向量庫，並用語義路由把每次提問導向最合適的推理鏈。"
-                : "We distill massive data into searchable semantic vectors, stored in vector DB, with semantic routing to guide each query to the optimal reasoning chain."
-              }
+              We distill massive data into searchable semantic vectors, stored in vector DB, with semantic routing to guide each query to the optimal reasoning chain.
             </p>
 
             {/* Search */}
@@ -86,7 +81,7 @@ export default function KnowledgePage() {
                 type="text"
                 value={searchQuery}
                 onChange={(e) => setSearchQuery(e.target.value)}
-                placeholder={lang === "zh" ? "搜索知識庫..." : "Search knowledge base..."}
+                placeholder="Search knowledge base..."
                 className="w-full pl-12 pr-4 py-3 rounded-xl bg-[var(--card)] border border-[var(--border)] focus:border-[var(--primary)] outline-none transition-colors text-[var(--foreground)]"
               />
             </div>
@@ -107,9 +102,9 @@ export default function KnowledgePage() {
                 <h3 className="text-lg font-semibold mb-1 group-hover:text-[var(--primary)] transition-colors">
                   {cat.name}
                 </h3>
-                <p className="text-sm text-[var(--muted)] mb-3">{cat.nameEn}</p>
+                <p className="text-sm text-[var(--muted)] mb-3">{cat.desc}</p>
                 <div className="flex items-center justify-between text-xs text-[var(--muted)]">
-                  <span>{cat.count} {lang === "zh" ? "篇文章" : "articles"}</span>
+                  <span>{cat.count} articles</span>
                   <span className="flex items-center gap-1 group-hover:translate-x-1 transition-transform">
                     <ArrowRight className="h-3.5 w-3.5" />
                   </span>
@@ -122,15 +117,15 @@ export default function KnowledgePage() {
           <div className="mt-12 grid grid-cols-3 gap-4 max-w-2xl mx-auto text-center">
             <div className="p-4 rounded-lg bg-[var(--card)]">
               <div className="text-2xl font-bold text-blue-400">51+</div>
-              <div className="text-xs text-[var(--muted)]">{lang === "zh" ? "文章" : "Articles"}</div>
+              <div className="text-xs text-[var(--muted)]">Articles</div>
             </div>
             <div className="p-4 rounded-lg bg-[var(--card)]">
               <div className="text-2xl font-bold text-green-400">5</div>
-              <div className="text-xs text-[var(--muted)]">{lang === "zh" ? "分類" : "Categories"}</div>
+              <div className="text-xs text-[var(--muted)]">Categories</div>
             </div>
             <div className="p-4 rounded-lg bg-[var(--card)]">
               <div className="text-2xl font-bold text-purple-400">∞</div>
-              <div className="text-xs text-[var(--muted)]">{lang === "zh" ? "AI 驅動" : "AI Powered"}</div>
+              <div className="text-xs text-[var(--muted)]">AI Powered</div>
             </div>
           </div>
         </div>

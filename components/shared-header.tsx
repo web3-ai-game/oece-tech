@@ -3,16 +3,12 @@
 import Link from "next/link";
 import { Sparkles } from "lucide-react";
 import { ThemeToggle } from "@/components/theme-toggle";
-import { LanguageToggle } from "@/components/language-toggle";
-import { useLanguage } from "@/lib/language-provider";
 
 interface SharedHeaderProps {
   currentPage?: "home" | "knowledge" | "pricing";
 }
 
 export function SharedHeader({ currentPage = "home" }: SharedHeaderProps) {
-  const { t } = useLanguage();
-
   return (
     <header className="fixed top-0 w-full z-50 border-b border-[var(--border)] bg-[var(--header-bg)] backdrop-blur-md">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 h-16 flex items-center justify-between">
@@ -35,7 +31,7 @@ export function SharedHeader({ currentPage = "home" }: SharedHeaderProps) {
                 : "text-[var(--muted)] hover:text-[var(--primary)]"
             }`}
           >
-            {t("nav.knowledge")}
+            Knowledge
           </Link>
           <Link 
             href="/pricing" 
@@ -45,15 +41,14 @@ export function SharedHeader({ currentPage = "home" }: SharedHeaderProps) {
                 : "text-[var(--muted)] hover:text-[var(--primary)]"
             }`}
           >
-            {t("nav.pricing")}
+            Pricing
           </Link>
-          <LanguageToggle />
           <ThemeToggle />
           <Link 
             href="/login" 
             className="px-4 py-2 text-sm border border-[var(--border)] rounded-lg hover:border-[var(--primary)] hover:bg-[var(--primary)]/10 transition-all text-[var(--foreground)]"
           >
-            {t("nav.signIn")}
+            Sign In
           </Link>
         </div>
       </div>

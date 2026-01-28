@@ -23,7 +23,7 @@ export default function Home() {
           {/* Hero Section */}
           <div className="text-center mb-16">
             <div className="inline-block mb-4 px-4 py-1.5 rounded-full bg-[#00FF41]/10 border border-[#00FF41]/30 text-[#00FF41] text-xs font-medium">
-              🎉 Beta 免費使用 · 20人小圈子測試
+              🎉 Beta Free Access · 20 Early Adopters
             </div>
             <h1 className="text-5xl md:text-7xl font-black mb-6 leading-tight">
               <span className="bg-gradient-to-r from-white via-[#00FF41] to-white bg-clip-text text-transparent">
@@ -45,11 +45,11 @@ export default function Home() {
               <div className="absolute inset-0 bg-gradient-to-r from-transparent via-white/20 to-transparent translate-x-[-200%] group-hover:translate-x-[200%] transition-transform duration-1000" />
               <div className="relative flex items-center gap-2">
                 <Heart className="h-5 w-5" />
-                體驗 AI 伴侶
+                Try AI Companion
               </div>
             </Link>
             <Link href="/comic" className="px-8 py-4 border-2 border-[#00FF41]/30 text-[#00FF41] rounded-xl text-base font-bold hover:bg-[#00FF41]/10 hover:border-[#00FF41] transition-all">
-              探索功能
+              Explore Features
             </Link>
           </div>
 
@@ -59,8 +59,8 @@ export default function Home() {
               <div className="absolute inset-0 bg-gradient-to-br from-purple-500/0 to-pink-500/0 group-hover:from-purple-500/20 group-hover:to-pink-500/20 transition-all" />
               <div className="relative">
                 <div className="text-5xl mb-4">🎨</div>
-                <h3 className="text-lg font-bold mb-2 group-hover:text-purple-400 transition-colors">AI 漫畫生成器</h3>
-                <p className="text-sm text-gray-400">輸入劇情，AI 生成精美漫畫分鏡</p>
+                <h3 className="text-lg font-bold mb-2 group-hover:text-purple-400 transition-colors">AI Comic Generator</h3>
+                <p className="text-sm text-gray-400">Input story, AI generates beautiful comic panels</p>
               </div>
             </Link>
 
@@ -68,8 +68,8 @@ export default function Home() {
               <div className="absolute inset-0 bg-gradient-to-br from-blue-500/0 to-cyan-500/0 group-hover:from-blue-500/20 group-hover:to-cyan-500/20 transition-all" />
               <div className="relative">
                 <div className="text-5xl mb-4">📖</div>
-                <h3 className="text-lg font-bold mb-2 group-hover:text-blue-400 transition-colors">爽文推演引擎</h3>
-                <p className="text-sm text-gray-400">設定主角，自動生成爽文劇情</p>
+                <h3 className="text-lg font-bold mb-2 group-hover:text-blue-400 transition-colors">Novel Engine</h3>
+                <p className="text-sm text-gray-400">Set protagonist, auto-generate exciting plots</p>
               </div>
             </Link>
 
@@ -77,8 +77,8 @@ export default function Home() {
               <div className="absolute inset-0 bg-gradient-to-br from-amber-500/0 to-orange-500/0 group-hover:from-amber-500/20 group-hover:to-orange-500/20 transition-all" />
               <div className="relative">
                 <div className="text-5xl mb-4">🔮</div>
-                <h3 className="text-lg font-bold mb-2 group-hover:text-amber-400 transition-colors">前世分析器</h3>
-                <p className="text-sm text-gray-400">基於生辰性格，推演前世身份</p>
+                <h3 className="text-lg font-bold mb-2 group-hover:text-amber-400 transition-colors">Past Life Analyzer</h3>
+                <p className="text-sm text-gray-400">Analyze past life based on birth & personality</p>
               </div>
             </Link>
 
@@ -86,8 +86,8 @@ export default function Home() {
               <div className="absolute inset-0 bg-gradient-to-br from-green-500/0 to-emerald-500/0 group-hover:from-green-500/20 group-hover:to-emerald-500/20 transition-all" />
               <div className="relative">
                 <div className="text-5xl mb-4">💡</div>
-                <h3 className="text-lg font-bold mb-2 group-hover:text-green-400 transition-colors">MCP 提示詞庫</h3>
-                <p className="text-sm text-gray-400">精選高質量 AI 提示詞</p>
+                <h3 className="text-lg font-bold mb-2 group-hover:text-green-400 transition-colors">MCP Prompt Library</h3>
+                <p className="text-sm text-gray-400">Curated high-quality AI prompts</p>
               </div>
             </Link>
           </div>
@@ -96,19 +96,19 @@ export default function Home() {
           <div className="grid grid-cols-2 md:grid-cols-4 gap-6 max-w-4xl mx-auto mb-20">
             <div className="text-center p-6 rounded-xl bg-[#161B22] border border-gray-700">
               <div className="text-3xl font-black text-[#00FF41] mb-2">1000+</div>
-              <div className="text-sm text-gray-400">電子書資源</div>
+              <div className="text-sm text-gray-400">E-book Resources</div>
             </div>
             <div className="text-center p-6 rounded-xl bg-[#161B22] border border-gray-700">
               <div className="text-3xl font-black text-[#00FF41] mb-2">4</div>
-              <div className="text-sm text-gray-400">AI 核心功能</div>
+              <div className="text-sm text-gray-400">AI Core Features</div>
             </div>
             <div className="text-center p-6 rounded-xl bg-[#161B22] border border-gray-700">
               <div className="text-3xl font-black text-[#00FF41] mb-2">20</div>
-              <div className="text-sm text-gray-400">測試用戶名額</div>
+              <div className="text-sm text-gray-400">Beta Tester Slots</div>
             </div>
             <div className="text-center p-6 rounded-xl bg-[#161B22] border border-gray-700">
               <div className="text-3xl font-black text-[#00FF41] mb-2">24/7</div>
-              <div className="text-sm text-gray-400">全天候服務</div>
+              <div className="text-sm text-gray-400">24/7 Service</div>
             </div>
           </div>
 
@@ -117,11 +117,11 @@ export default function Home() {
             <div className="text-center mb-12">
               <h2 className="text-3xl md:text-4xl font-black mb-4">
                 <span className="bg-gradient-to-r from-[#00FF41] via-cyan-400 to-[#00FF41] bg-clip-text text-transparent">
-                  核心技術架構
+                  Core Technology Architecture
                 </span>
               </h2>
               <p className="text-gray-400 max-w-2xl mx-auto">
-                基於深度知識蒸餾與多模態 AI 引擎的下一代內容生產流水線
+                Next-gen content pipeline powered by deep knowledge distillation and multi-modal AI
               </p>
             </div>
 
@@ -134,8 +134,8 @@ export default function Home() {
                   <div className="relative group">
                     <div className="p-6 rounded-xl bg-gradient-to-br from-purple-500/10 to-pink-500/10 border border-purple-500/30 hover:border-purple-500/60 transition-all">
                       <div className="text-3xl mb-3">📚</div>
-                      <h3 className="text-sm font-bold mb-2 text-purple-400">知識蒸餾</h3>
-                      <p className="text-xs text-gray-400">1000+ 書籍語義提取</p>
+                      <h3 className="text-sm font-bold mb-2 text-purple-400">Knowledge Distillation</h3>
+                      <p className="text-xs text-gray-400">1000+ books semantic extraction</p>
                     </div>
                     <div className="hidden md:block absolute top-1/2 -right-2 w-4 h-0.5 bg-gradient-to-r from-purple-500 to-blue-500"></div>
                   </div>
@@ -144,8 +144,8 @@ export default function Home() {
                   <div className="relative group">
                     <div className="p-6 rounded-xl bg-gradient-to-br from-blue-500/10 to-cyan-500/10 border border-blue-500/30 hover:border-blue-500/60 transition-all">
                       <div className="text-3xl mb-3">🧠</div>
-                      <h3 className="text-sm font-bold mb-2 text-blue-400">向量化存儲</h3>
-                      <p className="text-xs text-gray-400">MongoDB 語義索引</p>
+                      <h3 className="text-sm font-bold mb-2 text-blue-400">Vector Storage</h3>
+                      <p className="text-xs text-gray-400">MongoDB semantic indexing</p>
                     </div>
                     <div className="hidden md:block absolute top-1/2 -right-2 w-4 h-0.5 bg-gradient-to-r from-blue-500 to-green-500"></div>
                   </div>
@@ -154,8 +154,8 @@ export default function Home() {
                   <div className="relative group">
                     <div className="p-6 rounded-xl bg-gradient-to-br from-green-500/10 to-emerald-500/10 border border-green-500/30 hover:border-green-500/60 transition-all">
                       <div className="text-3xl mb-3">🎯</div>
-                      <h3 className="text-sm font-bold mb-2 text-green-400">語義路由</h3>
-                      <p className="text-xs text-gray-400">智能意圖識別</p>
+                      <h3 className="text-sm font-bold mb-2 text-green-400">Semantic Routing</h3>
+                      <p className="text-xs text-gray-400">Intelligent intent recognition</p>
                     </div>
                     <div className="hidden md:block absolute top-1/2 -right-2 w-4 h-0.5 bg-gradient-to-r from-green-500 to-amber-500"></div>
                   </div>
@@ -164,8 +164,8 @@ export default function Home() {
                   <div className="relative group">
                     <div className="p-6 rounded-xl bg-gradient-to-br from-amber-500/10 to-orange-500/10 border border-amber-500/30 hover:border-amber-500/60 transition-all">
                       <div className="text-3xl mb-3">🔄</div>
-                      <h3 className="text-sm font-bold mb-2 text-amber-400">多人格輪詢</h3>
-                      <p className="text-xs text-gray-400">Key 池負載均衡</p>
+                      <h3 className="text-sm font-bold mb-2 text-amber-400">Multi-Persona Polling</h3>
+                      <p className="text-xs text-gray-400">Key pool load balancing</p>
                     </div>
                     <div className="hidden md:block absolute top-1/2 -right-2 w-4 h-0.5 bg-gradient-to-r from-amber-500 to-red-500"></div>
                   </div>
@@ -174,8 +174,8 @@ export default function Home() {
                   <div className="relative group">
                     <div className="p-6 rounded-xl bg-gradient-to-br from-red-500/10 to-pink-500/10 border border-red-500/30 hover:border-red-500/60 transition-all">
                       <div className="text-3xl mb-3">✨</div>
-                      <h3 className="text-sm font-bold mb-2 text-red-400">內容生成</h3>
-                      <p className="text-xs text-gray-400">多模態輸出</p>
+                      <h3 className="text-sm font-bold mb-2 text-red-400">Content Generation</h3>
+                      <p className="text-xs text-gray-400">Multi-modal output</p>
                     </div>
                   </div>
                 </div>
@@ -191,12 +191,12 @@ export default function Home() {
                   <div className="w-10 h-10 rounded-lg bg-[#00FF41]/10 flex items-center justify-center">
                     <span className="text-2xl">🔬</span>
                   </div>
-                  <h3 className="text-xl font-bold">深度知識蒸餾技術</h3>
+                  <h3 className="text-xl font-bold">Deep Knowledge Distillation</h3>
                 </div>
                 <p className="text-sm text-gray-400 leading-relaxed mb-4">
-                  採用先進的<span className="text-[#00FF41] font-semibold">語義壓縮算法</span>，將海量文本數據進行多層次抽象提取。
-                  通過<span className="text-[#00FF41] font-semibold">神經網絡編碼器</span>將知識轉化為高維向量空間，
-                  實現<span className="text-[#00FF41] font-semibold">99.5% 的語義保真度</span>，同時將存儲體積壓縮至原始數據的 <span className="text-[#00FF41] font-semibold">1/100</span>。
+                  Using advanced <span className="text-[#00FF41] font-semibold">semantic compression algorithms</span> for multi-level abstraction of massive text data.
+                  Through <span className="text-[#00FF41] font-semibold">neural network encoders</span>, knowledge is transformed into high-dimensional vector space,
+                  achieving <span className="text-[#00FF41] font-semibold">99.5% semantic fidelity</span> while compressing storage to <span className="text-[#00FF41] font-semibold">1/100</span> of original data.
                 </p>
                 <div className="relative mb-4 rounded-xl border border-[#00FF41]/15 bg-black/20">
                   <div className="absolute inset-0 bg-gradient-to-r from-[#00FF41]/0 via-[#00FF41]/10 to-[#00FF41]/0 opacity-60" />
@@ -254,9 +254,9 @@ export default function Home() {
                   </svg>
                 </div>
                 <div className="flex flex-wrap gap-2">
-                  <span className="px-3 py-1 rounded-full bg-[#00FF41]/10 border border-[#00FF41]/30 text-[#00FF41] text-xs">語義編碼</span>
-                  <span className="px-3 py-1 rounded-full bg-[#00FF41]/10 border border-[#00FF41]/30 text-[#00FF41] text-xs">向量壓縮</span>
-                  <span className="px-3 py-1 rounded-full bg-[#00FF41]/10 border border-[#00FF41]/30 text-[#00FF41] text-xs">知識圖譜</span>
+                  <span className="px-3 py-1 rounded-full bg-[#00FF41]/10 border border-[#00FF41]/30 text-[#00FF41] text-xs">Semantic Encoding</span>
+                  <span className="px-3 py-1 rounded-full bg-[#00FF41]/10 border border-[#00FF41]/30 text-[#00FF41] text-xs">Vector Compression</span>
+                  <span className="px-3 py-1 rounded-full bg-[#00FF41]/10 border border-[#00FF41]/30 text-[#00FF41] text-xs">Knowledge Graph</span>
                 </div>
               </div>
 
@@ -266,18 +266,18 @@ export default function Home() {
                   <div className="w-10 h-10 rounded-lg bg-cyan-500/10 flex items-center justify-center">
                     <span className="text-2xl">⚡</span>
                   </div>
-                  <h3 className="text-xl font-bold">智能負載均衡引擎</h3>
+                  <h3 className="text-xl font-bold">Intelligent Load Balancer</h3>
                 </div>
                 <p className="text-sm text-gray-400 leading-relaxed mb-4">
-                  基於<span className="text-cyan-400 font-semibold">多人格 AI Key 池</span>的分布式調度系統，
-                  實現<span className="text-cyan-400 font-semibold">毫秒級</span>的請求路由與故障轉移。
-                  配合<span className="text-cyan-400 font-semibold">語義緩存層</span>，
-                  將響應速度提升 <span className="text-cyan-400 font-semibold">300%</span>，成本降低 <span className="text-cyan-400 font-semibold">70%</span>。
+                  Distributed scheduling system based on <span className="text-cyan-400 font-semibold">multi-persona AI Key pool</span>,
+                  achieving <span className="text-cyan-400 font-semibold">millisecond-level</span> request routing and failover.
+                  Combined with <span className="text-cyan-400 font-semibold">semantic cache layer</span>,
+                  response speed increased by <span className="text-cyan-400 font-semibold">300%</span>, cost reduced by <span className="text-cyan-400 font-semibold">70%</span>.
                 </p>
                 <div className="flex flex-wrap gap-2">
-                  <span className="px-3 py-1 rounded-full bg-cyan-500/10 border border-cyan-500/30 text-cyan-400 text-xs">負載均衡</span>
-                  <span className="px-3 py-1 rounded-full bg-cyan-500/10 border border-cyan-500/30 text-cyan-400 text-xs">智能路由</span>
-                  <span className="px-3 py-1 rounded-full bg-cyan-500/10 border border-cyan-500/30 text-cyan-400 text-xs">容錯機制</span>
+                  <span className="px-3 py-1 rounded-full bg-cyan-500/10 border border-cyan-500/30 text-cyan-400 text-xs">Load Balancing</span>
+                  <span className="px-3 py-1 rounded-full bg-cyan-500/10 border border-cyan-500/30 text-cyan-400 text-xs">Smart Routing</span>
+                  <span className="px-3 py-1 rounded-full bg-cyan-500/10 border border-cyan-500/30 text-cyan-400 text-xs">Fault Tolerance</span>
                 </div>
               </div>
             </div>
@@ -287,26 +287,26 @@ export default function Home() {
               <div className="text-center mb-6">
                 <h3 className="text-2xl font-bold mb-2">
                   <span className="bg-gradient-to-r from-[#00FF41] to-cyan-400 bg-clip-text text-transparent">
-                    🏭 AI 內容工廠流水線
+                    🏭 AI Content Factory Pipeline
                   </span>
                 </h3>
-                <p className="text-sm text-gray-400">從知識到創意的全自動化生產鏈</p>
+                <p className="text-sm text-gray-400">Fully automated production chain from knowledge to creativity</p>
               </div>
               <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
                 <div className="text-center">
                   <div className="text-4xl mb-3">📖</div>
-                  <h4 className="font-bold mb-2">爽文工廠</h4>
-                  <p className="text-xs text-gray-400">知識蒸餾 + Gemini 文本生成<br/>自動化章節推演引擎</p>
+                  <h4 className="font-bold mb-2">Novel Factory</h4>
+                  <p className="text-xs text-gray-400">Knowledge Distillation + Gemini Text Gen<br/>Automated Chapter Engine</p>
                 </div>
                 <div className="text-center">
                   <div className="text-4xl mb-3">🎨</div>
-                  <h4 className="font-bold mb-2">漫畫工廠</h4>
-                  <p className="text-xs text-gray-400">文本蒸餾 + Gemini 圖像生成<br/>AI 分鏡自動化流水線</p>
+                  <h4 className="font-bold mb-2">Comic Factory</h4>
+                  <p className="text-xs text-gray-400">Text Distillation + Gemini Image Gen<br/>AI Storyboard Pipeline</p>
                 </div>
                 <div className="text-center">
                   <div className="text-4xl mb-3">🤖</div>
-                  <h4 className="font-bold mb-2">對話工廠</h4>
-                  <p className="text-xs text-gray-400">語義路由 + Grok 多輪推理<br/>智能伴侶生產系統</p>
+                  <h4 className="font-bold mb-2">Chat Factory</h4>
+                  <p className="text-xs text-gray-400">Semantic Routing + Grok Multi-turn<br/>AI Companion System</p>
                 </div>
               </div>
             </div>
@@ -319,7 +319,7 @@ export default function Home() {
                     📐 Technical Blueprint
                   </span>
                 </h3>
-                <p className="text-sm text-gray-500">基於成熟開源技術棧的低成本高效方案</p>
+                <p className="text-sm text-gray-500">Low-cost, high-efficiency solution based on mature open-source stack</p>
               </div>
 
               {/* Blueprint Container */}
@@ -409,7 +409,7 @@ export default function Home() {
                     <span className="px-2 py-1 rounded text-[10px] font-mono bg-gray-800 border border-gray-700 text-gray-400">TailwindCSS</span>
                   </div>
                   <div className="mt-4 text-[10px] text-gray-600 font-mono">
-                    * 全棧開源方案 · 單機可部署 · API 成本 &lt; $0.01/1K tokens
+                    * Full-stack open-source · Single-machine deployable · API cost &lt; $0.01/1K tokens
                   </div>
                 </div>
               </div>
@@ -421,11 +421,11 @@ export default function Home() {
             <div className="text-center mb-12">
               <h2 className="text-3xl md:text-4xl font-black mb-4">
                 <span className="bg-gradient-to-r from-amber-400 via-orange-400 to-amber-400 bg-clip-text text-transparent">
-                  站在巨人的肩膀上
+                  Standing on the Shoulders of Giants
                 </span>
               </h2>
               <p className="text-gray-400 max-w-2xl mx-auto">
-                致敬開創人工智能與計算機科學的偉大先驅
+                Honoring the pioneers who shaped AI and computer science
               </p>
             </div>
 
@@ -438,8 +438,8 @@ export default function Home() {
                   <h3 className="font-bold text-blue-400 mb-1">Alan Turing</h3>
                   <p className="text-xs text-gray-400 mb-2">1912-1954</p>
                   <p className="text-xs text-gray-500 leading-relaxed">
-                    「機器能思考嗎？」<br/>
-                    <span className="text-blue-400/80">圖靈測試之父</span>，定義了「智能」的邊界
+                    &ldquo;Can machines think?&rdquo;<br/>
+                    <span className="text-blue-400/80">Father of Turing Test</span>, defined the boundary of &ldquo;intelligence&rdquo;
                   </p>
                 </div>
               </div>
@@ -452,8 +452,8 @@ export default function Home() {
                   <h3 className="font-bold text-purple-400 mb-1">John von Neumann</h3>
                   <p className="text-xs text-gray-400 mb-2">1903-1957</p>
                   <p className="text-xs text-gray-500 leading-relaxed">
-                    「存儲程序」架構奠基者<br/>
-                    <span className="text-purple-400/80">現代計算機之父</span>，博弈論先驅
+                    &ldquo;Stored-program&rdquo; architecture founder<br/>
+                    <span className="text-purple-400/80">Father of Modern Computing</span>, game theory pioneer
                   </p>
                 </div>
               </div>
@@ -466,8 +466,8 @@ export default function Home() {
                   <h3 className="font-bold text-orange-400 mb-1">Theodore von Kármán</h3>
                   <p className="text-xs text-gray-400 mb-2">1881-1963</p>
                   <p className="text-xs text-gray-500 leading-relaxed">
-                    錢學森的導師<br/>
-                    <span className="text-orange-400/80">航空航天之父</span>，流體力學大師
+                    Mentor of Qian Xuesen<br/>
+                    <span className="text-orange-400/80">Father of Aerospace</span>, fluid dynamics master
                   </p>
                 </div>
               </div>
@@ -480,8 +480,8 @@ export default function Home() {
                   <h3 className="font-bold text-green-400 mb-1">Claude Shannon</h3>
                   <p className="text-xs text-gray-400 mb-2">1916-2001</p>
                   <p className="text-xs text-gray-500 leading-relaxed">
-                    「一切皆可 0 和 1」<br/>
-                    <span className="text-green-400/80">信息論之父</span>，奠定數字時代
+                    &ldquo;Everything is 0 and 1&rdquo;<br/>
+                    <span className="text-green-400/80">Father of Information Theory</span>, founded the digital age
                   </p>
                 </div>
               </div>
@@ -501,11 +501,11 @@ export default function Home() {
             <div className="text-center mb-12">
               <h2 className="text-3xl md:text-4xl font-black mb-4">
                 <span className="bg-gradient-to-r from-red-500 via-purple-500 to-blue-500 bg-clip-text text-transparent">
-                  🎯 AI 安全攻防靶場
+                  🎯 AI Security Battle Arena
                 </span>
               </h2>
               <p className="text-gray-400 max-w-2xl mx-auto">
-                認知戰爭時代的紅藍對抗演練平台 · <span className="text-amber-400">即將上線</span>
+                Red vs Blue adversarial training platform for the cognitive warfare era · <span className="text-amber-400">Coming Soon</span>
               </p>
             </div>
 
@@ -519,33 +519,33 @@ export default function Home() {
                       <span className="text-2xl">🔴</span>
                     </div>
                     <div>
-                      <h3 className="text-xl font-bold text-red-400">紅隊 · 攻擊方</h3>
+                      <h3 className="text-xl font-bold text-red-400">Red Team</h3>
                       <p className="text-xs text-red-400/60">Offensive Security</p>
                     </div>
                   </div>
                   <p className="text-sm text-gray-400 mb-4 leading-relaxed">
-                    模擬真實威脅場景，掌握前沿攻擊向量。我們研究但<span className="text-red-400 font-semibold">不公開</span>具體手法：
+                    Simulating real threat scenarios, mastering cutting-edge attack vectors. We research but <span className="text-red-400 font-semibold">do not disclose</span> specific techniques:
                   </p>
                   <div className="space-y-2 mb-4">
                     <div className="flex items-center gap-2 text-sm">
                       <span className="text-red-400">▸</span>
-                      <span className="text-gray-500">Prompt Injection · 提示詞注入</span>
+                      <span className="text-gray-500">Prompt Injection</span>
                     </div>
                     <div className="flex items-center gap-2 text-sm">
                       <span className="text-red-400">▸</span>
-                      <span className="text-gray-500">Jailbreak Techniques · 越獄突破</span>
+                      <span className="text-gray-500">Jailbreak Techniques</span>
                     </div>
                     <div className="flex items-center gap-2 text-sm">
                       <span className="text-red-400">▸</span>
-                      <span className="text-gray-500">Social Engineering · 社會工程學</span>
+                      <span className="text-gray-500">Social Engineering</span>
                     </div>
                     <div className="flex items-center gap-2 text-sm">
                       <span className="text-red-400">▸</span>
-                      <span className="text-gray-500">Cognitive Warfare · 認知戰術</span>
+                      <span className="text-gray-500">Cognitive Warfare</span>
                     </div>
                   </div>
                   <div className="px-4 py-2 rounded-lg bg-red-500/10 border border-red-500/20 text-xs text-red-400/80">
-                    ⚠️ 紅隊技術僅限內部研究，不對外公開
+                    ⚠️ Red Team techniques are for internal research only
                   </div>
                 </div>
               </div>
@@ -559,33 +559,33 @@ export default function Home() {
                       <span className="text-2xl">🔵</span>
                     </div>
                     <div>
-                      <h3 className="text-xl font-bold text-blue-400">藍隊 · 防禦方</h3>
+                      <h3 className="text-xl font-bold text-blue-400">Blue Team</h3>
                       <p className="text-xs text-blue-400/60">Defensive Security</p>
                     </div>
                   </div>
                   <p className="text-sm text-gray-400 mb-4 leading-relaxed">
-                    構建堅不可摧的 AI 安全防線，我們<span className="text-blue-400 font-semibold">開源分享</span>防禦技術：
+                    Building impenetrable AI security defenses. We <span className="text-blue-400 font-semibold">open-source share</span> defensive techniques:
                   </p>
                   <div className="space-y-2 mb-4">
                     <div className="flex items-center gap-2 text-sm">
                       <span className="text-blue-400">▸</span>
-                      <span className="text-gray-300">Input Sanitization · 輸入淨化</span>
+                      <span className="text-gray-300">Input Sanitization</span>
                     </div>
                     <div className="flex items-center gap-2 text-sm">
                       <span className="text-blue-400">▸</span>
-                      <span className="text-gray-300">Guardrails System · 護欄系統</span>
+                      <span className="text-gray-300">Guardrails System</span>
                     </div>
                     <div className="flex items-center gap-2 text-sm">
                       <span className="text-blue-400">▸</span>
-                      <span className="text-gray-300">Anomaly Detection · 異常檢測</span>
+                      <span className="text-gray-300">Anomaly Detection</span>
                     </div>
                     <div className="flex items-center gap-2 text-sm">
                       <span className="text-blue-400">▸</span>
-                      <span className="text-gray-300">Semantic Firewall · 語義防火牆</span>
+                      <span className="text-gray-300">Semantic Firewall</span>
                     </div>
                   </div>
                   <div className="px-4 py-2 rounded-lg bg-blue-500/10 border border-blue-500/20 text-xs text-blue-400/80">
-                    ✓ 藍隊技術開源共享，共建安全生態
+                    ✓ Blue Team techniques are open-source for community security
                   </div>
                 </div>
               </div>
@@ -596,15 +596,15 @@ export default function Home() {
               <div className="flex flex-col md:flex-row items-center justify-between gap-4">
                 <div className="text-center md:text-left">
                   <h4 className="font-bold text-lg mb-1">
-                    <span className="text-red-400">紅</span>
+                    <span className="text-red-400">Red</span>
                     <span className="text-gray-500 mx-2">vs</span>
-                    <span className="text-blue-400">藍</span>
-                    <span className="text-gray-300 ml-2">實戰演練場</span>
+                    <span className="text-blue-400">Blue</span>
+                    <span className="text-gray-300 ml-2">Battle Arena</span>
                   </h4>
-                  <p className="text-xs text-gray-500">在安全的沙盒環境中進行攻防對抗訓練，提升 AI 安全意識</p>
+                  <p className="text-xs text-gray-500">Adversarial training in a secure sandbox environment to enhance AI security awareness</p>
                 </div>
                 <button className="px-6 py-3 rounded-xl bg-gradient-to-r from-red-500/20 via-purple-500/20 to-blue-500/20 border border-purple-500/30 text-sm font-semibold hover:border-purple-400/50 transition-all">
-                  🎮 即將開放 · 敬請期待
+                  🎮 Coming Soon
                 </button>
               </div>
             </div>

@@ -2,11 +2,8 @@
 
 import { TechStack } from "@/components/tech-stack";
 import { SocialChannels, AuthProviders } from "@/components/social-channels";
-import { useLanguage } from "@/lib/language-provider";
 
 export function SharedFooter() {
-  const { t } = useLanguage();
-
   return (
     <footer className="border-t border-[var(--border)] bg-gradient-to-b from-transparent to-[var(--background)]">
       <AuthProviders />
@@ -18,7 +15,7 @@ export function SharedFooter() {
             📞 +66 88 88080888
           </p>
           <p className="text-xs text-[var(--muted)] mb-4">
-            {t("footer.copyright")}
+            © 2025 OECE Tech · Built with 🔥 Firebase · Powered by Gemini AI
           </p>
           <div className="flex justify-center gap-4 text-[10px] text-[var(--muted)]">
             <a href="#" className="hover:text-[var(--foreground)] transition-colors">Privacy</a>

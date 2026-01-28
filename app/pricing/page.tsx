@@ -3,8 +3,6 @@
 import { Check, Zap, Database, Brain } from "lucide-react";
 import { SharedHeader } from "@/components/shared-header";
 import { SharedFooter } from "@/components/shared-footer";
-import { useLanguage } from "@/lib/language-provider";
-
 const pricingPlans = [
   {
     name: "Free Tier",
@@ -80,8 +78,6 @@ const costBreakdown = [
 ];
 
 export default function PricingPage() {
-  const { lang } = useLanguage();
-
   return (
     <div className="min-h-screen w-full bg-[var(--background)] text-[var(--foreground)]">
       {/* Background Effect */}
@@ -95,17 +91,14 @@ export default function PricingPage() {
           {/* Hero */}
           <div className="text-center mb-12">
             <h1 className="text-4xl md:text-5xl font-bold mb-3">
-              {lang === "zh" ? "價格 &" : "Pricing &"} <span className="text-[var(--primary)]">{lang === "zh" ? "記憶面板" : "Memory Panel"}</span>
+              Pricing & <span className="text-[var(--primary)]">Memory Panel</span>
             </h1>
             <p className="text-sm text-[var(--muted)] max-w-2xl mx-auto mb-6">
-              {lang === "zh" 
-                ? "按用量付費。向量記憶確保準確性，API 調用極低成本。"
-                : "Pay only for what you use. Vector memory ensures accuracy, API calls are cheap."
-              }
+              Pay only for what you use. Vector memory ensures accuracy, API calls are cheap.
             </p>
             <div className="inline-flex items-center gap-2 px-4 py-2 bg-blue-500/10 border border-blue-500/30 rounded-full text-sm text-blue-400">
               <Database className="h-4 w-4" />
-              <span>{lang === "zh" ? "天價向量 · 極低 API · 保證準確" : "Premium Vector · Low API Cost · Guaranteed Accuracy"}</span>
+              <span>Premium Vector · Low API Cost · Guaranteed Accuracy</span>
             </div>
           </div>
 
@@ -122,7 +115,7 @@ export default function PricingPage() {
               >
                 {plan.highlight && (
                   <div className="absolute -top-3 left-1/2 -translate-x-1/2 px-3 py-1 bg-blue-500 text-white text-xs font-bold rounded-full">
-                    {lang === "zh" ? "當前" : "ACTIVE"}
+                    ACTIVE
                   </div>
                 )}
                 
@@ -160,17 +153,17 @@ export default function PricingPage() {
           {/* Cost Breakdown */}
           <div className="mb-16">
             <h2 className="text-2xl font-bold text-center mb-8">
-              💰 {lang === "zh" ? "成本明細 - 透明定價" : "Cost Breakdown - Transparent Pricing"}
+              💰 Cost Breakdown - Transparent Pricing
             </h2>
             <div className="bg-[var(--card)] border border-[var(--border)] rounded-2xl overflow-hidden">
               <table className="w-full">
                 <thead className="bg-[var(--background)]">
                   <tr className="text-left text-sm">
-                    <th className="px-6 py-4">{lang === "zh" ? "服務" : "Service"}</th>
-                    <th className="px-6 py-4">{lang === "zh" ? "基礎成本" : "Base Cost"}</th>
-                    <th className="px-6 py-4">{lang === "zh" ? "加成" : "Markup"}</th>
-                    <th className="px-6 py-4">{lang === "zh" ? "最終價格" : "Final Price"}</th>
-                    <th className="px-6 py-4">{lang === "zh" ? "類型" : "Type"}</th>
+                    <th className="px-6 py-4">Service</th>
+                    <th className="px-6 py-4">Base Cost</th>
+                    <th className="px-6 py-4">Markup</th>
+                    <th className="px-6 py-4">Final Price</th>
+                    <th className="px-6 py-4">Type</th>
                   </tr>
                 </thead>
                 <tbody>
@@ -191,7 +184,7 @@ export default function PricingPage() {
               </table>
             </div>
             <p className="text-center text-xs text-[var(--muted)] mt-4">
-              {lang === "zh" ? "公式：" : "Formula:"} <span className="text-blue-400">Final Price = Base Cost × 2 × Vector Index</span>
+              Formula: <span className="text-blue-400">Final Price = Base Cost × 2 × Vector Index</span>
             </p>
           </div>
 
@@ -199,28 +192,22 @@ export default function PricingPage() {
           <div className="grid md:grid-cols-2 gap-6">
             <div className="p-6 rounded-xl bg-[var(--card)] border border-[var(--border)]">
               <Brain className="h-8 w-8 text-purple-400 mb-4" />
-              <h3 className="text-lg font-bold mb-2">{lang === "zh" ? "向量記憶" : "Vector Memory"}</h3>
+              <h3 className="text-lg font-bold mb-2">Vector Memory</h3>
               <p className="text-sm text-[var(--muted)] mb-4">
-                {lang === "zh" 
-                  ? "每次對話都會被索引並存儲在 MongoDB Atlas。檢索即時且具有上下文感知。"
-                  : "Every conversation is indexed and stored in MongoDB Atlas. Retrieval is instant and context-aware."
-                }
+                Every conversation is indexed and stored in MongoDB Atlas. Retrieval is instant and context-aware.
               </p>
               <ul className="space-y-2 text-xs text-[var(--muted)]">
-                <li>• {lang === "zh" ? "跨對話語義搜索" : "Semantic search across all chats"}</li>
-                <li>• {lang === "zh" ? "長期記憶保留" : "Long-term memory retention"}</li>
-                <li>• {lang === "zh" ? "跨對話上下文" : "Cross-conversation context"}</li>
+                <li>• Semantic search across all chats</li>
+                <li>• Long-term memory retention</li>
+                <li>• Cross-conversation context</li>
               </ul>
             </div>
 
             <div className="p-6 rounded-xl bg-[var(--card)] border border-[var(--border)]">
               <Zap className="h-8 w-8 text-yellow-400 mb-4" />
-              <h3 className="text-lg font-bold mb-2">{lang === "zh" ? "低 API 成本" : "Low API Cost"}</h3>
+              <h3 className="text-lg font-bold mb-2">Low API Cost</h3>
               <p className="text-sm text-[var(--muted)] mb-4">
-                {lang === "zh" 
-                  ? "Gemini API 調用極低成本。我們收取 2× 用於基礎設施和支持。"
-                  : "Gemini API calls are extremely cheap. We charge 2× for infrastructure and support."
-                }
+                Gemini API calls are extremely cheap. We charge 2× for infrastructure and support.
               </p>
               <ul className="space-y-2 text-xs text-[var(--muted)]">
                 <li>• Gemini 2.5 Flash: ฿0.14/1K tokens</li>
