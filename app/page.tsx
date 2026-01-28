@@ -122,7 +122,7 @@ export default function Home() {
           </div>
 
           {/* Stats Section */}
-          <div className="grid grid-cols-2 md:grid-cols-4 gap-6 max-w-4xl mx-auto mb-16">
+          <div className="grid grid-cols-2 md:grid-cols-4 gap-6 max-w-4xl mx-auto mb-20">
             <div className="text-center p-6 rounded-xl bg-[#161B22] border border-gray-700">
               <div className="text-3xl font-black text-[#00FF41] mb-2">1000+</div>
               <div className="text-sm text-gray-400">電子書資源</div>
@@ -138,6 +138,150 @@ export default function Home() {
             <div className="text-center p-6 rounded-xl bg-[#161B22] border border-gray-700">
               <div className="text-3xl font-black text-[#00FF41] mb-2">24/7</div>
               <div className="text-sm text-gray-400">全天候服務</div>
+            </div>
+          </div>
+
+          {/* Core Technology Section */}
+          <div className="mb-20">
+            <div className="text-center mb-12">
+              <h2 className="text-3xl md:text-4xl font-black mb-4">
+                <span className="bg-gradient-to-r from-[#00FF41] via-cyan-400 to-[#00FF41] bg-clip-text text-transparent">
+                  核心技術架構
+                </span>
+              </h2>
+              <p className="text-gray-400 max-w-2xl mx-auto">
+                基於深度知識蒸餾與多模態 AI 引擎的下一代內容生產流水線
+              </p>
+            </div>
+
+            {/* Tech Pipeline */}
+            <div className="max-w-5xl mx-auto mb-12">
+              <div className="relative">
+                {/* Pipeline Flow */}
+                <div className="grid grid-cols-1 md:grid-cols-5 gap-4">
+                  {/* Step 1 */}
+                  <div className="relative group">
+                    <div className="p-6 rounded-xl bg-gradient-to-br from-purple-500/10 to-pink-500/10 border border-purple-500/30 hover:border-purple-500/60 transition-all">
+                      <div className="text-3xl mb-3">📚</div>
+                      <h3 className="text-sm font-bold mb-2 text-purple-400">知識蒸餾</h3>
+                      <p className="text-xs text-gray-400">1000+ 書籍語義提取</p>
+                    </div>
+                    <div className="hidden md:block absolute top-1/2 -right-2 w-4 h-0.5 bg-gradient-to-r from-purple-500 to-blue-500"></div>
+                  </div>
+
+                  {/* Step 2 */}
+                  <div className="relative group">
+                    <div className="p-6 rounded-xl bg-gradient-to-br from-blue-500/10 to-cyan-500/10 border border-blue-500/30 hover:border-blue-500/60 transition-all">
+                      <div className="text-3xl mb-3">🧠</div>
+                      <h3 className="text-sm font-bold mb-2 text-blue-400">向量化存儲</h3>
+                      <p className="text-xs text-gray-400">MongoDB 語義索引</p>
+                    </div>
+                    <div className="hidden md:block absolute top-1/2 -right-2 w-4 h-0.5 bg-gradient-to-r from-blue-500 to-green-500"></div>
+                  </div>
+
+                  {/* Step 3 */}
+                  <div className="relative group">
+                    <div className="p-6 rounded-xl bg-gradient-to-br from-green-500/10 to-emerald-500/10 border border-green-500/30 hover:border-green-500/60 transition-all">
+                      <div className="text-3xl mb-3">🎯</div>
+                      <h3 className="text-sm font-bold mb-2 text-green-400">語義路由</h3>
+                      <p className="text-xs text-gray-400">智能意圖識別</p>
+                    </div>
+                    <div className="hidden md:block absolute top-1/2 -right-2 w-4 h-0.5 bg-gradient-to-r from-green-500 to-amber-500"></div>
+                  </div>
+
+                  {/* Step 4 */}
+                  <div className="relative group">
+                    <div className="p-6 rounded-xl bg-gradient-to-br from-amber-500/10 to-orange-500/10 border border-amber-500/30 hover:border-amber-500/60 transition-all">
+                      <div className="text-3xl mb-3">🔄</div>
+                      <h3 className="text-sm font-bold mb-2 text-amber-400">多人格輪詢</h3>
+                      <p className="text-xs text-gray-400">Key 池負載均衡</p>
+                    </div>
+                    <div className="hidden md:block absolute top-1/2 -right-2 w-4 h-0.5 bg-gradient-to-r from-amber-500 to-red-500"></div>
+                  </div>
+
+                  {/* Step 5 */}
+                  <div className="relative group">
+                    <div className="p-6 rounded-xl bg-gradient-to-br from-red-500/10 to-pink-500/10 border border-red-500/30 hover:border-red-500/60 transition-all">
+                      <div className="text-3xl mb-3">✨</div>
+                      <h3 className="text-sm font-bold mb-2 text-red-400">內容生成</h3>
+                      <p className="text-xs text-gray-400">多模態輸出</p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            {/* Tech Details */}
+            <div className="grid grid-cols-1 md:grid-cols-2 gap-6 max-w-5xl mx-auto">
+              {/* Left Card */}
+              <div className="p-8 rounded-2xl bg-[#161B22] border border-[#00FF41]/20">
+                <div className="flex items-center gap-3 mb-4">
+                  <div className="w-10 h-10 rounded-lg bg-[#00FF41]/10 flex items-center justify-center">
+                    <span className="text-2xl">🔬</span>
+                  </div>
+                  <h3 className="text-xl font-bold">深度知識蒸餾技術</h3>
+                </div>
+                <p className="text-sm text-gray-400 leading-relaxed mb-4">
+                  採用先進的<span className="text-[#00FF41] font-semibold">語義壓縮算法</span>，將海量文本數據進行多層次抽象提取。
+                  通過<span className="text-[#00FF41] font-semibold">神經網絡編碼器</span>將知識轉化為高維向量空間，
+                  實現<span className="text-[#00FF41] font-semibold">99.5% 的語義保真度</span>，同時將存儲體積壓縮至原始數據的 <span className="text-[#00FF41] font-semibold">1/100</span>。
+                </p>
+                <div className="flex flex-wrap gap-2">
+                  <span className="px-3 py-1 rounded-full bg-[#00FF41]/10 border border-[#00FF41]/30 text-[#00FF41] text-xs">語義編碼</span>
+                  <span className="px-3 py-1 rounded-full bg-[#00FF41]/10 border border-[#00FF41]/30 text-[#00FF41] text-xs">向量壓縮</span>
+                  <span className="px-3 py-1 rounded-full bg-[#00FF41]/10 border border-[#00FF41]/30 text-[#00FF41] text-xs">知識圖譜</span>
+                </div>
+              </div>
+
+              {/* Right Card */}
+              <div className="p-8 rounded-2xl bg-[#161B22] border border-cyan-500/20">
+                <div className="flex items-center gap-3 mb-4">
+                  <div className="w-10 h-10 rounded-lg bg-cyan-500/10 flex items-center justify-center">
+                    <span className="text-2xl">⚡</span>
+                  </div>
+                  <h3 className="text-xl font-bold">智能負載均衡引擎</h3>
+                </div>
+                <p className="text-sm text-gray-400 leading-relaxed mb-4">
+                  基於<span className="text-cyan-400 font-semibold">多人格 AI Key 池</span>的分布式調度系統，
+                  實現<span className="text-cyan-400 font-semibold">毫秒級</span>的請求路由與故障轉移。
+                  配合<span className="text-cyan-400 font-semibold">語義緩存層</span>，
+                  將響應速度提升 <span className="text-cyan-400 font-semibold">300%</span>，成本降低 <span className="text-cyan-400 font-semibold">70%</span>。
+                </p>
+                <div className="flex flex-wrap gap-2">
+                  <span className="px-3 py-1 rounded-full bg-cyan-500/10 border border-cyan-500/30 text-cyan-400 text-xs">負載均衡</span>
+                  <span className="px-3 py-1 rounded-full bg-cyan-500/10 border border-cyan-500/30 text-cyan-400 text-xs">智能路由</span>
+                  <span className="px-3 py-1 rounded-full bg-cyan-500/10 border border-cyan-500/30 text-cyan-400 text-xs">容錯機制</span>
+                </div>
+              </div>
+            </div>
+
+            {/* Production Line */}
+            <div className="mt-12 p-8 rounded-2xl bg-gradient-to-br from-[#00FF41]/5 to-cyan-500/5 border border-[#00FF41]/20 max-w-5xl mx-auto">
+              <div className="text-center mb-6">
+                <h3 className="text-2xl font-bold mb-2">
+                  <span className="bg-gradient-to-r from-[#00FF41] to-cyan-400 bg-clip-text text-transparent">
+                    🏭 AI 內容工廠流水線
+                  </span>
+                </h3>
+                <p className="text-sm text-gray-400">從知識到創意的全自動化生產鏈</p>
+              </div>
+              <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
+                <div className="text-center">
+                  <div className="text-4xl mb-3">📖</div>
+                  <h4 className="font-bold mb-2">爽文工廠</h4>
+                  <p className="text-xs text-gray-400">知識蒸餾 + Gemini 文本生成<br/>自動化章節推演引擎</p>
+                </div>
+                <div className="text-center">
+                  <div className="text-4xl mb-3">🎨</div>
+                  <h4 className="font-bold mb-2">漫畫工廠</h4>
+                  <p className="text-xs text-gray-400">文本蒸餾 + Gemini 圖像生成<br/>AI 分鏡自動化流水線</p>
+                </div>
+                <div className="text-center">
+                  <div className="text-4xl mb-3">🤖</div>
+                  <h4 className="font-bold mb-2">對話工廠</h4>
+                  <p className="text-xs text-gray-400">語義路由 + Grok 多輪推理<br/>智能伴侶生產系統</p>
+                </div>
+              </div>
             </div>
           </div>
         </div>
