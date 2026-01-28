@@ -284,6 +284,200 @@ export default function Home() {
               </div>
             </div>
           </div>
+
+          {/* Giants of Computing - 科技先驅致敬 */}
+          <div className="mb-20">
+            <div className="text-center mb-12">
+              <h2 className="text-3xl md:text-4xl font-black mb-4">
+                <span className="bg-gradient-to-r from-amber-400 via-orange-400 to-amber-400 bg-clip-text text-transparent">
+                  站在巨人的肩膀上
+                </span>
+              </h2>
+              <p className="text-gray-400 max-w-2xl mx-auto">
+                致敬開創人工智能與計算機科學的偉大先驅
+              </p>
+            </div>
+
+            <div className="grid grid-cols-2 md:grid-cols-4 gap-6 max-w-5xl mx-auto">
+              {/* Alan Turing */}
+              <div className="group relative p-6 rounded-2xl bg-gradient-to-br from-blue-900/30 to-indigo-900/30 border border-blue-500/20 hover:border-blue-400/50 transition-all overflow-hidden">
+                <div className="absolute inset-0 bg-[url('https://upload.wikimedia.org/wikipedia/commons/a/a1/Alan_Turing_Aged_16.jpg')] bg-cover bg-center opacity-10 group-hover:opacity-20 transition-opacity" />
+                <div className="relative z-10">
+                  <div className="text-4xl mb-3">🧮</div>
+                  <h3 className="font-bold text-blue-400 mb-1">Alan Turing</h3>
+                  <p className="text-xs text-gray-400 mb-2">1912-1954</p>
+                  <p className="text-xs text-gray-500 leading-relaxed">
+                    「機器能思考嗎？」<br/>
+                    <span className="text-blue-400/80">圖靈測試之父</span>，定義了「智能」的邊界
+                  </p>
+                </div>
+              </div>
+
+              {/* John von Neumann */}
+              <div className="group relative p-6 rounded-2xl bg-gradient-to-br from-purple-900/30 to-pink-900/30 border border-purple-500/20 hover:border-purple-400/50 transition-all overflow-hidden">
+                <div className="absolute inset-0 bg-[url('https://upload.wikimedia.org/wikipedia/commons/5/5e/JohnvonNeumann-LosAlamos.gif')] bg-cover bg-center opacity-10 group-hover:opacity-20 transition-opacity" />
+                <div className="relative z-10">
+                  <div className="text-4xl mb-3">💻</div>
+                  <h3 className="font-bold text-purple-400 mb-1">John von Neumann</h3>
+                  <p className="text-xs text-gray-400 mb-2">1903-1957</p>
+                  <p className="text-xs text-gray-500 leading-relaxed">
+                    「存儲程序」架構奠基者<br/>
+                    <span className="text-purple-400/80">現代計算機之父</span>，博弈論先驅
+                  </p>
+                </div>
+              </div>
+
+              {/* Theodore von Kármán */}
+              <div className="group relative p-6 rounded-2xl bg-gradient-to-br from-orange-900/30 to-red-900/30 border border-orange-500/20 hover:border-orange-400/50 transition-all overflow-hidden">
+                <div className="absolute inset-0 bg-[url('https://upload.wikimedia.org/wikipedia/commons/6/6e/Theodore_von_Karman.jpg')] bg-cover bg-center opacity-10 group-hover:opacity-20 transition-opacity" />
+                <div className="relative z-10">
+                  <div className="text-4xl mb-3">🚀</div>
+                  <h3 className="font-bold text-orange-400 mb-1">Theodore von Kármán</h3>
+                  <p className="text-xs text-gray-400 mb-2">1881-1963</p>
+                  <p className="text-xs text-gray-500 leading-relaxed">
+                    錢學森的導師<br/>
+                    <span className="text-orange-400/80">航空航天之父</span>，流體力學大師
+                  </p>
+                </div>
+              </div>
+
+              {/* Claude Shannon */}
+              <div className="group relative p-6 rounded-2xl bg-gradient-to-br from-green-900/30 to-teal-900/30 border border-green-500/20 hover:border-green-400/50 transition-all overflow-hidden">
+                <div className="absolute inset-0 bg-[url('https://upload.wikimedia.org/wikipedia/commons/9/99/ClaudeShannon_MFO3807.jpg')] bg-cover bg-center opacity-10 group-hover:opacity-20 transition-opacity" />
+                <div className="relative z-10">
+                  <div className="text-4xl mb-3">📡</div>
+                  <h3 className="font-bold text-green-400 mb-1">Claude Shannon</h3>
+                  <p className="text-xs text-gray-400 mb-2">1916-2001</p>
+                  <p className="text-xs text-gray-500 leading-relaxed">
+                    「一切皆可 0 和 1」<br/>
+                    <span className="text-green-400/80">信息論之父</span>，奠定數字時代
+                  </p>
+                </div>
+              </div>
+            </div>
+
+            {/* Quote */}
+            <div className="mt-8 text-center max-w-3xl mx-auto">
+              <blockquote className="text-lg italic text-gray-500 border-l-4 border-amber-500/50 pl-4">
+                &ldquo;We can only see a short distance ahead, but we can see plenty there that needs to be done.&rdquo;
+                <footer className="text-sm text-amber-400/60 mt-2">— Alan Turing</footer>
+              </blockquote>
+            </div>
+          </div>
+
+          {/* Red Team vs Blue Team - AI 安全對抗 */}
+          <div className="mb-20">
+            <div className="text-center mb-12">
+              <h2 className="text-3xl md:text-4xl font-black mb-4">
+                <span className="bg-gradient-to-r from-red-500 via-purple-500 to-blue-500 bg-clip-text text-transparent">
+                  🎯 AI 安全攻防靶場
+                </span>
+              </h2>
+              <p className="text-gray-400 max-w-2xl mx-auto">
+                認知戰爭時代的紅藍對抗演練平台 · <span className="text-amber-400">即將上線</span>
+              </p>
+            </div>
+
+            <div className="grid grid-cols-1 md:grid-cols-2 gap-8 max-w-5xl mx-auto">
+              {/* Red Team */}
+              <div className="relative p-8 rounded-2xl bg-gradient-to-br from-red-950/50 to-red-900/30 border border-red-500/30 overflow-hidden">
+                <div className="absolute top-0 right-0 w-32 h-32 bg-red-500/10 rounded-full blur-3xl" />
+                <div className="relative z-10">
+                  <div className="flex items-center gap-3 mb-4">
+                    <div className="w-12 h-12 rounded-xl bg-red-500/20 flex items-center justify-center border border-red-500/30">
+                      <span className="text-2xl">🔴</span>
+                    </div>
+                    <div>
+                      <h3 className="text-xl font-bold text-red-400">紅隊 · 攻擊方</h3>
+                      <p className="text-xs text-red-400/60">Offensive Security</p>
+                    </div>
+                  </div>
+                  <p className="text-sm text-gray-400 mb-4 leading-relaxed">
+                    模擬真實威脅場景，掌握前沿攻擊向量。我們研究但<span className="text-red-400 font-semibold">不公開</span>具體手法：
+                  </p>
+                  <div className="space-y-2 mb-4">
+                    <div className="flex items-center gap-2 text-sm">
+                      <span className="text-red-400">▸</span>
+                      <span className="text-gray-500">Prompt Injection · 提示詞注入</span>
+                    </div>
+                    <div className="flex items-center gap-2 text-sm">
+                      <span className="text-red-400">▸</span>
+                      <span className="text-gray-500">Jailbreak Techniques · 越獄突破</span>
+                    </div>
+                    <div className="flex items-center gap-2 text-sm">
+                      <span className="text-red-400">▸</span>
+                      <span className="text-gray-500">Social Engineering · 社會工程學</span>
+                    </div>
+                    <div className="flex items-center gap-2 text-sm">
+                      <span className="text-red-400">▸</span>
+                      <span className="text-gray-500">Cognitive Warfare · 認知戰術</span>
+                    </div>
+                  </div>
+                  <div className="px-4 py-2 rounded-lg bg-red-500/10 border border-red-500/20 text-xs text-red-400/80">
+                    ⚠️ 紅隊技術僅限內部研究，不對外公開
+                  </div>
+                </div>
+              </div>
+
+              {/* Blue Team */}
+              <div className="relative p-8 rounded-2xl bg-gradient-to-br from-blue-950/50 to-blue-900/30 border border-blue-500/30 overflow-hidden">
+                <div className="absolute top-0 right-0 w-32 h-32 bg-blue-500/10 rounded-full blur-3xl" />
+                <div className="relative z-10">
+                  <div className="flex items-center gap-3 mb-4">
+                    <div className="w-12 h-12 rounded-xl bg-blue-500/20 flex items-center justify-center border border-blue-500/30">
+                      <span className="text-2xl">🔵</span>
+                    </div>
+                    <div>
+                      <h3 className="text-xl font-bold text-blue-400">藍隊 · 防禦方</h3>
+                      <p className="text-xs text-blue-400/60">Defensive Security</p>
+                    </div>
+                  </div>
+                  <p className="text-sm text-gray-400 mb-4 leading-relaxed">
+                    構建堅不可摧的 AI 安全防線，我們<span className="text-blue-400 font-semibold">開源分享</span>防禦技術：
+                  </p>
+                  <div className="space-y-2 mb-4">
+                    <div className="flex items-center gap-2 text-sm">
+                      <span className="text-blue-400">▸</span>
+                      <span className="text-gray-300">Input Sanitization · 輸入淨化</span>
+                    </div>
+                    <div className="flex items-center gap-2 text-sm">
+                      <span className="text-blue-400">▸</span>
+                      <span className="text-gray-300">Guardrails System · 護欄系統</span>
+                    </div>
+                    <div className="flex items-center gap-2 text-sm">
+                      <span className="text-blue-400">▸</span>
+                      <span className="text-gray-300">Anomaly Detection · 異常檢測</span>
+                    </div>
+                    <div className="flex items-center gap-2 text-sm">
+                      <span className="text-blue-400">▸</span>
+                      <span className="text-gray-300">Semantic Firewall · 語義防火牆</span>
+                    </div>
+                  </div>
+                  <div className="px-4 py-2 rounded-lg bg-blue-500/10 border border-blue-500/20 text-xs text-blue-400/80">
+                    ✓ 藍隊技術開源共享，共建安全生態
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            {/* Battle Arena Preview */}
+            <div className="mt-8 p-6 rounded-2xl bg-gradient-to-r from-red-500/5 via-purple-500/10 to-blue-500/5 border border-purple-500/20 max-w-5xl mx-auto">
+              <div className="flex flex-col md:flex-row items-center justify-between gap-4">
+                <div className="text-center md:text-left">
+                  <h4 className="font-bold text-lg mb-1">
+                    <span className="text-red-400">紅</span>
+                    <span className="text-gray-500 mx-2">vs</span>
+                    <span className="text-blue-400">藍</span>
+                    <span className="text-gray-300 ml-2">實戰演練場</span>
+                  </h4>
+                  <p className="text-xs text-gray-500">在安全的沙盒環境中進行攻防對抗訓練，提升 AI 安全意識</p>
+                </div>
+                <button className="px-6 py-3 rounded-xl bg-gradient-to-r from-red-500/20 via-purple-500/20 to-blue-500/20 border border-purple-500/30 text-sm font-semibold hover:border-purple-400/50 transition-all">
+                  🎮 即將開放 · 敬請期待
+                </button>
+              </div>
+            </div>
+          </div>
         </div>
       </main>
 
