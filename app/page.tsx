@@ -337,6 +337,110 @@ export default function Home() {
                 </div>
               </div>
             </div>
+
+            {/* Technical Blueprint - 工程圖紙風格 */}
+            <div className="mt-16 max-w-5xl mx-auto">
+              <div className="text-center mb-8">
+                <h3 className="text-2xl font-bold mb-2">
+                  <span className="bg-gradient-to-r from-gray-300 via-white to-gray-300 bg-clip-text text-transparent">
+                    📐 Technical Blueprint
+                  </span>
+                </h3>
+                <p className="text-sm text-gray-500">基於成熟開源技術棧的低成本高效方案</p>
+              </div>
+
+              {/* Blueprint Container */}
+              <div className="relative p-6 md:p-8 rounded-2xl bg-[#0a0f14] border border-gray-700/50 overflow-hidden">
+                {/* Grid Background */}
+                <div className="absolute inset-0 opacity-20" style={{backgroundImage: 'linear-gradient(rgba(100,100,100,0.1) 1px, transparent 1px), linear-gradient(90deg, rgba(100,100,100,0.1) 1px, transparent 1px)', backgroundSize: '20px 20px'}} />
+                
+                {/* Blueprint Title */}
+                <div className="relative flex items-center justify-between mb-6 pb-4 border-b border-gray-700/50">
+                  <div className="flex items-center gap-2">
+                    <div className="w-3 h-3 rounded-full bg-[#00FF41]/60" />
+                    <span className="text-xs font-mono text-gray-500">OECE-ARCH-v1.0</span>
+                  </div>
+                  <span className="text-xs font-mono text-gray-600">REV: 2026.01</span>
+                </div>
+
+                {/* Architecture Flow */}
+                <div className="relative grid grid-cols-1 md:grid-cols-5 gap-3 md:gap-2 mb-8">
+                  {/* Input Layer */}
+                  <div className="p-4 rounded-lg border border-dashed border-gray-600 bg-gray-900/50">
+                    <div className="text-xs font-mono text-gray-500 mb-2">INPUT</div>
+                    <div className="text-sm font-semibold text-white mb-1">Raw Data</div>
+                    <div className="text-[10px] text-gray-500 space-y-0.5">
+                      <div>• PDF / EPUB / TXT</div>
+                      <div>• Web Scraping</div>
+                      <div>• API Feeds</div>
+                    </div>
+                  </div>
+
+                  {/* Distillation */}
+                  <div className="p-4 rounded-lg border border-purple-500/30 bg-purple-500/5">
+                    <div className="text-xs font-mono text-purple-400 mb-2">DISTILL</div>
+                    <div className="text-sm font-semibold text-white mb-1">Knowledge Extraction</div>
+                    <div className="text-[10px] text-gray-400 space-y-0.5">
+                      <div className="text-purple-400">• LangChain</div>
+                      <div className="text-purple-400">• Unstructured.io</div>
+                      <div>• Chunk + Overlap</div>
+                    </div>
+                  </div>
+
+                  {/* Embedding */}
+                  <div className="p-4 rounded-lg border border-blue-500/30 bg-blue-500/5">
+                    <div className="text-xs font-mono text-blue-400 mb-2">EMBED</div>
+                    <div className="text-sm font-semibold text-white mb-1">Vector Store</div>
+                    <div className="text-[10px] text-gray-400 space-y-0.5">
+                      <div className="text-blue-400">• text-embedding-004</div>
+                      <div className="text-blue-400">• MongoDB Atlas</div>
+                      <div>• HNSW Index</div>
+                    </div>
+                  </div>
+
+                  {/* Routing */}
+                  <div className="p-4 rounded-lg border border-green-500/30 bg-green-500/5">
+                    <div className="text-xs font-mono text-green-400 mb-2">ROUTE</div>
+                    <div className="text-sm font-semibold text-white mb-1">Semantic Router</div>
+                    <div className="text-[10px] text-gray-400 space-y-0.5">
+                      <div className="text-green-400">• semantic-router</div>
+                      <div className="text-green-400">• Intent Classification</div>
+                      <div>• Dynamic Dispatch</div>
+                    </div>
+                  </div>
+
+                  {/* Generation */}
+                  <div className="p-4 rounded-lg border border-amber-500/30 bg-amber-500/5">
+                    <div className="text-xs font-mono text-amber-400 mb-2">GENERATE</div>
+                    <div className="text-sm font-semibold text-white mb-1">Multi-Model</div>
+                    <div className="text-[10px] text-gray-400 space-y-0.5">
+                      <div className="text-amber-400">• Gemini 2.5 Flash</div>
+                      <div className="text-amber-400">• Grok-3</div>
+                      <div>• Key Pool Rotation</div>
+                    </div>
+                  </div>
+                </div>
+
+                {/* Tech Stack Footer */}
+                <div className="relative pt-4 border-t border-gray-700/50">
+                  <div className="text-xs font-mono text-gray-600 mb-3">TECH STACK</div>
+                  <div className="flex flex-wrap gap-2">
+                    <span className="px-2 py-1 rounded text-[10px] font-mono bg-gray-800 border border-gray-700 text-gray-400">Next.js 16</span>
+                    <span className="px-2 py-1 rounded text-[10px] font-mono bg-gray-800 border border-gray-700 text-gray-400">TypeScript</span>
+                    <span className="px-2 py-1 rounded text-[10px] font-mono bg-purple-900/30 border border-purple-700/50 text-purple-400">LangChain</span>
+                    <span className="px-2 py-1 rounded text-[10px] font-mono bg-blue-900/30 border border-blue-700/50 text-blue-400">MongoDB Atlas</span>
+                    <span className="px-2 py-1 rounded text-[10px] font-mono bg-green-900/30 border border-green-700/50 text-green-400">semantic-router</span>
+                    <span className="px-2 py-1 rounded text-[10px] font-mono bg-amber-900/30 border border-amber-700/50 text-amber-400">Gemini API</span>
+                    <span className="px-2 py-1 rounded text-[10px] font-mono bg-gray-800 border border-gray-700 text-gray-400">Firebase</span>
+                    <span className="px-2 py-1 rounded text-[10px] font-mono bg-gray-800 border border-gray-700 text-gray-400">Supabase</span>
+                    <span className="px-2 py-1 rounded text-[10px] font-mono bg-gray-800 border border-gray-700 text-gray-400">TailwindCSS</span>
+                  </div>
+                  <div className="mt-4 text-[10px] text-gray-600 font-mono">
+                    * 全棧開源方案 · 單機可部署 · API 成本 &lt; $0.01/1K tokens
+                  </div>
+                </div>
+              </div>
+            </div>
           </div>
 
           {/* Giants of Computing - 科技先驅致敬 */}
