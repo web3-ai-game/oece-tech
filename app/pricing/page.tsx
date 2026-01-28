@@ -1,11 +1,8 @@
 "use client";
 
-import Link from "next/link";
-import { Sparkles, Check, Zap, Database, Brain } from "lucide-react";
-import { ThemeToggle } from "@/components/theme-toggle";
-import { LanguageToggle } from "@/components/language-toggle";
-import { TechStack } from "@/components/tech-stack";
-import { SocialChannels, AuthProviders } from "@/components/social-channels";
+import { Check, Zap, Database, Brain } from "lucide-react";
+import { SharedHeader } from "@/components/shared-header";
+import { SharedFooter } from "@/components/shared-footer";
 import { useLanguage } from "@/lib/language-provider";
 
 const pricingPlans = [
@@ -83,39 +80,14 @@ const costBreakdown = [
 ];
 
 export default function PricingPage() {
-  const { t } = useLanguage();
+  const { lang } = useLanguage();
 
   return (
-    <div className="min-h-screen w-full bg-[#0D1117] text-white">
-      {/* Matrix Background Effect */}
-      <div className="fixed inset-0 bg-gradient-to-br from-[#00FF41]/5 via-transparent to-[#00FF41]/5 pointer-events-none" />
+    <div className="min-h-screen w-full bg-[var(--background)] text-[var(--foreground)]">
+      {/* Background Effect */}
+      <div className="fixed inset-0 bg-gradient-to-br from-[var(--primary)]/5 via-transparent to-[var(--primary)]/5 pointer-events-none" />
 
-      {/* Header */}
-      <header className="fixed top-0 w-full z-50 border-b border-[#00FF41]/20 bg-[#0D1117]/90 backdrop-blur-md">
-        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 h-16 flex items-center justify-between">
-          <div className="flex items-center gap-3">
-            <div className="relative">
-              <Sparkles className="h-6 w-6 text-[#00FF41] animate-pulse" />
-              <div className="absolute inset-0 blur-xl bg-[#00FF41]/30" />
-            </div>
-            <span className="text-xl font-bold bg-gradient-to-r from-[#00FF41] to-[#00FF41]/60 bg-clip-text text-transparent">OECE.tech</span>
-          </div>
-
-          <div className="flex items-center gap-4">
-            <Link href="/knowledge" className="px-3 py-1.5 text-sm text-gray-300 hover:text-[#00FF41] transition-colors">
-              {t("nav.knowledge")}
-            </Link>
-            <Link href="/pricing" className="px-3 py-1.5 text-sm text-[#00FF41]">
-              {t("nav.pricing")}
-            </Link>
-            <LanguageToggle />
-            <ThemeToggle />
-            <Link href="/login" className="px-4 py-2 text-sm border border-[#00FF41]/30 rounded-lg hover:border-[#00FF41] hover:bg-[#00FF41]/10 transition-all">
-              {t("nav.signIn")}
-            </Link>
-          </div>
-        </div>
-      </header>
+      <SharedHeader currentPage="pricing" />
 
       {/* Main Content */}
       <main className="relative pt-24 pb-16 px-4">
@@ -123,14 +95,17 @@ export default function PricingPage() {
           {/* Hero */}
           <div className="text-center mb-12">
             <h1 className="text-4xl md:text-5xl font-bold mb-3">
-              Pricing & <span className="text-[#00FF41]">Memory Panel</span>
+              {lang === "zh" ? "價格 &" : "Pricing &"} <span className="text-[var(--primary)]">{lang === "zh" ? "記憶面板" : "Memory Panel"}</span>
             </h1>
-            <p className="text-sm text-gray-400 max-w-2xl mx-auto mb-6">
-              Pay only for what you use. Vector memory ensures accuracy, API calls are cheap.
+            <p className="text-sm text-[var(--muted)] max-w-2xl mx-auto mb-6">
+              {lang === "zh" 
+                ? "按用量付費。向量記憶確保準確性，API 調用極低成本。"
+                : "Pay only for what you use. Vector memory ensures accuracy, API calls are cheap."
+              }
             </p>
             <div className="inline-flex items-center gap-2 px-4 py-2 bg-blue-500/10 border border-blue-500/30 rounded-full text-sm text-blue-400">
               <Database className="h-4 w-4" />
-              <span>天價向量 · 極低 API · 保證準確</span>
+              <span>{lang === "zh" ? "天價向量 · 極低 API · 保證準確" : "Premium Vector · Low API Cost · Guaranteed Accuracy"}</span>
             </div>
           </div>
 
@@ -142,12 +117,12 @@ export default function PricingPage() {
                 className={`relative p-6 rounded-2xl border transition-all ${
                   plan.highlight
                     ? "bg-gradient-to-br from-blue-500/10 to-purple-500/10 border-blue-500/50 shadow-lg shadow-blue-500/20"
-                    : "bg-white/5 border-white/10 hover:border-white/20"
+                    : "bg-[var(--card)] border-[var(--border)] hover:border-[var(--primary)]/30"
                 }`}
               >
                 {plan.highlight && (
                   <div className="absolute -top-3 left-1/2 -translate-x-1/2 px-3 py-1 bg-blue-500 text-white text-xs font-bold rounded-full">
-                    ACTIVE
+                    {lang === "zh" ? "當前" : "ACTIVE"}
                   </div>
                 )}
                 
@@ -155,16 +130,16 @@ export default function PricingPage() {
                   <h3 className="text-xl font-bold mb-2">{plan.name}</h3>
                   <div className="flex items-baseline justify-center gap-1 mb-1">
                     <span className="text-4xl font-bold">{plan.price}</span>
-                    <span className="text-sm text-gray-500">{plan.period}</span>
+                    <span className="text-sm text-[var(--muted)]">{plan.period}</span>
                   </div>
-                  <p className="text-xs text-gray-500">{plan.description}</p>
+                  <p className="text-xs text-[var(--muted)]">{plan.description}</p>
                 </div>
 
                 <ul className="space-y-3 mb-6">
                   {plan.features.map((feature, i) => (
                     <li key={i} className="flex items-start gap-2 text-sm">
                       <Check className="h-4 w-4 text-green-400 mt-0.5 flex-shrink-0" />
-                      <span className="text-gray-300">{feature}</span>
+                      <span className="text-[var(--foreground)]/80">{feature}</span>
                     </li>
                   ))}
                 </ul>
@@ -172,8 +147,8 @@ export default function PricingPage() {
                 <button
                   className={`w-full py-3 rounded-xl font-medium transition-all ${
                     plan.highlight
-                      ? "bg-[#00FF41] text-black hover:opacity-90"
-                      : "bg-white/5 border border-white/10 hover:border-white/20"
+                      ? "bg-[var(--primary)] text-[var(--primary-foreground)] hover:opacity-90"
+                      : "bg-[var(--card)] border border-[var(--border)] hover:border-[var(--primary)]/50"
                   }`}
                 >
                   {plan.cta}
@@ -185,63 +160,69 @@ export default function PricingPage() {
           {/* Cost Breakdown */}
           <div className="mb-16">
             <h2 className="text-2xl font-bold text-center mb-8">
-              💰 Cost Breakdown - Transparent Pricing
+              💰 {lang === "zh" ? "成本明細 - 透明定價" : "Cost Breakdown - Transparent Pricing"}
             </h2>
-            <div className="bg-white/5 border border-white/10 rounded-2xl overflow-hidden">
+            <div className="bg-[var(--card)] border border-[var(--border)] rounded-2xl overflow-hidden">
               <table className="w-full">
-                <thead className="bg-white/5">
+                <thead className="bg-[var(--background)]">
                   <tr className="text-left text-sm">
-                    <th className="px-6 py-4">Service</th>
-                    <th className="px-6 py-4">Base Cost</th>
-                    <th className="px-6 py-4">Markup</th>
-                    <th className="px-6 py-4">Final Price</th>
-                    <th className="px-6 py-4">Type</th>
+                    <th className="px-6 py-4">{lang === "zh" ? "服務" : "Service"}</th>
+                    <th className="px-6 py-4">{lang === "zh" ? "基礎成本" : "Base Cost"}</th>
+                    <th className="px-6 py-4">{lang === "zh" ? "加成" : "Markup"}</th>
+                    <th className="px-6 py-4">{lang === "zh" ? "最終價格" : "Final Price"}</th>
+                    <th className="px-6 py-4">{lang === "zh" ? "類型" : "Type"}</th>
                   </tr>
                 </thead>
                 <tbody>
                   {costBreakdown.map((item, i) => (
-                    <tr key={i} className="border-t border-white/5 hover:bg-white/5 transition-colors">
+                    <tr key={i} className="border-t border-[var(--border)] hover:bg-[var(--background)] transition-colors">
                       <td className="px-6 py-4 font-medium">{item.service}</td>
-                      <td className="px-6 py-4 text-gray-400">{item.cost}</td>
+                      <td className="px-6 py-4 text-[var(--muted)]">{item.cost}</td>
                       <td className="px-6 py-4">
                         <span className="px-2 py-1 bg-orange-500/20 text-orange-400 rounded text-xs font-mono">
                           {item.markup}
                         </span>
                       </td>
                       <td className="px-6 py-4 font-bold text-green-400">{item.final}</td>
-                      <td className="px-6 py-4 text-xs text-gray-500">{item.type}</td>
+                      <td className="px-6 py-4 text-xs text-[var(--muted)]">{item.type}</td>
                     </tr>
                   ))}
                 </tbody>
               </table>
             </div>
-            <p className="text-center text-xs text-gray-500 mt-4">
-              Formula: <span className="text-blue-400">Final Price = Base Cost × 2 × Vector Index</span>
+            <p className="text-center text-xs text-[var(--muted)] mt-4">
+              {lang === "zh" ? "公式：" : "Formula:"} <span className="text-blue-400">Final Price = Base Cost × 2 × Vector Index</span>
             </p>
           </div>
 
           {/* Memory Panel Explanation */}
           <div className="grid md:grid-cols-2 gap-6">
-            <div className="p-6 rounded-xl bg-white/5 border border-white/10">
+            <div className="p-6 rounded-xl bg-[var(--card)] border border-[var(--border)]">
               <Brain className="h-8 w-8 text-purple-400 mb-4" />
-              <h3 className="text-lg font-bold mb-2">Vector Memory</h3>
-              <p className="text-sm text-gray-400 mb-4">
-                Every conversation is indexed and stored in MongoDB Atlas. Retrieval is instant and context-aware.
+              <h3 className="text-lg font-bold mb-2">{lang === "zh" ? "向量記憶" : "Vector Memory"}</h3>
+              <p className="text-sm text-[var(--muted)] mb-4">
+                {lang === "zh" 
+                  ? "每次對話都會被索引並存儲在 MongoDB Atlas。檢索即時且具有上下文感知。"
+                  : "Every conversation is indexed and stored in MongoDB Atlas. Retrieval is instant and context-aware."
+                }
               </p>
-              <ul className="space-y-2 text-xs text-gray-500">
-                <li>• Semantic search across all chats</li>
-                <li>• Long-term memory retention</li>
-                <li>• Cross-conversation context</li>
+              <ul className="space-y-2 text-xs text-[var(--muted)]">
+                <li>• {lang === "zh" ? "跨對話語義搜索" : "Semantic search across all chats"}</li>
+                <li>• {lang === "zh" ? "長期記憶保留" : "Long-term memory retention"}</li>
+                <li>• {lang === "zh" ? "跨對話上下文" : "Cross-conversation context"}</li>
               </ul>
             </div>
 
-            <div className="p-6 rounded-xl bg-white/5 border border-white/10">
+            <div className="p-6 rounded-xl bg-[var(--card)] border border-[var(--border)]">
               <Zap className="h-8 w-8 text-yellow-400 mb-4" />
-              <h3 className="text-lg font-bold mb-2">Low API Cost</h3>
-              <p className="text-sm text-gray-400 mb-4">
-                Gemini API calls are extremely cheap. We charge 2× for infrastructure and support.
+              <h3 className="text-lg font-bold mb-2">{lang === "zh" ? "低 API 成本" : "Low API Cost"}</h3>
+              <p className="text-sm text-[var(--muted)] mb-4">
+                {lang === "zh" 
+                  ? "Gemini API 調用極低成本。我們收取 2× 用於基礎設施和支持。"
+                  : "Gemini API calls are extremely cheap. We charge 2× for infrastructure and support."
+                }
               </p>
-              <ul className="space-y-2 text-xs text-gray-500">
+              <ul className="space-y-2 text-xs text-[var(--muted)]">
                 <li>• Gemini 2.5 Flash: ฿0.14/1K tokens</li>
                 <li>• Claude 4: ฿1.12/1K tokens</li>
                 <li>• GPT-4o: ฿2.80/1K tokens</li>
@@ -251,24 +232,7 @@ export default function PricingPage() {
         </div>
       </main>
 
-      {/* Footer - Unified Section */}
-      <footer className="border-t border-white/10 bg-gradient-to-b from-transparent to-black/30">
-        <AuthProviders />
-        <SocialChannels />
-        <TechStack />
-        <div className="py-8 border-t border-white/5">
-          <div className="max-w-7xl mx-auto px-4 text-center">
-            <p className="text-lg font-medium text-white mb-2">📞 +66 88 88080888</p>
-            <p className="text-xs text-gray-500 mb-4">© 2025 OECE Tech · Built with 🔥 Firebase · Powered by Gemini AI</p>
-            <div className="flex justify-center gap-4 text-[10px] text-gray-600">
-              <a href="#" className="hover:text-white transition-colors">Privacy</a>
-              <a href="#" className="hover:text-white transition-colors">Terms</a>
-              <a href="#" className="hover:text-white transition-colors">Contact</a>
-              <a href="#" className="hover:text-white transition-colors">Status</a>
-            </div>
-          </div>
-        </div>
-      </footer>
+      <SharedFooter />
     </div>
   );
 }

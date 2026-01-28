@@ -1,48 +1,21 @@
 "use client";
 
 import Link from "next/link";
-import { ThemeToggle } from "@/components/theme-toggle";
-import { LanguageToggle } from "@/components/language-toggle";
-import { TechStack } from "@/components/tech-stack";
 import { AssetShowcase } from "@/components/asset-showcase";
-import { SocialChannels, AuthProviders } from "@/components/social-channels";
-import { Sparkles, Heart } from "lucide-react";
+import { SharedHeader } from "@/components/shared-header";
+import { SharedFooter } from "@/components/shared-footer";
+import { Heart } from "lucide-react";
 import { useLanguage } from "@/lib/language-provider";
 
 export default function Home() {
   const { t } = useLanguage();
 
   return (
-    <div className="min-h-screen w-full bg-[#0D1117] text-white">
-      {/* Matrix Background Effect */}
-      <div className="fixed inset-0 bg-gradient-to-br from-[#00FF41]/5 via-transparent to-[#00FF41]/5 pointer-events-none" />
+    <div className="min-h-screen w-full bg-[var(--background)] text-[var(--foreground)]">
+      {/* Background Effect */}
+      <div className="fixed inset-0 bg-gradient-to-br from-[var(--primary)]/5 via-transparent to-[var(--primary)]/5 pointer-events-none" />
       
-      {/* Header */}
-      <header className="fixed top-0 w-full z-50 border-b border-[#00FF41]/20 bg-[#0D1117]/90 backdrop-blur-md">
-        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 h-16 flex items-center justify-between">
-          <div className="flex items-center gap-3">
-            <div className="relative">
-              <Sparkles className="h-6 w-6 text-[#00FF41] animate-pulse" />
-              <div className="absolute inset-0 blur-xl bg-[#00FF41]/30" />
-            </div>
-            <span className="text-xl font-bold bg-gradient-to-r from-[#00FF41] to-[#00FF41]/60 bg-clip-text text-transparent">OECE.tech</span>
-          </div>
-
-          <div className="flex items-center gap-4">
-            <Link href="/knowledge" className="px-3 py-1.5 text-sm text-gray-300 hover:text-[#00FF41] transition-colors">
-              {t("nav.knowledge")}
-            </Link>
-            <Link href="/pricing" className="px-3 py-1.5 text-sm text-gray-300 hover:text-[#00FF41] transition-colors">
-              {t("nav.pricing")}
-            </Link>
-            <LanguageToggle />
-            <ThemeToggle />
-            <Link href="/login" className="px-4 py-2 text-sm border border-[#00FF41]/30 rounded-lg hover:border-[#00FF41] hover:bg-[#00FF41]/10 transition-all">
-              {t("nav.signIn")}
-            </Link>
-          </div>
-        </div>
-      </header>
+      <SharedHeader currentPage="home" />
 
       {/* Main Content */}
       <main className="relative pt-24 pb-16 px-4">
@@ -642,35 +615,7 @@ export default function Home() {
       {/* Asset Portfolio */}
       <AssetShowcase />
 
-      {/* Footer - Unified Section */}
-      <footer className="border-t border-white/10 bg-gradient-to-b from-transparent to-black/30">
-        {/* 1. 登錄支持 */}
-        <AuthProviders />
-        
-        {/* 2. 宣傳渠道 */}
-        <SocialChannels />
-        
-        {/* 3. 技術棧背書 */}
-        <TechStack />
-        
-        {/* 4. 聯繫方式 */}
-        <div className="py-8 border-t border-white/5">
-          <div className="max-w-7xl mx-auto px-4 text-center">
-            <p className="text-lg font-medium text-white mb-2">
-              📞 +66 88 88080888
-            </p>
-            <p className="text-xs text-gray-500 mb-4">
-              © 2025 OECE Tech · Built with 🔥 Firebase · Powered by Gemini AI
-            </p>
-            <div className="flex justify-center gap-4 text-[10px] text-gray-600">
-              <a href="#" className="hover:text-white transition-colors">Privacy</a>
-              <a href="#" className="hover:text-white transition-colors">Terms</a>
-              <a href="#" className="hover:text-white transition-colors">Contact</a>
-              <a href="#" className="hover:text-white transition-colors">Status</a>
-            </div>
-          </div>
-        </div>
-      </footer>
+      <SharedFooter />
     </div>
   );
 }
