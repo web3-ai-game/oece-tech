@@ -3,12 +3,10 @@
 import Link from "next/link";
 import { ThemeToggle } from "@/components/theme-toggle";
 import { LanguageToggle } from "@/components/language-toggle";
-import { TokenMeter } from "@/components/token-meter";
-import { ChatWindow } from "@/components/chat-window";
 import { TechStack } from "@/components/tech-stack";
 import { AssetShowcase } from "@/components/asset-showcase";
 import { SocialChannels, AuthProviders } from "@/components/social-channels";
-import { Sparkles, MessageSquare, Zap, FileText, CreditCard, Heart } from "lucide-react";
+import { Sparkles, Heart } from "lucide-react";
 import { useLanguage } from "@/lib/language-provider";
 
 export default function Home() {
@@ -214,7 +212,8 @@ export default function Home() {
             {/* Tech Details */}
             <div className="grid grid-cols-1 md:grid-cols-2 gap-6 max-w-5xl mx-auto">
               {/* Left Card */}
-              <div className="p-8 rounded-2xl bg-[#161B22] border border-[#00FF41]/20">
+              <div className="relative p-8 rounded-2xl bg-[#161B22] border border-[#00FF41]/20 overflow-hidden">
+                <div className="pointer-events-none absolute -top-16 -right-16 h-56 w-56 rounded-full bg-[#00FF41]/10 blur-3xl" />
                 <div className="flex items-center gap-3 mb-4">
                   <div className="w-10 h-10 rounded-lg bg-[#00FF41]/10 flex items-center justify-center">
                     <span className="text-2xl">🔬</span>
@@ -226,6 +225,61 @@ export default function Home() {
                   通過<span className="text-[#00FF41] font-semibold">神經網絡編碼器</span>將知識轉化為高維向量空間，
                   實現<span className="text-[#00FF41] font-semibold">99.5% 的語義保真度</span>，同時將存儲體積壓縮至原始數據的 <span className="text-[#00FF41] font-semibold">1/100</span>。
                 </p>
+                <div className="relative mb-4 rounded-xl border border-[#00FF41]/15 bg-black/20">
+                  <div className="absolute inset-0 bg-gradient-to-r from-[#00FF41]/0 via-[#00FF41]/10 to-[#00FF41]/0 opacity-60" />
+                  <svg
+                    viewBox="0 0 420 120"
+                    className="relative h-24 w-full"
+                    aria-hidden="true"
+                  >
+                    <defs>
+                      <linearGradient id="nnStroke" x1="0" y1="0" x2="1" y2="0">
+                        <stop offset="0%" stopColor="rgba(0,255,65,0.2)" />
+                        <stop offset="50%" stopColor="rgba(34,211,238,0.45)" />
+                        <stop offset="100%" stopColor="rgba(0,255,65,0.2)" />
+                      </linearGradient>
+                      <filter id="nnGlow" x="-40%" y="-40%" width="180%" height="180%">
+                        <feGaussianBlur stdDeviation="2.5" result="blur" />
+                        <feMerge>
+                          <feMergeNode in="blur" />
+                          <feMergeNode in="SourceGraphic" />
+                        </feMerge>
+                      </filter>
+                    </defs>
+
+                    {/* Connections */}
+                    <g filter="url(#nnGlow)" stroke="url(#nnStroke)" strokeWidth="1.2" strokeLinecap="round" fill="none">
+                      <path d="M30 20 C120 15, 140 45, 210 40" className="opacity-60" />
+                      <path d="M30 60 C120 60, 140 60, 210 40" className="opacity-35" />
+                      <path d="M30 100 C120 105, 140 75, 210 80" className="opacity-60" />
+
+                      <path d="M210 40 C280 20, 310 35, 390 20" className="opacity-55" />
+                      <path d="M210 40 C280 60, 310 60, 390 60" className="opacity-35" />
+                      <path d="M210 80 C280 100, 310 85, 390 100" className="opacity-55" />
+
+                      <path d="M210 80 C280 60, 310 60, 390 60" className="opacity-25" />
+                      <path d="M30 20 C110 20, 160 90, 210 80" className="opacity-25" />
+                    </g>
+
+                    {/* Nodes */}
+                    <g filter="url(#nnGlow)">
+                      <circle cx="30" cy="20" r="6" fill="rgba(0,255,65,0.85)" />
+                      <circle cx="30" cy="60" r="6" fill="rgba(0,255,65,0.55)" />
+                      <circle cx="30" cy="100" r="6" fill="rgba(0,255,65,0.85)" />
+
+                      <circle cx="210" cy="40" r="7" fill="rgba(34,211,238,0.85)" />
+                      <circle cx="210" cy="80" r="7" fill="rgba(34,211,238,0.65)" />
+
+                      <circle cx="390" cy="20" r="6" fill="rgba(0,255,65,0.7)" />
+                      <circle cx="390" cy="60" r="6" fill="rgba(0,255,65,0.9)" />
+                      <circle cx="390" cy="100" r="6" fill="rgba(0,255,65,0.7)" />
+
+                      {/* Pulse */}
+                      <circle cx="210" cy="40" r="15" fill="rgba(34,211,238,0.12)" className="animate-pulse" />
+                      <circle cx="390" cy="60" r="18" fill="rgba(0,255,65,0.10)" className="animate-pulse" />
+                    </g>
+                  </svg>
+                </div>
                 <div className="flex flex-wrap gap-2">
                   <span className="px-3 py-1 rounded-full bg-[#00FF41]/10 border border-[#00FF41]/30 text-[#00FF41] text-xs">語義編碼</span>
                   <span className="px-3 py-1 rounded-full bg-[#00FF41]/10 border border-[#00FF41]/30 text-[#00FF41] text-xs">向量壓縮</span>
