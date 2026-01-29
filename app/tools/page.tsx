@@ -165,7 +165,6 @@ export default function ToolsPage() {
                 {!tool.free && (
                   <div className="absolute top-2 right-2">
                     <span className="text-[9px] px-2 py-0.5 bg-yellow-500/20 text-yellow-400 rounded-full border border-yellow-500/30">
-                      PRO
                     </span>
                   </div>
                 )}
