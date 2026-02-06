@@ -1,4 +1,6 @@
 "use client";
+import { SharedHeader } from "@/components/shared-header";
+import { SharedFooter } from "@/components/shared-footer";
 
 import { useState } from "react";
 import Link from "next/link";
@@ -16,22 +18,10 @@ export default function SettingsPage() {
   });
 
   return (
-    <div className="min-h-screen bg-[var(--background)] text-[var(--foreground)]">
-      {/* Header */}
-      <header className="fixed top-0 w-full z-50 border-b border-white/10 bg-[var(--background)]/80 backdrop-blur-sm">
-        <div className="max-w-7xl mx-auto px-4 h-14 flex items-center justify-between">
-          <Link href="/" className="flex items-center gap-2">
-            <Sparkles className="h-5 w-5 text-[var(--primary)]" />
-            <span className="text-lg font-semibold">OECE.tech</span>
-          </Link>
-          <Link href="/profile" className="text-sm text-gray-400 hover:text-white">
-            ← Back to Profile
-          </Link>
-        </div>
-      </header>
+    <div className="min-h-screen bg-[var(--background)] text-[var(--foreground)]">      <SharedHeader />
 
       {/* Main Content */}
-      <main className="pt-20 pb-12 px-4">
+      <main className="relative pt-24 pb-16 px-4">
         <div className="max-w-4xl mx-auto">
           <h1 className="text-3xl font-bold mb-8">Settings</h1>
 
@@ -41,14 +31,14 @@ export default function SettingsPage() {
               <User className="h-5 w-5 text-blue-400" />
               <h2 className="text-xl font-semibold">Account</h2>
             </div>
-            <div className="space-y-4 bg-white/5 border border-white/10 rounded-xl p-6">
+            <div className="space-y-4 bg-[var(--input-bg)] border border-[var(--border-subtle)] rounded-xl p-6">
               <div>
                 <label className="block text-sm font-medium mb-2">Display Name</label>
                 <input
                   type="text"
                   value={settings.displayName}
                   onChange={(e) => setSettings({...settings, displayName: e.target.value})}
-                  className="w-full px-4 py-2 bg-white/5 border border-white/10 rounded-lg focus:border-[var(--primary)] outline-none"
+                  className="w-full px-4 py-2 bg-[var(--input-bg)] border border-[var(--border-subtle)] rounded-lg focus:border-[var(--primary)] outline-none"
                 />
               </div>
               <div>
@@ -57,9 +47,9 @@ export default function SettingsPage() {
                   type="email"
                   value={settings.email}
                   disabled
-                  className="w-full px-4 py-2 bg-white/5 border border-white/10 rounded-lg opacity-50 cursor-not-allowed"
+                  className="w-full px-4 py-2 bg-[var(--input-bg)] border border-[var(--border-subtle)] rounded-lg opacity-50 cursor-not-allowed"
                 />
-                <p className="mt-1 text-xs text-gray-500">Email cannot be changed</p>
+                <p className="mt-1 text-xs text-[var(--muted-foreground)]">Email cannot be changed</p>
               </div>
             </div>
           </div>
@@ -70,11 +60,11 @@ export default function SettingsPage() {
               <Bell className="h-5 w-5 text-yellow-400" />
               <h2 className="text-xl font-semibold">Preferences</h2>
             </div>
-            <div className="space-y-3 bg-white/5 border border-white/10 rounded-xl p-6">
+            <div className="space-y-3 bg-[var(--input-bg)] border border-[var(--border-subtle)] rounded-xl p-6">
               <div className="flex items-center justify-between">
                 <div>
                   <h3 className="text-sm font-medium">Notifications</h3>
-                  <p className="text-xs text-gray-500">Receive updates and alerts</p>
+                  <p className="text-xs text-[var(--muted-foreground)]">Receive updates and alerts</p>
                 </div>
                 <button
                   onClick={() => setSettings({...settings, notifications: !settings.notifications})}
@@ -91,7 +81,7 @@ export default function SettingsPage() {
               <div className="flex items-center justify-between">
                 <div>
                   <h3 className="text-sm font-medium">Vector Memory</h3>
-                  <p className="text-xs text-gray-500">Enable long-term conversation memory</p>
+                  <p className="text-xs text-[var(--muted-foreground)]">Enable long-term conversation memory</p>
                 </div>
                 <button
                   onClick={() => setSettings({...settings, vectorMemory: !settings.vectorMemory})}
@@ -108,7 +98,7 @@ export default function SettingsPage() {
               <div className="flex items-center justify-between">
                 <div>
                   <h3 className="text-sm font-medium">Auto-save Chats</h3>
-                  <p className="text-xs text-gray-500">Automatically save conversations</p>
+                  <p className="text-xs text-[var(--muted-foreground)]">Automatically save conversations</p>
                 </div>
                 <button
                   onClick={() => setSettings({...settings, autoSave: !settings.autoSave})}
@@ -130,14 +120,14 @@ export default function SettingsPage() {
               <Database className="h-5 w-5 text-green-400" />
               <h2 className="text-xl font-semibold">Data & Privacy</h2>
             </div>
-            <div className="space-y-3 bg-white/5 border border-white/10 rounded-xl p-6">
-              <button className="w-full flex items-center justify-between p-3 bg-white/5 hover:bg-white/10 rounded-lg transition-colors">
+            <div className="space-y-3 bg-[var(--input-bg)] border border-[var(--border-subtle)] rounded-xl p-6">
+              <button className="w-full flex items-center justify-between p-3 bg-[var(--input-bg)] hover:bg-[var(--input-bg)] rounded-lg transition-colors">
                 <span className="text-sm">Export All Data</span>
-                <span className="text-xs text-gray-500">Download JSON</span>
+                <span className="text-xs text-[var(--muted-foreground)]">Download JSON</span>
               </button>
-              <button className="w-full flex items-center justify-between p-3 bg-white/5 hover:bg-white/10 rounded-lg transition-colors">
+              <button className="w-full flex items-center justify-between p-3 bg-[var(--input-bg)] hover:bg-[var(--input-bg)] rounded-lg transition-colors">
                 <span className="text-sm">Clear Chat History</span>
-                <span className="text-xs text-gray-500">Delete all conversations</span>
+                <span className="text-xs text-[var(--muted-foreground)]">Delete all conversations</span>
               </button>
               <button className="w-full flex items-center justify-between p-3 bg-red-500/10 hover:bg-red-500/20 text-red-400 rounded-lg transition-colors">
                 <div className="flex items-center gap-2">
@@ -156,6 +146,7 @@ export default function SettingsPage() {
           </button>
         </div>
       </main>
+      <SharedFooter />
     </div>
   );
 }

@@ -1,4 +1,6 @@
 "use client";
+import { SharedHeader } from "@/components/shared-header";
+import { SharedFooter } from "@/components/shared-footer";
 
 import { useState } from 'react';
 import Link from 'next/link';
@@ -88,28 +90,10 @@ export default function PromptsPage() {
   };
 
   return (
-    <div className="min-h-screen bg-[#0D1117] text-white">
-      {/* Background */}
-      <div className="fixed inset-0 bg-gradient-to-br from-green-500/5 via-transparent to-emerald-500/5 pointer-events-none" />
-      
-      {/* Header */}
-      <header className="fixed top-0 w-full z-50 border-b border-[#00FF41]/20 bg-[#0D1117]/90 backdrop-blur-md">
-        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 h-16 flex items-center justify-between">
-          <div className="flex items-center gap-4">
-            <Link href="/" className="flex items-center gap-2 text-gray-400 hover:text-[#00FF41] transition-colors">
-              <ArrowLeft className="w-5 h-5" />
-              <span className="text-sm">返回首頁</span>
-            </Link>
-            <div className="flex items-center gap-2">
-              <div className="text-3xl">💡</div>
-              <span className="text-xl font-bold">MCP 提示詞庫</span>
-            </div>
-          </div>
-        </div>
-      </header>
+    <div className="min-h-screen bg-[var(--background)] text-white">      <SharedHeader />
 
       {/* Main Content */}
-      <main className="pt-24 pb-16 px-4">
+      <main className="relative pt-24 pb-16 px-4">
         <div className="max-w-6xl mx-auto">
           {/* Title */}
           <div className="text-center mb-12">
@@ -118,7 +102,7 @@ export default function PromptsPage() {
                 MCP 提示詞庫
               </span>
             </h1>
-            <p className="text-gray-400 text-lg">
+            <p className="text-[var(--muted)] text-lg">
               精選高質量 AI 提示詞，提升你的 AI 使用效率
             </p>
           </div>
@@ -127,13 +111,13 @@ export default function PromptsPage() {
           <div className="mb-8 space-y-4">
             {/* Search Bar */}
             <div className="relative">
-              <Search className="absolute left-4 top-1/2 -translate-y-1/2 w-5 h-5 text-gray-400" />
+              <Search className="absolute left-4 top-1/2 -translate-y-1/2 w-5 h-5 text-[var(--muted)]" />
               <input
                 type="text"
                 value={searchQuery}
                 onChange={(e) => setSearchQuery(e.target.value)}
                 placeholder="搜索提示詞、標籤..."
-                className="w-full pl-12 pr-4 py-4 bg-[#161B22] border border-gray-700 rounded-xl text-white placeholder-gray-500 focus:outline-none focus:border-[#00FF41] transition-colors"
+                className="w-full pl-12 pr-4 py-4 bg-[var(--card)] border border-[var(--border-subtle)] rounded-xl text-white placeholder-gray-500 focus:outline-none focus:border-[var(--primary)] transition-colors"
               />
             </div>
 
@@ -147,8 +131,8 @@ export default function PromptsPage() {
                     onClick={() => setSelectedCategory(cat.id)}
                     className={`px-4 py-2 rounded-lg text-sm font-medium transition-all ${
                       selectedCategory === cat.id
-                        ? 'bg-[#00FF41] text-black'
-                        : 'bg-[#161B22] text-gray-400 hover:text-white border border-gray-700'
+                        ? 'bg-[var(--primary)] text-black'
+                        : 'bg-[var(--card)] text-[var(--muted)] hover:text-[var(--foreground)] border border-[var(--border-subtle)]'
                     }`}
                   >
                     <span className="mr-1">{cat.emoji}</span>
@@ -163,8 +147,8 @@ export default function PromptsPage() {
                   onClick={() => setSelectedLanguage('all')}
                   className={`px-4 py-2 rounded-lg text-sm font-medium transition-all ${
                     selectedLanguage === 'all'
-                      ? 'bg-[#00FF41] text-black'
-                      : 'bg-[#161B22] text-gray-400 hover:text-white border border-gray-700'
+                      ? 'bg-[var(--primary)] text-black'
+                      : 'bg-[var(--card)] text-[var(--muted)] hover:text-[var(--foreground)] border border-[var(--border-subtle)]'
                   }`}
                 >
                   全部
@@ -173,8 +157,8 @@ export default function PromptsPage() {
                   onClick={() => setSelectedLanguage('zh')}
                   className={`px-4 py-2 rounded-lg text-sm font-medium transition-all ${
                     selectedLanguage === 'zh'
-                      ? 'bg-[#00FF41] text-black'
-                      : 'bg-[#161B22] text-gray-400 hover:text-white border border-gray-700'
+                      ? 'bg-[var(--primary)] text-black'
+                      : 'bg-[var(--card)] text-[var(--muted)] hover:text-[var(--foreground)] border border-[var(--border-subtle)]'
                   }`}
                 >
                   中文
@@ -183,8 +167,8 @@ export default function PromptsPage() {
                   onClick={() => setSelectedLanguage('en')}
                   className={`px-4 py-2 rounded-lg text-sm font-medium transition-all ${
                     selectedLanguage === 'en'
-                      ? 'bg-[#00FF41] text-black'
-                      : 'bg-[#161B22] text-gray-400 hover:text-white border border-gray-700'
+                      ? 'bg-[var(--primary)] text-black'
+                      : 'bg-[var(--card)] text-[var(--muted)] hover:text-[var(--foreground)] border border-[var(--border-subtle)]'
                   }`}
                 >
                   English
@@ -194,7 +178,7 @@ export default function PromptsPage() {
           </div>
 
           {/* Results Count */}
-          <div className="mb-4 text-sm text-gray-400">
+          <div className="mb-4 text-sm text-[var(--muted)]">
             找到 {filteredPrompts.length} 個提示詞
           </div>
 
@@ -203,14 +187,14 @@ export default function PromptsPage() {
             {filteredPrompts.map((prompt) => (
               <div
                 key={prompt.id}
-                className="p-6 rounded-xl bg-[#161B22] border border-gray-700 hover:border-[#00FF41] transition-all group"
+                className="p-6 rounded-xl bg-[var(--card)] border border-[var(--border-subtle)] hover:border-[var(--primary)] transition-all group"
               >
                 <div className="flex items-start justify-between mb-4">
                   <div className="flex-1">
-                    <h3 className="text-lg font-bold mb-2 group-hover:text-[#00FF41] transition-colors">
+                    <h3 className="text-lg font-bold mb-2 group-hover:text-[var(--primary)] transition-colors">
                       {prompt.title}
                     </h3>
-                    <div className="flex items-center gap-4 text-xs text-gray-400">
+                    <div className="flex items-center gap-4 text-xs text-[var(--muted)]">
                       <div className="flex items-center gap-1">
                         <Star className="w-3 h-3 text-yellow-400 fill-yellow-400" />
                         <span>{prompt.rating}</span>
@@ -219,14 +203,14 @@ export default function PromptsPage() {
                         <ThumbsUp className="w-3 h-3" />
                         <span>{prompt.uses.toLocaleString()} 次使用</span>
                       </div>
-                      <div className="px-2 py-0.5 rounded bg-gray-700 text-gray-300">
+                      <div className="px-2 py-0.5 rounded bg-gray-700 text-[var(--foreground)]">
                         {prompt.language === 'zh' ? '中文' : 'English'}
                       </div>
                     </div>
                   </div>
                   <button
                     onClick={() => handleCopy(prompt)}
-                    className="px-4 py-2 bg-[#00FF41] text-black rounded-lg font-medium hover:bg-[#00FF41]/90 transition-all flex items-center gap-2"
+                    className="px-4 py-2 bg-[var(--primary)] text-black rounded-lg font-medium hover:bg-[var(--primary)]/90 transition-all flex items-center gap-2"
                   >
                     {copiedId === prompt.id ? (
                       <>
@@ -242,7 +226,7 @@ export default function PromptsPage() {
                   </button>
                 </div>
 
-                <p className="text-sm text-gray-300 mb-4 leading-relaxed">
+                <p className="text-sm text-[var(--foreground)] mb-4 leading-relaxed">
                   {prompt.content}
                 </p>
 
@@ -250,7 +234,7 @@ export default function PromptsPage() {
                   {prompt.tags.map((tag, idx) => (
                     <span
                       key={idx}
-                      className="px-2 py-1 rounded-lg bg-[#00FF41]/10 border border-[#00FF41]/20 text-[#00FF41] text-xs"
+                      className="px-2 py-1 rounded-lg bg-[var(--primary)]/10 border border-[var(--primary)]/20 text-[var(--primary)] text-xs"
                     >
                       #{tag}
                     </span>
@@ -264,11 +248,12 @@ export default function PromptsPage() {
             <div className="text-center py-16">
               <div className="text-6xl mb-4">🔍</div>
               <h3 className="text-xl font-bold mb-2">沒有找到相關提示詞</h3>
-              <p className="text-gray-400">試試調整搜索條件或篩選器</p>
+              <p className="text-[var(--muted)]">試試調整搜索條件或篩選器</p>
             </div>
           )}
         </div>
       </main>
+      <SharedFooter />
     </div>
   );
 }

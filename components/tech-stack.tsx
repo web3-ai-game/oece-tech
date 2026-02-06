@@ -34,24 +34,24 @@ const techStack = [
 
 export function TechStack() {
   return (
-    <section className="py-16 bg-black/20">
+    <section className="py-16 bg-[var(--background)]">
       <div className="max-w-6xl mx-auto px-4">
         {/* Header */}
         <div className="text-center mb-10">
-          <span className="text-xs font-mono text-blue-400 uppercase tracking-wider">
+          <span className="text-xs font-mono text-[var(--accent)] uppercase tracking-wider">
             🏆 POWERED BY GIANTS
           </span>
-          <h2 className="text-2xl md:text-3xl font-bold mt-2 text-white">
+          <h2 className="text-2xl md:text-3xl font-bold mt-2 text-[var(--foreground)]">
             Built on World-Class Infrastructure
           </h2>
         </div>
 
         {/* Stats - Inline */}
         <div className="flex justify-center gap-6 mb-10 text-center">
-          <div><span className="text-xl font-bold text-blue-400">20+</span><span className="text-xs text-gray-500 ml-1">Keys</span></div>
-          <div><span className="text-xl font-bold text-green-400">$1,411</span><span className="text-xs text-gray-500 ml-1">Credits</span></div>
-          <div><span className="text-xl font-bold text-orange-400">200+</span><span className="text-xs text-gray-500 ml-1">Edge</span></div>
-          <div><span className="text-xl font-bold text-purple-400">99.9%</span><span className="text-xs text-gray-500 ml-1">SLA</span></div>
+          <div><span className="text-xl font-bold text-blue-400">20+</span><span className="text-xs text-[var(--muted-foreground)] ml-1">Keys</span></div>
+          <div><span className="text-xl font-bold text-green-400">$1,411</span><span className="text-xs text-[var(--muted-foreground)] ml-1">Credits</span></div>
+          <div><span className="text-xl font-bold text-orange-400">200+</span><span className="text-xs text-[var(--muted-foreground)] ml-1">Edge</span></div>
+          <div><span className="text-xl font-bold text-purple-400">99.9%</span><span className="text-xs text-[var(--muted-foreground)] ml-1">SLA</span></div>
         </div>
 
         {/* Tech Grid - Flat Style */}
@@ -63,16 +63,16 @@ export function TechStack() {
               whileInView={{ opacity: 1, y: 0 }}
               transition={{ delay: i * 0.02 }}
               whileHover={{ y: -3 }}
-              className="group p-3 rounded-xl bg-white/5 border border-white/10 hover:border-white/20 transition-all cursor-default"
+              className="group p-3 rounded-xl bg-[var(--input-bg)] border border-[var(--border-subtle)] hover:border-[var(--border)] transition-all cursor-default"
             >
               <item.icon 
                 className="w-6 h-6 mb-2 mx-auto" 
                 style={{ color: item.color }}
               />
-              <h3 className="text-xs font-medium text-center text-gray-300 group-hover:text-white truncate">
+              <h3 className="text-xs font-medium text-center text-[var(--muted)] group-hover:text-[var(--foreground)] truncate">
                 {item.name}
               </h3>
-              <p className="text-[10px] text-center text-gray-600 truncate">
+              <p className="text-[10px] text-center text-[var(--muted-foreground)] truncate">
                 {item.desc}
               </p>
             </motion.div>
@@ -80,10 +80,10 @@ export function TechStack() {
         </div>
 
         {/* Footer */}
-        <div className="text-center mt-8 text-xs text-gray-600">
+        <div className="text-center mt-8 text-xs text-[var(--muted-foreground)]">
           Enterprise-grade security • Auto-scaling • Global CDN • Zero-config deployment
         </div>
-        <div className="flex justify-center gap-3 mt-3 text-[10px] text-gray-500">
+        <div className="flex justify-center gap-3 mt-3 text-[10px] text-[var(--muted-foreground)]">
           <span>🔥 Firebase Blaze</span>
           <span>•</span>
           <span>☁️ GCP Free Tier</span>

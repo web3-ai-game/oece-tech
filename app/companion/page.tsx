@@ -8,17 +8,17 @@ import { ArrowLeft, Sparkles } from 'lucide-react';
 
 export default function CompanionPage() {
   return (
-    <div className="min-h-screen bg-[#0D1117] text-white">
+    <div className="min-h-screen bg-[var(--background)] text-[var(--foreground)]">
       {/* Header */}
-      <header className="fixed top-0 w-full z-50 border-b border-[#00FF41]/10 bg-[#0D1117]/80 backdrop-blur-sm">
+      <header className="fixed top-0 w-full z-50 border-b border-[var(--border-subtle)] bg-[var(--header-bg)] backdrop-blur-xl">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 h-14 flex items-center justify-between">
           <div className="flex items-center gap-4">
-            <Link href="/" className="flex items-center gap-2 text-gray-400 hover:text-[#00FF41] transition-colors">
+            <Link href="/" className="flex items-center gap-2 text-[var(--muted)] hover:text-[var(--primary)] transition-colors">
               <ArrowLeft className="w-4 h-4" />
               <span className="text-sm">返回首頁</span>
             </Link>
             <div className="flex items-center gap-2">
-              <Sparkles className="h-5 w-5 text-[#00FF41]" />
+              <Sparkles className="h-5 w-5 text-[var(--primary)]" />
               <span className="text-lg font-semibold">AI 伴侶</span>
             </div>
           </div>
@@ -36,9 +36,9 @@ export default function CompanionPage() {
           {/* Title */}
           <div className="text-center mb-8">
             <h1 className="text-3xl md:text-4xl font-bold mb-3">
-              你的 AI 伴侶 <span className="text-[#00FF41]">🤖</span>
+              你的 AI 伴侶 <span className="text-[var(--primary)]">🤖</span>
             </h1>
-            <p className="text-sm text-gray-400">
+            <p className="text-sm text-[var(--muted)]">
               由 Grok 4 驅動 · 支持多輪對話 · 具備記憶功能
             </p>
           </div>
@@ -48,22 +48,22 @@ export default function CompanionPage() {
 
           {/* Info Cards */}
           <div className="grid grid-cols-1 md:grid-cols-3 gap-4 mt-8 max-w-4xl mx-auto">
-            <div className="p-4 rounded-xl bg-[#161B22] border border-[#00FF41]/10">
+            <div className="p-4 rounded-xl bg-[var(--card)] border border-[var(--border-subtle)]">
               <div className="text-2xl mb-2">🧠</div>
               <h3 className="font-semibold mb-1">智能記憶</h3>
-              <p className="text-xs text-gray-400">記住你的喜好和對話歷史</p>
+              <p className="text-xs text-[var(--muted)]">記住你的喜好和對話歷史</p>
             </div>
             
-            <div className="p-4 rounded-xl bg-[#161B22] border border-[#00FF41]/10">
+            <div className="p-4 rounded-xl bg-[var(--card)] border border-[var(--border-subtle)]">
               <div className="text-2xl mb-2">💬</div>
               <h3 className="font-semibold mb-1">自然對話</h3>
-              <p className="text-xs text-gray-400">像朋友一樣聊天，無限次數</p>
+              <p className="text-xs text-[var(--muted)]">像朋友一樣聊天，無限次數</p>
             </div>
             
-            <div className="p-4 rounded-xl bg-[#161B22] border border-[#00FF41]/10">
+            <div className="p-4 rounded-xl bg-[var(--card)] border border-[var(--border-subtle)]">
               <div className="text-2xl mb-2">🔒</div>
               <h3 className="font-semibold mb-1">隱私保護</h3>
-              <p className="text-xs text-gray-400">對話加密存儲，僅你可見</p>
+              <p className="text-xs text-[var(--muted)]">對話加密存儲，僅你可見</p>
             </div>
           </div>
         </div>

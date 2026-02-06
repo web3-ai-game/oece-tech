@@ -1,4 +1,6 @@
 "use client";
+import { SharedHeader } from "@/components/shared-header";
+import { SharedFooter } from "@/components/shared-footer";
 
 import { useState } from 'react';
 import Link from 'next/link';
@@ -34,28 +36,10 @@ export default function ComicPage() {
   };
 
   return (
-    <div className="min-h-screen bg-[#0D1117] text-white">
-      {/* Background */}
-      <div className="fixed inset-0 bg-gradient-to-br from-purple-500/5 via-transparent to-pink-500/5 pointer-events-none" />
-      
-      {/* Header */}
-      <header className="fixed top-0 w-full z-50 border-b border-[#00FF41]/20 bg-[#0D1117]/90 backdrop-blur-md">
-        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 h-16 flex items-center justify-between">
-          <div className="flex items-center gap-4">
-            <Link href="/" className="flex items-center gap-2 text-gray-400 hover:text-[#00FF41] transition-colors">
-              <ArrowLeft className="w-5 h-5" />
-              <span className="text-sm">返回首頁</span>
-            </Link>
-            <div className="flex items-center gap-2">
-              <div className="text-3xl">🎨</div>
-              <span className="text-xl font-bold">AI 漫畫生成器</span>
-            </div>
-          </div>
-        </div>
-      </header>
+    <div className="min-h-screen bg-[var(--background)] text-white">      <SharedHeader />
 
       {/* Main Content */}
-      <main className="pt-24 pb-16 px-4">
+      <main className="relative pt-24 pb-16 px-4">
         <div className="max-w-6xl mx-auto">
           {/* Title */}
           <div className="text-center mb-12">
@@ -64,7 +48,7 @@ export default function ComicPage() {
                 AI 漫畫生成器
               </span>
             </h1>
-            <p className="text-gray-400 text-lg">
+            <p className="text-[var(--muted)] text-lg">
               輸入劇情，AI 自動生成精美漫畫分鏡
             </p>
           </div>
@@ -73,7 +57,7 @@ export default function ComicPage() {
             {/* Left Panel - Input */}
             <div className="lg:col-span-1 space-y-6">
               {/* Style Selection */}
-              <div className="p-6 rounded-2xl bg-[#161B22] border border-purple-500/20">
+              <div className="p-6 rounded-2xl bg-[var(--card)] border border-purple-500/20">
                 <h3 className="text-sm font-bold mb-4 flex items-center gap-2">
                   <Wand2 className="w-4 h-4 text-purple-400" />
                   選擇風格
@@ -86,7 +70,7 @@ export default function ComicPage() {
                       className={`p-4 rounded-xl border-2 transition-all ${
                         style === s.id
                           ? 'border-purple-500 bg-purple-500/10'
-                          : 'border-gray-700 hover:border-purple-500/50'
+                          : 'border-[var(--border-subtle)] hover:border-purple-500/50'
                       }`}
                     >
                       <div className="text-2xl mb-2">{s.emoji}</div>
@@ -97,7 +81,7 @@ export default function ComicPage() {
               </div>
 
               {/* Prompt Input */}
-              <div className="p-6 rounded-2xl bg-[#161B22] border border-purple-500/20">
+              <div className="p-6 rounded-2xl bg-[var(--card)] border border-purple-500/20">
                 <h3 className="text-sm font-bold mb-4 flex items-center gap-2">
                   <Sparkles className="w-4 h-4 text-purple-400" />
                   劇情描述
@@ -106,7 +90,7 @@ export default function ComicPage() {
                   value={prompt}
                   onChange={(e) => setPrompt(e.target.value)}
                   placeholder="例如：一個少年在森林中遇到神秘的精靈，精靈告訴他世界即將毀滅..."
-                  className="w-full h-40 bg-[#0D1117] border border-gray-700 rounded-xl px-4 py-3 text-sm text-white placeholder-gray-500 focus:outline-none focus:border-purple-500 transition-colors resize-none"
+                  className="w-full h-40 bg-[var(--background)] border border-[var(--border-subtle)] rounded-xl px-4 py-3 text-sm text-white placeholder-gray-500 focus:outline-none focus:border-purple-500 transition-colors resize-none"
                 />
                 <button
                   onClick={handleGenerate}
@@ -129,7 +113,7 @@ export default function ComicPage() {
 
               {/* Tips */}
               <div className="p-4 rounded-xl bg-purple-500/10 border border-purple-500/20">
-                <div className="text-xs text-gray-400 space-y-2">
+                <div className="text-xs text-[var(--muted)] space-y-2">
                   <p className="flex items-start gap-2">
                     <span className="text-purple-400">💡</span>
                     <span>描述越詳細，生成的漫畫越精準</span>
@@ -144,12 +128,12 @@ export default function ComicPage() {
 
             {/* Right Panel - Results */}
             <div className="lg:col-span-2">
-              <div className="p-6 rounded-2xl bg-[#161B22] border border-purple-500/20 min-h-[600px]">
+              <div className="p-6 rounded-2xl bg-[var(--card)] border border-purple-500/20 min-h-[600px]">
                 {panels.length === 0 ? (
                   <div className="h-full flex flex-col items-center justify-center text-center">
                     <div className="text-6xl mb-4">🎨</div>
                     <h3 className="text-xl font-bold mb-2">等待生成</h3>
-                    <p className="text-sm text-gray-400">
+                    <p className="text-sm text-[var(--muted)]">
                       輸入劇情並選擇風格，點擊生成按鈕開始創作
                     </p>
                   </div>
@@ -158,11 +142,11 @@ export default function ComicPage() {
                     <div className="flex items-center justify-between">
                       <h3 className="text-lg font-bold">生成結果</h3>
                       <div className="flex gap-2">
-                        <button className="px-4 py-2 bg-[#0D1117] border border-gray-700 rounded-lg text-sm hover:border-purple-500 transition-colors flex items-center gap-2">
+                        <button className="px-4 py-2 bg-[var(--background)] border border-[var(--border-subtle)] rounded-lg text-sm hover:border-purple-500 transition-colors flex items-center gap-2">
                           <Download className="w-4 h-4" />
                           下載
                         </button>
-                        <button className="px-4 py-2 bg-[#0D1117] border border-gray-700 rounded-lg text-sm hover:border-purple-500 transition-colors flex items-center gap-2">
+                        <button className="px-4 py-2 bg-[var(--background)] border border-[var(--border-subtle)] rounded-lg text-sm hover:border-purple-500 transition-colors flex items-center gap-2">
                           <Share2 className="w-4 h-4" />
                           分享
                         </button>
@@ -175,7 +159,7 @@ export default function ComicPage() {
                           <img
                             src={panel}
                             alt={`Panel ${idx + 1}`}
-                            className="w-full rounded-xl border border-gray-700 group-hover:border-purple-500 transition-colors"
+                            className="w-full rounded-xl border border-[var(--border-subtle)] group-hover:border-purple-500 transition-colors"
                           />
                           <div className="absolute top-2 left-2 px-2 py-1 bg-black/80 rounded-lg text-xs font-bold">
                             分鏡 {idx + 1}
@@ -190,6 +174,7 @@ export default function ComicPage() {
           </div>
         </div>
       </main>
+      <SharedFooter />
     </div>
   );
 }

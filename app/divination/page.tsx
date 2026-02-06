@@ -2,7 +2,9 @@
 
 import { useState } from "react";
 import Link from "next/link";
-import { Sparkles, Moon, Star, Zap, Eye, Heart, Loader2 } from "lucide-react";
+import { Moon, Star, Zap, Eye, Heart, Loader2 } from "lucide-react";
+import { SharedHeader } from "@/components/shared-header";
+import { SharedFooter } from "@/components/shared-footer";
 
 const divinationTypes = [
   {
@@ -97,21 +99,10 @@ export default function DivinationPage() {
 
   return (
     <div className="min-h-screen bg-[var(--background)] text-[var(--foreground)]">
-      {/* Header */}
-      <header className="fixed top-0 w-full z-50 border-b border-white/10 bg-[var(--background)]/80 backdrop-blur-sm">
-        <div className="max-w-7xl mx-auto px-4 h-14 flex items-center justify-between">
-          <Link href="/" className="flex items-center gap-2">
-            <Sparkles className="h-5 w-5 text-[var(--primary)]" />
-            <span className="text-lg font-semibold">OECE.tech</span>
-          </Link>
-          <Link href="/" className="text-sm text-gray-400 hover:text-white">
-            ← Back to Home
-          </Link>
-        </div>
-      </header>
+      <SharedHeader currentPage="divination" />
 
       {/* Main Content */}
-      <main className="pt-20 pb-12 px-4">
+      <main className="relative pt-24 pb-16 px-4">
         <div className="max-w-6xl mx-auto">
           {/* Hero */}
           <div className="text-center mb-12">
@@ -121,7 +112,7 @@ export default function DivinationPage() {
             <h1 className="text-4xl md:text-5xl font-bold mb-3">
               賽博 <span className="text-[var(--primary)]">神佛</span>
             </h1>
-            <p className="text-sm text-gray-400 max-w-2xl mx-auto">
+            <p className="text-sm text-[var(--muted)] max-w-2xl mx-auto">
               Ancient wisdom meets AI. Tarot, Astrology, I-Ching, Dream Analysis.
             </p>
           </div>
@@ -135,7 +126,7 @@ export default function DivinationPage() {
                 className={`group p-6 rounded-2xl text-left transition-all ${
                   selectedType.id === type.id
                     ? "bg-gradient-to-br from-purple-500/20 to-pink-500/20 border-2 border-purple-500/50"
-                    : "bg-white/5 border border-white/10 hover:border-white/20"
+                    : "bg-[var(--input-bg)] border border-[var(--border-subtle)] hover:border-[var(--border)]"
                 }`}
               >
                 <type.icon 
@@ -143,11 +134,11 @@ export default function DivinationPage() {
                   style={{ color: type.color }}
                 />
                 <h3 className="text-lg font-bold mb-1">{type.name}</h3>
-                <p className="text-xs text-gray-500 mb-2">{type.nameEn}</p>
-                <p className="text-sm text-gray-400 mb-3">{type.desc}</p>
+                <p className="text-xs text-[var(--muted-foreground)] mb-2">{type.nameEn}</p>
+                <p className="text-sm text-[var(--muted)] mb-3">{type.desc}</p>
                 <div className="flex items-center justify-between">
                   <span className="text-xs font-mono text-yellow-400">{type.cost}</span>
-                  <span className="text-xs text-gray-600 group-hover:text-white transition-colors">
+                  <span className="text-xs text-[var(--muted-foreground)] group-hover:text-[var(--foreground)] transition-colors">
                     開始占卜 →
                   </span>
                 </div>
@@ -161,7 +152,7 @@ export default function DivinationPage() {
               <selectedType.icon className="h-8 w-8" style={{ color: selectedType.color }} />
               <div>
                 <h2 className="text-2xl font-bold">{selectedType.name}</h2>
-                <p className="text-sm text-gray-400">{selectedType.nameEn}</p>
+                <p className="text-sm text-[var(--muted)]">{selectedType.nameEn}</p>
               </div>
             </div>
 
@@ -172,7 +163,7 @@ export default function DivinationPage() {
                 value={question}
                 onChange={(e) => setQuestion(e.target.value)}
                 placeholder="請輸入你想要占卜的問題... (例如：我的事業發展如何？)"
-                className="w-full h-32 p-4 bg-white/5 border border-white/10 rounded-xl focus:border-purple-500 outline-none resize-none"
+                className="w-full h-32 p-4 bg-[var(--input-bg)] border border-[var(--border-subtle)] rounded-xl focus:border-purple-500 outline-none resize-none"
                 disabled={isLoading}
               />
             </div>
@@ -210,35 +201,36 @@ export default function DivinationPage() {
                   <selectedType.icon className="h-5 w-5" style={{ color: selectedType.color }} />
                   {selectedType.name}結果
                 </h3>
-                <div className="text-sm text-gray-300 whitespace-pre-wrap leading-relaxed">
+                <div className="text-sm text-[var(--foreground)] whitespace-pre-wrap leading-relaxed">
                   {response}
                 </div>
               </div>
             )}
 
             {/* Disclaimer */}
-            <p className="mt-4 text-xs text-center text-gray-600">
+            <p className="mt-4 text-xs text-center text-[var(--muted-foreground)]">
               ⚠️ 占卜結果僅供娛樂參考，請勿過度迷信
             </p>
           </div>
 
           {/* Stats */}
           <div className="grid grid-cols-3 gap-4 mt-12 max-w-2xl mx-auto text-center">
-            <div className="p-4 rounded-lg bg-white/5">
+            <div className="p-4 rounded-lg bg-[var(--input-bg)]">
               <div className="text-2xl font-bold text-purple-400">1,234</div>
-              <div className="text-xs text-gray-500">Total Readings</div>
+              <div className="text-xs text-[var(--muted-foreground)]">Total Readings</div>
             </div>
-            <div className="p-4 rounded-lg bg-white/5">
+            <div className="p-4 rounded-lg bg-[var(--input-bg)]">
               <div className="text-2xl font-bold text-pink-400">98.7%</div>
-              <div className="text-xs text-gray-500">Satisfaction</div>
+              <div className="text-xs text-[var(--muted-foreground)]">Satisfaction</div>
             </div>
-            <div className="p-4 rounded-lg bg-white/5">
+            <div className="p-4 rounded-lg bg-[var(--input-bg)]">
               <div className="text-2xl font-bold text-yellow-400">5</div>
-              <div className="text-xs text-gray-500">Methods</div>
+              <div className="text-xs text-[var(--muted-foreground)]">Methods</div>
             </div>
           </div>
         </div>
       </main>
+      <SharedFooter />
     </div>
   );
 }

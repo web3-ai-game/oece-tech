@@ -1,4 +1,6 @@
 "use client";
+import { SharedHeader } from "@/components/shared-header";
+import { SharedFooter } from "@/components/shared-footer";
 
 import { useState } from 'react';
 import Link from 'next/link';
@@ -43,28 +45,10 @@ export default function PastLifePage() {
   };
 
   return (
-    <div className="min-h-screen bg-[#0D1117] text-white">
-      {/* Background */}
-      <div className="fixed inset-0 bg-gradient-to-br from-amber-500/5 via-transparent to-orange-500/5 pointer-events-none" />
-      
-      {/* Header */}
-      <header className="fixed top-0 w-full z-50 border-b border-[#00FF41]/20 bg-[#0D1117]/90 backdrop-blur-md">
-        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 h-16 flex items-center justify-between">
-          <div className="flex items-center gap-4">
-            <Link href="/" className="flex items-center gap-2 text-gray-400 hover:text-[#00FF41] transition-colors">
-              <ArrowLeft className="w-5 h-5" />
-              <span className="text-sm">返回首頁</span>
-            </Link>
-            <div className="flex items-center gap-2">
-              <div className="text-3xl">🔮</div>
-              <span className="text-xl font-bold">前世分析器</span>
-            </div>
-          </div>
-        </div>
-      </header>
+    <div className="min-h-screen bg-[var(--background)] text-white">      <SharedHeader />
 
       {/* Main Content */}
-      <main className="pt-24 pb-16 px-4">
+      <main className="relative pt-24 pb-16 px-4">
         <div className="max-w-5xl mx-auto">
           {/* Title */}
           <div className="text-center mb-12">
@@ -73,7 +57,7 @@ export default function PastLifePage() {
                 前世分析器
               </span>
             </h1>
-            <p className="text-gray-400 text-lg">
+            <p className="text-[var(--muted)] text-lg">
               基於生辰和性格，AI 推演你的前世身份
             </p>
           </div>
@@ -81,7 +65,7 @@ export default function PastLifePage() {
           {!result ? (
             /* Input Form */
             <div className="max-w-2xl mx-auto">
-              <div className="p-8 rounded-2xl bg-[#161B22] border border-amber-500/20 space-y-6">
+              <div className="p-8 rounded-2xl bg-[var(--card)] border border-amber-500/20 space-y-6">
                 <div>
                   <label className="block text-sm font-bold mb-3 flex items-center gap-2">
                     <Calendar className="w-4 h-4 text-amber-400" />
@@ -91,7 +75,7 @@ export default function PastLifePage() {
                     type="date"
                     value={birthDate}
                     onChange={(e) => setBirthDate(e.target.value)}
-                    className="w-full bg-[#0D1117] border border-gray-700 rounded-xl px-4 py-3 text-white focus:outline-none focus:border-amber-500 transition-colors"
+                    className="w-full bg-[var(--background)] border border-[var(--border-subtle)] rounded-xl px-4 py-3 text-white focus:outline-none focus:border-amber-500 transition-colors"
                   />
                 </div>
 
@@ -104,7 +88,7 @@ export default function PastLifePage() {
                     value={personality}
                     onChange={(e) => setPersonality(e.target.value)}
                     placeholder="描述你的性格特徵，例如：內向、喜歡閱讀、善於思考..."
-                    className="w-full h-32 bg-[#0D1117] border border-gray-700 rounded-xl px-4 py-3 text-sm text-white placeholder-gray-500 focus:outline-none focus:border-amber-500 transition-colors resize-none"
+                    className="w-full h-32 bg-[var(--background)] border border-[var(--border-subtle)] rounded-xl px-4 py-3 text-sm text-white placeholder-gray-500 focus:outline-none focus:border-amber-500 transition-colors resize-none"
                   />
                 </div>
 
@@ -127,7 +111,7 @@ export default function PastLifePage() {
                 </button>
 
                 <div className="p-4 rounded-xl bg-amber-500/10 border border-amber-500/20">
-                  <div className="text-xs text-gray-400 space-y-2">
+                  <div className="text-xs text-[var(--muted)] space-y-2">
                     <p className="flex items-start gap-2">
                       <span className="text-amber-400">🔮</span>
                       <span>分析結果僅供娛樂參考</span>
@@ -146,7 +130,7 @@ export default function PastLifePage() {
               <div className="text-center">
                 <button
                   onClick={() => setResult(null)}
-                  className="px-6 py-2 bg-[#161B22] border border-gray-700 rounded-lg text-sm hover:border-amber-500 transition-colors"
+                  className="px-6 py-2 bg-[var(--card)] border border-[var(--border-subtle)] rounded-lg text-sm hover:border-amber-500 transition-colors"
                 >
                   重新分析
                 </button>
@@ -156,49 +140,49 @@ export default function PastLifePage() {
                 <div className="text-center mb-8">
                   <div className="text-6xl mb-4">👑</div>
                   <h2 className="text-3xl font-black text-amber-400 mb-2">你的前世身份</h2>
-                  <p className="text-gray-400">根據你的生辰和性格推演</p>
+                  <p className="text-[var(--muted)]">根據你的生辰和性格推演</p>
                 </div>
 
                 <div className="grid grid-cols-1 md:grid-cols-3 gap-6 mb-8">
-                  <div className="p-6 rounded-xl bg-[#161B22] border border-amber-500/20">
+                  <div className="p-6 rounded-xl bg-[var(--card)] border border-amber-500/20">
                     <div className="flex items-center gap-3 mb-3">
                       <Calendar className="w-5 h-5 text-amber-400" />
                       <h3 className="font-bold">時代</h3>
                     </div>
-                    <p className="text-sm text-gray-300">{result.era}</p>
+                    <p className="text-sm text-[var(--foreground)]">{result.era}</p>
                   </div>
 
-                  <div className="p-6 rounded-xl bg-[#161B22] border border-amber-500/20">
+                  <div className="p-6 rounded-xl bg-[var(--card)] border border-amber-500/20">
                     <div className="flex items-center gap-3 mb-3">
                       <MapPin className="w-5 h-5 text-amber-400" />
                       <h3 className="font-bold">地域</h3>
                     </div>
-                    <p className="text-sm text-gray-300">{result.location}</p>
+                    <p className="text-sm text-[var(--foreground)]">{result.location}</p>
                   </div>
 
-                  <div className="p-6 rounded-xl bg-[#161B22] border border-amber-500/20">
+                  <div className="p-6 rounded-xl bg-[var(--card)] border border-amber-500/20">
                     <div className="flex items-center gap-3 mb-3">
                       <Briefcase className="w-5 h-5 text-amber-400" />
                       <h3 className="font-bold">職業</h3>
                     </div>
-                    <p className="text-sm text-gray-300">{result.occupation}</p>
+                    <p className="text-sm text-[var(--foreground)]">{result.occupation}</p>
                   </div>
                 </div>
 
                 <div className="space-y-6">
-                  <div className="p-6 rounded-xl bg-[#161B22] border border-amber-500/20">
+                  <div className="p-6 rounded-xl bg-[var(--card)] border border-amber-500/20">
                     <h3 className="font-bold mb-3 flex items-center gap-2">
                       <Sparkles className="w-5 h-5 text-amber-400" />
                       性格特質
                     </h3>
-                    <p className="text-sm text-gray-300 leading-relaxed">{result.personality}</p>
+                    <p className="text-sm text-[var(--foreground)] leading-relaxed">{result.personality}</p>
                   </div>
 
-                  <div className="p-6 rounded-xl bg-[#161B22] border border-amber-500/20">
+                  <div className="p-6 rounded-xl bg-[var(--card)] border border-amber-500/20">
                     <h3 className="font-bold mb-3">主要成就</h3>
                     <ul className="space-y-2">
                       {result.achievements.map((achievement, idx) => (
-                        <li key={idx} className="flex items-start gap-2 text-sm text-gray-300">
+                        <li key={idx} className="flex items-start gap-2 text-sm text-[var(--foreground)]">
                           <span className="text-amber-400 mt-1">✦</span>
                           <span>{achievement}</span>
                         </li>
@@ -206,9 +190,9 @@ export default function PastLifePage() {
                     </ul>
                   </div>
 
-                  <div className="p-6 rounded-xl bg-[#161B22] border border-amber-500/20">
+                  <div className="p-6 rounded-xl bg-[var(--card)] border border-amber-500/20">
                     <h3 className="font-bold mb-3">人生結局</h3>
-                    <p className="text-sm text-gray-300 leading-relaxed">{result.fate}</p>
+                    <p className="text-sm text-[var(--foreground)] leading-relaxed">{result.fate}</p>
                   </div>
                 </div>
 
@@ -223,6 +207,7 @@ export default function PastLifePage() {
           )}
         </div>
       </main>
+      <SharedFooter />
     </div>
   );
 }

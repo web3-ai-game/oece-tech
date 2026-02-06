@@ -1,0 +1,384 @@
+# DeepWeay + OECE 双项目开发规则
+
+## 项目身份
+- **deepweay.me**: AI 社群娱乐平台（东南亚市场）
+- **oece.tech**: AI 工具聚合站（60+ 工具）
+- **技术栈**: Next.js 16 + TypeScript + Firebase + Cloud Run + Gemini API
+- **本地路径**: /Users/sms/GCP/deepweay-me 和 /Users/sms/GCP/oece-tech
+
+## 代码生成原则
+
+### 1. 语言优先级
+```
+Go (首选后端) > TypeScript (前端/API路由) > Rust (性能模块) > Python (避免使用)
+```
+
+### 2. 命名约定
+- 组件文件: `PascalCase.tsx` (例: `UserCard.tsx`, `ChatInput.tsx`)
+- 函数/变量: `camelCase` (例: `getUserTokens`, `isAuthenticated`)
+- 常量/环境变量: `UPPER_SNAKE_CASE` (例: `MAX_TOKENS`, `API_BASE_URL`)
+- API 路由: `kebab-case` (例: `/api/user-tokens`, `/api/gemini/chat`)
+- 文件夹: `kebab-case` (例: `chat-playground`, `user-profile`)
+
+### 3. 目录结构识别
+```
+app/
+├── page.tsx                 # 首页
+├── chat/page.tsx            # AI Chat 功能页
+├── api/
+│   ├── gemini/              # AI 相关 API
+│   │   ├── chat/route.ts
+│   │   └── stream/route.ts
+│   └── user/                # 用户相关 API
+│       └── tokens/route.ts
+components/
+├── ui/                      # shadcn/ui 基础组件
+├── chat/                    # Chat 功能组件
+├── layout/                  # 布局组件
+└── shared/                  # 共享组件
+lib/
+├── firebase.ts              # Firebase 初始化
+├── gemini.ts                # Gemini API 封装
+└── utils.ts                 # 工具函数
+```
+
+## 代码模板
+
+### API Route 模板 (TypeScript)
+```typescript
+import { NextRequest, NextResponse } from 'next/server'
+import { rateLimit } from '@/lib/rate-limit'
+
+export async function POST(req: NextRequest) {
+  try {
+    // 1. 限流检查
+    const identifier = req.ip ?? 'anonymous'
+    const { success } = await rateLimit.check(identifier)
+    if (!success) {
+      return NextResponse.json(
+        { error: 'Too many requests' },
+        { status: 429 }
+      )
+    }
+
+    // 2. 请求解析
+    const body = await req.json()
+    
+    // 3. 业务逻辑
+    const result = await processRequest(body)
+    
+    // 4. 返回响应
+    return NextResponse.json({
+      success: true,
+      data: result,
+      timestamp: new Date().toISOString()
+    })
+    
+  } catch (error) {
+    console.error('API Error:', error)
+    return NextResponse.json(
+      { error: 'Internal server error' },
+      { status: 500 }
+    )
+  }
+}
+```
+
+### React 组件模板
+```typescript
+'use client'
+
+import { useState, useEffect } from 'react'
+import { cn } from '@/lib/utils'
+
+interface ComponentNameProps {
+  className?: string
+  // 其他 props
+}
+
+export function ComponentName({ className }: ComponentNameProps) {
+  const [state, setState] = useState<Type>(initialValue)
+
+  useEffect(() => {
+    // 副作用逻辑
+  }, [dependencies])
+
+  return (
+    <div className={cn('base-styles', className)}>
+      {/* JSX 内容 */}
+    </div>
+  )
+}
+```
+
+### Firestore 操作模板
+```typescript
+import { 
+  collection, 
+  doc, 
+  getDoc, 
+  setDoc, 
+  updateDoc 
+} from 'firebase/firestore'
+import { db } from '@/lib/firebase'
+
+// 读取文档
+export async function getDocument(collectionName: string, docId: string) {
+  const docRef = doc(db, collectionName, docId)
+  const docSnap = await getDoc(docRef)
+  return docSnap.exists() ? docSnap.data() : null
+}
+
+// 创建/更新文档
+export async function setDocument(
+  collectionName: string, 
+  docId: string, 
+  data: any
+) {
+  const docRef = doc(db, collectionName, docId)
+  await setDoc(docRef, {
+    ...data,
+    updatedAt: new Date().toISOString()
+  }, { merge: true })
+}
+```
+
+## 当前开发阶段
+
+### 已完成 ✅
+- 所有 UI 页面（deepweay.me 和 oece.tech）
+- AI Chat Playground
+- 主题切换系统
+- 翻译系统（英文 ↔ 繁中）
+- SEO 优化
+
+### 正在进行 🔄
+- Firebase Hosting 域名配置
+- DNS A 记录设置（等待 SSL 生效）
+
+### 待开发 📋 (按优先级)
+1. **P1 - 本周**:
+   - Firebase Auth 集成（替换占位登录）
+   - 路由保护中间件
+   - 用户 Token 初始化
+
+2. **P2 - 下周**:
+   - 对话历史存储（Firestore）
+   - Token 计费系统
+   - 论坛真实数据接入
+
+3. **P3 - 后续**:
+   - Telegram Bot 升级
+   - 支付集成
+   - 管理后台完善
+
+## 开发约束
+
+### ✅ 必须做
+1. 所有 API 必须有限流保护
+2. 环境变量必须使用 `NEXT_PUBLIC_` 前缀（前端）或无前缀（服务端）
+3. 组件必须使用 TypeScript 严格类型
+4. API 响应必须包含 `{ success, data, error }` 结构
+5. 错误必须有明确的 HTTP 状态码和错误消息
+
+### ❌ 禁止做
+1. 不要硬编码 API 密钥
+2. 不要在前端直接调用后端服务（必须通过 API Routes）
+3. 不要使用 Python（除非没有其他选择）
+4. 不要创建超过 3 层的嵌套组件
+5. 不要忽略 TypeScript 类型错误
+
+## AI 模型集成
+
+### Gemini API 调用示例
+```typescript
+import { GoogleGenerativeAI } from '@google/generative-ai'
+
+const genAI = new GoogleGenerativeAI(process.env.GEMINI_API_KEY!)
+
+export async function chatWithGemini(
+  message: string,
+  model: 'gemini-lite' | 'gemini-flash' | 'gemini-pro' = 'gemini-flash'
+) {
+  const modelInstance = genAI.getGenerativeModel({ model })
+  
+  const result = await modelInstance.generateContent({
+    contents: [{ role: 'user', parts: [{ text: message }] }],
+    generationConfig: {
+      temperature: 0.7,
+      maxOutputTokens: 2048,
+    }
+  })
+  
+  return result.response.text()
+}
+```
+
+## 部署命令
+```bash
+# 本地开发
+npm run dev
+
+# 构建
+npm run build
+
+# 部署到 Firebase Hosting
+firebase deploy --only hosting
+
+# 部署 Cloud Run API
+gcloud run deploy api-service \
+  --source . \
+  --region asia-southeast1 \
+  --allow-unauthenticated
+```
+
+## 环境变量检查清单
+
+### 前端（NEXT_PUBLIC_*）
+- [ ] NEXT_PUBLIC_FIREBASE_API_KEY
+- [ ] NEXT_PUBLIC_FIREBASE_AUTH_DOMAIN
+- [ ] NEXT_PUBLIC_FIREBASE_PROJECT_ID
+- [ ] NEXT_PUBLIC_FIREBASE_STORAGE_BUCKET
+- [ ] NEXT_PUBLIC_FIREBASE_MESSAGING_SENDER_ID
+- [ ] NEXT_PUBLIC_FIREBASE_APP_ID
+
+### 服务端
+- [ ] GEMINI_API_KEY (+ GEMINI_API_KEY_1 到 28 用于轮换)
+- [ ] GROK_API_KEY
+- [ ] CLAUDE_API_KEY
+- [ ] MONGODB_URI
+- [ ] SUPABASE_URL
+- [ ] SUPABASE_ANON_KEY
+- [ ] UPSTASH_REDIS_REST_URL
+- [ ] TELEGRAM_BOT_TOKEN
+
+## 代码审查标准
+
+在生成代码前，确保：
+1. **类型安全**: 所有变量和函数有明确类型
+2. **错误处理**: try-catch 包裹异步操作
+3. **性能优化**: 避免不必要的重渲染和 API 调用
+4. **可读性**: 清晰的变量命名和注释
+5. **可维护性**: 模块化设计，单一职责原则
+
+## 响应格式
+
+当我说 "创建用户登录页面" 或 "添加 Token 扣除功能"，你应该：
+1. **识别模块**: 判断是前端组件还是 API Route
+2. **选择语言**: 前端用 TypeScript，后端优先 Go（如果是 API Routes 则 TypeScript）
+3. **生成完整代码**: 包括导入、类型定义、主逻辑、错误处理
+4. **提供文件路径**: 明确告诉我代码应该放在哪个文件
+5. **列出依赖**: 如果需要安装新包，列出 npm install 命令
+
+## 示例交互
+
+**我说**: "添加用户 Token 扣除功能"
+
+**你应该输出**:
+```
+📍 文件: app/api/user/deduct-tokens/route.ts
+
+import { NextRequest, NextResponse } from 'next/server'
+import { doc, updateDoc, increment } from 'firebase/firestore'
+import { db } from '@/lib/firebase'
+
+export async function POST(req: NextRequest) {
+  try {
+    const { userId, amount } = await req.json()
+    
+    if (!userId || !amount) {
+      return NextResponse.json(
+        { error: 'Missing userId or amount' },
+        { status: 400 }
+      )
+    }
+
+    const userRef = doc(db, 'users', userId)
+    await updateDoc(userRef, {
+      tokens: increment(-amount),
+      tokensUsed: increment(amount),
+      lastDeductedAt: new Date().toISOString()
+    })
+
+    return NextResponse.json({ success: true })
+  } catch (error) {
+    console.error('Token deduction error:', error)
+    return NextResponse.json(
+      { error: 'Failed to deduct tokens' },
+      { status: 500 }
+    )
+  }
+}
+
+📦 无需额外依赖
+✅ 已包含错误处理和类型安全
+```
+
+---
+
+## 最后提醒
+
+- **直接给方案，不问选择题**
+- **代码必须可以直接运行**
+- **优先使用免费资源（GitHub Student Pack）**
+- **成本敏感：优先 Firebase 免费层 + GCP $300 Credit**
+- **Markdown 格式输出，方便复制到 Notion**## 索引排除规则
+
+忽略以下目录：
+- node_modules/
+- .next/
+- .firebase/
+- dist/
+- build/
+- coverage/
+- .git/
+
+只索引核心代码：
+- app/
+- components/
+- lib/
+- public/
+- styles/# 依赖
+node_modules/
+.pnpm-store/
+
+# 构建产物
+.next/
+out/
+dist/
+build/
+
+# Firebase
+.firebase/
+firebase-debug.log
+
+# 日志
+*.log
+npm-debug.log*
+
+# 环境变量
+.env
+.env.local
+.env.*.local
+
+# 测试
+coverage/
+.nyc_output/
+
+# IDE
+.vscode/
+.idea/
+
+# 临时文件
+*.tmp
+*.temp
+.DS_Store
+```
+
+### 3. 验证文档是否生效
+
+添加完文档后，在 Cursor Chat 测试：
+```
+"如何在 Next.js App Router 中使用 Firebase Auth？"
+"Gemini API 的流式响应怎么实现？"
+"GCP Cloud Run 的环境变量怎么配置？"

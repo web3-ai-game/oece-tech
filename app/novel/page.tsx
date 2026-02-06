@@ -1,4 +1,6 @@
 "use client";
+import { SharedHeader } from "@/components/shared-header";
+import { SharedFooter } from "@/components/shared-footer";
 
 import { useState } from 'react';
 import Link from 'next/link';
@@ -38,28 +40,10 @@ export default function NovelPage() {
   };
 
   return (
-    <div className="min-h-screen bg-[#0D1117] text-white">
-      {/* Background */}
-      <div className="fixed inset-0 bg-gradient-to-br from-blue-500/5 via-transparent to-cyan-500/5 pointer-events-none" />
-      
-      {/* Header */}
-      <header className="fixed top-0 w-full z-50 border-b border-[#00FF41]/20 bg-[#0D1117]/90 backdrop-blur-md">
-        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 h-16 flex items-center justify-between">
-          <div className="flex items-center gap-4">
-            <Link href="/" className="flex items-center gap-2 text-gray-400 hover:text-[#00FF41] transition-colors">
-              <ArrowLeft className="w-5 h-5" />
-              <span className="text-sm">返回首頁</span>
-            </Link>
-            <div className="flex items-center gap-2">
-              <div className="text-3xl">📖</div>
-              <span className="text-xl font-bold">爽文推演引擎</span>
-            </div>
-          </div>
-        </div>
-      </header>
+    <div className="min-h-screen bg-[var(--background)] text-white">      <SharedHeader />
 
       {/* Main Content */}
-      <main className="pt-24 pb-16 px-4">
+      <main className="relative pt-24 pb-16 px-4">
         <div className="max-w-6xl mx-auto">
           {/* Title */}
           <div className="text-center mb-12">
@@ -68,7 +52,7 @@ export default function NovelPage() {
                 爽文推演引擎
               </span>
             </h1>
-            <p className="text-gray-400 text-lg">
+            <p className="text-[var(--muted)] text-lg">
               設定主角，AI 自動生成無限爽文劇情
             </p>
           </div>
@@ -77,7 +61,7 @@ export default function NovelPage() {
             {/* Left Panel - Settings */}
             <div className="lg:col-span-1 space-y-6">
               {/* Genre Selection */}
-              <div className="p-6 rounded-2xl bg-[#161B22] border border-blue-500/20">
+              <div className="p-6 rounded-2xl bg-[var(--card)] border border-blue-500/20">
                 <h3 className="text-sm font-bold mb-4 flex items-center gap-2">
                   <BookOpen className="w-4 h-4 text-blue-400" />
                   選擇類型
@@ -90,13 +74,13 @@ export default function NovelPage() {
                       className={`w-full p-4 rounded-xl border-2 transition-all flex items-center gap-3 ${
                         genre === g.id
                           ? 'border-blue-500 bg-blue-500/10'
-                          : 'border-gray-700 hover:border-blue-500/50'
+                          : 'border-[var(--border-subtle)] hover:border-blue-500/50'
                       }`}
                     >
                       <div className="text-2xl">{g.emoji}</div>
                       <div className="text-left flex-1">
                         <div className="font-bold">{g.name}</div>
-                        <div className="text-xs text-gray-400">
+                        <div className="text-xs text-[var(--muted)]">
                           {g.id === 'cultivation' && '修仙煉氣，逆天改命'}
                           {g.id === 'urban' && '都市風雲，商戰情場'}
                           {g.id === 'fantasy' && '異世冒險，稱霸諸天'}
@@ -109,7 +93,7 @@ export default function NovelPage() {
               </div>
 
               {/* Protagonist Input */}
-              <div className="p-6 rounded-2xl bg-[#161B22] border border-blue-500/20">
+              <div className="p-6 rounded-2xl bg-[var(--card)] border border-blue-500/20">
                 <h3 className="text-sm font-bold mb-4 flex items-center gap-2">
                   <Zap className="w-4 h-4 text-blue-400" />
                   主角設定
@@ -119,7 +103,7 @@ export default function NovelPage() {
                   value={protagonist}
                   onChange={(e) => setProtagonist(e.target.value)}
                   placeholder="輸入主角名字，例如：葉凡"
-                  className="w-full bg-[#0D1117] border border-gray-700 rounded-xl px-4 py-3 text-sm text-white placeholder-gray-500 focus:outline-none focus:border-blue-500 transition-colors mb-4"
+                  className="w-full bg-[var(--background)] border border-[var(--border-subtle)] rounded-xl px-4 py-3 text-sm text-white placeholder-gray-500 focus:outline-none focus:border-blue-500 transition-colors mb-4"
                 />
                 <button
                   onClick={handleGenerate}
@@ -142,7 +126,7 @@ export default function NovelPage() {
 
               {/* Stats */}
               <div className="p-4 rounded-xl bg-blue-500/10 border border-blue-500/20">
-                <div className="text-xs text-gray-400 space-y-2">
+                <div className="text-xs text-[var(--muted)] space-y-2">
                   <div className="flex justify-between">
                     <span>已生成章節</span>
                     <span className="text-blue-400 font-bold">{chapters.length}</span>
@@ -159,12 +143,12 @@ export default function NovelPage() {
 
             {/* Right Panel - Content */}
             <div className="lg:col-span-2">
-              <div className="p-6 rounded-2xl bg-[#161B22] border border-blue-500/20 min-h-[600px]">
+              <div className="p-6 rounded-2xl bg-[var(--card)] border border-blue-500/20 min-h-[600px]">
                 {chapters.length === 0 ? (
                   <div className="h-full flex flex-col items-center justify-center text-center">
                     <div className="text-6xl mb-4">📖</div>
                     <h3 className="text-xl font-bold mb-2">等待推演</h3>
-                    <p className="text-sm text-gray-400">
+                    <p className="text-sm text-[var(--muted)]">
                       設定主角和類型，點擊開始推演按鈕
                     </p>
                   </div>
@@ -173,11 +157,11 @@ export default function NovelPage() {
                     <div className="flex items-center justify-between">
                       <h3 className="text-lg font-bold">《{protagonist}的逆襲之路》</h3>
                       <div className="flex gap-2">
-                        <button className="px-4 py-2 bg-[#0D1117] border border-gray-700 rounded-lg text-sm hover:border-blue-500 transition-colors flex items-center gap-2">
+                        <button className="px-4 py-2 bg-[var(--background)] border border-[var(--border-subtle)] rounded-lg text-sm hover:border-blue-500 transition-colors flex items-center gap-2">
                           <RefreshCw className="w-4 h-4" />
                           繼續生成
                         </button>
-                        <button className="px-4 py-2 bg-[#0D1117] border border-gray-700 rounded-lg text-sm hover:border-blue-500 transition-colors flex items-center gap-2">
+                        <button className="px-4 py-2 bg-[var(--background)] border border-[var(--border-subtle)] rounded-lg text-sm hover:border-blue-500 transition-colors flex items-center gap-2">
                           <Download className="w-4 h-4" />
                           下載
                         </button>
@@ -186,9 +170,9 @@ export default function NovelPage() {
                     
                     <div className="space-y-6">
                       {chapters.map((chapter, idx) => (
-                        <div key={idx} className="p-6 rounded-xl bg-[#0D1117] border border-gray-700 hover:border-blue-500 transition-colors">
+                        <div key={idx} className="p-6 rounded-xl bg-[var(--background)] border border-[var(--border-subtle)] hover:border-blue-500 transition-colors">
                           <h4 className="text-lg font-bold mb-4 text-blue-400">{chapter.title}</h4>
-                          <div className="text-sm text-gray-300 leading-relaxed whitespace-pre-wrap">
+                          <div className="text-sm text-[var(--foreground)] leading-relaxed whitespace-pre-wrap">
                             {chapter.content}
                           </div>
                         </div>
@@ -201,6 +185,7 @@ export default function NovelPage() {
           </div>
         </div>
       </main>
+      <SharedFooter />
     </div>
   );
 }

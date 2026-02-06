@@ -2,11 +2,14 @@
 
 import React, { createContext, useContext, useEffect, useState } from "react";
 
-type Theme = "warm" | "dark";
+type Theme = "warm" | "cool" | "dark";
+
+const THEMES: Theme[] = ["warm", "cool", "dark"];
 
 type ThemeContextType = {
   theme: Theme;
   setTheme: (theme: Theme) => void;
+  cycleTheme: () => void;
 };
 
 const ThemeContext = createContext<ThemeContextType | undefined>(undefined);
@@ -16,7 +19,7 @@ export function ThemeProvider({ children }: { children: React.ReactNode }) {
 
   useEffect(() => {
     const savedTheme = localStorage.getItem("theme") as Theme;
-    if (savedTheme && (savedTheme === "warm" || savedTheme === "dark")) {
+    if (savedTheme && THEMES.includes(savedTheme)) {
       setTheme(savedTheme);
     }
   }, []);
@@ -26,8 +29,13 @@ export function ThemeProvider({ children }: { children: React.ReactNode }) {
     document.documentElement.setAttribute("data-theme", theme);
   }, [theme]);
 
+  const cycleTheme = () => {
+    const idx = THEMES.indexOf(theme);
+    setTheme(THEMES[(idx + 1) % THEMES.length]);
+  };
+
   return (
-    <ThemeContext.Provider value={{ theme, setTheme }}>
+    <ThemeContext.Provider value={{ theme, setTheme, cycleTheme }}>
       {children}
     </ThemeContext.Provider>
   );

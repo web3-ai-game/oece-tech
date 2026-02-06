@@ -1,4 +1,6 @@
 "use client";
+import { SharedHeader } from "@/components/shared-header";
+import { SharedFooter } from "@/components/shared-footer";
 
 import Link from "next/link";
 import { Sparkles, Trophy, Zap, TrendingUp, Award, Crown } from "lucide-react";
@@ -18,22 +20,10 @@ const leaderboard = [
 
 export default function LeaderboardPage() {
   return (
-    <div className="min-h-screen bg-[var(--background)] text-[var(--foreground)]">
-      {/* Header */}
-      <header className="fixed top-0 w-full z-50 border-b border-white/10 bg-[var(--background)]/80 backdrop-blur-sm">
-        <div className="max-w-7xl mx-auto px-4 h-14 flex items-center justify-between">
-          <Link href="/" className="flex items-center gap-2">
-            <Sparkles className="h-5 w-5 text-[var(--primary)]" />
-            <span className="text-lg font-semibold">OECE.tech</span>
-          </Link>
-          <Link href="/" className="text-sm text-gray-400 hover:text-white">
-            ← Back to Home
-          </Link>
-        </div>
-      </header>
+    <div className="min-h-screen bg-[var(--background)] text-[var(--foreground)]">      <SharedHeader />
 
       {/* Main Content */}
-      <main className="pt-20 pb-12 px-4">
+      <main className="relative pt-24 pb-16 px-4">
         <div className="max-w-6xl mx-auto">
           {/* Hero */}
           <div className="text-center mb-12">
@@ -43,7 +33,7 @@ export default function LeaderboardPage() {
             <h1 className="text-4xl md:text-5xl font-bold mb-3">
               矩陣 <span className="text-[var(--primary)]">城市</span>
             </h1>
-            <p className="text-sm text-gray-400 max-w-2xl mx-auto">
+            <p className="text-sm text-[var(--muted)] max-w-2xl mx-auto">
               Token 消耗排行榜 · 微縮城市可視化 · 匿名後兩位 · GitHub Contributions 風格
             </p>
           </div>
@@ -64,26 +54,26 @@ export default function LeaderboardPage() {
                   <div className="text-6xl font-bold mb-2">#{user.rank}</div>
                   <div className="text-lg font-semibold mb-1">{user.user}</div>
                   <div className="text-2xl mb-1">{user.city}</div>
-                  <div className="text-sm text-gray-400 mb-2">Level {user.level}</div>
+                  <div className="text-sm text-[var(--muted)] mb-2">Level {user.level}</div>
                   <div className="font-mono text-lg text-yellow-400 mb-1">
                     {user.tokens.toLocaleString()} tokens
                   </div>
-                  <div className="text-xs text-gray-500">฿{user.cost.toFixed(2)} burned</div>
+                  <div className="text-xs text-[var(--muted-foreground)]">฿{user.cost.toFixed(2)} burned</div>
                 </div>
               </div>
             ))}
           </div>
 
           {/* Full Leaderboard */}
-          <div className="bg-white/5 border border-white/10 rounded-2xl overflow-hidden">
-            <div className="p-4 bg-white/5 border-b border-white/10">
+          <div className="bg-[var(--input-bg)] border border-[var(--border-subtle)] rounded-2xl overflow-hidden">
+            <div className="p-4 bg-[var(--input-bg)] border-b border-[var(--border-subtle)]">
               <h2 className="text-lg font-bold flex items-center gap-2">
                 <Trophy className="h-5 w-5 text-yellow-400" />
                 Complete Rankings
               </h2>
             </div>
             <table className="w-full text-sm">
-              <thead className="bg-white/5 text-gray-400">
+              <thead className="bg-[var(--input-bg)] text-[var(--muted)]">
                 <tr>
                   <th className="px-6 py-3 text-left font-medium">Rank</th>
                   <th className="px-6 py-3 text-left font-medium">User</th>
@@ -95,7 +85,7 @@ export default function LeaderboardPage() {
               </thead>
               <tbody className="divide-y divide-white/10">
                 {leaderboard.map((user) => (
-                  <tr key={user.rank} className="hover:bg-white/5 transition-colors">
+                  <tr key={user.rank} className="hover:bg-[var(--input-bg)] transition-colors">
                     <td className="px-6 py-4">
                       <div className="flex items-center gap-2">
                         <span className="text-2xl">{user.badge}</span>
@@ -109,7 +99,7 @@ export default function LeaderboardPage() {
                         Lv.{user.level}
                       </span>
                     </td>
-                    <td className="px-6 py-4 text-right font-mono text-gray-300">
+                    <td className="px-6 py-4 text-right font-mono text-[var(--foreground)]">
                       {user.tokens.toLocaleString()}
                     </td>
                     <td className="px-6 py-4 text-right font-mono text-yellow-400">
@@ -126,7 +116,7 @@ export default function LeaderboardPage() {
             <h2 className="text-2xl font-bold mb-6 text-center">
               🏙️ Matrix City Visualization
             </h2>
-            <p className="text-sm text-gray-400 text-center mb-8">
+            <p className="text-sm text-[var(--muted)] text-center mb-8">
               每個方塊 = 100 tokens · 顏色深度 = 使用強度 · GitHub Contributions 風格
             </p>
             
@@ -144,17 +134,17 @@ export default function LeaderboardPage() {
                           intensity > 0.6 ? "bg-blue-500" :
                           intensity > 0.4 ? "bg-cyan-500" :
                           intensity > 0.2 ? "bg-teal-500/50" :
-                          "bg-white/10"
+                          "bg-[var(--input-bg)]"
                         }`}
                         title={`${Math.floor(intensity * 1000)} tokens`}
                       />
                     );
                   })}
                 </div>
-                <div className="flex items-center justify-between mt-4 text-xs text-gray-500">
+                <div className="flex items-center justify-between mt-4 text-xs text-[var(--muted-foreground)]">
                   <span>Less</span>
                   <div className="flex gap-1">
-                    <div className="w-3 h-3 bg-white/10 rounded-sm" />
+                    <div className="w-3 h-3 bg-[var(--input-bg)] rounded-sm" />
                     <div className="w-3 h-3 bg-teal-500/50 rounded-sm" />
                     <div className="w-3 h-3 bg-cyan-500 rounded-sm" />
                     <div className="w-3 h-3 bg-blue-500 rounded-sm" />
@@ -173,6 +163,7 @@ export default function LeaderboardPage() {
           </div>
         </div>
       </main>
+      <SharedFooter />
     </div>
   );
 }

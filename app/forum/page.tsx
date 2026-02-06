@@ -1,4 +1,6 @@
 "use client";
+import { SharedHeader } from "@/components/shared-header";
+import { SharedFooter } from "@/components/shared-footer";
 
 import { useState, useEffect } from "react";
 import Link from "next/link";
@@ -102,36 +104,15 @@ export default function ForumPage() {
   };
 
   return (
-    <div className="min-h-screen bg-[var(--background)] text-[var(--foreground)]">
-      {/* Header */}
-      <header className="fixed top-0 w-full z-50 border-b border-white/10 bg-[var(--background)]/80 backdrop-blur-sm">
-        <div className="max-w-7xl mx-auto px-4 h-14 flex items-center justify-between">
-          <Link href="/" className="flex items-center gap-2">
-            <Sparkles className="h-5 w-5 text-[var(--primary)]" />
-            <span className="text-lg font-semibold">OECE.tech</span>
-          </Link>
-          <div className="flex items-center gap-3">
-            <button 
-              onClick={() => setShowNewPost(true)}
-              className="flex items-center gap-2 px-4 py-2 bg-[var(--primary)] text-white rounded-lg text-sm hover:opacity-90"
-            >
-              <Plus className="h-4 w-4" />
-              New Post
-            </button>
-            <Link href="/" className="text-sm text-gray-400 hover:text-white">
-              ← Home
-            </Link>
-          </div>
-        </div>
-      </header>
+    <div className="min-h-screen bg-[var(--background)] text-[var(--foreground)]">      <SharedHeader />
 
       {/* New Post Modal */}
       {showNewPost && (
         <div className="fixed inset-0 z-50 flex items-center justify-center bg-black/50 backdrop-blur-sm">
-          <div className="bg-[var(--background)] border border-white/10 rounded-2xl p-6 w-full max-w-lg mx-4">
+          <div className="bg-[var(--background)] border border-[var(--border-subtle)] rounded-2xl p-6 w-full max-w-lg mx-4">
             <div className="flex items-center justify-between mb-4">
               <h2 className="text-xl font-bold">發布新帖子</h2>
-              <button onClick={() => setShowNewPost(false)} className="text-gray-400 hover:text-white">
+              <button onClick={() => setShowNewPost(false)} className="text-[var(--muted)] hover:text-[var(--foreground)]">
                 <X className="h-5 w-5" />
               </button>
             </div>
@@ -144,7 +125,7 @@ export default function ForumPage() {
                   value={newTitle}
                   onChange={(e) => setNewTitle(e.target.value)}
                   placeholder="輸入標題..."
-                  className="w-full p-3 bg-white/5 border border-white/10 rounded-lg focus:border-[var(--primary)] outline-none"
+                  className="w-full p-3 bg-[var(--input-bg)] border border-[var(--border-subtle)] rounded-lg focus:border-[var(--primary)] outline-none"
                 />
               </div>
               
@@ -153,7 +134,7 @@ export default function ForumPage() {
                 <select
                   value={newCategory}
                   onChange={(e) => setNewCategory(e.target.value)}
-                  className="w-full p-3 bg-white/5 border border-white/10 rounded-lg focus:border-[var(--primary)] outline-none"
+                  className="w-full p-3 bg-[var(--input-bg)] border border-[var(--border-subtle)] rounded-lg focus:border-[var(--primary)] outline-none"
                 >
                   {categories.map((cat) => (
                     <option key={cat.id} value={cat.id}>{cat.name}</option>
@@ -168,7 +149,7 @@ export default function ForumPage() {
                   onChange={(e) => setNewContent(e.target.value)}
                   placeholder="輸入內容..."
                   rows={5}
-                  className="w-full p-3 bg-white/5 border border-white/10 rounded-lg focus:border-[var(--primary)] outline-none resize-none"
+                  className="w-full p-3 bg-[var(--input-bg)] border border-[var(--border-subtle)] rounded-lg focus:border-[var(--primary)] outline-none resize-none"
                 />
               </div>
               
@@ -186,12 +167,12 @@ export default function ForumPage() {
       )}
 
       {/* Main Content */}
-      <main className="pt-20 pb-12 px-4">
+      <main className="relative pt-24 pb-16 px-4">
         <div className="max-w-6xl mx-auto">
           {/* Hero */}
           <div className="text-center mb-8">
             <h1 className="text-3xl font-bold mb-2">Community <span className="text-[var(--primary)]">Forum</span></h1>
-            <p className="text-sm text-gray-400">Share knowledge, ask questions, connect with others</p>
+            <p className="text-sm text-[var(--muted)]">Share knowledge, ask questions, connect with others</p>
           </div>
 
           {/* Categories */}
@@ -199,7 +180,7 @@ export default function ForumPage() {
             {categories.map((cat) => (
               <div
                 key={cat.id}
-                className="p-4 rounded-xl bg-white/5 border border-white/10 hover:border-white/20 transition-all cursor-pointer"
+                className="p-4 rounded-xl bg-[var(--input-bg)] border border-[var(--border-subtle)] hover:border-[var(--border)] transition-all cursor-pointer"
               >
                 <cat.icon className="h-6 w-6 mb-2" style={{ color: cat.color }} />
                 <h3 className="text-sm font-semibold mb-1">{cat.name}</h3>
@@ -221,7 +202,7 @@ export default function ForumPage() {
                 <Loader2 className="h-8 w-8 animate-spin text-[var(--primary)]" />
               </div>
             ) : posts.length === 0 ? (
-              <div className="text-center py-12 text-gray-500">
+              <div className="text-center py-12 text-[var(--muted-foreground)]">
                 <MessageSquare className="h-12 w-12 mx-auto mb-3 opacity-50" />
                 <p>還沒有帖子，成為第一個發帖的人吧！</p>
               </div>
@@ -230,7 +211,7 @@ export default function ForumPage() {
                 {posts.map((post) => (
                   <div
                     key={post.id}
-                    className="p-5 rounded-xl bg-white/5 border border-white/10 hover:border-white/20 hover:bg-white/10 transition-all cursor-pointer"
+                    className="p-5 rounded-xl bg-[var(--input-bg)] border border-[var(--border-subtle)] hover:border-[var(--border)] hover:bg-[var(--input-bg)] transition-all cursor-pointer"
                   >
                     <div className="flex items-start justify-between mb-2">
                       <h3 className="text-base font-semibold flex-1 hover:text-[var(--primary)] transition-colors">
@@ -241,8 +222,8 @@ export default function ForumPage() {
                       </span>
                     </div>
                     
-                    <div className="flex items-center gap-4 text-xs text-gray-500">
-                      <span className="text-gray-400">{post.user_name}</span>
+                    <div className="flex items-center gap-4 text-xs text-[var(--muted-foreground)]">
+                      <span className="text-[var(--muted)]">{post.user_name}</span>
                       <span>•</span>
                       <span className="flex items-center gap-1">
                         <Eye className="h-3 w-3" />
@@ -266,6 +247,7 @@ export default function ForumPage() {
           </div>
         </div>
       </main>
+      <SharedFooter />
     </div>
   );
 }

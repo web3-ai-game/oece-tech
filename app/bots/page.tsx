@@ -1,4 +1,6 @@
 "use client";
+import { SharedHeader } from "@/components/shared-header";
+import { SharedFooter } from "@/components/shared-footer";
 
 import { useState } from "react";
 import Link from "next/link";
@@ -60,28 +62,10 @@ export default function BotsPage() {
   const [selectedBot, setSelectedBot] = useState(bots[0]);
 
   return (
-    <div className="min-h-screen bg-[var(--background)] text-[var(--foreground)]">
-      {/* Header */}
-      <header className="fixed top-0 w-full z-50 border-b border-white/10 bg-[var(--background)]/80 backdrop-blur-sm">
-        <div className="max-w-7xl mx-auto px-4 h-14 flex items-center justify-between">
-          <Link href="/" className="flex items-center gap-2">
-            <Sparkles className="h-5 w-5 text-[var(--primary)]" />
-            <span className="text-lg font-semibold">OECE.tech</span>
-          </Link>
-          <div className="flex items-center gap-3">
-            <button className="flex items-center gap-2 px-4 py-2 bg-[var(--primary)] text-white rounded-lg text-sm hover:opacity-90">
-              <Plus className="h-4 w-4" />
-              New Bot
-            </button>
-            <Link href="/" className="text-sm text-gray-400 hover:text-white">
-              ← Home
-            </Link>
-          </div>
-        </div>
-      </header>
+    <div className="min-h-screen bg-[var(--background)] text-[var(--foreground)]">      <SharedHeader />
 
       {/* Main Content */}
-      <main className="pt-20 pb-12 px-4">
+      <main className="relative pt-24 pb-16 px-4">
         <div className="max-w-6xl mx-auto">
           {/* Hero */}
           <div className="text-center mb-8">
@@ -91,7 +75,7 @@ export default function BotsPage() {
             <h1 className="text-4xl font-bold mb-2">
               Bot <span className="text-[var(--primary)]">管理中心</span>
             </h1>
-            <p className="text-sm text-gray-400">
+            <p className="text-sm text-[var(--muted)]">
               Manage all your AI bots across platforms
             </p>
           </div>
@@ -104,8 +88,8 @@ export default function BotsPage() {
                 onClick={() => setSelectedBot(bot)}
                 className={`p-6 rounded-xl transition-all cursor-pointer ${
                   selectedBot.id === bot.id
-                    ? "bg-white/10 border-2 border-white/30"
-                    : "bg-white/5 border border-white/10 hover:border-white/20"
+                    ? "bg-[var(--input-bg)] border-2 border-white/30"
+                    : "bg-[var(--input-bg)] border border-[var(--border-subtle)] hover:border-[var(--border)]"
                 }`}
               >
                 <div className="flex items-start justify-between mb-4">
@@ -113,13 +97,13 @@ export default function BotsPage() {
                     <bot.icon className="h-8 w-8" style={{ color: bot.color }} />
                     <div>
                       <h3 className="text-lg font-semibold">{bot.name}</h3>
-                      <p className="text-xs text-gray-500">{bot.platform}</p>
+                      <p className="text-xs text-[var(--muted-foreground)]">{bot.platform}</p>
                     </div>
                   </div>
                   <div className={`px-2 py-1 rounded text-xs font-medium ${
                     bot.status === "active" ? "bg-green-500/20 text-green-400" :
                     bot.status === "paused" ? "bg-yellow-500/20 text-yellow-400" :
-                    "bg-gray-500/20 text-gray-400"
+                    "bg-gray-500/20 text-[var(--muted)]"
                   }`}>
                     {bot.status}
                   </div>
@@ -127,15 +111,15 @@ export default function BotsPage() {
 
                 <div className="grid grid-cols-3 gap-4 mb-4">
                   <div>
-                    <div className="text-xs text-gray-500">Messages</div>
+                    <div className="text-xs text-[var(--muted-foreground)]">Messages</div>
                     <div className="text-lg font-bold">{bot.messages.toLocaleString()}</div>
                   </div>
                   <div>
-                    <div className="text-xs text-gray-500">Users</div>
+                    <div className="text-xs text-[var(--muted-foreground)]">Users</div>
                     <div className="text-lg font-bold">{bot.users}</div>
                   </div>
                   <div>
-                    <div className="text-xs text-gray-500">Uptime</div>
+                    <div className="text-xs text-[var(--muted-foreground)]">Uptime</div>
                     <div className="text-lg font-bold text-green-400">{bot.uptime}</div>
                   </div>
                 </div>
@@ -144,15 +128,15 @@ export default function BotsPage() {
                   <span className="font-mono text-yellow-400">{bot.cost}</span>
                   <div className="flex gap-2">
                     {bot.status === "active" ? (
-                      <button className="p-1.5 hover:bg-white/10 rounded">
+                      <button className="p-1.5 hover:bg-[var(--input-bg)] rounded">
                         <Pause className="h-4 w-4" />
                       </button>
                     ) : (
-                      <button className="p-1.5 hover:bg-white/10 rounded">
+                      <button className="p-1.5 hover:bg-[var(--input-bg)] rounded">
                         <Play className="h-4 w-4" />
                       </button>
                     )}
-                    <button className="p-1.5 hover:bg-white/10 rounded">
+                    <button className="p-1.5 hover:bg-[var(--input-bg)] rounded">
                       <Settings className="h-4 w-4" />
                     </button>
                     <button className="p-1.5 hover:bg-red-500/20 rounded">
@@ -165,7 +149,7 @@ export default function BotsPage() {
           </div>
 
           {/* Bot Details */}
-          <div className="bg-white/5 border border-white/10 rounded-xl p-6">
+          <div className="bg-[var(--input-bg)] border border-[var(--border-subtle)] rounded-xl p-6">
             <h2 className="text-xl font-bold mb-4 flex items-center gap-2">
               <selectedBot.icon className="h-6 w-6" style={{ color: selectedBot.color }} />
               {selectedBot.name} Configuration
@@ -178,7 +162,7 @@ export default function BotsPage() {
                   type="password"
                   value="••••••••••••••••••••"
                   disabled
-                  className="w-full px-4 py-2 bg-white/5 border border-white/10 rounded-lg opacity-50"
+                  className="w-full px-4 py-2 bg-[var(--input-bg)] border border-[var(--border-subtle)] rounded-lg opacity-50"
                 />
               </div>
 
@@ -188,13 +172,13 @@ export default function BotsPage() {
                   type="text"
                   value={`https://oece.tech/api/bots/${selectedBot.id}`}
                   disabled
-                  className="w-full px-4 py-2 bg-white/5 border border-white/10 rounded-lg opacity-50"
+                  className="w-full px-4 py-2 bg-[var(--input-bg)] border border-[var(--border-subtle)] rounded-lg opacity-50"
                 />
               </div>
 
               <div>
                 <label className="block text-sm font-medium mb-2">AI Model</label>
-                <select className="w-full px-4 py-2 bg-white/5 border border-white/10 rounded-lg focus:border-[var(--primary)] outline-none">
+                <select className="w-full px-4 py-2 bg-[var(--input-bg)] border border-[var(--border-subtle)] rounded-lg focus:border-[var(--primary)] outline-none">
                   <option>Gemini 2.5 Flash (฿0.14/1K)</option>
                   <option>Gemini 2.5 Pro (฿0.28/1K)</option>
                   <option>賽博神佛 (฿7.00/1K)</option>
@@ -204,7 +188,7 @@ export default function BotsPage() {
               <div className="flex items-center justify-between">
                 <div>
                   <h3 className="text-sm font-medium">Vector Memory</h3>
-                  <p className="text-xs text-gray-500">Enable long-term memory for this bot</p>
+                  <p className="text-xs text-[var(--muted-foreground)]">Enable long-term memory for this bot</p>
                 </div>
                 <button className="w-12 h-6 rounded-full bg-green-500">
                   <div className="w-5 h-5 bg-white rounded-full translate-x-6" />
@@ -219,25 +203,26 @@ export default function BotsPage() {
 
           {/* Stats */}
           <div className="grid grid-cols-4 gap-4 mt-8 text-center">
-            <div className="p-4 rounded-lg bg-white/5">
+            <div className="p-4 rounded-lg bg-[var(--input-bg)]">
               <div className="text-2xl font-bold text-blue-400">4</div>
-              <div className="text-xs text-gray-500">Active Bots</div>
+              <div className="text-xs text-[var(--muted-foreground)]">Active Bots</div>
             </div>
-            <div className="p-4 rounded-lg bg-white/5">
+            <div className="p-4 rounded-lg bg-[var(--input-bg)]">
               <div className="text-2xl font-bold text-green-400">2,035</div>
-              <div className="text-xs text-gray-500">Total Messages</div>
+              <div className="text-xs text-[var(--muted-foreground)]">Total Messages</div>
             </div>
-            <div className="p-4 rounded-lg bg-white/5">
+            <div className="p-4 rounded-lg bg-[var(--input-bg)]">
               <div className="text-2xl font-bold text-purple-400">135</div>
-              <div className="text-xs text-gray-500">Total Users</div>
+              <div className="text-xs text-[var(--muted-foreground)]">Total Users</div>
             </div>
-            <div className="p-4 rounded-lg bg-white/5">
+            <div className="p-4 rounded-lg bg-[var(--input-bg)]">
               <div className="text-2xl font-bold text-yellow-400">฿26.40</div>
-              <div className="text-xs text-gray-500">Monthly Cost</div>
+              <div className="text-xs text-[var(--muted-foreground)]">Monthly Cost</div>
             </div>
           </div>
         </div>
       </main>
+      <SharedFooter />
     </div>
   );
 }
