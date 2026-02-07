@@ -1,1 +1,99 @@
-// ❤️ 论坛点赞 API (遷移到 Firestore)\n\nimport { NextRequest, NextResponse } from 'next/server';\nimport { db } from '@/lib/firebase';\nimport { collection, getDocs, addDoc, deleteDoc, query, where, getDoc, updateDoc } from 'firebase/firestore';\n\n// 集合名稱\nconst LIKES_COLLECTION = 'forum_likes';\nconst POSTS_COLLECTION = 'forum_posts';\nconst REPLIES_COLLECTION = 'forum_replies';\n\n/**\n * POST - 点赞/取消点赞\n */\nexport async function POST(request: NextRequest) {\n  try {\n    if (!db) {\n      throw new Error('Firestore not initialized');\n    }\n\n    const body = await request.json();\n    const { userId, targetType, targetId } = body;\n\n    // 验证参数\n    if (!userId || !targetType || !targetId) {\n      return NextResponse.json(\n        { error: 'Missing required fields' },\n        { status: 400 }\n      );\n    }\n\n    if (!['post', 'reply'].includes(targetType)) {\n      return NextResponse.json(\n        { error: 'Invalid target type' },\n        { status: 400 }\n      );\n    }\n\n    // 检查是否已点赞\n    const q = query(\n      collection(db, LIKES_COLLECTION),\n      where('user_id', '==', userId),\n      where('target_type', '==', targetType),\n      where('target_id', '==', targetId)\n    );\n    const snapshot = await getDocs(q);\n    const existingLike = snapshot.docs[0];\n\n    if (existingLike) {\n      // 取消点赞\n      await deleteDoc(existingLike.ref);\n\n      // 更新点赞数\n      const table = targetType === 'post' ? POSTS_COLLECTION : REPLIES_COLLECTION;\n      const targetDocRef = doc(db, table, targetId);\n      const targetSnap = await getDoc(targetDocRef);\n      if (targetSnap.exists()) {\n        await updateDoc(targetDocRef, {\n          likes_count: Math.max(0, (targetSnap.data().likes_count || 1) - 1)\n        });\n      }\n\n      return NextResponse.json({\n        success: true,\n        action: 'unliked'\n      });\n    } else {\n      // 点赞\n      await addDoc(collection(db, LIKES_COLLECTION), {\n        user_id: userId,\n        target_type: targetType,\n        target_id: targetId,\n        created_at: new Date().toISOString()\n      });\n\n      // 更新点赞数\n      const table = targetType === 'post' ? POSTS_COLLECTION : REPLIES_COLLECTION;\n      const targetDocRef = doc(db, table, targetId);\n      const targetSnap = await getDoc(targetDocRef);\n      if (targetSnap.exists()) {\n        await updateDoc(targetDocRef, {\n          likes_count: (targetSnap.data().likes_count || 0) + 1\n        });\n      }\n\n      return NextResponse.json({\n        success: true,\n        action: 'liked'\n      });\n    }\n  } catch (error: any) {\n    console.error('Like/Unlike error:', error);\n\n    return NextResponse.json(\n      { error: error.message || 'Failed to process like' },\n      { status: 500 }\n    );\n  }\n}\n
+// ❤️ 论坛点赞 API (遷移到 Firestore)
+
+import { NextRequest, NextResponse } from 'next/server';
+import { db } from '@/lib/firebase';
+import { collection, getDocs, addDoc, deleteDoc, query, where, getDoc, updateDoc, doc } from 'firebase/firestore';
+
+// 集合名稱
+const LIKES_COLLECTION = 'forum_likes';
+const POSTS_COLLECTION = 'forum_posts';
+const REPLIES_COLLECTION = 'forum_replies';
+
+/**
+ * POST - 点赞/取消点赞
+ */
+export async function POST(request: NextRequest) {
+  try {
+    if (!db) {
+      throw new Error('Firestore not initialized');
+    }
+
+    const body = await request.json();
+    const { userId, targetType, targetId } = body;
+
+    // 验证参数
+    if (!userId || !targetType || !targetId) {
+      return NextResponse.json(
+        { error: 'Missing required fields' },
+        { status: 400 }
+      );
+    }
+
+    if (!['post', 'reply'].includes(targetType)) {
+      return NextResponse.json(
+        { error: 'Invalid target type' },
+        { status: 400 }
+      );
+    }
+
+    // 检查是否已点赞
+    const q = query(
+      collection(db, LIKES_COLLECTION),
+      where('user_id', '==', userId),
+      where('target_type', '==', targetType),
+      where('target_id', '==', targetId)
+    );
+    const snapshot = await getDocs(q);
+    const existingLike = snapshot.docs[0];
+
+    if (existingLike) {
+      // 取消点赞
+      await deleteDoc(existingLike.ref);
+
+      // 更新点赞数
+      const table = targetType === 'post' ? POSTS_COLLECTION : REPLIES_COLLECTION;
+      const targetDocRef = doc(db, table, targetId);
+      const targetSnap = await getDoc(targetDocRef);
+      if (targetSnap.exists()) {
+        await updateDoc(targetDocRef, {
+          likes_count: Math.max(0, (targetSnap.data().likes_count || 1) - 1)
+        });
+      }
+
+      return NextResponse.json({
+        success: true,
+        action: 'unliked'
+      });
+    } else {
+      // 点赞
+      await addDoc(collection(db, LIKES_COLLECTION), {
+        user_id: userId,
+        target_type: targetType,
+        target_id: targetId,
+        created_at: new Date().toISOString()
+      });
+
+      // 更新点赞数
+      const table = targetType === 'post' ? POSTS_COLLECTION : REPLIES_COLLECTION;
+      const targetDocRef = doc(db, table, targetId);
+      const targetSnap = await getDoc(targetDocRef);
+      if (targetSnap.exists()) {
+        await updateDoc(targetDocRef, {
+          likes_count: (targetSnap.data().likes_count || 0) + 1
+        });
+      }
+
+      return NextResponse.json({
+        success: true,
+        action: 'liked'
+      });
+    }
+  } catch (error: any) {
+    console.error('Like/Unlike error:', error);
+
+    return NextResponse.json(
+      { error: error.message || 'Failed to process like' },
+      { status: 500 }
+    );
+  }
+}
