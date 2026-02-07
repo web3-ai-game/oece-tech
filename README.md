@@ -525,6 +525,44 @@ jobs:
 - [ ] Veo background generation
 - [ ] Auto-posting to Twitter/X
 
+### Phase 5: Subsites
+- [x] **me.oece.tech / svs.sos.sbs** - Personal card / digital business card
+  - Codename: SVS-SOS
+  - Stack: Next.js 14 + TailwindCSS + Framer Motion
+  - Features: Bilingual (EN/繁中), QR-friendly, mobile-first, code showcase
+  - Certifications: GCP, MongoDB, GitHub, IIT, Red/Blue Team
+  - Source: `/oece-me` (linked as subsite)
+- [ ] **api.oece.tech** - API gateway
+- [ ] **docs.oece.tech** - Documentation hub
+
+---
+
+## 🌐 Subsites Architecture
+
+```
+oece.tech (main)
+├── me.oece.tech      → Personal card / SVS-SOS profile
+├── svs.sos.sbs       → Ultimate base (mirror)
+├── api.oece.tech     → API gateway (planned)
+└── docs.oece.tech    → Documentation (planned)
+```
+
+### me.oece.tech / svs.sos.sbs (SVS-SOS Personal Card)
+
+Digital business card for security consulting, optimized for:
+- 📱 Mobile-first QR code scanning
+- 🌐 Bilingual EN/繁體中文
+- 🔒 Privacy-focused (anonymous by design)
+- ⚡ Subtle professional aesthetic
+
+**Development:**
+```bash
+cd ../oece-me
+npm run dev
+```
+
+**Deployment:** Firebase Hosting with custom subdomain
+
 ---
 
 ## 🔐 Security

@@ -6,7 +6,9 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "eslint"
+    "lint": "eslint",
+    "dev:me": "cd subsites/me && npm run dev",
+    "build:me": "cd subsites/me && npm run build"
   },
   "dependencies": {
     "@radix-ui/react-dialog": "^1.1.15",
