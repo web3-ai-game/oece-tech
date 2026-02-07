@@ -29,11 +29,11 @@ npm run dev
 ### 部署到 Firebase
 
 ```bash
-# 構建項目
-npm run build
+# 推送到 GitHub (自動觸發部署)
+git push origin main
 
-# 部署到 Firebase Hosting
-firebase deploy --only hosting
+# 手動觸發部署
+firebase apphosting:rollouts:create oece-tech --project project-2c99e56f-c791-4fb8-b11
 ```
 
 ## 🔧 技術棧
@@ -41,25 +41,25 @@ firebase deploy --only hosting
 - **框架**: Next.js 16 (App Router)
 - **語言**: TypeScript
 - **樣式**: TailwindCSS
-- **後端**: Firebase (Hosting + Realtime Database)
-- **AI**: Gemini API
+- **後端**: Firebase App Hosting (asia-southeast1)
+- **AI**: Gemini API + Grok
 - **搜索**: Algolia
 - **監控**: Sentry
-- **部署**: Firebase Hosting + Cloud Functions Gen 2
+- **部署**: Firebase App Hosting (Singapore)
 
 ## 📦 環境變量
 
 創建 `.env.local` 文件並填入以下變量：
 
 ```bash
-# Firebase 配置
-NEXT_PUBLIC_FIREBASE_API_KEY=your_firebase_api_key
-NEXT_PUBLIC_FIREBASE_AUTH_DOMAIN=your_project.firebaseapp.com
-NEXT_PUBLIC_FIREBASE_DATABASE_URL=https://your_project.firebasedatabase.app
-NEXT_PUBLIC_FIREBASE_PROJECT_ID=your_project_id
-NEXT_PUBLIC_FIREBASE_STORAGE_BUCKET=your_project.appspot.com
-NEXT_PUBLIC_FIREBASE_MESSAGING_SENDER_ID=your_sender_id
-NEXT_PUBLIC_FIREBASE_APP_ID=your_app_id
+# Firebase 配置 (已在 apphosting.yaml)
+NEXT_PUBLIC_FIREBASE_API_KEY=AIzaSyAunoEypiqpe5iCgWgK4JBpgeXbb0eN7RA
+NEXT_PUBLIC_FIREBASE_AUTH_DOMAIN=oece-tech-9aa8d.firebaseapp.com
+NEXT_PUBLIC_FIREBASE_DATABASE_URL=https://oece-tech-9aa8d-default-rtdb.asia-southeast1.firebasedatabase.app
+NEXT_PUBLIC_FIREBASE_PROJECT_ID=oece-tech-9aa8d
+NEXT_PUBLIC_FIREBASE_STORAGE_BUCKET=oece-tech-9aa8d.firebasestorage.app
+NEXT_PUBLIC_FIREBASE_MESSAGING_SENDER_ID=501753160098
+NEXT_PUBLIC_FIREBASE_APP_ID=1:501753160098:web:ae60f099b05b6bc8e812fb
 
 # Gemini API Key
 GEMINI_API_KEY=your_gemini_api_key
@@ -84,9 +84,11 @@ GitHub Actions 自動部署到 Firebase Hosting。
 
 ## 📚 相關文檔
 
-- [Firebase Console](https://console.firebase.google.com/project/oece-tech-9aa8d)
-- [Doppler Dashboard](https://dashboard.doppler.com)
+- [Firebase Console](https://console.firebase.google.com/project/project-2c99e56f-c791-4fb8-b11)
+- [App Hosting](https://console.firebase.google.com/project/project-2c99e56f-c791-4fb8-b11/apphosting)
 - [GitHub Repository](https://github.com/web3-ai-game/oece-tech)
+- **域名**: oece.tech (綁定中)
+- **區域**: asia-southeast1 (Singapore)
 
 ## 🛠️ 開發指南
 
@@ -118,11 +120,14 @@ npm run build
 ### 部署
 
 ```bash
-# 部署到 Firebase
-firebase deploy
+# Git 推送自動部署
+git push origin main
 
-# 或使用 Doppler
-doppler run --project oece-tech-prod --config dev -- firebase deploy
+# 查看部署狀態
+firebase apphosting:backends:list --project project-2c99e56f-c791-4fb8-b11
+
+# 查看構建日誌
+firebase apphosting:rollouts:list oece-tech --project project-2c99e56f-c791-4fb8-b11
 ```
 
 ## 🔐 安全
@@ -432,29 +437,34 @@ CREATE TABLE api_keys (
 
 ## 🚀 Deployment
 
-### Primary: Vercel
+### Firebase App Hosting (Primary)
 
 ```bash
-# Install Vercel CLI
-npm i -g vercel
+# 推送代碼自動觸發部署
+git push origin main
 
-# Deploy
-vercel --prod
-
-# Environment variables are managed in Vercel Dashboard
-# Or sync from Doppler:
-doppler secrets download --no-file --format env | vercel env add
+# Firebase App Hosting 會自動：
+# 1. 從 GitHub 拉取代碼
+# 2. 從 apphosting.yaml 讀取環境變量
+# 3. 構建 Next.js 應用
+# 4. 部署到 Cloud Run (asia-southeast1)
 ```
 
-### Backup: Firebase Hosting
+### 手動部署
 
 ```bash
-# Build static export
-npm run build
+# 創建新 rollout
+firebase apphosting:rollouts:create oece-tech --project project-2c99e56f-c791-4fb8-b11
 
-# Deploy to Firebase
-firebase deploy --only hosting
+# 查看狀態
+firebase apphosting:backends:get oece-tech --project project-2c99e56f-c791-4fb8-b11
 ```
+
+### 域名配置
+
+**主域名**: oece.tech → Firebase App Hosting (待綁定)
+
+參見: `/Users/sms/GCP/DNS配置指南-oece-tech.md`
 
 ### CI/CD (GitHub Actions)
 
