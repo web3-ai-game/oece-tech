@@ -1,0 +1,31 @@
+rules_version = '2';
+service cloud.firestore {
+  match /databases/{database}/documents {
+
+    // 1. 用戶數據隔離
+    match /users/{userId} {
+      allow read, write: if request.auth != null && request.auth.uid == userId;
+
+      match /{document=**} {
+        allow read, write: if request.auth != null && request.auth.uid == userId;
+      }
+    }
+
+    // 2. 知識庫 (Knowledge Base) - 公開讀取，管理員寫入
+    match /knowledge/{docId} {
+      allow read: if true;
+      allow write: if false; // 需通過 Admin SDK
+    }
+
+    // 3. 論壇 (Forum) - 登錄用戶可讀寫
+    match /forum/{postId} {
+      allow read: if true;
+      allow create: if request.auth != null;
+      allow update, delete: if request.auth != null && request.auth.uid == resource.data.authorId;
+    }
+
+    match /{document=**} {
+      allow read, write: if false;
+    }
+  }
+}
