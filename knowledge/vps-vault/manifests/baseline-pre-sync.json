@@ -1,0 +1,622 @@
+{
+  "generated_at": "2026-02-13T13:26:08Z",
+  "repo": "/root/oece-tech",
+  "tracked_file_count": 123,
+  "files": [
+    {
+      "path": ".archive/CACHE-CLEAR.md",
+      "bytes": 2463,
+      "sha256": "eff0220c1e51299b5a5e6701748da6f77305c3330395f82152f22dbb200911c1"
+    },
+    {
+      "path": ".archive/DEPLOYMENT-STRATEGY.md",
+      "bytes": 2478,
+      "sha256": "8d49161c562e2c067b135a353c5e6c8e2ec8a157c7ee3d83d8afd0ee391edfc2"
+    },
+    {
+      "path": ".archive/DIGITALOCEAN-DEPLOY-GUIDE.md",
+      "bytes": 4042,
+      "sha256": "78b2eed14fa30f90230cd27afb1f3bcd4145ee99955280c94f3f671d36587769"
+    },
+    {
+      "path": ".archive/DOMAIN-SETUP.md",
+      "bytes": 4473,
+      "sha256": "5b6255b00ebdb613faf95b19dfebb3d0d2e95d48d936b511e8c27d35b25fead7"
+    },
+    {
+      "path": ".archive/FIREBASE-APP-HOSTING-SETUP.md",
+      "bytes": 3972,
+      "sha256": "b42e3ba099c9a9c3ebd7457d79515db64ffc9e8fa8cc3467d3747f806de98f4a"
+    },
+    {
+      "path": ".archive/FIX-AND-DEPLOY.md",
+      "bytes": 3824,
+      "sha256": "9d362d22022ece7fe07eb55bebcc3a6396a48525694fa72c33a717f6df022a60"
+    },
+    {
+      "path": ".archive/MISSING-FEATURES.md",
+      "bytes": 3040,
+      "sha256": "289d632d43242e7b81e02a6cdd27d03d4ef0e908e7e0a1fa2b49c8fae162caf1"
+    },
+    {
+      "path": ".archive/PROJECT-SUMMARY.md",
+      "bytes": 6215,
+      "sha256": "9cd314b1fdfb9116c1a16e000d6cf7a519430a2feddd1d8cc857aca3f8275282"
+    },
+    {
+      "path": ".archive/SECURITY-SETUP.md",
+      "bytes": 3458,
+      "sha256": "b4dc3a30aca77f5090241c26c9335ccf949d4835c14a3c12e309ae342b12577d"
+    },
+    {
+      "path": ".archive/SETUP-FIREBASE.md",
+      "bytes": 2689,
+      "sha256": "0051c27ed98d3c1b41e3711f925a76e02c5b99bf424e9b9a81e26c53e2368f42"
+    },
+    {
+      "path": ".archive/施工進度.md",
+      "bytes": 5323,
+      "sha256": "570170ae558e6fab97fa1adb756c3a4f295a485e40fd235538c2476cd9eb67d5"
+    },
+    {
+      "path": ".cursorrules",
+      "bytes": 9259,
+      "sha256": "d8dcea86e977af2138da36b0aa5606fa2819d9534b85b40862eb7264df9f538d"
+    },
+    {
+      "path": ".firebaserc",
+      "bytes": 49,
+      "sha256": "1337aac3b3a5f349e0bba20996c35de1533f4e91b191f47a82b5d2caa5011bca"
+    },
+    {
+      "path": ".gitignore",
+      "bytes": 516,
+      "sha256": "9033b536cec66bf03b439a6f0f5d84a331790e7665959afc155b9515e13c4486"
+    },
+    {
+      "path": "CLAUDE.md",
+      "bytes": 13892,
+      "sha256": "22c6a948f3d0cccc2b393f2045cc1fd3b9060815792c2bfca648f9b29b476140"
+    },
+    {
+      "path": "DEPLOY_TRIGGER.txt",
+      "bytes": 134,
+      "sha256": "10885a9b3ec149bcb35fab9f7e962276051285aed0aebd7c690a55e201010a98"
+    },
+    {
+      "path": "FIX-ALL.sh",
+      "bytes": 2017,
+      "sha256": "e68ed404ed52273ca8a7bc190a485ec72f7cf012bf998d88babc3eec18e91f71"
+    },
+    {
+      "path": "README.md",
+      "bytes": 14994,
+      "sha256": "f0b3c75df452005396107a5e22cc55b40f4e1669154aefba9a85fa5a1c3fb612"
+    },
+    {
+      "path": "ROUTES.md",
+      "bytes": 3401,
+      "sha256": "51ee2e8face5c18450f7dd7d83359f3b4b567f502cefc0312f6716afa1ad1f18"
+    },
+    {
+      "path": "SIMPLE-START.md",
+      "bytes": 4036,
+      "sha256": "cde52746b06043776a288b308cb30dd29761435537a99f30eb719a0d2a4e7954"
+    },
+    {
+      "path": "app/about/page.tsx",
+      "bytes": 12547,
+      "sha256": "75686e3121973d7c502fddffc57d5b6d974eaf31b5d2329926bf1f50c8f94d14"
+    },
+    {
+      "path": "app/favicon.ico",
+      "bytes": 25931,
+      "sha256": "2b8ad2d33455a8f736fc3a8ebf8f0bdea8848ad4c0db48a2833bd0f9cd775932"
+    },
+    {
+      "path": "app/globals.css",
+      "bytes": 4079,
+      "sha256": "0fad274a963035e55e508e731f9ba4e57ba678afb057003378c37aca24b1dc27"
+    },
+    {
+      "path": "app/layout.tsx",
+      "bytes": 1090,
+      "sha256": "46bc69df95ab18c9eb92641232b86ad366de78d9a2f726c5f8e7cc18d6984a22"
+    },
+    {
+      "path": "app/page.tsx",
+      "bytes": 1383,
+      "sha256": "90cd366b8d349eb3063886ecbdc503e366f288f78c357cdb14729e5c93817214"
+    },
+    {
+      "path": "apphosting.yaml",
+      "bytes": 1504,
+      "sha256": "35b9ec494d4abc1119519ed9df0e2f4c3955501b3503ec3b423813cb4e6e4e24"
+    },
+    {
+      "path": "components/CompanionChat.tsx",
+      "bytes": 5968,
+      "sha256": "e2a0b5bfc6645b6635a49259be93fd28c426a80a0168eecd3c313c05bc42f079"
+    },
+    {
+      "path": "components/asset-showcase.tsx",
+      "bytes": 7131,
+      "sha256": "c532d4531f9f303b1b3ef58ad1ae58dd2b249b70a13b185f889b43f1af42cec5"
+    },
+    {
+      "path": "components/bookmark-grid.tsx",
+      "bytes": 2430,
+      "sha256": "7222b95b4f1fa55a9fc3e0b410fa0151fa179acccebfd8e5c3614c746e50c96e"
+    },
+    {
+      "path": "components/chat-window.tsx",
+      "bytes": 5207,
+      "sha256": "738b6fc14688259361815d34e6b1332bc5c6fc536e05b1fc92e523cc70b368bf"
+    },
+    {
+      "path": "components/home/features-grid.tsx",
+      "bytes": 3846,
+      "sha256": "584b891ed907c2d6bd55e308d04cc93b6743f23b6a03f2fb6cbee6745810f9a3"
+    },
+    {
+      "path": "components/home/giants-section.tsx",
+      "bytes": 5320,
+      "sha256": "d299ff5541b26ea96c5db0a234744e5f1a254449324f41a4b9d450e0fd5afcd0"
+    },
+    {
+      "path": "components/home/hero-section.tsx",
+      "bytes": 2627,
+      "sha256": "abfff54cc466e696bb8223d61e803bcc7933a2cd97847abb4be93ba17655f814"
+    },
+    {
+      "path": "components/home/pipeline-svg.tsx",
+      "bytes": 11939,
+      "sha256": "654bffb72393a275b87fd074f877c9375c1e35f5277742fc8ce86730ef3745b7"
+    },
+    {
+      "path": "components/home/security-arena.tsx",
+      "bytes": 6039,
+      "sha256": "49600cb04019f30e5c6ee6db4c8554cec35ddb5bf042ea384d146c81e310afbb"
+    },
+    {
+      "path": "components/home/tech-architecture.tsx",
+      "bytes": 13479,
+      "sha256": "d76d98e1fd390f13352ecabb76886422c1cd97ae81ff9e53f55a08dcdd51dd2c"
+    },
+    {
+      "path": "components/language-toggle.tsx",
+      "bytes": 1099,
+      "sha256": "e8d161c34612f11d1a0a50f42e845d65e9c7ea8e7b7f6ea5f6328430ce5d88b1"
+    },
+    {
+      "path": "components/shared-footer.tsx",
+      "bytes": 1290,
+      "sha256": "b1edb0974e30b4486481c3e07ac29e2740df5566f7c62d1fd8fb252c4b877414"
+    },
+    {
+      "path": "components/shared-header.tsx",
+      "bytes": 5744,
+      "sha256": "3caae4bccb36ec8c0bf04de66a3f4cb06d57f63139f32962b2aa4b155c4b96a2"
+    },
+    {
+      "path": "components/social-channels.tsx",
+      "bytes": 3659,
+      "sha256": "b135fce00f67a97616eb46c154f2864fe4bc118d1fb640c171d74efe99f26173"
+    },
+    {
+      "path": "components/tech-stack.tsx",
+      "bytes": 4794,
+      "sha256": "fc42dc517c06e147b1c87a9bf57d1db472ca78af4e22e7a963d13be2020e15a1"
+    },
+    {
+      "path": "components/theme-toggle.tsx",
+      "bytes": 1161,
+      "sha256": "4f88370e49c0304317b2f48f4cdb8c8e54bcc1dada4be8539d98102dd3ed96e1"
+    },
+    {
+      "path": "components/token-meter.tsx",
+      "bytes": 3888,
+      "sha256": "fcb340204cb9f21531db2889c99b3f69d5d4189706d5383fb4228a4cfb362d9a"
+    },
+    {
+      "path": "components/ui/bento-grid.tsx",
+      "bytes": 1936,
+      "sha256": "0b50e43459126a2fe969fab5991c429da6176adc39fc2301d84660388395070a"
+    },
+    {
+      "path": "components/ui/button.tsx",
+      "bytes": 1519,
+      "sha256": "3adadd50503c2d412ee6adb5d0f9e67bf06cc0f87f65ae10d19e096f67fd0190"
+    },
+    {
+      "path": "components/ui/moving-border.tsx",
+      "bytes": 2275,
+      "sha256": "a903ef4ce2cb6f7a5650445d3808f8faca524bc1dee9b372ddfa38f9103bd50a"
+    },
+    {
+      "path": "components/ui/spotlight.tsx",
+      "bytes": 1464,
+      "sha256": "bf006ae984cb0f5eb001260c8b581578f2c67eebb39dffd79681c9582b69b951"
+    },
+    {
+      "path": "deploy/deploy.sh",
+      "bytes": 366,
+      "sha256": "84da77b6cbe32536fa7d501be98cf1690d6d1372176ac71ab8861e0a0a64ee5a"
+    },
+    {
+      "path": "deploy/ecosystem.config.js",
+      "bytes": 641,
+      "sha256": "fc8ec74d6778d07d14dda64b799cc12bb3eb84d555b7aeeb390140f08df88055"
+    },
+    {
+      "path": "deploy/nginx.conf",
+      "bytes": 2181,
+      "sha256": "e76468ed9129488239da3efcb274b4e789f7ba53949ad91d3e20cf1b5ee56583"
+    },
+    {
+      "path": "deploy/setup-vps.sh",
+      "bytes": 2873,
+      "sha256": "75e77cfed51ff21967ca6e2450fdedeb7a193a4d353dc1434075b965b4481104"
+    },
+    {
+      "path": "dev.sh",
+      "bytes": 864,
+      "sha256": "6b04f40f034e12e3aef8c43c779c706af6197e1b894281a3fbb88ce8f32718cf"
+    },
+    {
+      "path": "docs/AI_MODELS_CONFIG.md",
+      "bytes": 4025,
+      "sha256": "64a48179c31ab329e20f6ab62818244a34e1062f4f531bb293438a4990c8c7a3"
+    },
+    {
+      "path": "docs/BACKEND-API.md",
+      "bytes": 6956,
+      "sha256": "ed0b5e109c2ffcab30e7a0ca1245c7a4e605b22daa9a49258b19f29cae9c2489"
+    },
+    {
+      "path": "docs/BACKEND-IMPLEMENTATION.md",
+      "bytes": 8133,
+      "sha256": "121f521adcc37ebae40f5539881fac2636ef7adc05be1eb77fcba2fa59849cc2"
+    },
+    {
+      "path": "docs/ENV-SETUP.md",
+      "bytes": 3675,
+      "sha256": "0cf4c203e2d508b780fd147f0d4b55dca52c1a2f19ff2e40828e6c6e9c333d29"
+    },
+    {
+      "path": "docs/USER-GUIDE.md",
+      "bytes": 5338,
+      "sha256": "272c741defeb6b56bfa0a2cfb105ad1c83099cced668d70cd74af5f91b4c8f1f"
+    },
+    {
+      "path": "doppler.yaml",
+      "bytes": 46,
+      "sha256": "bc9c3e1cf24b8c3dfeea132042c2e20a42ab456eea7951cb715c670549f0560b"
+    },
+    {
+      "path": "env.example",
+      "bytes": 1890,
+      "sha256": "247191cee632883c64b37cf014278b1ede78f9e6f1f5aea12faf09a41fc10e5d"
+    },
+    {
+      "path": "eslint.config.mjs",
+      "bytes": 465,
+      "sha256": "870f1adccecf3051cbcd9fd307cef51d7633cf510979c181a81f4b1797273493"
+    },
+    {
+      "path": "firebase.json",
+      "bytes": 193,
+      "sha256": "238bbadd66127d060fb39e50671dde415518def6ebe75e649133a3fcb6c76ad1"
+    },
+    {
+      "path": "firestore.rules",
+      "bytes": 870,
+      "sha256": "995ebbd154d9986c907ce5d5f1b05cb77dce3a29e4b0d8e39313f7a337277022"
+    },
+    {
+      "path": "lib/asset-portfolio.ts",
+      "bytes": 4592,
+      "sha256": "02caff2dc29c3838b6278be9974f8a9f3309a8becfd282e0c51ef9cc3db1e038"
+    },
+    {
+      "path": "lib/auth-context.tsx",
+      "bytes": 6301,
+      "sha256": "c84888a3bc54f8f49591b4c90bfe21e4f5ee02d10d7bc4bbdfeed143307194bc"
+    },
+    {
+      "path": "lib/bookmarks/get-bookmarks.ts",
+      "bytes": 801,
+      "sha256": "a377c4481cac203f15bba6e7c9b6884235cebc931cec228539cced6493e3a653"
+    },
+    {
+      "path": "lib/bookmarks/scripts/bookmark_cleaner.py",
+      "bytes": 5639,
+      "sha256": "397f0138335ba4ccdf029f9d33532b373836a23949d4fab13a270a796e024f38"
+    },
+    {
+      "path": "lib/bookmarks/scripts/bookmark_scraper.py",
+      "bytes": 8996,
+      "sha256": "0987de195233deb2ac8b66aa9b07b00a556295544ef66875058dc811e670f1b5"
+    },
+    {
+      "path": "lib/bookmarks/scripts/firebase_search.py",
+      "bytes": 6288,
+      "sha256": "ce4b42c76a600ab2961d33cacad68d6ef6bd44ed8a226035ff312379d8487ca6"
+    },
+    {
+      "path": "lib/bookmarks/scripts/firebase_uploader.py",
+      "bytes": 6586,
+      "sha256": "375b993d0ee1c57a5ca92b4a78883f6d2394915192986d3597447906c4f6cfe9"
+    },
+    {
+      "path": "lib/bookmarks/scripts/grok_distiller_v2.py",
+      "bytes": 13981,
+      "sha256": "d80ce3a5ef06ea7f9383f22423d8a5c7a9fc08334261feba397963ec183127bf"
+    },
+    {
+      "path": "lib/bookmarks/scripts/requirements_v2.txt",
+      "bytes": 210,
+      "sha256": "3893436db0469dc95fc3549a7e44760269373a79a53e4cb1d8f7ca0da80be888"
+    },
+    {
+      "path": "lib/divination/prompts.ts",
+      "bytes": 2891,
+      "sha256": "00a4c8089d636c2d9fcaed9f8929175894e5638685ea8d6e3adab460e75ccc70"
+    },
+    {
+      "path": "lib/firebase-admin.ts",
+      "bytes": 380,
+      "sha256": "36b4c1572f4eaf43ec899abd0fb9409b9055a9d97678985e3f9c0e5a159066b9"
+    },
+    {
+      "path": "lib/firebase.ts",
+      "bytes": 1357,
+      "sha256": "1139b5814ac207e7397019a490222af3801c56719c8169a3d1020af831e9489d"
+    },
+    {
+      "path": "lib/gemini/client.ts",
+      "bytes": 3724,
+      "sha256": "79d650d449a839f82b540e430e200173e98ab7009185cccc4d829d7c4ebb2fa2"
+    },
+    {
+      "path": "lib/gemini/config.ts",
+      "bytes": 2935,
+      "sha256": "ce91dbfa34e75276d88a34a3a7533f50529f73fb5eba468b88cec87406d12ff8"
+    },
+    {
+      "path": "lib/gemini/key-rotation.ts",
+      "bytes": 1187,
+      "sha256": "211691dc1e6fae520e649a8770898d7c819cbdebab010c8d22d2375d004b77c3"
+    },
+    {
+      "path": "lib/gemini/rate-limit.ts",
+      "bytes": 2532,
+      "sha256": "e5043efe8fc0653c59a8c41197ab8e3796a2a6bb40c7c57a5ecf8db5fa7e82a6"
+    },
+    {
+      "path": "lib/gemini/utils.ts",
+      "bytes": 1671,
+      "sha256": "510179407c455bcf73a0566d6576ffc36a3102db16401dae95d0d9b391c5abb1"
+    },
+    {
+      "path": "lib/grok.ts",
+      "bytes": 1963,
+      "sha256": "4cd7a2a6a0e1cb67aea1374c5d61626147749ed100f22913678723bcd463678f"
+    },
+    {
+      "path": "lib/grok/client.ts",
+      "bytes": 3101,
+      "sha256": "c4482d0bda21ef1a34f21909cb7e3a3ae1db4c5240e00db786aac9cdc4798a5c"
+    },
+    {
+      "path": "lib/language-provider.tsx",
+      "bytes": 9465,
+      "sha256": "6c5ae55367aa55d956322a952eca55841805efacd114b97789c2dcafe2411c12"
+    },
+    {
+      "path": "lib/pricing-pool.ts",
+      "bytes": 3556,
+      "sha256": "e82eabfaadd6762e9f97faa9b4e681d9c7cb1ad4feceee4f3da14b3eb1647b17"
+    },
+    {
+      "path": "lib/storage/firebase-storage.ts",
+      "bytes": 3235,
+      "sha256": "4520dd4dc177fa29f1b26c102e2427b9b22b8541b0174a7f8e4365c6148cecb1"
+    },
+    {
+      "path": "lib/supabase/client.ts",
+      "bytes": 1251,
+      "sha256": "7aa0e156650c99721b1b71d0e85b90f13470455da4d7ffd869f6d83d7464d443"
+    },
+    {
+      "path": "lib/supabase/schema.sql",
+      "bytes": 2454,
+      "sha256": "24d779f89ed7286622a68ef6a229c16f8b2ddb32474ce59b7c799be3a3b7e16b"
+    },
+    {
+      "path": "lib/theme-provider.tsx",
+      "bytes": 1264,
+      "sha256": "c2fd2602dded9082092c5bdcd4874f1a16150c2829eef81ee7d4e864e024c5b1"
+    },
+    {
+      "path": "lib/utils.ts",
+      "bytes": 166,
+      "sha256": "51bbf14cd1f84f49aab2e0dbee420137015d56b6677bb439e83a908cd292cce1"
+    },
+    {
+      "path": "messages/en.json",
+      "bytes": 1210,
+      "sha256": "a990bf20926f004a73b26bd43afb1afc89bd670c5362430749b7f4e3ec0759fa"
+    },
+    {
+      "path": "messages/zh.json",
+      "bytes": 1196,
+      "sha256": "09c87f8714314bb07a9fc30dac1a6b113982aa7badd16252b67ef72501d09633"
+    },
+    {
+      "path": "middleware.ts",
+      "bytes": 815,
+      "sha256": "be662873c12d28288977893ccdd49af63de75eb2744e75397868c9b53bd3a2df"
+    },
+    {
+      "path": "next.config.ts",
+      "bytes": 156,
+      "sha256": "58d7f0d9ff632e876f172ea91e3daed804d922494a6a2e7cd312260dfb7973d0"
+    },
+    {
+      "path": "package-lock.json",
+      "bytes": 727388,
+      "sha256": "be3379c49617f8be97eb8cb2ed39f9fcbc870bbbc840428d01ddb25adb903375"
+    },
+    {
+      "path": "package.json",
+      "bytes": 1358,
+      "sha256": "d55ef7b3ec6b913d1d884264b9a8ea98bb8be5a973c6057bf77aa7b0e5689dac"
+    },
+    {
+      "path": "postcss.config.mjs",
+      "bytes": 94,
+      "sha256": "dfac7ac2d86d326a0e5adb024e7943c181393ed17a5fcb8f0315b24c7da6ddde"
+    },
+    {
+      "path": "public/file.svg",
+      "bytes": 391,
+      "sha256": "2b67812c325c199a02536cdbeea0c593a72f707d323b72ee3e08dbab06753bd4"
+    },
+    {
+      "path": "public/globe.svg",
+      "bytes": 1035,
+      "sha256": "b614b9bf183925957661ac851498fe1d8029fd43a62fbfed86f9e2624a57e7cf"
+    },
+    {
+      "path": "public/img/giants/neumann.jpg",
+      "bytes": 545004,
+      "sha256": "0be811138e69be23b661a6e05701ee8e0923a5f579e918fb3ff0414b2be6994f"
+    },
+    {
+      "path": "public/img/giants/turing.jpg",
+      "bytes": 217374,
+      "sha256": "f31e84277a693f53010dfee0a47dfee3e56cf4f2403049c5d5d138b756cb5412"
+    },
+    {
+      "path": "public/img/logo-oece.png",
+      "bytes": 26900,
+      "sha256": "02008fcdbe57911290c977fc65f4f5bae519a3e663cb2a972f16d01fb17f47f8"
+    },
+    {
+      "path": "public/img/me/avatar.png",
+      "bytes": 111093,
+      "sha256": "c5bbdae92ad352b0ee76533947b1407bca4fd75b2533d14f2bf381a3f5198ef2"
+    },
+    {
+      "path": "public/manifest.json",
+      "bytes": 767,
+      "sha256": "5005fe02ef31df75a7d0548223deb358d79ce2e6aef757aea12b6927648d7d8b"
+    },
+    {
+      "path": "public/next.svg",
+      "bytes": 1375,
+      "sha256": "55995dfad6ecb4945a1e856ddca03c5e16aa5bf13fd21b4df6a74ae79357bcfc"
+    },
+    {
+      "path": "public/vercel.svg",
+      "bytes": 128,
+      "sha256": "f081337b2fee635b455b63275406a3e7f39d6a014e25ad90dab5a67e62a12ac4"
+    },
+    {
+      "path": "public/window.svg",
+      "bytes": 385,
+      "sha256": "644768c4aaeb4767bce293344eeb0c125fb804a94d801440424072202d85e3a1"
+    },
+    {
+      "path": "scripts/setup-env.sh",
+      "bytes": 998,
+      "sha256": "9cf2c48c1a5e250f893470192c1a3f7cc62dc64e4fc172c4ac3ff0cce22a91e9"
+    },
+    {
+      "path": "scripts/sync-to-doppler.sh",
+      "bytes": 1314,
+      "sha256": "a06931b757d2daec1ef41c019dfb7155ad8640016f45810096caf8b4d81f4aed"
+    },
+    {
+      "path": "setup-all-secrets.sh",
+      "bytes": 4226,
+      "sha256": "7f0f4c72b68e2e63c3c14e39653a01c958394166286ce6a046956e8583e253ed"
+    },
+    {
+      "path": "setup-domain.sh",
+      "bytes": 1731,
+      "sha256": "0a9137d4f4baec45cb5ce3d429101fee740e494f0b8f9f16cef7fda2aca8ada0"
+    },
+    {
+      "path": "subsites/README.md",
+      "bytes": 612,
+      "sha256": "e2d323d5db14621961a32874afa515cc1fd456a679598188462da11165334c3b"
+    },
+    {
+      "path": "supabase/schema.sql",
+      "bytes": 3683,
+      "sha256": "c2064471cc54a33547d96e86578c0a3f4eb983247db01c941d8ac8aa6ea5f4e2"
+    },
+    {
+      "path": "sync-all-secrets.sh",
+      "bytes": 4621,
+      "sha256": "db98168a47aa73a41c14016aacf6d387460427db942e9c415f13e145d938596c"
+    },
+    {
+      "path": "tailwind.config.ts",
+      "bytes": 1316,
+      "sha256": "5b971dc7be4576c8641c5a89f6f89a6956c1c37aee616a7b20f236a233ddc26f"
+    },
+    {
+      "path": "telegram-bot/Dockerfile",
+      "bytes": 251,
+      "sha256": "16733f256eaaee1f5fdf697a7668d4dfcadffe096a15c036c9b238059cef3b2a"
+    },
+    {
+      "path": "telegram-bot/README-V2.md",
+      "bytes": 5048,
+      "sha256": "4bf3b398ce16a447adc202e18f1717a3158621e89c877e096dc0c3d6c0c5cceb"
+    },
+    {
+      "path": "telegram-bot/README.md",
+      "bytes": 3233,
+      "sha256": "869c7ed1dcbe865ced1acdc360433c92c703abfc8eeede05a10761270975a67d"
+    },
+    {
+      "path": "telegram-bot/bot-v2.js",
+      "bytes": 7594,
+      "sha256": "18bab651f1430eef0b927e7bf979f9ac1c2465535df50b6c7b16c3fb278eccf3"
+    },
+    {
+      "path": "telegram-bot/bot.js",
+      "bytes": 6647,
+      "sha256": "81e03c0ecc158a79a6cc15dab783244af13f22a03e7173d1f9ca66950110d40d"
+    },
+    {
+      "path": "telegram-bot/deploy-v2.sh",
+      "bytes": 1721,
+      "sha256": "0a7f281618165575b7447413668343985cd95b7995bd30609d061fc1b8cb8754"
+    },
+    {
+      "path": "telegram-bot/deploy-with-doppler.sh",
+      "bytes": 2582,
+      "sha256": "7730ad831c1f06f49ded2de6cd0d19b714c6bdf76bc9c6a3abbd0a2409e559ea"
+    },
+    {
+      "path": "telegram-bot/package.json",
+      "bytes": 435,
+      "sha256": "9c8515cb30f0f1184f778e8f0dc470dc29daebac9d1d5ca259bc6e9aa9aad368"
+    },
+    {
+      "path": "telegram-bot/pre-deploy-check.sh",
+      "bytes": 2206,
+      "sha256": "71624c085a8618d27d8d5eeff0970414c10336ac340b171854cdb328a401c7d3"
+    },
+    {
+      "path": "tsconfig.json",
+      "bytes": 715,
+      "sha256": "f13503552743808b30147b15c6debece7ae27cb0a025dc9b6adce35bf0f2cd47"
+    }
+  ]
+}

@@ -53,7 +53,7 @@ firebase apphosting:rollouts:create oece-tech --project project-2c99e56f-c791-4f
 
 ```bash
 # Firebase 配置 (已在 apphosting.yaml)
-NEXT_PUBLIC_FIREBASE_API_KEY=AIzaSyAunoEypiqpe5iCgWgK4JBpgeXbb0eN7RA
+NEXT_PUBLIC_FIREBASE_API_KEY=***REDACTED***
 NEXT_PUBLIC_FIREBASE_AUTH_DOMAIN=oece-tech-9aa8d.firebaseapp.com
 NEXT_PUBLIC_FIREBASE_DATABASE_URL=https://oece-tech-9aa8d-default-rtdb.asia-southeast1.firebasedatabase.app
 NEXT_PUBLIC_FIREBASE_PROJECT_ID=oece-tech-9aa8d

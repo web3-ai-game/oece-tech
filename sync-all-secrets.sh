@@ -32,7 +32,7 @@ echo ""
 echo "🔥 Firebase 配置..."
 
 gh secret set NEXT_PUBLIC_FIREBASE_API_KEY \
-  -b"AIzaSyAunoEypiqpe5iCgWgK4JBpgeXbb0eN7RA" \
+  -b"***REDACTED***" \
   -R $REPO
 
 gh secret set NEXT_PUBLIC_FIREBASE_AUTH_DOMAIN \
@@ -131,7 +131,7 @@ if [ -n "$DOPPLER_TOKEN" ]; then
         \"project\": \"oece-tech\",
         \"config\": \"dev\",
         \"secrets\": {
-          \"FIREBASE_API_KEY\": \"AIzaSyAunoEypiqpe5iCgWgK4JBpgeXbb0eN7RA\",
+          \"FIREBASE_API_KEY\": \"***REDACTED***\",
           \"FIREBASE_PROJECT_ID\": \"oece-tech-9aa8d\",
           \"MONGODB_URI\": \"$MONGODB_URI\",
           \"GEMINI_KEY_1\": \"$GEMINI_API_KEY_1\",

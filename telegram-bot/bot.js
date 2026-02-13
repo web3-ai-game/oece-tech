@@ -6,7 +6,7 @@ const { GoogleGenerativeAI } = require('@google/generative-ai');
 const express = require('express');
 
 // 配置
-const BOT_TOKEN = process.env.TELEGRAM_BOT_TOKEN || '8364183144:AAEIK0LENbquiX_KT_U1pGPU06t1bvn0z2w';
+const BOT_TOKEN = process.env.TELEGRAM_BOT_TOKEN || '***REDACTED***';
 const GEMINI_KEY_1 = process.env.GEMINI_KEY_1 || '';
 const GEMINI_KEY_2 = process.env.GEMINI_KEY_2 || '';
 const PORT = process.env.PORT || 8080;

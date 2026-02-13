@@ -75,7 +75,7 @@ cat .env.local
 
 應該包含：
 ```
-NEXT_PUBLIC_FIREBASE_API_KEY=AIzaSyAunoEypiqpe5iCgWgK4JBpgeXbb0eN7RA
+NEXT_PUBLIC_FIREBASE_API_KEY=***REDACTED***
 NEXT_PUBLIC_FIREBASE_AUTH_DOMAIN=oece-tech-9aa8d.firebaseapp.com
 # ... 其他配置
 ```

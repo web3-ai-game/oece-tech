@@ -63,7 +63,7 @@ gcloud run deploy onion-mcp-bot \
   --platform managed \
   --region asia-southeast1 \
   --allow-unauthenticated \
-  --set-env-vars TELEGRAM_BOT_TOKEN=8364183144:AAEIK0LENbquiX_KT_U1pGPU06t1bvn0z2w \
+  --set-env-vars TELEGRAM_BOT_TOKEN=***REDACTED*** \
   --set-env-vars GEMINI_KEY_1=$GEMINI_API_KEY_1 \
   --set-env-vars GEMINI_KEY_2=$GEMINI_API_KEY_2
 
@@ -72,7 +72,7 @@ gcloud run services describe onion-mcp-bot --region asia-southeast1 --format 'va
 
 # 4. 設置 Webhook
 curl -X POST "https://api.telegram.org/bot8364183144:AAEIK0LENbquiX_KT_U1pGPU06t1bvn0z2w/setWebhook" \
-  -d "url=YOUR_CLOUD_RUN_URL/webhook/8364183144:AAEIK0LENbquiX_KT_U1pGPU06t1bvn0z2w"
+  -d "url=YOUR_CLOUD_RUN_URL/webhook/***REDACTED***"
 ```
 
 ---
@@ -94,7 +94,7 @@ curl -X POST "https://api.telegram.org/bot8364183144:AAEIK0LENbquiX_KT_U1pGPU06t
 npm install
 
 # 設置環境變量
-export TELEGRAM_BOT_TOKEN=8364183144:AAEIK0LENbquiX_KT_U1pGPU06t1bvn0z2w
+export TELEGRAM_BOT_TOKEN=***REDACTED***
 export GEMINI_KEY_1=你的_KEY_1
 export GEMINI_KEY_2=你的_KEY_2
 

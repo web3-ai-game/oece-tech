@@ -1,0 +1,37 @@
+{
+  "generated": "2026-02-08T22:32:31.909Z",
+  "engine": "Grok-4-1-fast + Local Distill",
+  "results": [
+    {
+      "name": "Frontend Masters",
+      "items": 109,
+      "outputChars": 5480
+    },
+    {
+      "name": "DataCamp",
+      "items": 120,
+      "outputChars": 5376
+    },
+    {
+      "name": "Educative",
+      "items": 140,
+      "outputChars": 5209
+    },
+    {
+      "name": "GoRails",
+      "items": 200,
+      "outputChars": 4200
+    },
+    {
+      "name": "Interview Cake",
+      "items": 58,
+      "outputChars": 4748
+    },
+    {
+      "name": "Design Assets",
+      "items": 56,
+      "outputChars": 4817
+    }
+  ],
+  "totalItems": 683
+}
