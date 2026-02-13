@@ -58,7 +58,7 @@ if [ -z "$TELEGRAM_BOT_TOKEN" ]; then
     echo "⚠️  未設置 TELEGRAM_BOT_TOKEN"
     echo "需要從 BotFather 獲取新 Token"
 else
-    echo "✅ Token: ${TELEGRAM_BOT_TOKEN:0:10}..."
+    echo "✅ Token: ***REDACTED***"
 fi
 
 echo ""

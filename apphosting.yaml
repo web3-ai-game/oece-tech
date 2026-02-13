@@ -4,7 +4,7 @@
 # Build Time 環境變量（構建階段需要）
 env:
   - variable: NEXT_PUBLIC_FIREBASE_API_KEY
-    value: AIzaSyAunoEypiqpe5iCgWgK4JBpgeXbb0eN7RA
+    value: "***REDACTED***"
   
   - variable: NEXT_PUBLIC_FIREBASE_AUTH_DOMAIN
     value: ai-oece.firebaseapp.com
@@ -28,7 +28,7 @@ runConfig:
   # Runtime 環境變量（運行時）
   env:
     - variable: NEXT_PUBLIC_FIREBASE_API_KEY
-      value: AIzaSyAunoEypiqpe5iCgWgK4JBpgeXbb0eN7RA
+      value: "***REDACTED***"
     
     - variable: NEXT_PUBLIC_FIREBASE_AUTH_DOMAIN
       value: ai-oece.firebaseapp.com

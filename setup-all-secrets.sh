@@ -14,7 +14,7 @@ echo "📦 配置 GitHub Secrets..."
 echo ""
 
 # Firebase 配置（7個）
-gh secret set NEXT_PUBLIC_FIREBASE_API_KEY -b"AIzaSyAunoEypiqpe5iCgWgK4JBpgeXbb0eN7RA" -R $REPO
+gh secret set NEXT_PUBLIC_FIREBASE_API_KEY -b"***REDACTED***" -R $REPO
 gh secret set NEXT_PUBLIC_FIREBASE_AUTH_DOMAIN -b"oece-tech-9aa8d.firebaseapp.com" -R $REPO
 gh secret set NEXT_PUBLIC_FIREBASE_DATABASE_URL -b"https://oece-tech-9aa8d-default-rtdb.asia-southeast1.firebasedatabase.app" -R $REPO
 gh secret set NEXT_PUBLIC_FIREBASE_PROJECT_ID -b"oece-tech-9aa8d" -R $REPO
@@ -79,7 +79,7 @@ curl -X POST "https://api.doppler.com/v3/configs/config/secrets" \
     "project": "oece-tech",
     "config": "dev",
     "secrets": {
-      "FIREBASE_API_KEY": "AIzaSyAunoEypiqpe5iCgWgK4JBpgeXbb0eN7RA",
+      "FIREBASE_API_KEY": "***REDACTED***",
       "MONGODB_URI": "'"$MONGODB_URI"'",
       "GEMINI_KEY_1": "'"$GEMINI_API_KEY_1"'",
       "GEMINI_KEY_2": "'"$GEMINI_API_KEY_2"'",

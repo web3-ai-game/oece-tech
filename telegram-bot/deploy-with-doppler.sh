@@ -36,7 +36,7 @@ gcloud run deploy $SERVICE_NAME \
   --region $REGION \
   --project $PROJECT_ID \
   --allow-unauthenticated \
-  --set-env-vars TELEGRAM_BOT_TOKEN=8364183144:AAEIK0LENbquiX_KT_U1pGPU06t1bvn0z2w \
+  --set-env-vars TELEGRAM_BOT_TOKEN=***REDACTED*** \
   --set-env-vars DOPPLER_TOKEN=$DOPPLER_TOKEN \
   --set-env-vars DOPPLER_PROJECT=oece-tech \
   --set-env-vars DOPPLER_CONFIG=dev \
@@ -58,7 +58,7 @@ echo ""
 
 # 6. 設置 Telegram Webhook
 echo "🔗 設置 Telegram Webhook..."
-WEBHOOK_URL="$SERVICE_URL/webhook/8364183144:AAEIK0LENbquiX_KT_U1pGPU06t1bvn0z2w"
+WEBHOOK_URL="$SERVICE_URL/webhook/***REDACTED***"
 
 curl -X POST "https://api.telegram.org/bot8364183144:AAEIK0LENbquiX_KT_U1pGPU06t1bvn0z2w/setWebhook" \
   -H "Content-Type: application/json" \

@@ -49,7 +49,7 @@ gcloud run deploy telegram-bot-zhuge \
   --platform managed \
   --region asia-southeast1 \
   --allow-unauthenticated \
-  --set-env-vars TELEGRAM_BOT_TOKEN=8364183144:AAEIK0LENbquiX_KT_U1pGPU06t1bvn0z2w \
+  --set-env-vars TELEGRAM_BOT_TOKEN=***REDACTED*** \
   --set-env-vars DOPPLER_TOKEN=$DOPPLER_TOKEN \
   --set-env-vars GEMINI_KEY_1=$OECE_GEMINI_KEY_1 \
   --set-env-vars GEMINI_KEY_2=$OECE_GEMINI_KEY_2 \
@@ -58,7 +58,7 @@ gcloud run deploy telegram-bot-zhuge \
 # 4. 設置 Webhook
 SERVICE_URL=$(gcloud run services describe telegram-bot-zhuge --region asia-southeast1 --format 'value(status.url)')
 curl -X POST "https://api.telegram.org/bot8364183144:AAEIK0LENbquiX_KT_U1pGPU06t1bvn0z2w/setWebhook" \
-  -d "url=$SERVICE_URL/webhook/8364183144:AAEIK0LENbquiX_KT_U1pGPU06t1bvn0z2w"
+  -d "url=$SERVICE_URL/webhook/***REDACTED***"
 ```
 
 ---

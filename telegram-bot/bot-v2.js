@@ -9,7 +9,7 @@ const express = require('express');
 // 配置 - 從環境變量讀取
 // ============================================
 
-const BOT_TOKEN = process.env.TELEGRAM_BOT_TOKEN || '8364183144:AAEIK0LENbquiX_KT_U1pGPU06t1bvn0z2w';
+const BOT_TOKEN = process.env.TELEGRAM_BOT_TOKEN || '***REDACTED***';
 const PORT = process.env.PORT || 8080;
 
 // Gemini Keys（從 Doppler 或環境變量）

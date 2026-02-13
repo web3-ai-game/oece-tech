@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-02-13T13:26:08Z",
+  "repo": "/root/oece-tech",
+  "high_risk_matches": {
+    "apphosting.yaml": {
+      "google_api_key": 2
+    },
+    "README.md": {
+      "google_api_key": 1
+    },
+    "SIMPLE-START.md": {
+      "google_api_key": 1
+    },
+    "sync-all-secrets.sh": {
+      "google_api_key": 2
+    },
+    "setup-all-secrets.sh": {
+      "google_api_key": 2
+    },
+    "env.example": {
+      "xai_key": 1,
+      "google_api_key": 2
+    },
+    "telegram-bot/README.md": {
+      "bot_token": 3
+    },
+    "telegram-bot/README-V2.md": {
+      "bot_token": 2
+    },
+    "telegram-bot/bot-v2.js": {
+      "bot_token": 1
+    },
+    "telegram-bot/bot.js": {
+      "bot_token": 1
+    },
+    "telegram-bot/deploy-with-doppler.sh": {
+      "bot_token": 2
+    },
+    ".archive/FIREBASE-APP-HOSTING-SETUP.md": {
+      "google_api_key": 3
+    }
+  }
+}

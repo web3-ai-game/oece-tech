@@ -27,7 +27,7 @@ if (hasValidConfig) {
 runConfig:
   env:
     - variable: NEXT_PUBLIC_FIREBASE_API_KEY
-      value: AIzaSyAunoEypiqpe5iCgWgK4JBpgeXbb0eN7RA
+      value: ***REDACTED***
     # ... 其他變量
 ```
 
@@ -52,7 +52,7 @@ runConfig:
 
 | 變量名 | 值 |
 |--------|-----|
-| `NEXT_PUBLIC_FIREBASE_API_KEY` | `AIzaSyAunoEypiqpe5iCgWgK4JBpgeXbb0eN7RA` |
+| `NEXT_PUBLIC_FIREBASE_API_KEY` | `***REDACTED***` |
 | `NEXT_PUBLIC_FIREBASE_AUTH_DOMAIN` | `oece-tech-9aa8d.firebaseapp.com` |
 | `NEXT_PUBLIC_FIREBASE_DATABASE_URL` | `https://oece-tech-9aa8d-default-rtdb.asia-southeast1.firebasedatabase.app` |
 | `NEXT_PUBLIC_FIREBASE_PROJECT_ID` | `oece-tech-9aa8d` |
@@ -76,7 +76,7 @@ runConfig:
 2. 選擇最新的構建
 3. 查看日誌中是否有：
    ```
-   NEXT_PUBLIC_FIREBASE_API_KEY=AIzaSyAunoEypiqpe5iCgWgK4JBpgeXbb0eN7RA
+   NEXT_PUBLIC_FIREBASE_API_KEY=***REDACTED***
    ```
 
 ### 方法 2: 檢查構建是否成功
