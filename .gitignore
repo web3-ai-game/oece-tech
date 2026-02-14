@@ -43,3 +43,4 @@ CCC/
 projects/
 env.local
 .env.local
+knowledge/raw/
